@@ -1,0 +1,3144 @@
+State,County,SNAP redemptions per SNAP-authorized stores 2017 (REDEMP_SNAPS17),Units,FIPS,FID
+Alabama,Autauga,223185.67835820897,Dollars/store,1001,5
+Alabama,Baldwin,157623.13356797185,Dollars/store,1003,20
+Alabama,Barbour,257032.07888888888,Dollars/store,1005,25
+Alabama,Bibb,227725.24513761466,Dollars/store,1007,29
+Alabama,Blount,142860.82556016598,Dollars/store,1009,33
+Alabama,Bullock,170993.92131147542,Dollars/store,1011,37
+Alabama,Butler,302939.2254180602,Dollars/store,1013,39
+Alabama,Calhoun,235151.7624264706,Dollars/store,1015,43
+Alabama,Chambers,270507.9227102804,Dollars/store,1017,47
+Alabama,Cherokee,174410.52911854102,Dollars/store,1019,51
+Alabama,Chilton,179241.60094117647,Dollars/store,1021,56
+Alabama,Choctaw,190980.33364161852,Dollars/store,1023,58
+Alabama,Clarke,347058.4692165899,Dollars/store,1025,61
+Alabama,Clay,116561.48776119403,Dollars/store,1027,65
+Alabama,Cleburne,141533.0975342466,Dollars/store,1029,67
+Alabama,Coffee,276972.324140625,Dollars/store,1031,70
+Alabama,Colbert,166642.45873015875,Dollars/store,1033,73
+Alabama,Conecuh,192660.2677894737,Dollars/store,1035,80
+Alabama,Coosa,106860.97142857143,Dollars/store,1037,82
+Alabama,Covington,209586.83093990752,Dollars/store,1039,88
+Alabama,Crenshaw,138518.58655462184,Dollars/store,1041,90
+Alabama,Cullman,173747.71680539934,Dollars/store,1043,98
+Alabama,Dale,196266.0927272727,Dollars/store,1045,101
+Alabama,Dallas,517993.0055725191,Dollars/store,1047,110
+Alabama,DeKalb,191554.51763987791,Dollars/store,1049,112
+Alabama,Elmore,266212.32598503743,Dollars/store,1051,118
+Alabama,Escambia,247229.13457425742,Dollars/store,1053,122
+Alabama,Etowah,155505.79382488478,Dollars/store,1055,131
+Alabama,Fayette,294341.1657142857,Dollars/store,1057,134
+Alabama,Franklin,230148.45188916876,Dollars/store,1059,138
+Alabama,Geneva,209348.22775725595,Dollars/store,1061,140
+Alabama,Greene,109714.85662921348,Dollars/store,1063,148
+Alabama,Hale,225814.76350877192,Dollars/store,1065,150
+Alabama,Henry,124707.13192052979,Dollars/store,1067,158
+Alabama,Houston,246409.55275609758,Dollars/store,1069,160
+Alabama,Jackson,163199.5805076142,Dollars/store,1071,164
+Alabama,Jefferson,274152.59474901215,Dollars/store,1073,171
+Alabama,Lamar,154912.93275,Dollars/store,1075,174
+Alabama,Lauderdale,174954.72257833483,Dollars/store,1077,176
+Alabama,Lawrence,216785.0513761468,Dollars/store,1079,181
+Alabama,Lee,236835.24069651743,Dollars/store,1081,187
+Alabama,Limestone,174496.42393120393,Dollars/store,1083,197
+Alabama,Lowndes,116757.38188679246,Dollars/store,1085,205
+Alabama,Macon,254555.43555555554,Dollars/store,1087,210
+Alabama,Madison,243286.62619379352,Dollars/store,1089,217
+Alabama,Marengo,376239.56583941606,Dollars/store,1091,220
+Alabama,Marion,308877.2792647059,Dollars/store,1093,224
+Alabama,Marshall,263520.1931125828,Dollars/store,1095,231
+Alabama,Mobile,268164.0977387713,Dollars/store,1097,240
+Alabama,Monroe,231100.92974999998,Dollars/store,1099,250
+Alabama,Montgomery,393956.20504096756,Dollars/store,1101,256
+Alabama,Morgan,201213.55169491528,Dollars/store,1103,262
+Alabama,Perry,225434.97203007518,Dollars/store,1105,264
+Alabama,Pickens,140031.3539189189,Dollars/store,1107,273
+Alabama,Pike,279291.0933924612,Dollars/store,1109,279
+Alabama,Randolph,239240.4825910931,Dollars/store,1111,284
+Alabama,Russell,335457.5840536913,Dollars/store,1113,288
+Alabama,St. Clair,189329.64364454444,Dollars/store,1115,292
+Alabama,Shelby,169724.22789579158,Dollars/store,1117,298
+Alabama,Sumter,162976.93656903764,Dollars/store,1119,303
+Alabama,Talladega,181947.39557105492,Dollars/store,1121,306
+Alabama,Tallapoosa,223794.63688622756,Dollars/store,1123,308
+Alabama,Tuscaloosa,256168.33353061223,Dollars/store,1125,313
+Alabama,Walker,240337.40800915335,Dollars/store,1127,317
+Alabama,Washington,102199.50959999999,Dollars/store,1129,319
+Alabama,Wilcox,98857.29013100438,Dollars/store,1131,326
+Alabama,Winston,186238.2232,Dollars/store,1133,332
+Alaska,Aleutians East,66573.378,Dollars/store,2013,346
+Alaska,Aleutians West,nan,Dollars/store,2016,381
+Alaska,Anchorage,512195.13504613197,Dollars/store,2020,400
+Alaska,Bethel,466936.8639741518,Dollars/store,2050,411
+Alaska,Bristol Bay,nan,Dollars/store,2060,423
+Alaska,Denali,nan,Dollars/store,2068,426
+Alaska,Dillingham,461380.77125,Dollars/store,2070,445
+Alaska,Fairbanks North Star,525898.7353548388,Dollars/store,2090,454
+Alaska,Haines,nan,Dollars/store,2100,462
+Alaska,Hoonah-Angoon,nan,Dollars/store,2105,476
+Alaska,Juneau,526015.3508333333,Dollars/store,2110,482
+Alaska,Kenai Peninsula,292157.6982232346,Dollars/store,2122,494
+Alaska,Ketchikan Gateway,412177.79727272724,Dollars/store,2130,514
+Alaska,Kodiak Island,176145.68038834952,Dollars/store,2150,533
+Alaska,Lake and Peninsula,96698.74888888889,Dollars/store,2164,544
+Alaska,Matanuska-Susitna,495103.9294871795,Dollars/store,2170,556
+Alaska,Nome,429378.5759197324,Dollars/store,2180,571
+Alaska,North Slope,253788.10489510492,Dollars/store,2185,614
+Alaska,Northwest Arctic,341286.3341463414,Dollars/store,2188,638
+Alaska,Petersburg,nan,Dollars/store,2195,645
+Alaska,Prince of Wales-Hyder,nan,Dollars/store,2198,669
+Alaska,Sitka,nan,Dollars/store,2220,679
+Alaska,Skagway,nan,Dollars/store,2230,683
+Alaska,Southeast Fairbanks,216785.95774647887,Dollars/store,2240,690
+Alaska,Valdez-Cordova,81587.96561403509,Dollars/store,2261,710
+Alaska,Wade Hampton,nan,Dollars/store,2270,725
+Alaska,Wrangell,nan,Dollars/store,2275,733
+Alaska,Yakutat,nan,Dollars/store,2282,744
+Alaska,Yukon-Koyukuk,90585.07642105262,Dollars/store,2290,753
+Arizona,Apache,399120.12065217394,Dollars/store,4001,761
+Arizona,Cochise,322208.8755080214,Dollars/store,4003,763
+Arizona,Coconino,340925.3403760072,Dollars/store,4005,771
+Arizona,Gila,383256.2109497207,Dollars/store,4007,787
+Arizona,Graham,383764.14389078494,Dollars/store,4009,0
+Arizona,Greenlee,78616.51338842975,Dollars/store,4011,1
+Arizona,La Paz,149999.15287410925,Dollars/store,4012,3
+Arizona,Maricopa,325480.1338528347,Dollars/store,4013,9
+Arizona,Mohave,338195.3227197346,Dollars/store,4015,15
+Arizona,Navajo,441813.4142142857,Dollars/store,4017,17
+Arizona,Pima,344219.05560679274,Dollars/store,4019,21
+Arizona,Pinal,374025.78606399184,Dollars/store,4021,26
+Arizona,Santa Cruz,593721.0748623853,Dollars/store,4023,32
+Arizona,Yavapai,181999.0949144812,Dollars/store,4025,35
+Arizona,Yuma,537500.4912866817,Dollars/store,4027,42
+Arkansas,Arkansas,220295.89736842105,Dollars/store,5001,46
+Arkansas,Ashley,237844.1033898305,Dollars/store,5003,50
+Arkansas,Baxter,180039.30738916257,Dollars/store,5005,54
+Arkansas,Benton,159343.4274029126,Dollars/store,5007,59
+Arkansas,Boone,247721.77078651686,Dollars/store,5009,62
+Arkansas,Bradley,221326.7112195122,Dollars/store,5011,68
+Arkansas,Calhoun,38885.9275,Dollars/store,5013,72
+Arkansas,Carroll,162865.63324675325,Dollars/store,5015,74
+Arkansas,Chicot,86819.80725,Dollars/store,5017,77
+Arkansas,Clark,178648.54352941178,Dollars/store,5019,86
+Arkansas,Clay,114936.15060402686,Dollars/store,5021,93
+Arkansas,Cleburne,127860.36044609665,Dollars/store,5023,97
+Arkansas,Cleveland,120053.0325,Dollars/store,5025,103
+Arkansas,Columbia,279013.4855172414,Dollars/store,5027,107
+Arkansas,Conway,160679.2723018868,Dollars/store,5029,109
+Arkansas,Craighead,206913.91801539776,Dollars/store,5031,114
+Arkansas,Crawford,208769.54318181818,Dollars/store,5033,115
+Arkansas,Crittenden,273237.3612151899,Dollars/store,5035,119
+Arkansas,Cross,191542.06773333333,Dollars/store,5037,124
+Arkansas,Dallas,118923.88732394365,Dollars/store,5039,128
+Arkansas,Desha,252773.93736263737,Dollars/store,5041,130
+Arkansas,Drew,283599.01578947366,Dollars/store,5043,136
+Arkansas,Faulkner,226067.1911564626,Dollars/store,5045,141
+Arkansas,Franklin,127583.47239130434,Dollars/store,5047,144
+Arkansas,Fulton,110537.89978021978,Dollars/store,5049,146
+Arkansas,Garland,259480.5740880503,Dollars/store,5051,151
+Arkansas,Grant,162212.20143884892,Dollars/store,5053,155
+Arkansas,Greene,226809.7603448276,Dollars/store,5055,162
+Arkansas,Hempstead,261491.7182142857,Dollars/store,5057,172
+Arkansas,Hot Spring,167979.62267441858,Dollars/store,5059,184
+Arkansas,Howard,164833.7982524272,Dollars/store,5061,191
+Arkansas,Independence,227480.565,Dollars/store,5063,200
+Arkansas,Izard,83983.98947368421,Dollars/store,5065,203
+Arkansas,Jackson,189875.27634782606,Dollars/store,5067,209
+Arkansas,Jefferson,264481.56575079873,Dollars/store,5069,213
+Arkansas,Johnson,211061.4548698885,Dollars/store,5071,218
+Arkansas,Lafayette,47301.68714285714,Dollars/store,5073,222
+Arkansas,Lawrence,113260.64199095021,Dollars/store,5075,230
+Arkansas,Lee,191786.01599999997,Dollars/store,5077,237
+Arkansas,Lincoln,113395.16689655173,Dollars/store,5079,244
+Arkansas,Little River,144485.34615384616,Dollars/store,5081,251
+Arkansas,Logan,178745.48035714283,Dollars/store,5083,258
+Arkansas,Lonoke,146144.6464285714,Dollars/store,5085,268
+Arkansas,Madison,160126.21741935483,Dollars/store,5087,277
+Arkansas,Marion,214243.0938842975,Dollars/store,5089,282
+Arkansas,Miller,199457.53276595744,Dollars/store,5091,287
+Arkansas,Mississippi,223232.9207829181,Dollars/store,5093,294
+Arkansas,Monroe,90947.54290909092,Dollars/store,5095,300
+Arkansas,Montgomery,89383.31,Dollars/store,5097,304
+Arkansas,Nevada,101514.95333333334,Dollars/store,5099,307
+Arkansas,Newton,73082.63538461538,Dollars/store,5101,311
+Arkansas,Ouachita,188860.80863999997,Dollars/store,5103,316
+Arkansas,Perry,120154.81714285715,Dollars/store,5105,318
+Arkansas,Phillips,269416.9323076923,Dollars/store,5107,322
+Arkansas,Pike,102922.01466666667,Dollars/store,5109,327
+Arkansas,Poinsett,178107.1054005935,Dollars/store,5111,333
+Arkansas,Polk,257803.0398,Dollars/store,5113,337
+Arkansas,Pope,255078.78024291497,Dollars/store,5115,340
+Arkansas,Prairie,80138.01094736843,Dollars/store,5117,345
+Arkansas,Pulaski,248218.82682722516,Dollars/store,5119,350
+Arkansas,Randolph,211682.5748780488,Dollars/store,5121,353
+Arkansas,St. Francis,243607.47,Dollars/store,5123,357
+Arkansas,Saline,149409.38615384614,Dollars/store,5125,360
+Arkansas,Scott,142149.75428571427,Dollars/store,5127,364
+Arkansas,Searcy,80879.70000000001,Dollars/store,5129,372
+Arkansas,Sebastian,258197.82415841587,Dollars/store,5131,378
+Arkansas,Sevier,195863.76564102565,Dollars/store,5133,390
+Arkansas,Sharp,270105.6840609137,Dollars/store,5135,394
+Arkansas,Stone,250428.26192307693,Dollars/store,5137,399
+Arkansas,Union,262817.3972519084,Dollars/store,5139,403
+Arkansas,Van Buren,212038.5650909091,Dollars/store,5141,407
+Arkansas,Washington,152993.51894409937,Dollars/store,5143,417
+Arkansas,White,198114.4802708804,Dollars/store,5145,428
+Arkansas,Woodruff,112622.009,Dollars/store,5147,435
+Arkansas,Yell,99496.54800000001,Dollars/store,5149,438
+California,Alameda,207393.66938168847,Dollars/store,6001,457
+California,Alpine,nan,Dollars/store,6003,461
+California,Amador,204303.58038781164,Dollars/store,6005,472
+California,Butte,267961.29323818017,Dollars/store,6007,486
+California,Calaveras,102673.49894736843,Dollars/store,6009,489
+California,Colusa,53569.68485294117,Dollars/store,6011,497
+California,Contra Costa,217550.51562530652,Dollars/store,6013,503
+California,Del Norte,284133.8556037152,Dollars/store,6015,511
+California,El Dorado,140677.39061538462,Dollars/store,6017,522
+California,Fresno,389663.0873515339,Dollars/store,6019,527
+California,Glenn,135839.92875,Dollars/store,6021,537
+California,Humboldt,255839.68264591438,Dollars/store,6023,551
+California,Imperial,521521.4652086331,Dollars/store,6025,557
+California,Inyo,168969.0712690355,Dollars/store,6027,562
+California,Kern,350291.0658734477,Dollars/store,6029,84
+California,Kings,346743.9050862716,Dollars/store,6031,94
+California,Lake,298877.6059016394,Dollars/store,6033,100
+California,Lassen,182141.4512455516,Dollars/store,6035,104
+California,Los Angeles,281438.2398500423,Dollars/store,6037,139
+California,Madera,268686.3413084112,Dollars/store,6039,153
+California,Marin,131482.37295471987,Dollars/store,6041,168
+California,Mariposa,167134.5077777778,Dollars/store,6043,178
+California,Mendocino,210902.0281521739,Dollars/store,6045,190
+California,Merced,343819.89774228673,Dollars/store,6047,204
+California,Modoc,110332.53860465117,Dollars/store,6049,207
+California,Mono,77497.44444444444,Dollars/store,6051,214
+California,Monterey,264161.80283600494,Dollars/store,6053,228
+California,Napa,179581.217075718,Dollars/store,6055,236
+California,Nevada,176888.44203488372,Dollars/store,6057,243
+California,Orange,268578.061989228,Dollars/store,6059,257
+California,Placer,135132.17667458433,Dollars/store,6061,266
+California,Plumas,101971.16617449664,Dollars/store,6063,275
+California,Riverside,363191.2707482993,Dollars/store,6065,281
+California,Sacramento,350459.97152740817,Dollars/store,6067,289
+California,San Benito,211377.8508387097,Dollars/store,6069,295
+California,San Bernardino,419335.1696894715,Dollars/store,6071,302
+California,San Diego,252463.14773927644,Dollars/store,6073,315
+California,San Francisco,163098.72456073342,Dollars/store,6075,331
+California,San Joaquin,330977.25982490275,Dollars/store,6077,339
+California,San Luis Obispo,165897.207641196,Dollars/store,6079,351
+California,San Mateo,158988.20529750478,Dollars/store,6081,368
+California,Santa Barbara,255297.93614280713,Dollars/store,6083,391
+California,Santa Clara,192973.48749111904,Dollars/store,6085,406
+California,Santa Cruz,244977.9918041511,Dollars/store,6087,415
+California,Shasta,236084.0018291457,Dollars/store,6089,431
+California,Sierra,nan,Dollars/store,6091,439
+California,Siskiyou,160651.6306451613,Dollars/store,6093,446
+California,Solano,275444.1884657236,Dollars/store,6095,453
+California,Sonoma,159624.44638145182,Dollars/store,6097,463
+California,Stanislaus,298303.6440310078,Dollars/store,6099,473
+California,Sutter,292885.88629343634,Dollars/store,6101,483
+California,Tehama,187316.92970711298,Dollars/store,6103,492
+California,Trinity,51095.61992031873,Dollars/store,6105,500
+California,Tulare,408218.2059502896,Dollars/store,6107,501
+California,Tuolumne,210365.84332640332,Dollars/store,6109,513
+California,Ventura,248949.8214923077,Dollars/store,6111,521
+California,Yolo,177939.8385802817,Dollars/store,6113,525
+California,Yuba,230402.40309202453,Dollars/store,6115,541
+Colorado,Adams,304681.5617403608,Dollars/store,8001,545
+Colorado,Alamosa,595766.0757446808,Dollars/store,8003,549
+Colorado,Arapahoe,287000.674990991,Dollars/store,8005,558
+Colorado,Archuleta,175057.50179104478,Dollars/store,8007,560
+Colorado,Baca,44819.27,Dollars/store,8009,563
+Colorado,Bent,189684.23,Dollars/store,8011,564
+Colorado,Boulder,146902.32384720328,Dollars/store,8013,570
+Colorado,Broomfield,182715.294,Dollars/store,8014,577
+Colorado,Chaffee,140934.7708695652,Dollars/store,8015,582
+Colorado,Cheyenne,nan,Dollars/store,8017,587
+Colorado,Clear Creek,74689.19376623376,Dollars/store,8019,591
+Colorado,Conejos,139007.59787234044,Dollars/store,8021,596
+Colorado,Costilla,38752.10333333333,Dollars/store,8023,599
+Colorado,Crowley,nan,Dollars/store,8025,605
+Colorado,Custer,nan,Dollars/store,8027,610
+Colorado,Delta,449109.24079999997,Dollars/store,8029,617
+Colorado,Denver,281410.491382511,Dollars/store,8031,628
+Colorado,Dolores,nan,Dollars/store,8033,636
+Colorado,Douglas,89622.63372549019,Dollars/store,8035,644
+Colorado,Eagle,125458.65555555554,Dollars/store,8037,648
+Colorado,Elbert,nan,Dollars/store,8039,655
+Colorado,El Paso,335762.7770290456,Dollars/store,8041,661
+Colorado,Fremont,564080.2604347826,Dollars/store,8043,664
+Colorado,Garfield,137320.05675675673,Dollars/store,8045,667
+Colorado,Gilpin,nan,Dollars/store,8047,672
+Colorado,Grand,74511.56783505154,Dollars/store,8049,677
+Colorado,Gunnison,130284.22285714286,Dollars/store,8051,682
+Colorado,Hinsdale,nan,Dollars/store,8053,688
+Colorado,Huerfano,216768.3918584071,Dollars/store,8055,693
+Colorado,Jackson,nan,Dollars/store,8057,701
+Colorado,Jefferson,248216.3899285714,Dollars/store,8059,706
+Colorado,Kiowa,nan,Dollars/store,8061,711
+Colorado,Kit Carson,78671.39555555556,Dollars/store,8063,716
+Colorado,Lake,77429.1557142857,Dollars/store,8065,721
+Colorado,La Plata,235420.7416551724,Dollars/store,8067,727
+Colorado,Larimer,308831.6972792363,Dollars/store,8069,734
+Colorado,Las Animas,452063.0736690647,Dollars/store,8071,741
+Colorado,Lincoln,64574.77043478261,Dollars/store,8073,747
+Colorado,Logan,450216.07116279064,Dollars/store,8075,749
+Colorado,Mesa,357328.1193527508,Dollars/store,8077,751
+Colorado,Mineral,nan,Dollars/store,8079,757
+Colorado,Moffat,200602.36,Dollars/store,8081,758
+Colorado,Montezuma,417503.35325301206,Dollars/store,8083,766
+Colorado,Montrose,303508.9402247191,Dollars/store,8085,769
+Colorado,Morgan,161087.50251655627,Dollars/store,8087,775
+Colorado,Otero,401172.3275675676,Dollars/store,8089,777
+Colorado,Ouray,nan,Dollars/store,8091,780
+Colorado,Park,55128.656,Dollars/store,8093,782
+Colorado,Phillips,nan,Dollars/store,8095,785
+Colorado,Pitkin,56375.6325,Dollars/store,8097,789
+Colorado,Prowers,284322.8623076923,Dollars/store,8099,792
+Colorado,Pueblo,516134.9003360117,Dollars/store,8101,795
+Colorado,Rio Blanco,38452.42333333333,Dollars/store,8103,799
+Colorado,Rio Grande,151610.01513513512,Dollars/store,8105,802
+Colorado,Routt,89751.88127388534,Dollars/store,8107,809
+Colorado,Saguache,72415.6125,Dollars/store,8109,811
+Colorado,San Juan,nan,Dollars/store,8111,347
+Colorado,San Miguel,40212.49862068966,Dollars/store,8113,359
+Colorado,Sedgwick,nan,Dollars/store,8115,366
+Colorado,Summit,76717.41875,Dollars/store,8117,373
+Colorado,Teller,179336.52000000002,Dollars/store,8119,375
+Colorado,Washington,nan,Dollars/store,8121,377
+Colorado,Weld,278746.8334943182,Dollars/store,8123,382
+Colorado,Yuma,85572.761,Dollars/store,8125,385
+Connecticut,Fairfield,266913.3549821641,Dollars/store,9001,410
+Connecticut,Hartford,313547.38083127036,Dollars/store,9003,432
+Connecticut,Litchfield,177056.60727272727,Dollars/store,9005,443
+Connecticut,Middlesex,175380.5518766067,Dollars/store,9007,450
+Connecticut,New Haven,310987.720131309,Dollars/store,9009,466
+Connecticut,New London,240259.07840366973,Dollars/store,9011,517
+Connecticut,Tolland,113929.22520670392,Dollars/store,9013,524
+Connecticut,Windham,281178.7561459308,Dollars/store,9015,529
+Delaware,Kent,318456.92292746116,Dollars/store,10001,532
+Delaware,New Castle,293951.6092160929,Dollars/store,10003,536
+Delaware,Sussex,264217.07063793106,Dollars/store,10005,609
+District of Columbia,District of Columbia,287319.8573810066,Dollars/store,11001,630
+Florida,Alachua,344785.33571313455,Dollars/store,12001,639
+Florida,Baker,289725.80094488186,Dollars/store,12003,641
+Florida,Bay,222136.7647665848,Dollars/store,12005,658
+Florida,Bradford,345485.2166850828,Dollars/store,12007,665
+Florida,Brevard,294595.1295112379,Dollars/store,12009,686
+Florida,Broward,537485.398477182,Dollars/store,12011,695
+Florida,Calhoun,207286.69487603306,Dollars/store,12013,699
+Florida,Charlotte,276142.2299101796,Dollars/store,12015,743
+Florida,Citrus,264487.11481865286,Dollars/store,12017,843
+Florida,Clay,277956.846343949,Dollars/store,12019,852
+Florida,Collier,313597.8647849883,Dollars/store,12021,894
+Florida,Columbia,344436.9598862559,Dollars/store,12023,903
+Florida,DeSoto,438889.37775216135,Dollars/store,12027,906
+Florida,Dixie,244813.9984390244,Dollars/store,12029,918
+Florida,Duval,366794.883759063,Dollars/store,12031,924
+Florida,Escambia,266537.7736219817,Dollars/store,12033,931
+Florida,Flagler,339534.70039840636,Dollars/store,12035,935
+Florida,Franklin,128886.3111764706,Dollars/store,12037,937
+Florida,Gadsden,240148.91257142858,Dollars/store,12039,938
+Florida,Gilchrist,102798.74571428572,Dollars/store,12041,939
+Florida,Glades,55552.87594936709,Dollars/store,12043,940
+Florida,Gulf,108863.2176,Dollars/store,12045,941
+Florida,Hamilton,100288.83467680607,Dollars/store,12047,942
+Florida,Hardee,339412.5971346705,Dollars/store,12049,943
+Florida,Hendry,641907.7778666667,Dollars/store,12051,944
+Florida,Hernando,439706.09390820586,Dollars/store,12053,945
+Florida,Highlands,388257.74317399616,Dollars/store,12055,946
+Florida,Hillsborough,408707.7244733632,Dollars/store,12057,947
+Florida,Holmes,115633.0290909091,Dollars/store,12059,948
+Florida,Indian River,340959.65741839766,Dollars/store,12061,949
+Florida,Jackson,226095.35313131314,Dollars/store,12063,950
+Florida,Jefferson,122063.79652173915,Dollars/store,12065,951
+Florida,Lafayette,149437.3757142857,Dollars/store,12067,952
+Florida,Lake,348543.14377659577,Dollars/store,12069,953
+Florida,Lee,351938.05868936173,Dollars/store,12071,954
+Florida,Leon,250404.17828188918,Dollars/store,12073,955
+Florida,Levy,352997.6181443299,Dollars/store,12075,956
+Florida,Liberty,102571.36733944954,Dollars/store,12077,957
+Florida,Madison,155368.2796153846,Dollars/store,12079,958
+Florida,Manatee,336692.9815929203,Dollars/store,12081,959
+Florida,Marion,348684.21224532224,Dollars/store,12083,960
+Florida,Martin,223324.5310037175,Dollars/store,12085,961
+Florida,Miami-Dade,858017.8065331095,Dollars/store,12086,962
+Florida,Monroe,208247.3568275862,Dollars/store,12087,963
+Florida,Nassau,178182.031212938,Dollars/store,12089,964
+Florida,Okaloosa,191782.71532769557,Dollars/store,12091,965
+Florida,Okeechobee,364945.3011091234,Dollars/store,12093,966
+Florida,Orange,452332.9686462961,Dollars/store,12095,967
+Florida,Osceola,679707.6362721474,Dollars/store,12097,968
+Florida,Palm Beach,432999.160505106,Dollars/store,12099,969
+Florida,Pasco,355881.0528742515,Dollars/store,12101,970
+Florida,Pinellas,279075.39204960834,Dollars/store,12103,971
+Florida,Polk,404215.15851942485,Dollars/store,12105,972
+Florida,Putnam,365646.9435252436,Dollars/store,12107,973
+Florida,St. Johns,184889.8712021136,Dollars/store,12109,974
+Florida,St. Lucie,477254.02463755826,Dollars/store,12111,975
+Florida,Santa Rosa,200495.69910979227,Dollars/store,12113,976
+Florida,Sarasota,206304.80580060423,Dollars/store,12115,977
+Florida,Seminole,363437.9419044794,Dollars/store,12117,978
+Florida,Sumter,238440.38679900742,Dollars/store,12119,979
+Florida,Suwannee,315102.17316923075,Dollars/store,12121,980
+Florida,Taylor,211885.78766666667,Dollars/store,12123,981
+Florida,Union,170027.82416666666,Dollars/store,12125,982
+Florida,Volusia,331012.44392067986,Dollars/store,12127,983
+Florida,Wakulla,158907.3623661972,Dollars/store,12129,984
+Florida,Walton,204688.07530726254,Dollars/store,12131,985
+Florida,Washington,309767.78831460676,Dollars/store,12133,986
+Georgia,Appling,264283.7738181818,Dollars/store,13001,987
+Georgia,Atkinson,122810.59253731344,Dollars/store,13003,988
+Georgia,Bacon,185948.10534653466,Dollars/store,13005,989
+Georgia,Baker,95534.8325,Dollars/store,13007,990
+Georgia,Baldwin,303134.6461077845,Dollars/store,13009,991
+Georgia,Banks,237731.74958904108,Dollars/store,13011,992
+Georgia,Barrow,233062.1478672986,Dollars/store,13013,993
+Georgia,Bartow,168015.938630137,Dollars/store,13015,994
+Georgia,Ben Hill,243861.78481481483,Dollars/store,13017,995
+Georgia,Berrien,124891.83588424437,Dollars/store,13019,996
+Georgia,Bibb,329065.89979734994,Dollars/store,13021,997
+Georgia,Bleckley,191532.02805194803,Dollars/store,13023,998
+Georgia,Brantley,127749.50967741935,Dollars/store,13025,999
+Georgia,Brooks,136271.4740625,Dollars/store,13027,565
+Georgia,Bryan,172354.6511392405,Dollars/store,13029,573
+Georgia,Bulloch,243188.05238558908,Dollars/store,13031,579
+Georgia,Burke,313938.7790769231,Dollars/store,13033,583
+Georgia,Butts,155193.89147826086,Dollars/store,13035,588
+Georgia,Calhoun,158753.544,Dollars/store,13037,592
+Georgia,Camden,227194.75431693989,Dollars/store,13039,603
+Georgia,Candler,150936.85432098765,Dollars/store,13043,616
+Georgia,Carroll,253822.17561625584,Dollars/store,13045,620
+Georgia,Catoosa,236945.08263736265,Dollars/store,13047,626
+Georgia,Charlton,130353.67875,Dollars/store,13049,635
+Georgia,Chatham,248065.9737492643,Dollars/store,13051,646
+Georgia,Chattahoochee,121712.7675,Dollars/store,13053,656
+Georgia,Chattooga,243816.48657534245,Dollars/store,13055,659
+Georgia,Cherokee,195229.93692416727,Dollars/store,13057,662
+Georgia,Clarke,278862.3553605948,Dollars/store,13059,666
+Georgia,Clay,148351.19538461542,Dollars/store,13061,670
+Georgia,Clayton,477353.49435263494,Dollars/store,13063,673
+Georgia,Clinch,43091.25523809524,Dollars/store,13065,676
+Georgia,Cobb,243214.8412446614,Dollars/store,13067,680
+Georgia,Coffee,242848.30350631135,Dollars/store,13069,684
+Georgia,Colquitt,256756.94768,Dollars/store,13071,689
+Georgia,Columbia,328648.3907444668,Dollars/store,13073,692
+Georgia,Cook,227371.97469964667,Dollars/store,13075,697
+Georgia,Coweta,242008.64149176062,Dollars/store,13077,700
+Georgia,Crawford,56226.697425742575,Dollars/store,13079,704
+Georgia,Crisp,302733.4532803181,Dollars/store,13081,707
+Georgia,Dade,111831.73927272728,Dollars/store,13083,708
+Georgia,Dawson,213096.8892857143,Dollars/store,13085,713
+Georgia,Decatur,264084.6603327172,Dollars/store,13087,714
+Georgia,DeKalb,390942.349727912,Dollars/store,13089,718
+Georgia,Dodge,278489.0639130435,Dollars/store,13091,720
+Georgia,Dooly,129764.3397356828,Dollars/store,13093,724
+Georgia,Dougherty,425822.69197155786,Dollars/store,13095,728
+Georgia,Douglas,418638.0861561119,Dollars/store,13097,731
+Georgia,Early,358154.57,Dollars/store,13099,735
+Georgia,Echols,nan,Dollars/store,13101,737
+Georgia,Effingham,227000.006778043,Dollars/store,13103,742
+Georgia,Elbert,227864.3934375,Dollars/store,13105,746
+Georgia,Emanuel,300619.9620304568,Dollars/store,13107,750
+Georgia,Evans,164553.8882868526,Dollars/store,13109,754
+Georgia,Fannin,268539.12051948055,Dollars/store,13111,755
+Georgia,Fayette,294381.215388535,Dollars/store,13113,760
+Georgia,Floyd,254453.89477647058,Dollars/store,13115,764
+Georgia,Forsyth,105709.27364354697,Dollars/store,13117,768
+Georgia,Franklin,168584.2857142857,Dollars/store,13119,772
+Georgia,Fulton,318836.5857832268,Dollars/store,13121,779
+Georgia,Gilmer,238556.05542857145,Dollars/store,13123,781
+Georgia,Glascock,46459.27,Dollars/store,13125,783
+Georgia,Glynn,247440.717882919,Dollars/store,13127,793
+Georgia,Gordon,196056.70147058822,Dollars/store,13129,796
+Georgia,Grady,260981.32905660378,Dollars/store,13131,797
+Georgia,Greene,139063.4182524272,Dollars/store,13133,800
+Georgia,Gwinnett,286975.87946260924,Dollars/store,13135,804
+Georgia,Habersham,173999.29376146788,Dollars/store,13137,806
+Georgia,Hall,183189.24409025445,Dollars/store,13139,808
+Georgia,Hancock,80675.86074074075,Dollars/store,13141,810
+Georgia,Haralson,254322.91961813843,Dollars/store,13143,813
+Georgia,Harris,56493.96,Dollars/store,13145,814
+Georgia,Hart,269935.08842809364,Dollars/store,13147,816
+Georgia,Heard,113515.85677419355,Dollars/store,13149,817
+Georgia,Henry,378676.1917932149,Dollars/store,13151,820
+Georgia,Houston,279939.2270835838,Dollars/store,13153,823
+Georgia,Irwin,59406.502135922325,Dollars/store,13155,825
+Georgia,Jackson,161452.82719298246,Dollars/store,13157,828
+Georgia,Jasper,188560.715,Dollars/store,13159,830
+Georgia,Jeff Davis,284459.55210526317,Dollars/store,13161,832
+Georgia,Jefferson,209053.5442990654,Dollars/store,13163,834
+Georgia,Jenkins,144863.2697368421,Dollars/store,13165,835
+Georgia,Johnson,202505.4117293233,Dollars/store,13167,837
+Georgia,Jones,144920.2032,Dollars/store,13169,839
+Georgia,Lamar,220251.88875,Dollars/store,13171,841
+Georgia,Lanier,106593.45123966942,Dollars/store,13173,845
+Georgia,Laurens,289357.01915294124,Dollars/store,13175,847
+Georgia,Lee,195480.4906930693,Dollars/store,13177,849
+Georgia,Liberty,283212.4967148489,Dollars/store,13179,855
+Georgia,Lincoln,152817.37173913044,Dollars/store,13181,857
+Georgia,Long,77591.99878787878,Dollars/store,13183,860
+Georgia,Lowndes,316098.1489736842,Dollars/store,13185,863
+Georgia,Lumpkin,177273.38574898787,Dollars/store,13187,865
+Georgia,McDuffie,304442.985994695,Dollars/store,13189,868
+Georgia,McIntosh,136152.47405940594,Dollars/store,13191,871
+Georgia,Macon,101361.35546218489,Dollars/store,13193,874
+Georgia,Madison,113521.35,Dollars/store,13195,875
+Georgia,Marion,195388.22,Dollars/store,13197,877
+Georgia,Meriwether,148915.50115384615,Dollars/store,13199,879
+Georgia,Miller,212003.30099999998,Dollars/store,13201,881
+Georgia,Mitchell,220552.44,Dollars/store,13205,883
+Georgia,Monroe,192042.22448979592,Dollars/store,13207,885
+Georgia,Montgomery,103418.24462427747,Dollars/store,13209,887
+Georgia,Morgan,183208.77044117646,Dollars/store,13211,890
+Georgia,Murray,149078.8214736842,Dollars/store,13213,892
+Georgia,Muscogee,374367.509272097,Dollars/store,13215,896
+Georgia,Newton,416581.3610204081,Dollars/store,13217,899
+Georgia,Oconee,183964.3301930502,Dollars/store,13219,901
+Georgia,Oglethorpe,156326.13436893205,Dollars/store,13221,905
+Georgia,Paulding,203465.04789838335,Dollars/store,13223,908
+Georgia,Peach,184688.10861111112,Dollars/store,13225,910
+Georgia,Pickens,222403.36232876714,Dollars/store,13227,912
+Georgia,Pierce,157201.3639857651,Dollars/store,13229,915
+Georgia,Pike,95484.7855319149,Dollars/store,13231,7
+Georgia,Polk,250131.13054393308,Dollars/store,13233,8
+Georgia,Pulaski,176133.4273015873,Dollars/store,13235,11
+Georgia,Putnam,151326.22944281524,Dollars/store,13237,13
+Georgia,Quitman,nan,Dollars/store,13239,16
+Georgia,Rabun,209335.56918032788,Dollars/store,13241,18
+Georgia,Randolph,168663.58562874253,Dollars/store,13243,23
+Georgia,Richmond,304873.26725806453,Dollars/store,13245,24
+Georgia,Rockdale,361044.2374722838,Dollars/store,13247,28
+Georgia,Schley,nan,Dollars/store,13249,31
+Georgia,Screven,174433.73430656936,Dollars/store,13251,34
+Georgia,Seminole,330654.07470198674,Dollars/store,13253,38
+Georgia,Spalding,415496.7665399239,Dollars/store,13255,41
+Georgia,Stephens,312790.15008,Dollars/store,13257,45
+Georgia,Stewart,211234.4368421053,Dollars/store,13259,48
+Georgia,Sumter,318120.3091254753,Dollars/store,13261,52
+Georgia,Talbot,72324.90101694915,Dollars/store,13263,57
+Georgia,Taliaferro,nan,Dollars/store,13265,60
+Georgia,Tattnall,163199.81577981653,Dollars/store,13267,63
+Georgia,Taylor,140058.1375182482,Dollars/store,13269,69
+Georgia,Telfair,191979.16656716418,Dollars/store,13271,75
+Georgia,Terrell,223330.1516129032,Dollars/store,13273,78
+Georgia,Thomas,192313.05485714285,Dollars/store,13275,83
+Georgia,Tift,241643.55995530728,Dollars/store,13277,87
+Georgia,Toombs,344566.9972839506,Dollars/store,13279,91
+Georgia,Towns,84816.46352941176,Dollars/store,13281,95
+Georgia,Treutlen,109286.23007299271,Dollars/store,13283,102
+Georgia,Troup,266150.225508982,Dollars/store,13285,105
+Georgia,Turner,124542.5603827751,Dollars/store,13287,108
+Georgia,Twiggs,64362.46368,Dollars/store,13289,116
+Georgia,Union,167786.80897058823,Dollars/store,13291,120
+Georgia,Upson,295231.4209290953,Dollars/store,13293,123
+Georgia,Walker,160153.7767643312,Dollars/store,13295,126
+Georgia,Walton,266287.25838882924,Dollars/store,13297,127
+Georgia,Ware,279192.3149112426,Dollars/store,13299,132
+Georgia,Warren,174291.78666666665,Dollars/store,13301,135
+Georgia,Washington,277340.5456551724,Dollars/store,13303,143
+Georgia,Wayne,304289.7529078014,Dollars/store,13305,147
+Georgia,Webster,nan,Dollars/store,13307,149
+Georgia,Wheeler,92953.80580645161,Dollars/store,13309,154
+Georgia,White,245689.49318181816,Dollars/store,13311,157
+Georgia,Whitfield,189854.97815983882,Dollars/store,13313,159
+Georgia,Wilcox,111249.74171428572,Dollars/store,13315,163
+Georgia,Wilkes,192259.0433160622,Dollars/store,13317,167
+Georgia,Wilkinson,102461.04674157304,Dollars/store,13319,169
+Georgia,Worth,205180.68391836734,Dollars/store,13321,173
+Hawaii,Hawaii,775481.7622165213,Dollars/store,15001,198
+Hawaii,Honolulu,425886.35000298603,Dollars/store,15003,234
+Hawaii,Kalawao,nan,Dollars/store,15005,247
+Hawaii,Kauai,448711.7611904762,Dollars/store,15007,261
+Hawaii,Maui,450368.93540481396,Dollars/store,15009,323
+Idaho,Ada,213919.00934782607,Dollars/store,16001,336
+Idaho,Adams,42070.45333333334,Dollars/store,16003,338
+Idaho,Bannock,310057.844516129,Dollars/store,16005,343
+Idaho,Bear Lake,111739.12,Dollars/store,16007,349
+Idaho,Benewah,214480.17,Dollars/store,16009,354
+Idaho,Bingham,187447.91758389262,Dollars/store,16011,362
+Idaho,Blaine,71826.33964285714,Dollars/store,16013,371
+Idaho,Boise,18793.407741935484,Dollars/store,16015,380
+Idaho,Bonner,189738.95346153848,Dollars/store,16017,387
+Idaho,Bonneville,315311.36892601434,Dollars/store,16019,395
+Idaho,Boundary,172423.43375,Dollars/store,16021,405
+Idaho,Butte,nan,Dollars/store,16023,414
+Idaho,Camas,nan,Dollars/store,16025,429
+Idaho,Canyon,379848.28783473605,Dollars/store,16027,441
+Idaho,Caribou,58266.17166666667,Dollars/store,16029,449
+Idaho,Cassia,248382.92125,Dollars/store,16031,456
+Idaho,Clark,nan,Dollars/store,16033,464
+Idaho,Clearwater,97168.57428571429,Dollars/store,16035,474
+Idaho,Custer,55442.35666666667,Dollars/store,16037,484
+Idaho,Elmore,230584.02839999998,Dollars/store,16039,490
+Idaho,Franklin,nan,Dollars/store,16041,498
+Idaho,Fremont,75837.57419354838,Dollars/store,16043,502
+Idaho,Gem,108392.84436363637,Dollars/store,16045,510
+Idaho,Gooding,95708.11600000001,Dollars/store,16047,519
+Idaho,Idaho,67634.03481081082,Dollars/store,16049,528
+Idaho,Jefferson,133686.9535483871,Dollars/store,16051,540
+Idaho,Jerome,141068.29166666666,Dollars/store,16053,547
+Idaho,Kootenai,292862.8427659574,Dollars/store,16055,552
+Idaho,Latah,165934.72544117644,Dollars/store,16057,559
+Idaho,Lemhi,129976.25045454547,Dollars/store,16059,566
+Idaho,Lewis,111801.11399999999,Dollars/store,16061,574
+Idaho,Lincoln,nan,Dollars/store,16063,578
+Idaho,Madison,525069.5303999999,Dollars/store,16065,581
+Idaho,Minidoka,112696.64833333333,Dollars/store,16067,585
+Idaho,Nez Perce,172086.6008866995,Dollars/store,16069,589
+Idaho,Oneida,59002.52785714286,Dollars/store,16071,593
+Idaho,Owyhee,115969.00258064516,Dollars/store,16073,601
+Idaho,Payette,84374.10707423581,Dollars/store,16075,606
+Idaho,Power,85772.888,Dollars/store,16077,613
+Idaho,Shoshone,225079.84338461538,Dollars/store,16079,621
+Idaho,Teton,78179.415,Dollars/store,16081,627
+Idaho,Twin Falls,284579.8251724138,Dollars/store,16083,634
+Idaho,Valley,84354.81535714286,Dollars/store,16085,643
+Idaho,Washington,117385.31636363636,Dollars/store,16087,649
+Illinois,Adams,314002.54597402597,Dollars/store,17001,650
+Illinois,Alexander,144111.15714285715,Dollars/store,17003,651
+Illinois,Bond,87592.735,Dollars/store,17005,652
+Illinois,Boone,292963.0030024213,Dollars/store,17007,653
+Illinois,Brown,131168.6175,Dollars/store,17009,654
+Illinois,Bureau,152377.35609022557,Dollars/store,17011,2
+Illinois,Calhoun,nan,Dollars/store,17013,4
+Illinois,Carroll,96245.85714285714,Dollars/store,17015,6
+Illinois,Cass,153447.38121546962,Dollars/store,17017,10
+Illinois,Champaign,281948.8003384095,Dollars/store,17019,12
+Illinois,Christian,239396.1547699758,Dollars/store,17021,14
+Illinois,Clark,184423.7890909091,Dollars/store,17023,19
+Illinois,Clay,174460.12285714288,Dollars/store,17025,22
+Illinois,Clinton,196721.6807002188,Dollars/store,17027,27
+Illinois,Coles,351997.33617391303,Dollars/store,17029,30
+Illinois,Cook,426762.0763145014,Dollars/store,17031,36
+Illinois,Crawford,203448.8124590164,Dollars/store,17033,40
+Illinois,Cumberland,71250.24417391303,Dollars/store,17035,44
+Illinois,DeKalb,246277.73721115539,Dollars/store,17037,49
+Illinois,De Witt,156985.70335135135,Dollars/store,17039,53
+Illinois,Douglas,80601.2259922179,Dollars/store,17041,55
+Illinois,DuPage,214055.21273186858,Dollars/store,17043,64
+Illinois,Edgar,311628.24583333335,Dollars/store,17045,66
+Illinois,Edwards,81238.28745762711,Dollars/store,17047,71
+Illinois,Effingham,170500.81495934958,Dollars/store,17049,76
+Illinois,Fayette,301568.2064321608,Dollars/store,17051,79
+Illinois,Ford,122518.0411764706,Dollars/store,17053,81
+Illinois,Franklin,258057.8876300578,Dollars/store,17055,85
+Illinois,Fulton,248176.7544827586,Dollars/store,17057,89
+Illinois,Gallatin,nan,Dollars/store,17059,92
+Illinois,Greene,170406.62,Dollars/store,17061,96
+Illinois,Grundy,257932.43731843575,Dollars/store,17063,99
+Illinois,Hamilton,74265.08125,Dollars/store,17065,106
+Illinois,Hancock,44125.911052631585,Dollars/store,17067,111
+Illinois,Hardin,nan,Dollars/store,17069,113
+Illinois,Henderson,66572.19200000001,Dollars/store,17071,117
+Illinois,Henry,186222.16008196722,Dollars/store,17073,121
+Illinois,Iroquois,178319.26504918034,Dollars/store,17075,125
+Illinois,Jackson,360316.5676254181,Dollars/store,17077,129
+Illinois,Jasper,82095.87571428572,Dollars/store,17079,133
+Illinois,Jefferson,304810.58904645476,Dollars/store,17081,137
+Illinois,Jersey,308129.32769230765,Dollars/store,17083,142
+Illinois,Jo Daviess,111224.34307692308,Dollars/store,17085,145
+Illinois,Johnson,76279.13709677418,Dollars/store,17087,152
+Illinois,Kane,296981.987007874,Dollars/store,17089,156
+Illinois,Kankakee,268269.2736979592,Dollars/store,17091,161
+Illinois,Kendall,522154.64829787234,Dollars/store,17093,165
+Illinois,Knox,345661.4080626223,Dollars/store,17095,166
+Illinois,Lake,258673.99218133072,Dollars/store,17097,170
+Illinois,LaSalle,266403.0449609714,Dollars/store,17099,175
+Illinois,Lawrence,241742.5909090909,Dollars/store,17101,177
+Illinois,Lee,194154.53661016948,Dollars/store,17103,180
+Illinois,Livingston,164953.59503267973,Dollars/store,17105,182
+Illinois,Logan,304852.15830115834,Dollars/store,17107,186
+Illinois,McDonough,234468.06892857142,Dollars/store,17109,189
+Illinois,McHenry,222747.60835862072,Dollars/store,17111,192
+Illinois,McLean,246992.33136900625,Dollars/store,17113,193
+Illinois,Macon,387616.52591596637,Dollars/store,17115,194
+Illinois,Macoupin,149888.30554838708,Dollars/store,17117,196
+Illinois,Madison,288727.12029298383,Dollars/store,17119,199
+Illinois,Marion,217032.82105263157,Dollars/store,17121,201
+Illinois,Marshall,49917.600625,Dollars/store,17123,202
+Illinois,Mason,139227.88609271523,Dollars/store,17125,206
+Illinois,Massac,232308.11384615384,Dollars/store,17127,208
+Illinois,Menard,94287.87666666666,Dollars/store,17129,212
+Illinois,Mercer,62408.813770491804,Dollars/store,17131,216
+Illinois,Monroe,132789.65862068965,Dollars/store,17133,219
+Illinois,Montgomery,255260.37264248708,Dollars/store,17135,223
+Illinois,Morgan,302027.84051413886,Dollars/store,17137,225
+Illinois,Moultrie,88133.86241379312,Dollars/store,17139,227
+Illinois,Ogle,127899.95236580518,Dollars/store,17141,229
+Illinois,Peoria,327331.47404068167,Dollars/store,17143,233
+Illinois,Perry,269925.96327868855,Dollars/store,17145,235
+Illinois,Piatt,53520.159999999996,Dollars/store,17147,238
+Illinois,Pike,121442.96190476192,Dollars/store,17149,241
+Illinois,Pope,94460.1275,Dollars/store,17151,245
+Illinois,Pulaski,100852.07800000001,Dollars/store,17153,248
+Illinois,Putnam,20165.348852459018,Dollars/store,17155,253
+Illinois,Randolph,198050.32712041886,Dollars/store,17157,255
+Illinois,Richland,359557.52499999997,Dollars/store,17159,259
+Illinois,Rock Island,265131.09229551454,Dollars/store,17161,265
+Illinois,St. Clair,301068.68258114374,Dollars/store,17163,269
+Illinois,Saline,366465.28419354843,Dollars/store,17165,271
+Illinois,Sangamon,304349.04320916906,Dollars/store,17167,274
+Illinois,Schuyler,77325.95666666667,Dollars/store,17169,278
+Illinois,Scott,nan,Dollars/store,17171,280
+Illinois,Shelby,123760.12959183674,Dollars/store,17173,283
+Illinois,Stark,32527.985,Dollars/store,17175,285
+Illinois,Stephenson,259376.89027322407,Dollars/store,17177,290
+Illinois,Tazewell,344057.80513317196,Dollars/store,17179,291
+Illinois,Union,316126.29850746266,Dollars/store,17181,293
+Illinois,Vermilion,330095.70378378377,Dollars/store,17183,296
+Illinois,Wabash,133040.14666666667,Dollars/store,17185,299
+Illinois,Warren,133772.8920547945,Dollars/store,17187,301
+Illinois,Washington,44794.86335403727,Dollars/store,17189,305
+Illinois,Wayne,150532.02857142856,Dollars/store,17191,310
+Illinois,White,201760.13107692308,Dollars/store,17193,312
+Illinois,Whiteside,251767.70502793297,Dollars/store,17195,314
+Illinois,Will,281104.302869714,Dollars/store,17197,320
+Illinois,Williamson,328367.8779574468,Dollars/store,17199,324
+Illinois,Winnebago,363338.55838890723,Dollars/store,17201,325
+Illinois,Woodford,46837.90837606838,Dollars/store,17203,328
+Indiana,Adams,148384.47461538462,Dollars/store,18001,330
+Indiana,Allen,204192.21210871602,Dollars/store,18003,335
+Indiana,Bartholomew,161451.86210071942,Dollars/store,18005,342
+Indiana,Benton,63832.89831325301,Dollars/store,18007,179
+Indiana,Blackford,157972.8824347826,Dollars/store,18009,183
+Indiana,Boone,109635.82516129033,Dollars/store,18011,185
+Indiana,Brown,60180.631232876716,Dollars/store,18013,188
+Indiana,Carroll,64751.08835820895,Dollars/store,18015,195
+Indiana,Cass,155593.83896907215,Dollars/store,18017,211
+Indiana,Clark,145945.5761821366,Dollars/store,18019,215
+Indiana,Clay,142838.38067114094,Dollars/store,18021,221
+Indiana,Clinton,147650.96023668637,Dollars/store,18023,226
+Indiana,Crawford,71462.1608955224,Dollars/store,18025,232
+Indiana,Daviess,159157.7537037037,Dollars/store,18027,239
+Indiana,Dearborn,160642.01620689654,Dollars/store,18029,242
+Indiana,Decatur,111170.80067796611,Dollars/store,18031,246
+Indiana,DeKalb,125930.90712765958,Dollars/store,18033,249
+Indiana,Delaware,199883.12145025298,Dollars/store,18035,252
+Indiana,Dubois,77409.24556097561,Dollars/store,18037,254
+Indiana,Elkhart,165388.40667046103,Dollars/store,18039,260
+Indiana,Fayette,257917.62746543778,Dollars/store,18041,263
+Indiana,Floyd,200512.83493670888,Dollars/store,18043,267
+Indiana,Fountain,92267.80886597937,Dollars/store,18045,270
+Indiana,Franklin,104276.71811320753,Dollars/store,18047,272
+Indiana,Fulton,122589.97879518072,Dollars/store,18049,276
+Indiana,Gibson,123283.47594339623,Dollars/store,18051,286
+Indiana,Grant,193631.66388349514,Dollars/store,18053,297
+Indiana,Greene,172986.90372413793,Dollars/store,18055,309
+Indiana,Hamilton,98752.007890625,Dollars/store,18057,321
+Indiana,Hancock,114808.2543030303,Dollars/store,18059,329
+Indiana,Harrison,122222.28033613446,Dollars/store,18061,334
+Indiana,Hendricks,206085.18087346025,Dollars/store,18063,341
+Indiana,Henry,151725.3090285714,Dollars/store,18065,344
+Indiana,Howard,193669.64859140856,Dollars/store,18067,348
+Indiana,Huntington,142748.025,Dollars/store,18069,352
+Indiana,Jackson,148303.39302013422,Dollars/store,18071,355
+Indiana,Jasper,94188.19567779961,Dollars/store,18073,356
+Indiana,Jay,149516.61987096776,Dollars/store,18075,358
+Indiana,Jefferson,169491.15733333334,Dollars/store,18077,363
+Indiana,Jennings,156539.54847457627,Dollars/store,18079,367
+Indiana,Johnson,172363.21517110264,Dollars/store,18081,370
+Indiana,Knox,228406.95865030674,Dollars/store,18083,376
+Indiana,Kosciusko,125575.82129032258,Dollars/store,18085,384
+Indiana,LaGrange,44683.7627755102,Dollars/store,18087,386
+Indiana,Lake,332026.97559669864,Dollars/store,18089,389
+Indiana,LaPorte,230587.64523364484,Dollars/store,18091,392
+Indiana,Lawrence,145621.018247191,Dollars/store,18093,396
+Indiana,Madison,212842.7758631922,Dollars/store,18095,401
+Indiana,Marion,275827.53850846697,Dollars/store,18097,409
+Indiana,Marshall,138134.29348314606,Dollars/store,18099,412
+Indiana,Martin,89864.0595652174,Dollars/store,18101,418
+Indiana,Miami,142145.4883695652,Dollars/store,18103,420
+Indiana,Monroe,170929.11920930233,Dollars/store,18105,422
+Indiana,Montgomery,136653.26693266834,Dollars/store,18107,425
+Indiana,Morgan,132383.0414213198,Dollars/store,18109,430
+Indiana,Newton,31802.71509202454,Dollars/store,18111,433
+Indiana,Noble,110387.1015313225,Dollars/store,18113,436
+Indiana,Ohio,23015.335,Dollars/store,18115,440
+Indiana,Orange,146515.11444976076,Dollars/store,18117,444
+Indiana,Owen,109494.20299065422,Dollars/store,18119,448
+Indiana,Parke,81481.1925,Dollars/store,18121,452
+Indiana,Perry,251679.21970588237,Dollars/store,18123,459
+Indiana,Pike,74962.90654205608,Dollars/store,18125,465
+Indiana,Porter,193879.52778453517,Dollars/store,18127,468
+Indiana,Posey,80851.79795454546,Dollars/store,18129,471
+Indiana,Pulaski,59331.834615384614,Dollars/store,18131,477
+Indiana,Putnam,138164.40507042254,Dollars/store,18133,480
+Indiana,Randolph,147254.1707063197,Dollars/store,18135,485
+Indiana,Ripley,73296.78747169812,Dollars/store,18137,488
+Indiana,Rush,124964.29208053692,Dollars/store,18139,493
+Indiana,St. Joseph,225882.14437108234,Dollars/store,18141,496
+Indiana,Scott,201964.52045977014,Dollars/store,18143,504
+Indiana,Shelby,189058.33634551495,Dollars/store,18145,506
+Indiana,Spencer,78077.91466666666,Dollars/store,18147,509
+Indiana,Starke,144999.66256410256,Dollars/store,18149,512
+Indiana,Steuben,117398.85344827586,Dollars/store,18151,515
+Indiana,Sullivan,111005.49,Dollars/store,18153,518
+Indiana,Switzerland,53769.43727272728,Dollars/store,18155,526
+Indiana,Tippecanoe,204652.15780645164,Dollars/store,18157,530
+Indiana,Tipton,37036.80815533981,Dollars/store,18159,534
+Indiana,Union,38580.14142857143,Dollars/store,18161,538
+Indiana,Vanderburgh,199929.1563270142,Dollars/store,18163,543
+Indiana,Vermillion,134543.32776119406,Dollars/store,18165,548
+Indiana,Vigo,244855.13779816517,Dollars/store,18167,553
+Indiana,Wabash,117131.29812688823,Dollars/store,18169,555
+Indiana,Warren,nan,Dollars/store,18171,567
+Indiana,Warrick,136909.52777777778,Dollars/store,18173,575
+Indiana,Washington,180610.9261111111,Dollars/store,18175,584
+Indiana,Wayne,183291.8428125,Dollars/store,18177,586
+Indiana,Wells,115984.55666666667,Dollars/store,18179,590
+Indiana,White,131030.06593220338,Dollars/store,18181,594
+Indiana,Whitley,94039.018125,Dollars/store,18183,597
+Iowa,Adair,61313.13285714285,Dollars/store,19001,598
+Iowa,Adams,nan,Dollars/store,19003,602
+Iowa,Allamakee,60215.13907692308,Dollars/store,19005,608
+Iowa,Appanoose,215691.62896551724,Dollars/store,19007,611
+Iowa,Audubon,34528.80328767123,Dollars/store,19009,615
+Iowa,Benton,75875.28056074766,Dollars/store,19011,619
+Iowa,Black Hawk,204659.23509933776,Dollars/store,19013,623
+Iowa,Boone,142603.5825,Dollars/store,19015,625
+Iowa,Bremer,97191.44626506024,Dollars/store,19017,631
+Iowa,Buchanan,114915.37647058823,Dollars/store,19019,632
+Iowa,Buena Vista,186437.10605504585,Dollars/store,19021,633
+Iowa,Butler,30450.41318918919,Dollars/store,19023,361
+Iowa,Calhoun,25932.324,Dollars/store,19025,365
+Iowa,Carroll,163046.53827411166,Dollars/store,19027,369
+Iowa,Cass,224003.58212765955,Dollars/store,19029,374
+Iowa,Cedar,39739.41467889908,Dollars/store,19031,379
+Iowa,Cerro Gordo,218389.84674999997,Dollars/store,19033,383
+Iowa,Cherokee,97534.40878048779,Dollars/store,19035,388
+Iowa,Chickasaw,58661.71253731344,Dollars/store,19037,393
+Iowa,Clarke,201276.60710526316,Dollars/store,19039,397
+Iowa,Clay,226215.33666666667,Dollars/store,19041,398
+Iowa,Clayton,33121.67839285714,Dollars/store,19043,402
+Iowa,Clinton,278731.0244155844,Dollars/store,19045,404
+Iowa,Crawford,238832.0302222222,Dollars/store,19047,408
+Iowa,Dallas,114308.47232323232,Dollars/store,19049,413
+Iowa,Davis,53120.41363636364,Dollars/store,19051,416
+Iowa,Decatur,91762.84528301886,Dollars/store,19053,419
+Iowa,Delaware,215489.5914285714,Dollars/store,19055,421
+Iowa,Des Moines,272555.25149028073,Dollars/store,19057,424
+Iowa,Dickinson,122660.59241379311,Dollars/store,19059,427
+Iowa,Dubuque,206068.91108982038,Dollars/store,19061,434
+Iowa,Emmet,120325.81999999999,Dollars/store,19063,437
+Iowa,Fayette,120820.32450704224,Dollars/store,19065,442
+Iowa,Floyd,137449.42726256984,Dollars/store,19067,447
+Iowa,Franklin,65437.20241610739,Dollars/store,19069,451
+Iowa,Fremont,30996.459,Dollars/store,19071,455
+Iowa,Greene,148842.525,Dollars/store,19073,458
+Iowa,Grundy,28504.95480916031,Dollars/store,19075,460
+Iowa,Guthrie,62137.566315789474,Dollars/store,19077,467
+Iowa,Hamilton,81923.8315909091,Dollars/store,19079,469
+Iowa,Hancock,48299.91,Dollars/store,19081,470
+Iowa,Hardin,95669.11581395348,Dollars/store,19083,475
+Iowa,Harrison,52764.41721854304,Dollars/store,19085,478
+Iowa,Henry,214761.7964835165,Dollars/store,19087,479
+Iowa,Howard,52364.20854961832,Dollars/store,19089,481
+Iowa,Humboldt,85515.76095238095,Dollars/store,19091,487
+Iowa,Ida,48355.72947368421,Dollars/store,19093,491
+Iowa,Iowa,53366.47977653631,Dollars/store,19095,495
+Iowa,Jackson,180752.52545454545,Dollars/store,19097,499
+Iowa,Jasper,167461.32849230772,Dollars/store,19099,505
+Iowa,Jefferson,205572.38430379747,Dollars/store,19101,507
+Iowa,Johnson,201914.35341772152,Dollars/store,19103,508
+Iowa,Jones,135179.94466666665,Dollars/store,19105,516
+Iowa,Keokuk,38647.02290322581,Dollars/store,19107,520
+Iowa,Kossuth,84116.9842857143,Dollars/store,19109,523
+Iowa,Lee,288840.9609972299,Dollars/store,19111,531
+Iowa,Linn,231541.86773388772,Dollars/store,19113,535
+Iowa,Louisa,38855.73503355705,Dollars/store,19115,539
+Iowa,Lucas,108872.99399999999,Dollars/store,19117,542
+Iowa,Lyon,27010.38714285714,Dollars/store,19119,546
+Iowa,Madison,106339.68818181819,Dollars/store,19121,550
+Iowa,Mahaska,202250.7195,Dollars/store,19123,554
+Iowa,Marion,132849.62840236686,Dollars/store,19125,561
+Iowa,Marshall,191288.68087336246,Dollars/store,19127,568
+Iowa,Mills,75825.4662295082,Dollars/store,19129,569
+Iowa,Mitchell,29250.207346938772,Dollars/store,19131,572
+Iowa,Monona,104056.135,Dollars/store,19133,576
+Iowa,Monroe,87889.38142857143,Dollars/store,19135,580
+Iowa,Montgomery,166876.61820895525,Dollars/store,19137,595
+Iowa,Muscatine,245610.95184466016,Dollars/store,19139,600
+Iowa,O'Brien,69895.46566844921,Dollars/store,19141,604
+Iowa,Osceola,nan,Dollars/store,19143,607
+Iowa,Page,233671.54142857142,Dollars/store,19145,612
+Iowa,Palo Alto,90135.48171428574,Dollars/store,19147,618
+Iowa,Plymouth,149425.40266666666,Dollars/store,19149,622
+Iowa,Pocahontas,55406.09764705883,Dollars/store,19151,624
+Iowa,Polk,251925.06933510635,Dollars/store,19153,629
+Iowa,Pottawattamie,349965.8297055058,Dollars/store,19155,637
+Iowa,Poweshiek,94077.8430252101,Dollars/store,19157,640
+Iowa,Ringgold,64551.98470588235,Dollars/store,19159,642
+Iowa,Sac,42328.37528089888,Dollars/store,19161,647
+Iowa,Scott,252439.62659932658,Dollars/store,19163,657
+Iowa,Shelby,94378.89636363636,Dollars/store,19165,660
+Iowa,Sioux,99040.1293069307,Dollars/store,19167,663
+Iowa,Story,137579.092757079,Dollars/store,19169,668
+Iowa,Tama,70312.31710144927,Dollars/store,19171,671
+Iowa,Taylor,46934.21142857143,Dollars/store,19173,674
+Iowa,Union,256680.0225,Dollars/store,19175,675
+Iowa,Van Buren,84391.30545454545,Dollars/store,19177,678
+Iowa,Wapello,253398.43348623853,Dollars/store,19179,681
+Iowa,Warren,106269.37909738717,Dollars/store,19181,685
+Iowa,Washington,131103.89388888888,Dollars/store,19183,687
+Iowa,Wayne,66549.71076923078,Dollars/store,19185,691
+Iowa,Webster,279243.98534351145,Dollars/store,19187,694
+Iowa,Winnebago,63177.217391304344,Dollars/store,19189,696
+Iowa,Winneshiek,154893.52438356166,Dollars/store,19191,698
+Iowa,Woodbury,270728.12218687875,Dollars/store,19193,702
+Iowa,Worth,31932.51804878049,Dollars/store,19195,703
+Iowa,Wright,70370.28403361345,Dollars/store,19197,705
+Kansas,Allen,140123.2170810811,Dollars/store,20001,709
+Kansas,Anderson,74932.424,Dollars/store,20003,712
+Kansas,Atchison,244646.88682926827,Dollars/store,20005,715
+Kansas,Barber,37832.4552,Dollars/store,20007,717
+Kansas,Barton,143428.62609836066,Dollars/store,20009,719
+Kansas,Bourbon,236710.1355371901,Dollars/store,20011,722
+Kansas,Brown,192697.41319148938,Dollars/store,20013,723
+Kansas,Butler,156940.69986206896,Dollars/store,20015,726
+Kansas,Chase,nan,Dollars/store,20017,729
+Kansas,Chautauqua,42746.77432835821,Dollars/store,20019,730
+Kansas,Cherokee,118080.95451428571,Dollars/store,20021,732
+Kansas,Cheyenne,nan,Dollars/store,20023,736
+Kansas,Clark,nan,Dollars/store,20025,738
+Kansas,Clay,58225.09,Dollars/store,20027,739
+Kansas,Cloud,113348.40222222223,Dollars/store,20029,740
+Kansas,Coffey,40831.212,Dollars/store,20031,745
+Kansas,Comanche,nan,Dollars/store,20033,748
+Kansas,Cowley,250302.2584,Dollars/store,20035,752
+Kansas,Crawford,230255.93161643835,Dollars/store,20037,756
+Kansas,Decatur,nan,Dollars/store,20039,759
+Kansas,Dickinson,66697.35711340206,Dollars/store,20041,762
+Kansas,Doniphan,37803.14507462687,Dollars/store,20043,765
+Kansas,Douglas,164881.3941747573,Dollars/store,20045,767
+Kansas,Edwards,nan,Dollars/store,20047,770
+Kansas,Elk,nan,Dollars/store,20049,773
+Kansas,Ellis,147398.6052631579,Dollars/store,20051,774
+Kansas,Ellsworth,39260.00955223881,Dollars/store,20053,776
+Kansas,Finney,213460.21703225808,Dollars/store,20055,778
+Kansas,Ford,203079.36949640285,Dollars/store,20057,784
+Kansas,Franklin,156739.07018181818,Dollars/store,20059,786
+Kansas,Geary,206628.4620224719,Dollars/store,20061,788
+Kansas,Gove,nan,Dollars/store,20063,790
+Kansas,Graham,nan,Dollars/store,20065,791
+Kansas,Grant,76670.864,Dollars/store,20067,794
+Kansas,Gray,12222.75,Dollars/store,20069,798
+Kansas,Greeley,nan,Dollars/store,20071,801
+Kansas,Greenwood,61985.00714285714,Dollars/store,20073,803
+Kansas,Hamilton,37633.0975,Dollars/store,20075,805
+Kansas,Harper,53988.1175,Dollars/store,20077,807
+Kansas,Harvey,140690.6529616725,Dollars/store,20079,812
+Kansas,Haskell,22210.518,Dollars/store,20081,815
+Kansas,Hodgeman,nan,Dollars/store,20083,818
+Kansas,Jackson,95083.00228571429,Dollars/store,20085,819
+Kansas,Jefferson,39211.45681528662,Dollars/store,20087,821
+Kansas,Jewell,nan,Dollars/store,20089,822
+Kansas,Johnson,116232.5907784431,Dollars/store,20091,824
+Kansas,Kearny,22222.512,Dollars/store,20093,826
+Kansas,Kingman,39830.244507042255,Dollars/store,20095,827
+Kansas,Kiowa,nan,Dollars/store,20097,829
+Kansas,Labette,152958.1379775281,Dollars/store,20099,831
+Kansas,Lane,12111.2675,Dollars/store,20101,833
+Kansas,Leavenworth,143390.8992366412,Dollars/store,20103,836
+Kansas,Lincoln,nan,Dollars/store,20105,838
+Kansas,Linn,85970.1622857143,Dollars/store,20107,840
+Kansas,Logan,nan,Dollars/store,20109,842
+Kansas,Lyon,137759.7712,Dollars/store,20111,844
+Kansas,McPherson,81370.93284132841,Dollars/store,20113,846
+Kansas,Marion,29399.056991150443,Dollars/store,20115,848
+Kansas,Marshall,94634.79839999999,Dollars/store,20117,850
+Kansas,Meade,21616.8,Dollars/store,20119,851
+Kansas,Miami,186486.76023952098,Dollars/store,20121,853
+Kansas,Mitchell,37666.36,Dollars/store,20123,854
+Kansas,Montgomery,246135.46148571427,Dollars/store,20125,856
+Kansas,Morris,nan,Dollars/store,20127,858
+Kansas,Morton,nan,Dollars/store,20129,859
+Kansas,Nemaha,47801.64387096774,Dollars/store,20131,861
+Kansas,Neosho,147697.1007329843,Dollars/store,20133,862
+Kansas,Ness,19233.9975,Dollars/store,20135,864
+Kansas,Norton,39423.71142857143,Dollars/store,20137,866
+Kansas,Osage,50179.658901098905,Dollars/store,20139,867
+Kansas,Osborne,38550.79,Dollars/store,20141,869
+Kansas,Ottawa,nan,Dollars/store,20143,870
+Kansas,Pawnee,83447.75333333334,Dollars/store,20145,872
+Kansas,Phillips,50194.61833333334,Dollars/store,20147,873
+Kansas,Pottawatomie,62171.45125,Dollars/store,20149,876
+Kansas,Pratt,146424.61777777778,Dollars/store,20151,878
+Kansas,Rawlins,nan,Dollars/store,20153,880
+Kansas,Reno,217043.46190274842,Dollars/store,20155,882
+Kansas,Republic,30019.426,Dollars/store,20157,884
+Kansas,Rice,65601.75853211009,Dollars/store,20159,886
+Kansas,Riley,173927.19220338983,Dollars/store,20161,888
+Kansas,Rooks,47136.68666666667,Dollars/store,20163,889
+Kansas,Rush,70085.6,Dollars/store,20165,891
+Kansas,Russell,79185.79384615384,Dollars/store,20167,893
+Kansas,Saline,201258.4937142857,Dollars/store,20169,895
+Kansas,Scott,31340.289113924053,Dollars/store,20171,897
+Kansas,Sedgwick,281059.4251659919,Dollars/store,20173,898
+Kansas,Seward,180715.81106796116,Dollars/store,20175,900
+Kansas,Shawnee,284190.3526829268,Dollars/store,20177,902
+Kansas,Sheridan,nan,Dollars/store,20179,904
+Kansas,Sherman,149796.32,Dollars/store,20181,907
+Kansas,Smith,29947.784117647054,Dollars/store,20183,909
+Kansas,Stafford,nan,Dollars/store,20185,911
+Kansas,Stanton,nan,Dollars/store,20187,913
+Kansas,Stevens,nan,Dollars/store,20189,914
+Kansas,Sumner,129977.5536,Dollars/store,20191,916
+Kansas,Thomas,76174.09,Dollars/store,20193,917
+Kansas,Trego,nan,Dollars/store,20195,919
+Kansas,Wabaunsee,13253.781428571428,Dollars/store,20197,920
+Kansas,Wallace,nan,Dollars/store,20199,921
+Kansas,Washington,14393.33125,Dollars/store,20201,922
+Kansas,Wichita,nan,Dollars/store,20203,923
+Kansas,Wilson,76450.84583333334,Dollars/store,20205,925
+Kansas,Woodson,32630.968333333334,Dollars/store,20207,926
+Kansas,Wyandotte,230060.10666666666,Dollars/store,20209,927
+Kentucky,Adair,219947.04438356165,Dollars/store,21001,928
+Kentucky,Allen,220148.56642857144,Dollars/store,21003,929
+Kentucky,Anderson,208548.26850828726,Dollars/store,21005,930
+Kentucky,Ballard,86420.4319266055,Dollars/store,21007,932
+Kentucky,Barren,253644.41886363635,Dollars/store,21009,933
+Kentucky,Bath,156841.76666666666,Dollars/store,21011,934
+Kentucky,Bell,501691.5460253165,Dollars/store,21013,936
+Kentucky,Boone,185949.10287323943,Dollars/store,21015,1002
+Kentucky,Bourbon,195154.11024,Dollars/store,21017,1005
+Kentucky,Boyd,362616.29418124014,Dollars/store,21019,1008
+Kentucky,Boyle,284060.94877192983,Dollars/store,21021,1010
+Kentucky,Bracken,44343.10899082568,Dollars/store,21023,1013
+Kentucky,Breathitt,319243.4426431718,Dollars/store,21025,1017
+Kentucky,Breckinridge,138692.96680851065,Dollars/store,21027,1020
+Kentucky,Bullitt,133907.30831050227,Dollars/store,21029,1024
+Kentucky,Butler,208494.83384615384,Dollars/store,21031,1026
+Kentucky,Caldwell,235751.89666666667,Dollars/store,21033,1031
+Kentucky,Calloway,186160.8748275862,Dollars/store,21035,1033
+Kentucky,Campbell,194561.78002528445,Dollars/store,21037,1035
+Kentucky,Carlisle,52418.6125,Dollars/store,21039,1039
+Kentucky,Carroll,239422.5925,Dollars/store,21041,1041
+Kentucky,Carter,182887.1406960557,Dollars/store,21043,1044
+Kentucky,Casey,159827.96602739725,Dollars/store,21045,1048
+Kentucky,Christian,248001.5324630542,Dollars/store,21047,1050
+Kentucky,Clark,256399.10148337594,Dollars/store,21049,1053
+Kentucky,Clay,294369.14442748093,Dollars/store,21051,1056
+Kentucky,Clinton,222329.78113636366,Dollars/store,21053,1059
+Kentucky,Crittenden,143078.4853012048,Dollars/store,21055,1064
+Kentucky,Cumberland,90975.969,Dollars/store,21057,1067
+Kentucky,Daviess,184887.41164685908,Dollars/store,21059,1071
+Kentucky,Edmonson,92042.83363636363,Dollars/store,21061,1073
+Kentucky,Elliott,84719.58196721312,Dollars/store,21063,1075
+Kentucky,Estill,300379.6326666667,Dollars/store,21065,1077
+Kentucky,Fayette,217679.2641622035,Dollars/store,21067,1080
+Kentucky,Fleming,101292.89889908256,Dollars/store,21069,1083
+Kentucky,Floyd,239205.03626740945,Dollars/store,21071,1085
+Kentucky,Franklin,216578.08267605634,Dollars/store,21073,1086
+Kentucky,Fulton,430966.83999999997,Dollars/store,21075,1088
+Kentucky,Gallatin,101012.49875,Dollars/store,21077,1090
+Kentucky,Garrard,86596.22781456953,Dollars/store,21079,1092
+Kentucky,Grant,223640.78671875002,Dollars/store,21081,1094
+Kentucky,Graves,181959.59043824702,Dollars/store,21083,1097
+Kentucky,Grayson,220816.76480938416,Dollars/store,21085,1100
+Kentucky,Green,142148.57285714286,Dollars/store,21087,1102
+Kentucky,Greenup,79131.84595533498,Dollars/store,21089,1105
+Kentucky,Hancock,45652.335,Dollars/store,21091,1107
+Kentucky,Hardin,230162.60567975833,Dollars/store,21093,1110
+Kentucky,Harlan,386719.5588679245,Dollars/store,21095,1114
+Kentucky,Harrison,272319.3,Dollars/store,21097,1119
+Kentucky,Hart,111800.57118279568,Dollars/store,21099,1121
+Kentucky,Henderson,212484.67775628623,Dollars/store,21101,1126
+Kentucky,Henry,66834.4424390244,Dollars/store,21103,1129
+Kentucky,Hickman,93091.26117647058,Dollars/store,21105,1130
+Kentucky,Hopkins,236268.81554285713,Dollars/store,21107,1136
+Kentucky,Jackson,198347.66470588237,Dollars/store,21109,1140
+Kentucky,Jefferson,236700.2420153954,Dollars/store,21111,1143
+Kentucky,Jessamine,262635.69769911503,Dollars/store,21113,1145
+Kentucky,Johnson,354330.9426737968,Dollars/store,21115,1148
+Kentucky,Kenton,191298.6619770774,Dollars/store,21117,1151
+Kentucky,Knott,227067.07802955664,Dollars/store,21119,1154
+Kentucky,Knox,268219.7239716312,Dollars/store,21121,1159
+Kentucky,Larue,134630.9504895105,Dollars/store,21123,1162
+Kentucky,Laurel,262060.13082007342,Dollars/store,21125,1166
+Kentucky,Lawrence,395630.7278571428,Dollars/store,21127,1167
+Kentucky,Lee,342758.0134351145,Dollars/store,21129,1171
+Kentucky,Leslie,198869.95529411765,Dollars/store,21131,1175
+Kentucky,Letcher,284500.7984168866,Dollars/store,21133,1178
+Kentucky,Lewis,175778.08163265308,Dollars/store,21135,1180
+Kentucky,Lincoln,243255.2154929577,Dollars/store,21137,1184
+Kentucky,Livingston,51784.09724550899,Dollars/store,21139,1187
+Kentucky,Logan,252971.30117647062,Dollars/store,21141,1190
+Kentucky,Lyon,98992.45523809524,Dollars/store,21143,1193
+Kentucky,McCracken,287523.743372549,Dollars/store,21145,1196
+Kentucky,McCreary,356499.744109589,Dollars/store,21147,1198
+Kentucky,McLean,67278.29545454546,Dollars/store,21149,1201
+Kentucky,Madison,240725.58632512318,Dollars/store,21151,1204
+Kentucky,Magoffin,223582.04440677966,Dollars/store,21153,1206
+Kentucky,Marion,253410.42944162435,Dollars/store,21155,1210
+Kentucky,Marshall,143376.30054711248,Dollars/store,21157,1213
+Kentucky,Martin,267852.57160714286,Dollars/store,21159,1215
+Kentucky,Mason,326295.4661538461,Dollars/store,21161,1217
+Kentucky,Meade,155626.8807782101,Dollars/store,21163,1220
+Kentucky,Menifee,120952.848,Dollars/store,21165,1222
+Kentucky,Mercer,219907.11599999998,Dollars/store,21167,1225
+Kentucky,Metcalfe,212621.30424242423,Dollars/store,21169,1228
+Kentucky,Monroe,202707.57320930233,Dollars/store,21171,1230
+Kentucky,Montgomery,287895.20992700726,Dollars/store,21173,1233
+Kentucky,Morgan,163678.40608695653,Dollars/store,21175,1235
+Kentucky,Muhlenberg,258855.53197452228,Dollars/store,21177,1238
+Kentucky,Nelson,211767.52983758703,Dollars/store,21179,1243
+Kentucky,Nicholas,176760.02794520548,Dollars/store,21181,1246
+Kentucky,Ohio,191900.45748837208,Dollars/store,21183,1249
+Kentucky,Oldham,139421.03330472103,Dollars/store,21185,1252
+Kentucky,Owen,106614.01176470588,Dollars/store,21187,1255
+Kentucky,Owsley,243831.896,Dollars/store,21189,1257
+Kentucky,Pendleton,169032.13227272726,Dollars/store,21191,1260
+Kentucky,Perry,390644.2613286713,Dollars/store,21193,1265
+Kentucky,Pike,395329.34770161286,Dollars/store,21195,1267
+Kentucky,Powell,297310.05933014356,Dollars/store,21197,1270
+Kentucky,Pulaski,244932.76442437927,Dollars/store,21199,1272
+Kentucky,Robertson,nan,Dollars/store,21201,1273
+Kentucky,Rockcastle,161287.0887671233,Dollars/store,21203,1276
+Kentucky,Rowan,346772.3437267081,Dollars/store,21205,1279
+Kentucky,Russell,168193.2438225256,Dollars/store,21207,1282
+Kentucky,Scott,219916.63380145282,Dollars/store,21209,1283
+Kentucky,Shelby,171643.57014084508,Dollars/store,21211,1285
+Kentucky,Simpson,292791.4384357542,Dollars/store,21213,1287
+Kentucky,Spencer,123720.6768,Dollars/store,21215,1000
+Kentucky,Taylor,297589.09826989623,Dollars/store,21217,1003
+Kentucky,Todd,155550.80000000002,Dollars/store,21219,1006
+Kentucky,Trigg,69959.415,Dollars/store,21221,1009
+Kentucky,Trimble,49081.875483870965,Dollars/store,21223,1012
+Kentucky,Union,149346.53628318585,Dollars/store,21225,1016
+Kentucky,Warren,232362.80016,Dollars/store,21227,1019
+Kentucky,Washington,144255.41007874015,Dollars/store,21229,1023
+Kentucky,Wayne,311136.6612244898,Dollars/store,21231,1027
+Kentucky,Webster,76874.1616,Dollars/store,21233,1029
+Kentucky,Whitley,426009.77049689443,Dollars/store,21235,1034
+Kentucky,Wolfe,199270.28074074074,Dollars/store,21237,1037
+Kentucky,Woodford,156805.67150943395,Dollars/store,21239,1042
+Louisiana,Acadia,207752.06402714932,Dollars/store,22001,1046
+Louisiana,Allen,242911.32362537764,Dollars/store,22003,1051
+Louisiana,Ascension,243364.58613756613,Dollars/store,22005,1055
+Louisiana,Assumption,162235.8744,Dollars/store,22007,1060
+Louisiana,Avoyelles,227793.08810526316,Dollars/store,22009,1062
+Louisiana,Beauregard,290832.0045283019,Dollars/store,22011,1066
+Louisiana,Bienville,132909.91459459462,Dollars/store,22013,1069
+Louisiana,Bossier,304545.83228733455,Dollars/store,22015,1076
+Louisiana,Caddo,427797.03194775264,Dollars/store,22017,1079
+Louisiana,Calcasieu,256086.8799363817,Dollars/store,22019,1081
+Louisiana,Caldwell,250029.17184000002,Dollars/store,22021,1084
+Louisiana,Cameron,64509.64421052631,Dollars/store,22023,1089
+Louisiana,Catahoula,181992.1075,Dollars/store,22025,1093
+Louisiana,Claiborne,308347.161971831,Dollars/store,22027,1095
+Louisiana,Concordia,331114.7508695652,Dollars/store,22029,1098
+Louisiana,De Soto,226946.62176678446,Dollars/store,22031,1103
+Louisiana,East Baton Rouge,297607.7868735454,Dollars/store,22033,1108
+Louisiana,East Carroll,180957.3116883117,Dollars/store,22035,1111
+Louisiana,East Feliciana,127541.77514563107,Dollars/store,22037,1115
+Louisiana,Evangeline,216614.9595767196,Dollars/store,22039,1118
+Louisiana,Franklin,369462.69251612906,Dollars/store,22041,1123
+Louisiana,Grant,152618.0614285714,Dollars/store,22043,1127
+Louisiana,Iberia,321386.3247181629,Dollars/store,22045,1133
+Louisiana,Iberville,352388.2551603499,Dollars/store,22047,1134
+Louisiana,Jackson,260146.4685714286,Dollars/store,22049,1138
+Louisiana,Jefferson,340585.44664072635,Dollars/store,22051,1147
+Louisiana,Jefferson Davis,280540.9229189189,Dollars/store,22053,1155
+Louisiana,Lafayette,321960.8247374563,Dollars/store,22055,1161
+Louisiana,Lafourche,332723.7067142857,Dollars/store,22057,1280
+Louisiana,La Salle,283225.4746153846,Dollars/store,22059,1289
+Louisiana,Lincoln,385869.2529577465,Dollars/store,22061,1291
+Louisiana,Livingston,219692.82421468038,Dollars/store,22063,1295
+Louisiana,Madison,345937.2656115108,Dollars/store,22065,1297
+Louisiana,Morehouse,445810.19184466015,Dollars/store,22067,1299
+Louisiana,Natchitoches,434954.18039999995,Dollars/store,22069,1301
+Louisiana,Orleans,340728.8523524825,Dollars/store,22071,1304
+Louisiana,Ouachita,390733.5220863309,Dollars/store,22073,1306
+Louisiana,Plaquemines,131184.54258373205,Dollars/store,22075,1427
+Louisiana,Pointe Coupee,178002.77979522184,Dollars/store,22077,1431
+Louisiana,Rapides,357360.9833076923,Dollars/store,22079,1434
+Louisiana,Red River,162572.3630769231,Dollars/store,22081,1436
+Louisiana,Richland,298651.0255421687,Dollars/store,22083,1439
+Louisiana,Sabine,314829.15375000006,Dollars/store,22085,1441
+Louisiana,St. Bernard,382938.35000000003,Dollars/store,22087,1463
+Louisiana,St. Charles,191124.27640718562,Dollars/store,22089,1466
+Louisiana,St. Helena,146089.35578947366,Dollars/store,22091,1467
+Louisiana,St. James,208565.0964102564,Dollars/store,22093,1468
+Louisiana,St. John the Baptist,358424.16000000003,Dollars/store,22095,1469
+Louisiana,St. Landry,312645.1843049327,Dollars/store,22097,1471
+Louisiana,St. Martin,248951.60272859217,Dollars/store,22099,1473
+Louisiana,St. Mary,279593.09484311054,Dollars/store,22101,1474
+Louisiana,St. Tammany,229078.90566835096,Dollars/store,22103,1475
+Louisiana,Tangipahoa,328289.6948251748,Dollars/store,22105,1476
+Louisiana,Tensas,155083.835,Dollars/store,22107,1479
+Louisiana,Terrebonne,365621.2418988327,Dollars/store,22109,1501
+Louisiana,Union,271460.12514285714,Dollars/store,22111,1507
+Louisiana,Vermilion,261651.20511848343,Dollars/store,22113,1510
+Louisiana,Vernon,251393.69701492536,Dollars/store,22115,1513
+Louisiana,Washington,307749.042919708,Dollars/store,22117,1516
+Louisiana,Webster,273073.34435064933,Dollars/store,22119,1518
+Louisiana,West Baton Rouge,179322.24185758512,Dollars/store,22121,1520
+Louisiana,West Carroll,391268.1140425532,Dollars/store,22123,1522
+Louisiana,West Feliciana,167255.18666666668,Dollars/store,22125,1524
+Louisiana,Winn,383046.4018181818,Dollars/store,22127,1529
+Maine,Androscoggin,209937.57027741082,Dollars/store,23001,1532
+Maine,Aroostook,177541.48278733031,Dollars/store,23003,1535
+Maine,Cumberland,163399.70951399117,Dollars/store,23005,1608
+Maine,Franklin,160594.17702127658,Dollars/store,23007,1619
+Maine,Hancock,132483.00334426228,Dollars/store,23009,1748
+Maine,Kennebec,202702.44767483562,Dollars/store,23011,1755
+Maine,Knox,122432.24385542168,Dollars/store,23013,1774
+Maine,Lincoln,105831.54918367347,Dollars/store,23015,1835
+Maine,Oxford,172646.3753256705,Dollars/store,23017,1842
+Maine,Penobscot,183669.91307163885,Dollars/store,23019,1846
+Maine,Piscataquis,128296.4225519288,Dollars/store,23021,1851
+Maine,Sagadahoc,113366.76613418531,Dollars/store,23023,1855
+Maine,Somerset,201465.52842681258,Dollars/store,23025,1860
+Maine,Waldo,125828.92596774193,Dollars/store,23027,1865
+Maine,Washington,133019.91225599998,Dollars/store,23029,1884
+Maine,York,144706.84496487118,Dollars/store,23031,1901
+Maryland,Allegany,297603.18332903227,Dollars/store,24001,1905
+Maryland,Anne Arundel,271033.5681163084,Dollars/store,24003,1925
+Maryland,Baltimore County,398168.50682800345,Dollars/store,24005,1939
+Maryland,Calvert,188314.2638747554,Dollars/store,24009,1946
+Maryland,Caroline,215048.1402,Dollars/store,24011,1949
+Maryland,Carroll,174200.24068085107,Dollars/store,24013,1955
+Maryland,Cecil,281079.75322853687,Dollars/store,24015,1963
+Maryland,Charles,296017.27319238905,Dollars/store,24017,1294
+Maryland,Dorchester,286519.2225994695,Dollars/store,24019,1346
+Maryland,Frederick,206615.46338983052,Dollars/store,24021,1357
+Maryland,Garrett,140973.47775175644,Dollars/store,24023,1361
+Maryland,Harford,214670.34773006133,Dollars/store,24025,1372
+Maryland,Howard,233004.28688135595,Dollars/store,24027,1379
+Maryland,Kent,149537.4342857143,Dollars/store,24029,1394
+Maryland,Montgomery,259078.41060167557,Dollars/store,24031,1398
+Maryland,Prince George's,436945.9395457064,Dollars/store,24033,1403
+Maryland,Queen Anne's,105038.56456310679,Dollars/store,24035,1413
+Maryland,St. Mary's,329984.4429392972,Dollars/store,24037,1421
+Maryland,Somerset,234934.12486486483,Dollars/store,24039,1430
+Maryland,Talbot,189398.84819672132,Dollars/store,24041,1438
+Maryland,Washington,312118.3018121911,Dollars/store,24043,1445
+Maryland,Wicomico,298927.4819148936,Dollars/store,24045,1446
+Maryland,Worcester,178896.5232449298,Dollars/store,24047,1456
+Maryland,Baltimore County,267243.5616753927,Dollars/store,24510,1939
+Massachusetts,Barnstable,124695.60510874593,Dollars/store,25001,1478
+Massachusetts,Berkshire,265519.2879711452,Dollars/store,25003,1480
+Massachusetts,Bristol,301907.0968475452,Dollars/store,25005,1486
+Massachusetts,Dukes,92093.65189189189,Dollars/store,25007,1491
+Massachusetts,Essex,245846.32005235605,Dollars/store,25009,1519
+Massachusetts,Franklin,154245.64309305375,Dollars/store,25011,1523
+Massachusetts,Hampden,360215.9164742306,Dollars/store,25013,1526
+Massachusetts,Hampshire,163368.34313566206,Dollars/store,25015,1527
+Massachusetts,Middlesex,166613.27223012806,Dollars/store,25017,1533
+Massachusetts,Nantucket,nan,Dollars/store,25019,1537
+Massachusetts,Norfolk,230791.14044444446,Dollars/store,25021,1543
+Massachusetts,Plymouth,230902.66328389826,Dollars/store,25023,1569
+Massachusetts,Suffolk,303108.16440487106,Dollars/store,25025,1585
+Massachusetts,Worcester,230562.42043600773,Dollars/store,25027,1599
+Michigan,Alcona,66789.08434782608,Dollars/store,26001,1603
+Michigan,Alger,62920.542040816326,Dollars/store,26003,1609
+Michigan,Allegan,120195.79219626168,Dollars/store,26005,1611
+Michigan,Alpena,204779.22,Dollars/store,26007,1614
+Michigan,Antrim,89228.35602094242,Dollars/store,26009,1617
+Michigan,Arenac,64367.07674267101,Dollars/store,26011,1621
+Michigan,Baraga,158449.8471910112,Dollars/store,26013,1624
+Michigan,Barry,117774.48607594937,Dollars/store,26015,1627
+Michigan,Bay,199688.49729496404,Dollars/store,26017,1631
+Michigan,Benzie,87337.76893401015,Dollars/store,26019,1634
+Michigan,Berrien,267763.74366300367,Dollars/store,26021,1635
+Michigan,Branch,142745.78884615382,Dollars/store,26023,1640
+Michigan,Calhoun,194811.65135427951,Dollars/store,26025,1641
+Michigan,Cass,105321.87286624203,Dollars/store,26027,1644
+Michigan,Charlevoix,63143.79770392749,Dollars/store,26029,1648
+Michigan,Cheboygan,191075.21169230767,Dollars/store,26031,1649
+Michigan,Chippewa,160249.52621359224,Dollars/store,26033,1660
+Michigan,Clare,141241.63568296796,Dollars/store,26035,1665
+Michigan,Clinton,101402.43889328063,Dollars/store,26037,1669
+Michigan,Crawford,131353.63778894473,Dollars/store,26039,1672
+Michigan,Delta,230125.40804347824,Dollars/store,26041,1675
+Michigan,Dickinson,219510.5124193548,Dollars/store,26043,1677
+Michigan,Eaton,237023.87748251748,Dollars/store,26045,1678
+Michigan,Emmet,109052.67707547169,Dollars/store,26047,1686
+Michigan,Genesee,304910.32212640287,Dollars/store,26049,1688
+Michigan,Gladwin,90658.5389293362,Dollars/store,26051,1691
+Michigan,Gogebic,214542.07222222222,Dollars/store,26053,1693
+Michigan,Grand Traverse,169200.8384507042,Dollars/store,26055,1697
+Michigan,Gratiot,170315.14016326529,Dollars/store,26057,1700
+Michigan,Hillsdale,193387.26635658916,Dollars/store,26059,1701
+Michigan,Houghton,178437.88513119533,Dollars/store,26061,1705
+Michigan,Huron,105198.42264501161,Dollars/store,26063,1708
+Michigan,Ingham,229328.9842902208,Dollars/store,26065,1710
+Michigan,Ionia,152894.83318568996,Dollars/store,26067,1713
+Michigan,Iosco,187418.6856108597,Dollars/store,26069,1715
+Michigan,Iron,110363.16071005916,Dollars/store,26071,1716
+Michigan,Isabella,236432.48251207732,Dollars/store,26073,1717
+Michigan,Jackson,238883.19440401503,Dollars/store,26075,1719
+Michigan,Kalamazoo,241001.83739551256,Dollars/store,26077,1720
+Michigan,Kalkaska,115749.43036144579,Dollars/store,26079,1722
+Michigan,Kent,210380.20711259753,Dollars/store,26081,1726
+Michigan,Keweenaw,nan,Dollars/store,26083,1743
+Michigan,Lake,142459.33586206898,Dollars/store,26085,1749
+Michigan,Lapeer,159728.5449588719,Dollars/store,26087,1752
+Michigan,Leelanau,34851.280248447205,Dollars/store,26089,1765
+Michigan,Lenawee,207283.32415704388,Dollars/store,26091,1768
+Michigan,Livingston,158399.38736111112,Dollars/store,26093,1770
+Michigan,Luce,125388.59333333334,Dollars/store,26095,1773
+Michigan,Mackinac,45668.196577540104,Dollars/store,26097,1779
+Michigan,Macomb,228386.72404014244,Dollars/store,26099,1785
+Michigan,Manistee,139846.52511627908,Dollars/store,26101,1787
+Michigan,Marquette,195757.38269299822,Dollars/store,26103,1793
+Michigan,Mason,198238.92978947368,Dollars/store,26105,1797
+Michigan,Mecosta,208303.36835820894,Dollars/store,26107,1800
+Michigan,Menominee,87638.9913559322,Dollars/store,26109,1802
+Michigan,Midland,211220.1708296943,Dollars/store,26111,1806
+Michigan,Missaukee,91153.13970443349,Dollars/store,26113,1810
+Michigan,Monroe,195864.3447120419,Dollars/store,26115,1812
+Michigan,Montcalm,155738.82752497226,Dollars/store,26117,1815
+Michigan,Montmorency,114585.94534351146,Dollars/store,26119,1816
+Michigan,Muskegon,283687.5348611812,Dollars/store,26121,1818
+Michigan,Newaygo,181938.0523183391,Dollars/store,26123,1820
+Michigan,Oakland,192410.03822230507,Dollars/store,26125,1824
+Michigan,Oceana,90178.84552845529,Dollars/store,26127,1825
+Michigan,Ogemaw,197453.70825396825,Dollars/store,26129,1827
+Michigan,Ontonagon,58210.75626168225,Dollars/store,26131,1829
+Michigan,Osceola,92585.16535714285,Dollars/store,26133,1830
+Michigan,Oscoda,93558.73916666668,Dollars/store,26135,1832
+Michigan,Otsego,213827.76126649076,Dollars/store,26137,1834
+Michigan,Ottawa,140191.29562382447,Dollars/store,26139,1837
+Michigan,Presque Isle,78823.65139896375,Dollars/store,26141,1840
+Michigan,Roscommon,150901.85662921346,Dollars/store,26143,1843
+Michigan,Saginaw,286692.592265093,Dollars/store,26145,1845
+Michigan,St. Clair,189587.07693800537,Dollars/store,26147,1854
+Michigan,St. Joseph,168868.393129771,Dollars/store,26149,1857
+Michigan,Sanilac,102258.32189573461,Dollars/store,26151,1858
+Michigan,Schoolcraft,125799.24472440945,Dollars/store,26153,1861
+Michigan,Shiawassee,219686.87601328903,Dollars/store,26155,1863
+Michigan,Tuscola,151364.26367851623,Dollars/store,26157,1866
+Michigan,Van Buren,174522.76011560694,Dollars/store,26159,1867
+Michigan,Washtenaw,158079.62810600156,Dollars/store,26161,1869
+Michigan,Wayne,290364.7780824477,Dollars/store,26163,1871
+Michigan,Wexford,284592.76514018694,Dollars/store,26165,1873
+Minnesota,Aitkin,56561.522666666664,Dollars/store,27001,1875
+Minnesota,Anoka,181749.3667340748,Dollars/store,27003,1877
+Minnesota,Becker,177296.98674626864,Dollars/store,27005,1878
+Minnesota,Beltrami,380858.28642335767,Dollars/store,27007,1880
+Minnesota,Benton,131247.41644736842,Dollars/store,27009,1881
+Minnesota,Big Stone,49446.92333333333,Dollars/store,27011,1882
+Minnesota,Blue Earth,216389.5679032258,Dollars/store,27013,1886
+Minnesota,Brown,121600.1527093596,Dollars/store,27015,1892
+Minnesota,Carlton,144167.04102564103,Dollars/store,27017,1893
+Minnesota,Carver,62057.29610738254,Dollars/store,27019,1894
+Minnesota,Cass,129120.8668852459,Dollars/store,27021,1895
+Minnesota,Chippewa,170911.95,Dollars/store,27023,1896
+Minnesota,Chisago,57530.98018348624,Dollars/store,27025,1897
+Minnesota,Clay,237670.89631578946,Dollars/store,27027,1898
+Minnesota,Clearwater,73890.3413592233,Dollars/store,27029,1899
+Minnesota,Cook,69198.7975,Dollars/store,27031,1900
+Minnesota,Cottonwood,79498.93299999999,Dollars/store,27033,1902
+Minnesota,Crow Wing,142086.3343283582,Dollars/store,27035,1903
+Minnesota,Dakota,159705.92831148807,Dollars/store,27037,1904
+Minnesota,Dodge,46894.24298507463,Dollars/store,27039,1906
+Minnesota,Douglas,155886.83349152544,Dollars/store,27041,1907
+Minnesota,Faribault,51151.384,Dollars/store,27043,1908
+Minnesota,Fillmore,43182.988540540544,Dollars/store,27045,1909
+Minnesota,Freeborn,134961.68524390244,Dollars/store,27047,1910
+Minnesota,Goodhue,82075.64699228793,Dollars/store,27049,1911
+Minnesota,Grant,31848.92,Dollars/store,27051,1912
+Minnesota,Hennepin,218390.5963806023,Dollars/store,27053,1913
+Minnesota,Houston,44699.573525179854,Dollars/store,27055,1914
+Minnesota,Hubbard,170057.70179999998,Dollars/store,27057,1915
+Minnesota,Isanti,231612.7480373832,Dollars/store,27059,1916
+Minnesota,Itasca,177240.62015503875,Dollars/store,27061,1917
+Minnesota,Jackson,39270.98313253012,Dollars/store,27063,1918
+Minnesota,Kanabec,148142.25386138615,Dollars/store,27065,1919
+Minnesota,Kandiyohi,246058.32652567976,Dollars/store,27067,1920
+Minnesota,Kittson,29508.218947368423,Dollars/store,27069,1921
+Minnesota,Koochiching,106671.82049999999,Dollars/store,27071,1922
+Minnesota,Lac qui Parle,38167.04666666667,Dollars/store,27073,1923
+Minnesota,Lake,54243.852,Dollars/store,27075,1926
+Minnesota,Lake of the Woods,nan,Dollars/store,27077,1927
+Minnesota,Le Sueur,42740.17694117647,Dollars/store,27079,1929
+Minnesota,Lincoln,26199.13666666667,Dollars/store,27081,1931
+Minnesota,Lyon,159567.4058015267,Dollars/store,27083,1932
+Minnesota,McLeod,93078.18,Dollars/store,27085,1934
+Minnesota,Mahnomen,184247.05920000002,Dollars/store,27087,1936
+Minnesota,Marshall,14294.076470588234,Dollars/store,27089,1937
+Minnesota,Martin,135543.8172839506,Dollars/store,27091,1940
+Minnesota,Meeker,97632.00423529412,Dollars/store,27093,1941
+Minnesota,Mille Lacs,154025.50513761464,Dollars/store,27095,1943
+Minnesota,Morrison,85710.58048,Dollars/store,27097,1944
+Minnesota,Mower,173325.87876923077,Dollars/store,27099,1945
+Minnesota,Murray,33300.16521739131,Dollars/store,27101,1947
+Minnesota,Nicollet,49332.77158878505,Dollars/store,27103,1948
+Minnesota,Nobles,128346.40985915493,Dollars/store,27105,1950
+Minnesota,Norman,59103.23462686568,Dollars/store,27107,1951
+Minnesota,Olmsted,202763.56322981368,Dollars/store,27109,1953
+Minnesota,Otter Tail,98981.69422818792,Dollars/store,27111,1954
+Minnesota,Pennington,227973.37333333335,Dollars/store,27113,1956
+Minnesota,Pine,153813.70243902438,Dollars/store,27115,1957
+Minnesota,Pipestone,69178.71072,Dollars/store,27117,1958
+Minnesota,Polk,163387.05191489364,Dollars/store,27119,1959
+Minnesota,Pope,39453.82625,Dollars/store,27121,1961
+Minnesota,Ramsey,271055.621132278,Dollars/store,27123,1964
+Minnesota,Red Lake,nan,Dollars/store,27125,1966
+Minnesota,Redwood,106962.37263157895,Dollars/store,27127,1969
+Minnesota,Renville,44720.19466666667,Dollars/store,27129,1971
+Minnesota,Rice,156779.25267605632,Dollars/store,27131,1973
+Minnesota,Rock,68654.71418181818,Dollars/store,27133,1974
+Minnesota,Roseau,79827.51666666666,Dollars/store,27135,1976
+Minnesota,St. Louis,152623.6297613883,Dollars/store,27137,1978
+Minnesota,Scott,124785.34767857143,Dollars/store,27139,1979
+Minnesota,Sherburne,105529.78356164384,Dollars/store,27141,1980
+Minnesota,Sibley,32959.37008695652,Dollars/store,27143,1982
+Minnesota,Stearns,214961.6750304083,Dollars/store,27145,1984
+Minnesota,Steele,152565.51189873417,Dollars/store,27147,1985
+Minnesota,Stevens,82687.261875,Dollars/store,27149,1987
+Minnesota,Swift,53943.913920000006,Dollars/store,27151,1988
+Minnesota,Todd,43064.95256756757,Dollars/store,27153,1989
+Minnesota,Traverse,nan,Dollars/store,27155,1990
+Minnesota,Wabasha,57729.27631578947,Dollars/store,27157,1991
+Minnesota,Wadena,159471.32206451613,Dollars/store,27159,1992
+Minnesota,Waseca,128395.01061224489,Dollars/store,27161,1993
+Minnesota,Washington,150363.86257806246,Dollars/store,27163,1994
+Minnesota,Watonwan,34066.34785714286,Dollars/store,27165,1996
+Minnesota,Wilkin,50237.2925,Dollars/store,27167,1997
+Minnesota,Winona,129042.59763380283,Dollars/store,27169,1998
+Minnesota,Wright,93574.46627118644,Dollars/store,27171,1999
+Minnesota,Yellow Medicine,40889.15884615385,Dollars/store,27173,1531
+Mississippi,Adams,346557.7964651162,Dollars/store,28001,1534
+Mississippi,Alcorn,263288.0381443299,Dollars/store,28003,1538
+Mississippi,Amite,54944.06013422819,Dollars/store,28005,1539
+Mississippi,Attala,260836.17420560753,Dollars/store,28007,1541
+Mississippi,Benton,142000.18216216215,Dollars/store,28009,1544
+Mississippi,Bolivar,303711.2484021544,Dollars/store,28011,1547
+Mississippi,Calhoun,146106.21129186603,Dollars/store,28013,1548
+Mississippi,Carroll,29072.25,Dollars/store,28015,1549
+Mississippi,Chickasaw,206171.87294117647,Dollars/store,28017,1550
+Mississippi,Choctaw,99759.064,Dollars/store,28019,1552
+Mississippi,Claiborne,251062.3133944954,Dollars/store,28021,1555
+Mississippi,Clarke,163167.18877192982,Dollars/store,28023,1557
+Mississippi,Clay,195020.4929577465,Dollars/store,28025,1559
+Mississippi,Coahoma,325285.48161073826,Dollars/store,28027,1562
+Mississippi,Copiah,183563.82457831324,Dollars/store,28029,1564
+Mississippi,Covington,167919.9308366534,Dollars/store,28031,1567
+Mississippi,DeSoto,346484.8325864124,Dollars/store,28033,1571
+Mississippi,Forrest,242757.4158497011,Dollars/store,28035,1572
+Mississippi,Franklin,87158.01696000001,Dollars/store,28037,1575
+Mississippi,George,309578.3486538462,Dollars/store,28039,1577
+Mississippi,Greene,73981.19457286433,Dollars/store,28041,1579
+Mississippi,Grenada,601338.8816470589,Dollars/store,28043,1581
+Mississippi,Hancock,224239.55973392457,Dollars/store,28045,1583
+Mississippi,Harrison,290976.66212871287,Dollars/store,28047,1587
+Mississippi,Hinds,262352.8182291336,Dollars/store,28049,1591
+Mississippi,Holmes,172957.0248275862,Dollars/store,28051,1593
+Mississippi,Humphreys,201333.75101123596,Dollars/store,28053,1596
+Mississippi,Issaquena,nan,Dollars/store,28055,1598
+Mississippi,Itawamba,160280.8233962264,Dollars/store,28057,1601
+Mississippi,Jackson,214815.01145728645,Dollars/store,28059,1605
+Mississippi,Jasper,134288.92839779003,Dollars/store,28061,1607
+Mississippi,Jefferson,102310.86455172414,Dollars/store,28063,1610
+Mississippi,Jefferson Davis,124913.73838509317,Dollars/store,28065,1612
+Mississippi,Jones,214087.2120396913,Dollars/store,28067,1615
+Mississippi,Kemper,85715.81785714286,Dollars/store,28069,1616
+Mississippi,Lafayette,198142.27318032787,Dollars/store,28071,1620
+Mississippi,Lamar,252062.73679245278,Dollars/store,28073,1623
+Mississippi,Lauderdale,267853.4090121317,Dollars/store,28075,1628
+Mississippi,Lawrence,140198.0552195122,Dollars/store,28077,1632
+Mississippi,Leake,214433.37459854013,Dollars/store,28079,1636
+Mississippi,Lee,228968.9310989011,Dollars/store,28081,1638
+Mississippi,Leflore,249506.61319796953,Dollars/store,28083,1643
+Mississippi,Lincoln,245233.8943851508,Dollars/store,28085,1645
+Mississippi,Lowndes,225196.91862928346,Dollars/store,28087,1647
+Mississippi,Madison,272257.92614699336,Dollars/store,28089,1651
+Mississippi,Marion,204933.55100775193,Dollars/store,28091,1653
+Mississippi,Marshall,192426.40849884527,Dollars/store,28093,1655
+Mississippi,Monroe,214663.44847058825,Dollars/store,28095,1656
+Mississippi,Montgomery,111404.56538461539,Dollars/store,28097,1658
+Mississippi,Neshoba,276419.94822942646,Dollars/store,28099,1661
+Mississippi,Newton,216559.09745454547,Dollars/store,28101,1663
+Mississippi,Noxubee,299517.48237623763,Dollars/store,28103,1666
+Mississippi,Oktibbeha,275650.638939759,Dollars/store,28105,1668
+Mississippi,Panola,338114.0022524272,Dollars/store,28107,1671
+Mississippi,Pearl River,218575.6981258741,Dollars/store,28109,1676
+Mississippi,Perry,107838.10574257426,Dollars/store,28111,1679
+Mississippi,Pike,264106.44412017165,Dollars/store,28113,1680
+Mississippi,Pontotoc,190928.41639751554,Dollars/store,28115,1682
+Mississippi,Prentiss,164483.9393639576,Dollars/store,28117,1684
+Mississippi,Quitman,44306.721869158886,Dollars/store,28119,1685
+Mississippi,Rankin,185701.84643258425,Dollars/store,28121,1690
+Mississippi,Scott,222094.18623853207,Dollars/store,28123,1692
+Mississippi,Sharkey,195538.97375,Dollars/store,28125,1695
+Mississippi,Simpson,187396.79936,Dollars/store,28127,1698
+Mississippi,Smith,105385.04842105263,Dollars/store,28129,1709
+Mississippi,Stone,274989.27593582886,Dollars/store,28131,1712
+Mississippi,Sunflower,221086.91224242427,Dollars/store,28133,1721
+Mississippi,Tallahatchie,80521.30048192771,Dollars/store,28135,1725
+Mississippi,Tate,194734.3583850932,Dollars/store,28137,1727
+Mississippi,Tippah,156491.9853393665,Dollars/store,28139,1730
+Mississippi,Tishomingo,85407.18942857142,Dollars/store,28141,1732
+Mississippi,Tunica,181561.96134453782,Dollars/store,28143,1735
+Mississippi,Union,155481.45678571428,Dollars/store,28145,1737
+Mississippi,Walthall,198947.33959731544,Dollars/store,28147,1740
+Mississippi,Warren,302964.5968289291,Dollars/store,28149,1746
+Mississippi,Washington,330209.1247368421,Dollars/store,28151,1750
+Mississippi,Wayne,349164.50416666665,Dollars/store,28153,1753
+Mississippi,Webster,168258.15624161073,Dollars/store,28155,1756
+Mississippi,Wilkinson,143342.85462857143,Dollars/store,28157,1757
+Mississippi,Winston,184475.60857142857,Dollars/store,28159,1758
+Mississippi,Yalobusha,102875.57599999999,Dollars/store,28161,1759
+Mississippi,Yazoo,239634.019270073,Dollars/store,28163,1760
+Missouri,Adair,297079.92356435646,Dollars/store,29001,1761
+Missouri,Andrew,81571.39578947368,Dollars/store,29003,1762
+Missouri,Atchison,62554.518688524586,Dollars/store,29005,1763
+Missouri,Audrain,279816.01,Dollars/store,29007,1766
+Missouri,Barry,186009.4934117647,Dollars/store,29009,1767
+Missouri,Barton,161180.31018404907,Dollars/store,29011,1771
+Missouri,Bates,116907.91425742574,Dollars/store,29013,1776
+Missouri,Benton,186364.74233009707,Dollars/store,29015,1778
+Missouri,Bollinger,136889.76583333334,Dollars/store,29017,1781
+Missouri,Boone,241441.01708265804,Dollars/store,29019,1783
+Missouri,Buchanan,343099.91913253005,Dollars/store,29021,1789
+Missouri,Butler,342170.98827814567,Dollars/store,29023,1792
+Missouri,Caldwell,61509.166666666664,Dollars/store,29025,1795
+Missouri,Callaway,152305.4943089431,Dollars/store,29027,1799
+Missouri,Camden,199803.45421686745,Dollars/store,29029,1803
+Missouri,Cape Girardeau,426769.81286506465,Dollars/store,29031,1808
+Missouri,Carroll,81632.70796460178,Dollars/store,29033,1822
+Missouri,Carter,84904.07368421053,Dollars/store,29035,1001
+Missouri,Cass,220149.39496977025,Dollars/store,29037,1004
+Missouri,Cedar,175218.90496815284,Dollars/store,29039,1007
+Missouri,Chariton,72771.155,Dollars/store,29041,1011
+Missouri,Christian,174619.07902280134,Dollars/store,29043,1014
+Missouri,Clark,44914.32558139535,Dollars/store,29045,1015
+Missouri,Clay,222610.7509370988,Dollars/store,29047,1018
+Missouri,Clinton,54230.03830985915,Dollars/store,29049,1021
+Missouri,Cole,239949.62358078602,Dollars/store,29051,1022
+Missouri,Cooper,224750.0698039216,Dollars/store,29053,1025
+Missouri,Crawford,146699.9244094488,Dollars/store,29055,1028
+Missouri,Dade,82423.46625,Dollars/store,29057,1030
+Missouri,Dallas,205036.4924050633,Dollars/store,29059,1032
+Missouri,Daviess,82246.08142857142,Dollars/store,29061,1036
+Missouri,DeKalb,355316.41000000003,Dollars/store,29063,1038
+Missouri,Dent,555361.1251948052,Dollars/store,29065,1040
+Missouri,Douglas,304817.55860869563,Dollars/store,29067,1043
+Missouri,Dunklin,372532.1314691943,Dollars/store,29069,1045
+Missouri,Franklin,222003.93574766358,Dollars/store,29071,1047
+Missouri,Gasconade,179614.7875,Dollars/store,29073,1049
+Missouri,Gentry,50440.63513043478,Dollars/store,29075,1052
+Missouri,Greene,287198.2153624349,Dollars/store,29077,1054
+Missouri,Grundy,167424.04314606742,Dollars/store,29079,1057
+Missouri,Harrison,242822.00625,Dollars/store,29081,1058
+Missouri,Henry,202024.6887341772,Dollars/store,29083,1061
+Missouri,Hickory,77234.52857142857,Dollars/store,29085,1063
+Missouri,Holt,nan,Dollars/store,29087,1065
+Missouri,Howard,82866.51145631068,Dollars/store,29089,1068
+Missouri,Howell,258227.26470046083,Dollars/store,29091,1070
+Missouri,Iron,233209.9298360656,Dollars/store,29093,1072
+Missouri,Jackson,286424.8805774975,Dollars/store,29095,1074
+Missouri,Jasper,267719.1656855707,Dollars/store,29097,1078
+Missouri,Jefferson,211285.1261360719,Dollars/store,29099,1082
+Missouri,Johnson,173387.31289817233,Dollars/store,29101,1087
+Missouri,Knox,63715.23,Dollars/store,29103,1091
+Missouri,Laclede,243613.42098214285,Dollars/store,29105,1096
+Missouri,Lafayette,103986.66423529411,Dollars/store,29107,1099
+Missouri,Lawrence,197600.61272727273,Dollars/store,29109,1101
+Missouri,Lewis,66991.43269565217,Dollars/store,29111,1104
+Missouri,Lincoln,207473.801369863,Dollars/store,29113,1106
+Missouri,Linn,152872.92076433118,Dollars/store,29115,1109
+Missouri,Livingston,242910.55090909087,Dollars/store,29117,1112
+Missouri,McDonald,139217.4617857143,Dollars/store,29119,1113
+Missouri,Macon,109032.42032432432,Dollars/store,29121,1116
+Missouri,Madison,295626.959,Dollars/store,29123,1117
+Missouri,Maries,100535.575,Dollars/store,29125,1120
+Missouri,Marion,251811.22103448276,Dollars/store,29127,1122
+Missouri,Mercer,31006.909411764704,Dollars/store,29129,1125
+Missouri,Miller,178681.136,Dollars/store,29131,1128
+Missouri,Mississippi,198092.8010695187,Dollars/store,29133,1131
+Missouri,Moniteau,105226.42363636363,Dollars/store,29135,1135
+Missouri,Monroe,73865.80468085107,Dollars/store,29137,1139
+Missouri,Montgomery,106553.40166666667,Dollars/store,29139,1142
+Missouri,Morgan,174369.6725179856,Dollars/store,29141,1146
+Missouri,New Madrid,385994.22573529405,Dollars/store,29143,1149
+Missouri,Newton,212093.65787671233,Dollars/store,29145,1152
+Missouri,Nodaway,124399.86375,Dollars/store,29147,1156
+Missouri,Oregon,208443.28642857142,Dollars/store,29149,1158
+Missouri,Osage,40431.86044444444,Dollars/store,29151,1164
+Missouri,Ozark,96623.70394160585,Dollars/store,29153,1168
+Missouri,Pemiscot,302101.1741626794,Dollars/store,29155,1170
+Missouri,Perry,218695.3705263158,Dollars/store,29157,1172
+Missouri,Pettis,248480.19073170732,Dollars/store,29159,1174
+Missouri,Phelps,238068.4531887202,Dollars/store,29161,1176
+Missouri,Pike,161733.62136125655,Dollars/store,29163,1179
+Missouri,Platte,150723.98863387978,Dollars/store,29165,1181
+Missouri,Polk,291024.2784172662,Dollars/store,29167,1183
+Missouri,Pulaski,199725.93363844394,Dollars/store,29169,1185
+Missouri,Putnam,83133.31578947368,Dollars/store,29171,1188
+Missouri,Ralls,28646.593,Dollars/store,29173,1191
+Missouri,Randolph,271522.09934065933,Dollars/store,29175,1194
+Missouri,Ray,210294.12956521742,Dollars/store,29177,1197
+Missouri,Reynolds,120563.02142857143,Dollars/store,29179,1200
+Missouri,Ripley,281292.102,Dollars/store,29181,1203
+Missouri,St. Charles,152716.83373109243,Dollars/store,29183,1205
+Missouri,St. Clair,87108.85652694611,Dollars/store,29185,1208
+Missouri,Ste. Genevieve,108301.04193103449,Dollars/store,29186,1209
+Missouri,St. Francois,300843.5315789474,Dollars/store,29187,1212
+Missouri,St. Louis County,300769.1247791798,Dollars/store,29189,1216
+Missouri,Saline,215227.94604255323,Dollars/store,29195,1218
+Missouri,Schuyler,30178.485,Dollars/store,29197,1221
+Missouri,Scotland,54532.504736842115,Dollars/store,29199,1224
+Missouri,Scott,232779.44740384616,Dollars/store,29201,1227
+Missouri,Shannon,141691.37346534655,Dollars/store,29203,1229
+Missouri,Shelby,59010.83076923077,Dollars/store,29205,1232
+Missouri,Stoddard,315620.94712643675,Dollars/store,29207,1236
+Missouri,Stone,137839.01384615383,Dollars/store,29209,1237
+Missouri,Sullivan,83530.29166666667,Dollars/store,29211,1240
+Missouri,Taney,217089.7643697479,Dollars/store,29213,1242
+Missouri,Texas,206699.01502040814,Dollars/store,29215,1245
+Missouri,Vernon,285121.9624309392,Dollars/store,29217,1248
+Missouri,Warren,281190.8165581395,Dollars/store,29219,1251
+Missouri,Washington,263681.7582222222,Dollars/store,29221,1253
+Missouri,Wayne,152559.97875,Dollars/store,29223,1256
+Missouri,Webster,162824.49593406593,Dollars/store,29225,1258
+Missouri,Worth,39836.705,Dollars/store,29227,1261
+Missouri,Wright,286174.98888888885,Dollars/store,29229,1263
+Missouri,St. Louis County,287279.1426262626,Dollars/store,29510,1216
+Montana,Beaverhead,114150.9225,Dollars/store,30001,1269
+Montana,Big Horn,350416.474015748,Dollars/store,30003,1274
+Montana,Blaine,247070.53448275864,Dollars/store,30005,1124
+Montana,Broadwater,76975.34938775511,Dollars/store,30007,1132
+Montana,Carbon,40065.79351351352,Dollars/store,30009,1137
+Montana,Carter,nan,Dollars/store,30011,1141
+Montana,Cascade,305976.3940515933,Dollars/store,30013,1144
+Montana,Chouteau,nan,Dollars/store,30015,1150
+Montana,Custer,148641.37953488372,Dollars/store,30017,1153
+Montana,Daniels,nan,Dollars/store,30019,1157
+Montana,Dawson,122131.36137931034,Dollars/store,30021,1160
+Montana,Deer Lodge,147562.14424242423,Dollars/store,30023,1163
+Montana,Fallon,nan,Dollars/store,30025,1165
+Montana,Fergus,151218.57473684213,Dollars/store,30027,1169
+Montana,Flathead,244714.33931203932,Dollars/store,30029,1173
+Montana,Gallatin,150180.96750000003,Dollars/store,30031,1177
+Montana,Garfield,nan,Dollars/store,30033,1182
+Montana,Glacier,383924.5972727273,Dollars/store,30035,1186
+Montana,Golden Valley,nan,Dollars/store,30037,1189
+Montana,Granite,nan,Dollars/store,30039,1192
+Montana,Hill,435089.97569620254,Dollars/store,30041,1195
+Montana,Jefferson,65205.281194029856,Dollars/store,30043,1199
+Montana,Judith Basin,nan,Dollars/store,30045,1202
+Montana,Lake,384159.1046808511,Dollars/store,30047,1207
+Montana,Lewis and Clark,234233.207029877,Dollars/store,30049,1211
+Montana,Liberty,nan,Dollars/store,30051,1214
+Montana,Lincoln,210862.65902439025,Dollars/store,30053,1219
+Montana,McCone,nan,Dollars/store,30055,1223
+Montana,Madison,34584.24833333333,Dollars/store,30057,1226
+Montana,Meagher,nan,Dollars/store,30059,1231
+Montana,Mineral,63009.36292682927,Dollars/store,30061,1234
+Montana,Missoula,318121.72152709356,Dollars/store,30063,1239
+Montana,Musselshell,nan,Dollars/store,30065,1241
+Montana,Park,126713.8967832168,Dollars/store,30067,1244
+Montana,Petroleum,nan,Dollars/store,30069,1247
+Montana,Phillips,nan,Dollars/store,30071,1250
+Montana,Pondera,64952.635813953486,Dollars/store,30073,1254
+Montana,Powder River,nan,Dollars/store,30075,1259
+Montana,Powell,nan,Dollars/store,30077,1262
+Montana,Prairie,nan,Dollars/store,30079,1264
+Montana,Ravalli,213118.5851263538,Dollars/store,30081,1268
+Montana,Richland,118184.05304347826,Dollars/store,30083,1271
+Montana,Roosevelt,427358.02999999997,Dollars/store,30085,1275
+Montana,Rosebud,227210.63,Dollars/store,30087,1277
+Montana,Sanders,101775.49582417583,Dollars/store,30089,1278
+Montana,Sheridan,48515.5175,Dollars/store,30091,1281
+Montana,Silver Bow,256032.8541935484,Dollars/store,30093,1284
+Montana,Stillwater,57417.585,Dollars/store,30095,1286
+Montana,Sweet Grass,28695.0525,Dollars/store,30097,1288
+Montana,Teton,nan,Dollars/store,30099,1290
+Montana,Toole,102639.804,Dollars/store,30101,1292
+Montana,Treasure,nan,Dollars/store,30103,1293
+Montana,Valley,167110.885,Dollars/store,30105,1296
+Montana,Wheatland,nan,Dollars/store,30107,1298
+Montana,Wibaux,nan,Dollars/store,30109,1300
+Montana,Yellowstone,287918.7796238757,Dollars/store,30111,1302
+Nebraska,Adams,310869.02451612905,Dollars/store,31001,1303
+Nebraska,Antelope,51277.284,Dollars/store,31003,1305
+Nebraska,Arthur,nan,Dollars/store,31005,1307
+Nebraska,Banner,nan,Dollars/store,31007,1308
+Nebraska,Blaine,nan,Dollars/store,31009,1309
+Nebraska,Boone,24074.816170212765,Dollars/store,31011,1310
+Nebraska,Box Butte,155638.37888888887,Dollars/store,31013,1315
+Nebraska,Boyd,nan,Dollars/store,31015,1317
+Nebraska,Brown,48585.778000000006,Dollars/store,31017,1319
+Nebraska,Buffalo,180790.84363636363,Dollars/store,31019,1321
+Nebraska,Burt,47390.33164556962,Dollars/store,31021,1323
+Nebraska,Butler,nan,Dollars/store,31023,1325
+Nebraska,Cass,82033.34941935484,Dollars/store,31025,1326
+Nebraska,Cedar,20705.585,Dollars/store,31027,1329
+Nebraska,Chase,41298.4475,Dollars/store,31029,1330
+Nebraska,Cherry,329925.598,Dollars/store,31031,1333
+Nebraska,Cheyenne,205401.44666666666,Dollars/store,31033,1334
+Nebraska,Clay,34820.41448275863,Dollars/store,31035,1336
+Nebraska,Colfax,53872.087,Dollars/store,31037,1338
+Nebraska,Cuming,50763.9228,Dollars/store,31039,1340
+Nebraska,Custer,73626.9011111111,Dollars/store,31041,1342
+Nebraska,Dakota,355460.54052631574,Dollars/store,31043,1344
+Nebraska,Dawes,444580.89285714284,Dollars/store,31045,1347
+Nebraska,Dawson,177378.0896069869,Dollars/store,31047,1349
+Nebraska,Deuel,nan,Dollars/store,31049,1351
+Nebraska,Dixon,nan,Dollars/store,31051,1353
+Nebraska,Dodge,199770.77982300887,Dollars/store,31053,1354
+Nebraska,Douglas,291527.80930873036,Dollars/store,31055,1358
+Nebraska,Dundy,nan,Dollars/store,31057,1360
+Nebraska,Fillmore,28265.035247524756,Dollars/store,31059,1363
+Nebraska,Franklin,nan,Dollars/store,31061,1369
+Nebraska,Frontier,nan,Dollars/store,31063,1371
+Nebraska,Furnas,31062.464285714286,Dollars/store,31065,1374
+Nebraska,Gage,159976.08735849056,Dollars/store,31067,1378
+Nebraska,Garden,nan,Dollars/store,31069,1381
+Nebraska,Garfield,nan,Dollars/store,31071,1391
+Nebraska,Gosper,nan,Dollars/store,31073,1393
+Nebraska,Grant,nan,Dollars/store,31075,1395
+Nebraska,Greeley,nan,Dollars/store,31077,1397
+Nebraska,Hall,321581.15465478844,Dollars/store,31079,1402
+Nebraska,Hamilton,59068.4625,Dollars/store,31081,1405
+Nebraska,Harlan,nan,Dollars/store,31083,1409
+Nebraska,Hayes,nan,Dollars/store,31085,1411
+Nebraska,Hitchcock,nan,Dollars/store,31087,1414
+Nebraska,Holt,67813.1190909091,Dollars/store,31089,1416
+Nebraska,Hooker,nan,Dollars/store,31091,1418
+Nebraska,Howard,39088.78,Dollars/store,31093,1311
+Nebraska,Jefferson,221627.7,Dollars/store,31095,1312
+Nebraska,Johnson,nan,Dollars/store,31097,1313
+Nebraska,Kearney,43831.5975,Dollars/store,31099,1314
+Nebraska,Keith,157910.472,Dollars/store,31101,1316
+Nebraska,Keya Paha,nan,Dollars/store,31103,1318
+Nebraska,Kimball,nan,Dollars/store,31105,1320
+Nebraska,Knox,51928.80545454546,Dollars/store,31107,1322
+Nebraska,Lancaster,266657.9635443038,Dollars/store,31109,1324
+Nebraska,Lincoln,241726.45234567902,Dollars/store,31111,1327
+Nebraska,Logan,nan,Dollars/store,31113,1328
+Nebraska,Loup,nan,Dollars/store,31115,1331
+Nebraska,McPherson,nan,Dollars/store,31117,1332
+Nebraska,Madison,203760.49444444443,Dollars/store,31119,1335
+Nebraska,Merrick,nan,Dollars/store,31121,1337
+Nebraska,Morrill,80129.61163636364,Dollars/store,31123,1339
+Nebraska,Nance,nan,Dollars/store,31125,1341
+Nebraska,Nemaha,58777.59829787235,Dollars/store,31127,1343
+Nebraska,Nuckolls,48484.08,Dollars/store,31129,1345
+Nebraska,Otoe,165235.9896774194,Dollars/store,31131,1348
+Nebraska,Pawnee,nan,Dollars/store,31133,1350
+Nebraska,Perkins,nan,Dollars/store,31135,1352
+Nebraska,Phelps,68589.36222222222,Dollars/store,31137,1355
+Nebraska,Pierce,25461.28101265823,Dollars/store,31139,1356
+Nebraska,Platte,213532.902,Dollars/store,31141,1359
+Nebraska,Polk,19766.301666666666,Dollars/store,31143,1362
+Nebraska,Red Willow,318759.0733333333,Dollars/store,31145,1364
+Nebraska,Richardson,101055.94333333334,Dollars/store,31147,1365
+Nebraska,Rock,nan,Dollars/store,31149,1366
+Nebraska,Saline,95933.35029585799,Dollars/store,31151,1367
+Nebraska,Sarpy,253197.13806629833,Dollars/store,31153,1368
+Nebraska,Saunders,45949.065833333334,Dollars/store,31155,1370
+Nebraska,Scotts Bluff,372550.55282868526,Dollars/store,31157,1373
+Nebraska,Seward,88649.84,Dollars/store,31159,1375
+Nebraska,Sheridan,237001.88102564102,Dollars/store,31161,1376
+Nebraska,Sherman,nan,Dollars/store,31163,1377
+Nebraska,Sioux,nan,Dollars/store,31165,1380
+Nebraska,Stanton,nan,Dollars/store,31167,1382
+Nebraska,Thayer,34671.782,Dollars/store,31169,1383
+Nebraska,Thomas,nan,Dollars/store,31171,1384
+Nebraska,Thurston,167698.305,Dollars/store,31173,1385
+Nebraska,Valley,60625.980845070415,Dollars/store,31175,1386
+Nebraska,Washington,186631.0904347826,Dollars/store,31177,1387
+Nebraska,Wayne,60845.045999999995,Dollars/store,31179,1388
+Nebraska,Webster,nan,Dollars/store,31181,1389
+Nebraska,Wheeler,nan,Dollars/store,31183,1390
+Nebraska,York,166695.73777777777,Dollars/store,31185,1392
+Nevada,Churchill,278034.81549738225,Dollars/store,32001,1396
+Nevada,Clark,438261.93669503037,Dollars/store,32003,1399
+Nevada,Douglas,211545.18701754385,Dollars/store,32005,1400
+Nevada,Elko,173609.42493150683,Dollars/store,32007,1401
+Nevada,Esmeralda,nan,Dollars/store,32009,1404
+Nevada,Eureka,nan,Dollars/store,32011,1406
+Nevada,Humboldt,196327.305,Dollars/store,32013,1407
+Nevada,Lander,nan,Dollars/store,32015,1408
+Nevada,Lincoln,73858.1725,Dollars/store,32017,1410
+Nevada,Lyon,148807.02686070686,Dollars/store,32019,1412
+Nevada,Mineral,76936.915,Dollars/store,32021,1415
+Nevada,Nye,273288.02775,Dollars/store,32023,1417
+Nevada,Pershing,89823.292,Dollars/store,32027,1419
+Nevada,Storey,nan,Dollars/store,32029,1420
+Nevada,Washoe,222811.1719327731,Dollars/store,32031,1423
+Nevada,White Pine,197990.8953846154,Dollars/store,32033,1425
+Nevada,Carson City,201356.69544,Dollars/store,32510,1428
+New Hampshire,Belknap,153226.9185185185,Dollars/store,33001,1432
+New Hampshire,Carroll,105924.18352941176,Dollars/store,33003,1435
+New Hampshire,Cheshire,220471.0437423313,Dollars/store,33005,1437
+New Hampshire,Coos,127685.85168539325,Dollars/store,33007,1440
+New Hampshire,Grafton,123079.06807799442,Dollars/store,33009,1442
+New Hampshire,Hillsborough,139292.20481267135,Dollars/store,33011,1443
+New Hampshire,Merrimack,138441.11188544153,Dollars/store,33013,1444
+New Hampshire,Rockingham,154064.58225433526,Dollars/store,33015,1448
+New Hampshire,Strafford,174255.113360161,Dollars/store,33017,1453
+New Hampshire,Sullivan,208427.57740384617,Dollars/store,33019,1454
+New Jersey,Atlantic,244869.06191612154,Dollars/store,34001,1461
+New Jersey,Bergen,216409.140069979,Dollars/store,34003,1465
+New Jersey,Burlington,156996.45292755542,Dollars/store,34005,1470
+New Jersey,Camden,207315.48835599507,Dollars/store,34007,1472
+New Jersey,Cape May,133181.27747102213,Dollars/store,34009,1477
+New Jersey,Cumberland,279659.2766139955,Dollars/store,34011,1482
+New Jersey,Essex,231978.30716679478,Dollars/store,34013,1483
+New Jersey,Gloucester,174178.486389414,Dollars/store,34015,1484
+New Jersey,Hudson,277745.17659376323,Dollars/store,34017,1487
+New Jersey,Hunterdon,67580.26374193549,Dollars/store,34019,1488
+New Jersey,Mercer,149580.82962288687,Dollars/store,34021,1493
+New Jersey,Middlesex,180667.20932153394,Dollars/store,34023,1497
+New Jersey,Monmouth,147787.20945077718,Dollars/store,34025,1504
+New Jersey,Morris,119130.80702516035,Dollars/store,34027,1511
+New Jersey,Ocean,184552.1434365325,Dollars/store,34029,1546
+New Jersey,Passaic,259806.85636655375,Dollars/store,34031,1551
+New Jersey,Salem,168383.45434343434,Dollars/store,34033,1553
+New Jersey,Somerset,151961.81558514366,Dollars/store,34035,1558
+New Jersey,Sussex,113298.87488559893,Dollars/store,34037,1561
+New Jersey,Union,199557.02971061095,Dollars/store,34039,1566
+New Jersey,Warren,174193.94158833064,Dollars/store,34041,1570
+New Mexico,Bernalillo,518880.60829174664,Dollars/store,35001,1574
+New Mexico,Catron,16977.412,Dollars/store,35003,1576
+New Mexico,Chaves,375791.87452282157,Dollars/store,35005,1578
+New Mexico,Cibola,438097.720671141,Dollars/store,35006,1580
+New Mexico,Colfax,158833.07805405406,Dollars/store,35007,1582
+New Mexico,Curry,345923.67719557195,Dollars/store,35009,1586
+New Mexico,De Baca,64822.200000000004,Dollars/store,35011,1589
+New Mexico,Doña Ana,457858.3610230817,Dollars/store,35013,
+New Mexico,Eddy,324169.31686411146,Dollars/store,35015,1592
+New Mexico,Grant,360551.6801226994,Dollars/store,35017,1594
+New Mexico,Guadalupe,62454.156363636364,Dollars/store,35019,1595
+New Mexico,Harding,nan,Dollars/store,35021,1597
+New Mexico,Hidalgo,102032.30424242424,Dollars/store,35023,1600
+New Mexico,Lea,321904.49968,Dollars/store,35025,1604
+New Mexico,Lincoln,284980.4286713287,Dollars/store,35027,1613
+New Mexico,Los Alamos,384085.42499999993,Dollars/store,35028,1618
+New Mexico,Luna,545193.7973333333,Dollars/store,35029,1622
+New Mexico,McKinley,613165.8803214696,Dollars/store,35031,1626
+New Mexico,Mora,nan,Dollars/store,35033,1629
+New Mexico,Otero,351315.30993865035,Dollars/store,35035,1633
+New Mexico,Quay,208655.47736842107,Dollars/store,35037,1637
+New Mexico,Rio Arriba,359883.9421875,Dollars/store,35039,1639
+New Mexico,Roosevelt,310820.7208695652,Dollars/store,35041,1642
+New Mexico,Sandoval,395808.31154430384,Dollars/store,35043,1646
+New Mexico,San Juan,667738.4474347825,Dollars/store,35045,1650
+New Mexico,San Miguel,459512.82163265307,Dollars/store,35047,1652
+New Mexico,Santa Fe,539867.7481040893,Dollars/store,35049,1654
+New Mexico,Sierra,295859.9840462428,Dollars/store,35051,1657
+New Mexico,Socorro,407880.4834285714,Dollars/store,35053,1659
+New Mexico,Taos,298575.3375757576,Dollars/store,35055,1662
+New Mexico,Torrance,104917.84309392265,Dollars/store,35057,1664
+New Mexico,Union,118619.92199999999,Dollars/store,35059,1667
+New Mexico,Valencia,421265.1006167401,Dollars/store,35061,1670
+New York,Albany,208841.00519758873,Dollars/store,36001,1673
+New York,Allegany,144574.1259724951,Dollars/store,36003,1674
+New York,Bronx,408215.6183739838,Dollars/store,36005,1681
+New York,Broome,254946.6314028777,Dollars/store,36007,1683
+New York,Cattaraugus,278794.7179650239,Dollars/store,36009,1687
+New York,Cayuga,255547.50545454546,Dollars/store,36011,1689
+New York,Chautauqua,331226.9261688312,Dollars/store,36013,1694
+New York,Chemung,276781.63436793425,Dollars/store,36015,1696
+New York,Chenango,155048.11516483515,Dollars/store,36017,1699
+New York,Clinton,181508.00834088848,Dollars/store,36019,1702
+New York,Columbia,134436.9925479452,Dollars/store,36021,1704
+New York,Cortland,232468.89404174575,Dollars/store,36023,1706
+New York,Delaware,102553.93394034536,Dollars/store,36025,1707
+New York,Dutchess,167131.874962668,Dollars/store,36027,1711
+New York,Erie,283001.95141623676,Dollars/store,36029,1723
+New York,Essex,91988.91759656652,Dollars/store,36031,1728
+New York,Franklin,150370.2162962963,Dollars/store,36033,1731
+New York,Fulton,222281.38003539824,Dollars/store,36035,1734
+New York,Genesee,191770.4696801706,Dollars/store,36037,1736
+New York,Greene,139323.85175675675,Dollars/store,36039,1739
+New York,Hamilton,23830.6375,Dollars/store,36041,1742
+New York,Herkimer,210863.23700636943,Dollars/store,36043,1745
+New York,Jefferson,211708.15412816693,Dollars/store,36045,1782
+New York,Kings,312997.3518203946,Dollars/store,36047,1788
+New York,Lewis,120248.71632508835,Dollars/store,36049,1790
+New York,Livingston,185187.81718166382,Dollars/store,36051,1791
+New York,Madison,208391.25224347826,Dollars/store,36053,1796
+New York,Monroe,328286.54571561195,Dollars/store,36055,1804
+New York,Montgomery,206563.7726458616,Dollars/store,36057,1807
+New York,Nassau,227298.01335415186,Dollars/store,36059,1839
+New York,New York,313837.9692086921,Dollars/store,36061,1847
+New York,Niagara,261507.91504459863,Dollars/store,36063,1850
+New York,Oneida,246713.4093562232,Dollars/store,36065,1852
+New York,Onondaga,253390.9345019592,Dollars/store,36067,1853
+New York,Ontario,179483.32786206895,Dollars/store,36069,1856
+New York,Orange,256378.00696917213,Dollars/store,36071,1859
+New York,Orleans,229797.3059602649,Dollars/store,36073,1862
+New York,Oswego,253421.88500907444,Dollars/store,36075,1864
+New York,Otsego,150144.3841004184,Dollars/store,36077,1868
+New York,Putnam,89482.13166101695,Dollars/store,36079,1870
+New York,Queens,272175.5815438597,Dollars/store,36081,1872
+New York,Rensselaer,155667.02833976835,Dollars/store,36083,1874
+New York,Richmond,266881.1294631209,Dollars/store,36085,1876
+New York,Rockland,436359.50596451055,Dollars/store,36087,1879
+New York,St. Lawrence,191619.25806642065,Dollars/store,36089,1883
+New York,Saratoga,113451.81327423823,Dollars/store,36091,1885
+New York,Schenectady,221255.9257142857,Dollars/store,36093,1887
+New York,Schoharie,151874.8453012048,Dollars/store,36095,1888
+New York,Schuyler,155247.9155801105,Dollars/store,36097,1889
+New York,Seneca,141238.30336283185,Dollars/store,36099,1890
+New York,Steuben,193539.38981210857,Dollars/store,36101,1891
+New York,Suffolk,235878.67876717413,Dollars/store,36103,1924
+New York,Sullivan,229033.06474383303,Dollars/store,36105,1928
+New York,Tioga,98803.45309576839,Dollars/store,36107,1930
+New York,Tompkins,186464.9572826087,Dollars/store,36109,1933
+New York,Ulster,183434.02100413464,Dollars/store,36111,1935
+New York,Warren,187161.79883313886,Dollars/store,36113,1938
+New York,Washington,110253.51038461538,Dollars/store,36115,1942
+New York,Wayne,162961.0610672854,Dollars/store,36117,1952
+New York,Westchester,323938.70402,Dollars/store,36119,1960
+New York,Wyoming,139160.86510344828,Dollars/store,36121,1962
+New York,Yates,109698.26949152541,Dollars/store,36123,1965
+North Carolina,Alamance,246002.7600701344,Dollars/store,37001,1967
+North Carolina,Alexander,145583.12764044944,Dollars/store,37003,1968
+North Carolina,Alleghany,141658.08864,Dollars/store,37005,1970
+North Carolina,Anson,204123.18710743802,Dollars/store,37007,1972
+North Carolina,Ashe,234418.52425531915,Dollars/store,37009,1975
+North Carolina,Avery,119211.59870967742,Dollars/store,37011,1977
+North Carolina,Beaufort,226354.48646341465,Dollars/store,37013,1981
+North Carolina,Bertie,109785.48,Dollars/store,37015,1983
+North Carolina,Bladen,141187.2615319149,Dollars/store,37017,1986
+North Carolina,Brunswick,178159.04979591834,Dollars/store,37019,1995
+North Carolina,Buncombe,204057.2400483481,Dollars/store,37021,1422
+North Carolina,Burke,130554.10364089777,Dollars/store,37023,1424
+North Carolina,Cabarrus,253935.6402205072,Dollars/store,37025,1426
+North Carolina,Caldwell,210948.38171548117,Dollars/store,37027,1429
+North Carolina,Camden,28898.997108433734,Dollars/store,37029,1433
+North Carolina,Carteret,139493.39857331573,Dollars/store,37031,1447
+North Carolina,Caswell,102602.17145228217,Dollars/store,37033,1449
+North Carolina,Catawba,172167.2820192749,Dollars/store,37035,1450
+North Carolina,Chatham,142293.05268292682,Dollars/store,37037,1451
+North Carolina,Cherokee,241517.54063157894,Dollars/store,37039,1452
+North Carolina,Chowan,134762.34434042554,Dollars/store,37041,1455
+North Carolina,Clay,169310.35276595745,Dollars/store,37043,1457
+North Carolina,Cleveland,212743.55498007967,Dollars/store,37045,1458
+North Carolina,Columbus,246998.7568992248,Dollars/store,37047,1459
+North Carolina,Craven,182948.606547812,Dollars/store,37049,1462
+North Carolina,Cumberland,366227.96952,Dollars/store,37051,1464
+North Carolina,Currituck,84007.448,Dollars/store,37053,1481
+North Carolina,Dare,105224.55841897233,Dollars/store,37055,1485
+North Carolina,Davidson,214561.7536979786,Dollars/store,37057,1489
+North Carolina,Davie,173807.26442307694,Dollars/store,37059,1490
+North Carolina,Duplin,177650.3748251748,Dollars/store,37061,1492
+North Carolina,Durham,257772.40976271185,Dollars/store,37063,1494
+North Carolina,Edgecombe,288396.80792079214,Dollars/store,37065,1495
+North Carolina,Forsyth,253177.65703628,Dollars/store,37067,1496
+North Carolina,Franklin,193456.8794827586,Dollars/store,37069,1498
+North Carolina,Gaston,236234.74573426574,Dollars/store,37071,1499
+North Carolina,Gates,95040.41072164947,Dollars/store,37073,1500
+North Carolina,Graham,184805.80000000002,Dollars/store,37075,1502
+North Carolina,Granville,138176.6231775701,Dollars/store,37077,1503
+North Carolina,Greene,148278.95204081634,Dollars/store,37079,1505
+North Carolina,Guilford,277353.4612729635,Dollars/store,37081,1506
+North Carolina,Halifax,246535.38596194508,Dollars/store,37083,1508
+North Carolina,Harnett,248240.28928176794,Dollars/store,37085,1509
+North Carolina,Haywood,256531.83800000002,Dollars/store,37087,1512
+North Carolina,Henderson,199721.91476635516,Dollars/store,37089,1514
+North Carolina,Hertford,288541.56,Dollars/store,37091,1515
+North Carolina,Hoke,197533.712345679,Dollars/store,37093,1517
+North Carolina,Hyde,68559.31285714285,Dollars/store,37095,1521
+North Carolina,Iredell,154180.26318486882,Dollars/store,37097,1525
+North Carolina,Jackson,224308.38,Dollars/store,37099,1528
+North Carolina,Johnston,240523.50891536052,Dollars/store,37101,1530
+North Carolina,Jones,46191.01777777777,Dollars/store,37103,1536
+North Carolina,Lee,239808.56143352602,Dollars/store,37105,1540
+North Carolina,Lenoir,293484.6264029666,Dollars/store,37107,1542
+North Carolina,Lincoln,173003.4455882353,Dollars/store,37109,1545
+North Carolina,McDowell,194404.4189297659,Dollars/store,37111,1554
+North Carolina,Macon,186259.12450549452,Dollars/store,37113,1556
+North Carolina,Madison,175909.0736423841,Dollars/store,37115,1560
+North Carolina,Martin,250907.38964285716,Dollars/store,37117,1563
+North Carolina,Mecklenburg,254864.97306122447,Dollars/store,37119,1565
+North Carolina,Mitchell,181037.2118309859,Dollars/store,37121,1568
+North Carolina,Montgomery,160311.04340425532,Dollars/store,37123,1573
+North Carolina,Moore,181329.02174496642,Dollars/store,37125,1584
+North Carolina,Nash,230126.48293998654,Dollars/store,37127,1588
+North Carolina,New Hanover,191722.36364548493,Dollars/store,37129,1602
+North Carolina,Northampton,118281.88704318937,Dollars/store,37131,1606
+North Carolina,Onslow,245105.08095537394,Dollars/store,37133,1625
+North Carolina,Orange,132047.5499102692,Dollars/store,37135,1630
+North Carolina,Pamlico,159782.9597802198,Dollars/store,37137,1703
+North Carolina,Pasquotank,299663.8129336189,Dollars/store,37139,1714
+North Carolina,Pender,135386.6289547582,Dollars/store,37141,1718
+North Carolina,Perquimans,169933.47333333333,Dollars/store,37143,1724
+North Carolina,Person,225035.0531838565,Dollars/store,37145,1729
+North Carolina,Pitt,283640.1720724346,Dollars/store,37147,1733
+North Carolina,Polk,59679.001690140845,Dollars/store,37149,1738
+North Carolina,Randolph,268847.9960621762,Dollars/store,37151,1741
+North Carolina,Richmond,317220.78098950523,Dollars/store,37153,1744
+North Carolina,Robeson,268000.18301636446,Dollars/store,37155,1747
+North Carolina,Rockingham,192462.4251401121,Dollars/store,37157,1751
+North Carolina,Rowan,209895.91443375277,Dollars/store,37159,1754
+North Carolina,Rutherford,244485.38009925556,Dollars/store,37161,1764
+North Carolina,Sampson,260211.71198473283,Dollars/store,37163,1769
+North Carolina,Scotland,276572.08209836064,Dollars/store,37165,1772
+North Carolina,Stanly,239118.02530232558,Dollars/store,37167,1775
+North Carolina,Stokes,132237.428671875,Dollars/store,37169,1777
+North Carolina,Surry,190834.94305418717,Dollars/store,37171,1780
+North Carolina,Swain,114188.38646153847,Dollars/store,37173,1784
+North Carolina,Transylvania,194662.07407407407,Dollars/store,37175,1786
+North Carolina,Tyrrell,193289.79090909092,Dollars/store,37177,1794
+North Carolina,Union,180135.78103633117,Dollars/store,37179,1798
+North Carolina,Vance,254284.13957244655,Dollars/store,37181,1801
+North Carolina,Wake,194650.87650985547,Dollars/store,37183,1805
+North Carolina,Warren,189701.04275229355,Dollars/store,37185,1809
+North Carolina,Washington,210947.88444444444,Dollars/store,37187,1811
+North Carolina,Watauga,109791.0638961039,Dollars/store,37189,1813
+North Carolina,Wayne,266526.03892499994,Dollars/store,37191,1814
+North Carolina,Wilkes,177097.7964556962,Dollars/store,37193,1817
+North Carolina,Wilson,219130.30351373856,Dollars/store,37195,1819
+North Carolina,Yadkin,107249.33409610984,Dollars/store,37197,1821
+North Carolina,Yancey,239821.19830985914,Dollars/store,37199,1823
+North Dakota,Adams,26444.155,Dollars/store,38001,1826
+North Dakota,Barnes,74990.19538461539,Dollars/store,38003,1828
+North Dakota,Benson,210468.32666666666,Dollars/store,38005,1831
+North Dakota,Billings,nan,Dollars/store,38007,1833
+North Dakota,Bottineau,457318.5356521739,Dollars/store,38009,1836
+North Dakota,Bowman,37486.994,Dollars/store,38011,1838
+North Dakota,Burke,nan,Dollars/store,38013,1841
+North Dakota,Burleigh,252480.91092077087,Dollars/store,38015,1844
+North Dakota,Cass,230121.56228250702,Dollars/store,38017,1848
+North Dakota,Cavalier,nan,Dollars/store,38019,1849
+North Dakota,Dickey,18045.177391304347,Dollars/store,38021,2004
+North Dakota,Divide,nan,Dollars/store,38023,2007
+North Dakota,Dunn,nan,Dollars/store,38025,2013
+North Dakota,Eddy,nan,Dollars/store,38027,2017
+North Dakota,Emmons,24294.899277108434,Dollars/store,38029,2021
+North Dakota,Foster,nan,Dollars/store,38031,2026
+North Dakota,Golden Valley,nan,Dollars/store,38033,2036
+North Dakota,Grand Forks,204911.56539404552,Dollars/store,38035,2043
+North Dakota,Grant,28371.8675,Dollars/store,38037,2051
+North Dakota,Griggs,nan,Dollars/store,38039,2056
+North Dakota,Hettinger,nan,Dollars/store,38041,2063
+North Dakota,Kidder,nan,Dollars/store,38043,2068
+North Dakota,LaMoure,nan,Dollars/store,38045,2074
+North Dakota,Logan,nan,Dollars/store,38047,2078
+North Dakota,McHenry,nan,Dollars/store,38049,2082
+North Dakota,McIntosh,nan,Dollars/store,38051,2090
+North Dakota,McKenzie,105202.26375,Dollars/store,38053,2097
+North Dakota,McLean,71706.465,Dollars/store,38055,2103
+North Dakota,Mercer,64280.155,Dollars/store,38057,2107
+North Dakota,Morton,192564.7272,Dollars/store,38059,2114
+North Dakota,Mountrail,65654.41548387097,Dollars/store,38061,2119
+North Dakota,Nelson,nan,Dollars/store,38063,2122
+North Dakota,Oliver,nan,Dollars/store,38065,2127
+North Dakota,Pembina,59031.306000000004,Dollars/store,38067,2131
+North Dakota,Pierce,nan,Dollars/store,38069,2136
+North Dakota,Ramsey,337026.09909090906,Dollars/store,38071,2141
+North Dakota,Ransom,53333.09907692307,Dollars/store,38073,2147
+North Dakota,Renville,nan,Dollars/store,38075,2150
+North Dakota,Richland,206587.35630252102,Dollars/store,38077,2156
+North Dakota,Rolette,331799.7164150943,Dollars/store,38079,2161
+North Dakota,Sargent,nan,Dollars/store,38081,2164
+North Dakota,Sheridan,nan,Dollars/store,38083,2169
+North Dakota,Sioux,319994.4075,Dollars/store,38085,2175
+North Dakota,Slope,nan,Dollars/store,38087,2180
+North Dakota,Stark,269074.1811428571,Dollars/store,38089,2182
+North Dakota,Steele,nan,Dollars/store,38091,2186
+North Dakota,Stutsman,204726.33906040268,Dollars/store,38093,2199
+North Dakota,Towner,nan,Dollars/store,38095,2205
+North Dakota,Traill,30429.73879518072,Dollars/store,38097,2217
+North Dakota,Walsh,89830.714,Dollars/store,38099,2225
+North Dakota,Ward,265711.4819277108,Dollars/store,38101,2233
+North Dakota,Wells,95838.2475,Dollars/store,38103,2237
+North Dakota,Williams,209432.55373271892,Dollars/store,38105,2244
+Ohio,Adams,176142.71548387097,Dollars/store,39001,2248
+Ohio,Allen,200614.30010416664,Dollars/store,39003,2250
+Ohio,Ashland,141700.62235565818,Dollars/store,39005,2254
+Ohio,Ashtabula,235309.36911350457,Dollars/store,39007,2259
+Ohio,Athens,271840.9306497623,Dollars/store,39009,2266
+Ohio,Auglaize,114482.6965349544,Dollars/store,39011,2273
+Ohio,Belmont,226068.82788381743,Dollars/store,39013,2278
+Ohio,Brown,164743.12206451615,Dollars/store,39015,2282
+Ohio,Butler,178267.19864451824,Dollars/store,39017,2286
+Ohio,Carroll,90904.74939759036,Dollars/store,39019,2289
+Ohio,Champaign,150636.20833333334,Dollars/store,39021,2291
+Ohio,Clark,292084.28150588233,Dollars/store,39023,2300
+Ohio,Clermont,153139.40247074125,Dollars/store,39025,2306
+Ohio,Clinton,227466.2653080569,Dollars/store,39027,2310
+Ohio,Columbiana,257007.29973285843,Dollars/store,39029,2315
+Ohio,Coshocton,339576.52204724407,Dollars/store,39031,2317
+Ohio,Crawford,178693.91806004618,Dollars/store,39033,2323
+Ohio,Cuyahoga,291457.4415754923,Dollars/store,39035,2332
+Ohio,Darke,180143.7613688213,Dollars/store,39037,2345
+Ohio,Defiance,238834.91317725752,Dollars/store,39039,2350
+Ohio,Delaware,141463.10900943395,Dollars/store,39041,2352
+Ohio,Erie,212462.65676143384,Dollars/store,39043,2357
+Ohio,Fairfield,291447.7150991832,Dollars/store,39045,2365
+Ohio,Fayette,212982.96425316457,Dollars/store,39047,2368
+Ohio,Franklin,276376.77842068236,Dollars/store,39049,2375
+Ohio,Fulton,133060.50882882884,Dollars/store,39051,2378
+Ohio,Gallia,310493.74362416106,Dollars/store,39053,2383
+Ohio,Geauga,136852.19684210527,Dollars/store,39055,2390
+Ohio,Greene,225551.51456603775,Dollars/store,39057,2393
+Ohio,Guernsey,192913.74713987476,Dollars/store,39059,2399
+Ohio,Hamilton,251043.94872050342,Dollars/store,39061,2411
+Ohio,Hancock,184436.03380645163,Dollars/store,39063,2427
+Ohio,Hardin,149863.7760797342,Dollars/store,39065,2432
+Ohio,Harrison,77205.58411764706,Dollars/store,39067,2440
+Ohio,Henry,91150.23,Dollars/store,39069,2451
+Ohio,Highland,216551.5479389313,Dollars/store,39071,2457
+Ohio,Hocking,375993.89225806453,Dollars/store,39073,2461
+Ohio,Holmes,112091.22750000001,Dollars/store,39075,2464
+Ohio,Huron,187321.53818181818,Dollars/store,39077,2468
+Ohio,Jackson,265937.57524177944,Dollars/store,39079,2472
+Ohio,Jefferson,286057.73286821705,Dollars/store,39081,2476
+Ohio,Knox,221947.83078384798,Dollars/store,39083,2479
+Ohio,Lake,226581.35160883277,Dollars/store,39085,2493
+Ohio,Lawrence,331609.39001652895,Dollars/store,39087,2499
+Ohio,Licking,218843.3523478261,Dollars/store,39089,2504
+Ohio,Logan,175536.4254077253,Dollars/store,39091,2510
+Ohio,Lorain,254493.1297497112,Dollars/store,39093,2516
+Ohio,Lucas,304284.8907557411,Dollars/store,39095,2520
+Ohio,Madison,149204.11577039276,Dollars/store,39097,2529
+Ohio,Mahoning,270994.70859077445,Dollars/store,39099,2534
+Ohio,Marion,321255.85389261745,Dollars/store,39101,2541
+Ohio,Medina,153310.65192982455,Dollars/store,39103,2545
+Ohio,Meigs,148197.8568,Dollars/store,39105,2549
+Ohio,Mercer,129838.62987951806,Dollars/store,39107,2552
+Ohio,Miami,163537.87940387483,Dollars/store,39109,2558
+Ohio,Monroe,79241.09608040201,Dollars/store,39111,2565
+Ohio,Montgomery,261810.89197688815,Dollars/store,39113,2573
+Ohio,Morgan,203229.358,Dollars/store,39115,2000
+Ohio,Morrow,117743.8952112676,Dollars/store,39117,2006
+Ohio,Muskingum,287194.4644736842,Dollars/store,39119,2010
+Ohio,Noble,97412.53565217392,Dollars/store,39121,2012
+Ohio,Ottawa,115531.10321428571,Dollars/store,39123,2019
+Ohio,Paulding,69991.03333333333,Dollars/store,39125,2024
+Ohio,Perry,179052.87501246884,Dollars/store,39127,2027
+Ohio,Pickaway,216363.69316129034,Dollars/store,39129,2031
+Ohio,Pike,274336.82958904107,Dollars/store,39131,2034
+Ohio,Portage,189992.41659259258,Dollars/store,39133,2038
+Ohio,Preble,131455.08612612615,Dollars/store,39135,2039
+Ohio,Putnam,117808.48071428572,Dollars/store,39137,2040
+Ohio,Richland,268500.9483779528,Dollars/store,39139,2042
+Ohio,Ross,326965.8680958386,Dollars/store,39141,2045
+Ohio,Sandusky,159247.1264,Dollars/store,39143,2047
+Ohio,Scioto,400157.795529132,Dollars/store,39145,2048
+Ohio,Seneca,189261.90419753088,Dollars/store,39147,2049
+Ohio,Shelby,142366.97529113924,Dollars/store,39149,2052
+Ohio,Stark,247817.97388489207,Dollars/store,39151,2054
+Ohio,Summit,266741.93544546544,Dollars/store,39153,2057
+Ohio,Trumbull,251500.7266370896,Dollars/store,39155,2061
+Ohio,Tuscarawas,173040.24391836734,Dollars/store,39157,2065
+Ohio,Union,162568.23534545454,Dollars/store,39159,2067
+Ohio,Van Wert,176039.4758549223,Dollars/store,39161,2071
+Ohio,Vinton,85943.53551020409,Dollars/store,39163,2075
+Ohio,Warren,161755.2047275775,Dollars/store,39165,2076
+Ohio,Washington,186088.7090909091,Dollars/store,39167,2080
+Ohio,Wayne,166863.5020540541,Dollars/store,39169,2084
+Ohio,Williams,153339.58644067796,Dollars/store,39171,2087
+Ohio,Wood,112118.08703812317,Dollars/store,39173,2091
+Ohio,Wyandot,103912.36605405406,Dollars/store,39175,2093
+Oklahoma,Adair,308006.7039735099,Dollars/store,40001,2095
+Oklahoma,Alfalfa,50239.78666666666,Dollars/store,40003,2099
+Oklahoma,Atoka,176031.57681159422,Dollars/store,40005,2102
+Oklahoma,Beaver,nan,Dollars/store,40007,2104
+Oklahoma,Beckham,286996.6813899614,Dollars/store,40009,2106
+Oklahoma,Blaine,138213.47512195123,Dollars/store,40011,2110
+Oklahoma,Bryan,182341.57654368933,Dollars/store,40013,2112
+Oklahoma,Caddo,160452.94744186045,Dollars/store,40015,2118
+Oklahoma,Canadian,207564.0788157895,Dollars/store,40017,2123
+Oklahoma,Carter,219810.52411522635,Dollars/store,40019,2126
+Oklahoma,Cherokee,224232.29266781412,Dollars/store,40021,2129
+Oklahoma,Choctaw,289530.9442533936,Dollars/store,40023,2133
+Oklahoma,Cimarron,nan,Dollars/store,40025,2135
+Oklahoma,Cleveland,280797.0792409867,Dollars/store,40027,2140
+Oklahoma,Coal,61093.40876712329,Dollars/store,40029,2144
+Oklahoma,Comanche,312123.4856652361,Dollars/store,40031,2145
+Oklahoma,Cotton,111469.61799999999,Dollars/store,40033,2146
+Oklahoma,Craig,249010.40610687024,Dollars/store,40035,2148
+Oklahoma,Creek,219047.17680000002,Dollars/store,40037,2151
+Oklahoma,Custer,238743.5008163265,Dollars/store,40039,2153
+Oklahoma,Delaware,180274.20597402597,Dollars/store,40041,2154
+Oklahoma,Dewey,33028.521428571425,Dollars/store,40043,2158
+Oklahoma,Ellis,nan,Dollars/store,40045,2165
+Oklahoma,Garfield,211360.26997481106,Dollars/store,40047,2167
+Oklahoma,Garvin,198272.49970845482,Dollars/store,40049,2176
+Oklahoma,Grady,197952.3696,Dollars/store,40051,2184
+Oklahoma,Grant,32182.987605633803,Dollars/store,40053,2187
+Oklahoma,Greer,173878.31,Dollars/store,40055,2189
+Oklahoma,Harmon,nan,Dollars/store,40057,2191
+Oklahoma,Harper,46014.203571428574,Dollars/store,40059,2193
+Oklahoma,Haskell,206005.7470769231,Dollars/store,40061,2195
+Oklahoma,Hughes,165305.3706382979,Dollars/store,40063,2197
+Oklahoma,Jackson,333894.9282644628,Dollars/store,40065,2202
+Oklahoma,Jefferson,87586.31086956522,Dollars/store,40067,2206
+Oklahoma,Johnston,117868.68215568863,Dollars/store,40069,2211
+Oklahoma,Kay,330500.1404237288,Dollars/store,40071,2215
+Oklahoma,Kingfisher,144577.9509090909,Dollars/store,40073,2219
+Oklahoma,Kiowa,152980.14246575342,Dollars/store,40075,2222
+Oklahoma,Latimer,252316.516173913,Dollars/store,40077,2226
+Oklahoma,Le Flore,194916.2930120482,Dollars/store,40079,2230
+Oklahoma,Lincoln,157402.96646239553,Dollars/store,40081,2234
+Oklahoma,Logan,159581.2769405099,Dollars/store,40083,2236
+Oklahoma,Love,98735.32222222222,Dollars/store,40085,2238
+Oklahoma,McClain,215211.47045454546,Dollars/store,40087,2245
+Oklahoma,McCurtain,220210.04774624377,Dollars/store,40089,2252
+Oklahoma,McIntosh,298529.7402739726,Dollars/store,40091,2258
+Oklahoma,Major,79157.22631578948,Dollars/store,40093,2260
+Oklahoma,Marshall,219158.7624742268,Dollars/store,40095,2265
+Oklahoma,Mayes,220757.1402247191,Dollars/store,40097,2270
+Oklahoma,Murray,205748.5153846154,Dollars/store,40099,2276
+Oklahoma,Muskogee,253210.27101796406,Dollars/store,40101,2281
+Oklahoma,Noble,79226.20526315788,Dollars/store,40103,2287
+Oklahoma,Nowata,95736.0152112676,Dollars/store,40105,2290
+Oklahoma,Okfuskee,136646.9023076923,Dollars/store,40107,2297
+Oklahoma,Oklahoma,293204.83565249725,Dollars/store,40109,2303
+Oklahoma,Okmulgee,332950.6835207824,Dollars/store,40111,2311
+Oklahoma,Osage,158783.09128767124,Dollars/store,40113,2318
+Oklahoma,Ottawa,282880.1290032154,Dollars/store,40115,2325
+Oklahoma,Pawnee,277811.2179020979,Dollars/store,40117,2329
+Oklahoma,Payne,232344.82418338108,Dollars/store,40119,2340
+Oklahoma,Pittsburg,197071.9466277372,Dollars/store,40121,2344
+Oklahoma,Pontotoc,317056.1381303116,Dollars/store,40123,2351
+Oklahoma,Pottawatomie,263355.2159462486,Dollars/store,40125,2356
+Oklahoma,Pushmataha,189439.05126760562,Dollars/store,40127,2362
+Oklahoma,Roger Mills,nan,Dollars/store,40129,2369
+Oklahoma,Rogers,238282.52079027356,Dollars/store,40131,2374
+Oklahoma,Seminole,341311.1991808874,Dollars/store,40133,2384
+Oklahoma,Sequoyah,255330.08174257423,Dollars/store,40135,2391
+Oklahoma,Stephens,293309.8483333333,Dollars/store,40137,2396
+Oklahoma,Texas,159264.80858638746,Dollars/store,40139,2003
+Oklahoma,Tillman,91723.89538461539,Dollars/store,40141,2005
+Oklahoma,Tulsa,325213.4233700441,Dollars/store,40143,2008
+Oklahoma,Wagoner,181563.80987447698,Dollars/store,40145,2014
+Oklahoma,Washington,270280.07821656053,Dollars/store,40147,2018
+Oklahoma,Washita,87170.37238095238,Dollars/store,40149,2023
+Oklahoma,Woods,112166.38666666666,Dollars/store,40151,2029
+Oklahoma,Woodward,202937.70530232557,Dollars/store,40153,2035
+Oregon,Baker,201058.42524590166,Dollars/store,41001,2044
+Oregon,Benton,239443.6914893617,Dollars/store,41003,2053
+Oregon,Clackamas,226156.18744588742,Dollars/store,41005,2058
+Oregon,Clatsop,255326.6522264151,Dollars/store,41007,2064
+Oregon,Columbia,214604.61738693467,Dollars/store,41009,2070
+Oregon,Coos,336249.72858299594,Dollars/store,41011,2083
+Oregon,Crook,219154.69721115538,Dollars/store,41013,2092
+Oregon,Curry,250676.93494505493,Dollars/store,41015,2098
+Oregon,Deschutes,391504.8226269138,Dollars/store,41017,2109
+Oregon,Douglas,257554.70672032193,Dollars/store,41019,2115
+Oregon,Gilliam,38300.9925,Dollars/store,41021,2121
+Oregon,Grant,81939.33375,Dollars/store,41023,2130
+Oregon,Harney,215342.13714285713,Dollars/store,41025,2134
+Oregon,Hood River,254725.16273972602,Dollars/store,41027,2138
+Oregon,Jackson,419429.07055821375,Dollars/store,41029,2139
+Oregon,Jefferson,356157.24385542166,Dollars/store,41031,2143
+Oregon,Josephine,448978.0263856692,Dollars/store,41033,2152
+Oregon,Klamath,403248.0504188482,Dollars/store,41035,2155
+Oregon,Lake,134479.0104827586,Dollars/store,41037,2159
+Oregon,Lane,355295.04833057855,Dollars/store,41039,2170
+Oregon,Lincoln,270943.9209661836,Dollars/store,41041,2174
+Oregon,Linn,343292.23355792934,Dollars/store,41043,2181
+Oregon,Malheur,457585.72283378744,Dollars/store,41045,2185
+Oregon,Marion,410832.76958304853,Dollars/store,41047,2200
+Oregon,Morrow,92327.43000000001,Dollars/store,41049,2209
+Oregon,Multnomah,252750.80404034967,Dollars/store,41051,2218
+Oregon,Polk,305739.4071833648,Dollars/store,41053,2223
+Oregon,Sherman,16797.808235294116,Dollars/store,41055,2232
+Oregon,Tillamook,170733.26635658916,Dollars/store,41057,2242
+Oregon,Umatilla,312306.2564647713,Dollars/store,41059,2251
+Oregon,Union,289346.64392156864,Dollars/store,41061,2257
+Oregon,Wallowa,186524.54025974026,Dollars/store,41063,2263
+Oregon,Wasco,420395.55247058824,Dollars/store,41065,2267
+Oregon,Washington,252071.3624529378,Dollars/store,41067,2272
+Oregon,Wheeler,nan,Dollars/store,41069,2277
+Oregon,Yamhill,320825.5829928741,Dollars/store,41071,2284
+Pennsylvania,Adams,117577.15143307086,Dollars/store,42001,2292
+Pennsylvania,Allegheny,274728.16677160555,Dollars/store,42003,2302
+Pennsylvania,Armstrong,228712.01258181818,Dollars/store,42005,2309
+Pennsylvania,Beaver,239493.71189940436,Dollars/store,42007,2321
+Pennsylvania,Bedford,182352.77629955945,Dollars/store,42009,2324
+Pennsylvania,Berks,270884.07706202957,Dollars/store,42011,2326
+Pennsylvania,Blair,259170.78603351957,Dollars/store,42013,2328
+Pennsylvania,Bradford,189360.6193808883,Dollars/store,42015,2333
+Pennsylvania,Bucks,201689.7861952862,Dollars/store,42017,2336
+Pennsylvania,Butler,188519.01946902653,Dollars/store,42019,2338
+Pennsylvania,Cambria,299275.7275454546,Dollars/store,42021,2341
+Pennsylvania,Cameron,129117.06,Dollars/store,42023,2343
+Pennsylvania,Carbon,271654.4661818182,Dollars/store,42025,2349
+Pennsylvania,Centre,174964.81652406417,Dollars/store,42027,2354
+Pennsylvania,Chester,156910.51807228915,Dollars/store,42029,2360
+Pennsylvania,Clarion,203798.4084647303,Dollars/store,42031,2366
+Pennsylvania,Clearfield,250063.2919342604,Dollars/store,42033,2372
+Pennsylvania,Clinton,211577.03907692307,Dollars/store,42035,2379
+Pennsylvania,Columbia,220596.0293333333,Dollars/store,42037,2385
+Pennsylvania,Crawford,220868.59858657242,Dollars/store,42039,2389
+Pennsylvania,Cumberland,195340.596286826,Dollars/store,42041,2397
+Pennsylvania,Dauphin,273565.29985559563,Dollars/store,42043,2403
+Pennsylvania,Delaware,304806.7446341996,Dollars/store,42045,2414
+Pennsylvania,Elk,159582.11423076925,Dollars/store,42047,2420
+Pennsylvania,Erie,355717.5917673378,Dollars/store,42049,2425
+Pennsylvania,Fayette,385210.66088426526,Dollars/store,42051,2431
+Pennsylvania,Forest,46516.296428571426,Dollars/store,42053,2436
+Pennsylvania,Franklin,228745.21651183176,Dollars/store,42055,2439
+Pennsylvania,Fulton,207117.06470588237,Dollars/store,42057,2446
+Pennsylvania,Greene,238934.71078481016,Dollars/store,42059,2447
+Pennsylvania,Huntingdon,197036.0888888889,Dollars/store,42061,2454
+Pennsylvania,Indiana,234468.1895209581,Dollars/store,42063,2459
+Pennsylvania,Jefferson,174717.98270967742,Dollars/store,42065,2462
+Pennsylvania,Juniata,76010.03142857143,Dollars/store,42067,2466
+Pennsylvania,Lackawanna,324330.3411121583,Dollars/store,42069,2471
+Pennsylvania,Lancaster,212490.64074546847,Dollars/store,42071,2482
+Pennsylvania,Lawrence,245890.37987096776,Dollars/store,42073,2488
+Pennsylvania,Lebanon,241192.91743255814,Dollars/store,42075,2492
+Pennsylvania,Lehigh,309819.703556962,Dollars/store,42077,2496
+Pennsylvania,Luzerne,305825.23390845075,Dollars/store,42079,2501
+Pennsylvania,Lycoming,293901.14189602446,Dollars/store,42081,2505
+Pennsylvania,McKean,220554.0886153846,Dollars/store,42083,2509
+Pennsylvania,Mercer,270917.3480248007,Dollars/store,42085,2513
+Pennsylvania,Mifflin,253422.92417177916,Dollars/store,42087,2517
+Pennsylvania,Monroe,358480.33892156865,Dollars/store,42089,2521
+Pennsylvania,Montgomery,262748.7183424947,Dollars/store,42091,2528
+Pennsylvania,Montour,139306.84832214765,Dollars/store,42093,2533
+Pennsylvania,Northampton,223342.23920567374,Dollars/store,42095,2537
+Pennsylvania,Northumberland,194018.78698305084,Dollars/store,42097,2544
+Pennsylvania,Perry,127991.75793611795,Dollars/store,42099,2554
+Pennsylvania,Philadelphia,372298.37044096726,Dollars/store,42101,2563
+Pennsylvania,Pike,267339.0451567944,Dollars/store,42103,2571
+Pennsylvania,Potter,100065.7705531915,Dollars/store,42105,2575
+Pennsylvania,Schuylkill,236121.36287081338,Dollars/store,42107,2581
+Pennsylvania,Snyder,167895.0105699482,Dollars/store,42109,2583
+Pennsylvania,Somerset,163681.19110489512,Dollars/store,42111,2589
+Pennsylvania,Sullivan,45360.99054545455,Dollars/store,42113,2293
+Pennsylvania,Susquehanna,190635.63516279068,Dollars/store,42115,2298
+Pennsylvania,Tioga,206999.77354330706,Dollars/store,42117,2305
+Pennsylvania,Union,204010.53951219513,Dollars/store,42119,2313
+Pennsylvania,Venango,263599.7683950617,Dollars/store,42121,2316
+Pennsylvania,Warren,213846.40637168143,Dollars/store,42123,2322
+Pennsylvania,Washington,199074.58567394092,Dollars/store,42125,2346
+Pennsylvania,Wayne,195469.53105058364,Dollars/store,42127,2363
+Pennsylvania,Westmoreland,227109.68468848997,Dollars/store,42129,2394
+Pennsylvania,Wyoming,248767.24894736844,Dollars/store,42131,2407
+Pennsylvania,York,274163.83605278947,Dollars/store,42133,2419
+Rhode Island,Bristol,113647.35354037267,Dollars/store,44001,2433
+Rhode Island,Kent,270679.5814166667,Dollars/store,44003,2444
+Rhode Island,Newport,182098.32833057854,Dollars/store,44005,2460
+Rhode Island,Providence,310180.96780258516,Dollars/store,44007,2475
+Rhode Island,Washington,179506.5961445783,Dollars/store,44009,2484
+South Carolina,Abbeville,87937.44938271605,Dollars/store,45001,2489
+South Carolina,Aiken,242308.38320699707,Dollars/store,45003,2503
+South Carolina,Allendale,149351.42457831325,Dollars/store,45005,2527
+South Carolina,Anderson,207261.5840806827,Dollars/store,45007,2559
+South Carolina,Bamberg,115837.13279999999,Dollars/store,45009,2592
+South Carolina,Barnwell,269386.9533333333,Dollars/store,45011,2605
+South Carolina,Beaufort,185867.2499582754,Dollars/store,45013,2626
+South Carolina,Berkeley,274368.45102932,Dollars/store,45015,2631
+South Carolina,Calhoun,26062.93951807229,Dollars/store,45017,2635
+South Carolina,Charleston,186226.1085033507,Dollars/store,45019,2691
+South Carolina,Cherokee,197187.16992907802,Dollars/store,45021,2700
+South Carolina,Chester,179327.88536585367,Dollars/store,45023,2704
+South Carolina,Chesterfield,243278.80325581398,Dollars/store,45025,2708
+South Carolina,Clarendon,224738.91967346938,Dollars/store,45027,2715
+South Carolina,Colleton,224796.46219140082,Dollars/store,45029,2718
+South Carolina,Darlington,274052.66146128677,Dollars/store,45031,2721
+South Carolina,Dillon,283361.85609467456,Dollars/store,45033,2725
+South Carolina,Dorchester,198884.30666666667,Dollars/store,45035,2730
+South Carolina,Edgefield,212545.82325,Dollars/store,45037,2735
+South Carolina,Fairfield,163666.99985454546,Dollars/store,45039,2738
+South Carolina,Florence,300130.79366108787,Dollars/store,45041,2742
+South Carolina,Georgetown,184147.73272509003,Dollars/store,45043,2752
+South Carolina,Greenville,181684.81759968877,Dollars/store,45045,2759
+South Carolina,Greenwood,208990.6488461538,Dollars/store,45047,2764
+South Carolina,Hampton,184499.25686746987,Dollars/store,45049,2767
+South Carolina,Horry,198523.2552745969,Dollars/store,45051,2774
+South Carolina,Jasper,180471.05739130435,Dollars/store,45053,2783
+South Carolina,Kershaw,193292.13282178217,Dollars/store,45055,2787
+South Carolina,Lancaster,224199.59334630347,Dollars/store,45057,2790
+South Carolina,Laurens,144002.5307760532,Dollars/store,45059,2794
+South Carolina,Lee,159775.14592885377,Dollars/store,45061,2800
+South Carolina,Lexington,220001.17622596156,Dollars/store,45063,2803
+South Carolina,McCormick,103297.85950413223,Dollars/store,45065,2807
+South Carolina,Marion,234370.87388535033,Dollars/store,45067,2811
+South Carolina,Marlboro,215498.50004158006,Dollars/store,45069,2813
+South Carolina,Newberry,166570.69338842973,Dollars/store,45071,2818
+South Carolina,Oconee,148103.41028199566,Dollars/store,45073,2822
+South Carolina,Orangeburg,240331.61814041747,Dollars/store,45075,2829
+South Carolina,Pickens,183189.23101910827,Dollars/store,45077,2834
+South Carolina,Richland,242530.2692142857,Dollars/store,45079,2843
+South Carolina,Saluda,139502.46570135746,Dollars/store,45081,2846
+South Carolina,Spartanburg,171749.66614330877,Dollars/store,45083,2851
+South Carolina,Sumter,248626.28382630588,Dollars/store,45085,2855
+South Carolina,Union,205578.713699284,Dollars/store,45087,2860
+South Carolina,Williamsburg,186099.00043795622,Dollars/store,45089,2864
+South Carolina,York,201183.73479729728,Dollars/store,45091,2867
+South Dakota,Aurora,nan,Dollars/store,46003,2870
+South Dakota,Beadle,204171.9064864865,Dollars/store,46005,2874
+South Dakota,Bennett,229384.8126923077,Dollars/store,46007,2876
+South Dakota,Bon Homme,23918.25043478261,Dollars/store,46009,2879
+South Dakota,Brookings,145181.00817391305,Dollars/store,46011,2882
+South Dakota,Brown,347193.86860103626,Dollars/store,46013,2885
+South Dakota,Brule,142769.69437500002,Dollars/store,46015,2888
+South Dakota,Buffalo,nan,Dollars/store,46017,2891
+South Dakota,Butte,103955.29008403362,Dollars/store,46019,2895
+South Dakota,Campbell,nan,Dollars/store,46021,2897
+South Dakota,Charles Mix,151296.2554601227,Dollars/store,46023,2900
+South Dakota,Clark,nan,Dollars/store,46025,2901
+South Dakota,Clay,251194.38795180724,Dollars/store,46027,2903
+South Dakota,Codington,382179.1757142857,Dollars/store,46029,2906
+South Dakota,Corson,176884.7057142857,Dollars/store,46031,2907
+South Dakota,Custer,61770.00551724138,Dollars/store,46033,2908
+South Dakota,Davison,220732.03343283583,Dollars/store,46035,2910
+South Dakota,Day,57931.322857142855,Dollars/store,46037,2911
+South Dakota,Deuel,nan,Dollars/store,46039,2912
+South Dakota,Dewey,514603.2028235294,Dollars/store,46041,2914
+South Dakota,Douglas,nan,Dollars/store,46043,2916
+South Dakota,Edmunds,22457.245,Dollars/store,46045,2917
+South Dakota,Fall River,98810.09590909092,Dollars/store,46047,2919
+South Dakota,Faulk,nan,Dollars/store,46049,2921
+South Dakota,Grant,79084.31666666667,Dollars/store,46051,2922
+South Dakota,Gregory,74819.74428571429,Dollars/store,46053,2923
+South Dakota,Haakon,nan,Dollars/store,46055,2924
+South Dakota,Hamlin,8375.216,Dollars/store,46057,2926
+South Dakota,Hand,nan,Dollars/store,46059,2928
+South Dakota,Hanson,nan,Dollars/store,46061,2929
+South Dakota,Harding,nan,Dollars/store,46063,2931
+South Dakota,Hughes,427316.2688888889,Dollars/store,46065,2933
+South Dakota,Hutchinson,31433.299615384618,Dollars/store,46067,2934
+South Dakota,Hyde,nan,Dollars/store,46069,2937
+South Dakota,Jackson,119395.45999999999,Dollars/store,46071,2939
+South Dakota,Jerauld,nan,Dollars/store,46073,2941
+South Dakota,Jones,nan,Dollars/store,46075,2944
+South Dakota,Kingsbury,23669.885901639344,Dollars/store,46077,2945
+South Dakota,Lake,132420.63333333333,Dollars/store,46079,2401
+South Dakota,Lawrence,229374.20273972602,Dollars/store,46081,2406
+South Dakota,Lincoln,86831.43123287673,Dollars/store,46083,2410
+South Dakota,Lyman,211126.206,Dollars/store,46085,2417
+South Dakota,McCook,29048.869285714285,Dollars/store,46087,2422
+South Dakota,McPherson,nan,Dollars/store,46089,2426
+South Dakota,Marshall,nan,Dollars/store,46091,2430
+South Dakota,Meade,84470.57736585366,Dollars/store,46093,2442
+South Dakota,Mellette,nan,Dollars/store,46095,2450
+South Dakota,Miner,nan,Dollars/store,46097,2456
+South Dakota,Minnehaha,183569.08040042152,Dollars/store,46099,2467
+South Dakota,Moody,nan,Dollars/store,46101,2485
+South Dakota,Pennington,309743.83733333333,Dollars/store,46103,2497
+South Dakota,Perkins,49351.59,Dollars/store,46105,2502
+South Dakota,Potter,19851.475714285712,Dollars/store,46107,2506
+South Dakota,Roberts,168657.38723404254,Dollars/store,46109,2511
+South Dakota,Sanborn,nan,Dollars/store,46111,2514
+South Dakota,Shannon,nan,Dollars/store,46113,2519
+South Dakota,Spink,41797.89176470588,Dollars/store,46115,2523
+South Dakota,Stanley,nan,Dollars/store,46117,2530
+South Dakota,Sully,nan,Dollars/store,46119,2535
+South Dakota,Todd,583331.4058741259,Dollars/store,46121,2540
+South Dakota,Tripp,109045.19272727273,Dollars/store,46123,2546
+South Dakota,Turner,43636.24,Dollars/store,46125,2550
+South Dakota,Union,31557.45409090909,Dollars/store,46127,2557
+South Dakota,Walworth,218106.37607142856,Dollars/store,46129,2561
+South Dakota,Yankton,297403.09526011563,Dollars/store,46135,2569
+South Dakota,Ziebach,nan,Dollars/store,46137,2578
+Tennessee,Anderson,232598.12137931035,Dollars/store,47001,2584
+Tennessee,Bedford,288523.95016885555,Dollars/store,47003,2593
+Tennessee,Benton,243886.41320930232,Dollars/store,47005,2598
+Tennessee,Bledsoe,156859.5223668639,Dollars/store,47007,2602
+Tennessee,Blount,204073.0767235495,Dollars/store,47009,2622
+Tennessee,Bradley,207063.6799137931,Dollars/store,47011,2627
+Tennessee,Campbell,285033.2308208955,Dollars/store,47013,2633
+Tennessee,Cannon,164822.83272727273,Dollars/store,47015,2638
+Tennessee,Carroll,187125.41016627077,Dollars/store,47017,2648
+Tennessee,Carter,233349.43888888886,Dollars/store,47019,2654
+Tennessee,Cheatham,147971.68997885837,Dollars/store,47021,2660
+Tennessee,Chester,171079.61542857144,Dollars/store,47023,2664
+Tennessee,Claiborne,222584.85303030303,Dollars/store,47025,2670
+Tennessee,Clay,126669.92571428571,Dollars/store,47027,2679
+Tennessee,Cocke,277531.48039800994,Dollars/store,47029,2686
+Tennessee,Coffee,197816.88195865075,Dollars/store,47031,2689
+Tennessee,Crockett,128089.39978723404,Dollars/store,47033,2693
+Tennessee,Cumberland,208353.48460947504,Dollars/store,47035,2696
+Tennessee,Davidson,217458.7324325088,Dollars/store,47037,2698
+Tennessee,Decatur,212640.1908433735,Dollars/store,47039,2705
+Tennessee,DeKalb,275956.5152,Dollars/store,47041,2710
+Tennessee,Dickson,205134.16903225807,Dollars/store,47043,2717
+Tennessee,Dyer,288534.10754919495,Dollars/store,47045,2723
+Tennessee,Fayette,199180.92591780823,Dollars/store,47047,2726
+Tennessee,Fentress,329445.6423529412,Dollars/store,47049,2731
+Tennessee,Franklin,191635.72208144795,Dollars/store,47051,2734
+Tennessee,Gibson,231621.97826458036,Dollars/store,47053,2739
+Tennessee,Giles,167120.26302439027,Dollars/store,47055,2743
+Tennessee,Grainger,135790.26705882352,Dollars/store,47057,2748
+Tennessee,Greene,148238.21735632184,Dollars/store,47059,2750
+Tennessee,Grundy,140924.2855263158,Dollars/store,47061,2754
+Tennessee,Hamblen,259690.27410658306,Dollars/store,47063,2757
+Tennessee,Hamilton,219549.33990311422,Dollars/store,47065,2761
+Tennessee,Hancock,179943.70838709676,Dollars/store,47067,2766
+Tennessee,Hardeman,234080.86937704915,Dollars/store,47069,2770
+Tennessee,Hardin,284696.25033333333,Dollars/store,47071,2773
+Tennessee,Hawkins,246792.96566037735,Dollars/store,47073,2779
+Tennessee,Haywood,219433.24000000002,Dollars/store,47075,2781
+Tennessee,Henderson,307154.9454545455,Dollars/store,47077,2786
+Tennessee,Henry,301577.05411764706,Dollars/store,47079,2789
+Tennessee,Hickman,173814.52661157024,Dollars/store,47081,2792
+Tennessee,Houston,195018.52340425533,Dollars/store,47083,2796
+Tennessee,Humphreys,228255.428125,Dollars/store,47085,2798
+Tennessee,Jackson,175735.7270588235,Dollars/store,47087,2801
+Tennessee,Jefferson,190462.44295254833,Dollars/store,47089,2804
+Tennessee,Johnson,220102.60987012988,Dollars/store,47091,2808
+Tennessee,Knox,216999.624249392,Dollars/store,47093,2814
+Tennessee,Lake,217913.28875,Dollars/store,47095,2817
+Tennessee,Lauderdale,286668.0087707641,Dollars/store,47097,2821
+Tennessee,Lawrence,206814.07234347044,Dollars/store,47099,2823
+Tennessee,Lewis,208785.99130434784,Dollars/store,47101,2825
+Tennessee,Lincoln,183144.8786885246,Dollars/store,47103,2828
+Tennessee,Loudon,165819.8122909091,Dollars/store,47105,2830
+Tennessee,McMinn,204371.72802153433,Dollars/store,47107,2833
+Tennessee,McNairy,187106.61252173915,Dollars/store,47109,2836
+Tennessee,Macon,304261.26651685394,Dollars/store,47111,2839
+Tennessee,Madison,278125.63910562836,Dollars/store,47113,2841
+Tennessee,Marion,227998.6184848485,Dollars/store,47115,2844
+Tennessee,Marshall,190328.81483028719,Dollars/store,47117,2848
+Tennessee,Maury,182366.28721076233,Dollars/store,47119,2850
+Tennessee,Meigs,137346.5862,Dollars/store,47121,2854
+Tennessee,Monroe,236856.80435643566,Dollars/store,47123,2857
+Tennessee,Montgomery,309314.30019635346,Dollars/store,47125,2859
+Tennessee,Moore,37438.38508474576,Dollars/store,47127,2863
+Tennessee,Morgan,135034.42483271373,Dollars/store,47129,2866
+Tennessee,Obion,260801.1192727273,Dollars/store,47131,2872
+Tennessee,Overton,147089.79503355705,Dollars/store,47133,2875
+Tennessee,Perry,165901.28137931036,Dollars/store,47135,2878
+Tennessee,Pickett,70584.38260869565,Dollars/store,47137,2881
+Tennessee,Polk,134522.91,Dollars/store,47139,2883
+Tennessee,Putnam,224620.42973612377,Dollars/store,47141,2890
+Tennessee,Rhea,273357.5060273973,Dollars/store,47143,2893
+Tennessee,Roane,228703.48384615386,Dollars/store,47145,2001
+Tennessee,Robertson,208971.48363636364,Dollars/store,47147,2011
+Tennessee,Rutherford,212667.64716627635,Dollars/store,47149,2015
+Tennessee,Scott,346753.8552249135,Dollars/store,47151,2020
+Tennessee,Sequatchie,245602.92209606987,Dollars/store,47153,2025
+Tennessee,Sevier,174542.75991291727,Dollars/store,47155,2030
+Tennessee,Shelby,390955.1707330988,Dollars/store,47157,2033
+Tennessee,Smith,228746.80040816328,Dollars/store,47159,2037
+Tennessee,Stewart,86208.02632258066,Dollars/store,47161,2041
+Tennessee,Sullivan,243618.40165765764,Dollars/store,47163,2046
+Tennessee,Sumner,180136.94492903227,Dollars/store,47165,2050
+Tennessee,Tipton,303905.416857671,Dollars/store,47167,2055
+Tennessee,Trousdale,161050.35777777777,Dollars/store,47169,2062
+Tennessee,Unicoi,229921.33125,Dollars/store,47171,2069
+Tennessee,Union,192926.007106599,Dollars/store,47173,2073
+Tennessee,Van Buren,115586.758,Dollars/store,47175,2077
+Tennessee,Warren,291256.0826506024,Dollars/store,47177,2081
+Tennessee,Washington,254629.77002237138,Dollars/store,47179,2085
+Tennessee,Wayne,151384.78714285715,Dollars/store,47181,2089
+Tennessee,Weakley,218391.81889156625,Dollars/store,47183,2096
+Tennessee,White,234479.82235649545,Dollars/store,47185,2100
+Tennessee,Williamson,85317.58380000001,Dollars/store,47187,2105
+Tennessee,Wilson,172045.3441816462,Dollars/store,47189,2111
+Texas,Anderson,264440.9126785714,Dollars/store,48001,2113
+Texas,Andrews,157300.22847457626,Dollars/store,48003,2117
+Texas,Angelina,361786.5935881628,Dollars/store,48005,2124
+Texas,Aransas,398296.93200000003,Dollars/store,48007,2162
+Texas,Archer,30770.744347826087,Dollars/store,48009,2168
+Texas,Armstrong,nan,Dollars/store,48011,2172
+Texas,Atascosa,387180.8771486762,Dollars/store,48013,2173
+Texas,Austin,135695.1318072289,Dollars/store,48015,2177
+Texas,Bailey,191016.07,Dollars/store,48017,2179
+Texas,Bandera,81284.44444444444,Dollars/store,48019,2183
+Texas,Bastrop,261062.53684981685,Dollars/store,48021,2190
+Texas,Baylor,101469.72380952381,Dollars/store,48023,2192
+Texas,Bee,494746.4027027027,Dollars/store,48025,2196
+Texas,Bell,294666.8966175528,Dollars/store,48027,2198
+Texas,Bexar,345216.2861245603,Dollars/store,48029,2203
+Texas,Blanco,32230.817872340427,Dollars/store,48031,2207
+Texas,Borden,nan,Dollars/store,48033,2212
+Texas,Bosque,53622.874042553194,Dollars/store,48035,2216
+Texas,Bowie,294006.9104860393,Dollars/store,48037,2224
+Texas,Brazoria,522680.5272826087,Dollars/store,48039,2240
+Texas,Brazos,315731.2513793103,Dollars/store,48041,2253
+Texas,Brewster,122159.71777777777,Dollars/store,48043,2262
+Texas,Briscoe,nan,Dollars/store,48045,2269
+Texas,Brooks,455158.96499999997,Dollars/store,48047,2279
+Texas,Brown,193943.86326129668,Dollars/store,48049,2296
+Texas,Burleson,68090.94836065573,Dollars/store,48051,2304
+Texas,Burnet,180623.26190954773,Dollars/store,48053,2312
+Texas,Caldwell,257271.8186666667,Dollars/store,48055,2320
+Texas,Calhoun,305313.2708,Dollars/store,48057,2327
+Texas,Callahan,84731.2352795031,Dollars/store,48059,2331
+Texas,Cameron,434283.8312010444,Dollars/store,48061,2359
+Texas,Camp,143604.62225165562,Dollars/store,48063,2373
+Texas,Carson,19182.72,Dollars/store,48065,2377
+Texas,Cass,204160.56205714284,Dollars/store,48067,2382
+Texas,Castro,119839.12411764705,Dollars/store,48069,2386
+Texas,Chambers,256855.44,Dollars/store,48071,2395
+Texas,Cherokee,248704.3321182266,Dollars/store,48073,2400
+Texas,Childress,367268.4494117647,Dollars/store,48075,2405
+Texas,Clay,nan,Dollars/store,48077,2409
+Texas,Cochran,nan,Dollars/store,48079,2413
+Texas,Coke,27618.936666666665,Dollars/store,48081,2418
+Texas,Coleman,93244.85437500001,Dollars/store,48083,2423
+Texas,Collin,148014.7382635595,Dollars/store,48085,2429
+Texas,Collingsworth,88584.68,Dollars/store,48087,2434
+Texas,Colorado,174836.7509623431,Dollars/store,48089,2441
+Texas,Comal,195094.1661954262,Dollars/store,48091,2449
+Texas,Comanche,106522.07307692307,Dollars/store,48093,2455
+Texas,Concho,nan,Dollars/store,48095,2458
+Texas,Cooke,297262.78385454544,Dollars/store,48097,2463
+Texas,Coryell,329511.2867114094,Dollars/store,48099,2469
+Texas,Cottle,nan,Dollars/store,48101,2473
+Texas,Crane,64361.82461538461,Dollars/store,48103,2478
+Texas,Crockett,nan,Dollars/store,48105,2483
+Texas,Crosby,82112.89365853659,Dollars/store,48107,2487
+Texas,Culberson,92533.34142857142,Dollars/store,48109,2491
+Texas,Dallam,92519.51444444444,Dollars/store,48111,2498
+Texas,Dallas,338797.1181194968,Dollars/store,48113,2507
+Texas,Dawson,206767.31827338127,Dollars/store,48115,2512
+Texas,Deaf Smith,287089.0405970149,Dollars/store,48117,2515
+Texas,Delta,40464.65076923077,Dollars/store,48119,2524
+Texas,Denton,191516.3015120275,Dollars/store,48121,2532
+Texas,DeWitt,350839.05655172415,Dollars/store,48123,2538
+Texas,Dickens,nan,Dollars/store,48125,2542
+Texas,Dimmit,278768.99489361705,Dollars/store,48127,2548
+Texas,Donley,72963.566,Dollars/store,48129,2551
+Texas,Duval,87372.10085106383,Dollars/store,48131,2556
+Texas,Eastland,128631.5924528302,Dollars/store,48133,2562
+Texas,Ector,319340.7985229842,Dollars/store,48135,2568
+Texas,Edwards,nan,Dollars/store,48137,2574
+Texas,Ellis,277259.40506532666,Dollars/store,48139,2579
+Texas,El Paso,425415.9243165849,Dollars/store,48141,2588
+Texas,Erath,184141.81690607732,Dollars/store,48143,2597
+Texas,Falls,176821.00858536587,Dollars/store,48145,2601
+Texas,Fannin,153014.16529968454,Dollars/store,48147,2621
+Texas,Fayette,251122.7205,Dollars/store,48149,2624
+Texas,Fisher,42717.395625,Dollars/store,48151,2628
+Texas,Floyd,134096.31833333333,Dollars/store,48153,2630
+Texas,Foard,nan,Dollars/store,48155,2002
+Texas,Fort Bend,331380.63092002406,Dollars/store,48157,2009
+Texas,Franklin,119707.84352941177,Dollars/store,48159,2016
+Texas,Freestone,86502.15314917127,Dollars/store,48161,2022
+Texas,Frio,325995.1708695652,Dollars/store,48163,2028
+Texas,Gaines,133149.13246753247,Dollars/store,48165,2032
+Texas,Galveston,362368.9502070469,Dollars/store,48167,2059
+Texas,Garza,134969.84833333333,Dollars/store,48169,2060
+Texas,Gillespie,225862.28000000003,Dollars/store,48171,2066
+Texas,Glasscock,nan,Dollars/store,48173,2072
+Texas,Goliad,131829.09,Dollars/store,48175,2079
+Texas,Gonzales,322606.0314146342,Dollars/store,48177,2086
+Texas,Gray,221444.31666666668,Dollars/store,48179,2088
+Texas,Grayson,206634.9294736842,Dollars/store,48181,2094
+Texas,Gregg,369570.2687894351,Dollars/store,48183,2101
+Texas,Grimes,105973.47453237411,Dollars/store,48185,2108
+Texas,Guadalupe,230194.2848208469,Dollars/store,48187,2116
+Texas,Hale,322145.35862068966,Dollars/store,48189,2120
+Texas,Hall,93702.11,Dollars/store,48191,2125
+Texas,Hamilton,88501.56444444443,Dollars/store,48193,2128
+Texas,Hansford,50944.62,Dollars/store,48195,2132
+Texas,Hardeman,96493.19815384614,Dollars/store,48197,2137
+Texas,Hardin,379625.436419214,Dollars/store,48199,2142
+Texas,Harris,509960.8877302721,Dollars/store,48201,2149
+Texas,Harrison,279336.2579104478,Dollars/store,48203,2157
+Texas,Hartley,nan,Dollars/store,48205,2160
+Texas,Haskell,159856.39792207791,Dollars/store,48207,2163
+Texas,Hays,267227.3815384615,Dollars/store,48209,2166
+Texas,Hemphill,44083.088,Dollars/store,48211,2171
+Texas,Henderson,241483.28403361345,Dollars/store,48213,2178
+Texas,Hidalgo,406166.4303246494,Dollars/store,48215,2188
+Texas,Hill,123933.72644913629,Dollars/store,48217,2201
+Texas,Hockley,282972.4707142857,Dollars/store,48219,2208
+Texas,Hood,176102.59935483872,Dollars/store,48221,2213
+Texas,Hopkins,244899.01230769232,Dollars/store,48223,2221
+Texas,Houston,242775.0624793388,Dollars/store,48225,2228
+Texas,Howard,286973.7338745388,Dollars/store,48227,2231
+Texas,Hudspeth,17199.31894736842,Dollars/store,48229,2241
+Texas,Hunt,232105.26244897957,Dollars/store,48231,2246
+Texas,Hutchinson,148991.76521739128,Dollars/store,48233,2249
+Texas,Irion,nan,Dollars/store,48235,2255
+Texas,Jack,66342.4725,Dollars/store,48237,2256
+Texas,Jackson,232541.5,Dollars/store,48239,2264
+Texas,Jasper,331099.3225174825,Dollars/store,48241,2271
+Texas,Jeff Davis,nan,Dollars/store,48243,2275
+Texas,Jefferson,442530.65557341126,Dollars/store,48245,2285
+Texas,Jim Hogg,142984.39857142858,Dollars/store,48247,2288
+Texas,Jim Wells,399225.94124248496,Dollars/store,48249,2294
+Texas,Johnson,230249.32962680882,Dollars/store,48251,2299
+Texas,Jones,132781.26269662922,Dollars/store,48253,2301
+Texas,Karnes,417889.176,Dollars/store,48255,2307
+Texas,Kaufman,220533.41033513512,Dollars/store,48257,2314
+Texas,Kendall,169815.5566197183,Dollars/store,48259,2319
+Texas,Kenedy,nan,Dollars/store,48261,2330
+Texas,Kent,nan,Dollars/store,48263,2335
+Texas,Kerr,205931.03725,Dollars/store,48265,2337
+Texas,Kimble,70452.74294117648,Dollars/store,48267,2339
+Texas,King,nan,Dollars/store,48269,2342
+Texas,Kinney,nan,Dollars/store,48271,2347
+Texas,Kleberg,456620.255064935,Dollars/store,48273,2358
+Texas,Knox,62535.915882352936,Dollars/store,48275,2364
+Texas,Lamar,265446.19557024795,Dollars/store,48277,2371
+Texas,Lamb,138845.44266666667,Dollars/store,48279,2376
+Texas,Lampasas,190582.185,Dollars/store,48281,2381
+Texas,La Salle,61560.11082802547,Dollars/store,48283,2388
+Texas,Lavaca,223711.95261538462,Dollars/store,48285,2392
+Texas,Lee,115495.43400000001,Dollars/store,48287,2398
+Texas,Leon,86218.95611111111,Dollars/store,48289,2402
+Texas,Liberty,320390.33473170735,Dollars/store,48291,2404
+Texas,Limestone,286615.10954545456,Dollars/store,48293,2408
+Texas,Lipscomb,20108.0675,Dollars/store,48295,2412
+Texas,Live Oak,73525.28295302014,Dollars/store,48297,2416
+Texas,Llano,132655.15333333335,Dollars/store,48299,2421
+Texas,Loving,nan,Dollars/store,48301,2424
+Texas,Lubbock,360530.6767807229,Dollars/store,48303,2428
+Texas,Lynn,94953.872,Dollars/store,48305,2438
+Texas,McCulloch,170182.464,Dollars/store,48307,2452
+Texas,McLennan,279509.1443116883,Dollars/store,48309,2477
+Texas,McMullen,nan,Dollars/store,48311,2494
+Texas,Madison,153152.47776,Dollars/store,48313,2526
+Texas,Marion,139363.83364485984,Dollars/store,48315,2547
+Texas,Martin,nan,Dollars/store,48317,2564
+Texas,Mason,nan,Dollars/store,48319,2570
+Texas,Matagorda,282727.9997590362,Dollars/store,48321,2637
+Texas,Maverick,449445.2136986301,Dollars/store,48323,2649
+Texas,Medina,170055.73582978724,Dollars/store,48325,2652
+Texas,Menard,nan,Dollars/store,48327,2655
+Texas,Midland,264293.6672033898,Dollars/store,48329,2657
+Texas,Milam,166209.66503225805,Dollars/store,48331,2659
+Texas,Mills,nan,Dollars/store,48333,2663
+Texas,Mitchell,127566.89,Dollars/store,48335,2666
+Texas,Montague,243544.25057142857,Dollars/store,48337,2669
+Texas,Montgomery,342025.5792601651,Dollars/store,48339,2682
+Texas,Moore,115675.61633440515,Dollars/store,48341,2683
+Texas,Morris,269668.16892857145,Dollars/store,48343,2688
+Texas,Motley,nan,Dollars/store,48345,2692
+Texas,Nacogdoches,361773.05093167705,Dollars/store,48347,2701
+Texas,Navarro,275225.03208000003,Dollars/store,48349,2706
+Texas,Newton,153172.26871794873,Dollars/store,48351,2711
+Texas,Nolan,234557.06505494507,Dollars/store,48353,2714
+Texas,Nueces,526723.1598333829,Dollars/store,48355,2194
+Texas,Ochiltree,133092.82444444444,Dollars/store,48357,2204
+Texas,Oldham,nan,Dollars/store,48359,2210
+Texas,Orange,279679.04884501477,Dollars/store,48361,2214
+Texas,Palo Pinto,165277.88638743456,Dollars/store,48363,2220
+Texas,Panola,230370.47474103584,Dollars/store,48365,2227
+Texas,Parker,158035.58812227074,Dollars/store,48367,2229
+Texas,Parmer,50142.50666666667,Dollars/store,48369,2235
+Texas,Pecos,190884.93956043955,Dollars/store,48371,2239
+Texas,Polk,343715.44654411764,Dollars/store,48373,2243
+Texas,Potter,265093.4030769231,Dollars/store,48375,2247
+Texas,Presidio,216257.9374789916,Dollars/store,48377,2261
+Texas,Rains,118453.96780487805,Dollars/store,48379,2268
+Texas,Randall,201020.8736764706,Dollars/store,48381,2274
+Texas,Reagan,55235.68631578948,Dollars/store,48383,2280
+Texas,Real,38530.17253012048,Dollars/store,48385,2283
+Texas,Red River,80623.68206896551,Dollars/store,48387,2295
+Texas,Reeves,187390.75694656488,Dollars/store,48389,2308
+Texas,Refugio,199887.71067961166,Dollars/store,48391,2334
+Texas,Roberts,nan,Dollars/store,48393,2348
+Texas,Robertson,119983.05711864406,Dollars/store,48395,2353
+Texas,Rockwall,197644.9554825462,Dollars/store,48397,2355
+Texas,Runnels,85558.16601156071,Dollars/store,48399,2361
+Texas,Rusk,283104.2280442805,Dollars/store,48401,2367
+Texas,Sabine,172511.13,Dollars/store,48403,2370
+Texas,San Augustine,166578.27835051547,Dollars/store,48405,2380
+Texas,San Jacinto,108929.48506849316,Dollars/store,48407,2387
+Texas,San Patricio,429010.9388764045,Dollars/store,48409,2415
+Texas,San Saba,120569.7375,Dollars/store,48411,2435
+Texas,Schleicher,nan,Dollars/store,48413,2437
+Texas,Scurry,250285.4984,Dollars/store,48415,2443
+Texas,Shackelford,nan,Dollars/store,48417,2445
+Texas,Shelby,290163.4748387097,Dollars/store,48419,2448
+Texas,Sherman,26245.086428571427,Dollars/store,48421,2453
+Texas,Smith,288592.1909966405,Dollars/store,48423,2465
+Texas,Somervell,100681.64769230768,Dollars/store,48425,2470
+Texas,Starr,286187.85851185606,Dollars/store,48427,2474
+Texas,Stephens,189254.88363636364,Dollars/store,48429,2480
+Texas,Sterling,nan,Dollars/store,48431,2481
+Texas,Stonewall,nan,Dollars/store,48433,2486
+Texas,Sutton,27125.71462184874,Dollars/store,48435,2490
+Texas,Swisher,116529.02790697673,Dollars/store,48437,2495
+Texas,Tarrant,266269.57824840123,Dollars/store,48439,2500
+Texas,Taylor,239873.11835246455,Dollars/store,48441,2508
+Texas,Terrell,nan,Dollars/store,48443,2518
+Texas,Terry,246552.35333333336,Dollars/store,48445,2522
+Texas,Throckmorton,nan,Dollars/store,48447,2525
+Texas,Titus,348035.0379008746,Dollars/store,48449,2531
+Texas,Tom Green,247980.0394736842,Dollars/store,48451,2536
+Texas,Travis,237155.01014129995,Dollars/store,48453,2543
+Texas,Trinity,151466.8252849741,Dollars/store,48455,2553
+Texas,Tyler,185084.41157142856,Dollars/store,48457,2560
+Texas,Upshur,229589.87632183905,Dollars/store,48459,2566
+Texas,Upton,62953.380000000005,Dollars/store,48461,2572
+Texas,Uvalde,352372.33757009346,Dollars/store,48463,2576
+Texas,Val Verde,437030.4470588235,Dollars/store,48465,2582
+Texas,Van Zandt,213073.08333333334,Dollars/store,48467,2586
+Texas,Victoria,487058.21432703,Dollars/store,48469,2595
+Texas,Walker,267903.9507344633,Dollars/store,48471,2603
+Texas,Waller,142607.19873198846,Dollars/store,48473,2606
+Texas,Ward,127481.03047619048,Dollars/store,48475,2610
+Texas,Washington,253420.75121311474,Dollars/store,48477,2613
+Texas,Webb,602445.2108775137,Dollars/store,48479,2616
+Texas,Wharton,297510.93885148515,Dollars/store,48481,2618
+Texas,Wheeler,61446.598723404255,Dollars/store,48483,2623
+Texas,Wichita,285457.57491124264,Dollars/store,48485,2632
+Texas,Wilbarger,257096.8209090909,Dollars/store,48487,2634
+Texas,Willacy,254192.9862162162,Dollars/store,48489,2639
+Texas,Williamson,203428.86192250374,Dollars/store,48491,2640
+Texas,Wilson,253576.9338157895,Dollars/store,48493,2641
+Texas,Winkler,103889.98867924527,Dollars/store,48495,2642
+Texas,Wise,122267.44542510122,Dollars/store,48497,2643
+Texas,Wood,185573.3810852713,Dollars/store,48499,2644
+Texas,Yoakum,80460.73685950413,Dollars/store,48501,2645
+Texas,Young,256836.9816,Dollars/store,48503,2646
+Texas,Zapata,98467.36146179402,Dollars/store,48505,2650
+Texas,Zavala,319307.1361983471,Dollars/store,48507,2651
+Utah,Beaver,69783.6793548387,Dollars/store,49001,2653
+Utah,Box Elder,169494.65981191222,Dollars/store,49003,2658
+Utah,Cache,246199.95431906616,Dollars/store,49005,2661
+Utah,Carbon,274338.6346666667,Dollars/store,49007,2665
+Utah,Daggett,nan,Dollars/store,49009,2668
+Utah,Davis,195219.81326378539,Dollars/store,49011,2671
+Utah,Duchesne,177600.71680851065,Dollars/store,49013,2672
+Utah,Emery,57326.066399999996,Dollars/store,49015,2673
+Utah,Garfield,31220.359436619714,Dollars/store,49017,2674
+Utah,Grand,87353.33935483871,Dollars/store,49019,2675
+Utah,Iron,399510.4094736842,Dollars/store,49021,2676
+Utah,Juab,57827.6184,Dollars/store,49023,2677
+Utah,Kane,86511.01272727273,Dollars/store,49025,2678
+Utah,Millard,91803.34773722629,Dollars/store,49027,2680
+Utah,Morgan,nan,Dollars/store,49029,2681
+Utah,Piute,nan,Dollars/store,49031,2685
+Utah,Rich,nan,Dollars/store,49033,2687
+Utah,Salt Lake,207023.17688551932,Dollars/store,49035,2690
+Utah,San Juan,131875.29989528796,Dollars/store,49037,2694
+Utah,Sanpete,168278.3707142857,Dollars/store,49039,2697
+Utah,Sevier,211055.10957446808,Dollars/store,49041,2702
+Utah,Summit,42342.62628099173,Dollars/store,49043,2703
+Utah,Tooele,191635.37902702703,Dollars/store,49045,2707
+Utah,Uintah,287320.3101818182,Dollars/store,49047,2539
+Utah,Utah,214680.60960883572,Dollars/store,49049,2555
+Utah,Wasatch,101703.31726027398,Dollars/store,49051,2567
+Utah,Washington,300726.37485868105,Dollars/store,49053,2577
+Utah,Wayne,nan,Dollars/store,49055,2580
+Utah,Weber,214633.8531741573,Dollars/store,49057,2587
+Vermont,Addison,90932.88363636364,Dollars/store,50001,2590
+Vermont,Bennington,175031.48,Dollars/store,50003,2591
+Vermont,Caledonia,111407.77114470841,Dollars/store,50005,2596
+Vermont,Chittenden,118356.44268965519,Dollars/store,50007,2599
+Vermont,Essex,nan,Dollars/store,50009,2604
+Vermont,Franklin,154441.8159010601,Dollars/store,50011,2607
+Vermont,Grand Isle,19282.391142857145,Dollars/store,50013,2609
+Vermont,Lamoille,109658.24430379747,Dollars/store,50015,2611
+Vermont,Orange,77278.57668874171,Dollars/store,50017,2612
+Vermont,Orleans,130204.14489270386,Dollars/store,50019,2614
+Vermont,Rutland,134482.8864,Dollars/store,50021,2615
+Vermont,Washington,128741.10412342216,Dollars/store,50023,2617
+Vermont,Windham,104997.82719710669,Dollars/store,50025,2620
+Vermont,Windsor,70880.4440590406,Dollars/store,50027,2625
+Virginia,Accomack,142246.16665486724,Dollars/store,51001,2719
+Virginia,Albemarle,167181.56473933646,Dollars/store,51003,2728
+Virginia,Alleghany,106181.58869565217,Dollars/store,51005,2733
+Virginia,Amelia,138853.14625,Dollars/store,51007,2741
+Virginia,Amherst,146892.15896907213,Dollars/store,51009,2746
+Virginia,Appomattox,253185.1705660377,Dollars/store,51011,2749
+Virginia,Arlington,80461.21635338345,Dollars/store,51013,2753
+Virginia,Augusta,72637.73791304347,Dollars/store,51015,2758
+Virginia,Bath,nan,Dollars/store,51017,2763
+Virginia,Bedford County,101565.43395833333,Dollars/store,51019,2769
+Virginia,Bland,44020.9225,Dollars/store,51021,2772
+Virginia,Botetourt,60588.25571428572,Dollars/store,51023,2776
+Virginia,Brunswick,135843.32966292134,Dollars/store,51025,2777
+Virginia,Buchanan,230270.42476190478,Dollars/store,51027,2784
+Virginia,Buckingham,149422.26227027026,Dollars/store,51029,2785
+Virginia,Campbell,146693.10668789808,Dollars/store,51031,2788
+Virginia,Caroline,105637.20876190477,Dollars/store,51033,2793
+Virginia,Carroll,61728.96321428571,Dollars/store,51035,2797
+Virginia,Charles City,nan,Dollars/store,51036,2806
+Virginia,Charlotte,111822.05283018868,Dollars/store,51037,2810
+Virginia,Chesterfield,251227.18362913906,Dollars/store,51041,2816
+Virginia,Clarke,36481.97243697479,Dollars/store,51043,2819
+Virginia,Craig,79890.164,Dollars/store,51045,2820
+Virginia,Culpeper,200906.95284634762,Dollars/store,51047,2824
+Virginia,Cumberland,55419.78199999999,Dollars/store,51049,2827
+Virginia,Dickenson,121079.73799999998,Dollars/store,51051,2832
+Virginia,Dinwiddie,179756.21113402062,Dollars/store,51053,2838
+Virginia,Essex,282684.61595375725,Dollars/store,51057,2842
+Virginia,Fairfax County,187065.5969891501,Dollars/store,51059,2849
+Virginia,Fauquier,107881.19639097743,Dollars/store,51061,2853
+Virginia,Floyd,111557.80438356166,Dollars/store,51063,2856
+Virginia,Fluvanna,78315.40429530203,Dollars/store,51065,2858
+Virginia,Franklin County,155633.96787234044,Dollars/store,51067,2862
+Virginia,Frederick,183662.31380869565,Dollars/store,51069,2868
+Virginia,Giles,147081.28843636363,Dollars/store,51071,2873
+Virginia,Gloucester,179538.88270588237,Dollars/store,51073,2887
+Virginia,Goochland,74903.86136645963,Dollars/store,51075,2892
+Virginia,Grayson,65135.56316546762,Dollars/store,51077,2896
+Virginia,Greene,277805.90099999995,Dollars/store,51079,2899
+Virginia,Greensville,253278.7226966292,Dollars/store,51081,2902
+Virginia,Halifax,193469.38198830409,Dollars/store,51083,2904
+Virginia,Hanover,198407.2001444043,Dollars/store,51085,2909
+Virginia,Henrico,205079.31437993815,Dollars/store,51087,2915
+Virginia,Henry,114810.7662385321,Dollars/store,51089,2918
+Virginia,Highland,nan,Dollars/store,51091,2920
+Virginia,Isle of Wight,126983.83577039276,Dollars/store,51093,2925
+Virginia,James City,134224.29747368422,Dollars/store,51095,2930
+Virginia,King and Queen,nan,Dollars/store,51097,2936
+Virginia,King George,182716.31846153847,Dollars/store,51099,2938
+Virginia,King William,175075.6601574803,Dollars/store,51101,2943
+Virginia,Lancaster,164252.84080402012,Dollars/store,51103,2948
+Virginia,Lee,197008.00538860104,Dollars/store,51105,2950
+Virginia,Loudoun,121088.99407744875,Dollars/store,51107,2952
+Virginia,Louisa,206863.17301038062,Dollars/store,51109,2953
+Virginia,Lunenburg,265716.1018181818,Dollars/store,51111,2954
+Virginia,Madison,76571.758,Dollars/store,51113,2955
+Virginia,Mathews,121116.104,Dollars/store,51115,2962
+Virginia,Mecklenburg,146851.97643463497,Dollars/store,51117,2964
+Virginia,Middlesex,121099.12680851064,Dollars/store,51119,2965
+Virginia,Montgomery,120386.6073740053,Dollars/store,51121,2966
+Virginia,Nelson,116953.79582608695,Dollars/store,51125,2968
+Virginia,New Kent,127321.58981366461,Dollars/store,51127,2971
+Virginia,Northampton,159312.53515151516,Dollars/store,51131,2982
+Virginia,Northumberland,113786.80711111112,Dollars/store,51133,2983
+Virginia,Nottoway,159681.4204580153,Dollars/store,51135,2984
+Virginia,Orange,132066.8494736842,Dollars/store,51137,2985
+Virginia,Page,169249.97379310348,Dollars/store,51139,2986
+Virginia,Patrick,136643.13,Dollars/store,51141,2987
+Virginia,Pittsylvania,66680.54827225131,Dollars/store,51143,2988
+Virginia,Powhatan,288835.08142857143,Dollars/store,51145,2989
+Virginia,Prince Edward,261465.11649635038,Dollars/store,51147,2990
+Virginia,Prince George,159719.77474860338,Dollars/store,51149,2991
+Virginia,Prince William,222705.37809312638,Dollars/store,51153,2992
+Virginia,Pulaski,189225.60545454547,Dollars/store,51155,2993
+Virginia,Rappahannock,nan,Dollars/store,51157,2994
+Virginia,Richmond County,187032.0187951807,Dollars/store,51159,2995
+Virginia,Roanoke County,182600.77595628417,Dollars/store,51161,2996
+Virginia,Rockbridge,140664.75981566822,Dollars/store,51163,2997
+Virginia,Rockingham,105491.10569536424,Dollars/store,51165,2998
+Virginia,Russell,192482.44101818182,Dollars/store,51167,2999
+Virginia,Scott,148115.7961904762,Dollars/store,51169,2585
+Virginia,Shenandoah,115685.90534161491,Dollars/store,51171,2594
+Virginia,Smyth,165120.28579256358,Dollars/store,51173,2600
+Virginia,Southampton,69780.1690909091,Dollars/store,51175,2608
+Virginia,Spotsylvania,181653.16681510163,Dollars/store,51177,2619
+Virginia,Stafford,172918.27639024393,Dollars/store,51179,2629
+Virginia,Surry,24421.297078651685,Dollars/store,51181,2636
+Virginia,Sussex,73856.0325,Dollars/store,51183,2647
+Virginia,Tazewell,357219.5835294118,Dollars/store,51185,2656
+Virginia,Warren,186701.63588390502,Dollars/store,51187,2662
+Virginia,Washington,210498.49696000002,Dollars/store,51191,2667
+Virginia,Westmoreland,146849.2068161435,Dollars/store,51193,2684
+Virginia,Wise,194992.42629055007,Dollars/store,51195,2695
+Virginia,Wythe,136231.64605790647,Dollars/store,51197,2699
+Virginia,York,171687.04493723848,Dollars/store,51199,2709
+Virginia,Alexandria,195722.48385185187,Dollars/store,51510,2712
+Virginia,Bedford County,nan,Dollars/store,51515,2769
+Virginia,Bristol,235852.13050847457,Dollars/store,51520,2716
+Virginia,Buena Vista,121319.61866666666,Dollars/store,51530,2720
+Virginia,Charlottesville,118043.48159132007,Dollars/store,51540,2722
+Virginia,Chesapeake,214883.05285714281,Dollars/store,51550,2724
+Virginia,Colonial Heights,540776.7225477707,Dollars/store,51570,2727
+Virginia,Covington,230583.6971830986,Dollars/store,51580,2729
+Virginia,Danville,283700.52043165464,Dollars/store,51590,2732
+Virginia,Emporia,nan,Dollars/store,51595,2736
+Virginia,Fairfax County,112788.3325,Dollars/store,51600,2849
+Virginia,Falls Church,120893.24188235294,Dollars/store,51610,2740
+Virginia,Franklin County,389365.9572881356,Dollars/store,51620,2862
+Virginia,Fredericksburg,215058.1717402597,Dollars/store,51630,2745
+Virginia,Galax,393285.167761194,Dollars/store,51640,2747
+Virginia,Hampton,244744.22146534655,Dollars/store,51650,2751
+Virginia,Harrisonburg,182407.11328197227,Dollars/store,51660,2755
+Virginia,Hopewell,210796.14454545453,Dollars/store,51670,2756
+Virginia,Lexington,99268.2,Dollars/store,51678,2760
+Virginia,Lynchburg,229267.74345415778,Dollars/store,51680,2762
+Virginia,Manassas,217503.88655172414,Dollars/store,51683,2765
+Virginia,Manassas Park,nan,Dollars/store,51685,2768
+Virginia,Martinsville,454443.5734317343,Dollars/store,51690,2771
+Virginia,Newport News,240790.87956,Dollars/store,51700,2775
+Virginia,Norfolk,262339.47087304934,Dollars/store,51710,2778
+Virginia,Norton,391585.27135135134,Dollars/store,51720,2780
+Virginia,Petersburg,215278.589132948,Dollars/store,51730,2782
+Virginia,Poquoson,59950.51065420561,Dollars/store,51735,2791
+Virginia,Portsmouth,273299.4698032506,Dollars/store,51740,2795
+Virginia,Radford,280319.6574301676,Dollars/store,51750,2799
+Virginia,Richmond County,174712.5276789588,Dollars/store,51760,2995
+Virginia,Roanoke County,217144.51362428843,Dollars/store,51770,2996
+Virginia,Salem,188049.88982456143,Dollars/store,51775,2809
+Virginia,Staunton,188105.75999999998,Dollars/store,51790,2812
+Virginia,Suffolk,253703.59228235297,Dollars/store,51800,2815
+Virginia,Virginia Beach,167554.01615185506,Dollars/store,51810,2826
+Virginia,Waynesboro,234247.27795148245,Dollars/store,51820,2831
+Virginia,Williamsburg,83777.4077837838,Dollars/store,51830,2835
+Virginia,Winchester,238630.24994923855,Dollars/store,51840,2837
+Washington,Adams,238989.59645320196,Dollars/store,53001,2840
+Washington,Asotin,536551.1368421052,Dollars/store,53003,2845
+Washington,Benton,442756.17385179753,Dollars/store,53005,2847
+Washington,Chelan,221118.67315789472,Dollars/store,53007,2852
+Washington,Clallam,300829.9398008535,Dollars/store,53009,2861
+Washington,Clark,328715.7001597869,Dollars/store,53011,2865
+Washington,Columbia,99959.62909090909,Dollars/store,53013,2869
+Washington,Cowlitz,454418.4079841112,Dollars/store,53015,2871
+Washington,Douglas,311727.713164557,Dollars/store,53017,2877
+Washington,Ferry,104317.26,Dollars/store,53019,2880
+Washington,Franklin,279662.7688,Dollars/store,53021,2884
+Washington,Garfield,53311.705,Dollars/store,53023,2886
+Washington,Grant,291233.2137423313,Dollars/store,53025,2889
+Washington,Grays Harbor,256606.05017964073,Dollars/store,53027,2894
+Washington,Island,240812.3912903226,Dollars/store,53029,2898
+Washington,Jefferson,203764.93543568466,Dollars/store,53031,2905
+Washington,King,226273.78477984667,Dollars/store,53033,2913
+Washington,Kitsap,308379.6769670603,Dollars/store,53035,2927
+Washington,Kittitas,224154.54409495552,Dollars/store,53037,2932
+Washington,Klickitat,132922.23661971831,Dollars/store,53039,2935
+Washington,Lewis,251544.22945454545,Dollars/store,53041,2940
+Washington,Lincoln,79419.7,Dollars/store,53043,2942
+Washington,Mason,330161.0274495413,Dollars/store,53045,2946
+Washington,Okanogan,286023.5091262136,Dollars/store,53047,2947
+Washington,Pacific,147298.4391304348,Dollars/store,53049,2949
+Washington,Pend Oreille,179561.49000000002,Dollars/store,53051,2951
+Washington,Pierce,361835.68370847456,Dollars/store,53053,2956
+Washington,San Juan,106676.72744186046,Dollars/store,53055,2957
+Washington,Skagit,262956.0260519698,Dollars/store,53057,2958
+Washington,Skamania,122225.112,Dollars/store,53059,2959
+Washington,Snohomish,250448.89207114172,Dollars/store,53061,2960
+Washington,Spokane,396156.572356186,Dollars/store,53063,2961
+Washington,Stevens,252402.55839999998,Dollars/store,53065,2963
+Washington,Thurston,332414.03157686605,Dollars/store,53067,2967
+Washington,Wahkiakum,67550.295,Dollars/store,53069,2969
+Washington,Walla Walla,327608.0422832981,Dollars/store,53071,2970
+Washington,Whatcom,258998.7069735328,Dollars/store,53073,2972
+Washington,Whitman,162781.71243243245,Dollars/store,53075,2973
+Washington,Yakima,404027.49691573926,Dollars/store,53077,2974
+West Virginia,Barbour,174741.6474576271,Dollars/store,54001,2975
+West Virginia,Berkeley,317487.2285393258,Dollars/store,54003,2976
+West Virginia,Boone,220646.6320212766,Dollars/store,54005,2977
+West Virginia,Braxton,192647.82765100672,Dollars/store,54007,2978
+West Virginia,Brooke,256554.22084033614,Dollars/store,54009,2979
+West Virginia,Cabell,281225.73284525785,Dollars/store,54011,2980
+West Virginia,Calhoun,32149.317209302324,Dollars/store,54013,2981
+West Virginia,Clay,149907.42786206896,Dollars/store,54015,3000
+West Virginia,Doddridge,145693.06,Dollars/store,54017,3002
+West Virginia,Fayette,193442.95739361702,Dollars/store,54019,3006
+West Virginia,Gilmer,28889.387,Dollars/store,54021,3008
+West Virginia,Grant,138234.8676923077,Dollars/store,54023,3011
+West Virginia,Greenbrier,199011.64386885246,Dollars/store,54025,3013
+West Virginia,Hampshire,124487.7389808917,Dollars/store,54027,3016
+West Virginia,Hancock,205877.59704142011,Dollars/store,54029,3017
+West Virginia,Hardy,204369.43653061226,Dollars/store,54031,3019
+West Virginia,Harrison,201359.11025787966,Dollars/store,54033,3021
+West Virginia,Jackson,207564.03480278424,Dollars/store,54035,3023
+West Virginia,Jefferson,200478.9467735471,Dollars/store,54037,3026
+West Virginia,Kanawha,252594.97257425744,Dollars/store,54039,3027
+West Virginia,Lewis,226674.47076923077,Dollars/store,54041,3029
+West Virginia,Lincoln,162651.75987341773,Dollars/store,54043,3031
+West Virginia,Logan,321459.47751987283,Dollars/store,54045,3034
+West Virginia,McDowell,216411.10248175182,Dollars/store,54047,3037
+West Virginia,Marion,195865.87541944074,Dollars/store,54049,3039
+West Virginia,Marshall,301222.17431438126,Dollars/store,54051,3041
+West Virginia,Mason,223389.70975609758,Dollars/store,54053,3042
+West Virginia,Mercer,271647.71754807694,Dollars/store,54055,3044
+West Virginia,Mineral,183043.2983206107,Dollars/store,54057,3046
+West Virginia,Mingo,94014.00492113564,Dollars/store,54059,3048
+West Virginia,Monongalia,208376.85229714285,Dollars/store,54061,3050
+West Virginia,Monroe,53213.7792,Dollars/store,54063,3052
+West Virginia,Morgan,106833.1547368421,Dollars/store,54065,3054
+West Virginia,Nicholas,208492.48030360532,Dollars/store,54067,3057
+West Virginia,Ohio,239958.2504132231,Dollars/store,54069,3059
+West Virginia,Pendleton,77356.06717557252,Dollars/store,54071,3061
+West Virginia,Pleasants,125423.145,Dollars/store,54073,3064
+West Virginia,Pocahontas,84683.71923076923,Dollars/store,54075,3066
+West Virginia,Preston,151378.10461538463,Dollars/store,54077,3068
+West Virginia,Putnam,130694.13969738652,Dollars/store,54079,3070
+West Virginia,Raleigh,274150.7517966102,Dollars/store,54081,3073
+West Virginia,Randolph,233000.87972727272,Dollars/store,54083,3075
+West Virginia,Ritchie,111258.4224434389,Dollars/store,54085,3077
+West Virginia,Roane,255972.30031088085,Dollars/store,54087,3079
+West Virginia,Summers,219985.4406896552,Dollars/store,54089,3080
+West Virginia,Taylor,195167.192985782,Dollars/store,54091,3082
+West Virginia,Tucker,79481.91223880598,Dollars/store,54093,3084
+West Virginia,Tyler,96296.89435897436,Dollars/store,54095,3085
+West Virginia,Upshur,278578.80703703704,Dollars/store,54097,3087
+West Virginia,Wayne,174292.78512195122,Dollars/store,54099,3089
+West Virginia,Webster,197582.7405882353,Dollars/store,54101,3091
+West Virginia,Wetzel,238225.4661971831,Dollars/store,54103,3093
+West Virginia,Wirt,118028.93833333334,Dollars/store,54105,3095
+West Virginia,Wood,314623.5954845155,Dollars/store,54107,3097
+West Virginia,Wyoming,160697.4501616628,Dollars/store,54109,3099
+Wisconsin,Adams,207821.89165048543,Dollars/store,55001,3101
+Wisconsin,Ashland,242761.67359223298,Dollars/store,55003,3104
+Wisconsin,Barron,173422.84253829322,Dollars/store,55005,3106
+Wisconsin,Bayfield,42142.825660377355,Dollars/store,55007,3108
+Wisconsin,Brown,220559.29006211183,Dollars/store,55009,3111
+Wisconsin,Buffalo,55860.525148514855,Dollars/store,55011,3113
+Wisconsin,Burnett,116746.58509803921,Dollars/store,55013,3115
+Wisconsin,Calumet,265460.35,Dollars/store,55015,3116
+Wisconsin,Chippewa,175593.55816993464,Dollars/store,55017,3117
+Wisconsin,Clark,47152.792758620686,Dollars/store,55019,3119
+Wisconsin,Columbia,215235.63529411764,Dollars/store,55021,3120
+Wisconsin,Crawford,173277.07955801106,Dollars/store,55023,3122
+Wisconsin,Dane,203870.95225230965,Dollars/store,55025,3124
+Wisconsin,Dodge,164149.56240963854,Dollars/store,55027,3126
+Wisconsin,Door,92681.95505454545,Dollars/store,55029,3131
+Wisconsin,Douglas,230287.2863215259,Dollars/store,55031,3134
+Wisconsin,Dunn,162771.17069908814,Dollars/store,55033,3135
+Wisconsin,Eau Claire,208511.3672857143,Dollars/store,55035,3137
+Wisconsin,Florence,44310.6475,Dollars/store,55037,3138
+Wisconsin,Fond du Lac,170855.76871232875,Dollars/store,55039,3140
+Wisconsin,Forest,94003.41444444444,Dollars/store,55041,3141
+Wisconsin,Grant,102007.14362573098,Dollars/store,55043,3143
+Wisconsin,Green,144349.16208178437,Dollars/store,55045,3145
+Wisconsin,Green Lake,222573.35135135136,Dollars/store,55047,3147
+Wisconsin,Iowa,126715.01732484077,Dollars/store,55049,3148
+Wisconsin,Iron,49070.75625,Dollars/store,55051,3151
+Wisconsin,Jackson,318900.63116883114,Dollars/store,55053,3153
+Wisconsin,Jefferson,144588.12774834436,Dollars/store,55055,3154
+Wisconsin,Juneau,113318.88078431372,Dollars/store,55057,3156
+Wisconsin,Kenosha,267096.95446875,Dollars/store,55059,3158
+Wisconsin,Kewaunee,75247.14545454546,Dollars/store,55061,3160
+Wisconsin,La Crosse,237075.25931034482,Dollars/store,55063,3161
+Wisconsin,Lafayette,71527.07652173913,Dollars/store,55065,3163
+Wisconsin,Langlade,220276.21444444443,Dollars/store,55067,3165
+Wisconsin,Lincoln,128612.74246753247,Dollars/store,55069,3166
+Wisconsin,Manitowoc,173074.3253877551,Dollars/store,55071,3169
+Wisconsin,Marathon,174099.95474304972,Dollars/store,55073,3170
+Wisconsin,Marinette,156272.35566371682,Dollars/store,55075,3172
+Wisconsin,Marquette,80476.57682242992,Dollars/store,55077,3174
+Wisconsin,Menominee,183576.65166666664,Dollars/store,55078,3175
+Wisconsin,Milwaukee,380483.15099805995,Dollars/store,55079,3177
+Wisconsin,Monroe,172211.01446224257,Dollars/store,55081,3179
+Wisconsin,Oconto,71748.42749999999,Dollars/store,55083,3181
+Wisconsin,Oneida,217551.42,Dollars/store,55085,3183
+Wisconsin,Outagamie,126187.48782545455,Dollars/store,55087,3185
+Wisconsin,Ozaukee,132081.3347008547,Dollars/store,55089,3186
+Wisconsin,Pepin,51115.546987951806,Dollars/store,55091,3188
+Wisconsin,Pierce,61922.87,Dollars/store,55093,3189
+Wisconsin,Polk,102128.83359375001,Dollars/store,55095,3191
+Wisconsin,Portage,141173.97213051823,Dollars/store,55097,3192
+Wisconsin,Price,97256.47776536313,Dollars/store,55099,3194
+Wisconsin,Racine,245143.37566647094,Dollars/store,55101,3195
+Wisconsin,Richland,263084.8261016949,Dollars/store,55103,3196
+Wisconsin,Rock,275630.9062700229,Dollars/store,55105,3198
+Wisconsin,Rusk,119525.84078048781,Dollars/store,55107,3199
+Wisconsin,St. Croix,104549.10043478261,Dollars/store,55109,3200
+Wisconsin,Sauk,148429.21631484793,Dollars/store,55111,3202
+Wisconsin,Sawyer,259519.32568047335,Dollars/store,55113,3203
+Wisconsin,Shawano,230209.22549999997,Dollars/store,55115,3205
+Wisconsin,Sheboygan,199045.50338770388,Dollars/store,55117,3207
+Wisconsin,Taylor,163729.12987012987,Dollars/store,55119,3208
+Wisconsin,Trempealeau,42765.70368932039,Dollars/store,55121,3210
+Wisconsin,Vernon,143914.07540669857,Dollars/store,55123,3213
+Wisconsin,Vilas,102606.136,Dollars/store,55125,3001
+Wisconsin,Walworth,187562.73404907977,Dollars/store,55127,3003
+Wisconsin,Washburn,110693.4898395722,Dollars/store,55129,3004
+Wisconsin,Washington,222070.55533783784,Dollars/store,55131,3005
+Wisconsin,Waukesha,238525.76350023394,Dollars/store,55133,3007
+Wisconsin,Waupaca,123949.98772532189,Dollars/store,55135,3009
+Wisconsin,Waushara,106853.27214953271,Dollars/store,55137,3010
+Wisconsin,Winnebago,168897.70376763487,Dollars/store,55139,3012
+Wisconsin,Wood,193305.16837795277,Dollars/store,55141,3014
+Wyoming,Albany,166544.8641509434,Dollars/store,56001,3015
+Wyoming,Big Horn,83157.91764705883,Dollars/store,56003,3018
+Wyoming,Campbell,129415.58516717325,Dollars/store,56005,3020
+Wyoming,Carbon,106024.33371428572,Dollars/store,56007,3022
+Wyoming,Converse,95242.24604651163,Dollars/store,56009,3024
+Wyoming,Crook,20959.928,Dollars/store,56011,3025
+Wyoming,Fremont,282576.2728301887,Dollars/store,56013,3028
+Wyoming,Goshen,101582.99835616439,Dollars/store,56015,3030
+Wyoming,Hot Springs,nan,Dollars/store,56017,3032
+Wyoming,Johnson,29343.81267326733,Dollars/store,56019,3033
+Wyoming,Laramie,178567.5980238501,Dollars/store,56021,3035
+Wyoming,Lincoln,43670.17725,Dollars/store,56023,3036
+Wyoming,Natrona,195773.2707352941,Dollars/store,56025,3038
+Wyoming,Niobrara,nan,Dollars/store,56027,3040
+Wyoming,Park,140111.14491017966,Dollars/store,56029,3043
+Wyoming,Platte,69957.21504950496,Dollars/store,56031,3045
+Wyoming,Sheridan,133747.91371428574,Dollars/store,56033,3047
+Wyoming,Sublette,33340.985,Dollars/store,56035,3049
+Wyoming,Sweetwater,106059.0656880734,Dollars/store,56037,3051
+Wyoming,Teton,29106.34375,Dollars/store,56039,3053
+Wyoming,Uinta,132726.8124590164,Dollars/store,56041,3055
+Wyoming,Washakie,86173.73917808219,Dollars/store,56043,3056
+Wyoming,Weston,44167.50174757282,Dollars/store,56045,3058

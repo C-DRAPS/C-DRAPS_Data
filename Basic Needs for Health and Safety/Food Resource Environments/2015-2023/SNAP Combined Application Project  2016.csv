@@ -1,0 +1,3144 @@
+State,County,SNAP Combined Application Project  2016 (SNAP_CAP16),Units,FIPS,FID
+Alabama,Autauga,0,Classification,1001,5
+Alabama,Baldwin,0,Classification,1003,20
+Alabama,Barbour,0,Classification,1005,25
+Alabama,Bibb,0,Classification,1007,29
+Alabama,Blount,0,Classification,1009,33
+Alabama,Bullock,0,Classification,1011,37
+Alabama,Butler,0,Classification,1013,39
+Alabama,Calhoun,0,Classification,1015,43
+Alabama,Chambers,0,Classification,1017,47
+Alabama,Cherokee,0,Classification,1019,51
+Alabama,Chilton,0,Classification,1021,56
+Alabama,Choctaw,0,Classification,1023,58
+Alabama,Clarke,0,Classification,1025,61
+Alabama,Clay,0,Classification,1027,65
+Alabama,Cleburne,0,Classification,1029,67
+Alabama,Coffee,0,Classification,1031,70
+Alabama,Colbert,0,Classification,1033,73
+Alabama,Conecuh,0,Classification,1035,80
+Alabama,Coosa,0,Classification,1037,82
+Alabama,Covington,0,Classification,1039,88
+Alabama,Crenshaw,0,Classification,1041,90
+Alabama,Cullman,0,Classification,1043,98
+Alabama,Dale,0,Classification,1045,101
+Alabama,Dallas,0,Classification,1047,110
+Alabama,DeKalb,0,Classification,1049,112
+Alabama,Elmore,0,Classification,1051,118
+Alabama,Escambia,0,Classification,1053,122
+Alabama,Etowah,0,Classification,1055,131
+Alabama,Fayette,0,Classification,1057,134
+Alabama,Franklin,0,Classification,1059,138
+Alabama,Geneva,0,Classification,1061,140
+Alabama,Greene,0,Classification,1063,148
+Alabama,Hale,0,Classification,1065,150
+Alabama,Henry,0,Classification,1067,158
+Alabama,Houston,0,Classification,1069,160
+Alabama,Jackson,0,Classification,1071,164
+Alabama,Jefferson,0,Classification,1073,171
+Alabama,Lamar,0,Classification,1075,174
+Alabama,Lauderdale,0,Classification,1077,176
+Alabama,Lawrence,0,Classification,1079,181
+Alabama,Lee,0,Classification,1081,187
+Alabama,Limestone,0,Classification,1083,197
+Alabama,Lowndes,0,Classification,1085,205
+Alabama,Macon,0,Classification,1087,210
+Alabama,Madison,0,Classification,1089,217
+Alabama,Marengo,0,Classification,1091,220
+Alabama,Marion,0,Classification,1093,224
+Alabama,Marshall,0,Classification,1095,231
+Alabama,Mobile,0,Classification,1097,240
+Alabama,Monroe,0,Classification,1099,250
+Alabama,Montgomery,0,Classification,1101,256
+Alabama,Morgan,0,Classification,1103,262
+Alabama,Perry,0,Classification,1105,264
+Alabama,Pickens,0,Classification,1107,273
+Alabama,Pike,0,Classification,1109,279
+Alabama,Randolph,0,Classification,1111,284
+Alabama,Russell,0,Classification,1113,288
+Alabama,St. Clair,0,Classification,1115,292
+Alabama,Shelby,0,Classification,1117,298
+Alabama,Sumter,0,Classification,1119,303
+Alabama,Talladega,0,Classification,1121,306
+Alabama,Tallapoosa,0,Classification,1123,308
+Alabama,Tuscaloosa,0,Classification,1125,313
+Alabama,Walker,0,Classification,1127,317
+Alabama,Washington,0,Classification,1129,319
+Alabama,Wilcox,0,Classification,1131,326
+Alabama,Winston,0,Classification,1133,332
+Alaska,Aleutians East,0,Classification,2013,346
+Alaska,Aleutians West,0,Classification,2016,381
+Alaska,Anchorage,0,Classification,2020,400
+Alaska,Bethel,0,Classification,2050,411
+Alaska,Bristol Bay,0,Classification,2060,423
+Alaska,Denali,0,Classification,2068,426
+Alaska,Dillingham,0,Classification,2070,445
+Alaska,Fairbanks North Star,0,Classification,2090,454
+Alaska,Haines,0,Classification,2100,462
+Alaska,Hoonah-Angoon,0,Classification,2105,476
+Alaska,Juneau,0,Classification,2110,482
+Alaska,Kenai Peninsula,0,Classification,2122,494
+Alaska,Ketchikan Gateway,0,Classification,2130,514
+Alaska,Kodiak Island,0,Classification,2150,533
+Alaska,Lake and Peninsula,0,Classification,2164,544
+Alaska,Matanuska-Susitna,0,Classification,2170,556
+Alaska,Nome,0,Classification,2180,571
+Alaska,North Slope,0,Classification,2185,614
+Alaska,Northwest Arctic,0,Classification,2188,638
+Alaska,Petersburg,0,Classification,2195,645
+Alaska,Prince of Wales-Hyder,0,Classification,2198,669
+Alaska,Sitka,0,Classification,2220,679
+Alaska,Skagway,0,Classification,2230,683
+Alaska,Southeast Fairbanks,0,Classification,2240,690
+Alaska,Valdez-Cordova,0,Classification,2261,710
+Alaska,Wade Hampton,0,Classification,2270,725
+Alaska,Wrangell,0,Classification,2275,733
+Alaska,Yakutat,0,Classification,2282,744
+Alaska,Yukon-Koyukuk,0,Classification,2290,753
+Arizona,Apache,1,Classification,4001,761
+Arizona,Cochise,1,Classification,4003,763
+Arizona,Coconino,1,Classification,4005,771
+Arizona,Gila,1,Classification,4007,787
+Arizona,Graham,1,Classification,4009,0
+Arizona,Greenlee,1,Classification,4011,1
+Arizona,La Paz,1,Classification,4012,3
+Arizona,Maricopa,1,Classification,4013,9
+Arizona,Mohave,1,Classification,4015,15
+Arizona,Navajo,1,Classification,4017,17
+Arizona,Pima,1,Classification,4019,21
+Arizona,Pinal,1,Classification,4021,26
+Arizona,Santa Cruz,1,Classification,4023,32
+Arizona,Yavapai,1,Classification,4025,35
+Arizona,Yuma,1,Classification,4027,42
+Arkansas,Arkansas,0,Classification,5001,46
+Arkansas,Ashley,0,Classification,5003,50
+Arkansas,Baxter,0,Classification,5005,54
+Arkansas,Benton,0,Classification,5007,59
+Arkansas,Boone,0,Classification,5009,62
+Arkansas,Bradley,0,Classification,5011,68
+Arkansas,Calhoun,0,Classification,5013,72
+Arkansas,Carroll,0,Classification,5015,74
+Arkansas,Chicot,0,Classification,5017,77
+Arkansas,Clark,0,Classification,5019,86
+Arkansas,Clay,0,Classification,5021,93
+Arkansas,Cleburne,0,Classification,5023,97
+Arkansas,Cleveland,0,Classification,5025,103
+Arkansas,Columbia,0,Classification,5027,107
+Arkansas,Conway,0,Classification,5029,109
+Arkansas,Craighead,0,Classification,5031,114
+Arkansas,Crawford,0,Classification,5033,115
+Arkansas,Crittenden,0,Classification,5035,119
+Arkansas,Cross,0,Classification,5037,124
+Arkansas,Dallas,0,Classification,5039,128
+Arkansas,Desha,0,Classification,5041,130
+Arkansas,Drew,0,Classification,5043,136
+Arkansas,Faulkner,0,Classification,5045,141
+Arkansas,Franklin,0,Classification,5047,144
+Arkansas,Fulton,0,Classification,5049,146
+Arkansas,Garland,0,Classification,5051,151
+Arkansas,Grant,0,Classification,5053,155
+Arkansas,Greene,0,Classification,5055,162
+Arkansas,Hempstead,0,Classification,5057,172
+Arkansas,Hot Spring,0,Classification,5059,184
+Arkansas,Howard,0,Classification,5061,191
+Arkansas,Independence,0,Classification,5063,200
+Arkansas,Izard,0,Classification,5065,203
+Arkansas,Jackson,0,Classification,5067,209
+Arkansas,Jefferson,0,Classification,5069,213
+Arkansas,Johnson,0,Classification,5071,218
+Arkansas,Lafayette,0,Classification,5073,222
+Arkansas,Lawrence,0,Classification,5075,230
+Arkansas,Lee,0,Classification,5077,237
+Arkansas,Lincoln,0,Classification,5079,244
+Arkansas,Little River,0,Classification,5081,251
+Arkansas,Logan,0,Classification,5083,258
+Arkansas,Lonoke,0,Classification,5085,268
+Arkansas,Madison,0,Classification,5087,277
+Arkansas,Marion,0,Classification,5089,282
+Arkansas,Miller,0,Classification,5091,287
+Arkansas,Mississippi,0,Classification,5093,294
+Arkansas,Monroe,0,Classification,5095,300
+Arkansas,Montgomery,0,Classification,5097,304
+Arkansas,Nevada,0,Classification,5099,307
+Arkansas,Newton,0,Classification,5101,311
+Arkansas,Ouachita,0,Classification,5103,316
+Arkansas,Perry,0,Classification,5105,318
+Arkansas,Phillips,0,Classification,5107,322
+Arkansas,Pike,0,Classification,5109,327
+Arkansas,Poinsett,0,Classification,5111,333
+Arkansas,Polk,0,Classification,5113,337
+Arkansas,Pope,0,Classification,5115,340
+Arkansas,Prairie,0,Classification,5117,345
+Arkansas,Pulaski,0,Classification,5119,350
+Arkansas,Randolph,0,Classification,5121,353
+Arkansas,St. Francis,0,Classification,5123,357
+Arkansas,Saline,0,Classification,5125,360
+Arkansas,Scott,0,Classification,5127,364
+Arkansas,Searcy,0,Classification,5129,372
+Arkansas,Sebastian,0,Classification,5131,378
+Arkansas,Sevier,0,Classification,5133,390
+Arkansas,Sharp,0,Classification,5135,394
+Arkansas,Stone,0,Classification,5137,399
+Arkansas,Union,0,Classification,5139,403
+Arkansas,Van Buren,0,Classification,5141,407
+Arkansas,Washington,0,Classification,5143,417
+Arkansas,White,0,Classification,5145,428
+Arkansas,Woodruff,0,Classification,5147,435
+Arkansas,Yell,0,Classification,5149,438
+California,Alameda,0,Classification,6001,457
+California,Alpine,0,Classification,6003,461
+California,Amador,0,Classification,6005,472
+California,Butte,0,Classification,6007,486
+California,Calaveras,0,Classification,6009,489
+California,Colusa,0,Classification,6011,497
+California,Contra Costa,0,Classification,6013,503
+California,Del Norte,0,Classification,6015,511
+California,El Dorado,0,Classification,6017,522
+California,Fresno,0,Classification,6019,527
+California,Glenn,0,Classification,6021,537
+California,Humboldt,0,Classification,6023,551
+California,Imperial,0,Classification,6025,557
+California,Inyo,0,Classification,6027,562
+California,Kern,0,Classification,6029,84
+California,Kings,0,Classification,6031,94
+California,Lake,0,Classification,6033,100
+California,Lassen,0,Classification,6035,104
+California,Los Angeles,0,Classification,6037,139
+California,Madera,0,Classification,6039,153
+California,Marin,0,Classification,6041,168
+California,Mariposa,0,Classification,6043,178
+California,Mendocino,0,Classification,6045,190
+California,Merced,0,Classification,6047,204
+California,Modoc,0,Classification,6049,207
+California,Mono,0,Classification,6051,214
+California,Monterey,0,Classification,6053,228
+California,Napa,0,Classification,6055,236
+California,Nevada,0,Classification,6057,243
+California,Orange,0,Classification,6059,257
+California,Placer,0,Classification,6061,266
+California,Plumas,0,Classification,6063,275
+California,Riverside,0,Classification,6065,281
+California,Sacramento,0,Classification,6067,289
+California,San Benito,0,Classification,6069,295
+California,San Bernardino,0,Classification,6071,302
+California,San Diego,0,Classification,6073,315
+California,San Francisco,0,Classification,6075,331
+California,San Joaquin,0,Classification,6077,339
+California,San Luis Obispo,0,Classification,6079,351
+California,San Mateo,0,Classification,6081,368
+California,Santa Barbara,0,Classification,6083,391
+California,Santa Clara,0,Classification,6085,406
+California,Santa Cruz,0,Classification,6087,415
+California,Shasta,0,Classification,6089,431
+California,Sierra,0,Classification,6091,439
+California,Siskiyou,0,Classification,6093,446
+California,Solano,0,Classification,6095,453
+California,Sonoma,0,Classification,6097,463
+California,Stanislaus,0,Classification,6099,473
+California,Sutter,0,Classification,6101,483
+California,Tehama,0,Classification,6103,492
+California,Trinity,0,Classification,6105,500
+California,Tulare,0,Classification,6107,501
+California,Tuolumne,0,Classification,6109,513
+California,Ventura,0,Classification,6111,521
+California,Yolo,0,Classification,6113,525
+California,Yuba,0,Classification,6115,541
+Colorado,Adams,0,Classification,8001,545
+Colorado,Alamosa,0,Classification,8003,549
+Colorado,Arapahoe,0,Classification,8005,558
+Colorado,Archuleta,0,Classification,8007,560
+Colorado,Baca,0,Classification,8009,563
+Colorado,Bent,0,Classification,8011,564
+Colorado,Boulder,0,Classification,8013,570
+Colorado,Broomfield,0,Classification,8014,577
+Colorado,Chaffee,0,Classification,8015,582
+Colorado,Cheyenne,0,Classification,8017,587
+Colorado,Clear Creek,0,Classification,8019,591
+Colorado,Conejos,0,Classification,8021,596
+Colorado,Costilla,0,Classification,8023,599
+Colorado,Crowley,0,Classification,8025,605
+Colorado,Custer,0,Classification,8027,610
+Colorado,Delta,0,Classification,8029,617
+Colorado,Denver,0,Classification,8031,628
+Colorado,Dolores,0,Classification,8033,636
+Colorado,Douglas,0,Classification,8035,644
+Colorado,Eagle,0,Classification,8037,648
+Colorado,Elbert,0,Classification,8039,655
+Colorado,El Paso,0,Classification,8041,661
+Colorado,Fremont,0,Classification,8043,664
+Colorado,Garfield,0,Classification,8045,667
+Colorado,Gilpin,0,Classification,8047,672
+Colorado,Grand,0,Classification,8049,677
+Colorado,Gunnison,0,Classification,8051,682
+Colorado,Hinsdale,0,Classification,8053,688
+Colorado,Huerfano,0,Classification,8055,693
+Colorado,Jackson,0,Classification,8057,701
+Colorado,Jefferson,0,Classification,8059,706
+Colorado,Kiowa,0,Classification,8061,711
+Colorado,Kit Carson,0,Classification,8063,716
+Colorado,Lake,0,Classification,8065,721
+Colorado,La Plata,0,Classification,8067,727
+Colorado,Larimer,0,Classification,8069,734
+Colorado,Las Animas,0,Classification,8071,741
+Colorado,Lincoln,0,Classification,8073,747
+Colorado,Logan,0,Classification,8075,749
+Colorado,Mesa,0,Classification,8077,751
+Colorado,Mineral,0,Classification,8079,757
+Colorado,Moffat,0,Classification,8081,758
+Colorado,Montezuma,0,Classification,8083,766
+Colorado,Montrose,0,Classification,8085,769
+Colorado,Morgan,0,Classification,8087,775
+Colorado,Otero,0,Classification,8089,777
+Colorado,Ouray,0,Classification,8091,780
+Colorado,Park,0,Classification,8093,782
+Colorado,Phillips,0,Classification,8095,785
+Colorado,Pitkin,0,Classification,8097,789
+Colorado,Prowers,0,Classification,8099,792
+Colorado,Pueblo,0,Classification,8101,795
+Colorado,Rio Blanco,0,Classification,8103,799
+Colorado,Rio Grande,0,Classification,8105,802
+Colorado,Routt,0,Classification,8107,809
+Colorado,Saguache,0,Classification,8109,811
+Colorado,San Juan,0,Classification,8111,347
+Colorado,San Miguel,0,Classification,8113,359
+Colorado,Sedgwick,0,Classification,8115,366
+Colorado,Summit,0,Classification,8117,373
+Colorado,Teller,0,Classification,8119,375
+Colorado,Washington,0,Classification,8121,377
+Colorado,Weld,0,Classification,8123,382
+Colorado,Yuma,0,Classification,8125,385
+Connecticut,Fairfield,0,Classification,9001,410
+Connecticut,Hartford,0,Classification,9003,432
+Connecticut,Litchfield,0,Classification,9005,443
+Connecticut,Middlesex,0,Classification,9007,450
+Connecticut,New Haven,0,Classification,9009,466
+Connecticut,New London,0,Classification,9011,517
+Connecticut,Tolland,0,Classification,9013,524
+Connecticut,Windham,0,Classification,9015,529
+Delaware,Kent,0,Classification,10001,532
+Delaware,New Castle,0,Classification,10003,536
+Delaware,Sussex,0,Classification,10005,609
+District of Columbia,District of Columbia,0,Classification,11001,630
+Florida,Alachua,1,Classification,12001,639
+Florida,Baker,1,Classification,12003,641
+Florida,Bay,1,Classification,12005,658
+Florida,Bradford,1,Classification,12007,665
+Florida,Brevard,1,Classification,12009,686
+Florida,Broward,1,Classification,12011,695
+Florida,Calhoun,1,Classification,12013,699
+Florida,Charlotte,1,Classification,12015,743
+Florida,Citrus,1,Classification,12017,843
+Florida,Clay,1,Classification,12019,852
+Florida,Collier,1,Classification,12021,894
+Florida,Columbia,1,Classification,12023,903
+Florida,DeSoto,1,Classification,12027,906
+Florida,Dixie,1,Classification,12029,918
+Florida,Duval,1,Classification,12031,924
+Florida,Escambia,1,Classification,12033,931
+Florida,Flagler,1,Classification,12035,935
+Florida,Franklin,1,Classification,12037,937
+Florida,Gadsden,1,Classification,12039,938
+Florida,Gilchrist,1,Classification,12041,939
+Florida,Glades,1,Classification,12043,940
+Florida,Gulf,1,Classification,12045,941
+Florida,Hamilton,1,Classification,12047,942
+Florida,Hardee,1,Classification,12049,943
+Florida,Hendry,1,Classification,12051,944
+Florida,Hernando,1,Classification,12053,945
+Florida,Highlands,1,Classification,12055,946
+Florida,Hillsborough,1,Classification,12057,947
+Florida,Holmes,1,Classification,12059,948
+Florida,Indian River,1,Classification,12061,949
+Florida,Jackson,1,Classification,12063,950
+Florida,Jefferson,1,Classification,12065,951
+Florida,Lafayette,1,Classification,12067,952
+Florida,Lake,1,Classification,12069,953
+Florida,Lee,1,Classification,12071,954
+Florida,Leon,1,Classification,12073,955
+Florida,Levy,1,Classification,12075,956
+Florida,Liberty,1,Classification,12077,957
+Florida,Madison,1,Classification,12079,958
+Florida,Manatee,1,Classification,12081,959
+Florida,Marion,1,Classification,12083,960
+Florida,Martin,1,Classification,12085,961
+Florida,Miami-Dade,1,Classification,12086,962
+Florida,Monroe,1,Classification,12087,963
+Florida,Nassau,1,Classification,12089,964
+Florida,Okaloosa,1,Classification,12091,965
+Florida,Okeechobee,1,Classification,12093,966
+Florida,Orange,1,Classification,12095,967
+Florida,Osceola,1,Classification,12097,968
+Florida,Palm Beach,1,Classification,12099,969
+Florida,Pasco,1,Classification,12101,970
+Florida,Pinellas,1,Classification,12103,971
+Florida,Polk,1,Classification,12105,972
+Florida,Putnam,1,Classification,12107,973
+Florida,St. Johns,1,Classification,12109,974
+Florida,St. Lucie,1,Classification,12111,975
+Florida,Santa Rosa,1,Classification,12113,976
+Florida,Sarasota,1,Classification,12115,977
+Florida,Seminole,1,Classification,12117,978
+Florida,Sumter,1,Classification,12119,979
+Florida,Suwannee,1,Classification,12121,980
+Florida,Taylor,1,Classification,12123,981
+Florida,Union,1,Classification,12125,982
+Florida,Volusia,1,Classification,12127,983
+Florida,Wakulla,1,Classification,12129,984
+Florida,Walton,1,Classification,12131,985
+Florida,Washington,1,Classification,12133,986
+Georgia,Appling,0,Classification,13001,987
+Georgia,Atkinson,0,Classification,13003,988
+Georgia,Bacon,0,Classification,13005,989
+Georgia,Baker,0,Classification,13007,990
+Georgia,Baldwin,0,Classification,13009,991
+Georgia,Banks,0,Classification,13011,992
+Georgia,Barrow,0,Classification,13013,993
+Georgia,Bartow,0,Classification,13015,994
+Georgia,Ben Hill,0,Classification,13017,995
+Georgia,Berrien,0,Classification,13019,996
+Georgia,Bibb,0,Classification,13021,997
+Georgia,Bleckley,0,Classification,13023,998
+Georgia,Brantley,0,Classification,13025,999
+Georgia,Brooks,0,Classification,13027,565
+Georgia,Bryan,0,Classification,13029,573
+Georgia,Bulloch,0,Classification,13031,579
+Georgia,Burke,0,Classification,13033,583
+Georgia,Butts,0,Classification,13035,588
+Georgia,Calhoun,0,Classification,13037,592
+Georgia,Camden,0,Classification,13039,603
+Georgia,Candler,0,Classification,13043,616
+Georgia,Carroll,0,Classification,13045,620
+Georgia,Catoosa,0,Classification,13047,626
+Georgia,Charlton,0,Classification,13049,635
+Georgia,Chatham,0,Classification,13051,646
+Georgia,Chattahoochee,0,Classification,13053,656
+Georgia,Chattooga,0,Classification,13055,659
+Georgia,Cherokee,0,Classification,13057,662
+Georgia,Clarke,0,Classification,13059,666
+Georgia,Clay,0,Classification,13061,670
+Georgia,Clayton,0,Classification,13063,673
+Georgia,Clinch,0,Classification,13065,676
+Georgia,Cobb,0,Classification,13067,680
+Georgia,Coffee,0,Classification,13069,684
+Georgia,Colquitt,0,Classification,13071,689
+Georgia,Columbia,0,Classification,13073,692
+Georgia,Cook,0,Classification,13075,697
+Georgia,Coweta,0,Classification,13077,700
+Georgia,Crawford,0,Classification,13079,704
+Georgia,Crisp,0,Classification,13081,707
+Georgia,Dade,0,Classification,13083,708
+Georgia,Dawson,0,Classification,13085,713
+Georgia,Decatur,0,Classification,13087,714
+Georgia,DeKalb,0,Classification,13089,718
+Georgia,Dodge,0,Classification,13091,720
+Georgia,Dooly,0,Classification,13093,724
+Georgia,Dougherty,0,Classification,13095,728
+Georgia,Douglas,0,Classification,13097,731
+Georgia,Early,0,Classification,13099,735
+Georgia,Echols,0,Classification,13101,737
+Georgia,Effingham,0,Classification,13103,742
+Georgia,Elbert,0,Classification,13105,746
+Georgia,Emanuel,0,Classification,13107,750
+Georgia,Evans,0,Classification,13109,754
+Georgia,Fannin,0,Classification,13111,755
+Georgia,Fayette,0,Classification,13113,760
+Georgia,Floyd,0,Classification,13115,764
+Georgia,Forsyth,0,Classification,13117,768
+Georgia,Franklin,0,Classification,13119,772
+Georgia,Fulton,0,Classification,13121,779
+Georgia,Gilmer,0,Classification,13123,781
+Georgia,Glascock,0,Classification,13125,783
+Georgia,Glynn,0,Classification,13127,793
+Georgia,Gordon,0,Classification,13129,796
+Georgia,Grady,0,Classification,13131,797
+Georgia,Greene,0,Classification,13133,800
+Georgia,Gwinnett,0,Classification,13135,804
+Georgia,Habersham,0,Classification,13137,806
+Georgia,Hall,0,Classification,13139,808
+Georgia,Hancock,0,Classification,13141,810
+Georgia,Haralson,0,Classification,13143,813
+Georgia,Harris,0,Classification,13145,814
+Georgia,Hart,0,Classification,13147,816
+Georgia,Heard,0,Classification,13149,817
+Georgia,Henry,0,Classification,13151,820
+Georgia,Houston,0,Classification,13153,823
+Georgia,Irwin,0,Classification,13155,825
+Georgia,Jackson,0,Classification,13157,828
+Georgia,Jasper,0,Classification,13159,830
+Georgia,Jeff Davis,0,Classification,13161,832
+Georgia,Jefferson,0,Classification,13163,834
+Georgia,Jenkins,0,Classification,13165,835
+Georgia,Johnson,0,Classification,13167,837
+Georgia,Jones,0,Classification,13169,839
+Georgia,Lamar,0,Classification,13171,841
+Georgia,Lanier,0,Classification,13173,845
+Georgia,Laurens,0,Classification,13175,847
+Georgia,Lee,0,Classification,13177,849
+Georgia,Liberty,0,Classification,13179,855
+Georgia,Lincoln,0,Classification,13181,857
+Georgia,Long,0,Classification,13183,860
+Georgia,Lowndes,0,Classification,13185,863
+Georgia,Lumpkin,0,Classification,13187,865
+Georgia,McDuffie,0,Classification,13189,868
+Georgia,McIntosh,0,Classification,13191,871
+Georgia,Macon,0,Classification,13193,874
+Georgia,Madison,0,Classification,13195,875
+Georgia,Marion,0,Classification,13197,877
+Georgia,Meriwether,0,Classification,13199,879
+Georgia,Miller,0,Classification,13201,881
+Georgia,Mitchell,0,Classification,13205,883
+Georgia,Monroe,0,Classification,13207,885
+Georgia,Montgomery,0,Classification,13209,887
+Georgia,Morgan,0,Classification,13211,890
+Georgia,Murray,0,Classification,13213,892
+Georgia,Muscogee,0,Classification,13215,896
+Georgia,Newton,0,Classification,13217,899
+Georgia,Oconee,0,Classification,13219,901
+Georgia,Oglethorpe,0,Classification,13221,905
+Georgia,Paulding,0,Classification,13223,908
+Georgia,Peach,0,Classification,13225,910
+Georgia,Pickens,0,Classification,13227,912
+Georgia,Pierce,0,Classification,13229,915
+Georgia,Pike,0,Classification,13231,7
+Georgia,Polk,0,Classification,13233,8
+Georgia,Pulaski,0,Classification,13235,11
+Georgia,Putnam,0,Classification,13237,13
+Georgia,Quitman,0,Classification,13239,16
+Georgia,Rabun,0,Classification,13241,18
+Georgia,Randolph,0,Classification,13243,23
+Georgia,Richmond,0,Classification,13245,24
+Georgia,Rockdale,0,Classification,13247,28
+Georgia,Schley,0,Classification,13249,31
+Georgia,Screven,0,Classification,13251,34
+Georgia,Seminole,0,Classification,13253,38
+Georgia,Spalding,0,Classification,13255,41
+Georgia,Stephens,0,Classification,13257,45
+Georgia,Stewart,0,Classification,13259,48
+Georgia,Sumter,0,Classification,13261,52
+Georgia,Talbot,0,Classification,13263,57
+Georgia,Taliaferro,0,Classification,13265,60
+Georgia,Tattnall,0,Classification,13267,63
+Georgia,Taylor,0,Classification,13269,69
+Georgia,Telfair,0,Classification,13271,75
+Georgia,Terrell,0,Classification,13273,78
+Georgia,Thomas,0,Classification,13275,83
+Georgia,Tift,0,Classification,13277,87
+Georgia,Toombs,0,Classification,13279,91
+Georgia,Towns,0,Classification,13281,95
+Georgia,Treutlen,0,Classification,13283,102
+Georgia,Troup,0,Classification,13285,105
+Georgia,Turner,0,Classification,13287,108
+Georgia,Twiggs,0,Classification,13289,116
+Georgia,Union,0,Classification,13291,120
+Georgia,Upson,0,Classification,13293,123
+Georgia,Walker,0,Classification,13295,126
+Georgia,Walton,0,Classification,13297,127
+Georgia,Ware,0,Classification,13299,132
+Georgia,Warren,0,Classification,13301,135
+Georgia,Washington,0,Classification,13303,143
+Georgia,Wayne,0,Classification,13305,147
+Georgia,Webster,0,Classification,13307,149
+Georgia,Wheeler,0,Classification,13309,154
+Georgia,White,0,Classification,13311,157
+Georgia,Whitfield,0,Classification,13313,159
+Georgia,Wilcox,0,Classification,13315,163
+Georgia,Wilkes,0,Classification,13317,167
+Georgia,Wilkinson,0,Classification,13319,169
+Georgia,Worth,0,Classification,13321,173
+Hawaii,Hawaii,0,Classification,15001,198
+Hawaii,Honolulu,0,Classification,15003,234
+Hawaii,Kalawao,0,Classification,15005,247
+Hawaii,Kauai,0,Classification,15007,261
+Hawaii,Maui,0,Classification,15009,323
+Idaho,Ada,0,Classification,16001,336
+Idaho,Adams,0,Classification,16003,338
+Idaho,Bannock,0,Classification,16005,343
+Idaho,Bear Lake,0,Classification,16007,349
+Idaho,Benewah,0,Classification,16009,354
+Idaho,Bingham,0,Classification,16011,362
+Idaho,Blaine,0,Classification,16013,371
+Idaho,Boise,0,Classification,16015,380
+Idaho,Bonner,0,Classification,16017,387
+Idaho,Bonneville,0,Classification,16019,395
+Idaho,Boundary,0,Classification,16021,405
+Idaho,Butte,0,Classification,16023,414
+Idaho,Camas,0,Classification,16025,429
+Idaho,Canyon,0,Classification,16027,441
+Idaho,Caribou,0,Classification,16029,449
+Idaho,Cassia,0,Classification,16031,456
+Idaho,Clark,0,Classification,16033,464
+Idaho,Clearwater,0,Classification,16035,474
+Idaho,Custer,0,Classification,16037,484
+Idaho,Elmore,0,Classification,16039,490
+Idaho,Franklin,0,Classification,16041,498
+Idaho,Fremont,0,Classification,16043,502
+Idaho,Gem,0,Classification,16045,510
+Idaho,Gooding,0,Classification,16047,519
+Idaho,Idaho,0,Classification,16049,528
+Idaho,Jefferson,0,Classification,16051,540
+Idaho,Jerome,0,Classification,16053,547
+Idaho,Kootenai,0,Classification,16055,552
+Idaho,Latah,0,Classification,16057,559
+Idaho,Lemhi,0,Classification,16059,566
+Idaho,Lewis,0,Classification,16061,574
+Idaho,Lincoln,0,Classification,16063,578
+Idaho,Madison,0,Classification,16065,581
+Idaho,Minidoka,0,Classification,16067,585
+Idaho,Nez Perce,0,Classification,16069,589
+Idaho,Oneida,0,Classification,16071,593
+Idaho,Owyhee,0,Classification,16073,601
+Idaho,Payette,0,Classification,16075,606
+Idaho,Power,0,Classification,16077,613
+Idaho,Shoshone,0,Classification,16079,621
+Idaho,Teton,0,Classification,16081,627
+Idaho,Twin Falls,0,Classification,16083,634
+Idaho,Valley,0,Classification,16085,643
+Idaho,Washington,0,Classification,16087,649
+Illinois,Adams,0,Classification,17001,650
+Illinois,Alexander,0,Classification,17003,651
+Illinois,Bond,0,Classification,17005,652
+Illinois,Boone,0,Classification,17007,653
+Illinois,Brown,0,Classification,17009,654
+Illinois,Bureau,0,Classification,17011,2
+Illinois,Calhoun,0,Classification,17013,4
+Illinois,Carroll,0,Classification,17015,6
+Illinois,Cass,0,Classification,17017,10
+Illinois,Champaign,0,Classification,17019,12
+Illinois,Christian,0,Classification,17021,14
+Illinois,Clark,0,Classification,17023,19
+Illinois,Clay,0,Classification,17025,22
+Illinois,Clinton,0,Classification,17027,27
+Illinois,Coles,0,Classification,17029,30
+Illinois,Cook,0,Classification,17031,36
+Illinois,Crawford,0,Classification,17033,40
+Illinois,Cumberland,0,Classification,17035,44
+Illinois,DeKalb,0,Classification,17037,49
+Illinois,De Witt,0,Classification,17039,53
+Illinois,Douglas,0,Classification,17041,55
+Illinois,DuPage,0,Classification,17043,64
+Illinois,Edgar,0,Classification,17045,66
+Illinois,Edwards,0,Classification,17047,71
+Illinois,Effingham,0,Classification,17049,76
+Illinois,Fayette,0,Classification,17051,79
+Illinois,Ford,0,Classification,17053,81
+Illinois,Franklin,0,Classification,17055,85
+Illinois,Fulton,0,Classification,17057,89
+Illinois,Gallatin,0,Classification,17059,92
+Illinois,Greene,0,Classification,17061,96
+Illinois,Grundy,0,Classification,17063,99
+Illinois,Hamilton,0,Classification,17065,106
+Illinois,Hancock,0,Classification,17067,111
+Illinois,Hardin,0,Classification,17069,113
+Illinois,Henderson,0,Classification,17071,117
+Illinois,Henry,0,Classification,17073,121
+Illinois,Iroquois,0,Classification,17075,125
+Illinois,Jackson,0,Classification,17077,129
+Illinois,Jasper,0,Classification,17079,133
+Illinois,Jefferson,0,Classification,17081,137
+Illinois,Jersey,0,Classification,17083,142
+Illinois,Jo Daviess,0,Classification,17085,145
+Illinois,Johnson,0,Classification,17087,152
+Illinois,Kane,0,Classification,17089,156
+Illinois,Kankakee,0,Classification,17091,161
+Illinois,Kendall,0,Classification,17093,165
+Illinois,Knox,0,Classification,17095,166
+Illinois,Lake,0,Classification,17097,170
+Illinois,LaSalle,0,Classification,17099,175
+Illinois,Lawrence,0,Classification,17101,177
+Illinois,Lee,0,Classification,17103,180
+Illinois,Livingston,0,Classification,17105,182
+Illinois,Logan,0,Classification,17107,186
+Illinois,McDonough,0,Classification,17109,189
+Illinois,McHenry,0,Classification,17111,192
+Illinois,McLean,0,Classification,17113,193
+Illinois,Macon,0,Classification,17115,194
+Illinois,Macoupin,0,Classification,17117,196
+Illinois,Madison,0,Classification,17119,199
+Illinois,Marion,0,Classification,17121,201
+Illinois,Marshall,0,Classification,17123,202
+Illinois,Mason,0,Classification,17125,206
+Illinois,Massac,0,Classification,17127,208
+Illinois,Menard,0,Classification,17129,212
+Illinois,Mercer,0,Classification,17131,216
+Illinois,Monroe,0,Classification,17133,219
+Illinois,Montgomery,0,Classification,17135,223
+Illinois,Morgan,0,Classification,17137,225
+Illinois,Moultrie,0,Classification,17139,227
+Illinois,Ogle,0,Classification,17141,229
+Illinois,Peoria,0,Classification,17143,233
+Illinois,Perry,0,Classification,17145,235
+Illinois,Piatt,0,Classification,17147,238
+Illinois,Pike,0,Classification,17149,241
+Illinois,Pope,0,Classification,17151,245
+Illinois,Pulaski,0,Classification,17153,248
+Illinois,Putnam,0,Classification,17155,253
+Illinois,Randolph,0,Classification,17157,255
+Illinois,Richland,0,Classification,17159,259
+Illinois,Rock Island,0,Classification,17161,265
+Illinois,St. Clair,0,Classification,17163,269
+Illinois,Saline,0,Classification,17165,271
+Illinois,Sangamon,0,Classification,17167,274
+Illinois,Schuyler,0,Classification,17169,278
+Illinois,Scott,0,Classification,17171,280
+Illinois,Shelby,0,Classification,17173,283
+Illinois,Stark,0,Classification,17175,285
+Illinois,Stephenson,0,Classification,17177,290
+Illinois,Tazewell,0,Classification,17179,291
+Illinois,Union,0,Classification,17181,293
+Illinois,Vermilion,0,Classification,17183,296
+Illinois,Wabash,0,Classification,17185,299
+Illinois,Warren,0,Classification,17187,301
+Illinois,Washington,0,Classification,17189,305
+Illinois,Wayne,0,Classification,17191,310
+Illinois,White,0,Classification,17193,312
+Illinois,Whiteside,0,Classification,17195,314
+Illinois,Will,0,Classification,17197,320
+Illinois,Williamson,0,Classification,17199,324
+Illinois,Winnebago,0,Classification,17201,325
+Illinois,Woodford,0,Classification,17203,328
+Indiana,Adams,0,Classification,18001,330
+Indiana,Allen,0,Classification,18003,335
+Indiana,Bartholomew,0,Classification,18005,342
+Indiana,Benton,0,Classification,18007,179
+Indiana,Blackford,0,Classification,18009,183
+Indiana,Boone,0,Classification,18011,185
+Indiana,Brown,0,Classification,18013,188
+Indiana,Carroll,0,Classification,18015,195
+Indiana,Cass,0,Classification,18017,211
+Indiana,Clark,0,Classification,18019,215
+Indiana,Clay,0,Classification,18021,221
+Indiana,Clinton,0,Classification,18023,226
+Indiana,Crawford,0,Classification,18025,232
+Indiana,Daviess,0,Classification,18027,239
+Indiana,Dearborn,0,Classification,18029,242
+Indiana,Decatur,0,Classification,18031,246
+Indiana,DeKalb,0,Classification,18033,249
+Indiana,Delaware,0,Classification,18035,252
+Indiana,Dubois,0,Classification,18037,254
+Indiana,Elkhart,0,Classification,18039,260
+Indiana,Fayette,0,Classification,18041,263
+Indiana,Floyd,0,Classification,18043,267
+Indiana,Fountain,0,Classification,18045,270
+Indiana,Franklin,0,Classification,18047,272
+Indiana,Fulton,0,Classification,18049,276
+Indiana,Gibson,0,Classification,18051,286
+Indiana,Grant,0,Classification,18053,297
+Indiana,Greene,0,Classification,18055,309
+Indiana,Hamilton,0,Classification,18057,321
+Indiana,Hancock,0,Classification,18059,329
+Indiana,Harrison,0,Classification,18061,334
+Indiana,Hendricks,0,Classification,18063,341
+Indiana,Henry,0,Classification,18065,344
+Indiana,Howard,0,Classification,18067,348
+Indiana,Huntington,0,Classification,18069,352
+Indiana,Jackson,0,Classification,18071,355
+Indiana,Jasper,0,Classification,18073,356
+Indiana,Jay,0,Classification,18075,358
+Indiana,Jefferson,0,Classification,18077,363
+Indiana,Jennings,0,Classification,18079,367
+Indiana,Johnson,0,Classification,18081,370
+Indiana,Knox,0,Classification,18083,376
+Indiana,Kosciusko,0,Classification,18085,384
+Indiana,LaGrange,0,Classification,18087,386
+Indiana,Lake,0,Classification,18089,389
+Indiana,LaPorte,0,Classification,18091,392
+Indiana,Lawrence,0,Classification,18093,396
+Indiana,Madison,0,Classification,18095,401
+Indiana,Marion,0,Classification,18097,409
+Indiana,Marshall,0,Classification,18099,412
+Indiana,Martin,0,Classification,18101,418
+Indiana,Miami,0,Classification,18103,420
+Indiana,Monroe,0,Classification,18105,422
+Indiana,Montgomery,0,Classification,18107,425
+Indiana,Morgan,0,Classification,18109,430
+Indiana,Newton,0,Classification,18111,433
+Indiana,Noble,0,Classification,18113,436
+Indiana,Ohio,0,Classification,18115,440
+Indiana,Orange,0,Classification,18117,444
+Indiana,Owen,0,Classification,18119,448
+Indiana,Parke,0,Classification,18121,452
+Indiana,Perry,0,Classification,18123,459
+Indiana,Pike,0,Classification,18125,465
+Indiana,Porter,0,Classification,18127,468
+Indiana,Posey,0,Classification,18129,471
+Indiana,Pulaski,0,Classification,18131,477
+Indiana,Putnam,0,Classification,18133,480
+Indiana,Randolph,0,Classification,18135,485
+Indiana,Ripley,0,Classification,18137,488
+Indiana,Rush,0,Classification,18139,493
+Indiana,St. Joseph,0,Classification,18141,496
+Indiana,Scott,0,Classification,18143,504
+Indiana,Shelby,0,Classification,18145,506
+Indiana,Spencer,0,Classification,18147,509
+Indiana,Starke,0,Classification,18149,512
+Indiana,Steuben,0,Classification,18151,515
+Indiana,Sullivan,0,Classification,18153,518
+Indiana,Switzerland,0,Classification,18155,526
+Indiana,Tippecanoe,0,Classification,18157,530
+Indiana,Tipton,0,Classification,18159,534
+Indiana,Union,0,Classification,18161,538
+Indiana,Vanderburgh,0,Classification,18163,543
+Indiana,Vermillion,0,Classification,18165,548
+Indiana,Vigo,0,Classification,18167,553
+Indiana,Wabash,0,Classification,18169,555
+Indiana,Warren,0,Classification,18171,567
+Indiana,Warrick,0,Classification,18173,575
+Indiana,Washington,0,Classification,18175,584
+Indiana,Wayne,0,Classification,18177,586
+Indiana,Wells,0,Classification,18179,590
+Indiana,White,0,Classification,18181,594
+Indiana,Whitley,0,Classification,18183,597
+Iowa,Adair,0,Classification,19001,598
+Iowa,Adams,0,Classification,19003,602
+Iowa,Allamakee,0,Classification,19005,608
+Iowa,Appanoose,0,Classification,19007,611
+Iowa,Audubon,0,Classification,19009,615
+Iowa,Benton,0,Classification,19011,619
+Iowa,Black Hawk,0,Classification,19013,623
+Iowa,Boone,0,Classification,19015,625
+Iowa,Bremer,0,Classification,19017,631
+Iowa,Buchanan,0,Classification,19019,632
+Iowa,Buena Vista,0,Classification,19021,633
+Iowa,Butler,0,Classification,19023,361
+Iowa,Calhoun,0,Classification,19025,365
+Iowa,Carroll,0,Classification,19027,369
+Iowa,Cass,0,Classification,19029,374
+Iowa,Cedar,0,Classification,19031,379
+Iowa,Cerro Gordo,0,Classification,19033,383
+Iowa,Cherokee,0,Classification,19035,388
+Iowa,Chickasaw,0,Classification,19037,393
+Iowa,Clarke,0,Classification,19039,397
+Iowa,Clay,0,Classification,19041,398
+Iowa,Clayton,0,Classification,19043,402
+Iowa,Clinton,0,Classification,19045,404
+Iowa,Crawford,0,Classification,19047,408
+Iowa,Dallas,0,Classification,19049,413
+Iowa,Davis,0,Classification,19051,416
+Iowa,Decatur,0,Classification,19053,419
+Iowa,Delaware,0,Classification,19055,421
+Iowa,Des Moines,0,Classification,19057,424
+Iowa,Dickinson,0,Classification,19059,427
+Iowa,Dubuque,0,Classification,19061,434
+Iowa,Emmet,0,Classification,19063,437
+Iowa,Fayette,0,Classification,19065,442
+Iowa,Floyd,0,Classification,19067,447
+Iowa,Franklin,0,Classification,19069,451
+Iowa,Fremont,0,Classification,19071,455
+Iowa,Greene,0,Classification,19073,458
+Iowa,Grundy,0,Classification,19075,460
+Iowa,Guthrie,0,Classification,19077,467
+Iowa,Hamilton,0,Classification,19079,469
+Iowa,Hancock,0,Classification,19081,470
+Iowa,Hardin,0,Classification,19083,475
+Iowa,Harrison,0,Classification,19085,478
+Iowa,Henry,0,Classification,19087,479
+Iowa,Howard,0,Classification,19089,481
+Iowa,Humboldt,0,Classification,19091,487
+Iowa,Ida,0,Classification,19093,491
+Iowa,Iowa,0,Classification,19095,495
+Iowa,Jackson,0,Classification,19097,499
+Iowa,Jasper,0,Classification,19099,505
+Iowa,Jefferson,0,Classification,19101,507
+Iowa,Johnson,0,Classification,19103,508
+Iowa,Jones,0,Classification,19105,516
+Iowa,Keokuk,0,Classification,19107,520
+Iowa,Kossuth,0,Classification,19109,523
+Iowa,Lee,0,Classification,19111,531
+Iowa,Linn,0,Classification,19113,535
+Iowa,Louisa,0,Classification,19115,539
+Iowa,Lucas,0,Classification,19117,542
+Iowa,Lyon,0,Classification,19119,546
+Iowa,Madison,0,Classification,19121,550
+Iowa,Mahaska,0,Classification,19123,554
+Iowa,Marion,0,Classification,19125,561
+Iowa,Marshall,0,Classification,19127,568
+Iowa,Mills,0,Classification,19129,569
+Iowa,Mitchell,0,Classification,19131,572
+Iowa,Monona,0,Classification,19133,576
+Iowa,Monroe,0,Classification,19135,580
+Iowa,Montgomery,0,Classification,19137,595
+Iowa,Muscatine,0,Classification,19139,600
+Iowa,O'Brien,0,Classification,19141,604
+Iowa,Osceola,0,Classification,19143,607
+Iowa,Page,0,Classification,19145,612
+Iowa,Palo Alto,0,Classification,19147,618
+Iowa,Plymouth,0,Classification,19149,622
+Iowa,Pocahontas,0,Classification,19151,624
+Iowa,Polk,0,Classification,19153,629
+Iowa,Pottawattamie,0,Classification,19155,637
+Iowa,Poweshiek,0,Classification,19157,640
+Iowa,Ringgold,0,Classification,19159,642
+Iowa,Sac,0,Classification,19161,647
+Iowa,Scott,0,Classification,19163,657
+Iowa,Shelby,0,Classification,19165,660
+Iowa,Sioux,0,Classification,19167,663
+Iowa,Story,0,Classification,19169,668
+Iowa,Tama,0,Classification,19171,671
+Iowa,Taylor,0,Classification,19173,674
+Iowa,Union,0,Classification,19175,675
+Iowa,Van Buren,0,Classification,19177,678
+Iowa,Wapello,0,Classification,19179,681
+Iowa,Warren,0,Classification,19181,685
+Iowa,Washington,0,Classification,19183,687
+Iowa,Wayne,0,Classification,19185,691
+Iowa,Webster,0,Classification,19187,694
+Iowa,Winnebago,0,Classification,19189,696
+Iowa,Winneshiek,0,Classification,19191,698
+Iowa,Woodbury,0,Classification,19193,702
+Iowa,Worth,0,Classification,19195,703
+Iowa,Wright,0,Classification,19197,705
+Kansas,Allen,0,Classification,20001,709
+Kansas,Anderson,0,Classification,20003,712
+Kansas,Atchison,0,Classification,20005,715
+Kansas,Barber,0,Classification,20007,717
+Kansas,Barton,0,Classification,20009,719
+Kansas,Bourbon,0,Classification,20011,722
+Kansas,Brown,0,Classification,20013,723
+Kansas,Butler,0,Classification,20015,726
+Kansas,Chase,0,Classification,20017,729
+Kansas,Chautauqua,0,Classification,20019,730
+Kansas,Cherokee,0,Classification,20021,732
+Kansas,Cheyenne,0,Classification,20023,736
+Kansas,Clark,0,Classification,20025,738
+Kansas,Clay,0,Classification,20027,739
+Kansas,Cloud,0,Classification,20029,740
+Kansas,Coffey,0,Classification,20031,745
+Kansas,Comanche,0,Classification,20033,748
+Kansas,Cowley,0,Classification,20035,752
+Kansas,Crawford,0,Classification,20037,756
+Kansas,Decatur,0,Classification,20039,759
+Kansas,Dickinson,0,Classification,20041,762
+Kansas,Doniphan,0,Classification,20043,765
+Kansas,Douglas,0,Classification,20045,767
+Kansas,Edwards,0,Classification,20047,770
+Kansas,Elk,0,Classification,20049,773
+Kansas,Ellis,0,Classification,20051,774
+Kansas,Ellsworth,0,Classification,20053,776
+Kansas,Finney,0,Classification,20055,778
+Kansas,Ford,0,Classification,20057,784
+Kansas,Franklin,0,Classification,20059,786
+Kansas,Geary,0,Classification,20061,788
+Kansas,Gove,0,Classification,20063,790
+Kansas,Graham,0,Classification,20065,791
+Kansas,Grant,0,Classification,20067,794
+Kansas,Gray,0,Classification,20069,798
+Kansas,Greeley,0,Classification,20071,801
+Kansas,Greenwood,0,Classification,20073,803
+Kansas,Hamilton,0,Classification,20075,805
+Kansas,Harper,0,Classification,20077,807
+Kansas,Harvey,0,Classification,20079,812
+Kansas,Haskell,0,Classification,20081,815
+Kansas,Hodgeman,0,Classification,20083,818
+Kansas,Jackson,0,Classification,20085,819
+Kansas,Jefferson,0,Classification,20087,821
+Kansas,Jewell,0,Classification,20089,822
+Kansas,Johnson,0,Classification,20091,824
+Kansas,Kearny,0,Classification,20093,826
+Kansas,Kingman,0,Classification,20095,827
+Kansas,Kiowa,0,Classification,20097,829
+Kansas,Labette,0,Classification,20099,831
+Kansas,Lane,0,Classification,20101,833
+Kansas,Leavenworth,0,Classification,20103,836
+Kansas,Lincoln,0,Classification,20105,838
+Kansas,Linn,0,Classification,20107,840
+Kansas,Logan,0,Classification,20109,842
+Kansas,Lyon,0,Classification,20111,844
+Kansas,McPherson,0,Classification,20113,846
+Kansas,Marion,0,Classification,20115,848
+Kansas,Marshall,0,Classification,20117,850
+Kansas,Meade,0,Classification,20119,851
+Kansas,Miami,0,Classification,20121,853
+Kansas,Mitchell,0,Classification,20123,854
+Kansas,Montgomery,0,Classification,20125,856
+Kansas,Morris,0,Classification,20127,858
+Kansas,Morton,0,Classification,20129,859
+Kansas,Nemaha,0,Classification,20131,861
+Kansas,Neosho,0,Classification,20133,862
+Kansas,Ness,0,Classification,20135,864
+Kansas,Norton,0,Classification,20137,866
+Kansas,Osage,0,Classification,20139,867
+Kansas,Osborne,0,Classification,20141,869
+Kansas,Ottawa,0,Classification,20143,870
+Kansas,Pawnee,0,Classification,20145,872
+Kansas,Phillips,0,Classification,20147,873
+Kansas,Pottawatomie,0,Classification,20149,876
+Kansas,Pratt,0,Classification,20151,878
+Kansas,Rawlins,0,Classification,20153,880
+Kansas,Reno,0,Classification,20155,882
+Kansas,Republic,0,Classification,20157,884
+Kansas,Rice,0,Classification,20159,886
+Kansas,Riley,0,Classification,20161,888
+Kansas,Rooks,0,Classification,20163,889
+Kansas,Rush,0,Classification,20165,891
+Kansas,Russell,0,Classification,20167,893
+Kansas,Saline,0,Classification,20169,895
+Kansas,Scott,0,Classification,20171,897
+Kansas,Sedgwick,0,Classification,20173,898
+Kansas,Seward,0,Classification,20175,900
+Kansas,Shawnee,0,Classification,20177,902
+Kansas,Sheridan,0,Classification,20179,904
+Kansas,Sherman,0,Classification,20181,907
+Kansas,Smith,0,Classification,20183,909
+Kansas,Stafford,0,Classification,20185,911
+Kansas,Stanton,0,Classification,20187,913
+Kansas,Stevens,0,Classification,20189,914
+Kansas,Sumner,0,Classification,20191,916
+Kansas,Thomas,0,Classification,20193,917
+Kansas,Trego,0,Classification,20195,919
+Kansas,Wabaunsee,0,Classification,20197,920
+Kansas,Wallace,0,Classification,20199,921
+Kansas,Washington,0,Classification,20201,922
+Kansas,Wichita,0,Classification,20203,923
+Kansas,Wilson,0,Classification,20205,925
+Kansas,Woodson,0,Classification,20207,926
+Kansas,Wyandotte,0,Classification,20209,927
+Kentucky,Adair,1,Classification,21001,928
+Kentucky,Allen,1,Classification,21003,929
+Kentucky,Anderson,1,Classification,21005,930
+Kentucky,Ballard,1,Classification,21007,932
+Kentucky,Barren,1,Classification,21009,933
+Kentucky,Bath,1,Classification,21011,934
+Kentucky,Bell,1,Classification,21013,936
+Kentucky,Boone,1,Classification,21015,1002
+Kentucky,Bourbon,1,Classification,21017,1005
+Kentucky,Boyd,1,Classification,21019,1008
+Kentucky,Boyle,1,Classification,21021,1010
+Kentucky,Bracken,1,Classification,21023,1013
+Kentucky,Breathitt,1,Classification,21025,1017
+Kentucky,Breckinridge,1,Classification,21027,1020
+Kentucky,Bullitt,1,Classification,21029,1024
+Kentucky,Butler,1,Classification,21031,1026
+Kentucky,Caldwell,1,Classification,21033,1031
+Kentucky,Calloway,1,Classification,21035,1033
+Kentucky,Campbell,1,Classification,21037,1035
+Kentucky,Carlisle,1,Classification,21039,1039
+Kentucky,Carroll,1,Classification,21041,1041
+Kentucky,Carter,1,Classification,21043,1044
+Kentucky,Casey,1,Classification,21045,1048
+Kentucky,Christian,1,Classification,21047,1050
+Kentucky,Clark,1,Classification,21049,1053
+Kentucky,Clay,1,Classification,21051,1056
+Kentucky,Clinton,1,Classification,21053,1059
+Kentucky,Crittenden,1,Classification,21055,1064
+Kentucky,Cumberland,1,Classification,21057,1067
+Kentucky,Daviess,1,Classification,21059,1071
+Kentucky,Edmonson,1,Classification,21061,1073
+Kentucky,Elliott,1,Classification,21063,1075
+Kentucky,Estill,1,Classification,21065,1077
+Kentucky,Fayette,1,Classification,21067,1080
+Kentucky,Fleming,1,Classification,21069,1083
+Kentucky,Floyd,1,Classification,21071,1085
+Kentucky,Franklin,1,Classification,21073,1086
+Kentucky,Fulton,1,Classification,21075,1088
+Kentucky,Gallatin,1,Classification,21077,1090
+Kentucky,Garrard,1,Classification,21079,1092
+Kentucky,Grant,1,Classification,21081,1094
+Kentucky,Graves,1,Classification,21083,1097
+Kentucky,Grayson,1,Classification,21085,1100
+Kentucky,Green,1,Classification,21087,1102
+Kentucky,Greenup,1,Classification,21089,1105
+Kentucky,Hancock,1,Classification,21091,1107
+Kentucky,Hardin,1,Classification,21093,1110
+Kentucky,Harlan,1,Classification,21095,1114
+Kentucky,Harrison,1,Classification,21097,1119
+Kentucky,Hart,1,Classification,21099,1121
+Kentucky,Henderson,1,Classification,21101,1126
+Kentucky,Henry,1,Classification,21103,1129
+Kentucky,Hickman,1,Classification,21105,1130
+Kentucky,Hopkins,1,Classification,21107,1136
+Kentucky,Jackson,1,Classification,21109,1140
+Kentucky,Jefferson,1,Classification,21111,1143
+Kentucky,Jessamine,1,Classification,21113,1145
+Kentucky,Johnson,1,Classification,21115,1148
+Kentucky,Kenton,1,Classification,21117,1151
+Kentucky,Knott,1,Classification,21119,1154
+Kentucky,Knox,1,Classification,21121,1159
+Kentucky,Larue,1,Classification,21123,1162
+Kentucky,Laurel,1,Classification,21125,1166
+Kentucky,Lawrence,1,Classification,21127,1167
+Kentucky,Lee,1,Classification,21129,1171
+Kentucky,Leslie,1,Classification,21131,1175
+Kentucky,Letcher,1,Classification,21133,1178
+Kentucky,Lewis,1,Classification,21135,1180
+Kentucky,Lincoln,1,Classification,21137,1184
+Kentucky,Livingston,1,Classification,21139,1187
+Kentucky,Logan,1,Classification,21141,1190
+Kentucky,Lyon,1,Classification,21143,1193
+Kentucky,McCracken,1,Classification,21145,1196
+Kentucky,McCreary,1,Classification,21147,1198
+Kentucky,McLean,1,Classification,21149,1201
+Kentucky,Madison,1,Classification,21151,1204
+Kentucky,Magoffin,1,Classification,21153,1206
+Kentucky,Marion,1,Classification,21155,1210
+Kentucky,Marshall,1,Classification,21157,1213
+Kentucky,Martin,1,Classification,21159,1215
+Kentucky,Mason,1,Classification,21161,1217
+Kentucky,Meade,1,Classification,21163,1220
+Kentucky,Menifee,1,Classification,21165,1222
+Kentucky,Mercer,1,Classification,21167,1225
+Kentucky,Metcalfe,1,Classification,21169,1228
+Kentucky,Monroe,1,Classification,21171,1230
+Kentucky,Montgomery,1,Classification,21173,1233
+Kentucky,Morgan,1,Classification,21175,1235
+Kentucky,Muhlenberg,1,Classification,21177,1238
+Kentucky,Nelson,1,Classification,21179,1243
+Kentucky,Nicholas,1,Classification,21181,1246
+Kentucky,Ohio,1,Classification,21183,1249
+Kentucky,Oldham,1,Classification,21185,1252
+Kentucky,Owen,1,Classification,21187,1255
+Kentucky,Owsley,1,Classification,21189,1257
+Kentucky,Pendleton,1,Classification,21191,1260
+Kentucky,Perry,1,Classification,21193,1265
+Kentucky,Pike,1,Classification,21195,1267
+Kentucky,Powell,1,Classification,21197,1270
+Kentucky,Pulaski,1,Classification,21199,1272
+Kentucky,Robertson,1,Classification,21201,1273
+Kentucky,Rockcastle,1,Classification,21203,1276
+Kentucky,Rowan,1,Classification,21205,1279
+Kentucky,Russell,1,Classification,21207,1282
+Kentucky,Scott,1,Classification,21209,1283
+Kentucky,Shelby,1,Classification,21211,1285
+Kentucky,Simpson,1,Classification,21213,1287
+Kentucky,Spencer,1,Classification,21215,1000
+Kentucky,Taylor,1,Classification,21217,1003
+Kentucky,Todd,1,Classification,21219,1006
+Kentucky,Trigg,1,Classification,21221,1009
+Kentucky,Trimble,1,Classification,21223,1012
+Kentucky,Union,1,Classification,21225,1016
+Kentucky,Warren,1,Classification,21227,1019
+Kentucky,Washington,1,Classification,21229,1023
+Kentucky,Wayne,1,Classification,21231,1027
+Kentucky,Webster,1,Classification,21233,1029
+Kentucky,Whitley,1,Classification,21235,1034
+Kentucky,Wolfe,1,Classification,21237,1037
+Kentucky,Woodford,1,Classification,21239,1042
+Louisiana,Acadia,1,Classification,22001,1046
+Louisiana,Allen,1,Classification,22003,1051
+Louisiana,Ascension,1,Classification,22005,1055
+Louisiana,Assumption,1,Classification,22007,1060
+Louisiana,Avoyelles,1,Classification,22009,1062
+Louisiana,Beauregard,1,Classification,22011,1066
+Louisiana,Bienville,1,Classification,22013,1069
+Louisiana,Bossier,1,Classification,22015,1076
+Louisiana,Caddo,1,Classification,22017,1079
+Louisiana,Calcasieu,1,Classification,22019,1081
+Louisiana,Caldwell,1,Classification,22021,1084
+Louisiana,Cameron,1,Classification,22023,1089
+Louisiana,Catahoula,1,Classification,22025,1093
+Louisiana,Claiborne,1,Classification,22027,1095
+Louisiana,Concordia,1,Classification,22029,1098
+Louisiana,De Soto,1,Classification,22031,1103
+Louisiana,East Baton Rouge,1,Classification,22033,1108
+Louisiana,East Carroll,1,Classification,22035,1111
+Louisiana,East Feliciana,1,Classification,22037,1115
+Louisiana,Evangeline,1,Classification,22039,1118
+Louisiana,Franklin,1,Classification,22041,1123
+Louisiana,Grant,1,Classification,22043,1127
+Louisiana,Iberia,1,Classification,22045,1133
+Louisiana,Iberville,1,Classification,22047,1134
+Louisiana,Jackson,1,Classification,22049,1138
+Louisiana,Jefferson,1,Classification,22051,1147
+Louisiana,Jefferson Davis,1,Classification,22053,1155
+Louisiana,Lafayette,1,Classification,22055,1161
+Louisiana,Lafourche,1,Classification,22057,1280
+Louisiana,La Salle,1,Classification,22059,1289
+Louisiana,Lincoln,1,Classification,22061,1291
+Louisiana,Livingston,1,Classification,22063,1295
+Louisiana,Madison,1,Classification,22065,1297
+Louisiana,Morehouse,1,Classification,22067,1299
+Louisiana,Natchitoches,1,Classification,22069,1301
+Louisiana,Orleans,1,Classification,22071,1304
+Louisiana,Ouachita,1,Classification,22073,1306
+Louisiana,Plaquemines,1,Classification,22075,1427
+Louisiana,Pointe Coupee,1,Classification,22077,1431
+Louisiana,Rapides,1,Classification,22079,1434
+Louisiana,Red River,1,Classification,22081,1436
+Louisiana,Richland,1,Classification,22083,1439
+Louisiana,Sabine,1,Classification,22085,1441
+Louisiana,St. Bernard,1,Classification,22087,1463
+Louisiana,St. Charles,1,Classification,22089,1466
+Louisiana,St. Helena,1,Classification,22091,1467
+Louisiana,St. James,1,Classification,22093,1468
+Louisiana,St. John the Baptist,1,Classification,22095,1469
+Louisiana,St. Landry,1,Classification,22097,1471
+Louisiana,St. Martin,1,Classification,22099,1473
+Louisiana,St. Mary,1,Classification,22101,1474
+Louisiana,St. Tammany,1,Classification,22103,1475
+Louisiana,Tangipahoa,1,Classification,22105,1476
+Louisiana,Tensas,1,Classification,22107,1479
+Louisiana,Terrebonne,1,Classification,22109,1501
+Louisiana,Union,1,Classification,22111,1507
+Louisiana,Vermilion,1,Classification,22113,1510
+Louisiana,Vernon,1,Classification,22115,1513
+Louisiana,Washington,1,Classification,22117,1516
+Louisiana,Webster,1,Classification,22119,1518
+Louisiana,West Baton Rouge,1,Classification,22121,1520
+Louisiana,West Carroll,1,Classification,22123,1522
+Louisiana,West Feliciana,1,Classification,22125,1524
+Louisiana,Winn,1,Classification,22127,1529
+Maine,Androscoggin,0,Classification,23001,1532
+Maine,Aroostook,0,Classification,23003,1535
+Maine,Cumberland,0,Classification,23005,1608
+Maine,Franklin,0,Classification,23007,1619
+Maine,Hancock,0,Classification,23009,1748
+Maine,Kennebec,0,Classification,23011,1755
+Maine,Knox,0,Classification,23013,1774
+Maine,Lincoln,0,Classification,23015,1835
+Maine,Oxford,0,Classification,23017,1842
+Maine,Penobscot,0,Classification,23019,1846
+Maine,Piscataquis,0,Classification,23021,1851
+Maine,Sagadahoc,0,Classification,23023,1855
+Maine,Somerset,0,Classification,23025,1860
+Maine,Waldo,0,Classification,23027,1865
+Maine,Washington,0,Classification,23029,1884
+Maine,York,0,Classification,23031,1901
+Maryland,Allegany,1,Classification,24001,1905
+Maryland,Anne Arundel,1,Classification,24003,1925
+Maryland,Baltimore County,1,Classification,24005,1939
+Maryland,Calvert,1,Classification,24009,1946
+Maryland,Caroline,1,Classification,24011,1949
+Maryland,Carroll,1,Classification,24013,1955
+Maryland,Cecil,1,Classification,24015,1963
+Maryland,Charles,1,Classification,24017,1294
+Maryland,Dorchester,1,Classification,24019,1346
+Maryland,Frederick,1,Classification,24021,1357
+Maryland,Garrett,1,Classification,24023,1361
+Maryland,Harford,1,Classification,24025,1372
+Maryland,Howard,1,Classification,24027,1379
+Maryland,Kent,1,Classification,24029,1394
+Maryland,Montgomery,1,Classification,24031,1398
+Maryland,Prince George's,1,Classification,24033,1403
+Maryland,Queen Anne's,1,Classification,24035,1413
+Maryland,St. Mary's,1,Classification,24037,1421
+Maryland,Somerset,1,Classification,24039,1430
+Maryland,Talbot,1,Classification,24041,1438
+Maryland,Washington,1,Classification,24043,1445
+Maryland,Wicomico,1,Classification,24045,1446
+Maryland,Worcester,1,Classification,24047,1456
+Maryland,Baltimore County,1,Classification,24510,1939
+Massachusetts,Barnstable,1,Classification,25001,1478
+Massachusetts,Berkshire,1,Classification,25003,1480
+Massachusetts,Bristol,1,Classification,25005,1486
+Massachusetts,Dukes,1,Classification,25007,1491
+Massachusetts,Essex,1,Classification,25009,1519
+Massachusetts,Franklin,1,Classification,25011,1523
+Massachusetts,Hampden,1,Classification,25013,1526
+Massachusetts,Hampshire,1,Classification,25015,1527
+Massachusetts,Middlesex,1,Classification,25017,1533
+Massachusetts,Nantucket,1,Classification,25019,1537
+Massachusetts,Norfolk,1,Classification,25021,1543
+Massachusetts,Plymouth,1,Classification,25023,1569
+Massachusetts,Suffolk,1,Classification,25025,1585
+Massachusetts,Worcester,1,Classification,25027,1599
+Michigan,Alcona,1,Classification,26001,1603
+Michigan,Alger,1,Classification,26003,1609
+Michigan,Allegan,1,Classification,26005,1611
+Michigan,Alpena,1,Classification,26007,1614
+Michigan,Antrim,1,Classification,26009,1617
+Michigan,Arenac,1,Classification,26011,1621
+Michigan,Baraga,1,Classification,26013,1624
+Michigan,Barry,1,Classification,26015,1627
+Michigan,Bay,1,Classification,26017,1631
+Michigan,Benzie,1,Classification,26019,1634
+Michigan,Berrien,1,Classification,26021,1635
+Michigan,Branch,1,Classification,26023,1640
+Michigan,Calhoun,1,Classification,26025,1641
+Michigan,Cass,1,Classification,26027,1644
+Michigan,Charlevoix,1,Classification,26029,1648
+Michigan,Cheboygan,1,Classification,26031,1649
+Michigan,Chippewa,1,Classification,26033,1660
+Michigan,Clare,1,Classification,26035,1665
+Michigan,Clinton,1,Classification,26037,1669
+Michigan,Crawford,1,Classification,26039,1672
+Michigan,Delta,1,Classification,26041,1675
+Michigan,Dickinson,1,Classification,26043,1677
+Michigan,Eaton,1,Classification,26045,1678
+Michigan,Emmet,1,Classification,26047,1686
+Michigan,Genesee,1,Classification,26049,1688
+Michigan,Gladwin,1,Classification,26051,1691
+Michigan,Gogebic,1,Classification,26053,1693
+Michigan,Grand Traverse,1,Classification,26055,1697
+Michigan,Gratiot,1,Classification,26057,1700
+Michigan,Hillsdale,1,Classification,26059,1701
+Michigan,Houghton,1,Classification,26061,1705
+Michigan,Huron,1,Classification,26063,1708
+Michigan,Ingham,1,Classification,26065,1710
+Michigan,Ionia,1,Classification,26067,1713
+Michigan,Iosco,1,Classification,26069,1715
+Michigan,Iron,1,Classification,26071,1716
+Michigan,Isabella,1,Classification,26073,1717
+Michigan,Jackson,1,Classification,26075,1719
+Michigan,Kalamazoo,1,Classification,26077,1720
+Michigan,Kalkaska,1,Classification,26079,1722
+Michigan,Kent,1,Classification,26081,1726
+Michigan,Keweenaw,1,Classification,26083,1743
+Michigan,Lake,1,Classification,26085,1749
+Michigan,Lapeer,1,Classification,26087,1752
+Michigan,Leelanau,1,Classification,26089,1765
+Michigan,Lenawee,1,Classification,26091,1768
+Michigan,Livingston,1,Classification,26093,1770
+Michigan,Luce,1,Classification,26095,1773
+Michigan,Mackinac,1,Classification,26097,1779
+Michigan,Macomb,1,Classification,26099,1785
+Michigan,Manistee,1,Classification,26101,1787
+Michigan,Marquette,1,Classification,26103,1793
+Michigan,Mason,1,Classification,26105,1797
+Michigan,Mecosta,1,Classification,26107,1800
+Michigan,Menominee,1,Classification,26109,1802
+Michigan,Midland,1,Classification,26111,1806
+Michigan,Missaukee,1,Classification,26113,1810
+Michigan,Monroe,1,Classification,26115,1812
+Michigan,Montcalm,1,Classification,26117,1815
+Michigan,Montmorency,1,Classification,26119,1816
+Michigan,Muskegon,1,Classification,26121,1818
+Michigan,Newaygo,1,Classification,26123,1820
+Michigan,Oakland,1,Classification,26125,1824
+Michigan,Oceana,1,Classification,26127,1825
+Michigan,Ogemaw,1,Classification,26129,1827
+Michigan,Ontonagon,1,Classification,26131,1829
+Michigan,Osceola,1,Classification,26133,1830
+Michigan,Oscoda,1,Classification,26135,1832
+Michigan,Otsego,1,Classification,26137,1834
+Michigan,Ottawa,1,Classification,26139,1837
+Michigan,Presque Isle,1,Classification,26141,1840
+Michigan,Roscommon,1,Classification,26143,1843
+Michigan,Saginaw,1,Classification,26145,1845
+Michigan,St. Clair,1,Classification,26147,1854
+Michigan,St. Joseph,1,Classification,26149,1857
+Michigan,Sanilac,1,Classification,26151,1858
+Michigan,Schoolcraft,1,Classification,26153,1861
+Michigan,Shiawassee,1,Classification,26155,1863
+Michigan,Tuscola,1,Classification,26157,1866
+Michigan,Van Buren,1,Classification,26159,1867
+Michigan,Washtenaw,1,Classification,26161,1869
+Michigan,Wayne,1,Classification,26163,1871
+Michigan,Wexford,1,Classification,26165,1873
+Minnesota,Aitkin,0,Classification,27001,1875
+Minnesota,Anoka,0,Classification,27003,1877
+Minnesota,Becker,0,Classification,27005,1878
+Minnesota,Beltrami,0,Classification,27007,1880
+Minnesota,Benton,0,Classification,27009,1881
+Minnesota,Big Stone,0,Classification,27011,1882
+Minnesota,Blue Earth,0,Classification,27013,1886
+Minnesota,Brown,0,Classification,27015,1892
+Minnesota,Carlton,0,Classification,27017,1893
+Minnesota,Carver,0,Classification,27019,1894
+Minnesota,Cass,0,Classification,27021,1895
+Minnesota,Chippewa,0,Classification,27023,1896
+Minnesota,Chisago,0,Classification,27025,1897
+Minnesota,Clay,0,Classification,27027,1898
+Minnesota,Clearwater,0,Classification,27029,1899
+Minnesota,Cook,0,Classification,27031,1900
+Minnesota,Cottonwood,0,Classification,27033,1902
+Minnesota,Crow Wing,0,Classification,27035,1903
+Minnesota,Dakota,0,Classification,27037,1904
+Minnesota,Dodge,0,Classification,27039,1906
+Minnesota,Douglas,0,Classification,27041,1907
+Minnesota,Faribault,0,Classification,27043,1908
+Minnesota,Fillmore,0,Classification,27045,1909
+Minnesota,Freeborn,0,Classification,27047,1910
+Minnesota,Goodhue,0,Classification,27049,1911
+Minnesota,Grant,0,Classification,27051,1912
+Minnesota,Hennepin,0,Classification,27053,1913
+Minnesota,Houston,0,Classification,27055,1914
+Minnesota,Hubbard,0,Classification,27057,1915
+Minnesota,Isanti,0,Classification,27059,1916
+Minnesota,Itasca,0,Classification,27061,1917
+Minnesota,Jackson,0,Classification,27063,1918
+Minnesota,Kanabec,0,Classification,27065,1919
+Minnesota,Kandiyohi,0,Classification,27067,1920
+Minnesota,Kittson,0,Classification,27069,1921
+Minnesota,Koochiching,0,Classification,27071,1922
+Minnesota,Lac qui Parle,0,Classification,27073,1923
+Minnesota,Lake,0,Classification,27075,1926
+Minnesota,Lake of the Woods,0,Classification,27077,1927
+Minnesota,Le Sueur,0,Classification,27079,1929
+Minnesota,Lincoln,0,Classification,27081,1931
+Minnesota,Lyon,0,Classification,27083,1932
+Minnesota,McLeod,0,Classification,27085,1934
+Minnesota,Mahnomen,0,Classification,27087,1936
+Minnesota,Marshall,0,Classification,27089,1937
+Minnesota,Martin,0,Classification,27091,1940
+Minnesota,Meeker,0,Classification,27093,1941
+Minnesota,Mille Lacs,0,Classification,27095,1943
+Minnesota,Morrison,0,Classification,27097,1944
+Minnesota,Mower,0,Classification,27099,1945
+Minnesota,Murray,0,Classification,27101,1947
+Minnesota,Nicollet,0,Classification,27103,1948
+Minnesota,Nobles,0,Classification,27105,1950
+Minnesota,Norman,0,Classification,27107,1951
+Minnesota,Olmsted,0,Classification,27109,1953
+Minnesota,Otter Tail,0,Classification,27111,1954
+Minnesota,Pennington,0,Classification,27113,1956
+Minnesota,Pine,0,Classification,27115,1957
+Minnesota,Pipestone,0,Classification,27117,1958
+Minnesota,Polk,0,Classification,27119,1959
+Minnesota,Pope,0,Classification,27121,1961
+Minnesota,Ramsey,0,Classification,27123,1964
+Minnesota,Red Lake,0,Classification,27125,1966
+Minnesota,Redwood,0,Classification,27127,1969
+Minnesota,Renville,0,Classification,27129,1971
+Minnesota,Rice,0,Classification,27131,1973
+Minnesota,Rock,0,Classification,27133,1974
+Minnesota,Roseau,0,Classification,27135,1976
+Minnesota,St. Louis,0,Classification,27137,1978
+Minnesota,Scott,0,Classification,27139,1979
+Minnesota,Sherburne,0,Classification,27141,1980
+Minnesota,Sibley,0,Classification,27143,1982
+Minnesota,Stearns,0,Classification,27145,1984
+Minnesota,Steele,0,Classification,27147,1985
+Minnesota,Stevens,0,Classification,27149,1987
+Minnesota,Swift,0,Classification,27151,1988
+Minnesota,Todd,0,Classification,27153,1989
+Minnesota,Traverse,0,Classification,27155,1990
+Minnesota,Wabasha,0,Classification,27157,1991
+Minnesota,Wadena,0,Classification,27159,1992
+Minnesota,Waseca,0,Classification,27161,1993
+Minnesota,Washington,0,Classification,27163,1994
+Minnesota,Watonwan,0,Classification,27165,1996
+Minnesota,Wilkin,0,Classification,27167,1997
+Minnesota,Winona,0,Classification,27169,1998
+Minnesota,Wright,0,Classification,27171,1999
+Minnesota,Yellow Medicine,0,Classification,27173,1531
+Mississippi,Adams,1,Classification,28001,1534
+Mississippi,Alcorn,1,Classification,28003,1538
+Mississippi,Amite,1,Classification,28005,1539
+Mississippi,Attala,1,Classification,28007,1541
+Mississippi,Benton,1,Classification,28009,1544
+Mississippi,Bolivar,1,Classification,28011,1547
+Mississippi,Calhoun,1,Classification,28013,1548
+Mississippi,Carroll,1,Classification,28015,1549
+Mississippi,Chickasaw,1,Classification,28017,1550
+Mississippi,Choctaw,1,Classification,28019,1552
+Mississippi,Claiborne,1,Classification,28021,1555
+Mississippi,Clarke,1,Classification,28023,1557
+Mississippi,Clay,1,Classification,28025,1559
+Mississippi,Coahoma,1,Classification,28027,1562
+Mississippi,Copiah,1,Classification,28029,1564
+Mississippi,Covington,1,Classification,28031,1567
+Mississippi,DeSoto,1,Classification,28033,1571
+Mississippi,Forrest,1,Classification,28035,1572
+Mississippi,Franklin,1,Classification,28037,1575
+Mississippi,George,1,Classification,28039,1577
+Mississippi,Greene,1,Classification,28041,1579
+Mississippi,Grenada,1,Classification,28043,1581
+Mississippi,Hancock,1,Classification,28045,1583
+Mississippi,Harrison,1,Classification,28047,1587
+Mississippi,Hinds,1,Classification,28049,1591
+Mississippi,Holmes,1,Classification,28051,1593
+Mississippi,Humphreys,1,Classification,28053,1596
+Mississippi,Issaquena,1,Classification,28055,1598
+Mississippi,Itawamba,1,Classification,28057,1601
+Mississippi,Jackson,1,Classification,28059,1605
+Mississippi,Jasper,1,Classification,28061,1607
+Mississippi,Jefferson,1,Classification,28063,1610
+Mississippi,Jefferson Davis,1,Classification,28065,1612
+Mississippi,Jones,1,Classification,28067,1615
+Mississippi,Kemper,1,Classification,28069,1616
+Mississippi,Lafayette,1,Classification,28071,1620
+Mississippi,Lamar,1,Classification,28073,1623
+Mississippi,Lauderdale,1,Classification,28075,1628
+Mississippi,Lawrence,1,Classification,28077,1632
+Mississippi,Leake,1,Classification,28079,1636
+Mississippi,Lee,1,Classification,28081,1638
+Mississippi,Leflore,1,Classification,28083,1643
+Mississippi,Lincoln,1,Classification,28085,1645
+Mississippi,Lowndes,1,Classification,28087,1647
+Mississippi,Madison,1,Classification,28089,1651
+Mississippi,Marion,1,Classification,28091,1653
+Mississippi,Marshall,1,Classification,28093,1655
+Mississippi,Monroe,1,Classification,28095,1656
+Mississippi,Montgomery,1,Classification,28097,1658
+Mississippi,Neshoba,1,Classification,28099,1661
+Mississippi,Newton,1,Classification,28101,1663
+Mississippi,Noxubee,1,Classification,28103,1666
+Mississippi,Oktibbeha,1,Classification,28105,1668
+Mississippi,Panola,1,Classification,28107,1671
+Mississippi,Pearl River,1,Classification,28109,1676
+Mississippi,Perry,1,Classification,28111,1679
+Mississippi,Pike,1,Classification,28113,1680
+Mississippi,Pontotoc,1,Classification,28115,1682
+Mississippi,Prentiss,1,Classification,28117,1684
+Mississippi,Quitman,1,Classification,28119,1685
+Mississippi,Rankin,1,Classification,28121,1690
+Mississippi,Scott,1,Classification,28123,1692
+Mississippi,Sharkey,1,Classification,28125,1695
+Mississippi,Simpson,1,Classification,28127,1698
+Mississippi,Smith,1,Classification,28129,1709
+Mississippi,Stone,1,Classification,28131,1712
+Mississippi,Sunflower,1,Classification,28133,1721
+Mississippi,Tallahatchie,1,Classification,28135,1725
+Mississippi,Tate,1,Classification,28137,1727
+Mississippi,Tippah,1,Classification,28139,1730
+Mississippi,Tishomingo,1,Classification,28141,1732
+Mississippi,Tunica,1,Classification,28143,1735
+Mississippi,Union,1,Classification,28145,1737
+Mississippi,Walthall,1,Classification,28147,1740
+Mississippi,Warren,1,Classification,28149,1746
+Mississippi,Washington,1,Classification,28151,1750
+Mississippi,Wayne,1,Classification,28153,1753
+Mississippi,Webster,1,Classification,28155,1756
+Mississippi,Wilkinson,1,Classification,28157,1757
+Mississippi,Winston,1,Classification,28159,1758
+Mississippi,Yalobusha,1,Classification,28161,1759
+Mississippi,Yazoo,1,Classification,28163,1760
+Missouri,Adair,0,Classification,29001,1761
+Missouri,Andrew,0,Classification,29003,1762
+Missouri,Atchison,0,Classification,29005,1763
+Missouri,Audrain,0,Classification,29007,1766
+Missouri,Barry,0,Classification,29009,1767
+Missouri,Barton,0,Classification,29011,1771
+Missouri,Bates,0,Classification,29013,1776
+Missouri,Benton,0,Classification,29015,1778
+Missouri,Bollinger,0,Classification,29017,1781
+Missouri,Boone,0,Classification,29019,1783
+Missouri,Buchanan,0,Classification,29021,1789
+Missouri,Butler,0,Classification,29023,1792
+Missouri,Caldwell,0,Classification,29025,1795
+Missouri,Callaway,0,Classification,29027,1799
+Missouri,Camden,0,Classification,29029,1803
+Missouri,Cape Girardeau,0,Classification,29031,1808
+Missouri,Carroll,0,Classification,29033,1822
+Missouri,Carter,0,Classification,29035,1001
+Missouri,Cass,0,Classification,29037,1004
+Missouri,Cedar,0,Classification,29039,1007
+Missouri,Chariton,0,Classification,29041,1011
+Missouri,Christian,0,Classification,29043,1014
+Missouri,Clark,0,Classification,29045,1015
+Missouri,Clay,0,Classification,29047,1018
+Missouri,Clinton,0,Classification,29049,1021
+Missouri,Cole,0,Classification,29051,1022
+Missouri,Cooper,0,Classification,29053,1025
+Missouri,Crawford,0,Classification,29055,1028
+Missouri,Dade,0,Classification,29057,1030
+Missouri,Dallas,0,Classification,29059,1032
+Missouri,Daviess,0,Classification,29061,1036
+Missouri,DeKalb,0,Classification,29063,1038
+Missouri,Dent,0,Classification,29065,1040
+Missouri,Douglas,0,Classification,29067,1043
+Missouri,Dunklin,0,Classification,29069,1045
+Missouri,Franklin,0,Classification,29071,1047
+Missouri,Gasconade,0,Classification,29073,1049
+Missouri,Gentry,0,Classification,29075,1052
+Missouri,Greene,0,Classification,29077,1054
+Missouri,Grundy,0,Classification,29079,1057
+Missouri,Harrison,0,Classification,29081,1058
+Missouri,Henry,0,Classification,29083,1061
+Missouri,Hickory,0,Classification,29085,1063
+Missouri,Holt,0,Classification,29087,1065
+Missouri,Howard,0,Classification,29089,1068
+Missouri,Howell,0,Classification,29091,1070
+Missouri,Iron,0,Classification,29093,1072
+Missouri,Jackson,0,Classification,29095,1074
+Missouri,Jasper,0,Classification,29097,1078
+Missouri,Jefferson,0,Classification,29099,1082
+Missouri,Johnson,0,Classification,29101,1087
+Missouri,Knox,0,Classification,29103,1091
+Missouri,Laclede,0,Classification,29105,1096
+Missouri,Lafayette,0,Classification,29107,1099
+Missouri,Lawrence,0,Classification,29109,1101
+Missouri,Lewis,0,Classification,29111,1104
+Missouri,Lincoln,0,Classification,29113,1106
+Missouri,Linn,0,Classification,29115,1109
+Missouri,Livingston,0,Classification,29117,1112
+Missouri,McDonald,0,Classification,29119,1113
+Missouri,Macon,0,Classification,29121,1116
+Missouri,Madison,0,Classification,29123,1117
+Missouri,Maries,0,Classification,29125,1120
+Missouri,Marion,0,Classification,29127,1122
+Missouri,Mercer,0,Classification,29129,1125
+Missouri,Miller,0,Classification,29131,1128
+Missouri,Mississippi,0,Classification,29133,1131
+Missouri,Moniteau,0,Classification,29135,1135
+Missouri,Monroe,0,Classification,29137,1139
+Missouri,Montgomery,0,Classification,29139,1142
+Missouri,Morgan,0,Classification,29141,1146
+Missouri,New Madrid,0,Classification,29143,1149
+Missouri,Newton,0,Classification,29145,1152
+Missouri,Nodaway,0,Classification,29147,1156
+Missouri,Oregon,0,Classification,29149,1158
+Missouri,Osage,0,Classification,29151,1164
+Missouri,Ozark,0,Classification,29153,1168
+Missouri,Pemiscot,0,Classification,29155,1170
+Missouri,Perry,0,Classification,29157,1172
+Missouri,Pettis,0,Classification,29159,1174
+Missouri,Phelps,0,Classification,29161,1176
+Missouri,Pike,0,Classification,29163,1179
+Missouri,Platte,0,Classification,29165,1181
+Missouri,Polk,0,Classification,29167,1183
+Missouri,Pulaski,0,Classification,29169,1185
+Missouri,Putnam,0,Classification,29171,1188
+Missouri,Ralls,0,Classification,29173,1191
+Missouri,Randolph,0,Classification,29175,1194
+Missouri,Ray,0,Classification,29177,1197
+Missouri,Reynolds,0,Classification,29179,1200
+Missouri,Ripley,0,Classification,29181,1203
+Missouri,St. Charles,0,Classification,29183,1205
+Missouri,St. Clair,0,Classification,29185,1208
+Missouri,Ste. Genevieve,0,Classification,29186,1209
+Missouri,St. Francois,0,Classification,29187,1212
+Missouri,St. Louis County,0,Classification,29189,1216
+Missouri,Saline,0,Classification,29195,1218
+Missouri,Schuyler,0,Classification,29197,1221
+Missouri,Scotland,0,Classification,29199,1224
+Missouri,Scott,0,Classification,29201,1227
+Missouri,Shannon,0,Classification,29203,1229
+Missouri,Shelby,0,Classification,29205,1232
+Missouri,Stoddard,0,Classification,29207,1236
+Missouri,Stone,0,Classification,29209,1237
+Missouri,Sullivan,0,Classification,29211,1240
+Missouri,Taney,0,Classification,29213,1242
+Missouri,Texas,0,Classification,29215,1245
+Missouri,Vernon,0,Classification,29217,1248
+Missouri,Warren,0,Classification,29219,1251
+Missouri,Washington,0,Classification,29221,1253
+Missouri,Wayne,0,Classification,29223,1256
+Missouri,Webster,0,Classification,29225,1258
+Missouri,Worth,0,Classification,29227,1261
+Missouri,Wright,0,Classification,29229,1263
+Missouri,St. Louis County,0,Classification,29510,1216
+Montana,Beaverhead,0,Classification,30001,1269
+Montana,Big Horn,0,Classification,30003,1274
+Montana,Blaine,0,Classification,30005,1124
+Montana,Broadwater,0,Classification,30007,1132
+Montana,Carbon,0,Classification,30009,1137
+Montana,Carter,0,Classification,30011,1141
+Montana,Cascade,0,Classification,30013,1144
+Montana,Chouteau,0,Classification,30015,1150
+Montana,Custer,0,Classification,30017,1153
+Montana,Daniels,0,Classification,30019,1157
+Montana,Dawson,0,Classification,30021,1160
+Montana,Deer Lodge,0,Classification,30023,1163
+Montana,Fallon,0,Classification,30025,1165
+Montana,Fergus,0,Classification,30027,1169
+Montana,Flathead,0,Classification,30029,1173
+Montana,Gallatin,0,Classification,30031,1177
+Montana,Garfield,0,Classification,30033,1182
+Montana,Glacier,0,Classification,30035,1186
+Montana,Golden Valley,0,Classification,30037,1189
+Montana,Granite,0,Classification,30039,1192
+Montana,Hill,0,Classification,30041,1195
+Montana,Jefferson,0,Classification,30043,1199
+Montana,Judith Basin,0,Classification,30045,1202
+Montana,Lake,0,Classification,30047,1207
+Montana,Lewis and Clark,0,Classification,30049,1211
+Montana,Liberty,0,Classification,30051,1214
+Montana,Lincoln,0,Classification,30053,1219
+Montana,McCone,0,Classification,30055,1223
+Montana,Madison,0,Classification,30057,1226
+Montana,Meagher,0,Classification,30059,1231
+Montana,Mineral,0,Classification,30061,1234
+Montana,Missoula,0,Classification,30063,1239
+Montana,Musselshell,0,Classification,30065,1241
+Montana,Park,0,Classification,30067,1244
+Montana,Petroleum,0,Classification,30069,1247
+Montana,Phillips,0,Classification,30071,1250
+Montana,Pondera,0,Classification,30073,1254
+Montana,Powder River,0,Classification,30075,1259
+Montana,Powell,0,Classification,30077,1262
+Montana,Prairie,0,Classification,30079,1264
+Montana,Ravalli,0,Classification,30081,1268
+Montana,Richland,0,Classification,30083,1271
+Montana,Roosevelt,0,Classification,30085,1275
+Montana,Rosebud,0,Classification,30087,1277
+Montana,Sanders,0,Classification,30089,1278
+Montana,Sheridan,0,Classification,30091,1281
+Montana,Silver Bow,0,Classification,30093,1284
+Montana,Stillwater,0,Classification,30095,1286
+Montana,Sweet Grass,0,Classification,30097,1288
+Montana,Teton,0,Classification,30099,1290
+Montana,Toole,0,Classification,30101,1292
+Montana,Treasure,0,Classification,30103,1293
+Montana,Valley,0,Classification,30105,1296
+Montana,Wheatland,0,Classification,30107,1298
+Montana,Wibaux,0,Classification,30109,1300
+Montana,Yellowstone,0,Classification,30111,1302
+Nebraska,Adams,0,Classification,31001,1303
+Nebraska,Antelope,0,Classification,31003,1305
+Nebraska,Arthur,0,Classification,31005,1307
+Nebraska,Banner,0,Classification,31007,1308
+Nebraska,Blaine,0,Classification,31009,1309
+Nebraska,Boone,0,Classification,31011,1310
+Nebraska,Box Butte,0,Classification,31013,1315
+Nebraska,Boyd,0,Classification,31015,1317
+Nebraska,Brown,0,Classification,31017,1319
+Nebraska,Buffalo,0,Classification,31019,1321
+Nebraska,Burt,0,Classification,31021,1323
+Nebraska,Butler,0,Classification,31023,1325
+Nebraska,Cass,0,Classification,31025,1326
+Nebraska,Cedar,0,Classification,31027,1329
+Nebraska,Chase,0,Classification,31029,1330
+Nebraska,Cherry,0,Classification,31031,1333
+Nebraska,Cheyenne,0,Classification,31033,1334
+Nebraska,Clay,0,Classification,31035,1336
+Nebraska,Colfax,0,Classification,31037,1338
+Nebraska,Cuming,0,Classification,31039,1340
+Nebraska,Custer,0,Classification,31041,1342
+Nebraska,Dakota,0,Classification,31043,1344
+Nebraska,Dawes,0,Classification,31045,1347
+Nebraska,Dawson,0,Classification,31047,1349
+Nebraska,Deuel,0,Classification,31049,1351
+Nebraska,Dixon,0,Classification,31051,1353
+Nebraska,Dodge,0,Classification,31053,1354
+Nebraska,Douglas,0,Classification,31055,1358
+Nebraska,Dundy,0,Classification,31057,1360
+Nebraska,Fillmore,0,Classification,31059,1363
+Nebraska,Franklin,0,Classification,31061,1369
+Nebraska,Frontier,0,Classification,31063,1371
+Nebraska,Furnas,0,Classification,31065,1374
+Nebraska,Gage,0,Classification,31067,1378
+Nebraska,Garden,0,Classification,31069,1381
+Nebraska,Garfield,0,Classification,31071,1391
+Nebraska,Gosper,0,Classification,31073,1393
+Nebraska,Grant,0,Classification,31075,1395
+Nebraska,Greeley,0,Classification,31077,1397
+Nebraska,Hall,0,Classification,31079,1402
+Nebraska,Hamilton,0,Classification,31081,1405
+Nebraska,Harlan,0,Classification,31083,1409
+Nebraska,Hayes,0,Classification,31085,1411
+Nebraska,Hitchcock,0,Classification,31087,1414
+Nebraska,Holt,0,Classification,31089,1416
+Nebraska,Hooker,0,Classification,31091,1418
+Nebraska,Howard,0,Classification,31093,1311
+Nebraska,Jefferson,0,Classification,31095,1312
+Nebraska,Johnson,0,Classification,31097,1313
+Nebraska,Kearney,0,Classification,31099,1314
+Nebraska,Keith,0,Classification,31101,1316
+Nebraska,Keya Paha,0,Classification,31103,1318
+Nebraska,Kimball,0,Classification,31105,1320
+Nebraska,Knox,0,Classification,31107,1322
+Nebraska,Lancaster,0,Classification,31109,1324
+Nebraska,Lincoln,0,Classification,31111,1327
+Nebraska,Logan,0,Classification,31113,1328
+Nebraska,Loup,0,Classification,31115,1331
+Nebraska,McPherson,0,Classification,31117,1332
+Nebraska,Madison,0,Classification,31119,1335
+Nebraska,Merrick,0,Classification,31121,1337
+Nebraska,Morrill,0,Classification,31123,1339
+Nebraska,Nance,0,Classification,31125,1341
+Nebraska,Nemaha,0,Classification,31127,1343
+Nebraska,Nuckolls,0,Classification,31129,1345
+Nebraska,Otoe,0,Classification,31131,1348
+Nebraska,Pawnee,0,Classification,31133,1350
+Nebraska,Perkins,0,Classification,31135,1352
+Nebraska,Phelps,0,Classification,31137,1355
+Nebraska,Pierce,0,Classification,31139,1356
+Nebraska,Platte,0,Classification,31141,1359
+Nebraska,Polk,0,Classification,31143,1362
+Nebraska,Red Willow,0,Classification,31145,1364
+Nebraska,Richardson,0,Classification,31147,1365
+Nebraska,Rock,0,Classification,31149,1366
+Nebraska,Saline,0,Classification,31151,1367
+Nebraska,Sarpy,0,Classification,31153,1368
+Nebraska,Saunders,0,Classification,31155,1370
+Nebraska,Scotts Bluff,0,Classification,31157,1373
+Nebraska,Seward,0,Classification,31159,1375
+Nebraska,Sheridan,0,Classification,31161,1376
+Nebraska,Sherman,0,Classification,31163,1377
+Nebraska,Sioux,0,Classification,31165,1380
+Nebraska,Stanton,0,Classification,31167,1382
+Nebraska,Thayer,0,Classification,31169,1383
+Nebraska,Thomas,0,Classification,31171,1384
+Nebraska,Thurston,0,Classification,31173,1385
+Nebraska,Valley,0,Classification,31175,1386
+Nebraska,Washington,0,Classification,31177,1387
+Nebraska,Wayne,0,Classification,31179,1388
+Nebraska,Webster,0,Classification,31181,1389
+Nebraska,Wheeler,0,Classification,31183,1390
+Nebraska,York,0,Classification,31185,1392
+Nevada,Churchill,0,Classification,32001,1396
+Nevada,Clark,0,Classification,32003,1399
+Nevada,Douglas,0,Classification,32005,1400
+Nevada,Elko,0,Classification,32007,1401
+Nevada,Esmeralda,0,Classification,32009,1404
+Nevada,Eureka,0,Classification,32011,1406
+Nevada,Humboldt,0,Classification,32013,1407
+Nevada,Lander,0,Classification,32015,1408
+Nevada,Lincoln,0,Classification,32017,1410
+Nevada,Lyon,0,Classification,32019,1412
+Nevada,Mineral,0,Classification,32021,1415
+Nevada,Nye,0,Classification,32023,1417
+Nevada,Pershing,0,Classification,32027,1419
+Nevada,Storey,0,Classification,32029,1420
+Nevada,Washoe,0,Classification,32031,1423
+Nevada,White Pine,0,Classification,32033,1425
+Nevada,Carson City,0,Classification,32510,1428
+New Hampshire,Belknap,0,Classification,33001,1432
+New Hampshire,Carroll,0,Classification,33003,1435
+New Hampshire,Cheshire,0,Classification,33005,1437
+New Hampshire,Coos,0,Classification,33007,1440
+New Hampshire,Grafton,0,Classification,33009,1442
+New Hampshire,Hillsborough,0,Classification,33011,1443
+New Hampshire,Merrimack,0,Classification,33013,1444
+New Hampshire,Rockingham,0,Classification,33015,1448
+New Hampshire,Strafford,0,Classification,33017,1453
+New Hampshire,Sullivan,0,Classification,33019,1454
+New Jersey,Atlantic,1,Classification,34001,1461
+New Jersey,Bergen,1,Classification,34003,1465
+New Jersey,Burlington,1,Classification,34005,1470
+New Jersey,Camden,1,Classification,34007,1472
+New Jersey,Cape May,1,Classification,34009,1477
+New Jersey,Cumberland,1,Classification,34011,1482
+New Jersey,Essex,1,Classification,34013,1483
+New Jersey,Gloucester,1,Classification,34015,1484
+New Jersey,Hudson,1,Classification,34017,1487
+New Jersey,Hunterdon,1,Classification,34019,1488
+New Jersey,Mercer,1,Classification,34021,1493
+New Jersey,Middlesex,1,Classification,34023,1497
+New Jersey,Monmouth,1,Classification,34025,1504
+New Jersey,Morris,1,Classification,34027,1511
+New Jersey,Ocean,1,Classification,34029,1546
+New Jersey,Passaic,1,Classification,34031,1551
+New Jersey,Salem,1,Classification,34033,1553
+New Jersey,Somerset,1,Classification,34035,1558
+New Jersey,Sussex,1,Classification,34037,1561
+New Jersey,Union,1,Classification,34039,1566
+New Jersey,Warren,1,Classification,34041,1570
+New Mexico,Bernalillo,0,Classification,35001,1574
+New Mexico,Catron,0,Classification,35003,1576
+New Mexico,Chaves,0,Classification,35005,1578
+New Mexico,Cibola,0,Classification,35006,1580
+New Mexico,Colfax,0,Classification,35007,1582
+New Mexico,Curry,0,Classification,35009,1586
+New Mexico,De Baca,0,Classification,35011,1589
+New Mexico,Doña Ana,0,Classification,35013,
+New Mexico,Eddy,0,Classification,35015,1592
+New Mexico,Grant,0,Classification,35017,1594
+New Mexico,Guadalupe,0,Classification,35019,1595
+New Mexico,Harding,0,Classification,35021,1597
+New Mexico,Hidalgo,0,Classification,35023,1600
+New Mexico,Lea,0,Classification,35025,1604
+New Mexico,Lincoln,0,Classification,35027,1613
+New Mexico,Los Alamos,0,Classification,35028,1618
+New Mexico,Luna,0,Classification,35029,1622
+New Mexico,McKinley,0,Classification,35031,1626
+New Mexico,Mora,0,Classification,35033,1629
+New Mexico,Otero,0,Classification,35035,1633
+New Mexico,Quay,0,Classification,35037,1637
+New Mexico,Rio Arriba,0,Classification,35039,1639
+New Mexico,Roosevelt,0,Classification,35041,1642
+New Mexico,Sandoval,0,Classification,35043,1646
+New Mexico,San Juan,0,Classification,35045,1650
+New Mexico,San Miguel,0,Classification,35047,1652
+New Mexico,Santa Fe,0,Classification,35049,1654
+New Mexico,Sierra,0,Classification,35051,1657
+New Mexico,Socorro,0,Classification,35053,1659
+New Mexico,Taos,0,Classification,35055,1662
+New Mexico,Torrance,0,Classification,35057,1664
+New Mexico,Union,0,Classification,35059,1667
+New Mexico,Valencia,0,Classification,35061,1670
+New York,Albany,1,Classification,36001,1673
+New York,Allegany,1,Classification,36003,1674
+New York,Bronx,1,Classification,36005,1681
+New York,Broome,1,Classification,36007,1683
+New York,Cattaraugus,1,Classification,36009,1687
+New York,Cayuga,1,Classification,36011,1689
+New York,Chautauqua,1,Classification,36013,1694
+New York,Chemung,1,Classification,36015,1696
+New York,Chenango,1,Classification,36017,1699
+New York,Clinton,1,Classification,36019,1702
+New York,Columbia,1,Classification,36021,1704
+New York,Cortland,1,Classification,36023,1706
+New York,Delaware,1,Classification,36025,1707
+New York,Dutchess,1,Classification,36027,1711
+New York,Erie,1,Classification,36029,1723
+New York,Essex,1,Classification,36031,1728
+New York,Franklin,1,Classification,36033,1731
+New York,Fulton,1,Classification,36035,1734
+New York,Genesee,1,Classification,36037,1736
+New York,Greene,1,Classification,36039,1739
+New York,Hamilton,1,Classification,36041,1742
+New York,Herkimer,1,Classification,36043,1745
+New York,Jefferson,1,Classification,36045,1782
+New York,Kings,1,Classification,36047,1788
+New York,Lewis,1,Classification,36049,1790
+New York,Livingston,1,Classification,36051,1791
+New York,Madison,1,Classification,36053,1796
+New York,Monroe,1,Classification,36055,1804
+New York,Montgomery,1,Classification,36057,1807
+New York,Nassau,1,Classification,36059,1839
+New York,New York,1,Classification,36061,1847
+New York,Niagara,1,Classification,36063,1850
+New York,Oneida,1,Classification,36065,1852
+New York,Onondaga,1,Classification,36067,1853
+New York,Ontario,1,Classification,36069,1856
+New York,Orange,1,Classification,36071,1859
+New York,Orleans,1,Classification,36073,1862
+New York,Oswego,1,Classification,36075,1864
+New York,Otsego,1,Classification,36077,1868
+New York,Putnam,1,Classification,36079,1870
+New York,Queens,1,Classification,36081,1872
+New York,Rensselaer,1,Classification,36083,1874
+New York,Richmond,1,Classification,36085,1876
+New York,Rockland,1,Classification,36087,1879
+New York,St. Lawrence,1,Classification,36089,1883
+New York,Saratoga,1,Classification,36091,1885
+New York,Schenectady,1,Classification,36093,1887
+New York,Schoharie,1,Classification,36095,1888
+New York,Schuyler,1,Classification,36097,1889
+New York,Seneca,1,Classification,36099,1890
+New York,Steuben,1,Classification,36101,1891
+New York,Suffolk,1,Classification,36103,1924
+New York,Sullivan,1,Classification,36105,1928
+New York,Tioga,1,Classification,36107,1930
+New York,Tompkins,1,Classification,36109,1933
+New York,Ulster,1,Classification,36111,1935
+New York,Warren,1,Classification,36113,1938
+New York,Washington,1,Classification,36115,1942
+New York,Wayne,1,Classification,36117,1952
+New York,Westchester,1,Classification,36119,1960
+New York,Wyoming,1,Classification,36121,1962
+New York,Yates,1,Classification,36123,1965
+North Carolina,Alamance,1,Classification,37001,1967
+North Carolina,Alexander,1,Classification,37003,1968
+North Carolina,Alleghany,1,Classification,37005,1970
+North Carolina,Anson,1,Classification,37007,1972
+North Carolina,Ashe,1,Classification,37009,1975
+North Carolina,Avery,1,Classification,37011,1977
+North Carolina,Beaufort,1,Classification,37013,1981
+North Carolina,Bertie,1,Classification,37015,1983
+North Carolina,Bladen,1,Classification,37017,1986
+North Carolina,Brunswick,1,Classification,37019,1995
+North Carolina,Buncombe,1,Classification,37021,1422
+North Carolina,Burke,1,Classification,37023,1424
+North Carolina,Cabarrus,1,Classification,37025,1426
+North Carolina,Caldwell,1,Classification,37027,1429
+North Carolina,Camden,1,Classification,37029,1433
+North Carolina,Carteret,1,Classification,37031,1447
+North Carolina,Caswell,1,Classification,37033,1449
+North Carolina,Catawba,1,Classification,37035,1450
+North Carolina,Chatham,1,Classification,37037,1451
+North Carolina,Cherokee,1,Classification,37039,1452
+North Carolina,Chowan,1,Classification,37041,1455
+North Carolina,Clay,1,Classification,37043,1457
+North Carolina,Cleveland,1,Classification,37045,1458
+North Carolina,Columbus,1,Classification,37047,1459
+North Carolina,Craven,1,Classification,37049,1462
+North Carolina,Cumberland,1,Classification,37051,1464
+North Carolina,Currituck,1,Classification,37053,1481
+North Carolina,Dare,1,Classification,37055,1485
+North Carolina,Davidson,1,Classification,37057,1489
+North Carolina,Davie,1,Classification,37059,1490
+North Carolina,Duplin,1,Classification,37061,1492
+North Carolina,Durham,1,Classification,37063,1494
+North Carolina,Edgecombe,1,Classification,37065,1495
+North Carolina,Forsyth,1,Classification,37067,1496
+North Carolina,Franklin,1,Classification,37069,1498
+North Carolina,Gaston,1,Classification,37071,1499
+North Carolina,Gates,1,Classification,37073,1500
+North Carolina,Graham,1,Classification,37075,1502
+North Carolina,Granville,1,Classification,37077,1503
+North Carolina,Greene,1,Classification,37079,1505
+North Carolina,Guilford,1,Classification,37081,1506
+North Carolina,Halifax,1,Classification,37083,1508
+North Carolina,Harnett,1,Classification,37085,1509
+North Carolina,Haywood,1,Classification,37087,1512
+North Carolina,Henderson,1,Classification,37089,1514
+North Carolina,Hertford,1,Classification,37091,1515
+North Carolina,Hoke,1,Classification,37093,1517
+North Carolina,Hyde,1,Classification,37095,1521
+North Carolina,Iredell,1,Classification,37097,1525
+North Carolina,Jackson,1,Classification,37099,1528
+North Carolina,Johnston,1,Classification,37101,1530
+North Carolina,Jones,1,Classification,37103,1536
+North Carolina,Lee,1,Classification,37105,1540
+North Carolina,Lenoir,1,Classification,37107,1542
+North Carolina,Lincoln,1,Classification,37109,1545
+North Carolina,McDowell,1,Classification,37111,1554
+North Carolina,Macon,1,Classification,37113,1556
+North Carolina,Madison,1,Classification,37115,1560
+North Carolina,Martin,1,Classification,37117,1563
+North Carolina,Mecklenburg,1,Classification,37119,1565
+North Carolina,Mitchell,1,Classification,37121,1568
+North Carolina,Montgomery,1,Classification,37123,1573
+North Carolina,Moore,1,Classification,37125,1584
+North Carolina,Nash,1,Classification,37127,1588
+North Carolina,New Hanover,1,Classification,37129,1602
+North Carolina,Northampton,1,Classification,37131,1606
+North Carolina,Onslow,1,Classification,37133,1625
+North Carolina,Orange,1,Classification,37135,1630
+North Carolina,Pamlico,1,Classification,37137,1703
+North Carolina,Pasquotank,1,Classification,37139,1714
+North Carolina,Pender,1,Classification,37141,1718
+North Carolina,Perquimans,1,Classification,37143,1724
+North Carolina,Person,1,Classification,37145,1729
+North Carolina,Pitt,1,Classification,37147,1733
+North Carolina,Polk,1,Classification,37149,1738
+North Carolina,Randolph,1,Classification,37151,1741
+North Carolina,Richmond,1,Classification,37153,1744
+North Carolina,Robeson,1,Classification,37155,1747
+North Carolina,Rockingham,1,Classification,37157,1751
+North Carolina,Rowan,1,Classification,37159,1754
+North Carolina,Rutherford,1,Classification,37161,1764
+North Carolina,Sampson,1,Classification,37163,1769
+North Carolina,Scotland,1,Classification,37165,1772
+North Carolina,Stanly,1,Classification,37167,1775
+North Carolina,Stokes,1,Classification,37169,1777
+North Carolina,Surry,1,Classification,37171,1780
+North Carolina,Swain,1,Classification,37173,1784
+North Carolina,Transylvania,1,Classification,37175,1786
+North Carolina,Tyrrell,1,Classification,37177,1794
+North Carolina,Union,1,Classification,37179,1798
+North Carolina,Vance,1,Classification,37181,1801
+North Carolina,Wake,1,Classification,37183,1805
+North Carolina,Warren,1,Classification,37185,1809
+North Carolina,Washington,1,Classification,37187,1811
+North Carolina,Watauga,1,Classification,37189,1813
+North Carolina,Wayne,1,Classification,37191,1814
+North Carolina,Wilkes,1,Classification,37193,1817
+North Carolina,Wilson,1,Classification,37195,1819
+North Carolina,Yadkin,1,Classification,37197,1821
+North Carolina,Yancey,1,Classification,37199,1823
+North Dakota,Adams,0,Classification,38001,1826
+North Dakota,Barnes,0,Classification,38003,1828
+North Dakota,Benson,0,Classification,38005,1831
+North Dakota,Billings,0,Classification,38007,1833
+North Dakota,Bottineau,0,Classification,38009,1836
+North Dakota,Bowman,0,Classification,38011,1838
+North Dakota,Burke,0,Classification,38013,1841
+North Dakota,Burleigh,0,Classification,38015,1844
+North Dakota,Cass,0,Classification,38017,1848
+North Dakota,Cavalier,0,Classification,38019,1849
+North Dakota,Dickey,0,Classification,38021,2004
+North Dakota,Divide,0,Classification,38023,2007
+North Dakota,Dunn,0,Classification,38025,2013
+North Dakota,Eddy,0,Classification,38027,2017
+North Dakota,Emmons,0,Classification,38029,2021
+North Dakota,Foster,0,Classification,38031,2026
+North Dakota,Golden Valley,0,Classification,38033,2036
+North Dakota,Grand Forks,0,Classification,38035,2043
+North Dakota,Grant,0,Classification,38037,2051
+North Dakota,Griggs,0,Classification,38039,2056
+North Dakota,Hettinger,0,Classification,38041,2063
+North Dakota,Kidder,0,Classification,38043,2068
+North Dakota,LaMoure,0,Classification,38045,2074
+North Dakota,Logan,0,Classification,38047,2078
+North Dakota,McHenry,0,Classification,38049,2082
+North Dakota,McIntosh,0,Classification,38051,2090
+North Dakota,McKenzie,0,Classification,38053,2097
+North Dakota,McLean,0,Classification,38055,2103
+North Dakota,Mercer,0,Classification,38057,2107
+North Dakota,Morton,0,Classification,38059,2114
+North Dakota,Mountrail,0,Classification,38061,2119
+North Dakota,Nelson,0,Classification,38063,2122
+North Dakota,Oliver,0,Classification,38065,2127
+North Dakota,Pembina,0,Classification,38067,2131
+North Dakota,Pierce,0,Classification,38069,2136
+North Dakota,Ramsey,0,Classification,38071,2141
+North Dakota,Ransom,0,Classification,38073,2147
+North Dakota,Renville,0,Classification,38075,2150
+North Dakota,Richland,0,Classification,38077,2156
+North Dakota,Rolette,0,Classification,38079,2161
+North Dakota,Sargent,0,Classification,38081,2164
+North Dakota,Sheridan,0,Classification,38083,2169
+North Dakota,Sioux,0,Classification,38085,2175
+North Dakota,Slope,0,Classification,38087,2180
+North Dakota,Stark,0,Classification,38089,2182
+North Dakota,Steele,0,Classification,38091,2186
+North Dakota,Stutsman,0,Classification,38093,2199
+North Dakota,Towner,0,Classification,38095,2205
+North Dakota,Traill,0,Classification,38097,2217
+North Dakota,Walsh,0,Classification,38099,2225
+North Dakota,Ward,0,Classification,38101,2233
+North Dakota,Wells,0,Classification,38103,2237
+North Dakota,Williams,0,Classification,38105,2244
+Ohio,Adams,0,Classification,39001,2248
+Ohio,Allen,0,Classification,39003,2250
+Ohio,Ashland,0,Classification,39005,2254
+Ohio,Ashtabula,0,Classification,39007,2259
+Ohio,Athens,0,Classification,39009,2266
+Ohio,Auglaize,0,Classification,39011,2273
+Ohio,Belmont,0,Classification,39013,2278
+Ohio,Brown,0,Classification,39015,2282
+Ohio,Butler,0,Classification,39017,2286
+Ohio,Carroll,0,Classification,39019,2289
+Ohio,Champaign,0,Classification,39021,2291
+Ohio,Clark,0,Classification,39023,2300
+Ohio,Clermont,0,Classification,39025,2306
+Ohio,Clinton,0,Classification,39027,2310
+Ohio,Columbiana,0,Classification,39029,2315
+Ohio,Coshocton,0,Classification,39031,2317
+Ohio,Crawford,0,Classification,39033,2323
+Ohio,Cuyahoga,0,Classification,39035,2332
+Ohio,Darke,0,Classification,39037,2345
+Ohio,Defiance,0,Classification,39039,2350
+Ohio,Delaware,0,Classification,39041,2352
+Ohio,Erie,0,Classification,39043,2357
+Ohio,Fairfield,0,Classification,39045,2365
+Ohio,Fayette,0,Classification,39047,2368
+Ohio,Franklin,0,Classification,39049,2375
+Ohio,Fulton,0,Classification,39051,2378
+Ohio,Gallia,0,Classification,39053,2383
+Ohio,Geauga,0,Classification,39055,2390
+Ohio,Greene,0,Classification,39057,2393
+Ohio,Guernsey,0,Classification,39059,2399
+Ohio,Hamilton,0,Classification,39061,2411
+Ohio,Hancock,0,Classification,39063,2427
+Ohio,Hardin,0,Classification,39065,2432
+Ohio,Harrison,0,Classification,39067,2440
+Ohio,Henry,0,Classification,39069,2451
+Ohio,Highland,0,Classification,39071,2457
+Ohio,Hocking,0,Classification,39073,2461
+Ohio,Holmes,0,Classification,39075,2464
+Ohio,Huron,0,Classification,39077,2468
+Ohio,Jackson,0,Classification,39079,2472
+Ohio,Jefferson,0,Classification,39081,2476
+Ohio,Knox,0,Classification,39083,2479
+Ohio,Lake,0,Classification,39085,2493
+Ohio,Lawrence,0,Classification,39087,2499
+Ohio,Licking,0,Classification,39089,2504
+Ohio,Logan,0,Classification,39091,2510
+Ohio,Lorain,0,Classification,39093,2516
+Ohio,Lucas,0,Classification,39095,2520
+Ohio,Madison,0,Classification,39097,2529
+Ohio,Mahoning,0,Classification,39099,2534
+Ohio,Marion,0,Classification,39101,2541
+Ohio,Medina,0,Classification,39103,2545
+Ohio,Meigs,0,Classification,39105,2549
+Ohio,Mercer,0,Classification,39107,2552
+Ohio,Miami,0,Classification,39109,2558
+Ohio,Monroe,0,Classification,39111,2565
+Ohio,Montgomery,0,Classification,39113,2573
+Ohio,Morgan,0,Classification,39115,2000
+Ohio,Morrow,0,Classification,39117,2006
+Ohio,Muskingum,0,Classification,39119,2010
+Ohio,Noble,0,Classification,39121,2012
+Ohio,Ottawa,0,Classification,39123,2019
+Ohio,Paulding,0,Classification,39125,2024
+Ohio,Perry,0,Classification,39127,2027
+Ohio,Pickaway,0,Classification,39129,2031
+Ohio,Pike,0,Classification,39131,2034
+Ohio,Portage,0,Classification,39133,2038
+Ohio,Preble,0,Classification,39135,2039
+Ohio,Putnam,0,Classification,39137,2040
+Ohio,Richland,0,Classification,39139,2042
+Ohio,Ross,0,Classification,39141,2045
+Ohio,Sandusky,0,Classification,39143,2047
+Ohio,Scioto,0,Classification,39145,2048
+Ohio,Seneca,0,Classification,39147,2049
+Ohio,Shelby,0,Classification,39149,2052
+Ohio,Stark,0,Classification,39151,2054
+Ohio,Summit,0,Classification,39153,2057
+Ohio,Trumbull,0,Classification,39155,2061
+Ohio,Tuscarawas,0,Classification,39157,2065
+Ohio,Union,0,Classification,39159,2067
+Ohio,Van Wert,0,Classification,39161,2071
+Ohio,Vinton,0,Classification,39163,2075
+Ohio,Warren,0,Classification,39165,2076
+Ohio,Washington,0,Classification,39167,2080
+Ohio,Wayne,0,Classification,39169,2084
+Ohio,Williams,0,Classification,39171,2087
+Ohio,Wood,0,Classification,39173,2091
+Ohio,Wyandot,0,Classification,39175,2093
+Oklahoma,Adair,0,Classification,40001,2095
+Oklahoma,Alfalfa,0,Classification,40003,2099
+Oklahoma,Atoka,0,Classification,40005,2102
+Oklahoma,Beaver,0,Classification,40007,2104
+Oklahoma,Beckham,0,Classification,40009,2106
+Oklahoma,Blaine,0,Classification,40011,2110
+Oklahoma,Bryan,0,Classification,40013,2112
+Oklahoma,Caddo,0,Classification,40015,2118
+Oklahoma,Canadian,0,Classification,40017,2123
+Oklahoma,Carter,0,Classification,40019,2126
+Oklahoma,Cherokee,0,Classification,40021,2129
+Oklahoma,Choctaw,0,Classification,40023,2133
+Oklahoma,Cimarron,0,Classification,40025,2135
+Oklahoma,Cleveland,0,Classification,40027,2140
+Oklahoma,Coal,0,Classification,40029,2144
+Oklahoma,Comanche,0,Classification,40031,2145
+Oklahoma,Cotton,0,Classification,40033,2146
+Oklahoma,Craig,0,Classification,40035,2148
+Oklahoma,Creek,0,Classification,40037,2151
+Oklahoma,Custer,0,Classification,40039,2153
+Oklahoma,Delaware,0,Classification,40041,2154
+Oklahoma,Dewey,0,Classification,40043,2158
+Oklahoma,Ellis,0,Classification,40045,2165
+Oklahoma,Garfield,0,Classification,40047,2167
+Oklahoma,Garvin,0,Classification,40049,2176
+Oklahoma,Grady,0,Classification,40051,2184
+Oklahoma,Grant,0,Classification,40053,2187
+Oklahoma,Greer,0,Classification,40055,2189
+Oklahoma,Harmon,0,Classification,40057,2191
+Oklahoma,Harper,0,Classification,40059,2193
+Oklahoma,Haskell,0,Classification,40061,2195
+Oklahoma,Hughes,0,Classification,40063,2197
+Oklahoma,Jackson,0,Classification,40065,2202
+Oklahoma,Jefferson,0,Classification,40067,2206
+Oklahoma,Johnston,0,Classification,40069,2211
+Oklahoma,Kay,0,Classification,40071,2215
+Oklahoma,Kingfisher,0,Classification,40073,2219
+Oklahoma,Kiowa,0,Classification,40075,2222
+Oklahoma,Latimer,0,Classification,40077,2226
+Oklahoma,Le Flore,0,Classification,40079,2230
+Oklahoma,Lincoln,0,Classification,40081,2234
+Oklahoma,Logan,0,Classification,40083,2236
+Oklahoma,Love,0,Classification,40085,2238
+Oklahoma,McClain,0,Classification,40087,2245
+Oklahoma,McCurtain,0,Classification,40089,2252
+Oklahoma,McIntosh,0,Classification,40091,2258
+Oklahoma,Major,0,Classification,40093,2260
+Oklahoma,Marshall,0,Classification,40095,2265
+Oklahoma,Mayes,0,Classification,40097,2270
+Oklahoma,Murray,0,Classification,40099,2276
+Oklahoma,Muskogee,0,Classification,40101,2281
+Oklahoma,Noble,0,Classification,40103,2287
+Oklahoma,Nowata,0,Classification,40105,2290
+Oklahoma,Okfuskee,0,Classification,40107,2297
+Oklahoma,Oklahoma,0,Classification,40109,2303
+Oklahoma,Okmulgee,0,Classification,40111,2311
+Oklahoma,Osage,0,Classification,40113,2318
+Oklahoma,Ottawa,0,Classification,40115,2325
+Oklahoma,Pawnee,0,Classification,40117,2329
+Oklahoma,Payne,0,Classification,40119,2340
+Oklahoma,Pittsburg,0,Classification,40121,2344
+Oklahoma,Pontotoc,0,Classification,40123,2351
+Oklahoma,Pottawatomie,0,Classification,40125,2356
+Oklahoma,Pushmataha,0,Classification,40127,2362
+Oklahoma,Roger Mills,0,Classification,40129,2369
+Oklahoma,Rogers,0,Classification,40131,2374
+Oklahoma,Seminole,0,Classification,40133,2384
+Oklahoma,Sequoyah,0,Classification,40135,2391
+Oklahoma,Stephens,0,Classification,40137,2396
+Oklahoma,Texas,0,Classification,40139,2003
+Oklahoma,Tillman,0,Classification,40141,2005
+Oklahoma,Tulsa,0,Classification,40143,2008
+Oklahoma,Wagoner,0,Classification,40145,2014
+Oklahoma,Washington,0,Classification,40147,2018
+Oklahoma,Washita,0,Classification,40149,2023
+Oklahoma,Woods,0,Classification,40151,2029
+Oklahoma,Woodward,0,Classification,40153,2035
+Oregon,Baker,0,Classification,41001,2044
+Oregon,Benton,0,Classification,41003,2053
+Oregon,Clackamas,0,Classification,41005,2058
+Oregon,Clatsop,0,Classification,41007,2064
+Oregon,Columbia,0,Classification,41009,2070
+Oregon,Coos,0,Classification,41011,2083
+Oregon,Crook,0,Classification,41013,2092
+Oregon,Curry,0,Classification,41015,2098
+Oregon,Deschutes,0,Classification,41017,2109
+Oregon,Douglas,0,Classification,41019,2115
+Oregon,Gilliam,0,Classification,41021,2121
+Oregon,Grant,0,Classification,41023,2130
+Oregon,Harney,0,Classification,41025,2134
+Oregon,Hood River,0,Classification,41027,2138
+Oregon,Jackson,0,Classification,41029,2139
+Oregon,Jefferson,0,Classification,41031,2143
+Oregon,Josephine,0,Classification,41033,2152
+Oregon,Klamath,0,Classification,41035,2155
+Oregon,Lake,0,Classification,41037,2159
+Oregon,Lane,0,Classification,41039,2170
+Oregon,Lincoln,0,Classification,41041,2174
+Oregon,Linn,0,Classification,41043,2181
+Oregon,Malheur,0,Classification,41045,2185
+Oregon,Marion,0,Classification,41047,2200
+Oregon,Morrow,0,Classification,41049,2209
+Oregon,Multnomah,0,Classification,41051,2218
+Oregon,Polk,0,Classification,41053,2223
+Oregon,Sherman,0,Classification,41055,2232
+Oregon,Tillamook,0,Classification,41057,2242
+Oregon,Umatilla,0,Classification,41059,2251
+Oregon,Union,0,Classification,41061,2257
+Oregon,Wallowa,0,Classification,41063,2263
+Oregon,Wasco,0,Classification,41065,2267
+Oregon,Washington,0,Classification,41067,2272
+Oregon,Wheeler,0,Classification,41069,2277
+Oregon,Yamhill,0,Classification,41071,2284
+Pennsylvania,Adams,1,Classification,42001,2292
+Pennsylvania,Allegheny,1,Classification,42003,2302
+Pennsylvania,Armstrong,1,Classification,42005,2309
+Pennsylvania,Beaver,1,Classification,42007,2321
+Pennsylvania,Bedford,1,Classification,42009,2324
+Pennsylvania,Berks,1,Classification,42011,2326
+Pennsylvania,Blair,1,Classification,42013,2328
+Pennsylvania,Bradford,1,Classification,42015,2333
+Pennsylvania,Bucks,1,Classification,42017,2336
+Pennsylvania,Butler,1,Classification,42019,2338
+Pennsylvania,Cambria,1,Classification,42021,2341
+Pennsylvania,Cameron,1,Classification,42023,2343
+Pennsylvania,Carbon,1,Classification,42025,2349
+Pennsylvania,Centre,1,Classification,42027,2354
+Pennsylvania,Chester,1,Classification,42029,2360
+Pennsylvania,Clarion,1,Classification,42031,2366
+Pennsylvania,Clearfield,1,Classification,42033,2372
+Pennsylvania,Clinton,1,Classification,42035,2379
+Pennsylvania,Columbia,1,Classification,42037,2385
+Pennsylvania,Crawford,1,Classification,42039,2389
+Pennsylvania,Cumberland,1,Classification,42041,2397
+Pennsylvania,Dauphin,1,Classification,42043,2403
+Pennsylvania,Delaware,1,Classification,42045,2414
+Pennsylvania,Elk,1,Classification,42047,2420
+Pennsylvania,Erie,1,Classification,42049,2425
+Pennsylvania,Fayette,1,Classification,42051,2431
+Pennsylvania,Forest,1,Classification,42053,2436
+Pennsylvania,Franklin,1,Classification,42055,2439
+Pennsylvania,Fulton,1,Classification,42057,2446
+Pennsylvania,Greene,1,Classification,42059,2447
+Pennsylvania,Huntingdon,1,Classification,42061,2454
+Pennsylvania,Indiana,1,Classification,42063,2459
+Pennsylvania,Jefferson,1,Classification,42065,2462
+Pennsylvania,Juniata,1,Classification,42067,2466
+Pennsylvania,Lackawanna,1,Classification,42069,2471
+Pennsylvania,Lancaster,1,Classification,42071,2482
+Pennsylvania,Lawrence,1,Classification,42073,2488
+Pennsylvania,Lebanon,1,Classification,42075,2492
+Pennsylvania,Lehigh,1,Classification,42077,2496
+Pennsylvania,Luzerne,1,Classification,42079,2501
+Pennsylvania,Lycoming,1,Classification,42081,2505
+Pennsylvania,McKean,1,Classification,42083,2509
+Pennsylvania,Mercer,1,Classification,42085,2513
+Pennsylvania,Mifflin,1,Classification,42087,2517
+Pennsylvania,Monroe,1,Classification,42089,2521
+Pennsylvania,Montgomery,1,Classification,42091,2528
+Pennsylvania,Montour,1,Classification,42093,2533
+Pennsylvania,Northampton,1,Classification,42095,2537
+Pennsylvania,Northumberland,1,Classification,42097,2544
+Pennsylvania,Perry,1,Classification,42099,2554
+Pennsylvania,Philadelphia,1,Classification,42101,2563
+Pennsylvania,Pike,1,Classification,42103,2571
+Pennsylvania,Potter,1,Classification,42105,2575
+Pennsylvania,Schuylkill,1,Classification,42107,2581
+Pennsylvania,Snyder,1,Classification,42109,2583
+Pennsylvania,Somerset,1,Classification,42111,2589
+Pennsylvania,Sullivan,1,Classification,42113,2293
+Pennsylvania,Susquehanna,1,Classification,42115,2298
+Pennsylvania,Tioga,1,Classification,42117,2305
+Pennsylvania,Union,1,Classification,42119,2313
+Pennsylvania,Venango,1,Classification,42121,2316
+Pennsylvania,Warren,1,Classification,42123,2322
+Pennsylvania,Washington,1,Classification,42125,2346
+Pennsylvania,Wayne,1,Classification,42127,2363
+Pennsylvania,Westmoreland,1,Classification,42129,2394
+Pennsylvania,Wyoming,1,Classification,42131,2407
+Pennsylvania,York,1,Classification,42133,2419
+Rhode Island,Bristol,0,Classification,44001,2433
+Rhode Island,Kent,0,Classification,44003,2444
+Rhode Island,Newport,0,Classification,44005,2460
+Rhode Island,Providence,0,Classification,44007,2475
+Rhode Island,Washington,0,Classification,44009,2484
+South Carolina,Abbeville,1,Classification,45001,2489
+South Carolina,Aiken,1,Classification,45003,2503
+South Carolina,Allendale,1,Classification,45005,2527
+South Carolina,Anderson,1,Classification,45007,2559
+South Carolina,Bamberg,1,Classification,45009,2592
+South Carolina,Barnwell,1,Classification,45011,2605
+South Carolina,Beaufort,1,Classification,45013,2626
+South Carolina,Berkeley,1,Classification,45015,2631
+South Carolina,Calhoun,1,Classification,45017,2635
+South Carolina,Charleston,1,Classification,45019,2691
+South Carolina,Cherokee,1,Classification,45021,2700
+South Carolina,Chester,1,Classification,45023,2704
+South Carolina,Chesterfield,1,Classification,45025,2708
+South Carolina,Clarendon,1,Classification,45027,2715
+South Carolina,Colleton,1,Classification,45029,2718
+South Carolina,Darlington,1,Classification,45031,2721
+South Carolina,Dillon,1,Classification,45033,2725
+South Carolina,Dorchester,1,Classification,45035,2730
+South Carolina,Edgefield,1,Classification,45037,2735
+South Carolina,Fairfield,1,Classification,45039,2738
+South Carolina,Florence,1,Classification,45041,2742
+South Carolina,Georgetown,1,Classification,45043,2752
+South Carolina,Greenville,1,Classification,45045,2759
+South Carolina,Greenwood,1,Classification,45047,2764
+South Carolina,Hampton,1,Classification,45049,2767
+South Carolina,Horry,1,Classification,45051,2774
+South Carolina,Jasper,1,Classification,45053,2783
+South Carolina,Kershaw,1,Classification,45055,2787
+South Carolina,Lancaster,1,Classification,45057,2790
+South Carolina,Laurens,1,Classification,45059,2794
+South Carolina,Lee,1,Classification,45061,2800
+South Carolina,Lexington,1,Classification,45063,2803
+South Carolina,McCormick,1,Classification,45065,2807
+South Carolina,Marion,1,Classification,45067,2811
+South Carolina,Marlboro,1,Classification,45069,2813
+South Carolina,Newberry,1,Classification,45071,2818
+South Carolina,Oconee,1,Classification,45073,2822
+South Carolina,Orangeburg,1,Classification,45075,2829
+South Carolina,Pickens,1,Classification,45077,2834
+South Carolina,Richland,1,Classification,45079,2843
+South Carolina,Saluda,1,Classification,45081,2846
+South Carolina,Spartanburg,1,Classification,45083,2851
+South Carolina,Sumter,1,Classification,45085,2855
+South Carolina,Union,1,Classification,45087,2860
+South Carolina,Williamsburg,1,Classification,45089,2864
+South Carolina,York,1,Classification,45091,2867
+South Dakota,Aurora,1,Classification,46003,2870
+South Dakota,Beadle,1,Classification,46005,2874
+South Dakota,Bennett,1,Classification,46007,2876
+South Dakota,Bon Homme,1,Classification,46009,2879
+South Dakota,Brookings,1,Classification,46011,2882
+South Dakota,Brown,1,Classification,46013,2885
+South Dakota,Brule,1,Classification,46015,2888
+South Dakota,Buffalo,1,Classification,46017,2891
+South Dakota,Butte,1,Classification,46019,2895
+South Dakota,Campbell,1,Classification,46021,2897
+South Dakota,Charles Mix,1,Classification,46023,2900
+South Dakota,Clark,1,Classification,46025,2901
+South Dakota,Clay,1,Classification,46027,2903
+South Dakota,Codington,1,Classification,46029,2906
+South Dakota,Corson,1,Classification,46031,2907
+South Dakota,Custer,1,Classification,46033,2908
+South Dakota,Davison,1,Classification,46035,2910
+South Dakota,Day,1,Classification,46037,2911
+South Dakota,Deuel,1,Classification,46039,2912
+South Dakota,Dewey,1,Classification,46041,2914
+South Dakota,Douglas,1,Classification,46043,2916
+South Dakota,Edmunds,1,Classification,46045,2917
+South Dakota,Fall River,1,Classification,46047,2919
+South Dakota,Faulk,1,Classification,46049,2921
+South Dakota,Grant,1,Classification,46051,2922
+South Dakota,Gregory,1,Classification,46053,2923
+South Dakota,Haakon,1,Classification,46055,2924
+South Dakota,Hamlin,1,Classification,46057,2926
+South Dakota,Hand,1,Classification,46059,2928
+South Dakota,Hanson,1,Classification,46061,2929
+South Dakota,Harding,1,Classification,46063,2931
+South Dakota,Hughes,1,Classification,46065,2933
+South Dakota,Hutchinson,1,Classification,46067,2934
+South Dakota,Hyde,1,Classification,46069,2937
+South Dakota,Jackson,1,Classification,46071,2939
+South Dakota,Jerauld,1,Classification,46073,2941
+South Dakota,Jones,1,Classification,46075,2944
+South Dakota,Kingsbury,1,Classification,46077,2945
+South Dakota,Lake,1,Classification,46079,2401
+South Dakota,Lawrence,1,Classification,46081,2406
+South Dakota,Lincoln,1,Classification,46083,2410
+South Dakota,Lyman,1,Classification,46085,2417
+South Dakota,McCook,1,Classification,46087,2422
+South Dakota,McPherson,1,Classification,46089,2426
+South Dakota,Marshall,1,Classification,46091,2430
+South Dakota,Meade,1,Classification,46093,2442
+South Dakota,Mellette,1,Classification,46095,2450
+South Dakota,Miner,1,Classification,46097,2456
+South Dakota,Minnehaha,1,Classification,46099,2467
+South Dakota,Moody,1,Classification,46101,2485
+South Dakota,Pennington,1,Classification,46103,2497
+South Dakota,Perkins,1,Classification,46105,2502
+South Dakota,Potter,1,Classification,46107,2506
+South Dakota,Roberts,1,Classification,46109,2511
+South Dakota,Sanborn,1,Classification,46111,2514
+South Dakota,Shannon,1,Classification,46113,2519
+South Dakota,Spink,1,Classification,46115,2523
+South Dakota,Stanley,1,Classification,46117,2530
+South Dakota,Sully,1,Classification,46119,2535
+South Dakota,Todd,1,Classification,46121,2540
+South Dakota,Tripp,1,Classification,46123,2546
+South Dakota,Turner,1,Classification,46125,2550
+South Dakota,Union,1,Classification,46127,2557
+South Dakota,Walworth,1,Classification,46129,2561
+South Dakota,Yankton,1,Classification,46135,2569
+South Dakota,Ziebach,1,Classification,46137,2578
+Tennessee,Anderson,0,Classification,47001,2584
+Tennessee,Bedford,0,Classification,47003,2593
+Tennessee,Benton,0,Classification,47005,2598
+Tennessee,Bledsoe,0,Classification,47007,2602
+Tennessee,Blount,0,Classification,47009,2622
+Tennessee,Bradley,0,Classification,47011,2627
+Tennessee,Campbell,0,Classification,47013,2633
+Tennessee,Cannon,0,Classification,47015,2638
+Tennessee,Carroll,0,Classification,47017,2648
+Tennessee,Carter,0,Classification,47019,2654
+Tennessee,Cheatham,0,Classification,47021,2660
+Tennessee,Chester,0,Classification,47023,2664
+Tennessee,Claiborne,0,Classification,47025,2670
+Tennessee,Clay,0,Classification,47027,2679
+Tennessee,Cocke,0,Classification,47029,2686
+Tennessee,Coffee,0,Classification,47031,2689
+Tennessee,Crockett,0,Classification,47033,2693
+Tennessee,Cumberland,0,Classification,47035,2696
+Tennessee,Davidson,0,Classification,47037,2698
+Tennessee,Decatur,0,Classification,47039,2705
+Tennessee,DeKalb,0,Classification,47041,2710
+Tennessee,Dickson,0,Classification,47043,2717
+Tennessee,Dyer,0,Classification,47045,2723
+Tennessee,Fayette,0,Classification,47047,2726
+Tennessee,Fentress,0,Classification,47049,2731
+Tennessee,Franklin,0,Classification,47051,2734
+Tennessee,Gibson,0,Classification,47053,2739
+Tennessee,Giles,0,Classification,47055,2743
+Tennessee,Grainger,0,Classification,47057,2748
+Tennessee,Greene,0,Classification,47059,2750
+Tennessee,Grundy,0,Classification,47061,2754
+Tennessee,Hamblen,0,Classification,47063,2757
+Tennessee,Hamilton,0,Classification,47065,2761
+Tennessee,Hancock,0,Classification,47067,2766
+Tennessee,Hardeman,0,Classification,47069,2770
+Tennessee,Hardin,0,Classification,47071,2773
+Tennessee,Hawkins,0,Classification,47073,2779
+Tennessee,Haywood,0,Classification,47075,2781
+Tennessee,Henderson,0,Classification,47077,2786
+Tennessee,Henry,0,Classification,47079,2789
+Tennessee,Hickman,0,Classification,47081,2792
+Tennessee,Houston,0,Classification,47083,2796
+Tennessee,Humphreys,0,Classification,47085,2798
+Tennessee,Jackson,0,Classification,47087,2801
+Tennessee,Jefferson,0,Classification,47089,2804
+Tennessee,Johnson,0,Classification,47091,2808
+Tennessee,Knox,0,Classification,47093,2814
+Tennessee,Lake,0,Classification,47095,2817
+Tennessee,Lauderdale,0,Classification,47097,2821
+Tennessee,Lawrence,0,Classification,47099,2823
+Tennessee,Lewis,0,Classification,47101,2825
+Tennessee,Lincoln,0,Classification,47103,2828
+Tennessee,Loudon,0,Classification,47105,2830
+Tennessee,McMinn,0,Classification,47107,2833
+Tennessee,McNairy,0,Classification,47109,2836
+Tennessee,Macon,0,Classification,47111,2839
+Tennessee,Madison,0,Classification,47113,2841
+Tennessee,Marion,0,Classification,47115,2844
+Tennessee,Marshall,0,Classification,47117,2848
+Tennessee,Maury,0,Classification,47119,2850
+Tennessee,Meigs,0,Classification,47121,2854
+Tennessee,Monroe,0,Classification,47123,2857
+Tennessee,Montgomery,0,Classification,47125,2859
+Tennessee,Moore,0,Classification,47127,2863
+Tennessee,Morgan,0,Classification,47129,2866
+Tennessee,Obion,0,Classification,47131,2872
+Tennessee,Overton,0,Classification,47133,2875
+Tennessee,Perry,0,Classification,47135,2878
+Tennessee,Pickett,0,Classification,47137,2881
+Tennessee,Polk,0,Classification,47139,2883
+Tennessee,Putnam,0,Classification,47141,2890
+Tennessee,Rhea,0,Classification,47143,2893
+Tennessee,Roane,0,Classification,47145,2001
+Tennessee,Robertson,0,Classification,47147,2011
+Tennessee,Rutherford,0,Classification,47149,2015
+Tennessee,Scott,0,Classification,47151,2020
+Tennessee,Sequatchie,0,Classification,47153,2025
+Tennessee,Sevier,0,Classification,47155,2030
+Tennessee,Shelby,0,Classification,47157,2033
+Tennessee,Smith,0,Classification,47159,2037
+Tennessee,Stewart,0,Classification,47161,2041
+Tennessee,Sullivan,0,Classification,47163,2046
+Tennessee,Sumner,0,Classification,47165,2050
+Tennessee,Tipton,0,Classification,47167,2055
+Tennessee,Trousdale,0,Classification,47169,2062
+Tennessee,Unicoi,0,Classification,47171,2069
+Tennessee,Union,0,Classification,47173,2073
+Tennessee,Van Buren,0,Classification,47175,2077
+Tennessee,Warren,0,Classification,47177,2081
+Tennessee,Washington,0,Classification,47179,2085
+Tennessee,Wayne,0,Classification,47181,2089
+Tennessee,Weakley,0,Classification,47183,2096
+Tennessee,White,0,Classification,47185,2100
+Tennessee,Williamson,0,Classification,47187,2105
+Tennessee,Wilson,0,Classification,47189,2111
+Texas,Anderson,1,Classification,48001,2113
+Texas,Andrews,1,Classification,48003,2117
+Texas,Angelina,1,Classification,48005,2124
+Texas,Aransas,1,Classification,48007,2162
+Texas,Archer,1,Classification,48009,2168
+Texas,Armstrong,1,Classification,48011,2172
+Texas,Atascosa,1,Classification,48013,2173
+Texas,Austin,1,Classification,48015,2177
+Texas,Bailey,1,Classification,48017,2179
+Texas,Bandera,1,Classification,48019,2183
+Texas,Bastrop,1,Classification,48021,2190
+Texas,Baylor,1,Classification,48023,2192
+Texas,Bee,1,Classification,48025,2196
+Texas,Bell,1,Classification,48027,2198
+Texas,Bexar,1,Classification,48029,2203
+Texas,Blanco,1,Classification,48031,2207
+Texas,Borden,1,Classification,48033,2212
+Texas,Bosque,1,Classification,48035,2216
+Texas,Bowie,1,Classification,48037,2224
+Texas,Brazoria,1,Classification,48039,2240
+Texas,Brazos,1,Classification,48041,2253
+Texas,Brewster,1,Classification,48043,2262
+Texas,Briscoe,1,Classification,48045,2269
+Texas,Brooks,1,Classification,48047,2279
+Texas,Brown,1,Classification,48049,2296
+Texas,Burleson,1,Classification,48051,2304
+Texas,Burnet,1,Classification,48053,2312
+Texas,Caldwell,1,Classification,48055,2320
+Texas,Calhoun,1,Classification,48057,2327
+Texas,Callahan,1,Classification,48059,2331
+Texas,Cameron,1,Classification,48061,2359
+Texas,Camp,1,Classification,48063,2373
+Texas,Carson,1,Classification,48065,2377
+Texas,Cass,1,Classification,48067,2382
+Texas,Castro,1,Classification,48069,2386
+Texas,Chambers,1,Classification,48071,2395
+Texas,Cherokee,1,Classification,48073,2400
+Texas,Childress,1,Classification,48075,2405
+Texas,Clay,1,Classification,48077,2409
+Texas,Cochran,1,Classification,48079,2413
+Texas,Coke,1,Classification,48081,2418
+Texas,Coleman,1,Classification,48083,2423
+Texas,Collin,1,Classification,48085,2429
+Texas,Collingsworth,1,Classification,48087,2434
+Texas,Colorado,1,Classification,48089,2441
+Texas,Comal,1,Classification,48091,2449
+Texas,Comanche,1,Classification,48093,2455
+Texas,Concho,1,Classification,48095,2458
+Texas,Cooke,1,Classification,48097,2463
+Texas,Coryell,1,Classification,48099,2469
+Texas,Cottle,1,Classification,48101,2473
+Texas,Crane,1,Classification,48103,2478
+Texas,Crockett,1,Classification,48105,2483
+Texas,Crosby,1,Classification,48107,2487
+Texas,Culberson,1,Classification,48109,2491
+Texas,Dallam,1,Classification,48111,2498
+Texas,Dallas,1,Classification,48113,2507
+Texas,Dawson,1,Classification,48115,2512
+Texas,Deaf Smith,1,Classification,48117,2515
+Texas,Delta,1,Classification,48119,2524
+Texas,Denton,1,Classification,48121,2532
+Texas,DeWitt,1,Classification,48123,2538
+Texas,Dickens,1,Classification,48125,2542
+Texas,Dimmit,1,Classification,48127,2548
+Texas,Donley,1,Classification,48129,2551
+Texas,Duval,1,Classification,48131,2556
+Texas,Eastland,1,Classification,48133,2562
+Texas,Ector,1,Classification,48135,2568
+Texas,Edwards,1,Classification,48137,2574
+Texas,Ellis,1,Classification,48139,2579
+Texas,El Paso,1,Classification,48141,2588
+Texas,Erath,1,Classification,48143,2597
+Texas,Falls,1,Classification,48145,2601
+Texas,Fannin,1,Classification,48147,2621
+Texas,Fayette,1,Classification,48149,2624
+Texas,Fisher,1,Classification,48151,2628
+Texas,Floyd,1,Classification,48153,2630
+Texas,Foard,1,Classification,48155,2002
+Texas,Fort Bend,1,Classification,48157,2009
+Texas,Franklin,1,Classification,48159,2016
+Texas,Freestone,1,Classification,48161,2022
+Texas,Frio,1,Classification,48163,2028
+Texas,Gaines,1,Classification,48165,2032
+Texas,Galveston,1,Classification,48167,2059
+Texas,Garza,1,Classification,48169,2060
+Texas,Gillespie,1,Classification,48171,2066
+Texas,Glasscock,1,Classification,48173,2072
+Texas,Goliad,1,Classification,48175,2079
+Texas,Gonzales,1,Classification,48177,2086
+Texas,Gray,1,Classification,48179,2088
+Texas,Grayson,1,Classification,48181,2094
+Texas,Gregg,1,Classification,48183,2101
+Texas,Grimes,1,Classification,48185,2108
+Texas,Guadalupe,1,Classification,48187,2116
+Texas,Hale,1,Classification,48189,2120
+Texas,Hall,1,Classification,48191,2125
+Texas,Hamilton,1,Classification,48193,2128
+Texas,Hansford,1,Classification,48195,2132
+Texas,Hardeman,1,Classification,48197,2137
+Texas,Hardin,1,Classification,48199,2142
+Texas,Harris,1,Classification,48201,2149
+Texas,Harrison,1,Classification,48203,2157
+Texas,Hartley,1,Classification,48205,2160
+Texas,Haskell,1,Classification,48207,2163
+Texas,Hays,1,Classification,48209,2166
+Texas,Hemphill,1,Classification,48211,2171
+Texas,Henderson,1,Classification,48213,2178
+Texas,Hidalgo,1,Classification,48215,2188
+Texas,Hill,1,Classification,48217,2201
+Texas,Hockley,1,Classification,48219,2208
+Texas,Hood,1,Classification,48221,2213
+Texas,Hopkins,1,Classification,48223,2221
+Texas,Houston,1,Classification,48225,2228
+Texas,Howard,1,Classification,48227,2231
+Texas,Hudspeth,1,Classification,48229,2241
+Texas,Hunt,1,Classification,48231,2246
+Texas,Hutchinson,1,Classification,48233,2249
+Texas,Irion,1,Classification,48235,2255
+Texas,Jack,1,Classification,48237,2256
+Texas,Jackson,1,Classification,48239,2264
+Texas,Jasper,1,Classification,48241,2271
+Texas,Jeff Davis,1,Classification,48243,2275
+Texas,Jefferson,1,Classification,48245,2285
+Texas,Jim Hogg,1,Classification,48247,2288
+Texas,Jim Wells,1,Classification,48249,2294
+Texas,Johnson,1,Classification,48251,2299
+Texas,Jones,1,Classification,48253,2301
+Texas,Karnes,1,Classification,48255,2307
+Texas,Kaufman,1,Classification,48257,2314
+Texas,Kendall,1,Classification,48259,2319
+Texas,Kenedy,1,Classification,48261,2330
+Texas,Kent,1,Classification,48263,2335
+Texas,Kerr,1,Classification,48265,2337
+Texas,Kimble,1,Classification,48267,2339
+Texas,King,1,Classification,48269,2342
+Texas,Kinney,1,Classification,48271,2347
+Texas,Kleberg,1,Classification,48273,2358
+Texas,Knox,1,Classification,48275,2364
+Texas,Lamar,1,Classification,48277,2371
+Texas,Lamb,1,Classification,48279,2376
+Texas,Lampasas,1,Classification,48281,2381
+Texas,La Salle,1,Classification,48283,2388
+Texas,Lavaca,1,Classification,48285,2392
+Texas,Lee,1,Classification,48287,2398
+Texas,Leon,1,Classification,48289,2402
+Texas,Liberty,1,Classification,48291,2404
+Texas,Limestone,1,Classification,48293,2408
+Texas,Lipscomb,1,Classification,48295,2412
+Texas,Live Oak,1,Classification,48297,2416
+Texas,Llano,1,Classification,48299,2421
+Texas,Loving,1,Classification,48301,2424
+Texas,Lubbock,1,Classification,48303,2428
+Texas,Lynn,1,Classification,48305,2438
+Texas,McCulloch,1,Classification,48307,2452
+Texas,McLennan,1,Classification,48309,2477
+Texas,McMullen,1,Classification,48311,2494
+Texas,Madison,1,Classification,48313,2526
+Texas,Marion,1,Classification,48315,2547
+Texas,Martin,1,Classification,48317,2564
+Texas,Mason,1,Classification,48319,2570
+Texas,Matagorda,1,Classification,48321,2637
+Texas,Maverick,1,Classification,48323,2649
+Texas,Medina,1,Classification,48325,2652
+Texas,Menard,1,Classification,48327,2655
+Texas,Midland,1,Classification,48329,2657
+Texas,Milam,1,Classification,48331,2659
+Texas,Mills,1,Classification,48333,2663
+Texas,Mitchell,1,Classification,48335,2666
+Texas,Montague,1,Classification,48337,2669
+Texas,Montgomery,1,Classification,48339,2682
+Texas,Moore,1,Classification,48341,2683
+Texas,Morris,1,Classification,48343,2688
+Texas,Motley,1,Classification,48345,2692
+Texas,Nacogdoches,1,Classification,48347,2701
+Texas,Navarro,1,Classification,48349,2706
+Texas,Newton,1,Classification,48351,2711
+Texas,Nolan,1,Classification,48353,2714
+Texas,Nueces,1,Classification,48355,2194
+Texas,Ochiltree,1,Classification,48357,2204
+Texas,Oldham,1,Classification,48359,2210
+Texas,Orange,1,Classification,48361,2214
+Texas,Palo Pinto,1,Classification,48363,2220
+Texas,Panola,1,Classification,48365,2227
+Texas,Parker,1,Classification,48367,2229
+Texas,Parmer,1,Classification,48369,2235
+Texas,Pecos,1,Classification,48371,2239
+Texas,Polk,1,Classification,48373,2243
+Texas,Potter,1,Classification,48375,2247
+Texas,Presidio,1,Classification,48377,2261
+Texas,Rains,1,Classification,48379,2268
+Texas,Randall,1,Classification,48381,2274
+Texas,Reagan,1,Classification,48383,2280
+Texas,Real,1,Classification,48385,2283
+Texas,Red River,1,Classification,48387,2295
+Texas,Reeves,1,Classification,48389,2308
+Texas,Refugio,1,Classification,48391,2334
+Texas,Roberts,1,Classification,48393,2348
+Texas,Robertson,1,Classification,48395,2353
+Texas,Rockwall,1,Classification,48397,2355
+Texas,Runnels,1,Classification,48399,2361
+Texas,Rusk,1,Classification,48401,2367
+Texas,Sabine,1,Classification,48403,2370
+Texas,San Augustine,1,Classification,48405,2380
+Texas,San Jacinto,1,Classification,48407,2387
+Texas,San Patricio,1,Classification,48409,2415
+Texas,San Saba,1,Classification,48411,2435
+Texas,Schleicher,1,Classification,48413,2437
+Texas,Scurry,1,Classification,48415,2443
+Texas,Shackelford,1,Classification,48417,2445
+Texas,Shelby,1,Classification,48419,2448
+Texas,Sherman,1,Classification,48421,2453
+Texas,Smith,1,Classification,48423,2465
+Texas,Somervell,1,Classification,48425,2470
+Texas,Starr,1,Classification,48427,2474
+Texas,Stephens,1,Classification,48429,2480
+Texas,Sterling,1,Classification,48431,2481
+Texas,Stonewall,1,Classification,48433,2486
+Texas,Sutton,1,Classification,48435,2490
+Texas,Swisher,1,Classification,48437,2495
+Texas,Tarrant,1,Classification,48439,2500
+Texas,Taylor,1,Classification,48441,2508
+Texas,Terrell,1,Classification,48443,2518
+Texas,Terry,1,Classification,48445,2522
+Texas,Throckmorton,1,Classification,48447,2525
+Texas,Titus,1,Classification,48449,2531
+Texas,Tom Green,1,Classification,48451,2536
+Texas,Travis,1,Classification,48453,2543
+Texas,Trinity,1,Classification,48455,2553
+Texas,Tyler,1,Classification,48457,2560
+Texas,Upshur,1,Classification,48459,2566
+Texas,Upton,1,Classification,48461,2572
+Texas,Uvalde,1,Classification,48463,2576
+Texas,Val Verde,1,Classification,48465,2582
+Texas,Van Zandt,1,Classification,48467,2586
+Texas,Victoria,1,Classification,48469,2595
+Texas,Walker,1,Classification,48471,2603
+Texas,Waller,1,Classification,48473,2606
+Texas,Ward,1,Classification,48475,2610
+Texas,Washington,1,Classification,48477,2613
+Texas,Webb,1,Classification,48479,2616
+Texas,Wharton,1,Classification,48481,2618
+Texas,Wheeler,1,Classification,48483,2623
+Texas,Wichita,1,Classification,48485,2632
+Texas,Wilbarger,1,Classification,48487,2634
+Texas,Willacy,1,Classification,48489,2639
+Texas,Williamson,1,Classification,48491,2640
+Texas,Wilson,1,Classification,48493,2641
+Texas,Winkler,1,Classification,48495,2642
+Texas,Wise,1,Classification,48497,2643
+Texas,Wood,1,Classification,48499,2644
+Texas,Yoakum,1,Classification,48501,2645
+Texas,Young,1,Classification,48503,2646
+Texas,Zapata,1,Classification,48505,2650
+Texas,Zavala,1,Classification,48507,2651
+Utah,Beaver,0,Classification,49001,2653
+Utah,Box Elder,0,Classification,49003,2658
+Utah,Cache,0,Classification,49005,2661
+Utah,Carbon,0,Classification,49007,2665
+Utah,Daggett,0,Classification,49009,2668
+Utah,Davis,0,Classification,49011,2671
+Utah,Duchesne,0,Classification,49013,2672
+Utah,Emery,0,Classification,49015,2673
+Utah,Garfield,0,Classification,49017,2674
+Utah,Grand,0,Classification,49019,2675
+Utah,Iron,0,Classification,49021,2676
+Utah,Juab,0,Classification,49023,2677
+Utah,Kane,0,Classification,49025,2678
+Utah,Millard,0,Classification,49027,2680
+Utah,Morgan,0,Classification,49029,2681
+Utah,Piute,0,Classification,49031,2685
+Utah,Rich,0,Classification,49033,2687
+Utah,Salt Lake,0,Classification,49035,2690
+Utah,San Juan,0,Classification,49037,2694
+Utah,Sanpete,0,Classification,49039,2697
+Utah,Sevier,0,Classification,49041,2702
+Utah,Summit,0,Classification,49043,2703
+Utah,Tooele,0,Classification,49045,2707
+Utah,Uintah,0,Classification,49047,2539
+Utah,Utah,0,Classification,49049,2555
+Utah,Wasatch,0,Classification,49051,2567
+Utah,Washington,0,Classification,49053,2577
+Utah,Wayne,0,Classification,49055,2580
+Utah,Weber,0,Classification,49057,2587
+Vermont,Addison,0,Classification,50001,2590
+Vermont,Bennington,0,Classification,50003,2591
+Vermont,Caledonia,0,Classification,50005,2596
+Vermont,Chittenden,0,Classification,50007,2599
+Vermont,Essex,0,Classification,50009,2604
+Vermont,Franklin,0,Classification,50011,2607
+Vermont,Grand Isle,0,Classification,50013,2609
+Vermont,Lamoille,0,Classification,50015,2611
+Vermont,Orange,0,Classification,50017,2612
+Vermont,Orleans,0,Classification,50019,2614
+Vermont,Rutland,0,Classification,50021,2615
+Vermont,Washington,0,Classification,50023,2617
+Vermont,Windham,0,Classification,50025,2620
+Vermont,Windsor,0,Classification,50027,2625
+Virginia,Accomack,1,Classification,51001,2719
+Virginia,Albemarle,1,Classification,51003,2728
+Virginia,Alleghany,1,Classification,51005,2733
+Virginia,Amelia,1,Classification,51007,2741
+Virginia,Amherst,1,Classification,51009,2746
+Virginia,Appomattox,1,Classification,51011,2749
+Virginia,Arlington,1,Classification,51013,2753
+Virginia,Augusta,1,Classification,51015,2758
+Virginia,Bath,1,Classification,51017,2763
+Virginia,Bedford County,1,Classification,51019,2769
+Virginia,Bland,1,Classification,51021,2772
+Virginia,Botetourt,1,Classification,51023,2776
+Virginia,Brunswick,1,Classification,51025,2777
+Virginia,Buchanan,1,Classification,51027,2784
+Virginia,Buckingham,1,Classification,51029,2785
+Virginia,Campbell,1,Classification,51031,2788
+Virginia,Caroline,1,Classification,51033,2793
+Virginia,Carroll,1,Classification,51035,2797
+Virginia,Charles City,1,Classification,51036,2806
+Virginia,Charlotte,1,Classification,51037,2810
+Virginia,Chesterfield,1,Classification,51041,2816
+Virginia,Clarke,1,Classification,51043,2819
+Virginia,Craig,1,Classification,51045,2820
+Virginia,Culpeper,1,Classification,51047,2824
+Virginia,Cumberland,1,Classification,51049,2827
+Virginia,Dickenson,1,Classification,51051,2832
+Virginia,Dinwiddie,1,Classification,51053,2838
+Virginia,Essex,1,Classification,51057,2842
+Virginia,Fairfax County,1,Classification,51059,2849
+Virginia,Fauquier,1,Classification,51061,2853
+Virginia,Floyd,1,Classification,51063,2856
+Virginia,Fluvanna,1,Classification,51065,2858
+Virginia,Franklin County,1,Classification,51067,2862
+Virginia,Frederick,1,Classification,51069,2868
+Virginia,Giles,1,Classification,51071,2873
+Virginia,Gloucester,1,Classification,51073,2887
+Virginia,Goochland,1,Classification,51075,2892
+Virginia,Grayson,1,Classification,51077,2896
+Virginia,Greene,1,Classification,51079,2899
+Virginia,Greensville,1,Classification,51081,2902
+Virginia,Halifax,1,Classification,51083,2904
+Virginia,Hanover,1,Classification,51085,2909
+Virginia,Henrico,1,Classification,51087,2915
+Virginia,Henry,1,Classification,51089,2918
+Virginia,Highland,1,Classification,51091,2920
+Virginia,Isle of Wight,1,Classification,51093,2925
+Virginia,James City,1,Classification,51095,2930
+Virginia,King and Queen,1,Classification,51097,2936
+Virginia,King George,1,Classification,51099,2938
+Virginia,King William,1,Classification,51101,2943
+Virginia,Lancaster,1,Classification,51103,2948
+Virginia,Lee,1,Classification,51105,2950
+Virginia,Loudoun,1,Classification,51107,2952
+Virginia,Louisa,1,Classification,51109,2953
+Virginia,Lunenburg,1,Classification,51111,2954
+Virginia,Madison,1,Classification,51113,2955
+Virginia,Mathews,1,Classification,51115,2962
+Virginia,Mecklenburg,1,Classification,51117,2964
+Virginia,Middlesex,1,Classification,51119,2965
+Virginia,Montgomery,1,Classification,51121,2966
+Virginia,Nelson,1,Classification,51125,2968
+Virginia,New Kent,1,Classification,51127,2971
+Virginia,Northampton,1,Classification,51131,2982
+Virginia,Northumberland,1,Classification,51133,2983
+Virginia,Nottoway,1,Classification,51135,2984
+Virginia,Orange,1,Classification,51137,2985
+Virginia,Page,1,Classification,51139,2986
+Virginia,Patrick,1,Classification,51141,2987
+Virginia,Pittsylvania,1,Classification,51143,2988
+Virginia,Powhatan,1,Classification,51145,2989
+Virginia,Prince Edward,1,Classification,51147,2990
+Virginia,Prince George,1,Classification,51149,2991
+Virginia,Prince William,1,Classification,51153,2992
+Virginia,Pulaski,1,Classification,51155,2993
+Virginia,Rappahannock,1,Classification,51157,2994
+Virginia,Richmond County,1,Classification,51159,2995
+Virginia,Roanoke County,1,Classification,51161,2996
+Virginia,Rockbridge,1,Classification,51163,2997
+Virginia,Rockingham,1,Classification,51165,2998
+Virginia,Russell,1,Classification,51167,2999
+Virginia,Scott,1,Classification,51169,2585
+Virginia,Shenandoah,1,Classification,51171,2594
+Virginia,Smyth,1,Classification,51173,2600
+Virginia,Southampton,1,Classification,51175,2608
+Virginia,Spotsylvania,1,Classification,51177,2619
+Virginia,Stafford,1,Classification,51179,2629
+Virginia,Surry,1,Classification,51181,2636
+Virginia,Sussex,1,Classification,51183,2647
+Virginia,Tazewell,1,Classification,51185,2656
+Virginia,Warren,1,Classification,51187,2662
+Virginia,Washington,1,Classification,51191,2667
+Virginia,Westmoreland,1,Classification,51193,2684
+Virginia,Wise,1,Classification,51195,2695
+Virginia,Wythe,1,Classification,51197,2699
+Virginia,York,1,Classification,51199,2709
+Virginia,Alexandria,1,Classification,51510,2712
+Virginia,Bedford County,1,Classification,51515,2769
+Virginia,Bristol,1,Classification,51520,2716
+Virginia,Buena Vista,1,Classification,51530,2720
+Virginia,Charlottesville,1,Classification,51540,2722
+Virginia,Chesapeake,1,Classification,51550,2724
+Virginia,Colonial Heights,1,Classification,51570,2727
+Virginia,Covington,1,Classification,51580,2729
+Virginia,Danville,1,Classification,51590,2732
+Virginia,Emporia,1,Classification,51595,2736
+Virginia,Fairfax County,1,Classification,51600,2849
+Virginia,Falls Church,1,Classification,51610,2740
+Virginia,Franklin County,1,Classification,51620,2862
+Virginia,Fredericksburg,1,Classification,51630,2745
+Virginia,Galax,1,Classification,51640,2747
+Virginia,Hampton,1,Classification,51650,2751
+Virginia,Harrisonburg,1,Classification,51660,2755
+Virginia,Hopewell,1,Classification,51670,2756
+Virginia,Lexington,1,Classification,51678,2760
+Virginia,Lynchburg,1,Classification,51680,2762
+Virginia,Manassas,1,Classification,51683,2765
+Virginia,Manassas Park,1,Classification,51685,2768
+Virginia,Martinsville,1,Classification,51690,2771
+Virginia,Newport News,1,Classification,51700,2775
+Virginia,Norfolk,1,Classification,51710,2778
+Virginia,Norton,1,Classification,51720,2780
+Virginia,Petersburg,1,Classification,51730,2782
+Virginia,Poquoson,1,Classification,51735,2791
+Virginia,Portsmouth,1,Classification,51740,2795
+Virginia,Radford,1,Classification,51750,2799
+Virginia,Richmond County,1,Classification,51760,2995
+Virginia,Roanoke County,1,Classification,51770,2996
+Virginia,Salem,1,Classification,51775,2809
+Virginia,Staunton,1,Classification,51790,2812
+Virginia,Suffolk,1,Classification,51800,2815
+Virginia,Virginia Beach,1,Classification,51810,2826
+Virginia,Waynesboro,1,Classification,51820,2831
+Virginia,Williamsburg,1,Classification,51830,2835
+Virginia,Winchester,1,Classification,51840,2837
+Washington,Adams,1,Classification,53001,2840
+Washington,Asotin,1,Classification,53003,2845
+Washington,Benton,1,Classification,53005,2847
+Washington,Chelan,1,Classification,53007,2852
+Washington,Clallam,1,Classification,53009,2861
+Washington,Clark,1,Classification,53011,2865
+Washington,Columbia,1,Classification,53013,2869
+Washington,Cowlitz,1,Classification,53015,2871
+Washington,Douglas,1,Classification,53017,2877
+Washington,Ferry,1,Classification,53019,2880
+Washington,Franklin,1,Classification,53021,2884
+Washington,Garfield,1,Classification,53023,2886
+Washington,Grant,1,Classification,53025,2889
+Washington,Grays Harbor,1,Classification,53027,2894
+Washington,Island,1,Classification,53029,2898
+Washington,Jefferson,1,Classification,53031,2905
+Washington,King,1,Classification,53033,2913
+Washington,Kitsap,1,Classification,53035,2927
+Washington,Kittitas,1,Classification,53037,2932
+Washington,Klickitat,1,Classification,53039,2935
+Washington,Lewis,1,Classification,53041,2940
+Washington,Lincoln,1,Classification,53043,2942
+Washington,Mason,1,Classification,53045,2946
+Washington,Okanogan,1,Classification,53047,2947
+Washington,Pacific,1,Classification,53049,2949
+Washington,Pend Oreille,1,Classification,53051,2951
+Washington,Pierce,1,Classification,53053,2956
+Washington,San Juan,1,Classification,53055,2957
+Washington,Skagit,1,Classification,53057,2958
+Washington,Skamania,1,Classification,53059,2959
+Washington,Snohomish,1,Classification,53061,2960
+Washington,Spokane,1,Classification,53063,2961
+Washington,Stevens,1,Classification,53065,2963
+Washington,Thurston,1,Classification,53067,2967
+Washington,Wahkiakum,1,Classification,53069,2969
+Washington,Walla Walla,1,Classification,53071,2970
+Washington,Whatcom,1,Classification,53073,2972
+Washington,Whitman,1,Classification,53075,2973
+Washington,Yakima,1,Classification,53077,2974
+West Virginia,Barbour,0,Classification,54001,2975
+West Virginia,Berkeley,0,Classification,54003,2976
+West Virginia,Boone,0,Classification,54005,2977
+West Virginia,Braxton,0,Classification,54007,2978
+West Virginia,Brooke,0,Classification,54009,2979
+West Virginia,Cabell,0,Classification,54011,2980
+West Virginia,Calhoun,0,Classification,54013,2981
+West Virginia,Clay,0,Classification,54015,3000
+West Virginia,Doddridge,0,Classification,54017,3002
+West Virginia,Fayette,0,Classification,54019,3006
+West Virginia,Gilmer,0,Classification,54021,3008
+West Virginia,Grant,0,Classification,54023,3011
+West Virginia,Greenbrier,0,Classification,54025,3013
+West Virginia,Hampshire,0,Classification,54027,3016
+West Virginia,Hancock,0,Classification,54029,3017
+West Virginia,Hardy,0,Classification,54031,3019
+West Virginia,Harrison,0,Classification,54033,3021
+West Virginia,Jackson,0,Classification,54035,3023
+West Virginia,Jefferson,0,Classification,54037,3026
+West Virginia,Kanawha,0,Classification,54039,3027
+West Virginia,Lewis,0,Classification,54041,3029
+West Virginia,Lincoln,0,Classification,54043,3031
+West Virginia,Logan,0,Classification,54045,3034
+West Virginia,McDowell,0,Classification,54047,3037
+West Virginia,Marion,0,Classification,54049,3039
+West Virginia,Marshall,0,Classification,54051,3041
+West Virginia,Mason,0,Classification,54053,3042
+West Virginia,Mercer,0,Classification,54055,3044
+West Virginia,Mineral,0,Classification,54057,3046
+West Virginia,Mingo,0,Classification,54059,3048
+West Virginia,Monongalia,0,Classification,54061,3050
+West Virginia,Monroe,0,Classification,54063,3052
+West Virginia,Morgan,0,Classification,54065,3054
+West Virginia,Nicholas,0,Classification,54067,3057
+West Virginia,Ohio,0,Classification,54069,3059
+West Virginia,Pendleton,0,Classification,54071,3061
+West Virginia,Pleasants,0,Classification,54073,3064
+West Virginia,Pocahontas,0,Classification,54075,3066
+West Virginia,Preston,0,Classification,54077,3068
+West Virginia,Putnam,0,Classification,54079,3070
+West Virginia,Raleigh,0,Classification,54081,3073
+West Virginia,Randolph,0,Classification,54083,3075
+West Virginia,Ritchie,0,Classification,54085,3077
+West Virginia,Roane,0,Classification,54087,3079
+West Virginia,Summers,0,Classification,54089,3080
+West Virginia,Taylor,0,Classification,54091,3082
+West Virginia,Tucker,0,Classification,54093,3084
+West Virginia,Tyler,0,Classification,54095,3085
+West Virginia,Upshur,0,Classification,54097,3087
+West Virginia,Wayne,0,Classification,54099,3089
+West Virginia,Webster,0,Classification,54101,3091
+West Virginia,Wetzel,0,Classification,54103,3093
+West Virginia,Wirt,0,Classification,54105,3095
+West Virginia,Wood,0,Classification,54107,3097
+West Virginia,Wyoming,0,Classification,54109,3099
+Wisconsin,Adams,0,Classification,55001,3101
+Wisconsin,Ashland,0,Classification,55003,3104
+Wisconsin,Barron,0,Classification,55005,3106
+Wisconsin,Bayfield,0,Classification,55007,3108
+Wisconsin,Brown,0,Classification,55009,3111
+Wisconsin,Buffalo,0,Classification,55011,3113
+Wisconsin,Burnett,0,Classification,55013,3115
+Wisconsin,Calumet,0,Classification,55015,3116
+Wisconsin,Chippewa,0,Classification,55017,3117
+Wisconsin,Clark,0,Classification,55019,3119
+Wisconsin,Columbia,0,Classification,55021,3120
+Wisconsin,Crawford,0,Classification,55023,3122
+Wisconsin,Dane,0,Classification,55025,3124
+Wisconsin,Dodge,0,Classification,55027,3126
+Wisconsin,Door,0,Classification,55029,3131
+Wisconsin,Douglas,0,Classification,55031,3134
+Wisconsin,Dunn,0,Classification,55033,3135
+Wisconsin,Eau Claire,0,Classification,55035,3137
+Wisconsin,Florence,0,Classification,55037,3138
+Wisconsin,Fond du Lac,0,Classification,55039,3140
+Wisconsin,Forest,0,Classification,55041,3141
+Wisconsin,Grant,0,Classification,55043,3143
+Wisconsin,Green,0,Classification,55045,3145
+Wisconsin,Green Lake,0,Classification,55047,3147
+Wisconsin,Iowa,0,Classification,55049,3148
+Wisconsin,Iron,0,Classification,55051,3151
+Wisconsin,Jackson,0,Classification,55053,3153
+Wisconsin,Jefferson,0,Classification,55055,3154
+Wisconsin,Juneau,0,Classification,55057,3156
+Wisconsin,Kenosha,0,Classification,55059,3158
+Wisconsin,Kewaunee,0,Classification,55061,3160
+Wisconsin,La Crosse,0,Classification,55063,3161
+Wisconsin,Lafayette,0,Classification,55065,3163
+Wisconsin,Langlade,0,Classification,55067,3165
+Wisconsin,Lincoln,0,Classification,55069,3166
+Wisconsin,Manitowoc,0,Classification,55071,3169
+Wisconsin,Marathon,0,Classification,55073,3170
+Wisconsin,Marinette,0,Classification,55075,3172
+Wisconsin,Marquette,0,Classification,55077,3174
+Wisconsin,Menominee,0,Classification,55078,3175
+Wisconsin,Milwaukee,0,Classification,55079,3177
+Wisconsin,Monroe,0,Classification,55081,3179
+Wisconsin,Oconto,0,Classification,55083,3181
+Wisconsin,Oneida,0,Classification,55085,3183
+Wisconsin,Outagamie,0,Classification,55087,3185
+Wisconsin,Ozaukee,0,Classification,55089,3186
+Wisconsin,Pepin,0,Classification,55091,3188
+Wisconsin,Pierce,0,Classification,55093,3189
+Wisconsin,Polk,0,Classification,55095,3191
+Wisconsin,Portage,0,Classification,55097,3192
+Wisconsin,Price,0,Classification,55099,3194
+Wisconsin,Racine,0,Classification,55101,3195
+Wisconsin,Richland,0,Classification,55103,3196
+Wisconsin,Rock,0,Classification,55105,3198
+Wisconsin,Rusk,0,Classification,55107,3199
+Wisconsin,St. Croix,0,Classification,55109,3200
+Wisconsin,Sauk,0,Classification,55111,3202
+Wisconsin,Sawyer,0,Classification,55113,3203
+Wisconsin,Shawano,0,Classification,55115,3205
+Wisconsin,Sheboygan,0,Classification,55117,3207
+Wisconsin,Taylor,0,Classification,55119,3208
+Wisconsin,Trempealeau,0,Classification,55121,3210
+Wisconsin,Vernon,0,Classification,55123,3213
+Wisconsin,Vilas,0,Classification,55125,3001
+Wisconsin,Walworth,0,Classification,55127,3003
+Wisconsin,Washburn,0,Classification,55129,3004
+Wisconsin,Washington,0,Classification,55131,3005
+Wisconsin,Waukesha,0,Classification,55133,3007
+Wisconsin,Waupaca,0,Classification,55135,3009
+Wisconsin,Waushara,0,Classification,55137,3010
+Wisconsin,Winnebago,0,Classification,55139,3012
+Wisconsin,Wood,0,Classification,55141,3014
+Wyoming,Albany,0,Classification,56001,3015
+Wyoming,Big Horn,0,Classification,56003,3018
+Wyoming,Campbell,0,Classification,56005,3020
+Wyoming,Carbon,0,Classification,56007,3022
+Wyoming,Converse,0,Classification,56009,3024
+Wyoming,Crook,0,Classification,56011,3025
+Wyoming,Fremont,0,Classification,56013,3028
+Wyoming,Goshen,0,Classification,56015,3030
+Wyoming,Hot Springs,0,Classification,56017,3032
+Wyoming,Johnson,0,Classification,56019,3033
+Wyoming,Laramie,0,Classification,56021,3035
+Wyoming,Lincoln,0,Classification,56023,3036
+Wyoming,Natrona,0,Classification,56025,3038
+Wyoming,Niobrara,0,Classification,56027,3040
+Wyoming,Park,0,Classification,56029,3043
+Wyoming,Platte,0,Classification,56031,3045
+Wyoming,Sheridan,0,Classification,56033,3047
+Wyoming,Sublette,0,Classification,56035,3049
+Wyoming,Sweetwater,0,Classification,56037,3051
+Wyoming,Teton,0,Classification,56039,3053
+Wyoming,Uinta,0,Classification,56041,3055
+Wyoming,Washakie,0,Classification,56043,3056
+Wyoming,Weston,0,Classification,56045,3058
