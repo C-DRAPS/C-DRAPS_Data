@@ -1,0 +1,3144 @@
+State,County,Greenhouse veg and fresh herb sq feet 2012 (GHVEG_SQFT12),Units,FIPS,FID
+Alabama,Autauga,0.0,Sq ft,1001.0,5
+Alabama,Baldwin,62160.0,Sq ft,1003.0,20
+Alabama,Barbour,0.0,Sq ft,1005.0,25
+Alabama,Bibb,nan,Sq ft,1007.0,29
+Alabama,Blount,0.0,Sq ft,1009.0,33
+Alabama,Bullock,0.0,Sq ft,1011.0,37
+Alabama,Butler,0.0,Sq ft,1013.0,39
+Alabama,Calhoun,nan,Sq ft,1015.0,43
+Alabama,Chambers,5280.0,Sq ft,1017.0,47
+Alabama,Cherokee,0.0,Sq ft,1019.0,51
+Alabama,Chilton,nan,Sq ft,1021.0,56
+Alabama,Choctaw,0.0,Sq ft,1023.0,58
+Alabama,Clarke,0.0,Sq ft,1025.0,61
+Alabama,Clay,nan,Sq ft,1027.0,65
+Alabama,Cleburne,0.0,Sq ft,1029.0,67
+Alabama,Coffee,0.0,Sq ft,1031.0,70
+Alabama,Colbert,nan,Sq ft,1033.0,73
+Alabama,Conecuh,0.0,Sq ft,1035.0,80
+Alabama,Coosa,0.0,Sq ft,1037.0,82
+Alabama,Covington,0.0,Sq ft,1039.0,88
+Alabama,Crenshaw,nan,Sq ft,1041.0,90
+Alabama,Cullman,11285.0,Sq ft,1043.0,98
+Alabama,Dale,0.0,Sq ft,1045.0,101
+Alabama,Dallas,0.0,Sq ft,1047.0,110
+Alabama,DeKalb,13200.0,Sq ft,1049.0,112
+Alabama,Elmore,nan,Sq ft,1051.0,118
+Alabama,Escambia,0.0,Sq ft,1053.0,122
+Alabama,Etowah,nan,Sq ft,1055.0,131
+Alabama,Fayette,0.0,Sq ft,1057.0,134
+Alabama,Franklin,nan,Sq ft,1059.0,138
+Alabama,Geneva,nan,Sq ft,1061.0,140
+Alabama,Greene,0.0,Sq ft,1063.0,148
+Alabama,Hale,0.0,Sq ft,1065.0,150
+Alabama,Henry,nan,Sq ft,1067.0,158
+Alabama,Houston,nan,Sq ft,1069.0,160
+Alabama,Jackson,nan,Sq ft,1071.0,164
+Alabama,Jefferson,0.0,Sq ft,1073.0,171
+Alabama,Lamar,0.0,Sq ft,1075.0,174
+Alabama,Lauderdale,nan,Sq ft,1077.0,176
+Alabama,Lawrence,0.0,Sq ft,1079.0,181
+Alabama,Lee,nan,Sq ft,1081.0,187
+Alabama,Limestone,nan,Sq ft,1083.0,197
+Alabama,Lowndes,0.0,Sq ft,1085.0,205
+Alabama,Macon,nan,Sq ft,1087.0,210
+Alabama,Madison,nan,Sq ft,1089.0,217
+Alabama,Marengo,0.0,Sq ft,1091.0,220
+Alabama,Marion,0.0,Sq ft,1093.0,224
+Alabama,Marshall,2430.0,Sq ft,1095.0,231
+Alabama,Mobile,0.0,Sq ft,1097.0,240
+Alabama,Monroe,0.0,Sq ft,1099.0,250
+Alabama,Montgomery,0.0,Sq ft,1101.0,256
+Alabama,Morgan,nan,Sq ft,1103.0,262
+Alabama,Perry,nan,Sq ft,1105.0,264
+Alabama,Pickens,0.0,Sq ft,1107.0,273
+Alabama,Pike,0.0,Sq ft,1109.0,279
+Alabama,Randolph,nan,Sq ft,1111.0,284
+Alabama,Russell,nan,Sq ft,1113.0,288
+Alabama,St. Clair,0.0,Sq ft,1115.0,292
+Alabama,Shelby,nan,Sq ft,1117.0,298
+Alabama,Sumter,nan,Sq ft,1119.0,303
+Alabama,Talladega,nan,Sq ft,1121.0,306
+Alabama,Tallapoosa,12600.0,Sq ft,1123.0,308
+Alabama,Tuscaloosa,nan,Sq ft,1125.0,313
+Alabama,Walker,0.0,Sq ft,1127.0,317
+Alabama,Washington,0.0,Sq ft,1129.0,319
+Alabama,Wilcox,0.0,Sq ft,1131.0,326
+Alabama,Winston,0.0,Sq ft,1133.0,332
+Alaska,Aleutians East,nan,Sq ft,2013.0,346
+Alaska,Aleutians West,nan,Sq ft,2016.0,381
+Alaska,Anchorage,114565.0,Sq ft,2020.0,400
+Alaska,Bethel,nan,Sq ft,2050.0,411
+Alaska,Bristol Bay,nan,Sq ft,2060.0,423
+Alaska,Denali,nan,Sq ft,2068.0,426
+Alaska,Dillingham,nan,Sq ft,2070.0,445
+Alaska,Fairbanks North Star,58118.0,Sq ft,2090.0,454
+Alaska,Haines,nan,Sq ft,2100.0,462
+Alaska,Hoonah-Angoon,nan,Sq ft,2105.0,476
+Alaska,Juneau,2642.0,Sq ft,2110.0,482
+Alaska,Kenai Peninsula,44382.0,Sq ft,2122.0,494
+Alaska,Ketchikan Gateway,nan,Sq ft,2130.0,514
+Alaska,Kodiak Island,nan,Sq ft,2150.0,533
+Alaska,Lake and Peninsula,nan,Sq ft,2164.0,544
+Alaska,Matanuska-Susitna,nan,Sq ft,2170.0,556
+Alaska,Nome,nan,Sq ft,2180.0,571
+Alaska,North Slope,nan,Sq ft,2185.0,614
+Alaska,Northwest Arctic,nan,Sq ft,2188.0,638
+Alaska,Petersburg,nan,Sq ft,2195.0,645
+Alaska,Prince of Wales-Hyder,nan,Sq ft,2198.0,669
+Alaska,Sitka,nan,Sq ft,2220.0,679
+Alaska,Skagway,nan,Sq ft,2230.0,683
+Alaska,Southeast Fairbanks,nan,Sq ft,2240.0,690
+Alaska,Valdez-Cordova,nan,Sq ft,2261.0,710
+Alaska,Wade Hampton,nan,Sq ft,2270.0,725
+Alaska,Wrangell,nan,Sq ft,2275.0,733
+Alaska,Yakutat,nan,Sq ft,2282.0,744
+Alaska,Yukon-Koyukuk,nan,Sq ft,2290.0,753
+Arizona,Apache,7272.0,Sq ft,4001.0,761
+Arizona,Cochise,nan,Sq ft,4003.0,763
+Arizona,Coconino,17240.0,Sq ft,4005.0,771
+Arizona,Gila,0.0,Sq ft,4007.0,787
+Arizona,Graham,nan,Sq ft,4009.0,0
+Arizona,Greenlee,0.0,Sq ft,4011.0,1
+Arizona,La Paz,0.0,Sq ft,4012.0,3
+Arizona,Maricopa,8802.0,Sq ft,4013.0,9
+Arizona,Mohave,27600.0,Sq ft,4015.0,15
+Arizona,Navajo,8256.0,Sq ft,4017.0,17
+Arizona,Pima,27256.0,Sq ft,4019.0,21
+Arizona,Pinal,nan,Sq ft,4021.0,26
+Arizona,Santa Cruz,2200.0,Sq ft,4023.0,32
+Arizona,Yavapai,132650.0,Sq ft,4025.0,35
+Arizona,Yuma,nan,Sq ft,4027.0,42
+Arkansas,Arkansas,0.0,Sq ft,5001.0,46
+Arkansas,Ashley,405.0,Sq ft,5003.0,50
+Arkansas,Baxter,0.0,Sq ft,5005.0,54
+Arkansas,Benton,nan,Sq ft,5007.0,59
+Arkansas,Boone,nan,Sq ft,5009.0,62
+Arkansas,Bradley,0.0,Sq ft,5011.0,68
+Arkansas,Calhoun,0.0,Sq ft,5013.0,72
+Arkansas,Carroll,8760.0,Sq ft,5015.0,74
+Arkansas,Chicot,0.0,Sq ft,5017.0,77
+Arkansas,Clark,0.0,Sq ft,5019.0,86
+Arkansas,Clay,0.0,Sq ft,5021.0,93
+Arkansas,Cleburne,0.0,Sq ft,5023.0,97
+Arkansas,Cleveland,0.0,Sq ft,5025.0,103
+Arkansas,Columbia,0.0,Sq ft,5027.0,107
+Arkansas,Conway,0.0,Sq ft,5029.0,109
+Arkansas,Craighead,0.0,Sq ft,5031.0,114
+Arkansas,Crawford,nan,Sq ft,5033.0,115
+Arkansas,Crittenden,nan,Sq ft,5035.0,119
+Arkansas,Cross,0.0,Sq ft,5037.0,124
+Arkansas,Dallas,0.0,Sq ft,5039.0,128
+Arkansas,Desha,0.0,Sq ft,5041.0,130
+Arkansas,Drew,0.0,Sq ft,5043.0,136
+Arkansas,Faulkner,nan,Sq ft,5045.0,141
+Arkansas,Franklin,0.0,Sq ft,5047.0,144
+Arkansas,Fulton,nan,Sq ft,5049.0,146
+Arkansas,Garland,nan,Sq ft,5051.0,151
+Arkansas,Grant,nan,Sq ft,5053.0,155
+Arkansas,Greene,5760.0,Sq ft,5055.0,162
+Arkansas,Hempstead,0.0,Sq ft,5057.0,172
+Arkansas,Hot Spring,nan,Sq ft,5059.0,184
+Arkansas,Howard,0.0,Sq ft,5061.0,191
+Arkansas,Independence,0.0,Sq ft,5063.0,200
+Arkansas,Izard,0.0,Sq ft,5065.0,203
+Arkansas,Jackson,0.0,Sq ft,5067.0,209
+Arkansas,Jefferson,0.0,Sq ft,5069.0,213
+Arkansas,Johnson,nan,Sq ft,5071.0,218
+Arkansas,Lafayette,0.0,Sq ft,5073.0,222
+Arkansas,Lawrence,0.0,Sq ft,5075.0,230
+Arkansas,Lee,0.0,Sq ft,5077.0,237
+Arkansas,Lincoln,nan,Sq ft,5079.0,244
+Arkansas,Little River,nan,Sq ft,5081.0,251
+Arkansas,Logan,nan,Sq ft,5083.0,258
+Arkansas,Lonoke,0.0,Sq ft,5085.0,268
+Arkansas,Madison,0.0,Sq ft,5087.0,277
+Arkansas,Marion,0.0,Sq ft,5089.0,282
+Arkansas,Miller,0.0,Sq ft,5091.0,287
+Arkansas,Mississippi,0.0,Sq ft,5093.0,294
+Arkansas,Monroe,0.0,Sq ft,5095.0,300
+Arkansas,Montgomery,0.0,Sq ft,5097.0,304
+Arkansas,Nevada,0.0,Sq ft,5099.0,307
+Arkansas,Newton,nan,Sq ft,5101.0,311
+Arkansas,Ouachita,0.0,Sq ft,5103.0,316
+Arkansas,Perry,nan,Sq ft,5105.0,318
+Arkansas,Phillips,0.0,Sq ft,5107.0,322
+Arkansas,Pike,0.0,Sq ft,5109.0,327
+Arkansas,Poinsett,0.0,Sq ft,5111.0,333
+Arkansas,Polk,nan,Sq ft,5113.0,337
+Arkansas,Pope,nan,Sq ft,5115.0,340
+Arkansas,Prairie,0.0,Sq ft,5117.0,345
+Arkansas,Pulaski,nan,Sq ft,5119.0,350
+Arkansas,Randolph,0.0,Sq ft,5121.0,353
+Arkansas,St. Francis,0.0,Sq ft,5123.0,357
+Arkansas,Saline,nan,Sq ft,5125.0,360
+Arkansas,Scott,0.0,Sq ft,5127.0,364
+Arkansas,Searcy,0.0,Sq ft,5129.0,372
+Arkansas,Sebastian,0.0,Sq ft,5131.0,378
+Arkansas,Sevier,0.0,Sq ft,5133.0,390
+Arkansas,Sharp,0.0,Sq ft,5135.0,394
+Arkansas,Stone,0.0,Sq ft,5137.0,399
+Arkansas,Union,0.0,Sq ft,5139.0,403
+Arkansas,Van Buren,nan,Sq ft,5141.0,407
+Arkansas,Washington,8932.0,Sq ft,5143.0,417
+Arkansas,White,0.0,Sq ft,5145.0,428
+Arkansas,Woodruff,0.0,Sq ft,5147.0,435
+Arkansas,Yell,nan,Sq ft,5149.0,438
+California,Alameda,400.0,Sq ft,6001.0,457
+California,Alpine,0.0,Sq ft,6003.0,461
+California,Amador,nan,Sq ft,6005.0,472
+California,Butte,13424.0,Sq ft,6007.0,486
+California,Calaveras,134.0,Sq ft,6009.0,489
+California,Colusa,0.0,Sq ft,6011.0,497
+California,Contra Costa,87060.0,Sq ft,6013.0,503
+California,Del Norte,7740.0,Sq ft,6015.0,511
+California,El Dorado,6685.0,Sq ft,6017.0,522
+California,Fresno,172843.0,Sq ft,6019.0,527
+California,Glenn,0.0,Sq ft,6021.0,537
+California,Humboldt,78755.0,Sq ft,6023.0,551
+California,Imperial,nan,Sq ft,6025.0,557
+California,Inyo,0.0,Sq ft,6027.0,562
+California,Kern,235992.0,Sq ft,6029.0,84
+California,Kings,48000.0,Sq ft,6031.0,94
+California,Lake,6776.0,Sq ft,6033.0,100
+California,Lassen,0.0,Sq ft,6035.0,104
+California,Los Angeles,394494.0,Sq ft,6037.0,139
+California,Madera,17500.0,Sq ft,6039.0,153
+California,Marin,9505.0,Sq ft,6041.0,168
+California,Mariposa,nan,Sq ft,6043.0,178
+California,Mendocino,29600.0,Sq ft,6045.0,190
+California,Merced,nan,Sq ft,6047.0,204
+California,Modoc,18000.0,Sq ft,6049.0,207
+California,Mono,0.0,Sq ft,6051.0,214
+California,Monterey,474300.0,Sq ft,6053.0,228
+California,Napa,0.0,Sq ft,6055.0,236
+California,Nevada,14644.0,Sq ft,6057.0,243
+California,Orange,150.0,Sq ft,6059.0,257
+California,Placer,4377.0,Sq ft,6061.0,266
+California,Plumas,nan,Sq ft,6063.0,275
+California,Riverside,2599822.0,Sq ft,6065.0,281
+California,Sacramento,25030.0,Sq ft,6067.0,289
+California,San Benito,340200.0,Sq ft,6069.0,295
+California,San Bernardino,105024.0,Sq ft,6071.0,302
+California,San Diego,4649990.0,Sq ft,6073.0,315
+California,San Francisco,0.0,Sq ft,6075.0,331
+California,San Joaquin,281300.0,Sq ft,6077.0,339
+California,San Luis Obispo,106256.0,Sq ft,6079.0,351
+California,San Mateo,192200.0,Sq ft,6081.0,368
+California,Santa Barbara,3826760.0,Sq ft,6083.0,391
+California,Santa Clara,4508936.0,Sq ft,6085.0,406
+California,Santa Cruz,1582888.0,Sq ft,6087.0,415
+California,Shasta,16060.0,Sq ft,6089.0,431
+California,Sierra,0.0,Sq ft,6091.0,439
+California,Siskiyou,nan,Sq ft,6093.0,446
+California,Solano,nan,Sq ft,6095.0,453
+California,Sonoma,87846.0,Sq ft,6097.0,463
+California,Stanislaus,nan,Sq ft,6099.0,473
+California,Sutter,32800.0,Sq ft,6101.0,483
+California,Tehama,nan,Sq ft,6103.0,492
+California,Trinity,nan,Sq ft,6105.0,500
+California,Tulare,nan,Sq ft,6107.0,501
+California,Tuolumne,0.0,Sq ft,6109.0,513
+California,Ventura,nan,Sq ft,6111.0,521
+California,Yolo,nan,Sq ft,6113.0,525
+California,Yuba,nan,Sq ft,6115.0,541
+Colorado,Adams,14400.0,Sq ft,8001.0,545
+Colorado,Alamosa,0.0,Sq ft,8003.0,549
+Colorado,Arapahoe,nan,Sq ft,8005.0,558
+Colorado,Archuleta,nan,Sq ft,8007.0,560
+Colorado,Baca,0.0,Sq ft,8009.0,563
+Colorado,Bent,0.0,Sq ft,8011.0,564
+Colorado,Boulder,nan,Sq ft,8013.0,570
+Colorado,Broomfield,0.0,Sq ft,8014.0,577
+Colorado,Chaffee,nan,Sq ft,8015.0,582
+Colorado,Cheyenne,0.0,Sq ft,8017.0,587
+Colorado,Clear Creek,0.0,Sq ft,8019.0,591
+Colorado,Conejos,0.0,Sq ft,8021.0,596
+Colorado,Costilla,0.0,Sq ft,8023.0,599
+Colorado,Crowley,0.0,Sq ft,8025.0,605
+Colorado,Custer,0.0,Sq ft,8027.0,610
+Colorado,Delta,45592.0,Sq ft,8029.0,617
+Colorado,Denver,nan,Sq ft,8031.0,628
+Colorado,Dolores,2160.0,Sq ft,8033.0,636
+Colorado,Douglas,nan,Sq ft,8035.0,644
+Colorado,Eagle,nan,Sq ft,8037.0,648
+Colorado,Elbert,nan,Sq ft,8039.0,655
+Colorado,El Paso,6055.0,Sq ft,8041.0,661
+Colorado,Fremont,nan,Sq ft,8043.0,664
+Colorado,Garfield,0.0,Sq ft,8045.0,667
+Colorado,Gilpin,0.0,Sq ft,8047.0,672
+Colorado,Grand,0.0,Sq ft,8049.0,677
+Colorado,Gunnison,nan,Sq ft,8051.0,682
+Colorado,Hinsdale,0.0,Sq ft,8053.0,688
+Colorado,Huerfano,nan,Sq ft,8055.0,693
+Colorado,Jackson,0.0,Sq ft,8057.0,701
+Colorado,Jefferson,nan,Sq ft,8059.0,706
+Colorado,Kiowa,0.0,Sq ft,8061.0,711
+Colorado,Kit Carson,nan,Sq ft,8063.0,716
+Colorado,Lake,0.0,Sq ft,8065.0,721
+Colorado,La Plata,9140.0,Sq ft,8067.0,727
+Colorado,Larimer,51050.0,Sq ft,8069.0,734
+Colorado,Las Animas,nan,Sq ft,8071.0,741
+Colorado,Lincoln,0.0,Sq ft,8073.0,747
+Colorado,Logan,0.0,Sq ft,8075.0,749
+Colorado,Mesa,18800.0,Sq ft,8077.0,751
+Colorado,Mineral,0.0,Sq ft,8079.0,757
+Colorado,Moffat,0.0,Sq ft,8081.0,758
+Colorado,Montezuma,26644.0,Sq ft,8083.0,766
+Colorado,Montrose,26660.0,Sq ft,8085.0,769
+Colorado,Morgan,nan,Sq ft,8087.0,775
+Colorado,Otero,0.0,Sq ft,8089.0,777
+Colorado,Ouray,nan,Sq ft,8091.0,780
+Colorado,Park,0.0,Sq ft,8093.0,782
+Colorado,Phillips,0.0,Sq ft,8095.0,785
+Colorado,Pitkin,0.0,Sq ft,8097.0,789
+Colorado,Prowers,0.0,Sq ft,8099.0,792
+Colorado,Pueblo,nan,Sq ft,8101.0,795
+Colorado,Rio Blanco,0.0,Sq ft,8103.0,799
+Colorado,Rio Grande,nan,Sq ft,8105.0,802
+Colorado,Routt,nan,Sq ft,8107.0,809
+Colorado,Saguache,nan,Sq ft,8109.0,811
+Colorado,San Juan,0.0,Sq ft,8111.0,347
+Colorado,San Miguel,9800.0,Sq ft,8113.0,359
+Colorado,Sedgwick,0.0,Sq ft,8115.0,366
+Colorado,Summit,0.0,Sq ft,8117.0,373
+Colorado,Teller,920.0,Sq ft,8119.0,375
+Colorado,Washington,0.0,Sq ft,8121.0,377
+Colorado,Weld,183788.0,Sq ft,8123.0,382
+Colorado,Yuma,0.0,Sq ft,8125.0,385
+Connecticut,Fairfield,152769.0,Sq ft,9001.0,410
+Connecticut,Hartford,228392.0,Sq ft,9003.0,432
+Connecticut,Litchfield,122631.0,Sq ft,9005.0,443
+Connecticut,Middlesex,116010.0,Sq ft,9007.0,450
+Connecticut,New Haven,107476.0,Sq ft,9009.0,466
+Connecticut,New London,101480.0,Sq ft,9011.0,517
+Connecticut,Tolland,11206.0,Sq ft,9013.0,524
+Connecticut,Windham,58628.0,Sq ft,9015.0,529
+Delaware,Kent,68528.0,Sq ft,10001.0,532
+Delaware,New Castle,12059.0,Sq ft,10003.0,536
+Delaware,Sussex,41863.0,Sq ft,10005.0,609
+District of Columbia,District of Columbia,nan,Sq ft,11001.0,630
+Florida,Alachua,23956.0,Sq ft,12001.0,639
+Florida,Baker,nan,Sq ft,12003.0,641
+Florida,Bay,0.0,Sq ft,12005.0,658
+Florida,Bradford,0.0,Sq ft,12007.0,665
+Florida,Brevard,125000.0,Sq ft,12009.0,686
+Florida,Broward,nan,Sq ft,12011.0,695
+Florida,Calhoun,nan,Sq ft,12013.0,699
+Florida,Charlotte,0.0,Sq ft,12015.0,743
+Florida,Citrus,0.0,Sq ft,12017.0,843
+Florida,Clay,16875.0,Sq ft,12019.0,852
+Florida,Collier,nan,Sq ft,12021.0,894
+Florida,Columbia,14400.0,Sq ft,12023.0,903
+Florida,DeSoto,nan,Sq ft,12027.0,906
+Florida,Dixie,0.0,Sq ft,12029.0,918
+Florida,Duval,0.0,Sq ft,12031.0,924
+Florida,Escambia,0.0,Sq ft,12033.0,931
+Florida,Flagler,nan,Sq ft,12035.0,935
+Florida,Franklin,0.0,Sq ft,12037.0,937
+Florida,Gadsden,11328.0,Sq ft,12039.0,938
+Florida,Gilchrist,0.0,Sq ft,12041.0,939
+Florida,Glades,0.0,Sq ft,12043.0,940
+Florida,Gulf,0.0,Sq ft,12045.0,941
+Florida,Hamilton,0.0,Sq ft,12047.0,942
+Florida,Hardee,0.0,Sq ft,12049.0,943
+Florida,Hendry,0.0,Sq ft,12051.0,944
+Florida,Hernando,13090.0,Sq ft,12053.0,945
+Florida,Highlands,0.0,Sq ft,12055.0,946
+Florida,Hillsborough,356520.0,Sq ft,12057.0,947
+Florida,Holmes,21000.0,Sq ft,12059.0,948
+Florida,Indian River,10440.0,Sq ft,12061.0,949
+Florida,Jackson,0.0,Sq ft,12063.0,950
+Florida,Jefferson,nan,Sq ft,12065.0,951
+Florida,Lafayette,0.0,Sq ft,12067.0,952
+Florida,Lake,10184.0,Sq ft,12069.0,953
+Florida,Lee,13200.0,Sq ft,12071.0,954
+Florida,Leon,0.0,Sq ft,12073.0,955
+Florida,Levy,1800.0,Sq ft,12075.0,956
+Florida,Liberty,0.0,Sq ft,12077.0,957
+Florida,Madison,0.0,Sq ft,12079.0,958
+Florida,Manatee,86878.0,Sq ft,12081.0,959
+Florida,Marion,13414.0,Sq ft,12083.0,960
+Florida,Martin,nan,Sq ft,12085.0,961
+Florida,Miami-Dade,28000.0,Sq ft,12086.0,962
+Florida,Monroe,0.0,Sq ft,12087.0,963
+Florida,Nassau,0.0,Sq ft,12089.0,964
+Florida,Okaloosa,5340.0,Sq ft,12091.0,965
+Florida,Okeechobee,nan,Sq ft,12093.0,966
+Florida,Orange,21602.0,Sq ft,12095.0,967
+Florida,Osceola,nan,Sq ft,12097.0,968
+Florida,Palm Beach,258500.0,Sq ft,12099.0,969
+Florida,Pasco,13427.0,Sq ft,12101.0,970
+Florida,Pinellas,0.0,Sq ft,12103.0,971
+Florida,Polk,91542.0,Sq ft,12105.0,972
+Florida,Putnam,0.0,Sq ft,12107.0,973
+Florida,St. Johns,36920.0,Sq ft,12109.0,974
+Florida,St. Lucie,nan,Sq ft,12111.0,975
+Florida,Santa Rosa,11920.0,Sq ft,12113.0,976
+Florida,Sarasota,0.0,Sq ft,12115.0,977
+Florida,Seminole,nan,Sq ft,12117.0,978
+Florida,Sumter,nan,Sq ft,12119.0,979
+Florida,Suwannee,409300.0,Sq ft,12121.0,980
+Florida,Taylor,nan,Sq ft,12123.0,981
+Florida,Union,23400.0,Sq ft,12125.0,982
+Florida,Volusia,6880.0,Sq ft,12127.0,983
+Florida,Wakulla,1600.0,Sq ft,12129.0,984
+Florida,Walton,0.0,Sq ft,12131.0,985
+Florida,Washington,7260.0,Sq ft,12133.0,986
+Georgia,Appling,0.0,Sq ft,13001.0,987
+Georgia,Atkinson,0.0,Sq ft,13003.0,988
+Georgia,Bacon,0.0,Sq ft,13005.0,989
+Georgia,Baker,0.0,Sq ft,13007.0,990
+Georgia,Baldwin,0.0,Sq ft,13009.0,991
+Georgia,Banks,0.0,Sq ft,13011.0,992
+Georgia,Barrow,0.0,Sq ft,13013.0,993
+Georgia,Bartow,nan,Sq ft,13015.0,994
+Georgia,Ben Hill,0.0,Sq ft,13017.0,995
+Georgia,Berrien,0.0,Sq ft,13019.0,996
+Georgia,Bibb,0.0,Sq ft,13021.0,997
+Georgia,Bleckley,11736.0,Sq ft,13023.0,998
+Georgia,Brantley,nan,Sq ft,13025.0,999
+Georgia,Brooks,0.0,Sq ft,13027.0,565
+Georgia,Bryan,0.0,Sq ft,13029.0,573
+Georgia,Bulloch,nan,Sq ft,13031.0,579
+Georgia,Burke,nan,Sq ft,13033.0,583
+Georgia,Butts,0.0,Sq ft,13035.0,588
+Georgia,Calhoun,nan,Sq ft,13037.0,592
+Georgia,Camden,0.0,Sq ft,13039.0,603
+Georgia,Candler,0.0,Sq ft,13043.0,616
+Georgia,Carroll,nan,Sq ft,13045.0,620
+Georgia,Catoosa,0.0,Sq ft,13047.0,626
+Georgia,Charlton,0.0,Sq ft,13049.0,635
+Georgia,Chatham,nan,Sq ft,13051.0,646
+Georgia,Chattahoochee,0.0,Sq ft,13053.0,656
+Georgia,Chattooga,0.0,Sq ft,13055.0,659
+Georgia,Cherokee,nan,Sq ft,13057.0,662
+Georgia,Clarke,8640.0,Sq ft,13059.0,666
+Georgia,Clay,0.0,Sq ft,13061.0,670
+Georgia,Clayton,0.0,Sq ft,13063.0,673
+Georgia,Clinch,0.0,Sq ft,13065.0,676
+Georgia,Cobb,nan,Sq ft,13067.0,680
+Georgia,Coffee,0.0,Sq ft,13069.0,684
+Georgia,Colquitt,nan,Sq ft,13071.0,689
+Georgia,Columbia,0.0,Sq ft,13073.0,692
+Georgia,Cook,0.0,Sq ft,13075.0,697
+Georgia,Coweta,0.0,Sq ft,13077.0,700
+Georgia,Crawford,0.0,Sq ft,13079.0,704
+Georgia,Crisp,0.0,Sq ft,13081.0,707
+Georgia,Dade,0.0,Sq ft,13083.0,708
+Georgia,Dawson,0.0,Sq ft,13085.0,713
+Georgia,Decatur,0.0,Sq ft,13087.0,714
+Georgia,DeKalb,0.0,Sq ft,13089.0,718
+Georgia,Dodge,nan,Sq ft,13091.0,720
+Georgia,Dooly,0.0,Sq ft,13093.0,724
+Georgia,Dougherty,0.0,Sq ft,13095.0,728
+Georgia,Douglas,nan,Sq ft,13097.0,731
+Georgia,Early,0.0,Sq ft,13099.0,735
+Georgia,Echols,0.0,Sq ft,13101.0,737
+Georgia,Effingham,nan,Sq ft,13103.0,742
+Georgia,Elbert,nan,Sq ft,13105.0,746
+Georgia,Emanuel,nan,Sq ft,13107.0,750
+Georgia,Evans,0.0,Sq ft,13109.0,754
+Georgia,Fannin,0.0,Sq ft,13111.0,755
+Georgia,Fayette,0.0,Sq ft,13113.0,760
+Georgia,Floyd,17500.0,Sq ft,13115.0,764
+Georgia,Forsyth,22600.0,Sq ft,13117.0,768
+Georgia,Franklin,nan,Sq ft,13119.0,772
+Georgia,Fulton,nan,Sq ft,13121.0,779
+Georgia,Gilmer,0.0,Sq ft,13123.0,781
+Georgia,Glascock,0.0,Sq ft,13125.0,783
+Georgia,Glynn,nan,Sq ft,13127.0,793
+Georgia,Gordon,0.0,Sq ft,13129.0,796
+Georgia,Grady,nan,Sq ft,13131.0,797
+Georgia,Greene,0.0,Sq ft,13133.0,800
+Georgia,Gwinnett,3364.0,Sq ft,13135.0,804
+Georgia,Habersham,nan,Sq ft,13137.0,806
+Georgia,Hall,21456.0,Sq ft,13139.0,808
+Georgia,Hancock,nan,Sq ft,13141.0,810
+Georgia,Haralson,0.0,Sq ft,13143.0,813
+Georgia,Harris,4176.0,Sq ft,13145.0,814
+Georgia,Hart,48000.0,Sq ft,13147.0,816
+Georgia,Heard,nan,Sq ft,13149.0,817
+Georgia,Henry,29200.0,Sq ft,13151.0,820
+Georgia,Houston,nan,Sq ft,13153.0,823
+Georgia,Irwin,0.0,Sq ft,13155.0,825
+Georgia,Jackson,nan,Sq ft,13157.0,828
+Georgia,Jasper,0.0,Sq ft,13159.0,830
+Georgia,Jeff Davis,0.0,Sq ft,13161.0,832
+Georgia,Jefferson,nan,Sq ft,13163.0,834
+Georgia,Jenkins,0.0,Sq ft,13165.0,835
+Georgia,Johnson,0.0,Sq ft,13167.0,837
+Georgia,Jones,nan,Sq ft,13169.0,839
+Georgia,Lamar,0.0,Sq ft,13171.0,841
+Georgia,Lanier,0.0,Sq ft,13173.0,845
+Georgia,Laurens,nan,Sq ft,13175.0,847
+Georgia,Lee,0.0,Sq ft,13177.0,849
+Georgia,Liberty,0.0,Sq ft,13179.0,855
+Georgia,Lincoln,0.0,Sq ft,13181.0,857
+Georgia,Long,0.0,Sq ft,13183.0,860
+Georgia,Lowndes,0.0,Sq ft,13185.0,863
+Georgia,Lumpkin,2001.0,Sq ft,13187.0,865
+Georgia,McDuffie,0.0,Sq ft,13189.0,868
+Georgia,McIntosh,0.0,Sq ft,13191.0,871
+Georgia,Macon,nan,Sq ft,13193.0,874
+Georgia,Madison,53610.0,Sq ft,13195.0,875
+Georgia,Marion,0.0,Sq ft,13197.0,877
+Georgia,Meriwether,nan,Sq ft,13199.0,879
+Georgia,Miller,0.0,Sq ft,13201.0,881
+Georgia,Mitchell,0.0,Sq ft,13205.0,883
+Georgia,Monroe,0.0,Sq ft,13207.0,885
+Georgia,Montgomery,0.0,Sq ft,13209.0,887
+Georgia,Morgan,0.0,Sq ft,13211.0,890
+Georgia,Murray,0.0,Sq ft,13213.0,892
+Georgia,Muscogee,0.0,Sq ft,13215.0,896
+Georgia,Newton,nan,Sq ft,13217.0,899
+Georgia,Oconee,0.0,Sq ft,13219.0,901
+Georgia,Oglethorpe,nan,Sq ft,13221.0,905
+Georgia,Paulding,nan,Sq ft,13223.0,908
+Georgia,Peach,0.0,Sq ft,13225.0,910
+Georgia,Pickens,0.0,Sq ft,13227.0,912
+Georgia,Pierce,0.0,Sq ft,13229.0,915
+Georgia,Pike,nan,Sq ft,13231.0,7
+Georgia,Polk,0.0,Sq ft,13233.0,8
+Georgia,Pulaski,0.0,Sq ft,13235.0,11
+Georgia,Putnam,60.0,Sq ft,13237.0,13
+Georgia,Quitman,0.0,Sq ft,13239.0,16
+Georgia,Rabun,26210.0,Sq ft,13241.0,18
+Georgia,Randolph,0.0,Sq ft,13243.0,23
+Georgia,Richmond,nan,Sq ft,13245.0,24
+Georgia,Rockdale,0.0,Sq ft,13247.0,28
+Georgia,Schley,0.0,Sq ft,13249.0,31
+Georgia,Screven,0.0,Sq ft,13251.0,34
+Georgia,Seminole,0.0,Sq ft,13253.0,38
+Georgia,Spalding,1020.0,Sq ft,13255.0,41
+Georgia,Stephens,0.0,Sq ft,13257.0,45
+Georgia,Stewart,0.0,Sq ft,13259.0,48
+Georgia,Sumter,0.0,Sq ft,13261.0,52
+Georgia,Talbot,0.0,Sq ft,13263.0,57
+Georgia,Taliaferro,nan,Sq ft,13265.0,60
+Georgia,Tattnall,0.0,Sq ft,13267.0,63
+Georgia,Taylor,0.0,Sq ft,13269.0,69
+Georgia,Telfair,0.0,Sq ft,13271.0,75
+Georgia,Terrell,0.0,Sq ft,13273.0,78
+Georgia,Thomas,0.0,Sq ft,13275.0,83
+Georgia,Tift,0.0,Sq ft,13277.0,87
+Georgia,Toombs,0.0,Sq ft,13279.0,91
+Georgia,Towns,0.0,Sq ft,13281.0,95
+Georgia,Treutlen,0.0,Sq ft,13283.0,102
+Georgia,Troup,0.0,Sq ft,13285.0,105
+Georgia,Turner,0.0,Sq ft,13287.0,108
+Georgia,Twiggs,0.0,Sq ft,13289.0,116
+Georgia,Union,0.0,Sq ft,13291.0,120
+Georgia,Upson,0.0,Sq ft,13293.0,123
+Georgia,Walker,nan,Sq ft,13295.0,126
+Georgia,Walton,nan,Sq ft,13297.0,127
+Georgia,Ware,0.0,Sq ft,13299.0,132
+Georgia,Warren,0.0,Sq ft,13301.0,135
+Georgia,Washington,0.0,Sq ft,13303.0,143
+Georgia,Wayne,0.0,Sq ft,13305.0,147
+Georgia,Webster,0.0,Sq ft,13307.0,149
+Georgia,Wheeler,0.0,Sq ft,13309.0,154
+Georgia,White,0.0,Sq ft,13311.0,157
+Georgia,Whitfield,0.0,Sq ft,13313.0,159
+Georgia,Wilcox,0.0,Sq ft,13315.0,163
+Georgia,Wilkes,nan,Sq ft,13317.0,167
+Georgia,Wilkinson,0.0,Sq ft,13319.0,169
+Georgia,Worth,0.0,Sq ft,13321.0,173
+Hawaii,Hawaii,1316227.0,Sq ft,15001.0,198
+Hawaii,Honolulu,412012.0,Sq ft,15003.0,234
+Hawaii,Kalawao,nan,Sq ft,15005.0,247
+Hawaii,Kauai,nan,Sq ft,15007.0,261
+Hawaii,Maui,nan,Sq ft,15009.0,323
+Idaho,Ada,38970.0,Sq ft,16001.0,336
+Idaho,Adams,0.0,Sq ft,16003.0,338
+Idaho,Bannock,12081.0,Sq ft,16005.0,343
+Idaho,Bear Lake,0.0,Sq ft,16007.0,349
+Idaho,Benewah,0.0,Sq ft,16009.0,354
+Idaho,Bingham,31234.0,Sq ft,16011.0,362
+Idaho,Blaine,nan,Sq ft,16013.0,371
+Idaho,Boise,0.0,Sq ft,16015.0,380
+Idaho,Bonner,11015.0,Sq ft,16017.0,387
+Idaho,Bonneville,43208.0,Sq ft,16019.0,395
+Idaho,Boundary,8200.0,Sq ft,16021.0,405
+Idaho,Butte,nan,Sq ft,16023.0,414
+Idaho,Camas,nan,Sq ft,16025.0,429
+Idaho,Canyon,77463.0,Sq ft,16027.0,441
+Idaho,Caribou,0.0,Sq ft,16029.0,449
+Idaho,Cassia,0.0,Sq ft,16031.0,456
+Idaho,Clark,0.0,Sq ft,16033.0,464
+Idaho,Clearwater,0.0,Sq ft,16035.0,474
+Idaho,Custer,0.0,Sq ft,16037.0,484
+Idaho,Elmore,0.0,Sq ft,16039.0,490
+Idaho,Franklin,0.0,Sq ft,16041.0,498
+Idaho,Fremont,5761.0,Sq ft,16043.0,502
+Idaho,Gem,0.0,Sq ft,16045.0,510
+Idaho,Gooding,0.0,Sq ft,16047.0,519
+Idaho,Idaho,1152.0,Sq ft,16049.0,528
+Idaho,Jefferson,0.0,Sq ft,16051.0,540
+Idaho,Jerome,0.0,Sq ft,16053.0,547
+Idaho,Kootenai,nan,Sq ft,16055.0,552
+Idaho,Latah,3272.0,Sq ft,16057.0,559
+Idaho,Lemhi,7980.0,Sq ft,16059.0,566
+Idaho,Lewis,0.0,Sq ft,16061.0,574
+Idaho,Lincoln,0.0,Sq ft,16063.0,578
+Idaho,Madison,0.0,Sq ft,16065.0,581
+Idaho,Minidoka,0.0,Sq ft,16067.0,585
+Idaho,Nez Perce,nan,Sq ft,16069.0,589
+Idaho,Oneida,0.0,Sq ft,16071.0,593
+Idaho,Owyhee,nan,Sq ft,16073.0,601
+Idaho,Payette,0.0,Sq ft,16075.0,606
+Idaho,Power,0.0,Sq ft,16077.0,613
+Idaho,Shoshone,nan,Sq ft,16079.0,621
+Idaho,Teton,9176.0,Sq ft,16081.0,627
+Idaho,Twin Falls,nan,Sq ft,16083.0,634
+Idaho,Valley,nan,Sq ft,16085.0,643
+Idaho,Washington,0.0,Sq ft,16087.0,649
+Illinois,Adams,14442.0,Sq ft,17001.0,650
+Illinois,Alexander,0.0,Sq ft,17003.0,651
+Illinois,Bond,nan,Sq ft,17005.0,652
+Illinois,Boone,11818.0,Sq ft,17007.0,653
+Illinois,Brown,0.0,Sq ft,17009.0,654
+Illinois,Bureau,4080.0,Sq ft,17011.0,2
+Illinois,Calhoun,nan,Sq ft,17013.0,4
+Illinois,Carroll,nan,Sq ft,17015.0,6
+Illinois,Cass,0.0,Sq ft,17017.0,10
+Illinois,Champaign,nan,Sq ft,17019.0,12
+Illinois,Christian,0.0,Sq ft,17021.0,14
+Illinois,Clark,0.0,Sq ft,17023.0,19
+Illinois,Clay,0.0,Sq ft,17025.0,22
+Illinois,Clinton,0.0,Sq ft,17027.0,27
+Illinois,Coles,6800.0,Sq ft,17029.0,30
+Illinois,Cook,17511.0,Sq ft,17031.0,36
+Illinois,Crawford,nan,Sq ft,17033.0,40
+Illinois,Cumberland,0.0,Sq ft,17035.0,44
+Illinois,DeKalb,0.0,Sq ft,17037.0,49
+Illinois,De Witt,0.0,Sq ft,17039.0,53
+Illinois,Douglas,30480.0,Sq ft,17041.0,55
+Illinois,DuPage,34500.0,Sq ft,17043.0,64
+Illinois,Edgar,0.0,Sq ft,17045.0,66
+Illinois,Edwards,0.0,Sq ft,17047.0,71
+Illinois,Effingham,0.0,Sq ft,17049.0,76
+Illinois,Fayette,50303.0,Sq ft,17051.0,79
+Illinois,Ford,0.0,Sq ft,17053.0,81
+Illinois,Franklin,nan,Sq ft,17055.0,85
+Illinois,Fulton,4360.0,Sq ft,17057.0,89
+Illinois,Gallatin,0.0,Sq ft,17059.0,92
+Illinois,Greene,nan,Sq ft,17061.0,96
+Illinois,Grundy,0.0,Sq ft,17063.0,99
+Illinois,Hamilton,0.0,Sq ft,17065.0,106
+Illinois,Hancock,nan,Sq ft,17067.0,111
+Illinois,Hardin,0.0,Sq ft,17069.0,113
+Illinois,Henderson,0.0,Sq ft,17071.0,117
+Illinois,Henry,nan,Sq ft,17073.0,121
+Illinois,Iroquois,nan,Sq ft,17075.0,125
+Illinois,Jackson,41776.0,Sq ft,17077.0,129
+Illinois,Jasper,0.0,Sq ft,17079.0,133
+Illinois,Jefferson,nan,Sq ft,17081.0,137
+Illinois,Jersey,nan,Sq ft,17083.0,142
+Illinois,Jo Daviess,nan,Sq ft,17085.0,145
+Illinois,Johnson,6320.0,Sq ft,17087.0,152
+Illinois,Kane,20000.0,Sq ft,17089.0,156
+Illinois,Kankakee,nan,Sq ft,17091.0,161
+Illinois,Kendall,10960.0,Sq ft,17093.0,165
+Illinois,Knox,0.0,Sq ft,17095.0,166
+Illinois,Lake,20350.0,Sq ft,17097.0,170
+Illinois,LaSalle,nan,Sq ft,17099.0,175
+Illinois,Lawrence,0.0,Sq ft,17101.0,177
+Illinois,Lee,0.0,Sq ft,17103.0,180
+Illinois,Livingston,45040.0,Sq ft,17105.0,182
+Illinois,Logan,nan,Sq ft,17107.0,186
+Illinois,McDonough,11630.0,Sq ft,17109.0,189
+Illinois,McHenry,8816.0,Sq ft,17111.0,192
+Illinois,McLean,5140.0,Sq ft,17113.0,193
+Illinois,Macon,488.0,Sq ft,17115.0,194
+Illinois,Macoupin,0.0,Sq ft,17117.0,196
+Illinois,Madison,nan,Sq ft,17119.0,199
+Illinois,Marion,nan,Sq ft,17121.0,201
+Illinois,Marshall,0.0,Sq ft,17123.0,202
+Illinois,Mason,16608.0,Sq ft,17125.0,206
+Illinois,Massac,0.0,Sq ft,17127.0,208
+Illinois,Menard,0.0,Sq ft,17129.0,212
+Illinois,Mercer,0.0,Sq ft,17131.0,216
+Illinois,Monroe,nan,Sq ft,17133.0,219
+Illinois,Montgomery,0.0,Sq ft,17135.0,223
+Illinois,Morgan,nan,Sq ft,17137.0,225
+Illinois,Moultrie,100800.0,Sq ft,17139.0,227
+Illinois,Ogle,nan,Sq ft,17141.0,229
+Illinois,Peoria,0.0,Sq ft,17143.0,233
+Illinois,Perry,nan,Sq ft,17145.0,235
+Illinois,Piatt,0.0,Sq ft,17147.0,238
+Illinois,Pike,0.0,Sq ft,17149.0,241
+Illinois,Pope,nan,Sq ft,17151.0,245
+Illinois,Pulaski,0.0,Sq ft,17153.0,248
+Illinois,Putnam,0.0,Sq ft,17155.0,253
+Illinois,Randolph,0.0,Sq ft,17157.0,255
+Illinois,Richland,9028.0,Sq ft,17159.0,259
+Illinois,Rock Island,0.0,Sq ft,17161.0,265
+Illinois,St. Clair,0.0,Sq ft,17163.0,269
+Illinois,Saline,0.0,Sq ft,17165.0,271
+Illinois,Sangamon,nan,Sq ft,17167.0,274
+Illinois,Schuyler,0.0,Sq ft,17169.0,278
+Illinois,Scott,0.0,Sq ft,17171.0,280
+Illinois,Shelby,0.0,Sq ft,17173.0,283
+Illinois,Stark,0.0,Sq ft,17175.0,285
+Illinois,Stephenson,nan,Sq ft,17177.0,290
+Illinois,Tazewell,0.0,Sq ft,17179.0,291
+Illinois,Union,19242.0,Sq ft,17181.0,293
+Illinois,Vermilion,0.0,Sq ft,17183.0,296
+Illinois,Wabash,0.0,Sq ft,17185.0,299
+Illinois,Warren,0.0,Sq ft,17187.0,301
+Illinois,Washington,nan,Sq ft,17189.0,305
+Illinois,Wayne,0.0,Sq ft,17191.0,310
+Illinois,White,nan,Sq ft,17193.0,312
+Illinois,Whiteside,nan,Sq ft,17195.0,314
+Illinois,Will,nan,Sq ft,17197.0,320
+Illinois,Williamson,nan,Sq ft,17199.0,324
+Illinois,Winnebago,11120.0,Sq ft,17201.0,325
+Illinois,Woodford,15180.0,Sq ft,17203.0,328
+Indiana,Adams,131732.0,Sq ft,18001.0,330
+Indiana,Allen,nan,Sq ft,18003.0,335
+Indiana,Bartholomew,0.0,Sq ft,18005.0,342
+Indiana,Benton,0.0,Sq ft,18007.0,179
+Indiana,Blackford,0.0,Sq ft,18009.0,183
+Indiana,Boone,nan,Sq ft,18011.0,185
+Indiana,Brown,nan,Sq ft,18013.0,188
+Indiana,Carroll,14736.0,Sq ft,18015.0,195
+Indiana,Cass,nan,Sq ft,18017.0,211
+Indiana,Clark,nan,Sq ft,18019.0,215
+Indiana,Clay,0.0,Sq ft,18021.0,221
+Indiana,Clinton,nan,Sq ft,18023.0,226
+Indiana,Crawford,nan,Sq ft,18025.0,232
+Indiana,Daviess,58309.0,Sq ft,18027.0,239
+Indiana,Dearborn,nan,Sq ft,18029.0,242
+Indiana,Decatur,nan,Sq ft,18031.0,246
+Indiana,DeKalb,0.0,Sq ft,18033.0,249
+Indiana,Delaware,nan,Sq ft,18035.0,252
+Indiana,Dubois,0.0,Sq ft,18037.0,254
+Indiana,Elkhart,90820.0,Sq ft,18039.0,260
+Indiana,Fayette,nan,Sq ft,18041.0,263
+Indiana,Floyd,0.0,Sq ft,18043.0,267
+Indiana,Fountain,nan,Sq ft,18045.0,270
+Indiana,Franklin,nan,Sq ft,18047.0,272
+Indiana,Fulton,nan,Sq ft,18049.0,276
+Indiana,Gibson,0.0,Sq ft,18051.0,286
+Indiana,Grant,nan,Sq ft,18053.0,297
+Indiana,Greene,0.0,Sq ft,18055.0,309
+Indiana,Hamilton,3586.0,Sq ft,18057.0,321
+Indiana,Hancock,nan,Sq ft,18059.0,329
+Indiana,Harrison,6000.0,Sq ft,18061.0,334
+Indiana,Hendricks,24552.0,Sq ft,18063.0,341
+Indiana,Henry,nan,Sq ft,18065.0,344
+Indiana,Howard,0.0,Sq ft,18067.0,348
+Indiana,Huntington,0.0,Sq ft,18069.0,352
+Indiana,Jackson,nan,Sq ft,18071.0,355
+Indiana,Jasper,nan,Sq ft,18073.0,356
+Indiana,Jay,0.0,Sq ft,18075.0,358
+Indiana,Jefferson,16320.0,Sq ft,18077.0,363
+Indiana,Jennings,6400.0,Sq ft,18079.0,367
+Indiana,Johnson,nan,Sq ft,18081.0,370
+Indiana,Knox,nan,Sq ft,18083.0,376
+Indiana,Kosciusko,0.0,Sq ft,18085.0,384
+Indiana,LaGrange,106680.0,Sq ft,18087.0,386
+Indiana,Lake,nan,Sq ft,18089.0,389
+Indiana,LaPorte,nan,Sq ft,18091.0,392
+Indiana,Lawrence,0.0,Sq ft,18093.0,396
+Indiana,Madison,0.0,Sq ft,18095.0,401
+Indiana,Marion,50738.0,Sq ft,18097.0,409
+Indiana,Marshall,20944.0,Sq ft,18099.0,412
+Indiana,Martin,0.0,Sq ft,18101.0,418
+Indiana,Miami,0.0,Sq ft,18103.0,420
+Indiana,Monroe,7533.0,Sq ft,18105.0,422
+Indiana,Montgomery,nan,Sq ft,18107.0,425
+Indiana,Morgan,nan,Sq ft,18109.0,430
+Indiana,Newton,0.0,Sq ft,18111.0,433
+Indiana,Noble,nan,Sq ft,18113.0,436
+Indiana,Ohio,0.0,Sq ft,18115.0,440
+Indiana,Orange,0.0,Sq ft,18117.0,444
+Indiana,Owen,9020.0,Sq ft,18119.0,448
+Indiana,Parke,52264.0,Sq ft,18121.0,452
+Indiana,Perry,0.0,Sq ft,18123.0,459
+Indiana,Pike,0.0,Sq ft,18125.0,465
+Indiana,Porter,nan,Sq ft,18127.0,468
+Indiana,Posey,nan,Sq ft,18129.0,471
+Indiana,Pulaski,0.0,Sq ft,18131.0,477
+Indiana,Putnam,nan,Sq ft,18133.0,480
+Indiana,Randolph,0.0,Sq ft,18135.0,485
+Indiana,Ripley,0.0,Sq ft,18137.0,488
+Indiana,Rush,nan,Sq ft,18139.0,493
+Indiana,St. Joseph,nan,Sq ft,18141.0,496
+Indiana,Scott,0.0,Sq ft,18143.0,504
+Indiana,Shelby,0.0,Sq ft,18145.0,506
+Indiana,Spencer,nan,Sq ft,18147.0,509
+Indiana,Starke,0.0,Sq ft,18149.0,512
+Indiana,Steuben,0.0,Sq ft,18151.0,515
+Indiana,Sullivan,0.0,Sq ft,18153.0,518
+Indiana,Switzerland,0.0,Sq ft,18155.0,526
+Indiana,Tippecanoe,1100.0,Sq ft,18157.0,530
+Indiana,Tipton,0.0,Sq ft,18159.0,534
+Indiana,Union,0.0,Sq ft,18161.0,538
+Indiana,Vanderburgh,nan,Sq ft,18163.0,543
+Indiana,Vermillion,0.0,Sq ft,18165.0,548
+Indiana,Vigo,3820.0,Sq ft,18167.0,553
+Indiana,Wabash,nan,Sq ft,18169.0,555
+Indiana,Warren,0.0,Sq ft,18171.0,567
+Indiana,Warrick,nan,Sq ft,18173.0,575
+Indiana,Washington,46440.0,Sq ft,18175.0,584
+Indiana,Wayne,45134.0,Sq ft,18177.0,586
+Indiana,Wells,nan,Sq ft,18179.0,590
+Indiana,White,0.0,Sq ft,18181.0,594
+Indiana,Whitley,0.0,Sq ft,18183.0,597
+Iowa,Adair,nan,Sq ft,19001.0,598
+Iowa,Adams,0.0,Sq ft,19003.0,602
+Iowa,Allamakee,nan,Sq ft,19005.0,608
+Iowa,Appanoose,0.0,Sq ft,19007.0,611
+Iowa,Audubon,0.0,Sq ft,19009.0,615
+Iowa,Benton,9416.0,Sq ft,19011.0,619
+Iowa,Black Hawk,19364.0,Sq ft,19013.0,623
+Iowa,Boone,17140.0,Sq ft,19015.0,625
+Iowa,Bremer,nan,Sq ft,19017.0,631
+Iowa,Buchanan,8760.0,Sq ft,19019.0,632
+Iowa,Buena Vista,0.0,Sq ft,19021.0,633
+Iowa,Butler,nan,Sq ft,19023.0,361
+Iowa,Calhoun,0.0,Sq ft,19025.0,365
+Iowa,Carroll,nan,Sq ft,19027.0,369
+Iowa,Cass,nan,Sq ft,19029.0,374
+Iowa,Cedar,0.0,Sq ft,19031.0,379
+Iowa,Cerro Gordo,0.0,Sq ft,19033.0,383
+Iowa,Cherokee,nan,Sq ft,19035.0,388
+Iowa,Chickasaw,77008.0,Sq ft,19037.0,393
+Iowa,Clarke,0.0,Sq ft,19039.0,397
+Iowa,Clay,0.0,Sq ft,19041.0,398
+Iowa,Clayton,nan,Sq ft,19043.0,402
+Iowa,Clinton,0.0,Sq ft,19045.0,404
+Iowa,Crawford,nan,Sq ft,19047.0,408
+Iowa,Dallas,nan,Sq ft,19049.0,413
+Iowa,Davis,105918.0,Sq ft,19051.0,416
+Iowa,Decatur,nan,Sq ft,19053.0,419
+Iowa,Delaware,nan,Sq ft,19055.0,421
+Iowa,Des Moines,6720.0,Sq ft,19057.0,424
+Iowa,Dickinson,0.0,Sq ft,19059.0,427
+Iowa,Dubuque,0.0,Sq ft,19061.0,434
+Iowa,Emmet,0.0,Sq ft,19063.0,437
+Iowa,Fayette,17568.0,Sq ft,19065.0,442
+Iowa,Floyd,57973.0,Sq ft,19067.0,447
+Iowa,Franklin,0.0,Sq ft,19069.0,451
+Iowa,Fremont,nan,Sq ft,19071.0,455
+Iowa,Greene,0.0,Sq ft,19073.0,458
+Iowa,Grundy,10560.0,Sq ft,19075.0,460
+Iowa,Guthrie,0.0,Sq ft,19077.0,467
+Iowa,Hamilton,8760.0,Sq ft,19079.0,469
+Iowa,Hancock,nan,Sq ft,19081.0,470
+Iowa,Hardin,nan,Sq ft,19083.0,475
+Iowa,Harrison,0.0,Sq ft,19085.0,478
+Iowa,Henry,nan,Sq ft,19087.0,479
+Iowa,Howard,37430.0,Sq ft,19089.0,481
+Iowa,Humboldt,0.0,Sq ft,19091.0,487
+Iowa,Ida,0.0,Sq ft,19093.0,491
+Iowa,Iowa,0.0,Sq ft,19095.0,495
+Iowa,Jackson,6108.0,Sq ft,19097.0,499
+Iowa,Jasper,0.0,Sq ft,19099.0,505
+Iowa,Jefferson,17680.0,Sq ft,19101.0,507
+Iowa,Johnson,38430.0,Sq ft,19103.0,508
+Iowa,Jones,nan,Sq ft,19105.0,516
+Iowa,Keokuk,nan,Sq ft,19107.0,520
+Iowa,Kossuth,17370.0,Sq ft,19109.0,523
+Iowa,Lee,0.0,Sq ft,19111.0,531
+Iowa,Linn,25192.0,Sq ft,19113.0,535
+Iowa,Louisa,0.0,Sq ft,19115.0,539
+Iowa,Lucas,nan,Sq ft,19117.0,542
+Iowa,Lyon,nan,Sq ft,19119.0,546
+Iowa,Madison,6360.0,Sq ft,19121.0,550
+Iowa,Mahaska,nan,Sq ft,19123.0,554
+Iowa,Marion,7656.0,Sq ft,19125.0,561
+Iowa,Marshall,nan,Sq ft,19127.0,568
+Iowa,Mills,0.0,Sq ft,19129.0,569
+Iowa,Mitchell,35224.0,Sq ft,19131.0,572
+Iowa,Monona,nan,Sq ft,19133.0,576
+Iowa,Monroe,0.0,Sq ft,19135.0,580
+Iowa,Montgomery,0.0,Sq ft,19137.0,595
+Iowa,Muscatine,0.0,Sq ft,19139.0,600
+Iowa,O'Brien,nan,Sq ft,19141.0,604
+Iowa,Osceola,0.0,Sq ft,19143.0,607
+Iowa,Page,nan,Sq ft,19145.0,612
+Iowa,Palo Alto,nan,Sq ft,19147.0,618
+Iowa,Plymouth,nan,Sq ft,19149.0,622
+Iowa,Pocahontas,0.0,Sq ft,19151.0,624
+Iowa,Polk,2060.0,Sq ft,19153.0,629
+Iowa,Pottawattamie,nan,Sq ft,19155.0,637
+Iowa,Poweshiek,nan,Sq ft,19157.0,640
+Iowa,Ringgold,nan,Sq ft,19159.0,642
+Iowa,Sac,nan,Sq ft,19161.0,647
+Iowa,Scott,nan,Sq ft,19163.0,657
+Iowa,Shelby,nan,Sq ft,19165.0,660
+Iowa,Sioux,17480.0,Sq ft,19167.0,663
+Iowa,Story,14000.0,Sq ft,19169.0,668
+Iowa,Tama,0.0,Sq ft,19171.0,671
+Iowa,Taylor,0.0,Sq ft,19173.0,674
+Iowa,Union,nan,Sq ft,19175.0,675
+Iowa,Van Buren,11400.0,Sq ft,19177.0,678
+Iowa,Wapello,0.0,Sq ft,19179.0,681
+Iowa,Warren,nan,Sq ft,19181.0,685
+Iowa,Washington,7500.0,Sq ft,19183.0,687
+Iowa,Wayne,nan,Sq ft,19185.0,691
+Iowa,Webster,0.0,Sq ft,19187.0,694
+Iowa,Winnebago,nan,Sq ft,19189.0,696
+Iowa,Winneshiek,18407.0,Sq ft,19191.0,698
+Iowa,Woodbury,nan,Sq ft,19193.0,702
+Iowa,Worth,nan,Sq ft,19195.0,703
+Iowa,Wright,0.0,Sq ft,19197.0,705
+Kansas,Allen,nan,Sq ft,20001.0,709
+Kansas,Anderson,nan,Sq ft,20003.0,712
+Kansas,Atchison,nan,Sq ft,20005.0,715
+Kansas,Barber,0.0,Sq ft,20007.0,717
+Kansas,Barton,0.0,Sq ft,20009.0,719
+Kansas,Bourbon,0.0,Sq ft,20011.0,722
+Kansas,Brown,0.0,Sq ft,20013.0,723
+Kansas,Butler,5225.0,Sq ft,20015.0,726
+Kansas,Chase,1360.0,Sq ft,20017.0,729
+Kansas,Chautauqua,0.0,Sq ft,20019.0,730
+Kansas,Cherokee,0.0,Sq ft,20021.0,732
+Kansas,Cheyenne,0.0,Sq ft,20023.0,736
+Kansas,Clark,0.0,Sq ft,20025.0,738
+Kansas,Clay,0.0,Sq ft,20027.0,739
+Kansas,Cloud,11334.0,Sq ft,20029.0,740
+Kansas,Coffey,0.0,Sq ft,20031.0,745
+Kansas,Comanche,0.0,Sq ft,20033.0,748
+Kansas,Cowley,0.0,Sq ft,20035.0,752
+Kansas,Crawford,0.0,Sq ft,20037.0,756
+Kansas,Decatur,0.0,Sq ft,20039.0,759
+Kansas,Dickinson,0.0,Sq ft,20041.0,762
+Kansas,Doniphan,nan,Sq ft,20043.0,765
+Kansas,Douglas,28100.0,Sq ft,20045.0,767
+Kansas,Edwards,0.0,Sq ft,20047.0,770
+Kansas,Elk,0.0,Sq ft,20049.0,773
+Kansas,Ellis,0.0,Sq ft,20051.0,774
+Kansas,Ellsworth,nan,Sq ft,20053.0,776
+Kansas,Finney,nan,Sq ft,20055.0,778
+Kansas,Ford,0.0,Sq ft,20057.0,784
+Kansas,Franklin,0.0,Sq ft,20059.0,786
+Kansas,Geary,0.0,Sq ft,20061.0,788
+Kansas,Gove,0.0,Sq ft,20063.0,790
+Kansas,Graham,0.0,Sq ft,20065.0,791
+Kansas,Grant,0.0,Sq ft,20067.0,794
+Kansas,Gray,0.0,Sq ft,20069.0,798
+Kansas,Greeley,0.0,Sq ft,20071.0,801
+Kansas,Greenwood,nan,Sq ft,20073.0,803
+Kansas,Hamilton,0.0,Sq ft,20075.0,805
+Kansas,Harper,1532.0,Sq ft,20077.0,807
+Kansas,Harvey,nan,Sq ft,20079.0,812
+Kansas,Haskell,0.0,Sq ft,20081.0,815
+Kansas,Hodgeman,0.0,Sq ft,20083.0,818
+Kansas,Jackson,nan,Sq ft,20085.0,819
+Kansas,Jefferson,nan,Sq ft,20087.0,821
+Kansas,Jewell,0.0,Sq ft,20089.0,822
+Kansas,Johnson,nan,Sq ft,20091.0,824
+Kansas,Kearny,0.0,Sq ft,20093.0,826
+Kansas,Kingman,0.0,Sq ft,20095.0,827
+Kansas,Kiowa,nan,Sq ft,20097.0,829
+Kansas,Labette,8932.0,Sq ft,20099.0,831
+Kansas,Lane,0.0,Sq ft,20101.0,833
+Kansas,Leavenworth,30360.0,Sq ft,20103.0,836
+Kansas,Lincoln,0.0,Sq ft,20105.0,838
+Kansas,Linn,0.0,Sq ft,20107.0,840
+Kansas,Logan,nan,Sq ft,20109.0,842
+Kansas,Lyon,nan,Sq ft,20111.0,844
+Kansas,McPherson,nan,Sq ft,20113.0,846
+Kansas,Marion,0.0,Sq ft,20115.0,848
+Kansas,Marshall,nan,Sq ft,20117.0,850
+Kansas,Meade,nan,Sq ft,20119.0,851
+Kansas,Miami,nan,Sq ft,20121.0,853
+Kansas,Mitchell,0.0,Sq ft,20123.0,854
+Kansas,Montgomery,4896.0,Sq ft,20125.0,856
+Kansas,Morris,0.0,Sq ft,20127.0,858
+Kansas,Morton,0.0,Sq ft,20129.0,859
+Kansas,Nemaha,0.0,Sq ft,20131.0,861
+Kansas,Neosho,nan,Sq ft,20133.0,862
+Kansas,Ness,0.0,Sq ft,20135.0,864
+Kansas,Norton,0.0,Sq ft,20137.0,866
+Kansas,Osage,0.0,Sq ft,20139.0,867
+Kansas,Osborne,0.0,Sq ft,20141.0,869
+Kansas,Ottawa,0.0,Sq ft,20143.0,870
+Kansas,Pawnee,0.0,Sq ft,20145.0,872
+Kansas,Phillips,0.0,Sq ft,20147.0,873
+Kansas,Pottawatomie,nan,Sq ft,20149.0,876
+Kansas,Pratt,0.0,Sq ft,20151.0,878
+Kansas,Rawlins,0.0,Sq ft,20153.0,880
+Kansas,Reno,33600.0,Sq ft,20155.0,882
+Kansas,Republic,nan,Sq ft,20157.0,884
+Kansas,Rice,0.0,Sq ft,20159.0,886
+Kansas,Riley,0.0,Sq ft,20161.0,888
+Kansas,Rooks,0.0,Sq ft,20163.0,889
+Kansas,Rush,0.0,Sq ft,20165.0,891
+Kansas,Russell,0.0,Sq ft,20167.0,893
+Kansas,Saline,0.0,Sq ft,20169.0,895
+Kansas,Scott,0.0,Sq ft,20171.0,897
+Kansas,Sedgwick,14160.0,Sq ft,20173.0,898
+Kansas,Seward,0.0,Sq ft,20175.0,900
+Kansas,Shawnee,nan,Sq ft,20177.0,902
+Kansas,Sheridan,0.0,Sq ft,20179.0,904
+Kansas,Sherman,0.0,Sq ft,20181.0,907
+Kansas,Smith,0.0,Sq ft,20183.0,909
+Kansas,Stafford,nan,Sq ft,20185.0,911
+Kansas,Stanton,0.0,Sq ft,20187.0,913
+Kansas,Stevens,0.0,Sq ft,20189.0,914
+Kansas,Sumner,0.0,Sq ft,20191.0,916
+Kansas,Thomas,nan,Sq ft,20193.0,917
+Kansas,Trego,0.0,Sq ft,20195.0,919
+Kansas,Wabaunsee,0.0,Sq ft,20197.0,920
+Kansas,Wallace,0.0,Sq ft,20199.0,921
+Kansas,Washington,11200.0,Sq ft,20201.0,922
+Kansas,Wichita,0.0,Sq ft,20203.0,923
+Kansas,Wilson,0.0,Sq ft,20205.0,925
+Kansas,Woodson,0.0,Sq ft,20207.0,926
+Kansas,Wyandotte,nan,Sq ft,20209.0,927
+Kentucky,Adair,16896.0,Sq ft,21001.0,928
+Kentucky,Allen,70080.0,Sq ft,21003.0,929
+Kentucky,Anderson,nan,Sq ft,21005.0,930
+Kentucky,Ballard,0.0,Sq ft,21007.0,932
+Kentucky,Barren,nan,Sq ft,21009.0,933
+Kentucky,Bath,nan,Sq ft,21011.0,934
+Kentucky,Bell,0.0,Sq ft,21013.0,936
+Kentucky,Boone,2400.0,Sq ft,21015.0,1002
+Kentucky,Bourbon,9325.0,Sq ft,21017.0,1005
+Kentucky,Boyd,nan,Sq ft,21019.0,1008
+Kentucky,Boyle,8000.0,Sq ft,21021.0,1010
+Kentucky,Bracken,0.0,Sq ft,21023.0,1013
+Kentucky,Breathitt,0.0,Sq ft,21025.0,1017
+Kentucky,Breckinridge,3852.0,Sq ft,21027.0,1020
+Kentucky,Bullitt,0.0,Sq ft,21029.0,1024
+Kentucky,Butler,nan,Sq ft,21031.0,1026
+Kentucky,Caldwell,0.0,Sq ft,21033.0,1031
+Kentucky,Calloway,0.0,Sq ft,21035.0,1033
+Kentucky,Campbell,42600.0,Sq ft,21037.0,1035
+Kentucky,Carlisle,0.0,Sq ft,21039.0,1039
+Kentucky,Carroll,nan,Sq ft,21041.0,1041
+Kentucky,Carter,nan,Sq ft,21043.0,1044
+Kentucky,Casey,33146.0,Sq ft,21045.0,1048
+Kentucky,Christian,70620.0,Sq ft,21047.0,1050
+Kentucky,Clark,0.0,Sq ft,21049.0,1053
+Kentucky,Clay,nan,Sq ft,21051.0,1056
+Kentucky,Clinton,0.0,Sq ft,21053.0,1059
+Kentucky,Crittenden,21976.0,Sq ft,21055.0,1064
+Kentucky,Cumberland,0.0,Sq ft,21057.0,1067
+Kentucky,Daviess,nan,Sq ft,21059.0,1071
+Kentucky,Edmonson,0.0,Sq ft,21061.0,1073
+Kentucky,Elliott,0.0,Sq ft,21063.0,1075
+Kentucky,Estill,0.0,Sq ft,21065.0,1077
+Kentucky,Fayette,3075.0,Sq ft,21067.0,1080
+Kentucky,Fleming,0.0,Sq ft,21069.0,1083
+Kentucky,Floyd,0.0,Sq ft,21071.0,1085
+Kentucky,Franklin,0.0,Sq ft,21073.0,1086
+Kentucky,Fulton,0.0,Sq ft,21075.0,1088
+Kentucky,Gallatin,0.0,Sq ft,21077.0,1090
+Kentucky,Garrard,0.0,Sq ft,21079.0,1092
+Kentucky,Grant,3756.0,Sq ft,21081.0,1094
+Kentucky,Graves,nan,Sq ft,21083.0,1097
+Kentucky,Grayson,48080.0,Sq ft,21085.0,1100
+Kentucky,Green,nan,Sq ft,21087.0,1102
+Kentucky,Greenup,nan,Sq ft,21089.0,1105
+Kentucky,Hancock,nan,Sq ft,21091.0,1107
+Kentucky,Hardin,nan,Sq ft,21093.0,1110
+Kentucky,Harlan,0.0,Sq ft,21095.0,1114
+Kentucky,Harrison,nan,Sq ft,21097.0,1119
+Kentucky,Hart,13600.0,Sq ft,21099.0,1121
+Kentucky,Henderson,nan,Sq ft,21101.0,1126
+Kentucky,Henry,nan,Sq ft,21103.0,1129
+Kentucky,Hickman,0.0,Sq ft,21105.0,1130
+Kentucky,Hopkins,nan,Sq ft,21107.0,1136
+Kentucky,Jackson,0.0,Sq ft,21109.0,1140
+Kentucky,Jefferson,nan,Sq ft,21111.0,1143
+Kentucky,Jessamine,1629.0,Sq ft,21113.0,1145
+Kentucky,Johnson,0.0,Sq ft,21115.0,1148
+Kentucky,Kenton,0.0,Sq ft,21117.0,1151
+Kentucky,Knott,0.0,Sq ft,21119.0,1154
+Kentucky,Knox,0.0,Sq ft,21121.0,1159
+Kentucky,Larue,0.0,Sq ft,21123.0,1162
+Kentucky,Laurel,22460.0,Sq ft,21125.0,1166
+Kentucky,Lawrence,0.0,Sq ft,21127.0,1167
+Kentucky,Lee,nan,Sq ft,21129.0,1171
+Kentucky,Leslie,0.0,Sq ft,21131.0,1175
+Kentucky,Letcher,0.0,Sq ft,21133.0,1178
+Kentucky,Lewis,0.0,Sq ft,21135.0,1180
+Kentucky,Lincoln,40828.0,Sq ft,21137.0,1184
+Kentucky,Livingston,0.0,Sq ft,21139.0,1187
+Kentucky,Logan,42920.0,Sq ft,21141.0,1190
+Kentucky,Lyon,nan,Sq ft,21143.0,1193
+Kentucky,McCracken,0.0,Sq ft,21145.0,1196
+Kentucky,McCreary,0.0,Sq ft,21147.0,1198
+Kentucky,McLean,nan,Sq ft,21149.0,1201
+Kentucky,Madison,43800.0,Sq ft,21151.0,1204
+Kentucky,Magoffin,0.0,Sq ft,21153.0,1206
+Kentucky,Marion,nan,Sq ft,21155.0,1210
+Kentucky,Marshall,0.0,Sq ft,21157.0,1213
+Kentucky,Martin,0.0,Sq ft,21159.0,1215
+Kentucky,Mason,0.0,Sq ft,21161.0,1217
+Kentucky,Meade,0.0,Sq ft,21163.0,1220
+Kentucky,Menifee,0.0,Sq ft,21165.0,1222
+Kentucky,Mercer,8612.0,Sq ft,21167.0,1225
+Kentucky,Metcalfe,nan,Sq ft,21169.0,1228
+Kentucky,Monroe,15840.0,Sq ft,21171.0,1230
+Kentucky,Montgomery,nan,Sq ft,21173.0,1233
+Kentucky,Morgan,nan,Sq ft,21175.0,1235
+Kentucky,Muhlenberg,0.0,Sq ft,21177.0,1238
+Kentucky,Nelson,nan,Sq ft,21179.0,1243
+Kentucky,Nicholas,0.0,Sq ft,21181.0,1246
+Kentucky,Ohio,nan,Sq ft,21183.0,1249
+Kentucky,Oldham,6480.0,Sq ft,21185.0,1252
+Kentucky,Owen,nan,Sq ft,21187.0,1255
+Kentucky,Owsley,nan,Sq ft,21189.0,1257
+Kentucky,Pendleton,nan,Sq ft,21191.0,1260
+Kentucky,Perry,0.0,Sq ft,21193.0,1265
+Kentucky,Pike,0.0,Sq ft,21195.0,1267
+Kentucky,Powell,0.0,Sq ft,21197.0,1270
+Kentucky,Pulaski,nan,Sq ft,21199.0,1272
+Kentucky,Robertson,0.0,Sq ft,21201.0,1273
+Kentucky,Rockcastle,0.0,Sq ft,21203.0,1276
+Kentucky,Rowan,564.0,Sq ft,21205.0,1279
+Kentucky,Russell,nan,Sq ft,21207.0,1282
+Kentucky,Scott,0.0,Sq ft,21209.0,1283
+Kentucky,Shelby,11857.0,Sq ft,21211.0,1285
+Kentucky,Simpson,nan,Sq ft,21213.0,1287
+Kentucky,Spencer,nan,Sq ft,21215.0,1000
+Kentucky,Taylor,nan,Sq ft,21217.0,1003
+Kentucky,Todd,160862.0,Sq ft,21219.0,1006
+Kentucky,Trigg,nan,Sq ft,21221.0,1009
+Kentucky,Trimble,nan,Sq ft,21223.0,1012
+Kentucky,Union,0.0,Sq ft,21225.0,1016
+Kentucky,Warren,nan,Sq ft,21227.0,1019
+Kentucky,Washington,5350.0,Sq ft,21229.0,1023
+Kentucky,Wayne,nan,Sq ft,21231.0,1027
+Kentucky,Webster,0.0,Sq ft,21233.0,1029
+Kentucky,Whitley,nan,Sq ft,21235.0,1034
+Kentucky,Wolfe,nan,Sq ft,21237.0,1037
+Kentucky,Woodford,nan,Sq ft,21239.0,1042
+Louisiana,Acadia,0.0,Sq ft,22001.0,1046
+Louisiana,Allen,0.0,Sq ft,22003.0,1051
+Louisiana,Ascension,0.0,Sq ft,22005.0,1055
+Louisiana,Assumption,0.0,Sq ft,22007.0,1060
+Louisiana,Avoyelles,0.0,Sq ft,22009.0,1062
+Louisiana,Beauregard,nan,Sq ft,22011.0,1066
+Louisiana,Bienville,0.0,Sq ft,22013.0,1069
+Louisiana,Bossier,nan,Sq ft,22015.0,1076
+Louisiana,Caddo,600.0,Sq ft,22017.0,1079
+Louisiana,Calcasieu,0.0,Sq ft,22019.0,1081
+Louisiana,Caldwell,0.0,Sq ft,22021.0,1084
+Louisiana,Cameron,0.0,Sq ft,22023.0,1089
+Louisiana,Catahoula,0.0,Sq ft,22025.0,1093
+Louisiana,Claiborne,0.0,Sq ft,22027.0,1095
+Louisiana,Concordia,0.0,Sq ft,22029.0,1098
+Louisiana,De Soto,0.0,Sq ft,22031.0,1103
+Louisiana,East Baton Rouge,0.0,Sq ft,22033.0,1108
+Louisiana,East Carroll,0.0,Sq ft,22035.0,1111
+Louisiana,East Feliciana,310.0,Sq ft,22037.0,1115
+Louisiana,Evangeline,nan,Sq ft,22039.0,1118
+Louisiana,Franklin,0.0,Sq ft,22041.0,1123
+Louisiana,Grant,0.0,Sq ft,22043.0,1127
+Louisiana,Iberia,nan,Sq ft,22045.0,1133
+Louisiana,Iberville,0.0,Sq ft,22047.0,1134
+Louisiana,Jackson,0.0,Sq ft,22049.0,1138
+Louisiana,Jefferson,0.0,Sq ft,22051.0,1147
+Louisiana,Jefferson Davis,0.0,Sq ft,22053.0,1155
+Louisiana,Lafayette,0.0,Sq ft,22055.0,1161
+Louisiana,Lafourche,64950.0,Sq ft,22057.0,1280
+Louisiana,La Salle,0.0,Sq ft,22059.0,1289
+Louisiana,Lincoln,nan,Sq ft,22061.0,1291
+Louisiana,Livingston,nan,Sq ft,22063.0,1295
+Louisiana,Madison,0.0,Sq ft,22065.0,1297
+Louisiana,Morehouse,0.0,Sq ft,22067.0,1299
+Louisiana,Natchitoches,0.0,Sq ft,22069.0,1301
+Louisiana,Orleans,5000.0,Sq ft,22071.0,1304
+Louisiana,Ouachita,0.0,Sq ft,22073.0,1306
+Louisiana,Plaquemines,nan,Sq ft,22075.0,1427
+Louisiana,Pointe Coupee,nan,Sq ft,22077.0,1431
+Louisiana,Rapides,15200.0,Sq ft,22079.0,1434
+Louisiana,Red River,0.0,Sq ft,22081.0,1436
+Louisiana,Richland,0.0,Sq ft,22083.0,1439
+Louisiana,Sabine,0.0,Sq ft,22085.0,1441
+Louisiana,St. Bernard,0.0,Sq ft,22087.0,1463
+Louisiana,St. Charles,0.0,Sq ft,22089.0,1466
+Louisiana,St. Helena,14064.0,Sq ft,22091.0,1467
+Louisiana,St. James,nan,Sq ft,22093.0,1468
+Louisiana,St. John the Baptist,0.0,Sq ft,22095.0,1469
+Louisiana,St. Landry,nan,Sq ft,22097.0,1471
+Louisiana,St. Martin,0.0,Sq ft,22099.0,1473
+Louisiana,St. Mary,0.0,Sq ft,22101.0,1474
+Louisiana,St. Tammany,nan,Sq ft,22103.0,1475
+Louisiana,Tangipahoa,7200.0,Sq ft,22105.0,1476
+Louisiana,Tensas,0.0,Sq ft,22107.0,1479
+Louisiana,Terrebonne,0.0,Sq ft,22109.0,1501
+Louisiana,Union,0.0,Sq ft,22111.0,1507
+Louisiana,Vermilion,0.0,Sq ft,22113.0,1510
+Louisiana,Vernon,0.0,Sq ft,22115.0,1513
+Louisiana,Washington,0.0,Sq ft,22117.0,1516
+Louisiana,Webster,3.0,Sq ft,22119.0,1518
+Louisiana,West Baton Rouge,0.0,Sq ft,22121.0,1520
+Louisiana,West Carroll,0.0,Sq ft,22123.0,1522
+Louisiana,West Feliciana,nan,Sq ft,22125.0,1524
+Louisiana,Winn,0.0,Sq ft,22127.0,1529
+Maine,Androscoggin,37179.0,Sq ft,23001.0,1532
+Maine,Aroostook,31608.0,Sq ft,23003.0,1535
+Maine,Cumberland,94418.0,Sq ft,23005.0,1608
+Maine,Franklin,22296.0,Sq ft,23007.0,1619
+Maine,Hancock,111092.0,Sq ft,23009.0,1748
+Maine,Kennebec,34938.0,Sq ft,23011.0,1755
+Maine,Knox,57192.0,Sq ft,23013.0,1774
+Maine,Lincoln,50152.0,Sq ft,23015.0,1835
+Maine,Oxford,53486.0,Sq ft,23017.0,1842
+Maine,Penobscot,46386.0,Sq ft,23019.0,1846
+Maine,Piscataquis,46947.0,Sq ft,23021.0,1851
+Maine,Sagadahoc,nan,Sq ft,23023.0,1855
+Maine,Somerset,nan,Sq ft,23025.0,1860
+Maine,Waldo,nan,Sq ft,23027.0,1865
+Maine,Washington,12656.0,Sq ft,23029.0,1884
+Maine,York,85613.0,Sq ft,23031.0,1901
+Maryland,Allegany,nan,Sq ft,24001.0,1905
+Maryland,Anne Arundel,nan,Sq ft,24003.0,1925
+Maryland,Baltimore County,55420.0,Sq ft,24005.0,1939
+Maryland,Calvert,nan,Sq ft,24009.0,1946
+Maryland,Caroline,nan,Sq ft,24011.0,1949
+Maryland,Carroll,17574.0,Sq ft,24013.0,1955
+Maryland,Cecil,nan,Sq ft,24015.0,1963
+Maryland,Charles,nan,Sq ft,24017.0,1294
+Maryland,Dorchester,0.0,Sq ft,24019.0,1346
+Maryland,Frederick,38154.0,Sq ft,24021.0,1357
+Maryland,Garrett,46940.0,Sq ft,24023.0,1361
+Maryland,Harford,6080.0,Sq ft,24025.0,1372
+Maryland,Howard,0.0,Sq ft,24027.0,1379
+Maryland,Kent,nan,Sq ft,24029.0,1394
+Maryland,Montgomery,nan,Sq ft,24031.0,1398
+Maryland,Prince George's,nan,Sq ft,24033.0,1403
+Maryland,Queen Anne's,13992.0,Sq ft,24035.0,1413
+Maryland,St. Mary's,65492.0,Sq ft,24037.0,1421
+Maryland,Somerset,0.0,Sq ft,24039.0,1430
+Maryland,Talbot,0.0,Sq ft,24041.0,1438
+Maryland,Washington,30457.0,Sq ft,24043.0,1445
+Maryland,Wicomico,12216.0,Sq ft,24045.0,1446
+Maryland,Worcester,0.0,Sq ft,24047.0,1456
+Maryland,Baltimore County,nan,Sq ft,24510.0,1939
+Massachusetts,Barnstable,61750.0,Sq ft,25001.0,1478
+Massachusetts,Berkshire,40260.0,Sq ft,25003.0,1480
+Massachusetts,Bristol,105028.0,Sq ft,25005.0,1486
+Massachusetts,Dukes,nan,Sq ft,25007.0,1491
+Massachusetts,Essex,52030.0,Sq ft,25009.0,1519
+Massachusetts,Franklin,286325.0,Sq ft,25011.0,1523
+Massachusetts,Hampden,69000.0,Sq ft,25013.0,1526
+Massachusetts,Hampshire,180890.0,Sq ft,25015.0,1527
+Massachusetts,Middlesex,147241.0,Sq ft,25017.0,1533
+Massachusetts,Nantucket,nan,Sq ft,25019.0,1537
+Massachusetts,Norfolk,nan,Sq ft,25021.0,1543
+Massachusetts,Plymouth,42662.0,Sq ft,25023.0,1569
+Massachusetts,Suffolk,0.0,Sq ft,25025.0,1585
+Massachusetts,Worcester,115411.0,Sq ft,25027.0,1599
+Michigan,Alcona,nan,Sq ft,26001.0,1603
+Michigan,Alger,23691.0,Sq ft,26003.0,1609
+Michigan,Allegan,40100.0,Sq ft,26005.0,1611
+Michigan,Alpena,2200.0,Sq ft,26007.0,1614
+Michigan,Antrim,9790.0,Sq ft,26009.0,1617
+Michigan,Arenac,0.0,Sq ft,26011.0,1621
+Michigan,Baraga,0.0,Sq ft,26013.0,1624
+Michigan,Barry,10160.0,Sq ft,26015.0,1627
+Michigan,Bay,0.0,Sq ft,26017.0,1631
+Michigan,Benzie,nan,Sq ft,26019.0,1634
+Michigan,Berrien,23655.0,Sq ft,26021.0,1635
+Michigan,Branch,nan,Sq ft,26023.0,1640
+Michigan,Calhoun,31320.0,Sq ft,26025.0,1641
+Michigan,Cass,45816.0,Sq ft,26027.0,1644
+Michigan,Charlevoix,nan,Sq ft,26029.0,1648
+Michigan,Cheboygan,nan,Sq ft,26031.0,1649
+Michigan,Chippewa,11124.0,Sq ft,26033.0,1660
+Michigan,Clare,2472.0,Sq ft,26035.0,1665
+Michigan,Clinton,28825.0,Sq ft,26037.0,1669
+Michigan,Crawford,0.0,Sq ft,26039.0,1672
+Michigan,Delta,nan,Sq ft,26041.0,1675
+Michigan,Dickinson,0.0,Sq ft,26043.0,1677
+Michigan,Eaton,18400.0,Sq ft,26045.0,1678
+Michigan,Emmet,4280.0,Sq ft,26047.0,1686
+Michigan,Genesee,31387.0,Sq ft,26049.0,1688
+Michigan,Gladwin,nan,Sq ft,26051.0,1691
+Michigan,Gogebic,0.0,Sq ft,26053.0,1693
+Michigan,Grand Traverse,3816.0,Sq ft,26055.0,1697
+Michigan,Gratiot,nan,Sq ft,26057.0,1700
+Michigan,Hillsdale,nan,Sq ft,26059.0,1701
+Michigan,Houghton,nan,Sq ft,26061.0,1705
+Michigan,Huron,22140.0,Sq ft,26063.0,1708
+Michigan,Ingham,14800.0,Sq ft,26065.0,1710
+Michigan,Ionia,40504.0,Sq ft,26067.0,1713
+Michigan,Iosco,nan,Sq ft,26069.0,1715
+Michigan,Iron,nan,Sq ft,26071.0,1716
+Michigan,Isabella,nan,Sq ft,26073.0,1717
+Michigan,Jackson,nan,Sq ft,26075.0,1719
+Michigan,Kalamazoo,nan,Sq ft,26077.0,1720
+Michigan,Kalkaska,6200.0,Sq ft,26079.0,1722
+Michigan,Kent,37480.0,Sq ft,26081.0,1726
+Michigan,Keweenaw,0.0,Sq ft,26083.0,1743
+Michigan,Lake,24960.0,Sq ft,26085.0,1749
+Michigan,Lapeer,12328.0,Sq ft,26087.0,1752
+Michigan,Leelanau,31075.0,Sq ft,26089.0,1765
+Michigan,Lenawee,8160.0,Sq ft,26091.0,1768
+Michigan,Livingston,36432.0,Sq ft,26093.0,1770
+Michigan,Luce,0.0,Sq ft,26095.0,1773
+Michigan,Mackinac,0.0,Sq ft,26097.0,1779
+Michigan,Macomb,20131.0,Sq ft,26099.0,1785
+Michigan,Manistee,24028.0,Sq ft,26101.0,1787
+Michigan,Marquette,nan,Sq ft,26103.0,1793
+Michigan,Mason,nan,Sq ft,26105.0,1797
+Michigan,Mecosta,26200.0,Sq ft,26107.0,1800
+Michigan,Menominee,nan,Sq ft,26109.0,1802
+Michigan,Midland,8380.0,Sq ft,26111.0,1806
+Michigan,Missaukee,10800.0,Sq ft,26113.0,1810
+Michigan,Monroe,nan,Sq ft,26115.0,1812
+Michigan,Montcalm,nan,Sq ft,26117.0,1815
+Michigan,Montmorency,0.0,Sq ft,26119.0,1816
+Michigan,Muskegon,0.0,Sq ft,26121.0,1818
+Michigan,Newaygo,2240.0,Sq ft,26123.0,1820
+Michigan,Oakland,1041.0,Sq ft,26125.0,1824
+Michigan,Oceana,15670.0,Sq ft,26127.0,1825
+Michigan,Ogemaw,0.0,Sq ft,26129.0,1827
+Michigan,Ontonagon,nan,Sq ft,26131.0,1829
+Michigan,Osceola,28592.0,Sq ft,26133.0,1830
+Michigan,Oscoda,nan,Sq ft,26135.0,1832
+Michigan,Otsego,3400.0,Sq ft,26137.0,1834
+Michigan,Ottawa,89854.0,Sq ft,26139.0,1837
+Michigan,Presque Isle,600.0,Sq ft,26141.0,1840
+Michigan,Roscommon,nan,Sq ft,26143.0,1843
+Michigan,Saginaw,16197.0,Sq ft,26145.0,1845
+Michigan,St. Clair,30320.0,Sq ft,26147.0,1854
+Michigan,St. Joseph,nan,Sq ft,26149.0,1857
+Michigan,Sanilac,17820.0,Sq ft,26151.0,1858
+Michigan,Schoolcraft,0.0,Sq ft,26153.0,1861
+Michigan,Shiawassee,nan,Sq ft,26155.0,1863
+Michigan,Tuscola,13330.0,Sq ft,26157.0,1866
+Michigan,Van Buren,32500.0,Sq ft,26159.0,1867
+Michigan,Washtenaw,55201.0,Sq ft,26161.0,1869
+Michigan,Wayne,23322.0,Sq ft,26163.0,1871
+Michigan,Wexford,nan,Sq ft,26165.0,1873
+Minnesota,Aitkin,nan,Sq ft,27001.0,1875
+Minnesota,Anoka,47708.0,Sq ft,27003.0,1877
+Minnesota,Becker,27940.0,Sq ft,27005.0,1878
+Minnesota,Beltrami,nan,Sq ft,27007.0,1880
+Minnesota,Benton,nan,Sq ft,27009.0,1881
+Minnesota,Big Stone,0.0,Sq ft,27011.0,1882
+Minnesota,Blue Earth,nan,Sq ft,27013.0,1886
+Minnesota,Brown,4800.0,Sq ft,27015.0,1892
+Minnesota,Carlton,20770.0,Sq ft,27017.0,1893
+Minnesota,Carver,nan,Sq ft,27019.0,1894
+Minnesota,Cass,15930.0,Sq ft,27021.0,1895
+Minnesota,Chippewa,0.0,Sq ft,27023.0,1896
+Minnesota,Chisago,16932.0,Sq ft,27025.0,1897
+Minnesota,Clay,0.0,Sq ft,27027.0,1898
+Minnesota,Clearwater,nan,Sq ft,27029.0,1899
+Minnesota,Cook,6088.0,Sq ft,27031.0,1900
+Minnesota,Cottonwood,nan,Sq ft,27033.0,1902
+Minnesota,Crow Wing,13684.0,Sq ft,27035.0,1903
+Minnesota,Dakota,35900.0,Sq ft,27037.0,1904
+Minnesota,Dodge,nan,Sq ft,27039.0,1906
+Minnesota,Douglas,nan,Sq ft,27041.0,1907
+Minnesota,Faribault,nan,Sq ft,27043.0,1908
+Minnesota,Fillmore,7691.0,Sq ft,27045.0,1909
+Minnesota,Freeborn,0.0,Sq ft,27047.0,1910
+Minnesota,Goodhue,566.0,Sq ft,27049.0,1911
+Minnesota,Grant,0.0,Sq ft,27051.0,1912
+Minnesota,Hennepin,8832.0,Sq ft,27053.0,1913
+Minnesota,Houston,nan,Sq ft,27055.0,1914
+Minnesota,Hubbard,16606.0,Sq ft,27057.0,1915
+Minnesota,Isanti,24564.0,Sq ft,27059.0,1916
+Minnesota,Itasca,50358.0,Sq ft,27061.0,1917
+Minnesota,Jackson,0.0,Sq ft,27063.0,1918
+Minnesota,Kanabec,nan,Sq ft,27065.0,1919
+Minnesota,Kandiyohi,0.0,Sq ft,27067.0,1920
+Minnesota,Kittson,0.0,Sq ft,27069.0,1921
+Minnesota,Koochiching,nan,Sq ft,27071.0,1922
+Minnesota,Lac qui Parle,7308.0,Sq ft,27073.0,1923
+Minnesota,Lake,nan,Sq ft,27075.0,1926
+Minnesota,Lake of the Woods,0.0,Sq ft,27077.0,1927
+Minnesota,Le Sueur,47606.0,Sq ft,27079.0,1929
+Minnesota,Lincoln,0.0,Sq ft,27081.0,1931
+Minnesota,Lyon,0.0,Sq ft,27083.0,1932
+Minnesota,McLeod,21844.0,Sq ft,27085.0,1934
+Minnesota,Mahnomen,0.0,Sq ft,27087.0,1936
+Minnesota,Marshall,5130.0,Sq ft,27089.0,1937
+Minnesota,Martin,11928.0,Sq ft,27091.0,1940
+Minnesota,Meeker,nan,Sq ft,27093.0,1941
+Minnesota,Mille Lacs,9650.0,Sq ft,27095.0,1943
+Minnesota,Morrison,10080.0,Sq ft,27097.0,1944
+Minnesota,Mower,0.0,Sq ft,27099.0,1945
+Minnesota,Murray,0.0,Sq ft,27101.0,1947
+Minnesota,Nicollet,nan,Sq ft,27103.0,1948
+Minnesota,Nobles,nan,Sq ft,27105.0,1950
+Minnesota,Norman,nan,Sq ft,27107.0,1951
+Minnesota,Olmsted,11570.0,Sq ft,27109.0,1953
+Minnesota,Otter Tail,70836.0,Sq ft,27111.0,1954
+Minnesota,Pennington,0.0,Sq ft,27113.0,1956
+Minnesota,Pine,nan,Sq ft,27115.0,1957
+Minnesota,Pipestone,nan,Sq ft,27117.0,1958
+Minnesota,Polk,11834.0,Sq ft,27119.0,1959
+Minnesota,Pope,nan,Sq ft,27121.0,1961
+Minnesota,Ramsey,nan,Sq ft,27123.0,1964
+Minnesota,Red Lake,0.0,Sq ft,27125.0,1966
+Minnesota,Redwood,nan,Sq ft,27127.0,1969
+Minnesota,Renville,0.0,Sq ft,27129.0,1971
+Minnesota,Rice,49680.0,Sq ft,27131.0,1973
+Minnesota,Rock,0.0,Sq ft,27133.0,1974
+Minnesota,Roseau,nan,Sq ft,27135.0,1976
+Minnesota,St. Louis,45014.0,Sq ft,27137.0,1978
+Minnesota,Scott,7632.0,Sq ft,27139.0,1979
+Minnesota,Sherburne,16816.0,Sq ft,27141.0,1980
+Minnesota,Sibley,nan,Sq ft,27143.0,1982
+Minnesota,Stearns,14662.0,Sq ft,27145.0,1984
+Minnesota,Steele,nan,Sq ft,27147.0,1985
+Minnesota,Stevens,0.0,Sq ft,27149.0,1987
+Minnesota,Swift,0.0,Sq ft,27151.0,1988
+Minnesota,Todd,21020.0,Sq ft,27153.0,1989
+Minnesota,Traverse,0.0,Sq ft,27155.0,1990
+Minnesota,Wabasha,0.0,Sq ft,27157.0,1991
+Minnesota,Wadena,nan,Sq ft,27159.0,1992
+Minnesota,Waseca,0.0,Sq ft,27161.0,1993
+Minnesota,Washington,56226.0,Sq ft,27163.0,1994
+Minnesota,Watonwan,nan,Sq ft,27165.0,1996
+Minnesota,Wilkin,0.0,Sq ft,27167.0,1997
+Minnesota,Winona,13856.0,Sq ft,27169.0,1998
+Minnesota,Wright,10208.0,Sq ft,27171.0,1999
+Minnesota,Yellow Medicine,0.0,Sq ft,27173.0,1531
+Mississippi,Adams,0.0,Sq ft,28001.0,1534
+Mississippi,Alcorn,0.0,Sq ft,28003.0,1538
+Mississippi,Amite,0.0,Sq ft,28005.0,1539
+Mississippi,Attala,nan,Sq ft,28007.0,1541
+Mississippi,Benton,nan,Sq ft,28009.0,1544
+Mississippi,Bolivar,0.0,Sq ft,28011.0,1547
+Mississippi,Calhoun,0.0,Sq ft,28013.0,1548
+Mississippi,Carroll,0.0,Sq ft,28015.0,1549
+Mississippi,Chickasaw,0.0,Sq ft,28017.0,1550
+Mississippi,Choctaw,nan,Sq ft,28019.0,1552
+Mississippi,Claiborne,0.0,Sq ft,28021.0,1555
+Mississippi,Clarke,0.0,Sq ft,28023.0,1557
+Mississippi,Clay,0.0,Sq ft,28025.0,1559
+Mississippi,Coahoma,0.0,Sq ft,28027.0,1562
+Mississippi,Copiah,nan,Sq ft,28029.0,1564
+Mississippi,Covington,0.0,Sq ft,28031.0,1567
+Mississippi,DeSoto,7600.0,Sq ft,28033.0,1571
+Mississippi,Forrest,0.0,Sq ft,28035.0,1572
+Mississippi,Franklin,0.0,Sq ft,28037.0,1575
+Mississippi,George,0.0,Sq ft,28039.0,1577
+Mississippi,Greene,nan,Sq ft,28041.0,1579
+Mississippi,Grenada,nan,Sq ft,28043.0,1581
+Mississippi,Hancock,nan,Sq ft,28045.0,1583
+Mississippi,Harrison,nan,Sq ft,28047.0,1587
+Mississippi,Hinds,11701.0,Sq ft,28049.0,1591
+Mississippi,Holmes,0.0,Sq ft,28051.0,1593
+Mississippi,Humphreys,nan,Sq ft,28053.0,1596
+Mississippi,Issaquena,0.0,Sq ft,28055.0,1598
+Mississippi,Itawamba,0.0,Sq ft,28057.0,1601
+Mississippi,Jackson,nan,Sq ft,28059.0,1605
+Mississippi,Jasper,0.0,Sq ft,28061.0,1607
+Mississippi,Jefferson,0.0,Sq ft,28063.0,1610
+Mississippi,Jefferson Davis,nan,Sq ft,28065.0,1612
+Mississippi,Jones,nan,Sq ft,28067.0,1615
+Mississippi,Kemper,0.0,Sq ft,28069.0,1616
+Mississippi,Lafayette,0.0,Sq ft,28071.0,1620
+Mississippi,Lamar,0.0,Sq ft,28073.0,1623
+Mississippi,Lauderdale,nan,Sq ft,28075.0,1628
+Mississippi,Lawrence,0.0,Sq ft,28077.0,1632
+Mississippi,Leake,150.0,Sq ft,28079.0,1636
+Mississippi,Lee,nan,Sq ft,28081.0,1638
+Mississippi,Leflore,0.0,Sq ft,28083.0,1643
+Mississippi,Lincoln,0.0,Sq ft,28085.0,1645
+Mississippi,Lowndes,nan,Sq ft,28087.0,1647
+Mississippi,Madison,0.0,Sq ft,28089.0,1651
+Mississippi,Marion,nan,Sq ft,28091.0,1653
+Mississippi,Marshall,nan,Sq ft,28093.0,1655
+Mississippi,Monroe,nan,Sq ft,28095.0,1656
+Mississippi,Montgomery,0.0,Sq ft,28097.0,1658
+Mississippi,Neshoba,0.0,Sq ft,28099.0,1661
+Mississippi,Newton,26178.0,Sq ft,28101.0,1663
+Mississippi,Noxubee,nan,Sq ft,28103.0,1666
+Mississippi,Oktibbeha,nan,Sq ft,28105.0,1668
+Mississippi,Panola,0.0,Sq ft,28107.0,1671
+Mississippi,Pearl River,0.0,Sq ft,28109.0,1676
+Mississippi,Perry,0.0,Sq ft,28111.0,1679
+Mississippi,Pike,0.0,Sq ft,28113.0,1680
+Mississippi,Pontotoc,nan,Sq ft,28115.0,1682
+Mississippi,Prentiss,0.0,Sq ft,28117.0,1684
+Mississippi,Quitman,0.0,Sq ft,28119.0,1685
+Mississippi,Rankin,0.0,Sq ft,28121.0,1690
+Mississippi,Scott,5785.0,Sq ft,28123.0,1692
+Mississippi,Sharkey,0.0,Sq ft,28125.0,1695
+Mississippi,Simpson,0.0,Sq ft,28127.0,1698
+Mississippi,Smith,0.0,Sq ft,28129.0,1709
+Mississippi,Stone,nan,Sq ft,28131.0,1712
+Mississippi,Sunflower,nan,Sq ft,28133.0,1721
+Mississippi,Tallahatchie,nan,Sq ft,28135.0,1725
+Mississippi,Tate,0.0,Sq ft,28137.0,1727
+Mississippi,Tippah,nan,Sq ft,28139.0,1730
+Mississippi,Tishomingo,0.0,Sq ft,28141.0,1732
+Mississippi,Tunica,0.0,Sq ft,28143.0,1735
+Mississippi,Union,nan,Sq ft,28145.0,1737
+Mississippi,Walthall,0.0,Sq ft,28147.0,1740
+Mississippi,Warren,0.0,Sq ft,28149.0,1746
+Mississippi,Washington,0.0,Sq ft,28151.0,1750
+Mississippi,Wayne,nan,Sq ft,28153.0,1753
+Mississippi,Webster,0.0,Sq ft,28155.0,1756
+Mississippi,Wilkinson,0.0,Sq ft,28157.0,1757
+Mississippi,Winston,0.0,Sq ft,28159.0,1758
+Mississippi,Yalobusha,0.0,Sq ft,28161.0,1759
+Mississippi,Yazoo,nan,Sq ft,28163.0,1760
+Missouri,Adair,49000.0,Sq ft,29001.0,1761
+Missouri,Andrew,nan,Sq ft,29003.0,1762
+Missouri,Atchison,0.0,Sq ft,29005.0,1763
+Missouri,Audrain,35281.0,Sq ft,29007.0,1766
+Missouri,Barry,nan,Sq ft,29009.0,1767
+Missouri,Barton,36980.0,Sq ft,29011.0,1771
+Missouri,Bates,28500.0,Sq ft,29013.0,1776
+Missouri,Benton,0.0,Sq ft,29015.0,1778
+Missouri,Bollinger,nan,Sq ft,29017.0,1781
+Missouri,Boone,15768.0,Sq ft,29019.0,1783
+Missouri,Buchanan,nan,Sq ft,29021.0,1789
+Missouri,Butler,0.0,Sq ft,29023.0,1792
+Missouri,Caldwell,0.0,Sq ft,29025.0,1795
+Missouri,Callaway,nan,Sq ft,29027.0,1799
+Missouri,Camden,nan,Sq ft,29029.0,1803
+Missouri,Cape Girardeau,0.0,Sq ft,29031.0,1808
+Missouri,Carroll,nan,Sq ft,29033.0,1822
+Missouri,Carter,0.0,Sq ft,29035.0,1001
+Missouri,Cass,1900.0,Sq ft,29037.0,1004
+Missouri,Cedar,nan,Sq ft,29039.0,1007
+Missouri,Chariton,7684.0,Sq ft,29041.0,1011
+Missouri,Christian,2752.0,Sq ft,29043.0,1014
+Missouri,Clark,0.0,Sq ft,29045.0,1015
+Missouri,Clay,nan,Sq ft,29047.0,1018
+Missouri,Clinton,0.0,Sq ft,29049.0,1021
+Missouri,Cole,14760.0,Sq ft,29051.0,1022
+Missouri,Cooper,nan,Sq ft,29053.0,1025
+Missouri,Crawford,4848.0,Sq ft,29055.0,1028
+Missouri,Dade,nan,Sq ft,29057.0,1030
+Missouri,Dallas,81244.0,Sq ft,29059.0,1032
+Missouri,Daviess,134444.0,Sq ft,29061.0,1036
+Missouri,DeKalb,0.0,Sq ft,29063.0,1038
+Missouri,Dent,0.0,Sq ft,29065.0,1040
+Missouri,Douglas,0.0,Sq ft,29067.0,1043
+Missouri,Dunklin,0.0,Sq ft,29069.0,1045
+Missouri,Franklin,10172.0,Sq ft,29071.0,1047
+Missouri,Gasconade,nan,Sq ft,29073.0,1049
+Missouri,Gentry,14850.0,Sq ft,29075.0,1052
+Missouri,Greene,2940.0,Sq ft,29077.0,1054
+Missouri,Grundy,62060.0,Sq ft,29079.0,1057
+Missouri,Harrison,4100.0,Sq ft,29081.0,1058
+Missouri,Henry,nan,Sq ft,29083.0,1061
+Missouri,Hickory,nan,Sq ft,29085.0,1063
+Missouri,Holt,0.0,Sq ft,29087.0,1065
+Missouri,Howard,0.0,Sq ft,29089.0,1068
+Missouri,Howell,4252.0,Sq ft,29091.0,1070
+Missouri,Iron,nan,Sq ft,29093.0,1072
+Missouri,Jackson,9120.0,Sq ft,29095.0,1074
+Missouri,Jasper,0.0,Sq ft,29097.0,1078
+Missouri,Jefferson,10740.0,Sq ft,29099.0,1082
+Missouri,Johnson,46200.0,Sq ft,29101.0,1087
+Missouri,Knox,nan,Sq ft,29103.0,1091
+Missouri,Laclede,nan,Sq ft,29105.0,1096
+Missouri,Lafayette,nan,Sq ft,29107.0,1099
+Missouri,Lawrence,nan,Sq ft,29109.0,1101
+Missouri,Lewis,nan,Sq ft,29111.0,1104
+Missouri,Lincoln,16933.0,Sq ft,29113.0,1106
+Missouri,Linn,nan,Sq ft,29115.0,1109
+Missouri,Livingston,44736.0,Sq ft,29117.0,1112
+Missouri,McDonald,2790.0,Sq ft,29119.0,1113
+Missouri,Macon,nan,Sq ft,29121.0,1116
+Missouri,Madison,0.0,Sq ft,29123.0,1117
+Missouri,Maries,nan,Sq ft,29125.0,1120
+Missouri,Marion,0.0,Sq ft,29127.0,1122
+Missouri,Mercer,16660.0,Sq ft,29129.0,1125
+Missouri,Miller,0.0,Sq ft,29131.0,1128
+Missouri,Mississippi,0.0,Sq ft,29133.0,1131
+Missouri,Moniteau,260020.0,Sq ft,29135.0,1135
+Missouri,Monroe,0.0,Sq ft,29137.0,1139
+Missouri,Montgomery,nan,Sq ft,29139.0,1142
+Missouri,Morgan,97553.0,Sq ft,29141.0,1146
+Missouri,New Madrid,0.0,Sq ft,29143.0,1149
+Missouri,Newton,9759.0,Sq ft,29145.0,1152
+Missouri,Nodaway,nan,Sq ft,29147.0,1156
+Missouri,Oregon,nan,Sq ft,29149.0,1158
+Missouri,Osage,0.0,Sq ft,29151.0,1164
+Missouri,Ozark,0.0,Sq ft,29153.0,1168
+Missouri,Pemiscot,0.0,Sq ft,29155.0,1170
+Missouri,Perry,0.0,Sq ft,29157.0,1172
+Missouri,Pettis,13239.0,Sq ft,29159.0,1174
+Missouri,Phelps,0.0,Sq ft,29161.0,1176
+Missouri,Pike,nan,Sq ft,29163.0,1179
+Missouri,Platte,nan,Sq ft,29165.0,1181
+Missouri,Polk,nan,Sq ft,29167.0,1183
+Missouri,Pulaski,0.0,Sq ft,29169.0,1185
+Missouri,Putnam,nan,Sq ft,29171.0,1188
+Missouri,Ralls,0.0,Sq ft,29173.0,1191
+Missouri,Randolph,9000.0,Sq ft,29175.0,1194
+Missouri,Ray,nan,Sq ft,29177.0,1197
+Missouri,Reynolds,nan,Sq ft,29179.0,1200
+Missouri,Ripley,0.0,Sq ft,29181.0,1203
+Missouri,St. Charles,0.0,Sq ft,29183.0,1205
+Missouri,St. Clair,6280.0,Sq ft,29185.0,1208
+Missouri,Ste. Genevieve,0.0,Sq ft,29186.0,1209
+Missouri,St. Francois,nan,Sq ft,29187.0,1212
+Missouri,St. Louis County,0.0,Sq ft,29189.0,1216
+Missouri,Saline,0.0,Sq ft,29195.0,1218
+Missouri,Schuyler,nan,Sq ft,29197.0,1221
+Missouri,Scotland,nan,Sq ft,29199.0,1224
+Missouri,Scott,nan,Sq ft,29201.0,1227
+Missouri,Shannon,0.0,Sq ft,29203.0,1229
+Missouri,Shelby,0.0,Sq ft,29205.0,1232
+Missouri,Stoddard,nan,Sq ft,29207.0,1236
+Missouri,Stone,17504.0,Sq ft,29209.0,1237
+Missouri,Sullivan,nan,Sq ft,29211.0,1240
+Missouri,Taney,nan,Sq ft,29213.0,1242
+Missouri,Texas,nan,Sq ft,29215.0,1245
+Missouri,Vernon,213516.0,Sq ft,29217.0,1248
+Missouri,Warren,12172.0,Sq ft,29219.0,1251
+Missouri,Washington,0.0,Sq ft,29221.0,1253
+Missouri,Wayne,0.0,Sq ft,29223.0,1256
+Missouri,Webster,11376.0,Sq ft,29225.0,1258
+Missouri,Worth,0.0,Sq ft,29227.0,1261
+Missouri,Wright,nan,Sq ft,29229.0,1263
+Missouri,St. Louis County,nan,Sq ft,29510.0,1216
+Montana,Beaverhead,0.0,Sq ft,30001.0,1269
+Montana,Big Horn,0.0,Sq ft,30003.0,1274
+Montana,Blaine,0.0,Sq ft,30005.0,1124
+Montana,Broadwater,nan,Sq ft,30007.0,1132
+Montana,Carbon,nan,Sq ft,30009.0,1137
+Montana,Carter,0.0,Sq ft,30011.0,1141
+Montana,Cascade,6940.0,Sq ft,30013.0,1144
+Montana,Chouteau,0.0,Sq ft,30015.0,1150
+Montana,Custer,nan,Sq ft,30017.0,1153
+Montana,Daniels,0.0,Sq ft,30019.0,1157
+Montana,Dawson,0.0,Sq ft,30021.0,1160
+Montana,Deer Lodge,0.0,Sq ft,30023.0,1163
+Montana,Fallon,0.0,Sq ft,30025.0,1165
+Montana,Fergus,nan,Sq ft,30027.0,1169
+Montana,Flathead,50696.0,Sq ft,30029.0,1173
+Montana,Gallatin,23750.0,Sq ft,30031.0,1177
+Montana,Garfield,0.0,Sq ft,30033.0,1182
+Montana,Glacier,0.0,Sq ft,30035.0,1186
+Montana,Golden Valley,0.0,Sq ft,30037.0,1189
+Montana,Granite,0.0,Sq ft,30039.0,1192
+Montana,Hill,nan,Sq ft,30041.0,1195
+Montana,Jefferson,nan,Sq ft,30043.0,1199
+Montana,Judith Basin,0.0,Sq ft,30045.0,1202
+Montana,Lake,17825.0,Sq ft,30047.0,1207
+Montana,Lewis and Clark,11206.0,Sq ft,30049.0,1211
+Montana,Liberty,nan,Sq ft,30051.0,1214
+Montana,Lincoln,9470.0,Sq ft,30053.0,1219
+Montana,McCone,0.0,Sq ft,30055.0,1223
+Montana,Madison,nan,Sq ft,30057.0,1226
+Montana,Meagher,0.0,Sq ft,30059.0,1231
+Montana,Mineral,0.0,Sq ft,30061.0,1234
+Montana,Missoula,nan,Sq ft,30063.0,1239
+Montana,Musselshell,0.0,Sq ft,30065.0,1241
+Montana,Park,7180.0,Sq ft,30067.0,1244
+Montana,Petroleum,0.0,Sq ft,30069.0,1247
+Montana,Phillips,0.0,Sq ft,30071.0,1250
+Montana,Pondera,nan,Sq ft,30073.0,1254
+Montana,Powder River,0.0,Sq ft,30075.0,1259
+Montana,Powell,nan,Sq ft,30077.0,1262
+Montana,Prairie,0.0,Sq ft,30079.0,1264
+Montana,Ravalli,20849.0,Sq ft,30081.0,1268
+Montana,Richland,0.0,Sq ft,30083.0,1271
+Montana,Roosevelt,0.0,Sq ft,30085.0,1275
+Montana,Rosebud,nan,Sq ft,30087.0,1277
+Montana,Sanders,nan,Sq ft,30089.0,1278
+Montana,Sheridan,0.0,Sq ft,30091.0,1281
+Montana,Silver Bow,0.0,Sq ft,30093.0,1284
+Montana,Stillwater,0.0,Sq ft,30095.0,1286
+Montana,Sweet Grass,nan,Sq ft,30097.0,1288
+Montana,Teton,0.0,Sq ft,30099.0,1290
+Montana,Toole,0.0,Sq ft,30101.0,1292
+Montana,Treasure,0.0,Sq ft,30103.0,1293
+Montana,Valley,nan,Sq ft,30105.0,1296
+Montana,Wheatland,nan,Sq ft,30107.0,1298
+Montana,Wibaux,0.0,Sq ft,30109.0,1300
+Montana,Yellowstone,nan,Sq ft,30111.0,1302
+Nebraska,Adams,0.0,Sq ft,31001.0,1303
+Nebraska,Antelope,0.0,Sq ft,31003.0,1305
+Nebraska,Arthur,0.0,Sq ft,31005.0,1307
+Nebraska,Banner,0.0,Sq ft,31007.0,1308
+Nebraska,Blaine,0.0,Sq ft,31009.0,1309
+Nebraska,Boone,0.0,Sq ft,31011.0,1310
+Nebraska,Box Butte,0.0,Sq ft,31013.0,1315
+Nebraska,Boyd,0.0,Sq ft,31015.0,1317
+Nebraska,Brown,0.0,Sq ft,31017.0,1319
+Nebraska,Buffalo,nan,Sq ft,31019.0,1321
+Nebraska,Burt,0.0,Sq ft,31021.0,1323
+Nebraska,Butler,8540.0,Sq ft,31023.0,1325
+Nebraska,Cass,0.0,Sq ft,31025.0,1326
+Nebraska,Cedar,0.0,Sq ft,31027.0,1329
+Nebraska,Chase,nan,Sq ft,31029.0,1330
+Nebraska,Cherry,0.0,Sq ft,31031.0,1333
+Nebraska,Cheyenne,nan,Sq ft,31033.0,1334
+Nebraska,Clay,nan,Sq ft,31035.0,1336
+Nebraska,Colfax,0.0,Sq ft,31037.0,1338
+Nebraska,Cuming,0.0,Sq ft,31039.0,1340
+Nebraska,Custer,nan,Sq ft,31041.0,1342
+Nebraska,Dakota,33000.0,Sq ft,31043.0,1344
+Nebraska,Dawes,0.0,Sq ft,31045.0,1347
+Nebraska,Dawson,0.0,Sq ft,31047.0,1349
+Nebraska,Deuel,0.0,Sq ft,31049.0,1351
+Nebraska,Dixon,0.0,Sq ft,31051.0,1353
+Nebraska,Dodge,nan,Sq ft,31053.0,1354
+Nebraska,Douglas,nan,Sq ft,31055.0,1358
+Nebraska,Dundy,0.0,Sq ft,31057.0,1360
+Nebraska,Fillmore,0.0,Sq ft,31059.0,1363
+Nebraska,Franklin,0.0,Sq ft,31061.0,1369
+Nebraska,Frontier,0.0,Sq ft,31063.0,1371
+Nebraska,Furnas,0.0,Sq ft,31065.0,1374
+Nebraska,Gage,4000.0,Sq ft,31067.0,1378
+Nebraska,Garden,0.0,Sq ft,31069.0,1381
+Nebraska,Garfield,0.0,Sq ft,31071.0,1391
+Nebraska,Gosper,nan,Sq ft,31073.0,1393
+Nebraska,Grant,0.0,Sq ft,31075.0,1395
+Nebraska,Greeley,0.0,Sq ft,31077.0,1397
+Nebraska,Hall,0.0,Sq ft,31079.0,1402
+Nebraska,Hamilton,0.0,Sq ft,31081.0,1405
+Nebraska,Harlan,0.0,Sq ft,31083.0,1409
+Nebraska,Hayes,nan,Sq ft,31085.0,1411
+Nebraska,Hitchcock,1120.0,Sq ft,31087.0,1414
+Nebraska,Holt,nan,Sq ft,31089.0,1416
+Nebraska,Hooker,0.0,Sq ft,31091.0,1418
+Nebraska,Howard,0.0,Sq ft,31093.0,1311
+Nebraska,Jefferson,0.0,Sq ft,31095.0,1312
+Nebraska,Johnson,0.0,Sq ft,31097.0,1313
+Nebraska,Kearney,0.0,Sq ft,31099.0,1314
+Nebraska,Keith,0.0,Sq ft,31101.0,1316
+Nebraska,Keya Paha,0.0,Sq ft,31103.0,1318
+Nebraska,Kimball,0.0,Sq ft,31105.0,1320
+Nebraska,Knox,0.0,Sq ft,31107.0,1322
+Nebraska,Lancaster,22640.0,Sq ft,31109.0,1324
+Nebraska,Lincoln,0.0,Sq ft,31111.0,1327
+Nebraska,Logan,3456.0,Sq ft,31113.0,1328
+Nebraska,Loup,0.0,Sq ft,31115.0,1331
+Nebraska,McPherson,0.0,Sq ft,31117.0,1332
+Nebraska,Madison,0.0,Sq ft,31119.0,1335
+Nebraska,Merrick,0.0,Sq ft,31121.0,1337
+Nebraska,Morrill,0.0,Sq ft,31123.0,1339
+Nebraska,Nance,0.0,Sq ft,31125.0,1341
+Nebraska,Nemaha,nan,Sq ft,31127.0,1343
+Nebraska,Nuckolls,nan,Sq ft,31129.0,1345
+Nebraska,Otoe,4961.0,Sq ft,31131.0,1348
+Nebraska,Pawnee,1728.0,Sq ft,31133.0,1350
+Nebraska,Perkins,0.0,Sq ft,31135.0,1352
+Nebraska,Phelps,0.0,Sq ft,31137.0,1355
+Nebraska,Pierce,0.0,Sq ft,31139.0,1356
+Nebraska,Platte,nan,Sq ft,31141.0,1359
+Nebraska,Polk,0.0,Sq ft,31143.0,1362
+Nebraska,Red Willow,0.0,Sq ft,31145.0,1364
+Nebraska,Richardson,0.0,Sq ft,31147.0,1365
+Nebraska,Rock,0.0,Sq ft,31149.0,1366
+Nebraska,Saline,5520.0,Sq ft,31151.0,1367
+Nebraska,Sarpy,4706.0,Sq ft,31153.0,1368
+Nebraska,Saunders,24400.0,Sq ft,31155.0,1370
+Nebraska,Scotts Bluff,66.0,Sq ft,31157.0,1373
+Nebraska,Seward,nan,Sq ft,31159.0,1375
+Nebraska,Sheridan,16800.0,Sq ft,31161.0,1376
+Nebraska,Sherman,0.0,Sq ft,31163.0,1377
+Nebraska,Sioux,6480.0,Sq ft,31165.0,1380
+Nebraska,Stanton,25800.0,Sq ft,31167.0,1382
+Nebraska,Thayer,0.0,Sq ft,31169.0,1383
+Nebraska,Thomas,0.0,Sq ft,31171.0,1384
+Nebraska,Thurston,0.0,Sq ft,31173.0,1385
+Nebraska,Valley,0.0,Sq ft,31175.0,1386
+Nebraska,Washington,2400.0,Sq ft,31177.0,1387
+Nebraska,Wayne,0.0,Sq ft,31179.0,1388
+Nebraska,Webster,0.0,Sq ft,31181.0,1389
+Nebraska,Wheeler,0.0,Sq ft,31183.0,1390
+Nebraska,York,nan,Sq ft,31185.0,1392
+Nevada,Churchill,600.0,Sq ft,32001.0,1396
+Nevada,Clark,14400.0,Sq ft,32003.0,1399
+Nevada,Douglas,nan,Sq ft,32005.0,1400
+Nevada,Elko,0.0,Sq ft,32007.0,1401
+Nevada,Esmeralda,0.0,Sq ft,32009.0,1404
+Nevada,Eureka,0.0,Sq ft,32011.0,1406
+Nevada,Humboldt,0.0,Sq ft,32013.0,1407
+Nevada,Lander,0.0,Sq ft,32015.0,1408
+Nevada,Lincoln,78160.0,Sq ft,32017.0,1410
+Nevada,Lyon,20100.0,Sq ft,32019.0,1412
+Nevada,Mineral,0.0,Sq ft,32021.0,1415
+Nevada,Nye,nan,Sq ft,32023.0,1417
+Nevada,Pershing,0.0,Sq ft,32027.0,1419
+Nevada,Storey,0.0,Sq ft,32029.0,1420
+Nevada,Washoe,nan,Sq ft,32031.0,1423
+Nevada,White Pine,0.0,Sq ft,32033.0,1425
+Nevada,Carson City,0.0,Sq ft,32510.0,1428
+New Hampshire,Belknap,nan,Sq ft,33001.0,1432
+New Hampshire,Carroll,172362.0,Sq ft,33003.0,1435
+New Hampshire,Cheshire,42652.0,Sq ft,33005.0,1437
+New Hampshire,Coos,69364.0,Sq ft,33007.0,1440
+New Hampshire,Grafton,98014.0,Sq ft,33009.0,1442
+New Hampshire,Hillsborough,55978.0,Sq ft,33011.0,1443
+New Hampshire,Merrimack,103984.0,Sq ft,33013.0,1444
+New Hampshire,Rockingham,79938.0,Sq ft,33015.0,1448
+New Hampshire,Strafford,103312.0,Sq ft,33017.0,1453
+New Hampshire,Sullivan,nan,Sq ft,33019.0,1454
+New Jersey,Atlantic,72870.0,Sq ft,34001.0,1461
+New Jersey,Bergen,0.0,Sq ft,34003.0,1465
+New Jersey,Burlington,55860.0,Sq ft,34005.0,1470
+New Jersey,Camden,0.0,Sq ft,34007.0,1472
+New Jersey,Cape May,nan,Sq ft,34009.0,1477
+New Jersey,Cumberland,40510.0,Sq ft,34011.0,1482
+New Jersey,Essex,nan,Sq ft,34013.0,1483
+New Jersey,Gloucester,88820.0,Sq ft,34015.0,1484
+New Jersey,Hudson,0.0,Sq ft,34017.0,1487
+New Jersey,Hunterdon,16871.0,Sq ft,34019.0,1488
+New Jersey,Mercer,80816.0,Sq ft,34021.0,1493
+New Jersey,Middlesex,nan,Sq ft,34023.0,1497
+New Jersey,Monmouth,71980.0,Sq ft,34025.0,1504
+New Jersey,Morris,19036.0,Sq ft,34027.0,1511
+New Jersey,Ocean,0.0,Sq ft,34029.0,1546
+New Jersey,Passaic,0.0,Sq ft,34031.0,1551
+New Jersey,Salem,42727.0,Sq ft,34033.0,1553
+New Jersey,Somerset,nan,Sq ft,34035.0,1558
+New Jersey,Sussex,26550.0,Sq ft,34037.0,1561
+New Jersey,Union,0.0,Sq ft,34039.0,1566
+New Jersey,Warren,12770.0,Sq ft,34041.0,1570
+New Mexico,Bernalillo,144349.0,Sq ft,35001.0,1574
+New Mexico,Catron,0.0,Sq ft,35003.0,1576
+New Mexico,Chaves,0.0,Sq ft,35005.0,1578
+New Mexico,Cibola,0.0,Sq ft,35006.0,1580
+New Mexico,Colfax,0.0,Sq ft,35007.0,1582
+New Mexico,Curry,nan,Sq ft,35009.0,1586
+New Mexico,De Baca,0.0,Sq ft,35011.0,1589
+New Mexico,Doña Ana,0.0,Sq ft,35013.0,
+New Mexico,Eddy,0.0,Sq ft,35015.0,1592
+New Mexico,Grant,6500.0,Sq ft,35017.0,1594
+New Mexico,Guadalupe,0.0,Sq ft,35019.0,1595
+New Mexico,Harding,nan,Sq ft,35021.0,1597
+New Mexico,Hidalgo,0.0,Sq ft,35023.0,1600
+New Mexico,Lea,0.0,Sq ft,35025.0,1604
+New Mexico,Lincoln,0.0,Sq ft,35027.0,1613
+New Mexico,Los Alamos,0.0,Sq ft,35028.0,1618
+New Mexico,Luna,nan,Sq ft,35029.0,1622
+New Mexico,McKinley,0.0,Sq ft,35031.0,1626
+New Mexico,Mora,0.0,Sq ft,35033.0,1629
+New Mexico,Otero,nan,Sq ft,35035.0,1633
+New Mexico,Quay,3810.0,Sq ft,35037.0,1637
+New Mexico,Rio Arriba,37801.0,Sq ft,35039.0,1639
+New Mexico,Roosevelt,0.0,Sq ft,35041.0,1642
+New Mexico,Sandoval,nan,Sq ft,35043.0,1646
+New Mexico,San Juan,1360.0,Sq ft,35045.0,1650
+New Mexico,San Miguel,3000.0,Sq ft,35047.0,1652
+New Mexico,Santa Fe,48190.0,Sq ft,35049.0,1654
+New Mexico,Sierra,nan,Sq ft,35051.0,1657
+New Mexico,Socorro,12560.0,Sq ft,35053.0,1659
+New Mexico,Taos,20886.0,Sq ft,35055.0,1662
+New Mexico,Torrance,5600.0,Sq ft,35057.0,1664
+New Mexico,Union,nan,Sq ft,35059.0,1667
+New Mexico,Valencia,nan,Sq ft,35061.0,1670
+New York,Albany,15859.0,Sq ft,36001.0,1673
+New York,Allegany,nan,Sq ft,36003.0,1674
+New York,Bronx,0.0,Sq ft,36005.0,1681
+New York,Broome,nan,Sq ft,36007.0,1683
+New York,Cattaraugus,15740.0,Sq ft,36009.0,1687
+New York,Cayuga,57182.0,Sq ft,36011.0,1689
+New York,Chautauqua,35202.0,Sq ft,36013.0,1694
+New York,Chemung,nan,Sq ft,36015.0,1696
+New York,Chenango,6835.0,Sq ft,36017.0,1699
+New York,Clinton,7052.0,Sq ft,36019.0,1702
+New York,Columbia,74380.0,Sq ft,36021.0,1704
+New York,Cortland,14164.0,Sq ft,36023.0,1706
+New York,Delaware,9588.0,Sq ft,36025.0,1707
+New York,Dutchess,17308.0,Sq ft,36027.0,1711
+New York,Erie,29224.0,Sq ft,36029.0,1723
+New York,Essex,27008.0,Sq ft,36031.0,1728
+New York,Franklin,6656.0,Sq ft,36033.0,1731
+New York,Fulton,nan,Sq ft,36035.0,1734
+New York,Genesee,nan,Sq ft,36037.0,1736
+New York,Greene,0.0,Sq ft,36039.0,1739
+New York,Hamilton,nan,Sq ft,36041.0,1742
+New York,Herkimer,30007.0,Sq ft,36043.0,1745
+New York,Jefferson,5480.0,Sq ft,36045.0,1782
+New York,Kings,26200.0,Sq ft,36047.0,1788
+New York,Lewis,nan,Sq ft,36049.0,1790
+New York,Livingston,nan,Sq ft,36051.0,1791
+New York,Madison,28042.0,Sq ft,36053.0,1796
+New York,Monroe,159560.0,Sq ft,36055.0,1804
+New York,Montgomery,1508.0,Sq ft,36057.0,1807
+New York,Nassau,0.0,Sq ft,36059.0,1839
+New York,New York,0.0,Sq ft,36061.0,1847
+New York,Niagara,nan,Sq ft,36063.0,1850
+New York,Oneida,38232.0,Sq ft,36065.0,1852
+New York,Onondaga,38308.0,Sq ft,36067.0,1853
+New York,Ontario,67112.0,Sq ft,36069.0,1856
+New York,Orange,90212.0,Sq ft,36071.0,1859
+New York,Orleans,nan,Sq ft,36073.0,1862
+New York,Oswego,19900.0,Sq ft,36075.0,1864
+New York,Otsego,18040.0,Sq ft,36077.0,1868
+New York,Putnam,nan,Sq ft,36079.0,1870
+New York,Queens,nan,Sq ft,36081.0,1872
+New York,Rensselaer,61408.0,Sq ft,36083.0,1874
+New York,Richmond,nan,Sq ft,36085.0,1876
+New York,Rockland,nan,Sq ft,36087.0,1879
+New York,St. Lawrence,28176.0,Sq ft,36089.0,1883
+New York,Saratoga,23666.0,Sq ft,36091.0,1885
+New York,Schenectady,nan,Sq ft,36093.0,1887
+New York,Schoharie,27788.0,Sq ft,36095.0,1888
+New York,Schuyler,5039.0,Sq ft,36097.0,1889
+New York,Seneca,30087.0,Sq ft,36099.0,1890
+New York,Steuben,13600.0,Sq ft,36101.0,1891
+New York,Suffolk,189385.0,Sq ft,36103.0,1924
+New York,Sullivan,3968.0,Sq ft,36105.0,1928
+New York,Tioga,nan,Sq ft,36107.0,1930
+New York,Tompkins,44452.0,Sq ft,36109.0,1933
+New York,Ulster,49460.0,Sq ft,36111.0,1935
+New York,Warren,25625.0,Sq ft,36113.0,1938
+New York,Washington,75366.0,Sq ft,36115.0,1942
+New York,Wayne,71698.0,Sq ft,36117.0,1952
+New York,Westchester,35100.0,Sq ft,36119.0,1960
+New York,Wyoming,nan,Sq ft,36121.0,1962
+New York,Yates,103512.0,Sq ft,36123.0,1965
+North Carolina,Alamance,29200.0,Sq ft,37001.0,1967
+North Carolina,Alexander,8064.0,Sq ft,37003.0,1968
+North Carolina,Alleghany,0.0,Sq ft,37005.0,1970
+North Carolina,Anson,7200.0,Sq ft,37007.0,1972
+North Carolina,Ashe,29833.0,Sq ft,37009.0,1975
+North Carolina,Avery,0.0,Sq ft,37011.0,1977
+North Carolina,Beaufort,0.0,Sq ft,37013.0,1981
+North Carolina,Bertie,0.0,Sq ft,37015.0,1983
+North Carolina,Bladen,0.0,Sq ft,37017.0,1986
+North Carolina,Brunswick,0.0,Sq ft,37019.0,1995
+North Carolina,Buncombe,28176.0,Sq ft,37021.0,1422
+North Carolina,Burke,44003.0,Sq ft,37023.0,1424
+North Carolina,Cabarrus,5632.0,Sq ft,37025.0,1426
+North Carolina,Caldwell,0.0,Sq ft,37027.0,1429
+North Carolina,Camden,0.0,Sq ft,37029.0,1433
+North Carolina,Carteret,48800.0,Sq ft,37031.0,1447
+North Carolina,Caswell,nan,Sq ft,37033.0,1449
+North Carolina,Catawba,nan,Sq ft,37035.0,1450
+North Carolina,Chatham,29580.0,Sq ft,37037.0,1451
+North Carolina,Cherokee,15210.0,Sq ft,37039.0,1452
+North Carolina,Chowan,0.0,Sq ft,37041.0,1455
+North Carolina,Clay,0.0,Sq ft,37043.0,1457
+North Carolina,Cleveland,nan,Sq ft,37045.0,1458
+North Carolina,Columbus,nan,Sq ft,37047.0,1459
+North Carolina,Craven,24404.0,Sq ft,37049.0,1462
+North Carolina,Cumberland,nan,Sq ft,37051.0,1464
+North Carolina,Currituck,0.0,Sq ft,37053.0,1481
+North Carolina,Dare,0.0,Sq ft,37055.0,1485
+North Carolina,Davidson,33000.0,Sq ft,37057.0,1489
+North Carolina,Davie,nan,Sq ft,37059.0,1490
+North Carolina,Duplin,nan,Sq ft,37061.0,1492
+North Carolina,Durham,nan,Sq ft,37063.0,1494
+North Carolina,Edgecombe,0.0,Sq ft,37065.0,1495
+North Carolina,Forsyth,10800.0,Sq ft,37067.0,1496
+North Carolina,Franklin,nan,Sq ft,37069.0,1498
+North Carolina,Gaston,nan,Sq ft,37071.0,1499
+North Carolina,Gates,0.0,Sq ft,37073.0,1500
+North Carolina,Graham,0.0,Sq ft,37075.0,1502
+North Carolina,Granville,nan,Sq ft,37077.0,1503
+North Carolina,Greene,0.0,Sq ft,37079.0,1505
+North Carolina,Guilford,10960.0,Sq ft,37081.0,1506
+North Carolina,Halifax,0.0,Sq ft,37083.0,1508
+North Carolina,Harnett,24500.0,Sq ft,37085.0,1509
+North Carolina,Haywood,10200.0,Sq ft,37087.0,1512
+North Carolina,Henderson,49244.0,Sq ft,37089.0,1514
+North Carolina,Hertford,0.0,Sq ft,37091.0,1515
+North Carolina,Hoke,0.0,Sq ft,37093.0,1517
+North Carolina,Hyde,0.0,Sq ft,37095.0,1521
+North Carolina,Iredell,6160.0,Sq ft,37097.0,1525
+North Carolina,Jackson,nan,Sq ft,37099.0,1528
+North Carolina,Johnston,105955.0,Sq ft,37101.0,1530
+North Carolina,Jones,nan,Sq ft,37103.0,1536
+North Carolina,Lee,nan,Sq ft,37105.0,1540
+North Carolina,Lenoir,0.0,Sq ft,37107.0,1542
+North Carolina,Lincoln,nan,Sq ft,37109.0,1545
+North Carolina,McDowell,nan,Sq ft,37111.0,1554
+North Carolina,Macon,0.0,Sq ft,37113.0,1556
+North Carolina,Madison,43419.0,Sq ft,37115.0,1560
+North Carolina,Martin,0.0,Sq ft,37117.0,1563
+North Carolina,Mecklenburg,0.0,Sq ft,37119.0,1565
+North Carolina,Mitchell,0.0,Sq ft,37121.0,1568
+North Carolina,Montgomery,nan,Sq ft,37123.0,1573
+North Carolina,Moore,30483.0,Sq ft,37125.0,1584
+North Carolina,Nash,38090.0,Sq ft,37127.0,1588
+North Carolina,New Hanover,0.0,Sq ft,37129.0,1602
+North Carolina,Northampton,0.0,Sq ft,37131.0,1606
+North Carolina,Onslow,0.0,Sq ft,37133.0,1625
+North Carolina,Orange,57436.0,Sq ft,37135.0,1630
+North Carolina,Pamlico,0.0,Sq ft,37137.0,1703
+North Carolina,Pasquotank,0.0,Sq ft,37139.0,1714
+North Carolina,Pender,7844.0,Sq ft,37141.0,1718
+North Carolina,Perquimans,0.0,Sq ft,37143.0,1724
+North Carolina,Person,28100.0,Sq ft,37145.0,1729
+North Carolina,Pitt,0.0,Sq ft,37147.0,1733
+North Carolina,Polk,7080.0,Sq ft,37149.0,1738
+North Carolina,Randolph,53010.0,Sq ft,37151.0,1741
+North Carolina,Richmond,0.0,Sq ft,37153.0,1744
+North Carolina,Robeson,20202.0,Sq ft,37155.0,1747
+North Carolina,Rockingham,16020.0,Sq ft,37157.0,1751
+North Carolina,Rowan,nan,Sq ft,37159.0,1754
+North Carolina,Rutherford,nan,Sq ft,37161.0,1764
+North Carolina,Sampson,nan,Sq ft,37163.0,1769
+North Carolina,Scotland,nan,Sq ft,37165.0,1772
+North Carolina,Stanly,3000.0,Sq ft,37167.0,1775
+North Carolina,Stokes,5430.0,Sq ft,37169.0,1777
+North Carolina,Surry,nan,Sq ft,37171.0,1780
+North Carolina,Swain,0.0,Sq ft,37173.0,1784
+North Carolina,Transylvania,0.0,Sq ft,37175.0,1786
+North Carolina,Tyrrell,0.0,Sq ft,37177.0,1794
+North Carolina,Union,1896.0,Sq ft,37179.0,1798
+North Carolina,Vance,0.0,Sq ft,37181.0,1801
+North Carolina,Wake,7640.0,Sq ft,37183.0,1805
+North Carolina,Warren,nan,Sq ft,37185.0,1809
+North Carolina,Washington,0.0,Sq ft,37187.0,1811
+North Carolina,Watauga,8634.0,Sq ft,37189.0,1813
+North Carolina,Wayne,32096.0,Sq ft,37191.0,1814
+North Carolina,Wilkes,88260.0,Sq ft,37193.0,1817
+North Carolina,Wilson,0.0,Sq ft,37195.0,1819
+North Carolina,Yadkin,26080.0,Sq ft,37197.0,1821
+North Carolina,Yancey,24624.0,Sq ft,37199.0,1823
+North Dakota,Adams,0.0,Sq ft,38001.0,1826
+North Dakota,Barnes,0.0,Sq ft,38003.0,1828
+North Dakota,Benson,0.0,Sq ft,38005.0,1831
+North Dakota,Billings,0.0,Sq ft,38007.0,1833
+North Dakota,Bottineau,nan,Sq ft,38009.0,1836
+North Dakota,Bowman,0.0,Sq ft,38011.0,1838
+North Dakota,Burke,0.0,Sq ft,38013.0,1841
+North Dakota,Burleigh,0.0,Sq ft,38015.0,1844
+North Dakota,Cass,0.0,Sq ft,38017.0,1848
+North Dakota,Cavalier,0.0,Sq ft,38019.0,1849
+North Dakota,Dickey,0.0,Sq ft,38021.0,2004
+North Dakota,Divide,0.0,Sq ft,38023.0,2007
+North Dakota,Dunn,0.0,Sq ft,38025.0,2013
+North Dakota,Eddy,0.0,Sq ft,38027.0,2017
+North Dakota,Emmons,0.0,Sq ft,38029.0,2021
+North Dakota,Foster,nan,Sq ft,38031.0,2026
+North Dakota,Golden Valley,0.0,Sq ft,38033.0,2036
+North Dakota,Grand Forks,0.0,Sq ft,38035.0,2043
+North Dakota,Grant,0.0,Sq ft,38037.0,2051
+North Dakota,Griggs,0.0,Sq ft,38039.0,2056
+North Dakota,Hettinger,0.0,Sq ft,38041.0,2063
+North Dakota,Kidder,0.0,Sq ft,38043.0,2068
+North Dakota,LaMoure,0.0,Sq ft,38045.0,2074
+North Dakota,Logan,0.0,Sq ft,38047.0,2078
+North Dakota,McHenry,0.0,Sq ft,38049.0,2082
+North Dakota,McIntosh,0.0,Sq ft,38051.0,2090
+North Dakota,McKenzie,nan,Sq ft,38053.0,2097
+North Dakota,McLean,0.0,Sq ft,38055.0,2103
+North Dakota,Mercer,nan,Sq ft,38057.0,2107
+North Dakota,Morton,0.0,Sq ft,38059.0,2114
+North Dakota,Mountrail,0.0,Sq ft,38061.0,2119
+North Dakota,Nelson,0.0,Sq ft,38063.0,2122
+North Dakota,Oliver,nan,Sq ft,38065.0,2127
+North Dakota,Pembina,3200.0,Sq ft,38067.0,2131
+North Dakota,Pierce,0.0,Sq ft,38069.0,2136
+North Dakota,Ramsey,0.0,Sq ft,38071.0,2141
+North Dakota,Ransom,nan,Sq ft,38073.0,2147
+North Dakota,Renville,0.0,Sq ft,38075.0,2150
+North Dakota,Richland,24188.0,Sq ft,38077.0,2156
+North Dakota,Rolette,nan,Sq ft,38079.0,2161
+North Dakota,Sargent,0.0,Sq ft,38081.0,2164
+North Dakota,Sheridan,0.0,Sq ft,38083.0,2169
+North Dakota,Sioux,0.0,Sq ft,38085.0,2175
+North Dakota,Slope,0.0,Sq ft,38087.0,2180
+North Dakota,Stark,0.0,Sq ft,38089.0,2182
+North Dakota,Steele,0.0,Sq ft,38091.0,2186
+North Dakota,Stutsman,0.0,Sq ft,38093.0,2199
+North Dakota,Towner,0.0,Sq ft,38095.0,2205
+North Dakota,Traill,nan,Sq ft,38097.0,2217
+North Dakota,Walsh,10400.0,Sq ft,38099.0,2225
+North Dakota,Ward,4559.0,Sq ft,38101.0,2233
+North Dakota,Wells,0.0,Sq ft,38103.0,2237
+North Dakota,Williams,0.0,Sq ft,38105.0,2244
+Ohio,Adams,0.0,Sq ft,39001.0,2248
+Ohio,Allen,nan,Sq ft,39003.0,2250
+Ohio,Ashland,11328.0,Sq ft,39005.0,2254
+Ohio,Ashtabula,12088.0,Sq ft,39007.0,2259
+Ohio,Athens,46325.0,Sq ft,39009.0,2266
+Ohio,Auglaize,0.0,Sq ft,39011.0,2273
+Ohio,Belmont,0.0,Sq ft,39013.0,2278
+Ohio,Brown,nan,Sq ft,39015.0,2282
+Ohio,Butler,nan,Sq ft,39017.0,2286
+Ohio,Carroll,1800.0,Sq ft,39019.0,2289
+Ohio,Champaign,11000.0,Sq ft,39021.0,2291
+Ohio,Clark,nan,Sq ft,39023.0,2300
+Ohio,Clermont,17860.0,Sq ft,39025.0,2306
+Ohio,Clinton,nan,Sq ft,39027.0,2310
+Ohio,Columbiana,nan,Sq ft,39029.0,2315
+Ohio,Coshocton,nan,Sq ft,39031.0,2317
+Ohio,Crawford,nan,Sq ft,39033.0,2323
+Ohio,Cuyahoga,13712.0,Sq ft,39035.0,2332
+Ohio,Darke,nan,Sq ft,39037.0,2345
+Ohio,Defiance,0.0,Sq ft,39039.0,2350
+Ohio,Delaware,13600.0,Sq ft,39041.0,2352
+Ohio,Erie,nan,Sq ft,39043.0,2357
+Ohio,Fairfield,30106.0,Sq ft,39045.0,2365
+Ohio,Fayette,nan,Sq ft,39047.0,2368
+Ohio,Franklin,nan,Sq ft,39049.0,2375
+Ohio,Fulton,nan,Sq ft,39051.0,2378
+Ohio,Gallia,7983.0,Sq ft,39053.0,2383
+Ohio,Geauga,47042.0,Sq ft,39055.0,2390
+Ohio,Greene,11001.0,Sq ft,39057.0,2393
+Ohio,Guernsey,8150.0,Sq ft,39059.0,2399
+Ohio,Hamilton,30398.0,Sq ft,39061.0,2411
+Ohio,Hancock,0.0,Sq ft,39063.0,2427
+Ohio,Hardin,nan,Sq ft,39065.0,2432
+Ohio,Harrison,nan,Sq ft,39067.0,2440
+Ohio,Henry,nan,Sq ft,39069.0,2451
+Ohio,Highland,80977.0,Sq ft,39071.0,2457
+Ohio,Hocking,0.0,Sq ft,39073.0,2461
+Ohio,Holmes,29466.0,Sq ft,39075.0,2464
+Ohio,Huron,nan,Sq ft,39077.0,2468
+Ohio,Jackson,nan,Sq ft,39079.0,2472
+Ohio,Jefferson,0.0,Sq ft,39081.0,2476
+Ohio,Knox,25918.0,Sq ft,39083.0,2479
+Ohio,Lake,nan,Sq ft,39085.0,2493
+Ohio,Lawrence,nan,Sq ft,39087.0,2499
+Ohio,Licking,24511.0,Sq ft,39089.0,2504
+Ohio,Logan,nan,Sq ft,39091.0,2510
+Ohio,Lorain,27210.0,Sq ft,39093.0,2516
+Ohio,Lucas,6125.0,Sq ft,39095.0,2520
+Ohio,Madison,0.0,Sq ft,39097.0,2529
+Ohio,Mahoning,nan,Sq ft,39099.0,2534
+Ohio,Marion,0.0,Sq ft,39101.0,2541
+Ohio,Medina,36580.0,Sq ft,39103.0,2545
+Ohio,Meigs,15220.0,Sq ft,39105.0,2549
+Ohio,Mercer,nan,Sq ft,39107.0,2552
+Ohio,Miami,nan,Sq ft,39109.0,2558
+Ohio,Monroe,16096.0,Sq ft,39111.0,2565
+Ohio,Montgomery,nan,Sq ft,39113.0,2573
+Ohio,Morgan,0.0,Sq ft,39115.0,2000
+Ohio,Morrow,11136.0,Sq ft,39117.0,2006
+Ohio,Muskingum,nan,Sq ft,39119.0,2010
+Ohio,Noble,0.0,Sq ft,39121.0,2012
+Ohio,Ottawa,13764.0,Sq ft,39123.0,2019
+Ohio,Paulding,nan,Sq ft,39125.0,2024
+Ohio,Perry,5290.0,Sq ft,39127.0,2027
+Ohio,Pickaway,nan,Sq ft,39129.0,2031
+Ohio,Pike,78112.0,Sq ft,39131.0,2034
+Ohio,Portage,13818.0,Sq ft,39133.0,2038
+Ohio,Preble,24816.0,Sq ft,39135.0,2039
+Ohio,Putnam,nan,Sq ft,39137.0,2040
+Ohio,Richland,46160.0,Sq ft,39139.0,2042
+Ohio,Ross,18845.0,Sq ft,39141.0,2045
+Ohio,Sandusky,nan,Sq ft,39143.0,2047
+Ohio,Scioto,6024.0,Sq ft,39145.0,2048
+Ohio,Seneca,nan,Sq ft,39147.0,2049
+Ohio,Shelby,0.0,Sq ft,39149.0,2052
+Ohio,Stark,10740.0,Sq ft,39151.0,2054
+Ohio,Summit,10436.0,Sq ft,39153.0,2057
+Ohio,Trumbull,13820.0,Sq ft,39155.0,2061
+Ohio,Tuscarawas,nan,Sq ft,39157.0,2065
+Ohio,Union,12600.0,Sq ft,39159.0,2067
+Ohio,Van Wert,nan,Sq ft,39161.0,2071
+Ohio,Vinton,nan,Sq ft,39163.0,2075
+Ohio,Warren,nan,Sq ft,39165.0,2076
+Ohio,Washington,5040.0,Sq ft,39167.0,2080
+Ohio,Wayne,19208.0,Sq ft,39169.0,2084
+Ohio,Williams,0.0,Sq ft,39171.0,2087
+Ohio,Wood,nan,Sq ft,39173.0,2091
+Ohio,Wyandot,0.0,Sq ft,39175.0,2093
+Oklahoma,Adair,0.0,Sq ft,40001.0,2095
+Oklahoma,Alfalfa,0.0,Sq ft,40003.0,2099
+Oklahoma,Atoka,0.0,Sq ft,40005.0,2102
+Oklahoma,Beaver,nan,Sq ft,40007.0,2104
+Oklahoma,Beckham,0.0,Sq ft,40009.0,2106
+Oklahoma,Blaine,0.0,Sq ft,40011.0,2110
+Oklahoma,Bryan,0.0,Sq ft,40013.0,2112
+Oklahoma,Caddo,nan,Sq ft,40015.0,2118
+Oklahoma,Canadian,0.0,Sq ft,40017.0,2123
+Oklahoma,Carter,nan,Sq ft,40019.0,2126
+Oklahoma,Cherokee,nan,Sq ft,40021.0,2129
+Oklahoma,Choctaw,0.0,Sq ft,40023.0,2133
+Oklahoma,Cimarron,0.0,Sq ft,40025.0,2135
+Oklahoma,Cleveland,0.0,Sq ft,40027.0,2140
+Oklahoma,Coal,nan,Sq ft,40029.0,2144
+Oklahoma,Comanche,0.0,Sq ft,40031.0,2145
+Oklahoma,Cotton,0.0,Sq ft,40033.0,2146
+Oklahoma,Craig,0.0,Sq ft,40035.0,2148
+Oklahoma,Creek,4040.0,Sq ft,40037.0,2151
+Oklahoma,Custer,0.0,Sq ft,40039.0,2153
+Oklahoma,Delaware,0.0,Sq ft,40041.0,2154
+Oklahoma,Dewey,0.0,Sq ft,40043.0,2158
+Oklahoma,Ellis,0.0,Sq ft,40045.0,2165
+Oklahoma,Garfield,0.0,Sq ft,40047.0,2167
+Oklahoma,Garvin,nan,Sq ft,40049.0,2176
+Oklahoma,Grady,13376.0,Sq ft,40051.0,2184
+Oklahoma,Grant,0.0,Sq ft,40053.0,2187
+Oklahoma,Greer,0.0,Sq ft,40055.0,2189
+Oklahoma,Harmon,0.0,Sq ft,40057.0,2191
+Oklahoma,Harper,0.0,Sq ft,40059.0,2193
+Oklahoma,Haskell,0.0,Sq ft,40061.0,2195
+Oklahoma,Hughes,0.0,Sq ft,40063.0,2197
+Oklahoma,Jackson,0.0,Sq ft,40065.0,2202
+Oklahoma,Jefferson,0.0,Sq ft,40067.0,2206
+Oklahoma,Johnston,0.0,Sq ft,40069.0,2211
+Oklahoma,Kay,0.0,Sq ft,40071.0,2215
+Oklahoma,Kingfisher,0.0,Sq ft,40073.0,2219
+Oklahoma,Kiowa,nan,Sq ft,40075.0,2222
+Oklahoma,Latimer,nan,Sq ft,40077.0,2226
+Oklahoma,Le Flore,0.0,Sq ft,40079.0,2230
+Oklahoma,Lincoln,4700.0,Sq ft,40081.0,2234
+Oklahoma,Logan,0.0,Sq ft,40083.0,2236
+Oklahoma,Love,4040.0,Sq ft,40085.0,2238
+Oklahoma,McClain,0.0,Sq ft,40087.0,2245
+Oklahoma,McCurtain,nan,Sq ft,40089.0,2252
+Oklahoma,McIntosh,0.0,Sq ft,40091.0,2258
+Oklahoma,Major,0.0,Sq ft,40093.0,2260
+Oklahoma,Marshall,nan,Sq ft,40095.0,2265
+Oklahoma,Mayes,0.0,Sq ft,40097.0,2270
+Oklahoma,Murray,nan,Sq ft,40099.0,2276
+Oklahoma,Muskogee,0.0,Sq ft,40101.0,2281
+Oklahoma,Noble,0.0,Sq ft,40103.0,2287
+Oklahoma,Nowata,0.0,Sq ft,40105.0,2290
+Oklahoma,Okfuskee,0.0,Sq ft,40107.0,2297
+Oklahoma,Oklahoma,nan,Sq ft,40109.0,2303
+Oklahoma,Okmulgee,0.0,Sq ft,40111.0,2311
+Oklahoma,Osage,0.0,Sq ft,40113.0,2318
+Oklahoma,Ottawa,0.0,Sq ft,40115.0,2325
+Oklahoma,Pawnee,0.0,Sq ft,40117.0,2329
+Oklahoma,Payne,nan,Sq ft,40119.0,2340
+Oklahoma,Pittsburg,0.0,Sq ft,40121.0,2344
+Oklahoma,Pontotoc,0.0,Sq ft,40123.0,2351
+Oklahoma,Pottawatomie,2356.0,Sq ft,40125.0,2356
+Oklahoma,Pushmataha,0.0,Sq ft,40127.0,2362
+Oklahoma,Roger Mills,0.0,Sq ft,40129.0,2369
+Oklahoma,Rogers,nan,Sq ft,40131.0,2374
+Oklahoma,Seminole,nan,Sq ft,40133.0,2384
+Oklahoma,Sequoyah,0.0,Sq ft,40135.0,2391
+Oklahoma,Stephens,0.0,Sq ft,40137.0,2396
+Oklahoma,Texas,0.0,Sq ft,40139.0,2003
+Oklahoma,Tillman,0.0,Sq ft,40141.0,2005
+Oklahoma,Tulsa,2836.0,Sq ft,40143.0,2008
+Oklahoma,Wagoner,nan,Sq ft,40145.0,2014
+Oklahoma,Washington,0.0,Sq ft,40147.0,2018
+Oklahoma,Washita,0.0,Sq ft,40149.0,2023
+Oklahoma,Woods,0.0,Sq ft,40151.0,2029
+Oklahoma,Woodward,0.0,Sq ft,40153.0,2035
+Oregon,Baker,nan,Sq ft,41001.0,2044
+Oregon,Benton,nan,Sq ft,41003.0,2053
+Oregon,Clackamas,45827.0,Sq ft,41005.0,2058
+Oregon,Clatsop,nan,Sq ft,41007.0,2064
+Oregon,Columbia,nan,Sq ft,41009.0,2070
+Oregon,Coos,nan,Sq ft,41011.0,2083
+Oregon,Crook,3140.0,Sq ft,41013.0,2092
+Oregon,Curry,11302.0,Sq ft,41015.0,2098
+Oregon,Deschutes,19680.0,Sq ft,41017.0,2109
+Oregon,Douglas,96248.0,Sq ft,41019.0,2115
+Oregon,Gilliam,0.0,Sq ft,41021.0,2121
+Oregon,Grant,0.0,Sq ft,41023.0,2130
+Oregon,Harney,nan,Sq ft,41025.0,2134
+Oregon,Hood River,8800.0,Sq ft,41027.0,2138
+Oregon,Jackson,30449.0,Sq ft,41029.0,2139
+Oregon,Jefferson,nan,Sq ft,41031.0,2143
+Oregon,Josephine,94964.0,Sq ft,41033.0,2152
+Oregon,Klamath,3340.0,Sq ft,41035.0,2155
+Oregon,Lake,nan,Sq ft,41037.0,2159
+Oregon,Lane,213918.0,Sq ft,41039.0,2170
+Oregon,Lincoln,11083.0,Sq ft,41041.0,2174
+Oregon,Linn,18408.0,Sq ft,41043.0,2181
+Oregon,Malheur,2100.0,Sq ft,41045.0,2185
+Oregon,Marion,nan,Sq ft,41047.0,2200
+Oregon,Morrow,0.0,Sq ft,41049.0,2209
+Oregon,Multnomah,65460.0,Sq ft,41051.0,2218
+Oregon,Polk,nan,Sq ft,41053.0,2223
+Oregon,Sherman,0.0,Sq ft,41055.0,2232
+Oregon,Tillamook,124688.0,Sq ft,41057.0,2242
+Oregon,Umatilla,nan,Sq ft,41059.0,2251
+Oregon,Union,nan,Sq ft,41061.0,2257
+Oregon,Wallowa,3565.0,Sq ft,41063.0,2263
+Oregon,Wasco,nan,Sq ft,41065.0,2267
+Oregon,Washington,12050.0,Sq ft,41067.0,2272
+Oregon,Wheeler,0.0,Sq ft,41069.0,2277
+Oregon,Yamhill,125704.0,Sq ft,41071.0,2284
+Pennsylvania,Adams,35752.0,Sq ft,42001.0,2292
+Pennsylvania,Allegheny,20192.0,Sq ft,42003.0,2302
+Pennsylvania,Armstrong,27004.0,Sq ft,42005.0,2309
+Pennsylvania,Beaver,10000.0,Sq ft,42007.0,2321
+Pennsylvania,Bedford,21358.0,Sq ft,42009.0,2324
+Pennsylvania,Berks,157854.0,Sq ft,42011.0,2326
+Pennsylvania,Blair,37800.0,Sq ft,42013.0,2328
+Pennsylvania,Bradford,23508.0,Sq ft,42015.0,2333
+Pennsylvania,Bucks,58666.0,Sq ft,42017.0,2336
+Pennsylvania,Butler,20176.0,Sq ft,42019.0,2338
+Pennsylvania,Cambria,0.0,Sq ft,42021.0,2341
+Pennsylvania,Cameron,0.0,Sq ft,42023.0,2343
+Pennsylvania,Carbon,0.0,Sq ft,42025.0,2349
+Pennsylvania,Centre,39251.0,Sq ft,42027.0,2354
+Pennsylvania,Chester,108067.0,Sq ft,42029.0,2360
+Pennsylvania,Clarion,nan,Sq ft,42031.0,2366
+Pennsylvania,Clearfield,0.0,Sq ft,42033.0,2372
+Pennsylvania,Clinton,48648.0,Sq ft,42035.0,2379
+Pennsylvania,Columbia,25712.0,Sq ft,42037.0,2385
+Pennsylvania,Crawford,17756.0,Sq ft,42039.0,2389
+Pennsylvania,Cumberland,142979.0,Sq ft,42041.0,2397
+Pennsylvania,Dauphin,44760.0,Sq ft,42043.0,2403
+Pennsylvania,Delaware,nan,Sq ft,42045.0,2414
+Pennsylvania,Elk,nan,Sq ft,42047.0,2420
+Pennsylvania,Erie,59617.0,Sq ft,42049.0,2425
+Pennsylvania,Fayette,nan,Sq ft,42051.0,2431
+Pennsylvania,Forest,3624.0,Sq ft,42053.0,2436
+Pennsylvania,Franklin,141623.0,Sq ft,42055.0,2439
+Pennsylvania,Fulton,nan,Sq ft,42057.0,2446
+Pennsylvania,Greene,14230.0,Sq ft,42059.0,2447
+Pennsylvania,Huntingdon,47948.0,Sq ft,42061.0,2454
+Pennsylvania,Indiana,26945.0,Sq ft,42063.0,2459
+Pennsylvania,Jefferson,nan,Sq ft,42065.0,2462
+Pennsylvania,Juniata,44880.0,Sq ft,42067.0,2466
+Pennsylvania,Lackawanna,nan,Sq ft,42069.0,2471
+Pennsylvania,Lancaster,nan,Sq ft,42071.0,2482
+Pennsylvania,Lawrence,nan,Sq ft,42073.0,2488
+Pennsylvania,Lebanon,23594.0,Sq ft,42075.0,2492
+Pennsylvania,Lehigh,56764.0,Sq ft,42077.0,2496
+Pennsylvania,Luzerne,51460.0,Sq ft,42079.0,2501
+Pennsylvania,Lycoming,12602.0,Sq ft,42081.0,2505
+Pennsylvania,McKean,0.0,Sq ft,42083.0,2509
+Pennsylvania,Mercer,nan,Sq ft,42085.0,2513
+Pennsylvania,Mifflin,9430.0,Sq ft,42087.0,2517
+Pennsylvania,Monroe,20120.0,Sq ft,42089.0,2521
+Pennsylvania,Montgomery,35630.0,Sq ft,42091.0,2528
+Pennsylvania,Montour,104090.0,Sq ft,42093.0,2533
+Pennsylvania,Northampton,19234.0,Sq ft,42095.0,2537
+Pennsylvania,Northumberland,57344.0,Sq ft,42097.0,2544
+Pennsylvania,Perry,53700.0,Sq ft,42099.0,2554
+Pennsylvania,Philadelphia,nan,Sq ft,42101.0,2563
+Pennsylvania,Pike,nan,Sq ft,42103.0,2571
+Pennsylvania,Potter,0.0,Sq ft,42105.0,2575
+Pennsylvania,Schuylkill,19680.0,Sq ft,42107.0,2581
+Pennsylvania,Snyder,12880.0,Sq ft,42109.0,2583
+Pennsylvania,Somerset,53400.0,Sq ft,42111.0,2589
+Pennsylvania,Sullivan,0.0,Sq ft,42113.0,2293
+Pennsylvania,Susquehanna,14600.0,Sq ft,42115.0,2298
+Pennsylvania,Tioga,12822.0,Sq ft,42117.0,2305
+Pennsylvania,Union,19560.0,Sq ft,42119.0,2313
+Pennsylvania,Venango,nan,Sq ft,42121.0,2316
+Pennsylvania,Warren,1500.0,Sq ft,42123.0,2322
+Pennsylvania,Washington,23580.0,Sq ft,42125.0,2346
+Pennsylvania,Wayne,22692.0,Sq ft,42127.0,2363
+Pennsylvania,Westmoreland,21457.0,Sq ft,42129.0,2394
+Pennsylvania,Wyoming,nan,Sq ft,42131.0,2407
+Pennsylvania,York,87286.0,Sq ft,42133.0,2419
+Rhode Island,Bristol,0.0,Sq ft,44001.0,2433
+Rhode Island,Kent,15500.0,Sq ft,44003.0,2444
+Rhode Island,Newport,42052.0,Sq ft,44005.0,2460
+Rhode Island,Providence,24038.0,Sq ft,44007.0,2475
+Rhode Island,Washington,64988.0,Sq ft,44009.0,2484
+South Carolina,Abbeville,0.0,Sq ft,45001.0,2489
+South Carolina,Aiken,nan,Sq ft,45003.0,2503
+South Carolina,Allendale,0.0,Sq ft,45005.0,2527
+South Carolina,Anderson,22001.0,Sq ft,45007.0,2559
+South Carolina,Bamberg,0.0,Sq ft,45009.0,2592
+South Carolina,Barnwell,0.0,Sq ft,45011.0,2605
+South Carolina,Beaufort,0.0,Sq ft,45013.0,2626
+South Carolina,Berkeley,47000.0,Sq ft,45015.0,2631
+South Carolina,Calhoun,0.0,Sq ft,45017.0,2635
+South Carolina,Charleston,nan,Sq ft,45019.0,2691
+South Carolina,Cherokee,0.0,Sq ft,45021.0,2700
+South Carolina,Chester,0.0,Sq ft,45023.0,2704
+South Carolina,Chesterfield,0.0,Sq ft,45025.0,2708
+South Carolina,Clarendon,0.0,Sq ft,45027.0,2715
+South Carolina,Colleton,0.0,Sq ft,45029.0,2718
+South Carolina,Darlington,0.0,Sq ft,45031.0,2721
+South Carolina,Dillon,0.0,Sq ft,45033.0,2725
+South Carolina,Dorchester,4200.0,Sq ft,45035.0,2730
+South Carolina,Edgefield,0.0,Sq ft,45037.0,2735
+South Carolina,Fairfield,0.0,Sq ft,45039.0,2738
+South Carolina,Florence,0.0,Sq ft,45041.0,2742
+South Carolina,Georgetown,0.0,Sq ft,45043.0,2752
+South Carolina,Greenville,3801.0,Sq ft,45045.0,2759
+South Carolina,Greenwood,0.0,Sq ft,45047.0,2764
+South Carolina,Hampton,0.0,Sq ft,45049.0,2767
+South Carolina,Horry,nan,Sq ft,45051.0,2774
+South Carolina,Jasper,nan,Sq ft,45053.0,2783
+South Carolina,Kershaw,0.0,Sq ft,45055.0,2787
+South Carolina,Lancaster,nan,Sq ft,45057.0,2790
+South Carolina,Laurens,0.0,Sq ft,45059.0,2794
+South Carolina,Lee,0.0,Sq ft,45061.0,2800
+South Carolina,Lexington,19100.0,Sq ft,45063.0,2803
+South Carolina,McCormick,0.0,Sq ft,45065.0,2807
+South Carolina,Marion,0.0,Sq ft,45067.0,2811
+South Carolina,Marlboro,0.0,Sq ft,45069.0,2813
+South Carolina,Newberry,0.0,Sq ft,45071.0,2818
+South Carolina,Oconee,nan,Sq ft,45073.0,2822
+South Carolina,Orangeburg,nan,Sq ft,45075.0,2829
+South Carolina,Pickens,nan,Sq ft,45077.0,2834
+South Carolina,Richland,15200.0,Sq ft,45079.0,2843
+South Carolina,Saluda,nan,Sq ft,45081.0,2846
+South Carolina,Spartanburg,nan,Sq ft,45083.0,2851
+South Carolina,Sumter,0.0,Sq ft,45085.0,2855
+South Carolina,Union,0.0,Sq ft,45087.0,2860
+South Carolina,Williamsburg,0.0,Sq ft,45089.0,2864
+South Carolina,York,0.0,Sq ft,45091.0,2867
+South Dakota,Aurora,0.0,Sq ft,46003.0,2870
+South Dakota,Beadle,4038.0,Sq ft,46005.0,2874
+South Dakota,Bennett,0.0,Sq ft,46007.0,2876
+South Dakota,Bon Homme,0.0,Sq ft,46009.0,2879
+South Dakota,Brookings,nan,Sq ft,46011.0,2882
+South Dakota,Brown,0.0,Sq ft,46013.0,2885
+South Dakota,Brule,0.0,Sq ft,46015.0,2888
+South Dakota,Buffalo,0.0,Sq ft,46017.0,2891
+South Dakota,Butte,26520.0,Sq ft,46019.0,2895
+South Dakota,Campbell,0.0,Sq ft,46021.0,2897
+South Dakota,Charles Mix,0.0,Sq ft,46023.0,2900
+South Dakota,Clark,0.0,Sq ft,46025.0,2901
+South Dakota,Clay,8420.0,Sq ft,46027.0,2903
+South Dakota,Codington,0.0,Sq ft,46029.0,2906
+South Dakota,Corson,1120.0,Sq ft,46031.0,2907
+South Dakota,Custer,18000.0,Sq ft,46033.0,2908
+South Dakota,Davison,0.0,Sq ft,46035.0,2910
+South Dakota,Day,0.0,Sq ft,46037.0,2911
+South Dakota,Deuel,0.0,Sq ft,46039.0,2912
+South Dakota,Dewey,0.0,Sq ft,46041.0,2914
+South Dakota,Douglas,0.0,Sq ft,46043.0,2916
+South Dakota,Edmunds,0.0,Sq ft,46045.0,2917
+South Dakota,Fall River,6120.0,Sq ft,46047.0,2919
+South Dakota,Faulk,0.0,Sq ft,46049.0,2921
+South Dakota,Grant,nan,Sq ft,46051.0,2922
+South Dakota,Gregory,0.0,Sq ft,46053.0,2923
+South Dakota,Haakon,0.0,Sq ft,46055.0,2924
+South Dakota,Hamlin,0.0,Sq ft,46057.0,2926
+South Dakota,Hand,0.0,Sq ft,46059.0,2928
+South Dakota,Hanson,0.0,Sq ft,46061.0,2929
+South Dakota,Harding,0.0,Sq ft,46063.0,2931
+South Dakota,Hughes,nan,Sq ft,46065.0,2933
+South Dakota,Hutchinson,0.0,Sq ft,46067.0,2934
+South Dakota,Hyde,0.0,Sq ft,46069.0,2937
+South Dakota,Jackson,0.0,Sq ft,46071.0,2939
+South Dakota,Jerauld,0.0,Sq ft,46073.0,2941
+South Dakota,Jones,0.0,Sq ft,46075.0,2944
+South Dakota,Kingsbury,nan,Sq ft,46077.0,2945
+South Dakota,Lake,nan,Sq ft,46079.0,2401
+South Dakota,Lawrence,nan,Sq ft,46081.0,2406
+South Dakota,Lincoln,0.0,Sq ft,46083.0,2410
+South Dakota,Lyman,0.0,Sq ft,46085.0,2417
+South Dakota,McCook,nan,Sq ft,46087.0,2422
+South Dakota,McPherson,0.0,Sq ft,46089.0,2426
+South Dakota,Marshall,9600.0,Sq ft,46091.0,2430
+South Dakota,Meade,0.0,Sq ft,46093.0,2442
+South Dakota,Mellette,nan,Sq ft,46095.0,2450
+South Dakota,Miner,0.0,Sq ft,46097.0,2456
+South Dakota,Minnehaha,nan,Sq ft,46099.0,2467
+South Dakota,Moody,nan,Sq ft,46101.0,2485
+South Dakota,Pennington,nan,Sq ft,46103.0,2497
+South Dakota,Perkins,0.0,Sq ft,46105.0,2502
+South Dakota,Potter,0.0,Sq ft,46107.0,2506
+South Dakota,Roberts,nan,Sq ft,46109.0,2511
+South Dakota,Sanborn,0.0,Sq ft,46111.0,2514
+South Dakota,Shannon,0.0,Sq ft,46113.0,2519
+South Dakota,Spink,0.0,Sq ft,46115.0,2523
+South Dakota,Stanley,0.0,Sq ft,46117.0,2530
+South Dakota,Sully,0.0,Sq ft,46119.0,2535
+South Dakota,Todd,0.0,Sq ft,46121.0,2540
+South Dakota,Tripp,0.0,Sq ft,46123.0,2546
+South Dakota,Turner,0.0,Sq ft,46125.0,2550
+South Dakota,Union,0.0,Sq ft,46127.0,2557
+South Dakota,Walworth,0.0,Sq ft,46129.0,2561
+South Dakota,Yankton,0.0,Sq ft,46135.0,2569
+South Dakota,Ziebach,0.0,Sq ft,46137.0,2578
+Tennessee,Anderson,0.0,Sq ft,47001.0,2584
+Tennessee,Bedford,nan,Sq ft,47003.0,2593
+Tennessee,Benton,0.0,Sq ft,47005.0,2598
+Tennessee,Bledsoe,0.0,Sq ft,47007.0,2602
+Tennessee,Blount,21240.0,Sq ft,47009.0,2622
+Tennessee,Bradley,nan,Sq ft,47011.0,2627
+Tennessee,Campbell,nan,Sq ft,47013.0,2633
+Tennessee,Cannon,7250.0,Sq ft,47015.0,2638
+Tennessee,Carroll,0.0,Sq ft,47017.0,2648
+Tennessee,Carter,0.0,Sq ft,47019.0,2654
+Tennessee,Cheatham,2330.0,Sq ft,47021.0,2660
+Tennessee,Chester,0.0,Sq ft,47023.0,2664
+Tennessee,Claiborne,0.0,Sq ft,47025.0,2670
+Tennessee,Clay,0.0,Sq ft,47027.0,2679
+Tennessee,Cocke,nan,Sq ft,47029.0,2686
+Tennessee,Coffee,0.0,Sq ft,47031.0,2689
+Tennessee,Crockett,0.0,Sq ft,47033.0,2693
+Tennessee,Cumberland,nan,Sq ft,47035.0,2696
+Tennessee,Davidson,0.0,Sq ft,47037.0,2698
+Tennessee,Decatur,0.0,Sq ft,47039.0,2705
+Tennessee,DeKalb,nan,Sq ft,47041.0,2710
+Tennessee,Dickson,nan,Sq ft,47043.0,2717
+Tennessee,Dyer,0.0,Sq ft,47045.0,2723
+Tennessee,Fayette,0.0,Sq ft,47047.0,2726
+Tennessee,Fentress,0.0,Sq ft,47049.0,2731
+Tennessee,Franklin,0.0,Sq ft,47051.0,2734
+Tennessee,Gibson,nan,Sq ft,47053.0,2739
+Tennessee,Giles,6920.0,Sq ft,47055.0,2743
+Tennessee,Grainger,956112.0,Sq ft,47057.0,2748
+Tennessee,Greene,4916.0,Sq ft,47059.0,2750
+Tennessee,Grundy,3806.0,Sq ft,47061.0,2754
+Tennessee,Hamblen,0.0,Sq ft,47063.0,2757
+Tennessee,Hamilton,0.0,Sq ft,47065.0,2761
+Tennessee,Hancock,0.0,Sq ft,47067.0,2766
+Tennessee,Hardeman,0.0,Sq ft,47069.0,2770
+Tennessee,Hardin,5320.0,Sq ft,47071.0,2773
+Tennessee,Hawkins,8740.0,Sq ft,47073.0,2779
+Tennessee,Haywood,0.0,Sq ft,47075.0,2781
+Tennessee,Henderson,0.0,Sq ft,47077.0,2786
+Tennessee,Henry,nan,Sq ft,47079.0,2789
+Tennessee,Hickman,nan,Sq ft,47081.0,2792
+Tennessee,Houston,nan,Sq ft,47083.0,2796
+Tennessee,Humphreys,0.0,Sq ft,47085.0,2798
+Tennessee,Jackson,0.0,Sq ft,47087.0,2801
+Tennessee,Jefferson,0.0,Sq ft,47089.0,2804
+Tennessee,Johnson,0.0,Sq ft,47091.0,2808
+Tennessee,Knox,nan,Sq ft,47093.0,2814
+Tennessee,Lake,0.0,Sq ft,47095.0,2817
+Tennessee,Lauderdale,0.0,Sq ft,47097.0,2821
+Tennessee,Lawrence,6368.0,Sq ft,47099.0,2823
+Tennessee,Lewis,nan,Sq ft,47101.0,2825
+Tennessee,Lincoln,nan,Sq ft,47103.0,2828
+Tennessee,Loudon,nan,Sq ft,47105.0,2830
+Tennessee,McMinn,nan,Sq ft,47107.0,2833
+Tennessee,McNairy,676.0,Sq ft,47109.0,2836
+Tennessee,Macon,0.0,Sq ft,47111.0,2839
+Tennessee,Madison,0.0,Sq ft,47113.0,2841
+Tennessee,Marion,nan,Sq ft,47115.0,2844
+Tennessee,Marshall,0.0,Sq ft,47117.0,2848
+Tennessee,Maury,nan,Sq ft,47119.0,2850
+Tennessee,Meigs,0.0,Sq ft,47121.0,2854
+Tennessee,Monroe,0.0,Sq ft,47123.0,2857
+Tennessee,Montgomery,nan,Sq ft,47125.0,2859
+Tennessee,Moore,0.0,Sq ft,47127.0,2863
+Tennessee,Morgan,0.0,Sq ft,47129.0,2866
+Tennessee,Obion,0.0,Sq ft,47131.0,2872
+Tennessee,Overton,nan,Sq ft,47133.0,2875
+Tennessee,Perry,0.0,Sq ft,47135.0,2878
+Tennessee,Pickett,0.0,Sq ft,47137.0,2881
+Tennessee,Polk,9804.0,Sq ft,47139.0,2883
+Tennessee,Putnam,4868.0,Sq ft,47141.0,2890
+Tennessee,Rhea,0.0,Sq ft,47143.0,2893
+Tennessee,Roane,nan,Sq ft,47145.0,2001
+Tennessee,Robertson,nan,Sq ft,47147.0,2011
+Tennessee,Rutherford,nan,Sq ft,47149.0,2015
+Tennessee,Scott,0.0,Sq ft,47151.0,2020
+Tennessee,Sequatchie,nan,Sq ft,47153.0,2025
+Tennessee,Sevier,nan,Sq ft,47155.0,2030
+Tennessee,Shelby,nan,Sq ft,47157.0,2033
+Tennessee,Smith,0.0,Sq ft,47159.0,2037
+Tennessee,Stewart,0.0,Sq ft,47161.0,2041
+Tennessee,Sullivan,0.0,Sq ft,47163.0,2046
+Tennessee,Sumner,nan,Sq ft,47165.0,2050
+Tennessee,Tipton,0.0,Sq ft,47167.0,2055
+Tennessee,Trousdale,0.0,Sq ft,47169.0,2062
+Tennessee,Unicoi,0.0,Sq ft,47171.0,2069
+Tennessee,Union,nan,Sq ft,47173.0,2073
+Tennessee,Van Buren,0.0,Sq ft,47175.0,2077
+Tennessee,Warren,11100.0,Sq ft,47177.0,2081
+Tennessee,Washington,nan,Sq ft,47179.0,2085
+Tennessee,Wayne,0.0,Sq ft,47181.0,2089
+Tennessee,Weakley,nan,Sq ft,47183.0,2096
+Tennessee,White,0.0,Sq ft,47185.0,2100
+Tennessee,Williamson,59750.0,Sq ft,47187.0,2105
+Tennessee,Wilson,0.0,Sq ft,47189.0,2111
+Texas,Anderson,nan,Sq ft,48001.0,2113
+Texas,Andrews,0.0,Sq ft,48003.0,2117
+Texas,Angelina,0.0,Sq ft,48005.0,2124
+Texas,Aransas,0.0,Sq ft,48007.0,2162
+Texas,Archer,0.0,Sq ft,48009.0,2168
+Texas,Armstrong,0.0,Sq ft,48011.0,2172
+Texas,Atascosa,0.0,Sq ft,48013.0,2173
+Texas,Austin,nan,Sq ft,48015.0,2177
+Texas,Bailey,0.0,Sq ft,48017.0,2179
+Texas,Bandera,0.0,Sq ft,48019.0,2183
+Texas,Bastrop,nan,Sq ft,48021.0,2190
+Texas,Baylor,0.0,Sq ft,48023.0,2192
+Texas,Bee,nan,Sq ft,48025.0,2196
+Texas,Bell,0.0,Sq ft,48027.0,2198
+Texas,Bexar,0.0,Sq ft,48029.0,2203
+Texas,Blanco,0.0,Sq ft,48031.0,2207
+Texas,Borden,0.0,Sq ft,48033.0,2212
+Texas,Bosque,0.0,Sq ft,48035.0,2216
+Texas,Bowie,0.0,Sq ft,48037.0,2224
+Texas,Brazoria,96689.0,Sq ft,48039.0,2240
+Texas,Brazos,24080.0,Sq ft,48041.0,2253
+Texas,Brewster,nan,Sq ft,48043.0,2262
+Texas,Briscoe,0.0,Sq ft,48045.0,2269
+Texas,Brooks,0.0,Sq ft,48047.0,2279
+Texas,Brown,0.0,Sq ft,48049.0,2296
+Texas,Burleson,0.0,Sq ft,48051.0,2304
+Texas,Burnet,nan,Sq ft,48053.0,2312
+Texas,Caldwell,nan,Sq ft,48055.0,2320
+Texas,Calhoun,0.0,Sq ft,48057.0,2327
+Texas,Callahan,0.0,Sq ft,48059.0,2331
+Texas,Cameron,3306.0,Sq ft,48061.0,2359
+Texas,Camp,0.0,Sq ft,48063.0,2373
+Texas,Carson,0.0,Sq ft,48065.0,2377
+Texas,Cass,nan,Sq ft,48067.0,2382
+Texas,Castro,0.0,Sq ft,48069.0,2386
+Texas,Chambers,0.0,Sq ft,48071.0,2395
+Texas,Cherokee,335000.0,Sq ft,48073.0,2400
+Texas,Childress,0.0,Sq ft,48075.0,2405
+Texas,Clay,144000.0,Sq ft,48077.0,2409
+Texas,Cochran,0.0,Sq ft,48079.0,2413
+Texas,Coke,0.0,Sq ft,48081.0,2418
+Texas,Coleman,0.0,Sq ft,48083.0,2423
+Texas,Collin,2100.0,Sq ft,48085.0,2429
+Texas,Collingsworth,0.0,Sq ft,48087.0,2434
+Texas,Colorado,0.0,Sq ft,48089.0,2441
+Texas,Comal,nan,Sq ft,48091.0,2449
+Texas,Comanche,nan,Sq ft,48093.0,2455
+Texas,Concho,0.0,Sq ft,48095.0,2458
+Texas,Cooke,0.0,Sq ft,48097.0,2463
+Texas,Coryell,0.0,Sq ft,48099.0,2469
+Texas,Cottle,0.0,Sq ft,48101.0,2473
+Texas,Crane,0.0,Sq ft,48103.0,2478
+Texas,Crockett,0.0,Sq ft,48105.0,2483
+Texas,Crosby,0.0,Sq ft,48107.0,2487
+Texas,Culberson,0.0,Sq ft,48109.0,2491
+Texas,Dallam,0.0,Sq ft,48111.0,2498
+Texas,Dallas,0.0,Sq ft,48113.0,2507
+Texas,Dawson,0.0,Sq ft,48115.0,2512
+Texas,Deaf Smith,0.0,Sq ft,48117.0,2515
+Texas,Delta,0.0,Sq ft,48119.0,2524
+Texas,Denton,nan,Sq ft,48121.0,2532
+Texas,DeWitt,0.0,Sq ft,48123.0,2538
+Texas,Dickens,0.0,Sq ft,48125.0,2542
+Texas,Dimmit,0.0,Sq ft,48127.0,2548
+Texas,Donley,0.0,Sq ft,48129.0,2551
+Texas,Duval,0.0,Sq ft,48131.0,2556
+Texas,Eastland,0.0,Sq ft,48133.0,2562
+Texas,Ector,0.0,Sq ft,48135.0,2568
+Texas,Edwards,0.0,Sq ft,48137.0,2574
+Texas,Ellis,nan,Sq ft,48139.0,2579
+Texas,El Paso,0.0,Sq ft,48141.0,2588
+Texas,Erath,nan,Sq ft,48143.0,2597
+Texas,Falls,0.0,Sq ft,48145.0,2601
+Texas,Fannin,0.0,Sq ft,48147.0,2621
+Texas,Fayette,nan,Sq ft,48149.0,2624
+Texas,Fisher,0.0,Sq ft,48151.0,2628
+Texas,Floyd,0.0,Sq ft,48153.0,2630
+Texas,Foard,0.0,Sq ft,48155.0,2002
+Texas,Fort Bend,25000.0,Sq ft,48157.0,2009
+Texas,Franklin,nan,Sq ft,48159.0,2016
+Texas,Freestone,nan,Sq ft,48161.0,2022
+Texas,Frio,0.0,Sq ft,48163.0,2028
+Texas,Gaines,0.0,Sq ft,48165.0,2032
+Texas,Galveston,0.0,Sq ft,48167.0,2059
+Texas,Garza,0.0,Sq ft,48169.0,2060
+Texas,Gillespie,5700.0,Sq ft,48171.0,2066
+Texas,Glasscock,0.0,Sq ft,48173.0,2072
+Texas,Goliad,0.0,Sq ft,48175.0,2079
+Texas,Gonzales,nan,Sq ft,48177.0,2086
+Texas,Gray,0.0,Sq ft,48179.0,2088
+Texas,Grayson,nan,Sq ft,48181.0,2094
+Texas,Gregg,0.0,Sq ft,48183.0,2101
+Texas,Grimes,0.0,Sq ft,48185.0,2108
+Texas,Guadalupe,nan,Sq ft,48187.0,2116
+Texas,Hale,0.0,Sq ft,48189.0,2120
+Texas,Hall,0.0,Sq ft,48191.0,2125
+Texas,Hamilton,0.0,Sq ft,48193.0,2128
+Texas,Hansford,45000.0,Sq ft,48195.0,2132
+Texas,Hardeman,0.0,Sq ft,48197.0,2137
+Texas,Hardin,0.0,Sq ft,48199.0,2142
+Texas,Harris,66848.0,Sq ft,48201.0,2149
+Texas,Harrison,nan,Sq ft,48203.0,2157
+Texas,Hartley,0.0,Sq ft,48205.0,2160
+Texas,Haskell,0.0,Sq ft,48207.0,2163
+Texas,Hays,6717.0,Sq ft,48209.0,2166
+Texas,Hemphill,0.0,Sq ft,48211.0,2171
+Texas,Henderson,0.0,Sq ft,48213.0,2178
+Texas,Hidalgo,0.0,Sq ft,48215.0,2188
+Texas,Hill,6880.0,Sq ft,48217.0,2201
+Texas,Hockley,0.0,Sq ft,48219.0,2208
+Texas,Hood,0.0,Sq ft,48221.0,2213
+Texas,Hopkins,0.0,Sq ft,48223.0,2221
+Texas,Houston,nan,Sq ft,48225.0,2228
+Texas,Howard,0.0,Sq ft,48227.0,2231
+Texas,Hudspeth,0.0,Sq ft,48229.0,2241
+Texas,Hunt,2920.0,Sq ft,48231.0,2246
+Texas,Hutchinson,0.0,Sq ft,48233.0,2249
+Texas,Irion,0.0,Sq ft,48235.0,2255
+Texas,Jack,0.0,Sq ft,48237.0,2256
+Texas,Jackson,0.0,Sq ft,48239.0,2264
+Texas,Jasper,1440.0,Sq ft,48241.0,2271
+Texas,Jeff Davis,0.0,Sq ft,48243.0,2275
+Texas,Jefferson,0.0,Sq ft,48245.0,2285
+Texas,Jim Hogg,0.0,Sq ft,48247.0,2288
+Texas,Jim Wells,0.0,Sq ft,48249.0,2294
+Texas,Johnson,nan,Sq ft,48251.0,2299
+Texas,Jones,0.0,Sq ft,48253.0,2301
+Texas,Karnes,0.0,Sq ft,48255.0,2307
+Texas,Kaufman,nan,Sq ft,48257.0,2314
+Texas,Kendall,nan,Sq ft,48259.0,2319
+Texas,Kenedy,0.0,Sq ft,48261.0,2330
+Texas,Kent,0.0,Sq ft,48263.0,2335
+Texas,Kerr,nan,Sq ft,48265.0,2337
+Texas,Kimble,0.0,Sq ft,48267.0,2339
+Texas,King,0.0,Sq ft,48269.0,2342
+Texas,Kinney,0.0,Sq ft,48271.0,2347
+Texas,Kleberg,0.0,Sq ft,48273.0,2358
+Texas,Knox,0.0,Sq ft,48275.0,2364
+Texas,Lamar,0.0,Sq ft,48277.0,2371
+Texas,Lamb,0.0,Sq ft,48279.0,2376
+Texas,Lampasas,0.0,Sq ft,48281.0,2381
+Texas,La Salle,0.0,Sq ft,48283.0,2388
+Texas,Lavaca,nan,Sq ft,48285.0,2392
+Texas,Lee,0.0,Sq ft,48287.0,2398
+Texas,Leon,nan,Sq ft,48289.0,2402
+Texas,Liberty,nan,Sq ft,48291.0,2404
+Texas,Limestone,0.0,Sq ft,48293.0,2408
+Texas,Lipscomb,0.0,Sq ft,48295.0,2412
+Texas,Live Oak,0.0,Sq ft,48297.0,2416
+Texas,Llano,0.0,Sq ft,48299.0,2421
+Texas,Loving,0.0,Sq ft,48301.0,2424
+Texas,Lubbock,0.0,Sq ft,48303.0,2428
+Texas,Lynn,0.0,Sq ft,48305.0,2438
+Texas,McCulloch,0.0,Sq ft,48307.0,2452
+Texas,McLennan,nan,Sq ft,48309.0,2477
+Texas,McMullen,0.0,Sq ft,48311.0,2494
+Texas,Madison,0.0,Sq ft,48313.0,2526
+Texas,Marion,0.0,Sq ft,48315.0,2547
+Texas,Martin,0.0,Sq ft,48317.0,2564
+Texas,Mason,0.0,Sq ft,48319.0,2570
+Texas,Matagorda,0.0,Sq ft,48321.0,2637
+Texas,Maverick,0.0,Sq ft,48323.0,2649
+Texas,Medina,0.0,Sq ft,48325.0,2652
+Texas,Menard,0.0,Sq ft,48327.0,2655
+Texas,Midland,0.0,Sq ft,48329.0,2657
+Texas,Milam,nan,Sq ft,48331.0,2659
+Texas,Mills,0.0,Sq ft,48333.0,2663
+Texas,Mitchell,0.0,Sq ft,48335.0,2666
+Texas,Montague,nan,Sq ft,48337.0,2669
+Texas,Montgomery,nan,Sq ft,48339.0,2682
+Texas,Moore,0.0,Sq ft,48341.0,2683
+Texas,Morris,0.0,Sq ft,48343.0,2688
+Texas,Motley,0.0,Sq ft,48345.0,2692
+Texas,Nacogdoches,0.0,Sq ft,48347.0,2701
+Texas,Navarro,nan,Sq ft,48349.0,2706
+Texas,Newton,0.0,Sq ft,48351.0,2711
+Texas,Nolan,0.0,Sq ft,48353.0,2714
+Texas,Nueces,0.0,Sq ft,48355.0,2194
+Texas,Ochiltree,0.0,Sq ft,48357.0,2204
+Texas,Oldham,0.0,Sq ft,48359.0,2210
+Texas,Orange,0.0,Sq ft,48361.0,2214
+Texas,Palo Pinto,nan,Sq ft,48363.0,2220
+Texas,Panola,0.0,Sq ft,48365.0,2227
+Texas,Parker,nan,Sq ft,48367.0,2229
+Texas,Parmer,0.0,Sq ft,48369.0,2235
+Texas,Pecos,0.0,Sq ft,48371.0,2239
+Texas,Polk,0.0,Sq ft,48373.0,2243
+Texas,Potter,nan,Sq ft,48375.0,2247
+Texas,Presidio,nan,Sq ft,48377.0,2261
+Texas,Rains,nan,Sq ft,48379.0,2268
+Texas,Randall,nan,Sq ft,48381.0,2274
+Texas,Reagan,0.0,Sq ft,48383.0,2280
+Texas,Real,0.0,Sq ft,48385.0,2283
+Texas,Red River,0.0,Sq ft,48387.0,2295
+Texas,Reeves,0.0,Sq ft,48389.0,2308
+Texas,Refugio,0.0,Sq ft,48391.0,2334
+Texas,Roberts,0.0,Sq ft,48393.0,2348
+Texas,Robertson,0.0,Sq ft,48395.0,2353
+Texas,Rockwall,0.0,Sq ft,48397.0,2355
+Texas,Runnels,0.0,Sq ft,48399.0,2361
+Texas,Rusk,nan,Sq ft,48401.0,2367
+Texas,Sabine,nan,Sq ft,48403.0,2370
+Texas,San Augustine,nan,Sq ft,48405.0,2380
+Texas,San Jacinto,350.0,Sq ft,48407.0,2387
+Texas,San Patricio,0.0,Sq ft,48409.0,2415
+Texas,San Saba,0.0,Sq ft,48411.0,2435
+Texas,Schleicher,0.0,Sq ft,48413.0,2437
+Texas,Scurry,0.0,Sq ft,48415.0,2443
+Texas,Shackelford,0.0,Sq ft,48417.0,2445
+Texas,Shelby,1060.0,Sq ft,48419.0,2448
+Texas,Sherman,0.0,Sq ft,48421.0,2453
+Texas,Smith,9840.0,Sq ft,48423.0,2465
+Texas,Somervell,0.0,Sq ft,48425.0,2470
+Texas,Starr,0.0,Sq ft,48427.0,2474
+Texas,Stephens,0.0,Sq ft,48429.0,2480
+Texas,Sterling,0.0,Sq ft,48431.0,2481
+Texas,Stonewall,0.0,Sq ft,48433.0,2486
+Texas,Sutton,0.0,Sq ft,48435.0,2490
+Texas,Swisher,nan,Sq ft,48437.0,2495
+Texas,Tarrant,nan,Sq ft,48439.0,2500
+Texas,Taylor,nan,Sq ft,48441.0,2508
+Texas,Terrell,0.0,Sq ft,48443.0,2518
+Texas,Terry,0.0,Sq ft,48445.0,2522
+Texas,Throckmorton,0.0,Sq ft,48447.0,2525
+Texas,Titus,0.0,Sq ft,48449.0,2531
+Texas,Tom Green,0.0,Sq ft,48451.0,2536
+Texas,Travis,4400.0,Sq ft,48453.0,2543
+Texas,Trinity,0.0,Sq ft,48455.0,2553
+Texas,Tyler,0.0,Sq ft,48457.0,2560
+Texas,Upshur,0.0,Sq ft,48459.0,2566
+Texas,Upton,0.0,Sq ft,48461.0,2572
+Texas,Uvalde,0.0,Sq ft,48463.0,2576
+Texas,Val Verde,0.0,Sq ft,48465.0,2582
+Texas,Van Zandt,4300.0,Sq ft,48467.0,2586
+Texas,Victoria,0.0,Sq ft,48469.0,2595
+Texas,Walker,nan,Sq ft,48471.0,2603
+Texas,Waller,0.0,Sq ft,48473.0,2606
+Texas,Ward,0.0,Sq ft,48475.0,2610
+Texas,Washington,nan,Sq ft,48477.0,2613
+Texas,Webb,0.0,Sq ft,48479.0,2616
+Texas,Wharton,nan,Sq ft,48481.0,2618
+Texas,Wheeler,0.0,Sq ft,48483.0,2623
+Texas,Wichita,nan,Sq ft,48485.0,2632
+Texas,Wilbarger,0.0,Sq ft,48487.0,2634
+Texas,Willacy,0.0,Sq ft,48489.0,2639
+Texas,Williamson,80360.0,Sq ft,48491.0,2640
+Texas,Wilson,0.0,Sq ft,48493.0,2641
+Texas,Winkler,0.0,Sq ft,48495.0,2642
+Texas,Wise,1200.0,Sq ft,48497.0,2643
+Texas,Wood,0.0,Sq ft,48499.0,2644
+Texas,Yoakum,0.0,Sq ft,48501.0,2645
+Texas,Young,0.0,Sq ft,48503.0,2646
+Texas,Zapata,0.0,Sq ft,48505.0,2650
+Texas,Zavala,0.0,Sq ft,48507.0,2651
+Utah,Beaver,nan,Sq ft,49001.0,2653
+Utah,Box Elder,nan,Sq ft,49003.0,2658
+Utah,Cache,19420.0,Sq ft,49005.0,2661
+Utah,Carbon,13416.0,Sq ft,49007.0,2665
+Utah,Daggett,0.0,Sq ft,49009.0,2668
+Utah,Davis,30848.0,Sq ft,49011.0,2671
+Utah,Duchesne,4525.0,Sq ft,49013.0,2672
+Utah,Emery,0.0,Sq ft,49015.0,2673
+Utah,Garfield,0.0,Sq ft,49017.0,2674
+Utah,Grand,74000.0,Sq ft,49019.0,2675
+Utah,Iron,nan,Sq ft,49021.0,2676
+Utah,Juab,0.0,Sq ft,49023.0,2677
+Utah,Kane,0.0,Sq ft,49025.0,2678
+Utah,Millard,0.0,Sq ft,49027.0,2680
+Utah,Morgan,nan,Sq ft,49029.0,2681
+Utah,Piute,0.0,Sq ft,49031.0,2685
+Utah,Rich,0.0,Sq ft,49033.0,2687
+Utah,Salt Lake,11622.0,Sq ft,49035.0,2690
+Utah,San Juan,0.0,Sq ft,49037.0,2694
+Utah,Sanpete,0.0,Sq ft,49039.0,2697
+Utah,Sevier,nan,Sq ft,49041.0,2702
+Utah,Summit,7452.0,Sq ft,49043.0,2703
+Utah,Tooele,0.0,Sq ft,49045.0,2707
+Utah,Uintah,0.0,Sq ft,49047.0,2539
+Utah,Utah,22760.0,Sq ft,49049.0,2555
+Utah,Wasatch,3000.0,Sq ft,49051.0,2567
+Utah,Washington,8900.0,Sq ft,49053.0,2577
+Utah,Wayne,nan,Sq ft,49055.0,2580
+Utah,Weber,nan,Sq ft,49057.0,2587
+Vermont,Addison,76813.0,Sq ft,50001.0,2590
+Vermont,Bennington,48308.0,Sq ft,50003.0,2591
+Vermont,Caledonia,nan,Sq ft,50005.0,2596
+Vermont,Chittenden,184354.0,Sq ft,50007.0,2599
+Vermont,Essex,9200.0,Sq ft,50009.0,2604
+Vermont,Franklin,30320.0,Sq ft,50011.0,2607
+Vermont,Grand Isle,37360.0,Sq ft,50013.0,2609
+Vermont,Lamoille,55370.0,Sq ft,50015.0,2611
+Vermont,Orange,153180.0,Sq ft,50017.0,2612
+Vermont,Orleans,120244.0,Sq ft,50019.0,2614
+Vermont,Rutland,57778.0,Sq ft,50021.0,2615
+Vermont,Washington,92484.0,Sq ft,50023.0,2617
+Vermont,Windham,78540.0,Sq ft,50025.0,2620
+Vermont,Windsor,97912.0,Sq ft,50027.0,2625
+Virginia,Accomack,0.0,Sq ft,51001.0,2719
+Virginia,Albemarle,19860.0,Sq ft,51003.0,2728
+Virginia,Alleghany,0.0,Sq ft,51005.0,2733
+Virginia,Amelia,0.0,Sq ft,51007.0,2741
+Virginia,Amherst,0.0,Sq ft,51009.0,2746
+Virginia,Appomattox,0.0,Sq ft,51011.0,2749
+Virginia,Arlington,0.0,Sq ft,51013.0,2753
+Virginia,Augusta,72916.0,Sq ft,51015.0,2758
+Virginia,Bath,0.0,Sq ft,51017.0,2763
+Virginia,Bedford County,nan,Sq ft,51019.0,2769
+Virginia,Bland,0.0,Sq ft,51021.0,2772
+Virginia,Botetourt,0.0,Sq ft,51023.0,2776
+Virginia,Brunswick,nan,Sq ft,51025.0,2777
+Virginia,Buchanan,0.0,Sq ft,51027.0,2784
+Virginia,Buckingham,0.0,Sq ft,51029.0,2785
+Virginia,Campbell,76488.0,Sq ft,51031.0,2788
+Virginia,Caroline,nan,Sq ft,51033.0,2793
+Virginia,Carroll,2920.0,Sq ft,51035.0,2797
+Virginia,Charles City,0.0,Sq ft,51036.0,2806
+Virginia,Charlotte,nan,Sq ft,51037.0,2810
+Virginia,Chesterfield,0.0,Sq ft,51041.0,2816
+Virginia,Clarke,nan,Sq ft,51043.0,2819
+Virginia,Craig,0.0,Sq ft,51045.0,2820
+Virginia,Culpeper,0.0,Sq ft,51047.0,2824
+Virginia,Cumberland,0.0,Sq ft,51049.0,2827
+Virginia,Dickenson,0.0,Sq ft,51051.0,2832
+Virginia,Dinwiddie,11200.0,Sq ft,51053.0,2838
+Virginia,Essex,0.0,Sq ft,51057.0,2842
+Virginia,Fairfax County,0.0,Sq ft,51059.0,2849
+Virginia,Fauquier,70900.0,Sq ft,51061.0,2853
+Virginia,Floyd,8400.0,Sq ft,51063.0,2856
+Virginia,Fluvanna,nan,Sq ft,51065.0,2858
+Virginia,Franklin County,9904.0,Sq ft,51067.0,2862
+Virginia,Frederick,0.0,Sq ft,51069.0,2868
+Virginia,Giles,7520.0,Sq ft,51071.0,2873
+Virginia,Gloucester,0.0,Sq ft,51073.0,2887
+Virginia,Goochland,nan,Sq ft,51075.0,2892
+Virginia,Grayson,1050.0,Sq ft,51077.0,2896
+Virginia,Greene,50600.0,Sq ft,51079.0,2899
+Virginia,Greensville,0.0,Sq ft,51081.0,2902
+Virginia,Halifax,24400.0,Sq ft,51083.0,2904
+Virginia,Hanover,21850.0,Sq ft,51085.0,2909
+Virginia,Henrico,nan,Sq ft,51087.0,2915
+Virginia,Henry,0.0,Sq ft,51089.0,2918
+Virginia,Highland,0.0,Sq ft,51091.0,2920
+Virginia,Isle of Wight,0.0,Sq ft,51093.0,2925
+Virginia,James City,0.0,Sq ft,51095.0,2930
+Virginia,King and Queen,nan,Sq ft,51097.0,2936
+Virginia,King George,nan,Sq ft,51099.0,2938
+Virginia,King William,0.0,Sq ft,51101.0,2943
+Virginia,Lancaster,0.0,Sq ft,51103.0,2948
+Virginia,Lee,nan,Sq ft,51105.0,2950
+Virginia,Loudoun,19598.0,Sq ft,51107.0,2952
+Virginia,Louisa,6000.0,Sq ft,51109.0,2953
+Virginia,Lunenburg,nan,Sq ft,51111.0,2954
+Virginia,Madison,3503.0,Sq ft,51113.0,2955
+Virginia,Mathews,0.0,Sq ft,51115.0,2962
+Virginia,Mecklenburg,9280.0,Sq ft,51117.0,2964
+Virginia,Middlesex,0.0,Sq ft,51119.0,2965
+Virginia,Montgomery,0.0,Sq ft,51121.0,2966
+Virginia,Nelson,17184.0,Sq ft,51125.0,2968
+Virginia,New Kent,0.0,Sq ft,51127.0,2971
+Virginia,Northampton,69696.0,Sq ft,51131.0,2982
+Virginia,Northumberland,0.0,Sq ft,51133.0,2983
+Virginia,Nottoway,nan,Sq ft,51135.0,2984
+Virginia,Orange,384.0,Sq ft,51137.0,2985
+Virginia,Page,nan,Sq ft,51139.0,2986
+Virginia,Patrick,11732.0,Sq ft,51141.0,2987
+Virginia,Pittsylvania,12000.0,Sq ft,51143.0,2988
+Virginia,Powhatan,10350.0,Sq ft,51145.0,2989
+Virginia,Prince Edward,nan,Sq ft,51147.0,2990
+Virginia,Prince George,nan,Sq ft,51149.0,2991
+Virginia,Prince William,nan,Sq ft,51153.0,2992
+Virginia,Pulaski,nan,Sq ft,51155.0,2993
+Virginia,Rappahannock,nan,Sq ft,51157.0,2994
+Virginia,Richmond County,0.0,Sq ft,51159.0,2995
+Virginia,Roanoke County,8095.0,Sq ft,51161.0,2996
+Virginia,Rockbridge,21320.0,Sq ft,51163.0,2997
+Virginia,Rockingham,273738.0,Sq ft,51165.0,2998
+Virginia,Russell,0.0,Sq ft,51167.0,2999
+Virginia,Scott,0.0,Sq ft,51169.0,2585
+Virginia,Shenandoah,12252.0,Sq ft,51171.0,2594
+Virginia,Smyth,0.0,Sq ft,51173.0,2600
+Virginia,Southampton,nan,Sq ft,51175.0,2608
+Virginia,Spotsylvania,50000.0,Sq ft,51177.0,2619
+Virginia,Stafford,0.0,Sq ft,51179.0,2629
+Virginia,Surry,0.0,Sq ft,51181.0,2636
+Virginia,Sussex,nan,Sq ft,51183.0,2647
+Virginia,Tazewell,800.0,Sq ft,51185.0,2656
+Virginia,Warren,498.0,Sq ft,51187.0,2662
+Virginia,Washington,nan,Sq ft,51191.0,2667
+Virginia,Westmoreland,0.0,Sq ft,51193.0,2684
+Virginia,Wise,5000.0,Sq ft,51195.0,2695
+Virginia,Wythe,0.0,Sq ft,51197.0,2699
+Virginia,York,0.0,Sq ft,51199.0,2709
+Virginia,Alexandria,nan,Sq ft,51510.0,2712
+Virginia,Bedford County,nan,Sq ft,51515.0,2769
+Virginia,Bristol,nan,Sq ft,51520.0,2716
+Virginia,Buena Vista,nan,Sq ft,51530.0,2720
+Virginia,Charlottesville,nan,Sq ft,51540.0,2722
+Virginia,Chesapeake,nan,Sq ft,51550.0,2724
+Virginia,Colonial Heights,nan,Sq ft,51570.0,2727
+Virginia,Covington,nan,Sq ft,51580.0,2729
+Virginia,Danville,nan,Sq ft,51590.0,2732
+Virginia,Emporia,nan,Sq ft,51595.0,2736
+Virginia,Fairfax County,nan,Sq ft,51600.0,2849
+Virginia,Falls Church,nan,Sq ft,51610.0,2740
+Virginia,Franklin County,nan,Sq ft,51620.0,2862
+Virginia,Fredericksburg,nan,Sq ft,51630.0,2745
+Virginia,Galax,nan,Sq ft,51640.0,2747
+Virginia,Hampton,0.0,Sq ft,51650.0,2751
+Virginia,Harrisonburg,nan,Sq ft,51660.0,2755
+Virginia,Hopewell,nan,Sq ft,51670.0,2756
+Virginia,Lexington,nan,Sq ft,51678.0,2760
+Virginia,Lynchburg,nan,Sq ft,51680.0,2762
+Virginia,Manassas,nan,Sq ft,51683.0,2765
+Virginia,Manassas Park,nan,Sq ft,51685.0,2768
+Virginia,Martinsville,nan,Sq ft,51690.0,2771
+Virginia,Newport News,0.0,Sq ft,51700.0,2775
+Virginia,Norfolk,nan,Sq ft,51710.0,2778
+Virginia,Norton,nan,Sq ft,51720.0,2780
+Virginia,Petersburg,nan,Sq ft,51730.0,2782
+Virginia,Poquoson,nan,Sq ft,51735.0,2791
+Virginia,Portsmouth,nan,Sq ft,51740.0,2795
+Virginia,Radford,nan,Sq ft,51750.0,2799
+Virginia,Richmond County,nan,Sq ft,51760.0,2995
+Virginia,Roanoke County,nan,Sq ft,51770.0,2996
+Virginia,Salem,nan,Sq ft,51775.0,2809
+Virginia,Staunton,nan,Sq ft,51790.0,2812
+Virginia,Suffolk,0.0,Sq ft,51800.0,2815
+Virginia,Virginia Beach,22224.0,Sq ft,51810.0,2826
+Virginia,Waynesboro,nan,Sq ft,51820.0,2831
+Virginia,Williamsburg,nan,Sq ft,51830.0,2835
+Virginia,Winchester,nan,Sq ft,51840.0,2837
+Washington,Adams,0.0,Sq ft,53001.0,2840
+Washington,Asotin,12838.0,Sq ft,53003.0,2845
+Washington,Benton,nan,Sq ft,53005.0,2847
+Washington,Chelan,nan,Sq ft,53007.0,2852
+Washington,Clallam,27053.0,Sq ft,53009.0,2861
+Washington,Clark,25060.0,Sq ft,53011.0,2865
+Washington,Columbia,0.0,Sq ft,53013.0,2869
+Washington,Cowlitz,23700.0,Sq ft,53015.0,2871
+Washington,Douglas,0.0,Sq ft,53017.0,2877
+Washington,Ferry,nan,Sq ft,53019.0,2880
+Washington,Franklin,0.0,Sq ft,53021.0,2884
+Washington,Garfield,0.0,Sq ft,53023.0,2886
+Washington,Grant,0.0,Sq ft,53025.0,2889
+Washington,Grays Harbor,3850.0,Sq ft,53027.0,2894
+Washington,Island,19018.0,Sq ft,53029.0,2898
+Washington,Jefferson,29730.0,Sq ft,53031.0,2905
+Washington,King,147273.0,Sq ft,53033.0,2913
+Washington,Kitsap,55752.0,Sq ft,53035.0,2927
+Washington,Kittitas,nan,Sq ft,53037.0,2932
+Washington,Klickitat,20364.0,Sq ft,53039.0,2935
+Washington,Lewis,28877.0,Sq ft,53041.0,2940
+Washington,Lincoln,nan,Sq ft,53043.0,2942
+Washington,Mason,nan,Sq ft,53045.0,2946
+Washington,Okanogan,15433.0,Sq ft,53047.0,2947
+Washington,Pacific,nan,Sq ft,53049.0,2949
+Washington,Pend Oreille,nan,Sq ft,53051.0,2951
+Washington,Pierce,20609.0,Sq ft,53053.0,2956
+Washington,San Juan,36590.0,Sq ft,53055.0,2957
+Washington,Skagit,44362.0,Sq ft,53057.0,2958
+Washington,Skamania,0.0,Sq ft,53059.0,2959
+Washington,Snohomish,43872.0,Sq ft,53061.0,2960
+Washington,Spokane,40432.0,Sq ft,53063.0,2961
+Washington,Stevens,15529.0,Sq ft,53065.0,2963
+Washington,Thurston,32180.0,Sq ft,53067.0,2967
+Washington,Wahkiakum,3100.0,Sq ft,53069.0,2969
+Washington,Walla Walla,nan,Sq ft,53071.0,2970
+Washington,Whatcom,59988.0,Sq ft,53073.0,2972
+Washington,Whitman,7345.0,Sq ft,53075.0,2973
+Washington,Yakima,nan,Sq ft,53077.0,2974
+West Virginia,Barbour,12772.0,Sq ft,54001.0,2975
+West Virginia,Berkeley,19224.0,Sq ft,54003.0,2976
+West Virginia,Boone,0.0,Sq ft,54005.0,2977
+West Virginia,Braxton,0.0,Sq ft,54007.0,2978
+West Virginia,Brooke,0.0,Sq ft,54009.0,2979
+West Virginia,Cabell,nan,Sq ft,54011.0,2980
+West Virginia,Calhoun,15520.0,Sq ft,54013.0,2981
+West Virginia,Clay,0.0,Sq ft,54015.0,3000
+West Virginia,Doddridge,0.0,Sq ft,54017.0,3002
+West Virginia,Fayette,0.0,Sq ft,54019.0,3006
+West Virginia,Gilmer,0.0,Sq ft,54021.0,3008
+West Virginia,Grant,4848.0,Sq ft,54023.0,3011
+West Virginia,Greenbrier,10636.0,Sq ft,54025.0,3013
+West Virginia,Hampshire,6080.0,Sq ft,54027.0,3016
+West Virginia,Hancock,0.0,Sq ft,54029.0,3017
+West Virginia,Hardy,nan,Sq ft,54031.0,3019
+West Virginia,Harrison,nan,Sq ft,54033.0,3021
+West Virginia,Jackson,0.0,Sq ft,54035.0,3023
+West Virginia,Jefferson,nan,Sq ft,54037.0,3026
+West Virginia,Kanawha,0.0,Sq ft,54039.0,3027
+West Virginia,Lewis,nan,Sq ft,54041.0,3029
+West Virginia,Lincoln,0.0,Sq ft,54043.0,3031
+West Virginia,Logan,0.0,Sq ft,54045.0,3034
+West Virginia,McDowell,0.0,Sq ft,54047.0,3037
+West Virginia,Marion,0.0,Sq ft,54049.0,3039
+West Virginia,Marshall,0.0,Sq ft,54051.0,3041
+West Virginia,Mason,0.0,Sq ft,54053.0,3042
+West Virginia,Mercer,nan,Sq ft,54055.0,3044
+West Virginia,Mineral,nan,Sq ft,54057.0,3046
+West Virginia,Mingo,0.0,Sq ft,54059.0,3048
+West Virginia,Monongalia,nan,Sq ft,54061.0,3050
+West Virginia,Monroe,nan,Sq ft,54063.0,3052
+West Virginia,Morgan,155452.0,Sq ft,54065.0,3054
+West Virginia,Nicholas,0.0,Sq ft,54067.0,3057
+West Virginia,Ohio,0.0,Sq ft,54069.0,3059
+West Virginia,Pendleton,0.0,Sq ft,54071.0,3061
+West Virginia,Pleasants,0.0,Sq ft,54073.0,3064
+West Virginia,Pocahontas,nan,Sq ft,54075.0,3066
+West Virginia,Preston,3862.0,Sq ft,54077.0,3068
+West Virginia,Putnam,142000.0,Sq ft,54079.0,3070
+West Virginia,Raleigh,0.0,Sq ft,54081.0,3073
+West Virginia,Randolph,nan,Sq ft,54083.0,3075
+West Virginia,Ritchie,0.0,Sq ft,54085.0,3077
+West Virginia,Roane,2896.0,Sq ft,54087.0,3079
+West Virginia,Summers,5824.0,Sq ft,54089.0,3080
+West Virginia,Taylor,2250.0,Sq ft,54091.0,3082
+West Virginia,Tucker,nan,Sq ft,54093.0,3084
+West Virginia,Tyler,0.0,Sq ft,54095.0,3085
+West Virginia,Upshur,9000.0,Sq ft,54097.0,3087
+West Virginia,Wayne,0.0,Sq ft,54099.0,3089
+West Virginia,Webster,nan,Sq ft,54101.0,3091
+West Virginia,Wetzel,0.0,Sq ft,54103.0,3093
+West Virginia,Wirt,0.0,Sq ft,54105.0,3095
+West Virginia,Wood,6000.0,Sq ft,54107.0,3097
+West Virginia,Wyoming,0.0,Sq ft,54109.0,3099
+Wisconsin,Adams,nan,Sq ft,55001.0,3101
+Wisconsin,Ashland,18044.0,Sq ft,55003.0,3104
+Wisconsin,Barron,39658.0,Sq ft,55005.0,3106
+Wisconsin,Bayfield,14763.0,Sq ft,55007.0,3108
+Wisconsin,Brown,67805.0,Sq ft,55009.0,3111
+Wisconsin,Buffalo,18348.0,Sq ft,55011.0,3113
+Wisconsin,Burnett,nan,Sq ft,55013.0,3115
+Wisconsin,Calumet,0.0,Sq ft,55015.0,3116
+Wisconsin,Chippewa,18120.0,Sq ft,55017.0,3117
+Wisconsin,Clark,118186.0,Sq ft,55019.0,3119
+Wisconsin,Columbia,61076.0,Sq ft,55021.0,3120
+Wisconsin,Crawford,nan,Sq ft,55023.0,3122
+Wisconsin,Dane,88771.0,Sq ft,55025.0,3124
+Wisconsin,Dodge,7750.0,Sq ft,55027.0,3126
+Wisconsin,Door,20400.0,Sq ft,55029.0,3131
+Wisconsin,Douglas,nan,Sq ft,55031.0,3134
+Wisconsin,Dunn,38476.0,Sq ft,55033.0,3135
+Wisconsin,Eau Claire,5464.0,Sq ft,55035.0,3137
+Wisconsin,Florence,0.0,Sq ft,55037.0,3138
+Wisconsin,Fond du Lac,17658.0,Sq ft,55039.0,3140
+Wisconsin,Forest,nan,Sq ft,55041.0,3141
+Wisconsin,Grant,22560.0,Sq ft,55043.0,3143
+Wisconsin,Green,11612.0,Sq ft,55045.0,3145
+Wisconsin,Green Lake,19920.0,Sq ft,55047.0,3147
+Wisconsin,Iowa,10428.0,Sq ft,55049.0,3148
+Wisconsin,Iron,0.0,Sq ft,55051.0,3151
+Wisconsin,Jackson,nan,Sq ft,55053.0,3153
+Wisconsin,Jefferson,nan,Sq ft,55055.0,3154
+Wisconsin,Juneau,nan,Sq ft,55057.0,3156
+Wisconsin,Kenosha,0.0,Sq ft,55059.0,3158
+Wisconsin,Kewaunee,0.0,Sq ft,55061.0,3160
+Wisconsin,La Crosse,nan,Sq ft,55063.0,3161
+Wisconsin,Lafayette,nan,Sq ft,55065.0,3163
+Wisconsin,Langlade,40289.0,Sq ft,55067.0,3165
+Wisconsin,Lincoln,nan,Sq ft,55069.0,3166
+Wisconsin,Manitowoc,0.0,Sq ft,55071.0,3169
+Wisconsin,Marathon,4744.0,Sq ft,55073.0,3170
+Wisconsin,Marinette,0.0,Sq ft,55075.0,3172
+Wisconsin,Marquette,26000.0,Sq ft,55077.0,3174
+Wisconsin,Menominee,0.0,Sq ft,55078.0,3175
+Wisconsin,Milwaukee,8560.0,Sq ft,55079.0,3177
+Wisconsin,Monroe,16928.0,Sq ft,55081.0,3179
+Wisconsin,Oconto,11992.0,Sq ft,55083.0,3181
+Wisconsin,Oneida,nan,Sq ft,55085.0,3183
+Wisconsin,Outagamie,6806.0,Sq ft,55087.0,3185
+Wisconsin,Ozaukee,nan,Sq ft,55089.0,3186
+Wisconsin,Pepin,7440.0,Sq ft,55091.0,3188
+Wisconsin,Pierce,16860.0,Sq ft,55093.0,3189
+Wisconsin,Polk,40602.0,Sq ft,55095.0,3191
+Wisconsin,Portage,nan,Sq ft,55097.0,3192
+Wisconsin,Price,0.0,Sq ft,55099.0,3194
+Wisconsin,Racine,15905.0,Sq ft,55101.0,3195
+Wisconsin,Richland,26731.0,Sq ft,55103.0,3196
+Wisconsin,Rock,nan,Sq ft,55105.0,3198
+Wisconsin,Rusk,nan,Sq ft,55107.0,3199
+Wisconsin,St. Croix,nan,Sq ft,55109.0,3200
+Wisconsin,Sauk,13016.0,Sq ft,55111.0,3202
+Wisconsin,Sawyer,nan,Sq ft,55113.0,3203
+Wisconsin,Shawano,6222.0,Sq ft,55115.0,3205
+Wisconsin,Sheboygan,nan,Sq ft,55117.0,3207
+Wisconsin,Taylor,6936.0,Sq ft,55119.0,3208
+Wisconsin,Trempealeau,nan,Sq ft,55121.0,3210
+Wisconsin,Vernon,42648.0,Sq ft,55123.0,3213
+Wisconsin,Vilas,0.0,Sq ft,55125.0,3001
+Wisconsin,Walworth,5320.0,Sq ft,55127.0,3003
+Wisconsin,Washburn,0.0,Sq ft,55129.0,3004
+Wisconsin,Washington,nan,Sq ft,55131.0,3005
+Wisconsin,Waukesha,7962.0,Sq ft,55133.0,3007
+Wisconsin,Waupaca,nan,Sq ft,55135.0,3009
+Wisconsin,Waushara,40040.0,Sq ft,55137.0,3010
+Wisconsin,Winnebago,20900.0,Sq ft,55139.0,3012
+Wisconsin,Wood,3670.0,Sq ft,55141.0,3014
+Wyoming,Albany,nan,Sq ft,56001.0,3015
+Wyoming,Big Horn,0.0,Sq ft,56003.0,3018
+Wyoming,Campbell,nan,Sq ft,56005.0,3020
+Wyoming,Carbon,nan,Sq ft,56007.0,3022
+Wyoming,Converse,0.0,Sq ft,56009.0,3024
+Wyoming,Crook,nan,Sq ft,56011.0,3025
+Wyoming,Fremont,2992.0,Sq ft,56013.0,3028
+Wyoming,Goshen,11500.0,Sq ft,56015.0,3030
+Wyoming,Hot Springs,0.0,Sq ft,56017.0,3032
+Wyoming,Johnson,0.0,Sq ft,56019.0,3033
+Wyoming,Laramie,8400.0,Sq ft,56021.0,3035
+Wyoming,Lincoln,38024.0,Sq ft,56023.0,3036
+Wyoming,Natrona,nan,Sq ft,56025.0,3038
+Wyoming,Niobrara,0.0,Sq ft,56027.0,3040
+Wyoming,Park,0.0,Sq ft,56029.0,3043
+Wyoming,Platte,nan,Sq ft,56031.0,3045
+Wyoming,Sheridan,14292.0,Sq ft,56033.0,3047
+Wyoming,Sublette,nan,Sq ft,56035.0,3049
+Wyoming,Sweetwater,0.0,Sq ft,56037.0,3051
+Wyoming,Teton,0.0,Sq ft,56039.0,3053
+Wyoming,Uinta,0.0,Sq ft,56041.0,3055
+Wyoming,Washakie,nan,Sq ft,56043.0,3056
+Wyoming,Weston,0.0,Sq ft,56045.0,3058
