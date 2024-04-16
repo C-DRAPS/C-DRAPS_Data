@@ -1,0 +1,3144 @@
+State,County,WIC redemptions per capita 2016 (PC_WIC_REDEMP16),Units,FIPS,FID
+Alabama,Autauga,14.620244026184082,Dollars/capita,1001,5
+Alabama,Baldwin,13.8738374710083,Dollars/capita,1003,20
+Alabama,Barbour,24.032283782958984,Dollars/capita,1005,25
+Alabama,Bibb,22.081811904907227,Dollars/capita,1007,29
+Alabama,Blount,13.860494613647461,Dollars/capita,1009,33
+Alabama,Bullock,nan,Dollars/capita,1011,37
+Alabama,Butler,32.755916595458984,Dollars/capita,1013,39
+Alabama,Calhoun,20.889013290405273,Dollars/capita,1015,43
+Alabama,Chambers,13.211095809936523,Dollars/capita,1017,47
+Alabama,Cherokee,18.51291275024414,Dollars/capita,1019,51
+Alabama,Chilton,17.610275268554688,Dollars/capita,1021,56
+Alabama,Choctaw,nan,Dollars/capita,1023,58
+Alabama,Clarke,33.364994049072266,Dollars/capita,1025,61
+Alabama,Clay,nan,Dollars/capita,1027,65
+Alabama,Cleburne,14.430442810058594,Dollars/capita,1029,67
+Alabama,Coffee,21.849327087402344,Dollars/capita,1031,70
+Alabama,Colbert,18.749486923217773,Dollars/capita,1033,73
+Alabama,Conecuh,nan,Dollars/capita,1035,80
+Alabama,Coosa,nan,Dollars/capita,1037,82
+Alabama,Covington,19.956680297851562,Dollars/capita,1039,88
+Alabama,Crenshaw,nan,Dollars/capita,1041,90
+Alabama,Cullman,18.026166915893555,Dollars/capita,1043,98
+Alabama,Dale,15.607748985290527,Dollars/capita,1045,101
+Alabama,Dallas,33.768943786621094,Dollars/capita,1047,110
+Alabama,DeKalb,21.593460083007812,Dollars/capita,1049,112
+Alabama,Elmore,16.69959259033203,Dollars/capita,1051,118
+Alabama,Escambia,23.767314910888672,Dollars/capita,1053,122
+Alabama,Etowah,21.322500228881836,Dollars/capita,1055,131
+Alabama,Fayette,17.955507278442383,Dollars/capita,1057,134
+Alabama,Franklin,28.550601959228516,Dollars/capita,1059,138
+Alabama,Geneva,17.132888793945312,Dollars/capita,1061,140
+Alabama,Greene,nan,Dollars/capita,1063,148
+Alabama,Hale,nan,Dollars/capita,1065,150
+Alabama,Henry,12.450860977172852,Dollars/capita,1067,158
+Alabama,Houston,23.419815063476562,Dollars/capita,1069,160
+Alabama,Jackson,15.02019214630127,Dollars/capita,1071,164
+Alabama,Jefferson,16.151168823242188,Dollars/capita,1073,171
+Alabama,Lamar,14.13074016571045,Dollars/capita,1075,174
+Alabama,Lauderdale,16.031383514404297,Dollars/capita,1077,176
+Alabama,Lawrence,14.823974609375,Dollars/capita,1079,181
+Alabama,Lee,12.155978202819824,Dollars/capita,1081,187
+Alabama,Limestone,12.419169425964355,Dollars/capita,1083,197
+Alabama,Lowndes,nan,Dollars/capita,1085,205
+Alabama,Macon,16.472301483154297,Dollars/capita,1087,210
+Alabama,Madison,12.795186042785645,Dollars/capita,1089,217
+Alabama,Marengo,28.41021156311035,Dollars/capita,1091,220
+Alabama,Marion,18.23821449279785,Dollars/capita,1093,224
+Alabama,Marshall,30.977975845336914,Dollars/capita,1095,231
+Alabama,Mobile,22.0963134765625,Dollars/capita,1097,240
+Alabama,Monroe,21.338605880737305,Dollars/capita,1099,250
+Alabama,Montgomery,23.77017593383789,Dollars/capita,1101,256
+Alabama,Morgan,20.646699905395508,Dollars/capita,1103,262
+Alabama,Perry,nan,Dollars/capita,1105,264
+Alabama,Pickens,20.834339141845703,Dollars/capita,1107,273
+Alabama,Pike,23.104839324951172,Dollars/capita,1109,279
+Alabama,Randolph,19.379545211791992,Dollars/capita,1111,284
+Alabama,Russell,29.614336013793945,Dollars/capita,1113,288
+Alabama,St. Clair,16.4687442779541,Dollars/capita,1115,292
+Alabama,Shelby,10.604538917541504,Dollars/capita,1117,298
+Alabama,Sumter,28.56183624267578,Dollars/capita,1119,303
+Alabama,Talladega,20.88856315612793,Dollars/capita,1121,306
+Alabama,Tallapoosa,23.411523818969727,Dollars/capita,1123,308
+Alabama,Tuscaloosa,18.021278381347656,Dollars/capita,1125,313
+Alabama,Walker,23.980926513671875,Dollars/capita,1127,317
+Alabama,Washington,nan,Dollars/capita,1129,319
+Alabama,Wilcox,24.43498992919922,Dollars/capita,1131,326
+Alabama,Winston,24.642187118530273,Dollars/capita,1133,332
+Alaska,Aleutians East,nan,Dollars/capita,2013,346
+Alaska,Aleutians West,nan,Dollars/capita,2016,381
+Alaska,Anchorage,12.815157890319824,Dollars/capita,2020,400
+Alaska,Bethel,48.221221923828125,Dollars/capita,2050,411
+Alaska,Bristol Bay,nan,Dollars/capita,2060,423
+Alaska,Denali,nan,Dollars/capita,2068,426
+Alaska,Dillingham,nan,Dollars/capita,2070,445
+Alaska,Fairbanks North Star,17.088470458984375,Dollars/capita,2090,454
+Alaska,Haines,nan,Dollars/capita,2100,462
+Alaska,Hoonah-Angoon,nan,Dollars/capita,2105,476
+Alaska,Juneau,7.456099510192871,Dollars/capita,2110,482
+Alaska,Kenai Peninsula,12.006584167480469,Dollars/capita,2122,494
+Alaska,Ketchikan Gateway,nan,Dollars/capita,2130,514
+Alaska,Kodiak Island,nan,Dollars/capita,2150,533
+Alaska,Lake and Peninsula,nan,Dollars/capita,2164,544
+Alaska,Matanuska-Susitna,11.11713695526123,Dollars/capita,2170,556
+Alaska,Nome,68.1581802368164,Dollars/capita,2180,571
+Alaska,North Slope,45.52445983886719,Dollars/capita,2185,614
+Alaska,Northwest Arctic,128.8252410888672,Dollars/capita,2188,638
+Alaska,Petersburg,nan,Dollars/capita,2195,645
+Alaska,Prince of Wales-Hyder,20.577255249023438,Dollars/capita,2198,669
+Alaska,Sitka,nan,Dollars/capita,2220,679
+Alaska,Skagway,nan,Dollars/capita,2230,683
+Alaska,Southeast Fairbanks,nan,Dollars/capita,2240,690
+Alaska,Valdez-Cordova,9.030275344848633,Dollars/capita,2261,710
+Alaska,Wade Hampton,nan,Dollars/capita,2270,725
+Alaska,Wrangell,nan,Dollars/capita,2275,733
+Alaska,Yakutat,nan,Dollars/capita,2282,744
+Alaska,Yukon-Koyukuk,21.833009719848633,Dollars/capita,2290,753
+Arizona,Apache,28.17418098449707,Dollars/capita,4001,761
+Arizona,Cochise,21.60792350769043,Dollars/capita,4003,763
+Arizona,Coconino,9.446130752563477,Dollars/capita,4005,771
+Arizona,Gila,10.715922355651855,Dollars/capita,4007,787
+Arizona,Graham,9.967447280883789,Dollars/capita,4009,0
+Arizona,Greenlee,nan,Dollars/capita,4011,1
+Arizona,La Paz,3.606860637664795,Dollars/capita,4012,3
+Arizona,Maricopa,15.933433532714844,Dollars/capita,4013,9
+Arizona,Mohave,11.490445137023926,Dollars/capita,4015,15
+Arizona,Navajo,18.4621524810791,Dollars/capita,4017,17
+Arizona,Pima,11.883410453796387,Dollars/capita,4019,21
+Arizona,Pinal,12.422856330871582,Dollars/capita,4021,26
+Arizona,Santa Cruz,38.301822662353516,Dollars/capita,4023,32
+Arizona,Yavapai,11.309957504272461,Dollars/capita,4025,35
+Arizona,Yuma,29.977188110351562,Dollars/capita,4027,42
+Arkansas,Arkansas,27.56732177734375,Dollars/capita,5001,46
+Arkansas,Ashley,19.982484817504883,Dollars/capita,5003,50
+Arkansas,Baxter,14.663784980773926,Dollars/capita,5005,54
+Arkansas,Benton,10.938087463378906,Dollars/capita,5007,59
+Arkansas,Boone,19.906475067138672,Dollars/capita,5009,62
+Arkansas,Bradley,nan,Dollars/capita,5011,68
+Arkansas,Calhoun,nan,Dollars/capita,5013,72
+Arkansas,Carroll,17.123933792114258,Dollars/capita,5015,74
+Arkansas,Chicot,nan,Dollars/capita,5017,77
+Arkansas,Clark,nan,Dollars/capita,5019,86
+Arkansas,Clay,nan,Dollars/capita,5021,93
+Arkansas,Cleburne,13.922521591186523,Dollars/capita,5023,97
+Arkansas,Cleveland,nan,Dollars/capita,5025,103
+Arkansas,Columbia,22.11709213256836,Dollars/capita,5027,107
+Arkansas,Conway,nan,Dollars/capita,5029,109
+Arkansas,Craighead,18.350582122802734,Dollars/capita,5031,114
+Arkansas,Crawford,16.178306579589844,Dollars/capita,5033,115
+Arkansas,Crittenden,30.563152313232422,Dollars/capita,5035,119
+Arkansas,Cross,24.82868766784668,Dollars/capita,5037,124
+Arkansas,Dallas,nan,Dollars/capita,5039,128
+Arkansas,Desha,nan,Dollars/capita,5041,130
+Arkansas,Drew,nan,Dollars/capita,5043,136
+Arkansas,Faulkner,13.41681957244873,Dollars/capita,5045,141
+Arkansas,Franklin,15.64729118347168,Dollars/capita,5047,144
+Arkansas,Fulton,nan,Dollars/capita,5049,146
+Arkansas,Garland,15.691402435302734,Dollars/capita,5051,151
+Arkansas,Grant,nan,Dollars/capita,5053,155
+Arkansas,Greene,20.834630966186523,Dollars/capita,5055,162
+Arkansas,Hempstead,33.38486862182617,Dollars/capita,5057,172
+Arkansas,Hot Spring,13.376306533813477,Dollars/capita,5059,184
+Arkansas,Howard,nan,Dollars/capita,5061,191
+Arkansas,Independence,21.422521591186523,Dollars/capita,5063,200
+Arkansas,Izard,12.665902137756348,Dollars/capita,5065,203
+Arkansas,Jackson,nan,Dollars/capita,5067,209
+Arkansas,Jefferson,22.27971649169922,Dollars/capita,5069,213
+Arkansas,Johnson,nan,Dollars/capita,5071,218
+Arkansas,Lafayette,nan,Dollars/capita,5073,222
+Arkansas,Lawrence,17.83026885986328,Dollars/capita,5075,230
+Arkansas,Lee,nan,Dollars/capita,5077,237
+Arkansas,Lincoln,nan,Dollars/capita,5079,244
+Arkansas,Little River,nan,Dollars/capita,5081,251
+Arkansas,Logan,23.774751663208008,Dollars/capita,5083,258
+Arkansas,Lonoke,13.341148376464844,Dollars/capita,5085,268
+Arkansas,Madison,nan,Dollars/capita,5087,277
+Arkansas,Marion,16.918590545654297,Dollars/capita,5089,282
+Arkansas,Miller,18.71772575378418,Dollars/capita,5091,287
+Arkansas,Mississippi,26.62796974182129,Dollars/capita,5093,294
+Arkansas,Monroe,nan,Dollars/capita,5095,300
+Arkansas,Montgomery,nan,Dollars/capita,5097,304
+Arkansas,Nevada,nan,Dollars/capita,5099,307
+Arkansas,Newton,nan,Dollars/capita,5101,311
+Arkansas,Ouachita,21.577930450439453,Dollars/capita,5103,316
+Arkansas,Perry,nan,Dollars/capita,5105,318
+Arkansas,Phillips,nan,Dollars/capita,5107,322
+Arkansas,Pike,nan,Dollars/capita,5109,327
+Arkansas,Poinsett,30.68222999572754,Dollars/capita,5111,333
+Arkansas,Polk,nan,Dollars/capita,5113,337
+Arkansas,Pope,20.81102180480957,Dollars/capita,5115,340
+Arkansas,Prairie,nan,Dollars/capita,5117,345
+Arkansas,Pulaski,16.56877326965332,Dollars/capita,5119,350
+Arkansas,Randolph,nan,Dollars/capita,5121,353
+Arkansas,St. Francis,24.442285537719727,Dollars/capita,5123,357
+Arkansas,Saline,10.864716529846191,Dollars/capita,5125,360
+Arkansas,Scott,25.382543563842773,Dollars/capita,5127,364
+Arkansas,Searcy,nan,Dollars/capita,5129,372
+Arkansas,Sebastian,23.855356216430664,Dollars/capita,5131,378
+Arkansas,Sevier,nan,Dollars/capita,5133,390
+Arkansas,Sharp,21.878772735595703,Dollars/capita,5135,394
+Arkansas,Stone,nan,Dollars/capita,5137,399
+Arkansas,Union,22.6824951171875,Dollars/capita,5139,403
+Arkansas,Van Buren,14.73495101928711,Dollars/capita,5141,407
+Arkansas,Washington,17.18691062927246,Dollars/capita,5143,417
+Arkansas,White,19.02622413635254,Dollars/capita,5145,428
+Arkansas,Woodruff,nan,Dollars/capita,5147,435
+Arkansas,Yell,nan,Dollars/capita,5149,438
+California,Alameda,14.111665725708008,Dollars/capita,6001,457
+California,Alpine,nan,Dollars/capita,6003,461
+California,Amador,12.385193824768066,Dollars/capita,6005,472
+California,Butte,17.79054832458496,Dollars/capita,6007,486
+California,Calaveras,8.270867347717285,Dollars/capita,6009,489
+California,Colusa,36.62729263305664,Dollars/capita,6011,497
+California,Contra Costa,11.77589225769043,Dollars/capita,6013,503
+California,Del Norte,nan,Dollars/capita,6015,511
+California,El Dorado,7.114578723907471,Dollars/capita,6017,522
+California,Fresno,42.695030212402344,Dollars/capita,6019,527
+California,Glenn,29.885732650756836,Dollars/capita,6021,537
+California,Humboldt,15.818471908569336,Dollars/capita,6023,551
+California,Imperial,33.49703598022461,Dollars/capita,6025,557
+California,Inyo,nan,Dollars/capita,6027,562
+California,Kern,41.96142578125,Dollars/capita,6029,84
+California,Kings,37.39564895629883,Dollars/capita,6031,94
+California,Lake,26.422637939453125,Dollars/capita,6033,100
+California,Lassen,nan,Dollars/capita,6035,104
+California,Los Angeles,26.42160987854004,Dollars/capita,6037,139
+California,Madera,42.52487564086914,Dollars/capita,6039,153
+California,Marin,6.361932277679443,Dollars/capita,6041,168
+California,Mariposa,nan,Dollars/capita,6043,178
+California,Mendocino,20.429731369018555,Dollars/capita,6045,190
+California,Merced,41.86107635498047,Dollars/capita,6047,204
+California,Modoc,12.363932609558105,Dollars/capita,6049,207
+California,Mono,nan,Dollars/capita,6051,214
+California,Monterey,31.968101501464844,Dollars/capita,6053,228
+California,Napa,14.569196701049805,Dollars/capita,6055,236
+California,Nevada,7.086180686950684,Dollars/capita,6057,243
+California,Orange,17.474395751953125,Dollars/capita,6059,257
+California,Placer,6.15701961517334,Dollars/capita,6061,266
+California,Plumas,14.192586898803711,Dollars/capita,6063,275
+California,Riverside,24.160734176635742,Dollars/capita,6065,281
+California,Sacramento,21.401233673095703,Dollars/capita,6067,289
+California,San Benito,23.767963409423828,Dollars/capita,6069,295
+California,San Bernardino,27.518619537353516,Dollars/capita,6071,302
+California,San Diego,19.029563903808594,Dollars/capita,6073,315
+California,San Francisco,7.347691059112549,Dollars/capita,6075,331
+California,San Joaquin,27.132308959960938,Dollars/capita,6077,339
+California,San Luis Obispo,8.71631908416748,Dollars/capita,6079,351
+California,San Mateo,9.610219955444336,Dollars/capita,6081,368
+California,Santa Barbara,26.26042366027832,Dollars/capita,6083,391
+California,Santa Clara,10.276838302612305,Dollars/capita,6085,406
+California,Santa Cruz,19.094402313232422,Dollars/capita,6087,415
+California,Shasta,20.873743057250977,Dollars/capita,6089,431
+California,Sierra,nan,Dollars/capita,6091,439
+California,Siskiyou,17.34014320373535,Dollars/capita,6093,446
+California,Solano,14.611663818359375,Dollars/capita,6095,453
+California,Sonoma,12.399574279785156,Dollars/capita,6097,463
+California,Stanislaus,25.707199096679688,Dollars/capita,6099,473
+California,Sutter,27.061954498291016,Dollars/capita,6101,483
+California,Tehama,23.18387222290039,Dollars/capita,6103,492
+California,Trinity,nan,Dollars/capita,6105,500
+California,Tulare,39.923912048339844,Dollars/capita,6107,501
+California,Tuolumne,12.948694229125977,Dollars/capita,6109,513
+California,Ventura,16.92856788635254,Dollars/capita,6111,521
+California,Yolo,13.951001167297363,Dollars/capita,6113,525
+California,Yuba,27.685880661010742,Dollars/capita,6115,541
+Colorado,Adams,18.120311737060547,Dollars/capita,8001,545
+Colorado,Alamosa,34.98702621459961,Dollars/capita,8003,549
+Colorado,Arapahoe,11.924856185913086,Dollars/capita,8005,558
+Colorado,Archuleta,nan,Dollars/capita,8007,560
+Colorado,Baca,nan,Dollars/capita,8009,563
+Colorado,Bent,nan,Dollars/capita,8011,564
+Colorado,Boulder,5.48710823059082,Dollars/capita,8013,570
+Colorado,Broomfield,6.4625091552734375,Dollars/capita,8014,577
+Colorado,Chaffee,nan,Dollars/capita,8015,582
+Colorado,Cheyenne,nan,Dollars/capita,8017,587
+Colorado,Clear Creek,nan,Dollars/capita,8019,591
+Colorado,Conejos,nan,Dollars/capita,8021,596
+Colorado,Costilla,nan,Dollars/capita,8023,599
+Colorado,Crowley,nan,Dollars/capita,8025,605
+Colorado,Custer,nan,Dollars/capita,8027,610
+Colorado,Delta,10.678208351135254,Dollars/capita,8029,617
+Colorado,Denver,8.6856107711792,Dollars/capita,8031,628
+Colorado,Dolores,nan,Dollars/capita,8033,636
+Colorado,Douglas,1.8788087368011475,Dollars/capita,8035,644
+Colorado,Eagle,8.787115097045898,Dollars/capita,8037,648
+Colorado,Elbert,nan,Dollars/capita,8039,655
+Colorado,El Paso,12.664798736572266,Dollars/capita,8041,661
+Colorado,Fremont,10.942473411560059,Dollars/capita,8043,664
+Colorado,Garfield,11.72271728515625,Dollars/capita,8045,667
+Colorado,Gilpin,nan,Dollars/capita,8047,672
+Colorado,Grand,nan,Dollars/capita,8049,677
+Colorado,Gunnison,nan,Dollars/capita,8051,682
+Colorado,Hinsdale,nan,Dollars/capita,8053,688
+Colorado,Huerfano,nan,Dollars/capita,8055,693
+Colorado,Jackson,nan,Dollars/capita,8057,701
+Colorado,Jefferson,9.511322975158691,Dollars/capita,8059,706
+Colorado,Kiowa,nan,Dollars/capita,8061,711
+Colorado,Kit Carson,nan,Dollars/capita,8063,716
+Colorado,Lake,nan,Dollars/capita,8065,721
+Colorado,La Plata,7.605914115905762,Dollars/capita,8067,727
+Colorado,Larimer,6.247872352600098,Dollars/capita,8069,734
+Colorado,Las Animas,nan,Dollars/capita,8071,741
+Colorado,Lincoln,nan,Dollars/capita,8073,747
+Colorado,Logan,nan,Dollars/capita,8075,749
+Colorado,Mesa,12.06494140625,Dollars/capita,8077,751
+Colorado,Mineral,nan,Dollars/capita,8079,757
+Colorado,Moffat,nan,Dollars/capita,8081,758
+Colorado,Montezuma,1.5118696689605713,Dollars/capita,8083,766
+Colorado,Montrose,19.575939178466797,Dollars/capita,8085,769
+Colorado,Morgan,25.942691802978516,Dollars/capita,8087,775
+Colorado,Otero,30.27825355529785,Dollars/capita,8089,777
+Colorado,Ouray,nan,Dollars/capita,8091,780
+Colorado,Park,nan,Dollars/capita,8093,782
+Colorado,Phillips,nan,Dollars/capita,8095,785
+Colorado,Pitkin,nan,Dollars/capita,8097,789
+Colorado,Prowers,28.93250274658203,Dollars/capita,8099,792
+Colorado,Pueblo,16.3625545501709,Dollars/capita,8101,795
+Colorado,Rio Blanco,nan,Dollars/capita,8103,799
+Colorado,Rio Grande,nan,Dollars/capita,8105,802
+Colorado,Routt,nan,Dollars/capita,8107,809
+Colorado,Saguache,nan,Dollars/capita,8109,811
+Colorado,San Juan,nan,Dollars/capita,8111,347
+Colorado,San Miguel,nan,Dollars/capita,8113,359
+Colorado,Sedgwick,nan,Dollars/capita,8115,366
+Colorado,Summit,5.856709957122803,Dollars/capita,8117,373
+Colorado,Teller,8.295137405395508,Dollars/capita,8119,375
+Colorado,Washington,nan,Dollars/capita,8121,377
+Colorado,Weld,11.137287139892578,Dollars/capita,8123,382
+Colorado,Yuma,nan,Dollars/capita,8125,385
+Connecticut,Fairfield,11.748542785644531,Dollars/capita,9001,410
+Connecticut,Hartford,12.430829048156738,Dollars/capita,9003,432
+Connecticut,Litchfield,5.243321418762207,Dollars/capita,9005,443
+Connecticut,Middlesex,4.768083095550537,Dollars/capita,9007,450
+Connecticut,New Haven,14.534574508666992,Dollars/capita,9009,466
+Connecticut,New London,10.679673194885254,Dollars/capita,9011,517
+Connecticut,Tolland,3.3669052124023438,Dollars/capita,9013,524
+Connecticut,Windham,11.484313011169434,Dollars/capita,9015,529
+Delaware,Kent,12.508520126342773,Dollars/capita,10001,532
+Delaware,New Castle,10.484260559082031,Dollars/capita,10003,536
+Delaware,Sussex,8.573545455932617,Dollars/capita,10005,609
+District of Columbia,District of Columbia,12.06933879852295,Dollars/capita,11001,630
+Florida,Alachua,14.852274894714355,Dollars/capita,12001,639
+Florida,Baker,nan,Dollars/capita,12003,641
+Florida,Bay,22.175914764404297,Dollars/capita,12005,658
+Florida,Bradford,26.069120407104492,Dollars/capita,12007,665
+Florida,Brevard,13.52412223815918,Dollars/capita,12009,686
+Florida,Broward,18.425783157348633,Dollars/capita,12011,695
+Florida,Calhoun,nan,Dollars/capita,12013,699
+Florida,Charlotte,10.49530029296875,Dollars/capita,12015,743
+Florida,Citrus,11.28670597076416,Dollars/capita,12017,843
+Florida,Clay,11.365184783935547,Dollars/capita,12019,852
+Florida,Collier,14.392213821411133,Dollars/capita,12021,894
+Florida,Columbia,22.3548526763916,Dollars/capita,12023,903
+Florida,DeSoto,25.86235237121582,Dollars/capita,12027,906
+Florida,Dixie,nan,Dollars/capita,12029,918
+Florida,Duval,18.55915069580078,Dollars/capita,12031,924
+Florida,Escambia,19.086942672729492,Dollars/capita,12033,931
+Florida,Flagler,12.332379341125488,Dollars/capita,12035,935
+Florida,Franklin,12.843505859375,Dollars/capita,12037,937
+Florida,Gadsden,22.021507263183594,Dollars/capita,12039,938
+Florida,Gilchrist,nan,Dollars/capita,12041,939
+Florida,Glades,nan,Dollars/capita,12043,940
+Florida,Gulf,nan,Dollars/capita,12045,941
+Florida,Hamilton,nan,Dollars/capita,12047,942
+Florida,Hardee,37.81876754760742,Dollars/capita,12049,943
+Florida,Hendry,39.75949478149414,Dollars/capita,12051,944
+Florida,Hernando,18.6998348236084,Dollars/capita,12053,945
+Florida,Highlands,22.56865882873535,Dollars/capita,12055,946
+Florida,Hillsborough,17.91364097595215,Dollars/capita,12057,947
+Florida,Holmes,nan,Dollars/capita,12059,948
+Florida,Indian River,12.919845581054688,Dollars/capita,12061,949
+Florida,Jackson,24.111251831054688,Dollars/capita,12063,950
+Florida,Jefferson,nan,Dollars/capita,12065,951
+Florida,Lafayette,nan,Dollars/capita,12067,952
+Florida,Lake,15.907809257507324,Dollars/capita,12069,953
+Florida,Lee,15.647018432617188,Dollars/capita,12071,954
+Florida,Leon,13.215141296386719,Dollars/capita,12073,955
+Florida,Levy,22.56011390686035,Dollars/capita,12075,956
+Florida,Liberty,nan,Dollars/capita,12077,957
+Florida,Madison,nan,Dollars/capita,12079,958
+Florida,Manatee,15.461831092834473,Dollars/capita,12081,959
+Florida,Marion,18.705791473388672,Dollars/capita,12083,960
+Florida,Martin,11.7508544921875,Dollars/capita,12085,961
+Florida,Miami-Dade,20.736616134643555,Dollars/capita,12086,962
+Florida,Monroe,11.378043174743652,Dollars/capita,12087,963
+Florida,Nassau,12.311467170715332,Dollars/capita,12089,964
+Florida,Okaloosa,16.019668579101562,Dollars/capita,12091,965
+Florida,Okeechobee,28.908668518066406,Dollars/capita,12093,966
+Florida,Orange,19.37354278564453,Dollars/capita,12095,967
+Florida,Osceola,24.981918334960938,Dollars/capita,12097,968
+Florida,Palm Beach,15.848791122436523,Dollars/capita,12099,969
+Florida,Pasco,14.584708213806152,Dollars/capita,12101,970
+Florida,Pinellas,11.458784103393555,Dollars/capita,12103,971
+Florida,Polk,23.122446060180664,Dollars/capita,12105,972
+Florida,Putnam,28.21428680419922,Dollars/capita,12107,973
+Florida,St. Johns,6.1660356521606445,Dollars/capita,12109,974
+Florida,St. Lucie,19.169553756713867,Dollars/capita,12111,975
+Florida,Santa Rosa,14.707109451293945,Dollars/capita,12113,976
+Florida,Sarasota,7.545957088470459,Dollars/capita,12115,977
+Florida,Seminole,13.314682006835938,Dollars/capita,12117,978
+Florida,Sumter,8.652305603027344,Dollars/capita,12119,979
+Florida,Suwannee,21.379335403442383,Dollars/capita,12121,980
+Florida,Taylor,24.167482376098633,Dollars/capita,12123,981
+Florida,Union,nan,Dollars/capita,12125,982
+Florida,Volusia,15.359249114990234,Dollars/capita,12127,983
+Florida,Wakulla,nan,Dollars/capita,12129,984
+Florida,Walton,15.224048614501953,Dollars/capita,12131,985
+Florida,Washington,24.763946533203125,Dollars/capita,12133,986
+Georgia,Appling,25.00991439819336,Dollars/capita,13001,987
+Georgia,Atkinson,nan,Dollars/capita,13003,988
+Georgia,Bacon,27.005409240722656,Dollars/capita,13005,989
+Georgia,Baker,nan,Dollars/capita,13007,990
+Georgia,Baldwin,22.837387084960938,Dollars/capita,13009,991
+Georgia,Banks,nan,Dollars/capita,13011,992
+Georgia,Barrow,12.000726699829102,Dollars/capita,13013,993
+Georgia,Bartow,11.252631187438965,Dollars/capita,13015,994
+Georgia,Ben Hill,35.88179397583008,Dollars/capita,13017,995
+Georgia,Berrien,nan,Dollars/capita,13019,996
+Georgia,Bibb,28.691261291503906,Dollars/capita,13021,997
+Georgia,Bleckley,24.00428581237793,Dollars/capita,13023,998
+Georgia,Brantley,nan,Dollars/capita,13025,999
+Georgia,Brooks,nan,Dollars/capita,13027,565
+Georgia,Bryan,14.70015811920166,Dollars/capita,13029,573
+Georgia,Bulloch,18.812755584716797,Dollars/capita,13031,579
+Georgia,Burke,23.381174087524414,Dollars/capita,13033,583
+Georgia,Butts,nan,Dollars/capita,13035,588
+Georgia,Calhoun,nan,Dollars/capita,13037,592
+Georgia,Camden,19.99968147277832,Dollars/capita,13039,603
+Georgia,Candler,nan,Dollars/capita,13043,616
+Georgia,Carroll,16.009044647216797,Dollars/capita,13045,620
+Georgia,Catoosa,12.678182601928711,Dollars/capita,13047,626
+Georgia,Charlton,nan,Dollars/capita,13049,635
+Georgia,Chatham,16.277706146240234,Dollars/capita,13051,646
+Georgia,Chattahoochee,nan,Dollars/capita,13053,656
+Georgia,Chattooga,20.232107162475586,Dollars/capita,13055,659
+Georgia,Cherokee,8.979790687561035,Dollars/capita,13057,662
+Georgia,Clarke,13.851971626281738,Dollars/capita,13059,666
+Georgia,Clay,nan,Dollars/capita,13061,670
+Georgia,Clayton,20.592105865478516,Dollars/capita,13063,673
+Georgia,Clinch,nan,Dollars/capita,13065,676
+Georgia,Cobb,10.649552345275879,Dollars/capita,13067,680
+Georgia,Coffee,27.86925506591797,Dollars/capita,13069,684
+Georgia,Colquitt,26.703903198242188,Dollars/capita,13071,689
+Georgia,Columbia,9.219423294067383,Dollars/capita,13073,692
+Georgia,Cook,28.43437957763672,Dollars/capita,13075,697
+Georgia,Coweta,10.323500633239746,Dollars/capita,13077,700
+Georgia,Crawford,nan,Dollars/capita,13079,704
+Georgia,Crisp,38.10466384887695,Dollars/capita,13081,707
+Georgia,Dade,12.012096405029297,Dollars/capita,13083,708
+Georgia,Dawson,19.30710792541504,Dollars/capita,13085,713
+Georgia,Decatur,25.894969940185547,Dollars/capita,13087,714
+Georgia,DeKalb,19.046279907226562,Dollars/capita,13089,718
+Georgia,Dodge,23.464242935180664,Dollars/capita,13091,720
+Georgia,Dooly,nan,Dollars/capita,13093,724
+Georgia,Dougherty,24.186328887939453,Dollars/capita,13095,728
+Georgia,Douglas,19.86930274963379,Dollars/capita,13097,731
+Georgia,Early,29.835247039794922,Dollars/capita,13099,735
+Georgia,Echols,nan,Dollars/capita,13101,737
+Georgia,Effingham,11.02612590789795,Dollars/capita,13103,742
+Georgia,Elbert,15.789665222167969,Dollars/capita,13105,746
+Georgia,Emanuel,nan,Dollars/capita,13107,750
+Georgia,Evans,nan,Dollars/capita,13109,754
+Georgia,Fannin,13.020487785339355,Dollars/capita,13111,755
+Georgia,Fayette,9.743674278259277,Dollars/capita,13113,760
+Georgia,Floyd,18.725496292114258,Dollars/capita,13115,764
+Georgia,Forsyth,4.803112983703613,Dollars/capita,13117,768
+Georgia,Franklin,18.673137664794922,Dollars/capita,13119,772
+Georgia,Fulton,41.702091217041016,Dollars/capita,13121,779
+Georgia,Gilmer,21.048892974853516,Dollars/capita,13123,781
+Georgia,Glascock,nan,Dollars/capita,13125,783
+Georgia,Glynn,21.772106170654297,Dollars/capita,13127,793
+Georgia,Gordon,22.52906608581543,Dollars/capita,13129,796
+Georgia,Grady,24.342981338500977,Dollars/capita,13131,797
+Georgia,Greene,nan,Dollars/capita,13133,800
+Georgia,Gwinnett,15.801656723022461,Dollars/capita,13135,804
+Georgia,Habersham,21.77545928955078,Dollars/capita,13137,806
+Georgia,Hall,22.837860107421875,Dollars/capita,13139,808
+Georgia,Hancock,nan,Dollars/capita,13141,810
+Georgia,Haralson,15.93900203704834,Dollars/capita,13143,813
+Georgia,Harris,nan,Dollars/capita,13145,814
+Georgia,Hart,19.654836654663086,Dollars/capita,13147,816
+Georgia,Heard,nan,Dollars/capita,13149,817
+Georgia,Henry,13.49570083618164,Dollars/capita,13151,820
+Georgia,Houston,20.587472915649414,Dollars/capita,13153,823
+Georgia,Irwin,nan,Dollars/capita,13155,825
+Georgia,Jackson,14.721467018127441,Dollars/capita,13157,828
+Georgia,Jasper,nan,Dollars/capita,13159,830
+Georgia,Jeff Davis,29.788949966430664,Dollars/capita,13161,832
+Georgia,Jefferson,28.875011444091797,Dollars/capita,13163,834
+Georgia,Jenkins,nan,Dollars/capita,13165,835
+Georgia,Johnson,nan,Dollars/capita,13167,837
+Georgia,Jones,nan,Dollars/capita,13169,839
+Georgia,Lamar,nan,Dollars/capita,13171,841
+Georgia,Lanier,nan,Dollars/capita,13173,845
+Georgia,Laurens,28.553476333618164,Dollars/capita,13175,847
+Georgia,Lee,25.01556396484375,Dollars/capita,13177,849
+Georgia,Liberty,41.2553596496582,Dollars/capita,13179,855
+Georgia,Lincoln,nan,Dollars/capita,13181,857
+Georgia,Long,nan,Dollars/capita,13183,860
+Georgia,Lowndes,25.351526260375977,Dollars/capita,13185,863
+Georgia,Lumpkin,8.74378776550293,Dollars/capita,13187,865
+Georgia,McDuffie,21.197887420654297,Dollars/capita,13189,868
+Georgia,McIntosh,nan,Dollars/capita,13191,871
+Georgia,Macon,22.62546157836914,Dollars/capita,13193,874
+Georgia,Madison,nan,Dollars/capita,13195,875
+Georgia,Marion,nan,Dollars/capita,13197,877
+Georgia,Meriwether,nan,Dollars/capita,13199,879
+Georgia,Miller,nan,Dollars/capita,13201,881
+Georgia,Mitchell,21.142414093017578,Dollars/capita,13205,883
+Georgia,Monroe,12.379934310913086,Dollars/capita,13207,885
+Georgia,Montgomery,nan,Dollars/capita,13209,887
+Georgia,Morgan,nan,Dollars/capita,13211,890
+Georgia,Murray,18.702505111694336,Dollars/capita,13213,892
+Georgia,Muscogee,27.349945068359375,Dollars/capita,13215,896
+Georgia,Newton,19.621980667114258,Dollars/capita,13217,899
+Georgia,Oconee,11.898524284362793,Dollars/capita,13219,901
+Georgia,Oglethorpe,nan,Dollars/capita,13221,905
+Georgia,Paulding,7.178544044494629,Dollars/capita,13223,908
+Georgia,Peach,19.408262252807617,Dollars/capita,13225,910
+Georgia,Pickens,10.8809175491333,Dollars/capita,13227,912
+Georgia,Pierce,nan,Dollars/capita,13229,915
+Georgia,Pike,nan,Dollars/capita,13231,7
+Georgia,Polk,22.868261337280273,Dollars/capita,13233,8
+Georgia,Pulaski,nan,Dollars/capita,13235,11
+Georgia,Putnam,13.9573335647583,Dollars/capita,13237,13
+Georgia,Quitman,nan,Dollars/capita,13239,16
+Georgia,Rabun,15.71713638305664,Dollars/capita,13241,18
+Georgia,Randolph,nan,Dollars/capita,13243,23
+Georgia,Richmond,21.39811897277832,Dollars/capita,13245,24
+Georgia,Rockdale,16.92131233215332,Dollars/capita,13247,28
+Georgia,Schley,nan,Dollars/capita,13249,31
+Georgia,Screven,nan,Dollars/capita,13251,34
+Georgia,Seminole,nan,Dollars/capita,13253,38
+Georgia,Spalding,22.913055419921875,Dollars/capita,13255,41
+Georgia,Stephens,26.21196937561035,Dollars/capita,13257,45
+Georgia,Stewart,nan,Dollars/capita,13259,48
+Georgia,Sumter,33.4550895690918,Dollars/capita,13261,52
+Georgia,Talbot,nan,Dollars/capita,13263,57
+Georgia,Taliaferro,nan,Dollars/capita,13265,60
+Georgia,Tattnall,nan,Dollars/capita,13267,63
+Georgia,Taylor,nan,Dollars/capita,13269,69
+Georgia,Telfair,19.857532501220703,Dollars/capita,13271,75
+Georgia,Terrell,nan,Dollars/capita,13273,78
+Georgia,Thomas,17.374526977539062,Dollars/capita,13275,83
+Georgia,Tift,34.207191467285156,Dollars/capita,13277,87
+Georgia,Toombs,36.95610046386719,Dollars/capita,13279,91
+Georgia,Towns,nan,Dollars/capita,13281,95
+Georgia,Treutlen,nan,Dollars/capita,13283,102
+Georgia,Troup,23.174673080444336,Dollars/capita,13285,105
+Georgia,Turner,nan,Dollars/capita,13287,108
+Georgia,Twiggs,nan,Dollars/capita,13289,116
+Georgia,Union,12.908662796020508,Dollars/capita,13291,120
+Georgia,Upson,nan,Dollars/capita,13293,123
+Georgia,Walker,9.125350952148438,Dollars/capita,13295,126
+Georgia,Walton,12.645273208618164,Dollars/capita,13297,127
+Georgia,Ware,36.839439392089844,Dollars/capita,13299,132
+Georgia,Warren,nan,Dollars/capita,13301,135
+Georgia,Washington,23.641368865966797,Dollars/capita,13303,143
+Georgia,Wayne,nan,Dollars/capita,13305,147
+Georgia,Webster,nan,Dollars/capita,13307,149
+Georgia,Wheeler,nan,Dollars/capita,13309,154
+Georgia,White,12.613861083984375,Dollars/capita,13311,157
+Georgia,Whitfield,34.51579666137695,Dollars/capita,13313,159
+Georgia,Wilcox,nan,Dollars/capita,13315,163
+Georgia,Wilkes,nan,Dollars/capita,13317,167
+Georgia,Wilkinson,nan,Dollars/capita,13319,169
+Georgia,Worth,15.598387718200684,Dollars/capita,13321,173
+Hawaii,Hawaii,22.038387298583984,Dollars/capita,15001,198
+Hawaii,Honolulu,14.158454895019531,Dollars/capita,15003,234
+Hawaii,Kalawao,nan,Dollars/capita,15005,247
+Hawaii,Kauai,13.686113357543945,Dollars/capita,15007,261
+Hawaii,Maui,15.005363464355469,Dollars/capita,15009,323
+Idaho,Ada,7.729288101196289,Dollars/capita,16001,336
+Idaho,Adams,nan,Dollars/capita,16003,338
+Idaho,Bannock,18.018939971923828,Dollars/capita,16005,343
+Idaho,Bear Lake,nan,Dollars/capita,16007,349
+Idaho,Benewah,22.212833404541016,Dollars/capita,16009,354
+Idaho,Bingham,18.01940155029297,Dollars/capita,16011,362
+Idaho,Blaine,7.692081451416016,Dollars/capita,16013,371
+Idaho,Boise,nan,Dollars/capita,16015,380
+Idaho,Bonner,8.695354461669922,Dollars/capita,16017,387
+Idaho,Bonneville,20.942697525024414,Dollars/capita,16019,395
+Idaho,Boundary,nan,Dollars/capita,16021,405
+Idaho,Butte,nan,Dollars/capita,16023,414
+Idaho,Camas,nan,Dollars/capita,16025,429
+Idaho,Canyon,19.360933303833008,Dollars/capita,16027,441
+Idaho,Caribou,nan,Dollars/capita,16029,449
+Idaho,Cassia,nan,Dollars/capita,16031,456
+Idaho,Clark,nan,Dollars/capita,16033,464
+Idaho,Clearwater,9.007523536682129,Dollars/capita,16035,474
+Idaho,Custer,nan,Dollars/capita,16037,484
+Idaho,Elmore,19.775096893310547,Dollars/capita,16039,490
+Idaho,Franklin,nan,Dollars/capita,16041,498
+Idaho,Fremont,nan,Dollars/capita,16043,502
+Idaho,Gem,nan,Dollars/capita,16045,510
+Idaho,Gooding,14.07042407989502,Dollars/capita,16047,519
+Idaho,Idaho,6.879517555236816,Dollars/capita,16049,528
+Idaho,Jefferson,nan,Dollars/capita,16051,540
+Idaho,Jerome,nan,Dollars/capita,16053,547
+Idaho,Kootenai,10.722851753234863,Dollars/capita,16055,552
+Idaho,Latah,7.739098072052002,Dollars/capita,16057,559
+Idaho,Lemhi,nan,Dollars/capita,16059,566
+Idaho,Lewis,nan,Dollars/capita,16061,574
+Idaho,Lincoln,nan,Dollars/capita,16063,578
+Idaho,Madison,27.30451011657715,Dollars/capita,16065,581
+Idaho,Minidoka,nan,Dollars/capita,16067,585
+Idaho,Nez Perce,14.944243431091309,Dollars/capita,16069,589
+Idaho,Oneida,nan,Dollars/capita,16071,593
+Idaho,Owyhee,nan,Dollars/capita,16073,601
+Idaho,Payette,15.825161933898926,Dollars/capita,16075,606
+Idaho,Power,nan,Dollars/capita,16077,613
+Idaho,Shoshone,15.183123588562012,Dollars/capita,16079,621
+Idaho,Teton,nan,Dollars/capita,16081,627
+Idaho,Twin Falls,17.492185592651367,Dollars/capita,16083,634
+Idaho,Valley,nan,Dollars/capita,16085,643
+Idaho,Washington,nan,Dollars/capita,16087,649
+Illinois,Adams,14.44127082824707,Dollars/capita,17001,650
+Illinois,Alexander,nan,Dollars/capita,17003,651
+Illinois,Bond,nan,Dollars/capita,17005,652
+Illinois,Boone,23.597423553466797,Dollars/capita,17007,653
+Illinois,Brown,nan,Dollars/capita,17009,654
+Illinois,Bureau,9.329998016357422,Dollars/capita,17011,2
+Illinois,Calhoun,nan,Dollars/capita,17013,4
+Illinois,Carroll,nan,Dollars/capita,17015,6
+Illinois,Cass,nan,Dollars/capita,17017,10
+Illinois,Champaign,10.292814254760742,Dollars/capita,17019,12
+Illinois,Christian,13.769612312316895,Dollars/capita,17021,14
+Illinois,Clark,13.10315227508545,Dollars/capita,17023,19
+Illinois,Clay,21.195287704467773,Dollars/capita,17025,22
+Illinois,Clinton,11.71587085723877,Dollars/capita,17027,27
+Illinois,Coles,13.271061897277832,Dollars/capita,17029,30
+Illinois,Cook,18.5750732421875,Dollars/capita,17031,36
+Illinois,Crawford,nan,Dollars/capita,17033,40
+Illinois,Cumberland,nan,Dollars/capita,17035,44
+Illinois,DeKalb,8.352423667907715,Dollars/capita,17037,49
+Illinois,De Witt,11.459030151367188,Dollars/capita,17039,53
+Illinois,Douglas,nan,Dollars/capita,17041,55
+Illinois,DuPage,6.956231594085693,Dollars/capita,17043,64
+Illinois,Edgar,11.475510597229004,Dollars/capita,17045,66
+Illinois,Edwards,nan,Dollars/capita,17047,71
+Illinois,Effingham,15.94796371459961,Dollars/capita,17049,76
+Illinois,Fayette,nan,Dollars/capita,17051,79
+Illinois,Ford,nan,Dollars/capita,17053,81
+Illinois,Franklin,17.545705795288086,Dollars/capita,17055,85
+Illinois,Fulton,10.465174674987793,Dollars/capita,17057,89
+Illinois,Gallatin,nan,Dollars/capita,17059,92
+Illinois,Greene,11.905489921569824,Dollars/capita,17061,96
+Illinois,Grundy,7.480929374694824,Dollars/capita,17063,99
+Illinois,Hamilton,nan,Dollars/capita,17065,106
+Illinois,Hancock,7.480416774749756,Dollars/capita,17067,111
+Illinois,Hardin,nan,Dollars/capita,17069,113
+Illinois,Henderson,nan,Dollars/capita,17071,117
+Illinois,Henry,9.511013984680176,Dollars/capita,17073,121
+Illinois,Iroquois,8.96539306640625,Dollars/capita,17075,125
+Illinois,Jackson,15.269203186035156,Dollars/capita,17077,129
+Illinois,Jasper,nan,Dollars/capita,17079,133
+Illinois,Jefferson,17.828073501586914,Dollars/capita,17081,137
+Illinois,Jersey,nan,Dollars/capita,17083,142
+Illinois,Jo Daviess,7.2961626052856445,Dollars/capita,17085,145
+Illinois,Johnson,nan,Dollars/capita,17087,152
+Illinois,Kane,14.95592975616455,Dollars/capita,17089,156
+Illinois,Kankakee,15.777929306030273,Dollars/capita,17091,161
+Illinois,Kendall,9.153579711914062,Dollars/capita,17093,165
+Illinois,Knox,14.570321083068848,Dollars/capita,17095,166
+Illinois,Lake,12.039689064025879,Dollars/capita,17097,170
+Illinois,LaSalle,16.58611297607422,Dollars/capita,17099,175
+Illinois,Lawrence,nan,Dollars/capita,17101,177
+Illinois,Lee,11.791379928588867,Dollars/capita,17103,180
+Illinois,Livingston,9.22575569152832,Dollars/capita,17105,182
+Illinois,Logan,10.576544761657715,Dollars/capita,17107,186
+Illinois,McDonough,11.235146522521973,Dollars/capita,17109,189
+Illinois,McHenry,10.325660705566406,Dollars/capita,17111,192
+Illinois,McLean,7.929927349090576,Dollars/capita,17113,193
+Illinois,Macon,17.53069496154785,Dollars/capita,17115,194
+Illinois,Macoupin,7.991224765777588,Dollars/capita,17117,196
+Illinois,Madison,14.303863525390625,Dollars/capita,17119,199
+Illinois,Marion,14.781746864318848,Dollars/capita,17121,201
+Illinois,Marshall,nan,Dollars/capita,17123,202
+Illinois,Mason,nan,Dollars/capita,17125,206
+Illinois,Massac,21.24850082397461,Dollars/capita,17127,208
+Illinois,Menard,nan,Dollars/capita,17129,212
+Illinois,Mercer,nan,Dollars/capita,17131,216
+Illinois,Monroe,4.600560188293457,Dollars/capita,17133,219
+Illinois,Montgomery,16.076509475708008,Dollars/capita,17135,223
+Illinois,Morgan,14.130054473876953,Dollars/capita,17137,225
+Illinois,Moultrie,9.094343185424805,Dollars/capita,17139,227
+Illinois,Ogle,7.5688323974609375,Dollars/capita,17141,229
+Illinois,Peoria,14.941375732421875,Dollars/capita,17143,233
+Illinois,Perry,14.0411376953125,Dollars/capita,17145,235
+Illinois,Piatt,nan,Dollars/capita,17147,238
+Illinois,Pike,13.831859588623047,Dollars/capita,17149,241
+Illinois,Pope,nan,Dollars/capita,17151,245
+Illinois,Pulaski,nan,Dollars/capita,17153,248
+Illinois,Putnam,nan,Dollars/capita,17155,253
+Illinois,Randolph,13.59107494354248,Dollars/capita,17157,255
+Illinois,Richland,20.76642417907715,Dollars/capita,17159,259
+Illinois,Rock Island,19.722402572631836,Dollars/capita,17161,265
+Illinois,St. Clair,15.360321998596191,Dollars/capita,17163,269
+Illinois,Saline,26.287382125854492,Dollars/capita,17165,271
+Illinois,Sangamon,13.000960350036621,Dollars/capita,17167,274
+Illinois,Schuyler,nan,Dollars/capita,17169,278
+Illinois,Scott,nan,Dollars/capita,17171,280
+Illinois,Shelby,8.614614486694336,Dollars/capita,17173,283
+Illinois,Stark,nan,Dollars/capita,17175,285
+Illinois,Stephenson,16.02849006652832,Dollars/capita,17177,290
+Illinois,Tazewell,10.489182472229004,Dollars/capita,17179,291
+Illinois,Union,21.23351287841797,Dollars/capita,17181,293
+Illinois,Vermilion,16.169967651367188,Dollars/capita,17183,296
+Illinois,Wabash,nan,Dollars/capita,17185,299
+Illinois,Warren,16.214380264282227,Dollars/capita,17187,301
+Illinois,Washington,6.2566094398498535,Dollars/capita,17189,305
+Illinois,Wayne,15.4072847366333,Dollars/capita,17191,310
+Illinois,White,14.57861042022705,Dollars/capita,17193,312
+Illinois,Whiteside,14.921287536621094,Dollars/capita,17195,314
+Illinois,Will,8.424005508422852,Dollars/capita,17197,320
+Illinois,Williamson,15.035688400268555,Dollars/capita,17199,324
+Illinois,Winnebago,16.729183197021484,Dollars/capita,17201,325
+Illinois,Woodford,2.268674850463867,Dollars/capita,17203,328
+Indiana,Adams,10.886810302734375,Dollars/capita,18001,330
+Indiana,Allen,17.936922073364258,Dollars/capita,18003,335
+Indiana,Bartholomew,16.043663024902344,Dollars/capita,18005,342
+Indiana,Benton,nan,Dollars/capita,18007,179
+Indiana,Blackford,nan,Dollars/capita,18009,183
+Indiana,Boone,5.358140468597412,Dollars/capita,18011,185
+Indiana,Brown,nan,Dollars/capita,18013,188
+Indiana,Carroll,nan,Dollars/capita,18015,195
+Indiana,Cass,22.74725341796875,Dollars/capita,18017,211
+Indiana,Clark,14.008401870727539,Dollars/capita,18019,215
+Indiana,Clay,nan,Dollars/capita,18021,221
+Indiana,Clinton,17.583106994628906,Dollars/capita,18023,226
+Indiana,Crawford,7.8754496574401855,Dollars/capita,18025,232
+Indiana,Daviess,15.100342750549316,Dollars/capita,18027,239
+Indiana,Dearborn,10.060163497924805,Dollars/capita,18029,242
+Indiana,Decatur,15.72348690032959,Dollars/capita,18031,246
+Indiana,DeKalb,14.517769813537598,Dollars/capita,18033,249
+Indiana,Delaware,15.233135223388672,Dollars/capita,18035,252
+Indiana,Dubois,14.434918403625488,Dollars/capita,18037,254
+Indiana,Elkhart,19.380590438842773,Dollars/capita,18039,260
+Indiana,Fayette,nan,Dollars/capita,18041,263
+Indiana,Floyd,13.10257339477539,Dollars/capita,18043,267
+Indiana,Fountain,14.408492088317871,Dollars/capita,18045,270
+Indiana,Franklin,11.016413688659668,Dollars/capita,18047,272
+Indiana,Fulton,16.769405364990234,Dollars/capita,18049,276
+Indiana,Gibson,11.907903671264648,Dollars/capita,18051,286
+Indiana,Grant,18.25444793701172,Dollars/capita,18053,297
+Indiana,Greene,13.647642135620117,Dollars/capita,18055,309
+Indiana,Hamilton,4.897174835205078,Dollars/capita,18057,321
+Indiana,Hancock,5.794862270355225,Dollars/capita,18059,329
+Indiana,Harrison,nan,Dollars/capita,18061,334
+Indiana,Hendricks,9.131241798400879,Dollars/capita,18063,341
+Indiana,Henry,13.917719841003418,Dollars/capita,18065,344
+Indiana,Howard,20.035057067871094,Dollars/capita,18067,348
+Indiana,Huntington,nan,Dollars/capita,18069,352
+Indiana,Jackson,19.41779899597168,Dollars/capita,18071,355
+Indiana,Jasper,16.12449073791504,Dollars/capita,18073,356
+Indiana,Jay,nan,Dollars/capita,18075,358
+Indiana,Jefferson,18.48843002319336,Dollars/capita,18077,363
+Indiana,Jennings,nan,Dollars/capita,18079,367
+Indiana,Johnson,10.471640586853027,Dollars/capita,18081,370
+Indiana,Knox,14.265480041503906,Dollars/capita,18083,376
+Indiana,Kosciusko,13.067352294921875,Dollars/capita,18085,384
+Indiana,LaGrange,nan,Dollars/capita,18087,386
+Indiana,Lake,15.247564315795898,Dollars/capita,18089,389
+Indiana,LaPorte,18.55829429626465,Dollars/capita,18091,392
+Indiana,Lawrence,14.897734642028809,Dollars/capita,18093,396
+Indiana,Madison,16.094085693359375,Dollars/capita,18095,401
+Indiana,Marion,20.23813247680664,Dollars/capita,18097,409
+Indiana,Marshall,17.815059661865234,Dollars/capita,18099,412
+Indiana,Martin,11.571747779846191,Dollars/capita,18101,418
+Indiana,Miami,nan,Dollars/capita,18103,420
+Indiana,Monroe,9.612887382507324,Dollars/capita,18105,422
+Indiana,Montgomery,16.349750518798828,Dollars/capita,18107,425
+Indiana,Morgan,9.167038917541504,Dollars/capita,18109,430
+Indiana,Newton,nan,Dollars/capita,18111,433
+Indiana,Noble,13.854045867919922,Dollars/capita,18113,436
+Indiana,Ohio,nan,Dollars/capita,18115,440
+Indiana,Orange,nan,Dollars/capita,18117,444
+Indiana,Owen,9.897379875183105,Dollars/capita,18119,448
+Indiana,Parke,nan,Dollars/capita,18121,452
+Indiana,Perry,nan,Dollars/capita,18123,459
+Indiana,Pike,nan,Dollars/capita,18125,465
+Indiana,Porter,9.42359733581543,Dollars/capita,18127,468
+Indiana,Posey,5.368240833282471,Dollars/capita,18129,471
+Indiana,Pulaski,nan,Dollars/capita,18131,477
+Indiana,Putnam,nan,Dollars/capita,18133,480
+Indiana,Randolph,nan,Dollars/capita,18135,485
+Indiana,Ripley,9.370976448059082,Dollars/capita,18137,488
+Indiana,Rush,nan,Dollars/capita,18139,493
+Indiana,St. Joseph,16.274415969848633,Dollars/capita,18141,496
+Indiana,Scott,22.553096771240234,Dollars/capita,18143,504
+Indiana,Shelby,nan,Dollars/capita,18145,506
+Indiana,Spencer,nan,Dollars/capita,18147,509
+Indiana,Starke,13.105696678161621,Dollars/capita,18149,512
+Indiana,Steuben,18.95511817932129,Dollars/capita,18151,515
+Indiana,Sullivan,nan,Dollars/capita,18153,518
+Indiana,Switzerland,nan,Dollars/capita,18155,526
+Indiana,Tippecanoe,15.354387283325195,Dollars/capita,18157,530
+Indiana,Tipton,nan,Dollars/capita,18159,534
+Indiana,Union,nan,Dollars/capita,18161,538
+Indiana,Vanderburgh,11.629256248474121,Dollars/capita,18163,543
+Indiana,Vermillion,nan,Dollars/capita,18165,548
+Indiana,Vigo,16.958486557006836,Dollars/capita,18167,553
+Indiana,Wabash,13.764280319213867,Dollars/capita,18169,555
+Indiana,Warren,nan,Dollars/capita,18171,567
+Indiana,Warrick,8.301924705505371,Dollars/capita,18173,575
+Indiana,Washington,11.352209091186523,Dollars/capita,18175,584
+Indiana,Wayne,16.901981353759766,Dollars/capita,18177,586
+Indiana,Wells,nan,Dollars/capita,18179,590
+Indiana,White,nan,Dollars/capita,18181,594
+Indiana,Whitley,nan,Dollars/capita,18183,597
+Iowa,Adair,nan,Dollars/capita,19001,598
+Iowa,Adams,nan,Dollars/capita,19003,602
+Iowa,Allamakee,4.448536396026611,Dollars/capita,19005,608
+Iowa,Appanoose,nan,Dollars/capita,19007,611
+Iowa,Audubon,nan,Dollars/capita,19009,615
+Iowa,Benton,nan,Dollars/capita,19011,619
+Iowa,Black Hawk,6.436679840087891,Dollars/capita,19013,623
+Iowa,Boone,4.092373847961426,Dollars/capita,19015,625
+Iowa,Bremer,3.771056652069092,Dollars/capita,19017,631
+Iowa,Buchanan,3.4827523231506348,Dollars/capita,19019,632
+Iowa,Buena Vista,8.38839054107666,Dollars/capita,19021,633
+Iowa,Butler,0.7072430849075317,Dollars/capita,19023,361
+Iowa,Calhoun,nan,Dollars/capita,19025,365
+Iowa,Carroll,4.0880866050720215,Dollars/capita,19027,369
+Iowa,Cass,4.240991592407227,Dollars/capita,19029,374
+Iowa,Cedar,1.841229796409607,Dollars/capita,19031,379
+Iowa,Cerro Gordo,6.669646263122559,Dollars/capita,19033,383
+Iowa,Cherokee,3.0783021450042725,Dollars/capita,19035,388
+Iowa,Chickasaw,nan,Dollars/capita,19037,393
+Iowa,Clarke,nan,Dollars/capita,19039,397
+Iowa,Clay,4.9815592765808105,Dollars/capita,19041,398
+Iowa,Clayton,2.294471263885498,Dollars/capita,19043,402
+Iowa,Clinton,4.754457950592041,Dollars/capita,19045,404
+Iowa,Crawford,nan,Dollars/capita,19047,408
+Iowa,Dallas,2.5982301235198975,Dollars/capita,19049,413
+Iowa,Davis,nan,Dollars/capita,19051,416
+Iowa,Decatur,nan,Dollars/capita,19053,419
+Iowa,Delaware,nan,Dollars/capita,19055,421
+Iowa,Des Moines,6.228123188018799,Dollars/capita,19057,424
+Iowa,Dickinson,2.7938122749328613,Dollars/capita,19059,427
+Iowa,Dubuque,4.942759037017822,Dollars/capita,19061,434
+Iowa,Emmet,nan,Dollars/capita,19063,437
+Iowa,Fayette,3.876178503036499,Dollars/capita,19065,442
+Iowa,Floyd,nan,Dollars/capita,19067,447
+Iowa,Franklin,nan,Dollars/capita,19069,451
+Iowa,Fremont,nan,Dollars/capita,19071,455
+Iowa,Greene,nan,Dollars/capita,19073,458
+Iowa,Grundy,nan,Dollars/capita,19075,460
+Iowa,Guthrie,nan,Dollars/capita,19077,467
+Iowa,Hamilton,3.8273704051971436,Dollars/capita,19079,469
+Iowa,Hancock,nan,Dollars/capita,19081,470
+Iowa,Hardin,5.170779705047607,Dollars/capita,19083,475
+Iowa,Harrison,1.2126067876815796,Dollars/capita,19085,478
+Iowa,Henry,nan,Dollars/capita,19087,479
+Iowa,Howard,nan,Dollars/capita,19089,481
+Iowa,Humboldt,nan,Dollars/capita,19091,487
+Iowa,Ida,nan,Dollars/capita,19093,491
+Iowa,Iowa,nan,Dollars/capita,19095,495
+Iowa,Jackson,4.203622817993164,Dollars/capita,19097,499
+Iowa,Jasper,5.175048828125,Dollars/capita,19099,505
+Iowa,Jefferson,nan,Dollars/capita,19101,507
+Iowa,Johnson,4.888483047485352,Dollars/capita,19103,508
+Iowa,Jones,3.3514888286590576,Dollars/capita,19105,516
+Iowa,Keokuk,nan,Dollars/capita,19107,520
+Iowa,Kossuth,3.3603579998016357,Dollars/capita,19109,523
+Iowa,Lee,5.7227044105529785,Dollars/capita,19111,531
+Iowa,Linn,5.21762228012085,Dollars/capita,19113,535
+Iowa,Louisa,nan,Dollars/capita,19115,539
+Iowa,Lucas,nan,Dollars/capita,19117,542
+Iowa,Lyon,3.4768755435943604,Dollars/capita,19119,546
+Iowa,Madison,nan,Dollars/capita,19121,550
+Iowa,Mahaska,6.598302841186523,Dollars/capita,19123,554
+Iowa,Marion,7.906336784362793,Dollars/capita,19125,561
+Iowa,Marshall,13.006579399108887,Dollars/capita,19127,568
+Iowa,Mills,1.3085293769836426,Dollars/capita,19129,569
+Iowa,Mitchell,2.521732807159424,Dollars/capita,19131,572
+Iowa,Monona,nan,Dollars/capita,19133,576
+Iowa,Monroe,nan,Dollars/capita,19135,580
+Iowa,Montgomery,4.518118858337402,Dollars/capita,19137,595
+Iowa,Muscatine,7.176843643188477,Dollars/capita,19139,600
+Iowa,O'Brien,3.9970178604125977,Dollars/capita,19141,604
+Iowa,Osceola,nan,Dollars/capita,19143,607
+Iowa,Page,4.707558631896973,Dollars/capita,19145,612
+Iowa,Palo Alto,1.4865739345550537,Dollars/capita,19147,618
+Iowa,Plymouth,3.2014076709747314,Dollars/capita,19149,622
+Iowa,Pocahontas,nan,Dollars/capita,19151,624
+Iowa,Polk,7.692660808563232,Dollars/capita,19153,629
+Iowa,Pottawattamie,5.687000751495361,Dollars/capita,19155,637
+Iowa,Poweshiek,4.1931538581848145,Dollars/capita,19157,640
+Iowa,Ringgold,nan,Dollars/capita,19159,642
+Iowa,Sac,1.967237114906311,Dollars/capita,19161,647
+Iowa,Scott,5.669178009033203,Dollars/capita,19163,657
+Iowa,Shelby,nan,Dollars/capita,19165,660
+Iowa,Sioux,3.612260341644287,Dollars/capita,19167,663
+Iowa,Story,3.0262112617492676,Dollars/capita,19169,668
+Iowa,Tama,4.302738189697266,Dollars/capita,19171,671
+Iowa,Taylor,nan,Dollars/capita,19173,674
+Iowa,Union,6.848101615905762,Dollars/capita,19175,675
+Iowa,Van Buren,1.4822165966033936,Dollars/capita,19177,678
+Iowa,Wapello,12.039336204528809,Dollars/capita,19179,681
+Iowa,Warren,5.760102272033691,Dollars/capita,19181,685
+Iowa,Washington,5.629710674285889,Dollars/capita,19183,687
+Iowa,Wayne,nan,Dollars/capita,19185,691
+Iowa,Webster,6.863175868988037,Dollars/capita,19187,694
+Iowa,Winnebago,4.845858097076416,Dollars/capita,19189,696
+Iowa,Winneshiek,3.4778361320495605,Dollars/capita,19191,698
+Iowa,Woodbury,6.4027791023254395,Dollars/capita,19193,702
+Iowa,Worth,nan,Dollars/capita,19195,703
+Iowa,Wright,6.189401626586914,Dollars/capita,19197,705
+Kansas,Allen,nan,Dollars/capita,20001,709
+Kansas,Anderson,nan,Dollars/capita,20003,712
+Kansas,Atchison,nan,Dollars/capita,20005,715
+Kansas,Barber,nan,Dollars/capita,20007,717
+Kansas,Barton,22.210067749023438,Dollars/capita,20009,719
+Kansas,Bourbon,nan,Dollars/capita,20011,722
+Kansas,Brown,nan,Dollars/capita,20013,723
+Kansas,Butler,7.800729274749756,Dollars/capita,20015,726
+Kansas,Chase,nan,Dollars/capita,20017,729
+Kansas,Chautauqua,nan,Dollars/capita,20019,730
+Kansas,Cherokee,15.499703407287598,Dollars/capita,20021,732
+Kansas,Cheyenne,nan,Dollars/capita,20023,736
+Kansas,Clark,nan,Dollars/capita,20025,738
+Kansas,Clay,nan,Dollars/capita,20027,739
+Kansas,Cloud,nan,Dollars/capita,20029,740
+Kansas,Coffey,nan,Dollars/capita,20031,745
+Kansas,Comanche,nan,Dollars/capita,20033,748
+Kansas,Cowley,18.60875701904297,Dollars/capita,20035,752
+Kansas,Crawford,18.634014129638672,Dollars/capita,20037,756
+Kansas,Decatur,nan,Dollars/capita,20039,759
+Kansas,Dickinson,nan,Dollars/capita,20041,762
+Kansas,Doniphan,nan,Dollars/capita,20043,765
+Kansas,Douglas,8.52364444732666,Dollars/capita,20045,767
+Kansas,Edwards,nan,Dollars/capita,20047,770
+Kansas,Elk,nan,Dollars/capita,20049,773
+Kansas,Ellis,11.81273365020752,Dollars/capita,20051,774
+Kansas,Ellsworth,nan,Dollars/capita,20053,776
+Kansas,Finney,38.37226486206055,Dollars/capita,20055,778
+Kansas,Ford,nan,Dollars/capita,20057,784
+Kansas,Franklin,nan,Dollars/capita,20059,786
+Kansas,Geary,42.67665481567383,Dollars/capita,20061,788
+Kansas,Gove,nan,Dollars/capita,20063,790
+Kansas,Graham,nan,Dollars/capita,20065,791
+Kansas,Grant,nan,Dollars/capita,20067,794
+Kansas,Gray,nan,Dollars/capita,20069,798
+Kansas,Greeley,nan,Dollars/capita,20071,801
+Kansas,Greenwood,nan,Dollars/capita,20073,803
+Kansas,Hamilton,nan,Dollars/capita,20075,805
+Kansas,Harper,nan,Dollars/capita,20077,807
+Kansas,Harvey,13.051560401916504,Dollars/capita,20079,812
+Kansas,Haskell,nan,Dollars/capita,20081,815
+Kansas,Hodgeman,nan,Dollars/capita,20083,818
+Kansas,Jackson,12.79493522644043,Dollars/capita,20085,819
+Kansas,Jefferson,4.8430633544921875,Dollars/capita,20087,821
+Kansas,Jewell,nan,Dollars/capita,20089,822
+Kansas,Johnson,6.558403015136719,Dollars/capita,20091,824
+Kansas,Kearny,nan,Dollars/capita,20093,826
+Kansas,Kingman,nan,Dollars/capita,20095,827
+Kansas,Kiowa,nan,Dollars/capita,20097,829
+Kansas,Labette,19.396150588989258,Dollars/capita,20099,831
+Kansas,Lane,nan,Dollars/capita,20101,833
+Kansas,Leavenworth,8.896570205688477,Dollars/capita,20103,836
+Kansas,Lincoln,nan,Dollars/capita,20105,838
+Kansas,Linn,nan,Dollars/capita,20107,840
+Kansas,Logan,nan,Dollars/capita,20109,842
+Kansas,Lyon,16.75449562072754,Dollars/capita,20111,844
+Kansas,McPherson,8.940481185913086,Dollars/capita,20113,846
+Kansas,Marion,4.275899410247803,Dollars/capita,20115,848
+Kansas,Marshall,nan,Dollars/capita,20117,850
+Kansas,Meade,nan,Dollars/capita,20119,851
+Kansas,Miami,8.621156692504883,Dollars/capita,20121,853
+Kansas,Mitchell,nan,Dollars/capita,20123,854
+Kansas,Montgomery,20.03220558166504,Dollars/capita,20125,856
+Kansas,Morris,nan,Dollars/capita,20127,858
+Kansas,Morton,nan,Dollars/capita,20129,859
+Kansas,Nemaha,nan,Dollars/capita,20131,861
+Kansas,Neosho,16.47410011291504,Dollars/capita,20133,862
+Kansas,Ness,nan,Dollars/capita,20135,864
+Kansas,Norton,nan,Dollars/capita,20137,866
+Kansas,Osage,nan,Dollars/capita,20139,867
+Kansas,Osborne,nan,Dollars/capita,20141,869
+Kansas,Ottawa,nan,Dollars/capita,20143,870
+Kansas,Pawnee,nan,Dollars/capita,20145,872
+Kansas,Phillips,nan,Dollars/capita,20147,873
+Kansas,Pottawatomie,24.940454483032227,Dollars/capita,20149,876
+Kansas,Pratt,nan,Dollars/capita,20151,878
+Kansas,Rawlins,nan,Dollars/capita,20153,880
+Kansas,Reno,13.819764137268066,Dollars/capita,20155,882
+Kansas,Republic,nan,Dollars/capita,20157,884
+Kansas,Rice,nan,Dollars/capita,20159,886
+Kansas,Riley,nan,Dollars/capita,20161,888
+Kansas,Rooks,nan,Dollars/capita,20163,889
+Kansas,Rush,nan,Dollars/capita,20165,891
+Kansas,Russell,nan,Dollars/capita,20167,893
+Kansas,Saline,17.606016159057617,Dollars/capita,20169,895
+Kansas,Scott,nan,Dollars/capita,20171,897
+Kansas,Sedgwick,16.160539627075195,Dollars/capita,20173,898
+Kansas,Seward,41.78831100463867,Dollars/capita,20175,900
+Kansas,Shawnee,15.768587112426758,Dollars/capita,20177,902
+Kansas,Sheridan,nan,Dollars/capita,20179,904
+Kansas,Sherman,nan,Dollars/capita,20181,907
+Kansas,Smith,nan,Dollars/capita,20183,909
+Kansas,Stafford,nan,Dollars/capita,20185,911
+Kansas,Stanton,nan,Dollars/capita,20187,913
+Kansas,Stevens,nan,Dollars/capita,20189,914
+Kansas,Sumner,9.1204833984375,Dollars/capita,20191,916
+Kansas,Thomas,nan,Dollars/capita,20193,917
+Kansas,Trego,nan,Dollars/capita,20195,919
+Kansas,Wabaunsee,nan,Dollars/capita,20197,920
+Kansas,Wallace,nan,Dollars/capita,20199,921
+Kansas,Washington,nan,Dollars/capita,20201,922
+Kansas,Wichita,nan,Dollars/capita,20203,923
+Kansas,Wilson,nan,Dollars/capita,20205,925
+Kansas,Woodson,nan,Dollars/capita,20207,926
+Kansas,Wyandotte,19.907333374023438,Dollars/capita,20209,927
+Kentucky,Adair,16.97193717956543,Dollars/capita,21001,928
+Kentucky,Allen,nan,Dollars/capita,21003,929
+Kentucky,Anderson,nan,Dollars/capita,21005,930
+Kentucky,Ballard,nan,Dollars/capita,21007,932
+Kentucky,Barren,22.49946403503418,Dollars/capita,21009,933
+Kentucky,Bath,nan,Dollars/capita,21011,934
+Kentucky,Bell,33.716373443603516,Dollars/capita,21013,936
+Kentucky,Boone,14.661662101745605,Dollars/capita,21015,1002
+Kentucky,Bourbon,nan,Dollars/capita,21017,1005
+Kentucky,Boyd,23.38955307006836,Dollars/capita,21019,1008
+Kentucky,Boyle,24.886127471923828,Dollars/capita,21021,1010
+Kentucky,Bracken,nan,Dollars/capita,21023,1013
+Kentucky,Breathitt,26.031421661376953,Dollars/capita,21025,1017
+Kentucky,Breckinridge,13.657121658325195,Dollars/capita,21027,1020
+Kentucky,Bullitt,8.955235481262207,Dollars/capita,21029,1024
+Kentucky,Butler,14.651518821716309,Dollars/capita,21031,1026
+Kentucky,Caldwell,nan,Dollars/capita,21033,1031
+Kentucky,Calloway,14.625670433044434,Dollars/capita,21035,1033
+Kentucky,Campbell,12.264663696289062,Dollars/capita,21037,1035
+Kentucky,Carlisle,nan,Dollars/capita,21039,1039
+Kentucky,Carroll,nan,Dollars/capita,21041,1041
+Kentucky,Carter,4.932931423187256,Dollars/capita,21043,1044
+Kentucky,Casey,nan,Dollars/capita,21045,1048
+Kentucky,Christian,31.69066047668457,Dollars/capita,21047,1050
+Kentucky,Clark,20.030200958251953,Dollars/capita,21049,1053
+Kentucky,Clay,26.80352020263672,Dollars/capita,21051,1056
+Kentucky,Clinton,nan,Dollars/capita,21053,1059
+Kentucky,Crittenden,nan,Dollars/capita,21055,1064
+Kentucky,Cumberland,nan,Dollars/capita,21057,1067
+Kentucky,Daviess,16.6760196685791,Dollars/capita,21059,1071
+Kentucky,Edmonson,nan,Dollars/capita,21061,1073
+Kentucky,Elliott,nan,Dollars/capita,21063,1075
+Kentucky,Estill,14.391281127929688,Dollars/capita,21065,1077
+Kentucky,Fayette,11.301609992980957,Dollars/capita,21067,1080
+Kentucky,Fleming,nan,Dollars/capita,21069,1083
+Kentucky,Floyd,23.69234848022461,Dollars/capita,21071,1085
+Kentucky,Franklin,15.373577117919922,Dollars/capita,21073,1086
+Kentucky,Fulton,38.55756759643555,Dollars/capita,21075,1088
+Kentucky,Gallatin,nan,Dollars/capita,21077,1090
+Kentucky,Garrard,nan,Dollars/capita,21079,1092
+Kentucky,Grant,17.790090560913086,Dollars/capita,21081,1094
+Kentucky,Graves,18.790719985961914,Dollars/capita,21083,1097
+Kentucky,Grayson,23.988677978515625,Dollars/capita,21085,1100
+Kentucky,Green,nan,Dollars/capita,21087,1102
+Kentucky,Greenup,11.858145713806152,Dollars/capita,21089,1105
+Kentucky,Hancock,nan,Dollars/capita,21091,1107
+Kentucky,Hardin,19.022680282592773,Dollars/capita,21093,1110
+Kentucky,Harlan,30.472803115844727,Dollars/capita,21095,1114
+Kentucky,Harrison,16.959590911865234,Dollars/capita,21097,1119
+Kentucky,Hart,14.45537281036377,Dollars/capita,21099,1121
+Kentucky,Henderson,10.147205352783203,Dollars/capita,21101,1126
+Kentucky,Henry,nan,Dollars/capita,21103,1129
+Kentucky,Hickman,nan,Dollars/capita,21105,1130
+Kentucky,Hopkins,19.664596557617188,Dollars/capita,21107,1136
+Kentucky,Jackson,18.427932739257812,Dollars/capita,21109,1140
+Kentucky,Jefferson,15.01472282409668,Dollars/capita,21111,1143
+Kentucky,Jessamine,20.994718551635742,Dollars/capita,21113,1145
+Kentucky,Johnson,28.60100746154785,Dollars/capita,21115,1148
+Kentucky,Kenton,11.422659873962402,Dollars/capita,21117,1151
+Kentucky,Knott,16.451425552368164,Dollars/capita,21119,1154
+Kentucky,Knox,23.498334884643555,Dollars/capita,21121,1159
+Kentucky,Larue,nan,Dollars/capita,21123,1162
+Kentucky,Laurel,29.480695724487305,Dollars/capita,21125,1166
+Kentucky,Lawrence,21.189647674560547,Dollars/capita,21127,1167
+Kentucky,Lee,nan,Dollars/capita,21129,1171
+Kentucky,Leslie,21.616924285888672,Dollars/capita,21131,1175
+Kentucky,Letcher,21.49717140197754,Dollars/capita,21133,1178
+Kentucky,Lewis,18.561655044555664,Dollars/capita,21135,1180
+Kentucky,Lincoln,23.2466983795166,Dollars/capita,21137,1184
+Kentucky,Livingston,nan,Dollars/capita,21139,1187
+Kentucky,Logan,19.0557918548584,Dollars/capita,21141,1190
+Kentucky,Lyon,nan,Dollars/capita,21143,1193
+Kentucky,McCracken,21.976566314697266,Dollars/capita,21145,1196
+Kentucky,McCreary,29.872316360473633,Dollars/capita,21147,1198
+Kentucky,McLean,nan,Dollars/capita,21149,1201
+Kentucky,Madison,18.867389678955078,Dollars/capita,21151,1204
+Kentucky,Magoffin,24.03788948059082,Dollars/capita,21153,1206
+Kentucky,Marion,22.47553062438965,Dollars/capita,21155,1210
+Kentucky,Marshall,13.35009479522705,Dollars/capita,21157,1213
+Kentucky,Martin,17.830827713012695,Dollars/capita,21159,1215
+Kentucky,Mason,30.44414710998535,Dollars/capita,21161,1217
+Kentucky,Meade,nan,Dollars/capita,21163,1220
+Kentucky,Menifee,nan,Dollars/capita,21165,1222
+Kentucky,Mercer,nan,Dollars/capita,21167,1225
+Kentucky,Metcalfe,nan,Dollars/capita,21169,1228
+Kentucky,Monroe,25.80356216430664,Dollars/capita,21171,1230
+Kentucky,Montgomery,29.265928268432617,Dollars/capita,21173,1233
+Kentucky,Morgan,nan,Dollars/capita,21175,1235
+Kentucky,Muhlenberg,9.664079666137695,Dollars/capita,21177,1238
+Kentucky,Nelson,16.33892822265625,Dollars/capita,21179,1243
+Kentucky,Nicholas,nan,Dollars/capita,21181,1246
+Kentucky,Ohio,nan,Dollars/capita,21183,1249
+Kentucky,Oldham,5.77819299697876,Dollars/capita,21185,1252
+Kentucky,Owen,nan,Dollars/capita,21187,1255
+Kentucky,Owsley,nan,Dollars/capita,21189,1257
+Kentucky,Pendleton,nan,Dollars/capita,21191,1260
+Kentucky,Perry,36.39060974121094,Dollars/capita,21193,1265
+Kentucky,Pike,24.158414840698242,Dollars/capita,21195,1267
+Kentucky,Powell,nan,Dollars/capita,21197,1270
+Kentucky,Pulaski,21.27605628967285,Dollars/capita,21199,1272
+Kentucky,Robertson,nan,Dollars/capita,21201,1273
+Kentucky,Rockcastle,nan,Dollars/capita,21203,1276
+Kentucky,Rowan,33.36476516723633,Dollars/capita,21205,1279
+Kentucky,Russell,nan,Dollars/capita,21207,1282
+Kentucky,Scott,13.864967346191406,Dollars/capita,21209,1283
+Kentucky,Shelby,14.754159927368164,Dollars/capita,21211,1285
+Kentucky,Simpson,nan,Dollars/capita,21213,1287
+Kentucky,Spencer,nan,Dollars/capita,21215,1000
+Kentucky,Taylor,26.618560791015625,Dollars/capita,21217,1003
+Kentucky,Todd,nan,Dollars/capita,21219,1006
+Kentucky,Trigg,nan,Dollars/capita,21221,1009
+Kentucky,Trimble,nan,Dollars/capita,21223,1012
+Kentucky,Union,13.773577690124512,Dollars/capita,21225,1016
+Kentucky,Warren,16.984987258911133,Dollars/capita,21227,1019
+Kentucky,Washington,nan,Dollars/capita,21229,1023
+Kentucky,Wayne,nan,Dollars/capita,21231,1027
+Kentucky,Webster,11.29427719116211,Dollars/capita,21233,1029
+Kentucky,Whitley,36.90584182739258,Dollars/capita,21235,1034
+Kentucky,Wolfe,nan,Dollars/capita,21237,1037
+Kentucky,Woodford,nan,Dollars/capita,21239,1042
+Louisiana,Acadia,26.22872543334961,Dollars/capita,22001,1046
+Louisiana,Allen,25.820201873779297,Dollars/capita,22003,1051
+Louisiana,Ascension,18.7993221282959,Dollars/capita,22005,1055
+Louisiana,Assumption,nan,Dollars/capita,22007,1060
+Louisiana,Avoyelles,30.340267181396484,Dollars/capita,22009,1062
+Louisiana,Beauregard,nan,Dollars/capita,22011,1066
+Louisiana,Bienville,nan,Dollars/capita,22013,1069
+Louisiana,Bossier,18.21697235107422,Dollars/capita,22015,1076
+Louisiana,Caddo,25.322471618652344,Dollars/capita,22017,1079
+Louisiana,Calcasieu,20.90997886657715,Dollars/capita,22019,1081
+Louisiana,Caldwell,nan,Dollars/capita,22021,1084
+Louisiana,Cameron,nan,Dollars/capita,22023,1089
+Louisiana,Catahoula,nan,Dollars/capita,22025,1093
+Louisiana,Claiborne,nan,Dollars/capita,22027,1095
+Louisiana,Concordia,34.383548736572266,Dollars/capita,22029,1098
+Louisiana,De Soto,nan,Dollars/capita,22031,1103
+Louisiana,East Baton Rouge,23.019763946533203,Dollars/capita,22033,1108
+Louisiana,East Carroll,nan,Dollars/capita,22035,1111
+Louisiana,East Feliciana,nan,Dollars/capita,22037,1115
+Louisiana,Evangeline,nan,Dollars/capita,22039,1118
+Louisiana,Franklin,36.007102966308594,Dollars/capita,22041,1123
+Louisiana,Grant,nan,Dollars/capita,22043,1127
+Louisiana,Iberia,30.62580108642578,Dollars/capita,22045,1133
+Louisiana,Iberville,22.508493423461914,Dollars/capita,22047,1134
+Louisiana,Jackson,nan,Dollars/capita,22049,1138
+Louisiana,Jefferson,23.010534286499023,Dollars/capita,22051,1147
+Louisiana,Jefferson Davis,24.287826538085938,Dollars/capita,22053,1155
+Louisiana,Lafayette,21.73682975769043,Dollars/capita,22055,1161
+Louisiana,Lafourche,22.803295135498047,Dollars/capita,22057,1280
+Louisiana,La Salle,nan,Dollars/capita,22059,1289
+Louisiana,Lincoln,nan,Dollars/capita,22061,1291
+Louisiana,Livingston,14.266599655151367,Dollars/capita,22063,1295
+Louisiana,Madison,nan,Dollars/capita,22065,1297
+Louisiana,Morehouse,31.476295471191406,Dollars/capita,22067,1299
+Louisiana,Natchitoches,26.51472282409668,Dollars/capita,22069,1301
+Louisiana,Orleans,22.480947494506836,Dollars/capita,22071,1304
+Louisiana,Ouachita,26.067142486572266,Dollars/capita,22073,1306
+Louisiana,Plaquemines,10.59720516204834,Dollars/capita,22075,1427
+Louisiana,Pointe Coupee,26.17090606689453,Dollars/capita,22077,1431
+Louisiana,Rapides,28.901147842407227,Dollars/capita,22079,1434
+Louisiana,Red River,nan,Dollars/capita,22081,1436
+Louisiana,Richland,nan,Dollars/capita,22083,1439
+Louisiana,Sabine,21.713603973388672,Dollars/capita,22085,1441
+Louisiana,St. Bernard,34.726898193359375,Dollars/capita,22087,1463
+Louisiana,St. Charles,15.115548133850098,Dollars/capita,22089,1466
+Louisiana,St. Helena,nan,Dollars/capita,22091,1467
+Louisiana,St. James,nan,Dollars/capita,22093,1468
+Louisiana,St. John the Baptist,25.64519500732422,Dollars/capita,22095,1469
+Louisiana,St. Landry,41.2633171081543,Dollars/capita,22097,1471
+Louisiana,St. Martin,26.67292022705078,Dollars/capita,22099,1473
+Louisiana,St. Mary,30.46812629699707,Dollars/capita,22101,1474
+Louisiana,St. Tammany,13.892998695373535,Dollars/capita,22103,1475
+Louisiana,Tangipahoa,27.779766082763672,Dollars/capita,22105,1476
+Louisiana,Tensas,nan,Dollars/capita,22107,1479
+Louisiana,Terrebonne,27.914953231811523,Dollars/capita,22109,1501
+Louisiana,Union,20.747888565063477,Dollars/capita,22111,1507
+Louisiana,Vermilion,22.207252502441406,Dollars/capita,22113,1510
+Louisiana,Vernon,nan,Dollars/capita,22115,1513
+Louisiana,Washington,35.286399841308594,Dollars/capita,22117,1516
+Louisiana,Webster,29.887468338012695,Dollars/capita,22119,1518
+Louisiana,West Baton Rouge,18.49681854248047,Dollars/capita,22121,1520
+Louisiana,West Carroll,nan,Dollars/capita,22123,1522
+Louisiana,West Feliciana,nan,Dollars/capita,22125,1524
+Louisiana,Winn,nan,Dollars/capita,22127,1529
+Maine,Androscoggin,18.670520782470703,Dollars/capita,23001,1532
+Maine,Aroostook,15.378827095031738,Dollars/capita,23003,1535
+Maine,Cumberland,9.343124389648438,Dollars/capita,23005,1608
+Maine,Franklin,11.852155685424805,Dollars/capita,23007,1619
+Maine,Hancock,8.73410415649414,Dollars/capita,23009,1748
+Maine,Kennebec,12.83427619934082,Dollars/capita,23011,1755
+Maine,Knox,8.010089874267578,Dollars/capita,23013,1774
+Maine,Lincoln,5.367861747741699,Dollars/capita,23015,1835
+Maine,Oxford,9.605428695678711,Dollars/capita,23017,1842
+Maine,Penobscot,11.8984375,Dollars/capita,23019,1846
+Maine,Piscataquis,12.57824993133545,Dollars/capita,23021,1851
+Maine,Sagadahoc,nan,Dollars/capita,23023,1855
+Maine,Somerset,13.590160369873047,Dollars/capita,23025,1860
+Maine,Waldo,8.615187644958496,Dollars/capita,23027,1865
+Maine,Washington,16.51645851135254,Dollars/capita,23029,1884
+Maine,York,7.78998327255249,Dollars/capita,23031,1901
+Maryland,Allegany,15.610756874084473,Dollars/capita,24001,1905
+Maryland,Anne Arundel,11.622209548950195,Dollars/capita,24003,1925
+Maryland,Baltimore County,16.577064514160156,Dollars/capita,24005,1939
+Maryland,Calvert,7.608264923095703,Dollars/capita,24009,1946
+Maryland,Caroline,23.129587173461914,Dollars/capita,24011,1949
+Maryland,Carroll,6.521655559539795,Dollars/capita,24013,1955
+Maryland,Cecil,13.67590045928955,Dollars/capita,24015,1963
+Maryland,Charles,11.966459274291992,Dollars/capita,24017,1294
+Maryland,Dorchester,19.634647369384766,Dollars/capita,24019,1346
+Maryland,Frederick,10.674422264099121,Dollars/capita,24021,1357
+Maryland,Garrett,16.723228454589844,Dollars/capita,24023,1361
+Maryland,Harford,8.72516918182373,Dollars/capita,24025,1372
+Maryland,Howard,6.729694843292236,Dollars/capita,24027,1379
+Maryland,Kent,15.9759521484375,Dollars/capita,24029,1394
+Maryland,Montgomery,14.137595176696777,Dollars/capita,24031,1398
+Maryland,Prince George's,26.337535858154297,Dollars/capita,24033,1403
+Maryland,Queen Anne's,6.472051620483398,Dollars/capita,24035,1413
+Maryland,St. Mary's,12.783225059509277,Dollars/capita,24037,1421
+Maryland,Somerset,nan,Dollars/capita,24039,1430
+Maryland,Talbot,15.137738227844238,Dollars/capita,24041,1438
+Maryland,Washington,16.446697235107422,Dollars/capita,24043,1445
+Maryland,Wicomico,24.86667251586914,Dollars/capita,24045,1446
+Maryland,Worcester,11.914734840393066,Dollars/capita,24047,1456
+Maryland,Baltimore County,36.404563903808594,Dollars/capita,24510,1939
+Massachusetts,Barnstable,7.1335954666137695,Dollars/capita,25001,1478
+Massachusetts,Berkshire,12.884185791015625,Dollars/capita,25003,1480
+Massachusetts,Bristol,12.573049545288086,Dollars/capita,25005,1486
+Massachusetts,Dukes,nan,Dollars/capita,25007,1491
+Massachusetts,Essex,14.801210403442383,Dollars/capita,25009,1519
+Massachusetts,Franklin,8.72519588470459,Dollars/capita,25011,1523
+Massachusetts,Hampden,21.51605987548828,Dollars/capita,25013,1526
+Massachusetts,Hampshire,5.919235706329346,Dollars/capita,25015,1527
+Massachusetts,Middlesex,6.719334602355957,Dollars/capita,25017,1533
+Massachusetts,Nantucket,nan,Dollars/capita,25019,1537
+Massachusetts,Norfolk,6.498018741607666,Dollars/capita,25021,1543
+Massachusetts,Plymouth,10.16403865814209,Dollars/capita,25023,1569
+Massachusetts,Suffolk,20.327068328857422,Dollars/capita,25025,1585
+Massachusetts,Worcester,12.028889656066895,Dollars/capita,25027,1599
+Michigan,Alcona,nan,Dollars/capita,26001,1603
+Michigan,Alger,2.3490312099456787,Dollars/capita,26003,1609
+Michigan,Allegan,10.617762565612793,Dollars/capita,26005,1611
+Michigan,Alpena,3.132317543029785,Dollars/capita,26007,1614
+Michigan,Antrim,nan,Dollars/capita,26009,1617
+Michigan,Arenac,nan,Dollars/capita,26011,1621
+Michigan,Baraga,nan,Dollars/capita,26013,1624
+Michigan,Barry,10.952303886413574,Dollars/capita,26015,1627
+Michigan,Bay,16.336923599243164,Dollars/capita,26017,1631
+Michigan,Benzie,7.651220798492432,Dollars/capita,26019,1634
+Michigan,Berrien,19.53035545349121,Dollars/capita,26021,1635
+Michigan,Branch,20.255332946777344,Dollars/capita,26023,1640
+Michigan,Calhoun,23.39397430419922,Dollars/capita,26025,1641
+Michigan,Cass,11.621825218200684,Dollars/capita,26027,1644
+Michigan,Charlevoix,nan,Dollars/capita,26029,1648
+Michigan,Cheboygan,nan,Dollars/capita,26031,1649
+Michigan,Chippewa,17.53255271911621,Dollars/capita,26033,1660
+Michigan,Clare,10.86324405670166,Dollars/capita,26035,1665
+Michigan,Clinton,8.332206726074219,Dollars/capita,26037,1669
+Michigan,Crawford,nan,Dollars/capita,26039,1672
+Michigan,Delta,23.979658126831055,Dollars/capita,26041,1675
+Michigan,Dickinson,17.17298698425293,Dollars/capita,26043,1677
+Michigan,Eaton,14.179506301879883,Dollars/capita,26045,1678
+Michigan,Emmet,nan,Dollars/capita,26047,1686
+Michigan,Genesee,20.150129318237305,Dollars/capita,26049,1688
+Michigan,Gladwin,4.3640456199646,Dollars/capita,26051,1691
+Michigan,Gogebic,nan,Dollars/capita,26053,1693
+Michigan,Grand Traverse,14.485747337341309,Dollars/capita,26055,1697
+Michigan,Gratiot,17.390941619873047,Dollars/capita,26057,1700
+Michigan,Hillsdale,15.392698287963867,Dollars/capita,26059,1701
+Michigan,Houghton,15.78151798248291,Dollars/capita,26061,1705
+Michigan,Huron,14.744287490844727,Dollars/capita,26063,1708
+Michigan,Ingham,13.676618576049805,Dollars/capita,26065,1710
+Michigan,Ionia,13.247124671936035,Dollars/capita,26067,1713
+Michigan,Iosco,2.638016700744629,Dollars/capita,26069,1715
+Michigan,Iron,nan,Dollars/capita,26071,1716
+Michigan,Isabella,nan,Dollars/capita,26073,1717
+Michigan,Jackson,17.787139892578125,Dollars/capita,26075,1719
+Michigan,Kalamazoo,16.240053176879883,Dollars/capita,26077,1720
+Michigan,Kalkaska,nan,Dollars/capita,26079,1722
+Michigan,Kent,18.206602096557617,Dollars/capita,26081,1726
+Michigan,Keweenaw,nan,Dollars/capita,26083,1743
+Michigan,Lake,9.081128120422363,Dollars/capita,26085,1749
+Michigan,Lapeer,11.499465942382812,Dollars/capita,26087,1752
+Michigan,Leelanau,3.026329517364502,Dollars/capita,26089,1765
+Michigan,Lenawee,13.102728843688965,Dollars/capita,26091,1768
+Michigan,Livingston,5.1911420822143555,Dollars/capita,26093,1770
+Michigan,Luce,nan,Dollars/capita,26095,1773
+Michigan,Mackinac,2.3090996742248535,Dollars/capita,26097,1779
+Michigan,Macomb,12.36951732635498,Dollars/capita,26099,1785
+Michigan,Manistee,3.791485548019409,Dollars/capita,26101,1787
+Michigan,Marquette,2.981018304824829,Dollars/capita,26103,1793
+Michigan,Mason,nan,Dollars/capita,26105,1797
+Michigan,Mecosta,1.719040870666504,Dollars/capita,26107,1800
+Michigan,Menominee,7.296448707580566,Dollars/capita,26109,1802
+Michigan,Midland,1.4663097858428955,Dollars/capita,26111,1806
+Michigan,Missaukee,nan,Dollars/capita,26113,1810
+Michigan,Monroe,10.84917163848877,Dollars/capita,26115,1812
+Michigan,Montcalm,10.887978553771973,Dollars/capita,26117,1815
+Michigan,Montmorency,nan,Dollars/capita,26119,1816
+Michigan,Muskegon,24.11570930480957,Dollars/capita,26121,1818
+Michigan,Newaygo,9.726346969604492,Dollars/capita,26123,1820
+Michigan,Oakland,9.167548179626465,Dollars/capita,26125,1824
+Michigan,Oceana,18.679189682006836,Dollars/capita,26127,1825
+Michigan,Ogemaw,nan,Dollars/capita,26129,1827
+Michigan,Ontonagon,nan,Dollars/capita,26131,1829
+Michigan,Osceola,10.865785598754883,Dollars/capita,26133,1830
+Michigan,Oscoda,nan,Dollars/capita,26135,1832
+Michigan,Otsego,nan,Dollars/capita,26137,1834
+Michigan,Ottawa,13.308249473571777,Dollars/capita,26139,1837
+Michigan,Presque Isle,nan,Dollars/capita,26141,1840
+Michigan,Roscommon,nan,Dollars/capita,26143,1843
+Michigan,Saginaw,22.635908126831055,Dollars/capita,26145,1845
+Michigan,St. Clair,13.523276329040527,Dollars/capita,26147,1854
+Michigan,St. Joseph,22.641218185424805,Dollars/capita,26149,1857
+Michigan,Sanilac,12.412253379821777,Dollars/capita,26151,1858
+Michigan,Schoolcraft,nan,Dollars/capita,26153,1861
+Michigan,Shiawassee,16.134906768798828,Dollars/capita,26155,1863
+Michigan,Tuscola,13.557947158813477,Dollars/capita,26157,1866
+Michigan,Van Buren,21.751840591430664,Dollars/capita,26159,1867
+Michigan,Washtenaw,7.333137035369873,Dollars/capita,26161,1869
+Michigan,Wayne,26.787336349487305,Dollars/capita,26163,1871
+Michigan,Wexford,nan,Dollars/capita,26165,1873
+Minnesota,Aitkin,7.201239585876465,Dollars/capita,27001,1875
+Minnesota,Anoka,10.928274154663086,Dollars/capita,27003,1877
+Minnesota,Becker,21.77227783203125,Dollars/capita,27005,1878
+Minnesota,Beltrami,36.81739044189453,Dollars/capita,27007,1880
+Minnesota,Benton,18.961580276489258,Dollars/capita,27009,1881
+Minnesota,Big Stone,nan,Dollars/capita,27011,1882
+Minnesota,Blue Earth,19.855918884277344,Dollars/capita,27013,1886
+Minnesota,Brown,16.132131576538086,Dollars/capita,27015,1892
+Minnesota,Carlton,15.937631607055664,Dollars/capita,27017,1893
+Minnesota,Carver,4.9260430335998535,Dollars/capita,27019,1894
+Minnesota,Cass,20.78445816040039,Dollars/capita,27021,1895
+Minnesota,Chippewa,29.334943771362305,Dollars/capita,27023,1896
+Minnesota,Chisago,5.15000057220459,Dollars/capita,27025,1897
+Minnesota,Clay,17.68084144592285,Dollars/capita,27027,1898
+Minnesota,Clearwater,14.10835075378418,Dollars/capita,27029,1899
+Minnesota,Cook,18.377925872802734,Dollars/capita,27031,1900
+Minnesota,Cottonwood,21.329896926879883,Dollars/capita,27033,1902
+Minnesota,Crow Wing,18.02981948852539,Dollars/capita,27035,1903
+Minnesota,Dakota,11.275538444519043,Dollars/capita,27037,1904
+Minnesota,Dodge,nan,Dollars/capita,27039,1906
+Minnesota,Douglas,18.146608352661133,Dollars/capita,27041,1907
+Minnesota,Faribault,nan,Dollars/capita,27043,1908
+Minnesota,Fillmore,10.667966842651367,Dollars/capita,27045,1909
+Minnesota,Freeborn,nan,Dollars/capita,27047,1910
+Minnesota,Goodhue,9.017012596130371,Dollars/capita,27049,1911
+Minnesota,Grant,nan,Dollars/capita,27051,1912
+Minnesota,Hennepin,16.5716609954834,Dollars/capita,27053,1913
+Minnesota,Houston,9.4307222366333,Dollars/capita,27055,1914
+Minnesota,Hubbard,17.96727180480957,Dollars/capita,27057,1915
+Minnesota,Isanti,15.980023384094238,Dollars/capita,27059,1916
+Minnesota,Itasca,15.398688316345215,Dollars/capita,27061,1917
+Minnesota,Jackson,nan,Dollars/capita,27063,1918
+Minnesota,Kanabec,nan,Dollars/capita,27065,1919
+Minnesota,Kandiyohi,31.10958480834961,Dollars/capita,27067,1920
+Minnesota,Kittson,16.086875915527344,Dollars/capita,27069,1921
+Minnesota,Koochiching,12.193503379821777,Dollars/capita,27071,1922
+Minnesota,Lac qui Parle,nan,Dollars/capita,27073,1923
+Minnesota,Lake,nan,Dollars/capita,27075,1926
+Minnesota,Lake of the Woods,nan,Dollars/capita,27077,1927
+Minnesota,Le Sueur,9.26393985748291,Dollars/capita,27079,1929
+Minnesota,Lincoln,5.282787322998047,Dollars/capita,27081,1931
+Minnesota,Lyon,33.34069061279297,Dollars/capita,27083,1932
+Minnesota,McLeod,18.217905044555664,Dollars/capita,27085,1934
+Minnesota,Mahnomen,49.59584045410156,Dollars/capita,27087,1936
+Minnesota,Marshall,7.777431488037109,Dollars/capita,27089,1937
+Minnesota,Martin,19.98041534423828,Dollars/capita,27091,1940
+Minnesota,Meeker,15.244193077087402,Dollars/capita,27093,1941
+Minnesota,Mille Lacs,19.5526180267334,Dollars/capita,27095,1943
+Minnesota,Morrison,17.37021255493164,Dollars/capita,27097,1944
+Minnesota,Mower,20.624208450317383,Dollars/capita,27099,1945
+Minnesota,Murray,nan,Dollars/capita,27101,1947
+Minnesota,Nicollet,nan,Dollars/capita,27103,1948
+Minnesota,Nobles,41.41081619262695,Dollars/capita,27105,1950
+Minnesota,Norman,13.222085952758789,Dollars/capita,27107,1951
+Minnesota,Olmsted,15.54526138305664,Dollars/capita,27109,1953
+Minnesota,Otter Tail,13.798311233520508,Dollars/capita,27111,1954
+Minnesota,Pennington,nan,Dollars/capita,27113,1956
+Minnesota,Pine,15.105348587036133,Dollars/capita,27115,1957
+Minnesota,Pipestone,27.48798942565918,Dollars/capita,27117,1958
+Minnesota,Polk,20.18296241760254,Dollars/capita,27119,1959
+Minnesota,Pope,nan,Dollars/capita,27121,1961
+Minnesota,Ramsey,25.418916702270508,Dollars/capita,27123,1964
+Minnesota,Red Lake,nan,Dollars/capita,27125,1966
+Minnesota,Redwood,20.916501998901367,Dollars/capita,27127,1969
+Minnesota,Renville,11.799002647399902,Dollars/capita,27129,1971
+Minnesota,Rice,17.216934204101562,Dollars/capita,27131,1973
+Minnesota,Rock,nan,Dollars/capita,27133,1974
+Minnesota,Roseau,21.688766479492188,Dollars/capita,27135,1976
+Minnesota,St. Louis,11.440545082092285,Dollars/capita,27137,1978
+Minnesota,Scott,7.459907531738281,Dollars/capita,27139,1979
+Minnesota,Sherburne,7.866716384887695,Dollars/capita,27141,1980
+Minnesota,Sibley,7.2519025802612305,Dollars/capita,27143,1982
+Minnesota,Stearns,20.829360961914062,Dollars/capita,27145,1984
+Minnesota,Steele,19.550565719604492,Dollars/capita,27147,1985
+Minnesota,Stevens,nan,Dollars/capita,27149,1987
+Minnesota,Swift,nan,Dollars/capita,27151,1988
+Minnesota,Todd,14.642542839050293,Dollars/capita,27153,1989
+Minnesota,Traverse,nan,Dollars/capita,27155,1990
+Minnesota,Wabasha,7.959884166717529,Dollars/capita,27157,1991
+Minnesota,Wadena,26.169469833374023,Dollars/capita,27159,1992
+Minnesota,Waseca,nan,Dollars/capita,27161,1993
+Minnesota,Washington,7.408496379852295,Dollars/capita,27163,1994
+Minnesota,Watonwan,nan,Dollars/capita,27165,1996
+Minnesota,Wilkin,nan,Dollars/capita,27167,1997
+Minnesota,Winona,9.942962646484375,Dollars/capita,27169,1998
+Minnesota,Wright,10.217574119567871,Dollars/capita,27171,1999
+Minnesota,Yellow Medicine,nan,Dollars/capita,27173,1531
+Mississippi,Adams,nan,Dollars/capita,28001,1534
+Mississippi,Alcorn,nan,Dollars/capita,28003,1538
+Mississippi,Amite,nan,Dollars/capita,28005,1539
+Mississippi,Attala,nan,Dollars/capita,28007,1541
+Mississippi,Benton,nan,Dollars/capita,28009,1544
+Mississippi,Bolivar,nan,Dollars/capita,28011,1547
+Mississippi,Calhoun,nan,Dollars/capita,28013,1548
+Mississippi,Carroll,nan,Dollars/capita,28015,1549
+Mississippi,Chickasaw,nan,Dollars/capita,28017,1550
+Mississippi,Choctaw,nan,Dollars/capita,28019,1552
+Mississippi,Claiborne,nan,Dollars/capita,28021,1555
+Mississippi,Clarke,nan,Dollars/capita,28023,1557
+Mississippi,Clay,nan,Dollars/capita,28025,1559
+Mississippi,Coahoma,nan,Dollars/capita,28027,1562
+Mississippi,Copiah,nan,Dollars/capita,28029,1564
+Mississippi,Covington,nan,Dollars/capita,28031,1567
+Mississippi,DeSoto,nan,Dollars/capita,28033,1571
+Mississippi,Forrest,nan,Dollars/capita,28035,1572
+Mississippi,Franklin,nan,Dollars/capita,28037,1575
+Mississippi,George,nan,Dollars/capita,28039,1577
+Mississippi,Greene,nan,Dollars/capita,28041,1579
+Mississippi,Grenada,nan,Dollars/capita,28043,1581
+Mississippi,Hancock,nan,Dollars/capita,28045,1583
+Mississippi,Harrison,nan,Dollars/capita,28047,1587
+Mississippi,Hinds,nan,Dollars/capita,28049,1591
+Mississippi,Holmes,nan,Dollars/capita,28051,1593
+Mississippi,Humphreys,nan,Dollars/capita,28053,1596
+Mississippi,Issaquena,nan,Dollars/capita,28055,1598
+Mississippi,Itawamba,nan,Dollars/capita,28057,1601
+Mississippi,Jackson,nan,Dollars/capita,28059,1605
+Mississippi,Jasper,nan,Dollars/capita,28061,1607
+Mississippi,Jefferson,nan,Dollars/capita,28063,1610
+Mississippi,Jefferson Davis,nan,Dollars/capita,28065,1612
+Mississippi,Jones,nan,Dollars/capita,28067,1615
+Mississippi,Kemper,nan,Dollars/capita,28069,1616
+Mississippi,Lafayette,nan,Dollars/capita,28071,1620
+Mississippi,Lamar,nan,Dollars/capita,28073,1623
+Mississippi,Lauderdale,nan,Dollars/capita,28075,1628
+Mississippi,Lawrence,nan,Dollars/capita,28077,1632
+Mississippi,Leake,nan,Dollars/capita,28079,1636
+Mississippi,Lee,nan,Dollars/capita,28081,1638
+Mississippi,Leflore,nan,Dollars/capita,28083,1643
+Mississippi,Lincoln,nan,Dollars/capita,28085,1645
+Mississippi,Lowndes,nan,Dollars/capita,28087,1647
+Mississippi,Madison,nan,Dollars/capita,28089,1651
+Mississippi,Marion,nan,Dollars/capita,28091,1653
+Mississippi,Marshall,nan,Dollars/capita,28093,1655
+Mississippi,Monroe,nan,Dollars/capita,28095,1656
+Mississippi,Montgomery,nan,Dollars/capita,28097,1658
+Mississippi,Neshoba,nan,Dollars/capita,28099,1661
+Mississippi,Newton,nan,Dollars/capita,28101,1663
+Mississippi,Noxubee,nan,Dollars/capita,28103,1666
+Mississippi,Oktibbeha,nan,Dollars/capita,28105,1668
+Mississippi,Panola,nan,Dollars/capita,28107,1671
+Mississippi,Pearl River,nan,Dollars/capita,28109,1676
+Mississippi,Perry,nan,Dollars/capita,28111,1679
+Mississippi,Pike,nan,Dollars/capita,28113,1680
+Mississippi,Pontotoc,nan,Dollars/capita,28115,1682
+Mississippi,Prentiss,nan,Dollars/capita,28117,1684
+Mississippi,Quitman,nan,Dollars/capita,28119,1685
+Mississippi,Rankin,nan,Dollars/capita,28121,1690
+Mississippi,Scott,nan,Dollars/capita,28123,1692
+Mississippi,Sharkey,nan,Dollars/capita,28125,1695
+Mississippi,Simpson,nan,Dollars/capita,28127,1698
+Mississippi,Smith,nan,Dollars/capita,28129,1709
+Mississippi,Stone,nan,Dollars/capita,28131,1712
+Mississippi,Sunflower,nan,Dollars/capita,28133,1721
+Mississippi,Tallahatchie,nan,Dollars/capita,28135,1725
+Mississippi,Tate,nan,Dollars/capita,28137,1727
+Mississippi,Tippah,nan,Dollars/capita,28139,1730
+Mississippi,Tishomingo,nan,Dollars/capita,28141,1732
+Mississippi,Tunica,nan,Dollars/capita,28143,1735
+Mississippi,Union,nan,Dollars/capita,28145,1737
+Mississippi,Walthall,nan,Dollars/capita,28147,1740
+Mississippi,Warren,nan,Dollars/capita,28149,1746
+Mississippi,Washington,nan,Dollars/capita,28151,1750
+Mississippi,Wayne,nan,Dollars/capita,28153,1753
+Mississippi,Webster,nan,Dollars/capita,28155,1756
+Mississippi,Wilkinson,nan,Dollars/capita,28157,1757
+Mississippi,Winston,nan,Dollars/capita,28159,1758
+Mississippi,Yalobusha,nan,Dollars/capita,28161,1759
+Mississippi,Yazoo,nan,Dollars/capita,28163,1760
+Missouri,Adair,nan,Dollars/capita,29001,1761
+Missouri,Andrew,nan,Dollars/capita,29003,1762
+Missouri,Atchison,nan,Dollars/capita,29005,1763
+Missouri,Audrain,17.373027801513672,Dollars/capita,29007,1766
+Missouri,Barry,23.58732032775879,Dollars/capita,29009,1767
+Missouri,Barton,nan,Dollars/capita,29011,1771
+Missouri,Bates,16.262569427490234,Dollars/capita,29013,1776
+Missouri,Benton,nan,Dollars/capita,29015,1778
+Missouri,Bollinger,nan,Dollars/capita,29017,1781
+Missouri,Boone,8.674721717834473,Dollars/capita,29019,1783
+Missouri,Buchanan,16.807172775268555,Dollars/capita,29021,1789
+Missouri,Butler,30.435728073120117,Dollars/capita,29023,1792
+Missouri,Caldwell,nan,Dollars/capita,29025,1795
+Missouri,Callaway,7.996737480163574,Dollars/capita,29027,1799
+Missouri,Camden,14.972023963928223,Dollars/capita,29029,1803
+Missouri,Cape Girardeau,13.288479804992676,Dollars/capita,29031,1808
+Missouri,Carroll,nan,Dollars/capita,29033,1822
+Missouri,Carter,nan,Dollars/capita,29035,1001
+Missouri,Cass,12.91887092590332,Dollars/capita,29037,1004
+Missouri,Cedar,nan,Dollars/capita,29039,1007
+Missouri,Chariton,nan,Dollars/capita,29041,1011
+Missouri,Christian,10.961636543273926,Dollars/capita,29043,1014
+Missouri,Clark,nan,Dollars/capita,29045,1015
+Missouri,Clay,10.617112159729004,Dollars/capita,29047,1018
+Missouri,Clinton,4.714633941650391,Dollars/capita,29049,1021
+Missouri,Cole,13.20112419128418,Dollars/capita,29051,1022
+Missouri,Cooper,nan,Dollars/capita,29053,1025
+Missouri,Crawford,12.52878189086914,Dollars/capita,29055,1028
+Missouri,Dade,nan,Dollars/capita,29057,1030
+Missouri,Dallas,nan,Dollars/capita,29059,1032
+Missouri,Daviess,nan,Dollars/capita,29061,1036
+Missouri,DeKalb,nan,Dollars/capita,29063,1038
+Missouri,Dent,nan,Dollars/capita,29065,1040
+Missouri,Douglas,nan,Dollars/capita,29067,1043
+Missouri,Dunklin,32.12849807739258,Dollars/capita,29069,1045
+Missouri,Franklin,11.321642875671387,Dollars/capita,29071,1047
+Missouri,Gasconade,14.177556991577148,Dollars/capita,29073,1049
+Missouri,Gentry,nan,Dollars/capita,29075,1052
+Missouri,Greene,16.651676177978516,Dollars/capita,29077,1054
+Missouri,Grundy,nan,Dollars/capita,29079,1057
+Missouri,Harrison,nan,Dollars/capita,29081,1058
+Missouri,Henry,nan,Dollars/capita,29083,1061
+Missouri,Hickory,nan,Dollars/capita,29085,1063
+Missouri,Holt,nan,Dollars/capita,29087,1065
+Missouri,Howard,nan,Dollars/capita,29089,1068
+Missouri,Howell,25.025840759277344,Dollars/capita,29091,1070
+Missouri,Iron,nan,Dollars/capita,29093,1072
+Missouri,Jackson,15.729598045349121,Dollars/capita,29095,1074
+Missouri,Jasper,20.091846466064453,Dollars/capita,29097,1078
+Missouri,Jefferson,9.285919189453125,Dollars/capita,29099,1082
+Missouri,Johnson,14.62065315246582,Dollars/capita,29101,1087
+Missouri,Knox,nan,Dollars/capita,29103,1091
+Missouri,Laclede,22.5039119720459,Dollars/capita,29105,1096
+Missouri,Lafayette,5.607020378112793,Dollars/capita,29107,1099
+Missouri,Lawrence,18.07967185974121,Dollars/capita,29109,1101
+Missouri,Lewis,nan,Dollars/capita,29111,1104
+Missouri,Lincoln,10.366815567016602,Dollars/capita,29113,1106
+Missouri,Linn,nan,Dollars/capita,29115,1109
+Missouri,Livingston,nan,Dollars/capita,29117,1112
+Missouri,McDonald,20.111940383911133,Dollars/capita,29119,1113
+Missouri,Macon,nan,Dollars/capita,29121,1116
+Missouri,Madison,24.023746490478516,Dollars/capita,29123,1117
+Missouri,Maries,nan,Dollars/capita,29125,1120
+Missouri,Marion,19.990673065185547,Dollars/capita,29127,1122
+Missouri,Mercer,nan,Dollars/capita,29129,1125
+Missouri,Miller,12.513566970825195,Dollars/capita,29131,1128
+Missouri,Mississippi,19.295812606811523,Dollars/capita,29133,1131
+Missouri,Moniteau,nan,Dollars/capita,29135,1135
+Missouri,Monroe,nan,Dollars/capita,29137,1139
+Missouri,Montgomery,nan,Dollars/capita,29139,1142
+Missouri,Morgan,15.903883934020996,Dollars/capita,29141,1146
+Missouri,New Madrid,39.60322952270508,Dollars/capita,29143,1149
+Missouri,Newton,14.91957950592041,Dollars/capita,29145,1152
+Missouri,Nodaway,nan,Dollars/capita,29147,1156
+Missouri,Oregon,nan,Dollars/capita,29149,1158
+Missouri,Osage,nan,Dollars/capita,29151,1164
+Missouri,Ozark,nan,Dollars/capita,29153,1168
+Missouri,Pemiscot,30.879636764526367,Dollars/capita,29155,1170
+Missouri,Perry,nan,Dollars/capita,29157,1172
+Missouri,Pettis,22.833772659301758,Dollars/capita,29159,1174
+Missouri,Phelps,14.350238800048828,Dollars/capita,29161,1176
+Missouri,Pike,nan,Dollars/capita,29163,1179
+Missouri,Platte,7.510244846343994,Dollars/capita,29165,1181
+Missouri,Polk,nan,Dollars/capita,29167,1183
+Missouri,Pulaski,17.400728225708008,Dollars/capita,29169,1185
+Missouri,Putnam,nan,Dollars/capita,29171,1188
+Missouri,Ralls,nan,Dollars/capita,29173,1191
+Missouri,Randolph,nan,Dollars/capita,29175,1194
+Missouri,Ray,nan,Dollars/capita,29177,1197
+Missouri,Reynolds,nan,Dollars/capita,29179,1200
+Missouri,Ripley,nan,Dollars/capita,29181,1203
+Missouri,St. Charles,5.088165760040283,Dollars/capita,29183,1205
+Missouri,St. Clair,nan,Dollars/capita,29185,1208
+Missouri,Ste. Genevieve,nan,Dollars/capita,29186,1209
+Missouri,St. Francois,18.769655227661133,Dollars/capita,29187,1212
+Missouri,St. Louis County,10.489270210266113,Dollars/capita,29189,1216
+Missouri,Saline,16.355064392089844,Dollars/capita,29195,1218
+Missouri,Schuyler,nan,Dollars/capita,29197,1221
+Missouri,Scotland,nan,Dollars/capita,29199,1224
+Missouri,Scott,10.505805015563965,Dollars/capita,29201,1227
+Missouri,Shannon,nan,Dollars/capita,29203,1229
+Missouri,Shelby,nan,Dollars/capita,29205,1232
+Missouri,Stoddard,18.354761123657227,Dollars/capita,29207,1236
+Missouri,Stone,10.075331687927246,Dollars/capita,29209,1237
+Missouri,Sullivan,nan,Dollars/capita,29211,1240
+Missouri,Taney,20.032482147216797,Dollars/capita,29213,1242
+Missouri,Texas,13.193031311035156,Dollars/capita,29215,1245
+Missouri,Vernon,nan,Dollars/capita,29217,1248
+Missouri,Warren,nan,Dollars/capita,29219,1251
+Missouri,Washington,nan,Dollars/capita,29221,1253
+Missouri,Wayne,nan,Dollars/capita,29223,1256
+Missouri,Webster,13.430228233337402,Dollars/capita,29225,1258
+Missouri,Worth,nan,Dollars/capita,29227,1261
+Missouri,Wright,24.72171974182129,Dollars/capita,29229,1263
+Missouri,St. Louis County,16.22945213317871,Dollars/capita,29510,1216
+Montana,Beaverhead,nan,Dollars/capita,30001,1269
+Montana,Big Horn,29.02660369873047,Dollars/capita,30003,1274
+Montana,Blaine,31.07819175720215,Dollars/capita,30005,1124
+Montana,Broadwater,nan,Dollars/capita,30007,1132
+Montana,Carbon,2.3810205459594727,Dollars/capita,30009,1137
+Montana,Carter,nan,Dollars/capita,30011,1141
+Montana,Cascade,13.837608337402344,Dollars/capita,30013,1144
+Montana,Chouteau,nan,Dollars/capita,30015,1150
+Montana,Custer,nan,Dollars/capita,30017,1153
+Montana,Daniels,nan,Dollars/capita,30019,1157
+Montana,Dawson,nan,Dollars/capita,30021,1160
+Montana,Deer Lodge,nan,Dollars/capita,30023,1163
+Montana,Fallon,nan,Dollars/capita,30025,1165
+Montana,Fergus,nan,Dollars/capita,30027,1169
+Montana,Flathead,9.406600952148438,Dollars/capita,30029,1173
+Montana,Gallatin,5.3913421630859375,Dollars/capita,30031,1177
+Montana,Garfield,nan,Dollars/capita,30033,1182
+Montana,Glacier,nan,Dollars/capita,30035,1186
+Montana,Golden Valley,nan,Dollars/capita,30037,1189
+Montana,Granite,nan,Dollars/capita,30039,1192
+Montana,Hill,nan,Dollars/capita,30041,1195
+Montana,Jefferson,nan,Dollars/capita,30043,1199
+Montana,Judith Basin,nan,Dollars/capita,30045,1202
+Montana,Lake,18.662227630615234,Dollars/capita,30047,1207
+Montana,Lewis and Clark,9.430274963378906,Dollars/capita,30049,1211
+Montana,Liberty,nan,Dollars/capita,30051,1214
+Montana,Lincoln,14.672808647155762,Dollars/capita,30053,1219
+Montana,McCone,nan,Dollars/capita,30055,1223
+Montana,Madison,nan,Dollars/capita,30057,1226
+Montana,Meagher,nan,Dollars/capita,30059,1231
+Montana,Mineral,nan,Dollars/capita,30061,1234
+Montana,Missoula,11.32335090637207,Dollars/capita,30063,1239
+Montana,Musselshell,nan,Dollars/capita,30065,1241
+Montana,Park,nan,Dollars/capita,30067,1244
+Montana,Petroleum,nan,Dollars/capita,30069,1247
+Montana,Phillips,nan,Dollars/capita,30071,1250
+Montana,Pondera,nan,Dollars/capita,30073,1254
+Montana,Powder River,nan,Dollars/capita,30075,1259
+Montana,Powell,nan,Dollars/capita,30077,1262
+Montana,Prairie,nan,Dollars/capita,30079,1264
+Montana,Ravalli,8.566695213317871,Dollars/capita,30081,1268
+Montana,Richland,18.949050903320312,Dollars/capita,30083,1271
+Montana,Roosevelt,nan,Dollars/capita,30085,1275
+Montana,Rosebud,42.079708099365234,Dollars/capita,30087,1277
+Montana,Sanders,13.015572547912598,Dollars/capita,30089,1278
+Montana,Sheridan,nan,Dollars/capita,30091,1281
+Montana,Silver Bow,14.466197967529297,Dollars/capita,30093,1284
+Montana,Stillwater,nan,Dollars/capita,30095,1286
+Montana,Sweet Grass,nan,Dollars/capita,30097,1288
+Montana,Teton,nan,Dollars/capita,30099,1290
+Montana,Toole,nan,Dollars/capita,30101,1292
+Montana,Treasure,nan,Dollars/capita,30103,1293
+Montana,Valley,nan,Dollars/capita,30105,1296
+Montana,Wheatland,nan,Dollars/capita,30107,1298
+Montana,Wibaux,nan,Dollars/capita,30109,1300
+Montana,Yellowstone,12.161596298217773,Dollars/capita,30111,1302
+Nebraska,Adams,17.883073806762695,Dollars/capita,31001,1303
+Nebraska,Antelope,nan,Dollars/capita,31003,1305
+Nebraska,Arthur,nan,Dollars/capita,31005,1307
+Nebraska,Banner,nan,Dollars/capita,31007,1308
+Nebraska,Blaine,nan,Dollars/capita,31009,1309
+Nebraska,Boone,8.387951850891113,Dollars/capita,31011,1310
+Nebraska,Box Butte,nan,Dollars/capita,31013,1315
+Nebraska,Boyd,nan,Dollars/capita,31015,1317
+Nebraska,Brown,nan,Dollars/capita,31017,1319
+Nebraska,Buffalo,12.979793548583984,Dollars/capita,31019,1321
+Nebraska,Burt,2.758768081665039,Dollars/capita,31021,1323
+Nebraska,Butler,nan,Dollars/capita,31023,1325
+Nebraska,Cass,3.567960262298584,Dollars/capita,31025,1326
+Nebraska,Cedar,3.103250026702881,Dollars/capita,31027,1329
+Nebraska,Chase,nan,Dollars/capita,31029,1330
+Nebraska,Cherry,nan,Dollars/capita,31031,1333
+Nebraska,Cheyenne,nan,Dollars/capita,31033,1334
+Nebraska,Clay,3.281780958175659,Dollars/capita,31035,1336
+Nebraska,Colfax,nan,Dollars/capita,31037,1338
+Nebraska,Cuming,12.034096717834473,Dollars/capita,31039,1340
+Nebraska,Custer,9.633399963378906,Dollars/capita,31041,1342
+Nebraska,Dakota,nan,Dollars/capita,31043,1344
+Nebraska,Dawes,nan,Dollars/capita,31045,1347
+Nebraska,Dawson,30.67154884338379,Dollars/capita,31047,1349
+Nebraska,Deuel,nan,Dollars/capita,31049,1351
+Nebraska,Dixon,nan,Dollars/capita,31051,1353
+Nebraska,Dodge,21.749309539794922,Dollars/capita,31053,1354
+Nebraska,Douglas,15.867981910705566,Dollars/capita,31055,1358
+Nebraska,Dundy,nan,Dollars/capita,31057,1360
+Nebraska,Fillmore,nan,Dollars/capita,31059,1363
+Nebraska,Franklin,nan,Dollars/capita,31061,1369
+Nebraska,Frontier,nan,Dollars/capita,31063,1371
+Nebraska,Furnas,7.92161226272583,Dollars/capita,31065,1374
+Nebraska,Gage,12.869492530822754,Dollars/capita,31067,1378
+Nebraska,Garden,nan,Dollars/capita,31069,1381
+Nebraska,Garfield,nan,Dollars/capita,31071,1391
+Nebraska,Gosper,nan,Dollars/capita,31073,1393
+Nebraska,Grant,nan,Dollars/capita,31075,1395
+Nebraska,Greeley,nan,Dollars/capita,31077,1397
+Nebraska,Hall,27.18655776977539,Dollars/capita,31079,1402
+Nebraska,Hamilton,nan,Dollars/capita,31081,1405
+Nebraska,Harlan,nan,Dollars/capita,31083,1409
+Nebraska,Hayes,nan,Dollars/capita,31085,1411
+Nebraska,Hitchcock,nan,Dollars/capita,31087,1414
+Nebraska,Holt,11.499438285827637,Dollars/capita,31089,1416
+Nebraska,Hooker,nan,Dollars/capita,31091,1418
+Nebraska,Howard,nan,Dollars/capita,31093,1311
+Nebraska,Jefferson,nan,Dollars/capita,31095,1312
+Nebraska,Johnson,nan,Dollars/capita,31097,1313
+Nebraska,Kearney,nan,Dollars/capita,31099,1314
+Nebraska,Keith,14.402628898620605,Dollars/capita,31101,1316
+Nebraska,Keya Paha,nan,Dollars/capita,31103,1318
+Nebraska,Kimball,nan,Dollars/capita,31105,1320
+Nebraska,Knox,8.879852294921875,Dollars/capita,31107,1322
+Nebraska,Lancaster,14.010356903076172,Dollars/capita,31109,1324
+Nebraska,Lincoln,14.922779083251953,Dollars/capita,31111,1327
+Nebraska,Logan,nan,Dollars/capita,31113,1328
+Nebraska,Loup,nan,Dollars/capita,31115,1331
+Nebraska,McPherson,nan,Dollars/capita,31117,1332
+Nebraska,Madison,20.08143424987793,Dollars/capita,31119,1335
+Nebraska,Merrick,nan,Dollars/capita,31121,1337
+Nebraska,Morrill,nan,Dollars/capita,31123,1339
+Nebraska,Nance,nan,Dollars/capita,31125,1341
+Nebraska,Nemaha,nan,Dollars/capita,31127,1343
+Nebraska,Nuckolls,nan,Dollars/capita,31129,1345
+Nebraska,Otoe,nan,Dollars/capita,31131,1348
+Nebraska,Pawnee,nan,Dollars/capita,31133,1350
+Nebraska,Perkins,nan,Dollars/capita,31135,1352
+Nebraska,Phelps,nan,Dollars/capita,31137,1355
+Nebraska,Pierce,nan,Dollars/capita,31139,1356
+Nebraska,Platte,17.012468338012695,Dollars/capita,31141,1359
+Nebraska,Polk,nan,Dollars/capita,31143,1362
+Nebraska,Red Willow,16.51822853088379,Dollars/capita,31145,1364
+Nebraska,Richardson,nan,Dollars/capita,31147,1365
+Nebraska,Rock,nan,Dollars/capita,31149,1366
+Nebraska,Saline,nan,Dollars/capita,31151,1367
+Nebraska,Sarpy,9.337855339050293,Dollars/capita,31153,1368
+Nebraska,Saunders,nan,Dollars/capita,31155,1370
+Nebraska,Scotts Bluff,19.590307235717773,Dollars/capita,31157,1373
+Nebraska,Seward,4.970101833343506,Dollars/capita,31159,1375
+Nebraska,Sheridan,10.401280403137207,Dollars/capita,31161,1376
+Nebraska,Sherman,nan,Dollars/capita,31163,1377
+Nebraska,Sioux,nan,Dollars/capita,31165,1380
+Nebraska,Stanton,nan,Dollars/capita,31167,1382
+Nebraska,Thayer,nan,Dollars/capita,31169,1383
+Nebraska,Thomas,nan,Dollars/capita,31171,1384
+Nebraska,Thurston,39.84510040283203,Dollars/capita,31173,1385
+Nebraska,Valley,nan,Dollars/capita,31175,1386
+Nebraska,Washington,nan,Dollars/capita,31177,1387
+Nebraska,Wayne,nan,Dollars/capita,31179,1388
+Nebraska,Webster,nan,Dollars/capita,31181,1389
+Nebraska,Wheeler,nan,Dollars/capita,31183,1390
+Nebraska,York,12.848587989807129,Dollars/capita,31185,1392
+Nevada,Churchill,nan,Dollars/capita,32001,1396
+Nevada,Clark,16.410518646240234,Dollars/capita,32003,1399
+Nevada,Douglas,2.746267557144165,Dollars/capita,32005,1400
+Nevada,Elko,3.4087812900543213,Dollars/capita,32007,1401
+Nevada,Esmeralda,nan,Dollars/capita,32009,1404
+Nevada,Eureka,nan,Dollars/capita,32011,1406
+Nevada,Humboldt,nan,Dollars/capita,32013,1407
+Nevada,Lander,nan,Dollars/capita,32015,1408
+Nevada,Lincoln,nan,Dollars/capita,32017,1410
+Nevada,Lyon,13.570441246032715,Dollars/capita,32019,1412
+Nevada,Mineral,nan,Dollars/capita,32021,1415
+Nevada,Nye,7.233302593231201,Dollars/capita,32023,1417
+Nevada,Pershing,nan,Dollars/capita,32027,1419
+Nevada,Storey,nan,Dollars/capita,32029,1420
+Nevada,Washoe,7.10688591003418,Dollars/capita,32031,1423
+Nevada,White Pine,nan,Dollars/capita,32033,1425
+Nevada,Carson City,1.4247082471847534,Dollars/capita,32510,1428
+New Hampshire,Belknap,9.182845115661621,Dollars/capita,33001,1432
+New Hampshire,Carroll,5.843753337860107,Dollars/capita,33003,1435
+New Hampshire,Cheshire,7.199521541595459,Dollars/capita,33005,1437
+New Hampshire,Coos,2.6059508323669434,Dollars/capita,33007,1440
+New Hampshire,Grafton,8.078004837036133,Dollars/capita,33009,1442
+New Hampshire,Hillsborough,7.173645973205566,Dollars/capita,33011,1443
+New Hampshire,Merrimack,6.941949844360352,Dollars/capita,33013,1444
+New Hampshire,Rockingham,3.279017686843872,Dollars/capita,33015,1448
+New Hampshire,Strafford,6.089003086090088,Dollars/capita,33017,1453
+New Hampshire,Sullivan,6.799025058746338,Dollars/capita,33019,1454
+New Jersey,Atlantic,16.638805389404297,Dollars/capita,34001,1461
+New Jersey,Bergen,5.876357555389404,Dollars/capita,34003,1465
+New Jersey,Burlington,6.66141414642334,Dollars/capita,34005,1470
+New Jersey,Camden,17.055692672729492,Dollars/capita,34007,1472
+New Jersey,Cape May,10.329706192016602,Dollars/capita,34009,1477
+New Jersey,Cumberland,27.381319046020508,Dollars/capita,34011,1482
+New Jersey,Essex,21.16988182067871,Dollars/capita,34013,1483
+New Jersey,Gloucester,7.4575371742248535,Dollars/capita,34015,1484
+New Jersey,Hudson,25.53274917602539,Dollars/capita,34017,1487
+New Jersey,Hunterdon,1.7926139831542969,Dollars/capita,34019,1488
+New Jersey,Mercer,14.771677017211914,Dollars/capita,34021,1493
+New Jersey,Middlesex,13.005409240722656,Dollars/capita,34023,1497
+New Jersey,Monmouth,9.0392427444458,Dollars/capita,34025,1504
+New Jersey,Morris,4.420420169830322,Dollars/capita,34027,1511
+New Jersey,Ocean,23.42026710510254,Dollars/capita,34029,1546
+New Jersey,Passaic,26.24049186706543,Dollars/capita,34031,1551
+New Jersey,Salem,10.381418228149414,Dollars/capita,34033,1553
+New Jersey,Somerset,8.617936134338379,Dollars/capita,34035,1558
+New Jersey,Sussex,3.527031421661377,Dollars/capita,34037,1561
+New Jersey,Union,17.996379852294922,Dollars/capita,34039,1566
+New Jersey,Warren,7.091427326202393,Dollars/capita,34041,1570
+New Mexico,Bernalillo,13.211637496948242,Dollars/capita,35001,1574
+New Mexico,Catron,nan,Dollars/capita,35003,1576
+New Mexico,Chaves,23.881214141845703,Dollars/capita,35005,1578
+New Mexico,Cibola,17.852428436279297,Dollars/capita,35006,1580
+New Mexico,Colfax,15.682168960571289,Dollars/capita,35007,1582
+New Mexico,Curry,21.533843994140625,Dollars/capita,35009,1586
+New Mexico,De Baca,nan,Dollars/capita,35011,1589
+New Mexico,Doña Ana,18.881500244140625,Dollars/capita,35013,
+New Mexico,Eddy,14.378534317016602,Dollars/capita,35015,1592
+New Mexico,Grant,12.345138549804688,Dollars/capita,35017,1594
+New Mexico,Guadalupe,nan,Dollars/capita,35019,1595
+New Mexico,Harding,nan,Dollars/capita,35021,1597
+New Mexico,Hidalgo,nan,Dollars/capita,35023,1600
+New Mexico,Lea,25.807397842407227,Dollars/capita,35025,1604
+New Mexico,Lincoln,14.862444877624512,Dollars/capita,35027,1613
+New Mexico,Los Alamos,nan,Dollars/capita,35028,1618
+New Mexico,Luna,nan,Dollars/capita,35029,1622
+New Mexico,McKinley,23.05155372619629,Dollars/capita,35031,1626
+New Mexico,Mora,nan,Dollars/capita,35033,1629
+New Mexico,Otero,15.167158126831055,Dollars/capita,35035,1633
+New Mexico,Quay,nan,Dollars/capita,35037,1637
+New Mexico,Rio Arriba,15.179717063903809,Dollars/capita,35039,1639
+New Mexico,Roosevelt,nan,Dollars/capita,35041,1642
+New Mexico,Sandoval,10.65644359588623,Dollars/capita,35043,1646
+New Mexico,San Juan,8.57957649230957,Dollars/capita,35045,1650
+New Mexico,San Miguel,nan,Dollars/capita,35047,1652
+New Mexico,Santa Fe,10.10596752166748,Dollars/capita,35049,1654
+New Mexico,Sierra,nan,Dollars/capita,35051,1657
+New Mexico,Socorro,17.691688537597656,Dollars/capita,35053,1659
+New Mexico,Taos,14.62228012084961,Dollars/capita,35055,1662
+New Mexico,Torrance,nan,Dollars/capita,35057,1664
+New Mexico,Union,nan,Dollars/capita,35059,1667
+New Mexico,Valencia,16.226459503173828,Dollars/capita,35061,1670
+New York,Albany,11.164308547973633,Dollars/capita,36001,1673
+New York,Allegany,11.50765323638916,Dollars/capita,36003,1674
+New York,Bronx,42.28592300415039,Dollars/capita,36005,1681
+New York,Broome,15.231229782104492,Dollars/capita,36007,1683
+New York,Cattaraugus,13.434624671936035,Dollars/capita,36009,1687
+New York,Cayuga,10.774494171142578,Dollars/capita,36011,1689
+New York,Chautauqua,18.91522216796875,Dollars/capita,36013,1694
+New York,Chemung,16.98375701904297,Dollars/capita,36015,1696
+New York,Chenango,15.890120506286621,Dollars/capita,36017,1699
+New York,Clinton,12.293539047241211,Dollars/capita,36019,1702
+New York,Columbia,11.20059585571289,Dollars/capita,36021,1704
+New York,Cortland,17.286731719970703,Dollars/capita,36023,1706
+New York,Delaware,11.390048027038574,Dollars/capita,36025,1707
+New York,Dutchess,8.430644035339355,Dollars/capita,36027,1711
+New York,Erie,14.57983112335205,Dollars/capita,36029,1723
+New York,Essex,11.006836891174316,Dollars/capita,36031,1728
+New York,Franklin,11.47642707824707,Dollars/capita,36033,1731
+New York,Fulton,13.64321517944336,Dollars/capita,36035,1734
+New York,Genesee,13.101643562316895,Dollars/capita,36037,1736
+New York,Greene,10.082576751708984,Dollars/capita,36039,1739
+New York,Hamilton,nan,Dollars/capita,36041,1742
+New York,Herkimer,13.344869613647461,Dollars/capita,36043,1745
+New York,Jefferson,25.177162170410156,Dollars/capita,36045,1782
+New York,Kings,38.717323303222656,Dollars/capita,36047,1788
+New York,Lewis,12.668538093566895,Dollars/capita,36049,1790
+New York,Livingston,10.12498950958252,Dollars/capita,36051,1791
+New York,Madison,12.14443588256836,Dollars/capita,36053,1796
+New York,Monroe,12.565156936645508,Dollars/capita,36055,1804
+New York,Montgomery,17.010759353637695,Dollars/capita,36057,1807
+New York,Nassau,9.970345497131348,Dollars/capita,36059,1839
+New York,New York,13.302861213684082,Dollars/capita,36061,1847
+New York,Niagara,13.026309967041016,Dollars/capita,36063,1850
+New York,Oneida,17.73291015625,Dollars/capita,36065,1852
+New York,Onondaga,15.09468936920166,Dollars/capita,36067,1853
+New York,Ontario,9.747315406799316,Dollars/capita,36069,1856
+New York,Orange,19.51532745361328,Dollars/capita,36071,1859
+New York,Orleans,12.569742202758789,Dollars/capita,36073,1862
+New York,Oswego,14.744050025939941,Dollars/capita,36075,1864
+New York,Otsego,11.150701522827148,Dollars/capita,36077,1868
+New York,Putnam,4.025781154632568,Dollars/capita,36079,1870
+New York,Queens,26.9943904876709,Dollars/capita,36081,1872
+New York,Rensselaer,10.9360990524292,Dollars/capita,36083,1874
+New York,Richmond,12.292011260986328,Dollars/capita,36085,1876
+New York,Rockland,33.14898681640625,Dollars/capita,36087,1879
+New York,St. Lawrence,14.315692901611328,Dollars/capita,36089,1883
+New York,Saratoga,5.775174140930176,Dollars/capita,36091,1885
+New York,Schenectady,15.163705825805664,Dollars/capita,36093,1887
+New York,Schoharie,9.324520111083984,Dollars/capita,36095,1888
+New York,Schuyler,nan,Dollars/capita,36097,1889
+New York,Seneca,9.358213424682617,Dollars/capita,36099,1890
+New York,Steuben,13.576150894165039,Dollars/capita,36101,1891
+New York,Suffolk,11.604246139526367,Dollars/capita,36103,1924
+New York,Sullivan,18.458263397216797,Dollars/capita,36105,1928
+New York,Tioga,7.651758193969727,Dollars/capita,36107,1930
+New York,Tompkins,8.243249893188477,Dollars/capita,36109,1933
+New York,Ulster,7.614028453826904,Dollars/capita,36111,1935
+New York,Warren,19.130870819091797,Dollars/capita,36113,1938
+New York,Washington,7.292239665985107,Dollars/capita,36115,1942
+New York,Wayne,11.745336532592773,Dollars/capita,36117,1952
+New York,Westchester,16.071807861328125,Dollars/capita,36119,1960
+New York,Wyoming,10.648962020874023,Dollars/capita,36121,1962
+New York,Yates,nan,Dollars/capita,36123,1965
+North Carolina,Alamance,22.786378860473633,Dollars/capita,37001,1967
+North Carolina,Alexander,10.81113052368164,Dollars/capita,37003,1968
+North Carolina,Alleghany,nan,Dollars/capita,37005,1970
+North Carolina,Anson,22.479787826538086,Dollars/capita,37007,1972
+North Carolina,Ashe,13.398895263671875,Dollars/capita,37009,1975
+North Carolina,Avery,15.470284461975098,Dollars/capita,37011,1977
+North Carolina,Beaufort,22.713342666625977,Dollars/capita,37013,1981
+North Carolina,Bertie,nan,Dollars/capita,37015,1983
+North Carolina,Bladen,15.871736526489258,Dollars/capita,37017,1986
+North Carolina,Brunswick,13.9938325881958,Dollars/capita,37019,1995
+North Carolina,Buncombe,12.38620662689209,Dollars/capita,37021,1422
+North Carolina,Burke,17.27524185180664,Dollars/capita,37023,1424
+North Carolina,Cabarrus,16.236223220825195,Dollars/capita,37025,1426
+North Carolina,Caldwell,16.638704299926758,Dollars/capita,37027,1429
+North Carolina,Camden,nan,Dollars/capita,37029,1433
+North Carolina,Carteret,12.59365463256836,Dollars/capita,37031,1447
+North Carolina,Caswell,10.372941017150879,Dollars/capita,37033,1449
+North Carolina,Catawba,20.268938064575195,Dollars/capita,37035,1450
+North Carolina,Chatham,16.85816764831543,Dollars/capita,37037,1451
+North Carolina,Cherokee,20.6404972076416,Dollars/capita,37039,1452
+North Carolina,Chowan,19.555665969848633,Dollars/capita,37041,1455
+North Carolina,Clay,nan,Dollars/capita,37043,1457
+North Carolina,Cleveland,21.044166564941406,Dollars/capita,37045,1458
+North Carolina,Columbus,24.19015884399414,Dollars/capita,37047,1459
+North Carolina,Craven,21.578250885009766,Dollars/capita,37049,1462
+North Carolina,Cumberland,27.74666976928711,Dollars/capita,37051,1464
+North Carolina,Currituck,nan,Dollars/capita,37053,1481
+North Carolina,Dare,14.112372398376465,Dollars/capita,37055,1485
+North Carolina,Davidson,16.582216262817383,Dollars/capita,37057,1489
+North Carolina,Davie,15.29897689819336,Dollars/capita,37059,1490
+North Carolina,Duplin,24.110260009765625,Dollars/capita,37061,1492
+North Carolina,Durham,19.520299911499023,Dollars/capita,37063,1494
+North Carolina,Edgecombe,28.57615852355957,Dollars/capita,37065,1495
+North Carolina,Forsyth,18.952960968017578,Dollars/capita,37067,1496
+North Carolina,Franklin,14.220833778381348,Dollars/capita,37069,1498
+North Carolina,Gaston,16.758195877075195,Dollars/capita,37071,1499
+North Carolina,Gates,nan,Dollars/capita,37073,1500
+North Carolina,Graham,nan,Dollars/capita,37075,1502
+North Carolina,Granville,12.592361450195312,Dollars/capita,37077,1503
+North Carolina,Greene,16.416507720947266,Dollars/capita,37079,1505
+North Carolina,Guilford,19.724382400512695,Dollars/capita,37081,1506
+North Carolina,Halifax,30.347339630126953,Dollars/capita,37083,1508
+North Carolina,Harnett,19.829633712768555,Dollars/capita,37085,1509
+North Carolina,Haywood,15.637251853942871,Dollars/capita,37087,1512
+North Carolina,Henderson,12.715686798095703,Dollars/capita,37089,1514
+North Carolina,Hertford,34.172367095947266,Dollars/capita,37091,1515
+North Carolina,Hoke,17.893077850341797,Dollars/capita,37093,1517
+North Carolina,Hyde,nan,Dollars/capita,37095,1521
+North Carolina,Iredell,15.029996871948242,Dollars/capita,37097,1525
+North Carolina,Jackson,19.914894104003906,Dollars/capita,37099,1528
+North Carolina,Johnston,17.219036102294922,Dollars/capita,37101,1530
+North Carolina,Jones,9.377108573913574,Dollars/capita,37103,1536
+North Carolina,Lee,31.322463989257812,Dollars/capita,37105,1540
+North Carolina,Lenoir,25.30008888244629,Dollars/capita,37107,1542
+North Carolina,Lincoln,12.0950345993042,Dollars/capita,37109,1545
+North Carolina,McDowell,20.144065856933594,Dollars/capita,37111,1554
+North Carolina,Macon,21.287870407104492,Dollars/capita,37113,1556
+North Carolina,Madison,nan,Dollars/capita,37115,1560
+North Carolina,Martin,25.51868438720703,Dollars/capita,37117,1563
+North Carolina,Mecklenburg,17.167999267578125,Dollars/capita,37119,1565
+North Carolina,Mitchell,24.284236907958984,Dollars/capita,37121,1568
+North Carolina,Montgomery,23.863203048706055,Dollars/capita,37123,1573
+North Carolina,Moore,12.71771240234375,Dollars/capita,37125,1584
+North Carolina,Nash,21.437393188476562,Dollars/capita,37127,1588
+North Carolina,New Hanover,11.732255935668945,Dollars/capita,37129,1602
+North Carolina,Northampton,10.945638656616211,Dollars/capita,37131,1606
+North Carolina,Onslow,26.821664810180664,Dollars/capita,37133,1625
+North Carolina,Orange,6.385618686676025,Dollars/capita,37135,1630
+North Carolina,Pamlico,16.95254135131836,Dollars/capita,37137,1703
+North Carolina,Pasquotank,27.71651840209961,Dollars/capita,37139,1714
+North Carolina,Pender,13.711105346679688,Dollars/capita,37141,1718
+North Carolina,Perquimans,nan,Dollars/capita,37143,1724
+North Carolina,Person,18.16657829284668,Dollars/capita,37145,1729
+North Carolina,Pitt,18.75960350036621,Dollars/capita,37147,1733
+North Carolina,Polk,7.333038806915283,Dollars/capita,37149,1738
+North Carolina,Randolph,20.356935501098633,Dollars/capita,37151,1741
+North Carolina,Richmond,25.89098358154297,Dollars/capita,37153,1744
+North Carolina,Robeson,27.816162109375,Dollars/capita,37155,1747
+North Carolina,Rockingham,18.5048770904541,Dollars/capita,37157,1751
+North Carolina,Rowan,17.147705078125,Dollars/capita,37159,1754
+North Carolina,Rutherford,19.911386489868164,Dollars/capita,37161,1764
+North Carolina,Sampson,24.983970642089844,Dollars/capita,37163,1769
+North Carolina,Scotland,28.634004592895508,Dollars/capita,37165,1772
+North Carolina,Stanly,20.262353897094727,Dollars/capita,37167,1775
+North Carolina,Stokes,10.013053894042969,Dollars/capita,37169,1777
+North Carolina,Surry,27.254127502441406,Dollars/capita,37171,1780
+North Carolina,Swain,17.27412223815918,Dollars/capita,37173,1784
+North Carolina,Transylvania,11.589295387268066,Dollars/capita,37175,1786
+North Carolina,Tyrrell,nan,Dollars/capita,37177,1794
+North Carolina,Union,12.154216766357422,Dollars/capita,37179,1798
+North Carolina,Vance,24.735933303833008,Dollars/capita,37181,1801
+North Carolina,Wake,12.289861679077148,Dollars/capita,37183,1805
+North Carolina,Warren,nan,Dollars/capita,37185,1809
+North Carolina,Washington,24.14510726928711,Dollars/capita,37187,1811
+North Carolina,Watauga,7.166946887969971,Dollars/capita,37189,1813
+North Carolina,Wayne,25.99806022644043,Dollars/capita,37191,1814
+North Carolina,Wilkes,16.691280364990234,Dollars/capita,37193,1817
+North Carolina,Wilson,27.296903610229492,Dollars/capita,37195,1819
+North Carolina,Yadkin,14.158085823059082,Dollars/capita,37197,1821
+North Carolina,Yancey,nan,Dollars/capita,37199,1823
+North Dakota,Adams,nan,Dollars/capita,38001,1826
+North Dakota,Barnes,nan,Dollars/capita,38003,1828
+North Dakota,Benson,40.01909255981445,Dollars/capita,38005,1831
+North Dakota,Billings,nan,Dollars/capita,38007,1833
+North Dakota,Bottineau,nan,Dollars/capita,38009,1836
+North Dakota,Bowman,nan,Dollars/capita,38011,1838
+North Dakota,Burke,nan,Dollars/capita,38013,1841
+North Dakota,Burleigh,8.525009155273438,Dollars/capita,38015,1844
+North Dakota,Cass,11.399628639221191,Dollars/capita,38017,1848
+North Dakota,Cavalier,nan,Dollars/capita,38019,1849
+North Dakota,Dickey,nan,Dollars/capita,38021,2004
+North Dakota,Divide,nan,Dollars/capita,38023,2007
+North Dakota,Dunn,nan,Dollars/capita,38025,2013
+North Dakota,Eddy,nan,Dollars/capita,38027,2017
+North Dakota,Emmons,14.062973022460938,Dollars/capita,38029,2021
+North Dakota,Foster,nan,Dollars/capita,38031,2026
+North Dakota,Golden Valley,nan,Dollars/capita,38033,2036
+North Dakota,Grand Forks,14.240633964538574,Dollars/capita,38035,2043
+North Dakota,Grant,nan,Dollars/capita,38037,2051
+North Dakota,Griggs,nan,Dollars/capita,38039,2056
+North Dakota,Hettinger,nan,Dollars/capita,38041,2063
+North Dakota,Kidder,nan,Dollars/capita,38043,2068
+North Dakota,LaMoure,nan,Dollars/capita,38045,2074
+North Dakota,Logan,nan,Dollars/capita,38047,2078
+North Dakota,McHenry,nan,Dollars/capita,38049,2082
+North Dakota,McIntosh,nan,Dollars/capita,38051,2090
+North Dakota,McKenzie,4.093612194061279,Dollars/capita,38053,2097
+North Dakota,McLean,nan,Dollars/capita,38055,2103
+North Dakota,Mercer,nan,Dollars/capita,38057,2107
+North Dakota,Morton,2.820190906524658,Dollars/capita,38059,2114
+North Dakota,Mountrail,21.165987014770508,Dollars/capita,38061,2119
+North Dakota,Nelson,6.493682861328125,Dollars/capita,38063,2122
+North Dakota,Oliver,nan,Dollars/capita,38065,2127
+North Dakota,Pembina,9.476906776428223,Dollars/capita,38067,2131
+North Dakota,Pierce,nan,Dollars/capita,38069,2136
+North Dakota,Ramsey,24.693044662475586,Dollars/capita,38071,2141
+North Dakota,Ransom,nan,Dollars/capita,38073,2147
+North Dakota,Renville,nan,Dollars/capita,38075,2150
+North Dakota,Richland,11.100180625915527,Dollars/capita,38077,2156
+North Dakota,Rolette,61.541255950927734,Dollars/capita,38079,2161
+North Dakota,Sargent,nan,Dollars/capita,38081,2164
+North Dakota,Sheridan,nan,Dollars/capita,38083,2169
+North Dakota,Sioux,nan,Dollars/capita,38085,2175
+North Dakota,Slope,nan,Dollars/capita,38087,2180
+North Dakota,Stark,8.79865550994873,Dollars/capita,38089,2182
+North Dakota,Steele,nan,Dollars/capita,38091,2186
+North Dakota,Stutsman,10.081761360168457,Dollars/capita,38093,2199
+North Dakota,Towner,nan,Dollars/capita,38095,2205
+North Dakota,Traill,nan,Dollars/capita,38097,2217
+North Dakota,Walsh,20.30795669555664,Dollars/capita,38099,2225
+North Dakota,Ward,12.048460960388184,Dollars/capita,38101,2233
+North Dakota,Wells,nan,Dollars/capita,38103,2237
+North Dakota,Williams,7.09153413772583,Dollars/capita,38105,2244
+Ohio,Adams,19.11665916442871,Dollars/capita,39001,2248
+Ohio,Allen,19.762113571166992,Dollars/capita,39003,2250
+Ohio,Ashland,10.481805801391602,Dollars/capita,39005,2254
+Ohio,Ashtabula,16.133668899536133,Dollars/capita,39007,2259
+Ohio,Athens,11.934624671936035,Dollars/capita,39009,2266
+Ohio,Auglaize,11.14573860168457,Dollars/capita,39011,2273
+Ohio,Belmont,14.346036911010742,Dollars/capita,39013,2278
+Ohio,Brown,17.15072250366211,Dollars/capita,39015,2282
+Ohio,Butler,12.279934883117676,Dollars/capita,39017,2286
+Ohio,Carroll,11.01769733428955,Dollars/capita,39019,2289
+Ohio,Champaign,8.32420539855957,Dollars/capita,39021,2291
+Ohio,Clark,15.672295570373535,Dollars/capita,39023,2300
+Ohio,Clermont,9.331212043762207,Dollars/capita,39025,2306
+Ohio,Clinton,15.815359115600586,Dollars/capita,39027,2310
+Ohio,Columbiana,10.560864448547363,Dollars/capita,39029,2315
+Ohio,Coshocton,14.764310836791992,Dollars/capita,39031,2317
+Ohio,Crawford,18.563812255859375,Dollars/capita,39033,2323
+Ohio,Cuyahoga,15.508345603942871,Dollars/capita,39035,2332
+Ohio,Darke,15.146978378295898,Dollars/capita,39037,2345
+Ohio,Defiance,17.617271423339844,Dollars/capita,39039,2350
+Ohio,Delaware,4.855040550231934,Dollars/capita,39041,2352
+Ohio,Erie,12.309446334838867,Dollars/capita,39043,2357
+Ohio,Fairfield,10.778665542602539,Dollars/capita,39045,2365
+Ohio,Fayette,21.7155818939209,Dollars/capita,39047,2368
+Ohio,Franklin,17.078969955444336,Dollars/capita,39049,2375
+Ohio,Fulton,12.502257347106934,Dollars/capita,39051,2378
+Ohio,Gallia,19.683902740478516,Dollars/capita,39053,2383
+Ohio,Geauga,8.082537651062012,Dollars/capita,39055,2390
+Ohio,Greene,10.350460052490234,Dollars/capita,39057,2393
+Ohio,Guernsey,18.0806884765625,Dollars/capita,39059,2399
+Ohio,Hamilton,14.096303939819336,Dollars/capita,39061,2411
+Ohio,Hancock,13.837701797485352,Dollars/capita,39063,2427
+Ohio,Hardin,14.05498218536377,Dollars/capita,39065,2432
+Ohio,Harrison,nan,Dollars/capita,39067,2440
+Ohio,Henry,8.990704536437988,Dollars/capita,39069,2451
+Ohio,Highland,20.869464874267578,Dollars/capita,39071,2457
+Ohio,Hocking,17.29999351501465,Dollars/capita,39073,2461
+Ohio,Holmes,6.817572116851807,Dollars/capita,39075,2464
+Ohio,Huron,16.76964569091797,Dollars/capita,39077,2468
+Ohio,Jackson,28.26262855529785,Dollars/capita,39079,2472
+Ohio,Jefferson,12.25715446472168,Dollars/capita,39081,2476
+Ohio,Knox,11.840006828308105,Dollars/capita,39083,2479
+Ohio,Lake,12.2968168258667,Dollars/capita,39085,2493
+Ohio,Lawrence,18.609378814697266,Dollars/capita,39087,2499
+Ohio,Licking,13.005207061767578,Dollars/capita,39089,2504
+Ohio,Logan,10.33498764038086,Dollars/capita,39091,2510
+Ohio,Lorain,11.970818519592285,Dollars/capita,39093,2516
+Ohio,Lucas,19.921092987060547,Dollars/capita,39095,2520
+Ohio,Madison,nan,Dollars/capita,39097,2529
+Ohio,Mahoning,11.939128875732422,Dollars/capita,39099,2534
+Ohio,Marion,20.642488479614258,Dollars/capita,39101,2541
+Ohio,Medina,7.287919998168945,Dollars/capita,39103,2545
+Ohio,Meigs,nan,Dollars/capita,39105,2549
+Ohio,Mercer,10.024791717529297,Dollars/capita,39107,2552
+Ohio,Miami,8.775181770324707,Dollars/capita,39109,2558
+Ohio,Monroe,nan,Dollars/capita,39111,2565
+Ohio,Montgomery,14.285948753356934,Dollars/capita,39113,2573
+Ohio,Morgan,nan,Dollars/capita,39115,2000
+Ohio,Morrow,8.904878616333008,Dollars/capita,39117,2006
+Ohio,Muskingum,17.516254425048828,Dollars/capita,39119,2010
+Ohio,Noble,nan,Dollars/capita,39121,2012
+Ohio,Ottawa,7.3962931632995605,Dollars/capita,39123,2019
+Ohio,Paulding,nan,Dollars/capita,39125,2024
+Ohio,Perry,13.977116584777832,Dollars/capita,39127,2027
+Ohio,Pickaway,11.878813743591309,Dollars/capita,39129,2031
+Ohio,Pike,21.61338996887207,Dollars/capita,39131,2034
+Ohio,Portage,9.191991806030273,Dollars/capita,39133,2038
+Ohio,Preble,13.33779525756836,Dollars/capita,39135,2039
+Ohio,Putnam,nan,Dollars/capita,39137,2040
+Ohio,Richland,16.955341339111328,Dollars/capita,39139,2042
+Ohio,Ross,16.877981185913086,Dollars/capita,39141,2045
+Ohio,Sandusky,15.195910453796387,Dollars/capita,39143,2047
+Ohio,Scioto,20.769561767578125,Dollars/capita,39145,2048
+Ohio,Seneca,14.578761100769043,Dollars/capita,39147,2049
+Ohio,Shelby,11.040247917175293,Dollars/capita,39149,2052
+Ohio,Stark,13.217130661010742,Dollars/capita,39151,2054
+Ohio,Summit,12.96479606628418,Dollars/capita,39153,2057
+Ohio,Trumbull,17.92733383178711,Dollars/capita,39155,2061
+Ohio,Tuscarawas,14.167863845825195,Dollars/capita,39157,2065
+Ohio,Union,7.757698059082031,Dollars/capita,39159,2067
+Ohio,Van Wert,14.064179420471191,Dollars/capita,39161,2071
+Ohio,Vinton,nan,Dollars/capita,39163,2075
+Ohio,Warren,8.06153392791748,Dollars/capita,39165,2076
+Ohio,Washington,14.489792823791504,Dollars/capita,39167,2080
+Ohio,Wayne,9.639545440673828,Dollars/capita,39169,2084
+Ohio,Williams,13.746109962463379,Dollars/capita,39171,2087
+Ohio,Wood,6.6205949783325195,Dollars/capita,39173,2091
+Ohio,Wyandot,7.787103176116943,Dollars/capita,39175,2093
+Oklahoma,Adair,14.998873710632324,Dollars/capita,40001,2095
+Oklahoma,Alfalfa,nan,Dollars/capita,40003,2099
+Oklahoma,Atoka,nan,Dollars/capita,40005,2102
+Oklahoma,Beaver,nan,Dollars/capita,40007,2104
+Oklahoma,Beckham,9.574934005737305,Dollars/capita,40009,2106
+Oklahoma,Blaine,6.103763580322266,Dollars/capita,40011,2110
+Oklahoma,Bryan,11.063365936279297,Dollars/capita,40013,2112
+Oklahoma,Caddo,8.258784294128418,Dollars/capita,40015,2118
+Oklahoma,Canadian,2.713935613632202,Dollars/capita,40017,2123
+Oklahoma,Carter,12.678711891174316,Dollars/capita,40019,2126
+Oklahoma,Cherokee,18.238813400268555,Dollars/capita,40021,2129
+Oklahoma,Choctaw,nan,Dollars/capita,40023,2133
+Oklahoma,Cimarron,nan,Dollars/capita,40025,2135
+Oklahoma,Cleveland,6.668737411499023,Dollars/capita,40027,2140
+Oklahoma,Coal,nan,Dollars/capita,40029,2144
+Oklahoma,Comanche,17.748428344726562,Dollars/capita,40031,2145
+Oklahoma,Cotton,nan,Dollars/capita,40033,2146
+Oklahoma,Craig,nan,Dollars/capita,40035,2148
+Oklahoma,Creek,5.753867149353027,Dollars/capita,40037,2151
+Oklahoma,Custer,9.985200881958008,Dollars/capita,40039,2153
+Oklahoma,Delaware,5.18961238861084,Dollars/capita,40041,2154
+Oklahoma,Dewey,nan,Dollars/capita,40043,2158
+Oklahoma,Ellis,nan,Dollars/capita,40045,2165
+Oklahoma,Garfield,11.88974380493164,Dollars/capita,40047,2167
+Oklahoma,Garvin,10.219803810119629,Dollars/capita,40049,2176
+Oklahoma,Grady,2.203418493270874,Dollars/capita,40051,2184
+Oklahoma,Grant,nan,Dollars/capita,40053,2187
+Oklahoma,Greer,nan,Dollars/capita,40055,2189
+Oklahoma,Harmon,nan,Dollars/capita,40057,2191
+Oklahoma,Harper,nan,Dollars/capita,40059,2193
+Oklahoma,Haskell,nan,Dollars/capita,40061,2195
+Oklahoma,Hughes,nan,Dollars/capita,40063,2197
+Oklahoma,Jackson,nan,Dollars/capita,40065,2202
+Oklahoma,Jefferson,nan,Dollars/capita,40067,2206
+Oklahoma,Johnston,nan,Dollars/capita,40069,2211
+Oklahoma,Kay,16.468826293945312,Dollars/capita,40071,2215
+Oklahoma,Kingfisher,11.671167373657227,Dollars/capita,40073,2219
+Oklahoma,Kiowa,nan,Dollars/capita,40075,2222
+Oklahoma,Latimer,nan,Dollars/capita,40077,2226
+Oklahoma,Le Flore,7.991857528686523,Dollars/capita,40079,2230
+Oklahoma,Lincoln,4.136419773101807,Dollars/capita,40081,2234
+Oklahoma,Logan,nan,Dollars/capita,40083,2236
+Oklahoma,Love,nan,Dollars/capita,40085,2238
+Oklahoma,McClain,8.917340278625488,Dollars/capita,40087,2245
+Oklahoma,McCurtain,15.45728874206543,Dollars/capita,40089,2252
+Oklahoma,McIntosh,14.078432083129883,Dollars/capita,40091,2258
+Oklahoma,Major,nan,Dollars/capita,40093,2260
+Oklahoma,Marshall,nan,Dollars/capita,40095,2265
+Oklahoma,Mayes,8.991488456726074,Dollars/capita,40097,2270
+Oklahoma,Murray,nan,Dollars/capita,40099,2276
+Oklahoma,Muskogee,12.445769309997559,Dollars/capita,40101,2281
+Oklahoma,Noble,nan,Dollars/capita,40103,2287
+Oklahoma,Nowata,nan,Dollars/capita,40105,2290
+Oklahoma,Okfuskee,nan,Dollars/capita,40107,2297
+Oklahoma,Oklahoma,11.1631441116333,Dollars/capita,40109,2303
+Oklahoma,Okmulgee,15.203890800476074,Dollars/capita,40111,2311
+Oklahoma,Osage,5.716724872589111,Dollars/capita,40113,2318
+Oklahoma,Ottawa,nan,Dollars/capita,40115,2325
+Oklahoma,Pawnee,nan,Dollars/capita,40117,2329
+Oklahoma,Payne,7.285295009613037,Dollars/capita,40119,2340
+Oklahoma,Pittsburg,11.151959419250488,Dollars/capita,40121,2344
+Oklahoma,Pontotoc,9.842516899108887,Dollars/capita,40123,2351
+Oklahoma,Pottawatomie,5.302699089050293,Dollars/capita,40125,2356
+Oklahoma,Pushmataha,15.353450775146484,Dollars/capita,40127,2362
+Oklahoma,Roger Mills,nan,Dollars/capita,40129,2369
+Oklahoma,Rogers,6.012001037597656,Dollars/capita,40131,2374
+Oklahoma,Seminole,9.647088050842285,Dollars/capita,40133,2384
+Oklahoma,Sequoyah,12.238248825073242,Dollars/capita,40135,2391
+Oklahoma,Stephens,9.669224739074707,Dollars/capita,40137,2396
+Oklahoma,Texas,29.20395851135254,Dollars/capita,40139,2003
+Oklahoma,Tillman,nan,Dollars/capita,40141,2005
+Oklahoma,Tulsa,12.820096015930176,Dollars/capita,40143,2008
+Oklahoma,Wagoner,nan,Dollars/capita,40145,2014
+Oklahoma,Washington,6.065328121185303,Dollars/capita,40147,2018
+Oklahoma,Washita,nan,Dollars/capita,40149,2023
+Oklahoma,Woods,nan,Dollars/capita,40151,2029
+Oklahoma,Woodward,16.38134002685547,Dollars/capita,40153,2035
+Oregon,Baker,13.142315864562988,Dollars/capita,41001,2044
+Oregon,Benton,7.382665634155273,Dollars/capita,41003,2053
+Oregon,Clackamas,8.474010467529297,Dollars/capita,41005,2058
+Oregon,Clatsop,15.95249080657959,Dollars/capita,41007,2064
+Oregon,Columbia,14.055928230285645,Dollars/capita,41009,2070
+Oregon,Coos,9.77492904663086,Dollars/capita,41011,2083
+Oregon,Crook,nan,Dollars/capita,41013,2092
+Oregon,Curry,12.790848731994629,Dollars/capita,41015,2098
+Oregon,Deschutes,11.778721809387207,Dollars/capita,41017,2109
+Oregon,Douglas,19.2259578704834,Dollars/capita,41019,2115
+Oregon,Gilliam,nan,Dollars/capita,41021,2121
+Oregon,Grant,nan,Dollars/capita,41023,2130
+Oregon,Harney,nan,Dollars/capita,41025,2134
+Oregon,Hood River,14.255483627319336,Dollars/capita,41027,2138
+Oregon,Jackson,15.735859870910645,Dollars/capita,41029,2139
+Oregon,Jefferson,nan,Dollars/capita,41031,2143
+Oregon,Josephine,16.89788055419922,Dollars/capita,41033,2152
+Oregon,Klamath,23.648176193237305,Dollars/capita,41035,2155
+Oregon,Lake,nan,Dollars/capita,41037,2159
+Oregon,Lane,11.981746673583984,Dollars/capita,41039,2170
+Oregon,Lincoln,15.769054412841797,Dollars/capita,41041,2174
+Oregon,Linn,17.08942413330078,Dollars/capita,41043,2181
+Oregon,Malheur,30.03606605529785,Dollars/capita,41045,2185
+Oregon,Marion,21.995786666870117,Dollars/capita,41047,2200
+Oregon,Morrow,14.979959487915039,Dollars/capita,41049,2209
+Oregon,Multnomah,11.499107360839844,Dollars/capita,41051,2218
+Oregon,Polk,10.877156257629395,Dollars/capita,41053,2223
+Oregon,Sherman,nan,Dollars/capita,41055,2232
+Oregon,Tillamook,15.281510353088379,Dollars/capita,41057,2242
+Oregon,Umatilla,28.29951286315918,Dollars/capita,41059,2251
+Oregon,Union,15.412074089050293,Dollars/capita,41061,2257
+Oregon,Wallowa,nan,Dollars/capita,41063,2263
+Oregon,Wasco,2.6846961975097656,Dollars/capita,41065,2267
+Oregon,Washington,10.35497760772705,Dollars/capita,41067,2272
+Oregon,Wheeler,nan,Dollars/capita,41069,2277
+Oregon,Yamhill,15.973103523254395,Dollars/capita,41071,2284
+Pennsylvania,Adams,7.97572135925293,Dollars/capita,42001,2292
+Pennsylvania,Allegheny,9.22996997833252,Dollars/capita,42003,2302
+Pennsylvania,Armstrong,10.534547805786133,Dollars/capita,42005,2309
+Pennsylvania,Beaver,12.15969181060791,Dollars/capita,42007,2321
+Pennsylvania,Bedford,12.024569511413574,Dollars/capita,42009,2324
+Pennsylvania,Berks,16.551185607910156,Dollars/capita,42011,2326
+Pennsylvania,Blair,17.477148056030273,Dollars/capita,42013,2328
+Pennsylvania,Bradford,16.212854385375977,Dollars/capita,42015,2333
+Pennsylvania,Bucks,5.88647985458374,Dollars/capita,42017,2336
+Pennsylvania,Butler,7.92719841003418,Dollars/capita,42019,2338
+Pennsylvania,Cambria,15.677783966064453,Dollars/capita,42021,2341
+Pennsylvania,Cameron,nan,Dollars/capita,42023,2343
+Pennsylvania,Carbon,10.862582206726074,Dollars/capita,42025,2349
+Pennsylvania,Centre,5.563207626342773,Dollars/capita,42027,2354
+Pennsylvania,Chester,6.3032989501953125,Dollars/capita,42029,2360
+Pennsylvania,Clarion,15.395270347595215,Dollars/capita,42031,2366
+Pennsylvania,Clearfield,15.33526611328125,Dollars/capita,42033,2372
+Pennsylvania,Clinton,10.745610237121582,Dollars/capita,42035,2379
+Pennsylvania,Columbia,13.355918884277344,Dollars/capita,42037,2385
+Pennsylvania,Crawford,13.299525260925293,Dollars/capita,42039,2389
+Pennsylvania,Cumberland,9.798046112060547,Dollars/capita,42041,2397
+Pennsylvania,Dauphin,15.702360153198242,Dollars/capita,42043,2403
+Pennsylvania,Delaware,12.22779655456543,Dollars/capita,42045,2414
+Pennsylvania,Elk,13.567761421203613,Dollars/capita,42047,2420
+Pennsylvania,Erie,17.766775131225586,Dollars/capita,42049,2425
+Pennsylvania,Fayette,13.63060474395752,Dollars/capita,42051,2431
+Pennsylvania,Forest,nan,Dollars/capita,42053,2436
+Pennsylvania,Franklin,14.440723419189453,Dollars/capita,42055,2439
+Pennsylvania,Fulton,nan,Dollars/capita,42057,2446
+Pennsylvania,Greene,17.67032814025879,Dollars/capita,42059,2447
+Pennsylvania,Huntingdon,14.20349407196045,Dollars/capita,42061,2454
+Pennsylvania,Indiana,10.103606224060059,Dollars/capita,42063,2459
+Pennsylvania,Jefferson,12.336640357971191,Dollars/capita,42065,2462
+Pennsylvania,Juniata,nan,Dollars/capita,42067,2466
+Pennsylvania,Lackawanna,17.43735694885254,Dollars/capita,42069,2471
+Pennsylvania,Lancaster,21.3493595123291,Dollars/capita,42071,2482
+Pennsylvania,Lawrence,13.076605796813965,Dollars/capita,42073,2488
+Pennsylvania,Lebanon,13.96047592163086,Dollars/capita,42075,2492
+Pennsylvania,Lehigh,20.141454696655273,Dollars/capita,42077,2496
+Pennsylvania,Luzerne,18.110204696655273,Dollars/capita,42079,2501
+Pennsylvania,Lycoming,14.770072937011719,Dollars/capita,42081,2505
+Pennsylvania,McKean,16.689363479614258,Dollars/capita,42083,2509
+Pennsylvania,Mercer,14.167228698730469,Dollars/capita,42085,2513
+Pennsylvania,Mifflin,17.92178726196289,Dollars/capita,42087,2517
+Pennsylvania,Monroe,14.61800765991211,Dollars/capita,42089,2521
+Pennsylvania,Montgomery,6.760259628295898,Dollars/capita,42091,2528
+Pennsylvania,Montour,nan,Dollars/capita,42093,2533
+Pennsylvania,Northampton,9.287981986999512,Dollars/capita,42095,2537
+Pennsylvania,Northumberland,12.064374923706055,Dollars/capita,42097,2544
+Pennsylvania,Perry,8.214937210083008,Dollars/capita,42099,2554
+Pennsylvania,Philadelphia,29.286699295043945,Dollars/capita,42101,2563
+Pennsylvania,Pike,4.396562099456787,Dollars/capita,42103,2571
+Pennsylvania,Potter,15.107710838317871,Dollars/capita,42105,2575
+Pennsylvania,Schuylkill,10.995818138122559,Dollars/capita,42107,2581
+Pennsylvania,Snyder,13.462796211242676,Dollars/capita,42109,2583
+Pennsylvania,Somerset,10.766900062561035,Dollars/capita,42111,2589
+Pennsylvania,Sullivan,nan,Dollars/capita,42113,2293
+Pennsylvania,Susquehanna,9.032086372375488,Dollars/capita,42115,2298
+Pennsylvania,Tioga,17.09188461303711,Dollars/capita,42117,2305
+Pennsylvania,Union,9.977564811706543,Dollars/capita,42119,2313
+Pennsylvania,Venango,16.30592155456543,Dollars/capita,42121,2316
+Pennsylvania,Warren,12.998515129089355,Dollars/capita,42123,2322
+Pennsylvania,Washington,8.745516777038574,Dollars/capita,42125,2346
+Pennsylvania,Wayne,9.1166353225708,Dollars/capita,42127,2363
+Pennsylvania,Westmoreland,10.073444366455078,Dollars/capita,42129,2394
+Pennsylvania,Wyoming,14.514156341552734,Dollars/capita,42131,2407
+Pennsylvania,York,11.536993980407715,Dollars/capita,42133,2419
+Rhode Island,Bristol,4.61633825302124,Dollars/capita,44001,2433
+Rhode Island,Kent,8.161117553710938,Dollars/capita,44003,2444
+Rhode Island,Newport,5.958134651184082,Dollars/capita,44005,2460
+Rhode Island,Providence,19.094701766967773,Dollars/capita,44007,2475
+Rhode Island,Washington,5.1078057289123535,Dollars/capita,44009,2484
+South Carolina,Abbeville,nan,Dollars/capita,45001,2489
+South Carolina,Aiken,15.80592155456543,Dollars/capita,45003,2503
+South Carolina,Allendale,nan,Dollars/capita,45005,2527
+South Carolina,Anderson,17.17569351196289,Dollars/capita,45007,2559
+South Carolina,Bamberg,nan,Dollars/capita,45009,2592
+South Carolina,Barnwell,28.37821388244629,Dollars/capita,45011,2605
+South Carolina,Beaufort,15.177785873413086,Dollars/capita,45013,2626
+South Carolina,Berkeley,14.860185623168945,Dollars/capita,45015,2631
+South Carolina,Calhoun,nan,Dollars/capita,45017,2635
+South Carolina,Charleston,11.284311294555664,Dollars/capita,45019,2691
+South Carolina,Cherokee,20.768177032470703,Dollars/capita,45021,2700
+South Carolina,Chester,20.588077545166016,Dollars/capita,45023,2704
+South Carolina,Chesterfield,21.92823600769043,Dollars/capita,45025,2708
+South Carolina,Clarendon,22.53421974182129,Dollars/capita,45027,2715
+South Carolina,Colleton,25.109472274780273,Dollars/capita,45029,2718
+South Carolina,Darlington,24.339515686035156,Dollars/capita,45031,2721
+South Carolina,Dillon,34.526123046875,Dollars/capita,45033,2725
+South Carolina,Dorchester,12.498470306396484,Dollars/capita,45035,2730
+South Carolina,Edgefield,nan,Dollars/capita,45037,2735
+South Carolina,Fairfield,nan,Dollars/capita,45039,2738
+South Carolina,Florence,25.219585418701172,Dollars/capita,45041,2742
+South Carolina,Georgetown,18.31094741821289,Dollars/capita,45043,2752
+South Carolina,Greenville,12.995210647583008,Dollars/capita,45045,2759
+South Carolina,Greenwood,20.769628524780273,Dollars/capita,45047,2764
+South Carolina,Hampton,22.79347038269043,Dollars/capita,45049,2767
+South Carolina,Horry,16.3775691986084,Dollars/capita,45051,2774
+South Carolina,Jasper,30.32172203063965,Dollars/capita,45053,2783
+South Carolina,Kershaw,16.33631706237793,Dollars/capita,45055,2787
+South Carolina,Lancaster,17.010066986083984,Dollars/capita,45057,2790
+South Carolina,Laurens,15.495226860046387,Dollars/capita,45059,2794
+South Carolina,Lee,nan,Dollars/capita,45061,2800
+South Carolina,Lexington,15.971258163452148,Dollars/capita,45063,2803
+South Carolina,McCormick,nan,Dollars/capita,45065,2807
+South Carolina,Marion,29.522817611694336,Dollars/capita,45067,2811
+South Carolina,Marlboro,28.323383331298828,Dollars/capita,45069,2813
+South Carolina,Newberry,21.946683883666992,Dollars/capita,45071,2818
+South Carolina,Oconee,15.374419212341309,Dollars/capita,45073,2822
+South Carolina,Orangeburg,27.347261428833008,Dollars/capita,45075,2829
+South Carolina,Pickens,15.267410278320312,Dollars/capita,45077,2834
+South Carolina,Richland,15.635122299194336,Dollars/capita,45079,2843
+South Carolina,Saluda,nan,Dollars/capita,45081,2846
+South Carolina,Spartanburg,18.271562576293945,Dollars/capita,45083,2851
+South Carolina,Sumter,27.331186294555664,Dollars/capita,45085,2855
+South Carolina,Union,nan,Dollars/capita,45087,2860
+South Carolina,Williamsburg,18.130420684814453,Dollars/capita,45089,2864
+South Carolina,York,12.658501625061035,Dollars/capita,45091,2867
+South Dakota,Aurora,nan,Dollars/capita,46003,2870
+South Dakota,Beadle,nan,Dollars/capita,46005,2874
+South Dakota,Bennett,nan,Dollars/capita,46007,2876
+South Dakota,Bon Homme,5.537814617156982,Dollars/capita,46009,2879
+South Dakota,Brookings,nan,Dollars/capita,46011,2882
+South Dakota,Brown,14.841766357421875,Dollars/capita,46013,2885
+South Dakota,Brule,nan,Dollars/capita,46015,2888
+South Dakota,Buffalo,nan,Dollars/capita,46017,2891
+South Dakota,Butte,nan,Dollars/capita,46019,2895
+South Dakota,Campbell,nan,Dollars/capita,46021,2897
+South Dakota,Charles Mix,41.280521392822266,Dollars/capita,46023,2900
+South Dakota,Clark,nan,Dollars/capita,46025,2901
+South Dakota,Clay,nan,Dollars/capita,46027,2903
+South Dakota,Codington,nan,Dollars/capita,46029,2906
+South Dakota,Corson,nan,Dollars/capita,46031,2907
+South Dakota,Custer,nan,Dollars/capita,46033,2908
+South Dakota,Davison,nan,Dollars/capita,46035,2910
+South Dakota,Day,nan,Dollars/capita,46037,2911
+South Dakota,Deuel,nan,Dollars/capita,46039,2912
+South Dakota,Dewey,nan,Dollars/capita,46041,2914
+South Dakota,Douglas,nan,Dollars/capita,46043,2916
+South Dakota,Edmunds,nan,Dollars/capita,46045,2917
+South Dakota,Fall River,nan,Dollars/capita,46047,2919
+South Dakota,Faulk,nan,Dollars/capita,46049,2921
+South Dakota,Grant,nan,Dollars/capita,46051,2922
+South Dakota,Gregory,11.804153442382812,Dollars/capita,46053,2923
+South Dakota,Haakon,nan,Dollars/capita,46055,2924
+South Dakota,Hamlin,6.5508599281311035,Dollars/capita,46057,2926
+South Dakota,Hand,nan,Dollars/capita,46059,2928
+South Dakota,Hanson,nan,Dollars/capita,46061,2929
+South Dakota,Harding,nan,Dollars/capita,46063,2931
+South Dakota,Hughes,nan,Dollars/capita,46065,2933
+South Dakota,Hutchinson,5.513416290283203,Dollars/capita,46067,2934
+South Dakota,Hyde,nan,Dollars/capita,46069,2937
+South Dakota,Jackson,nan,Dollars/capita,46071,2939
+South Dakota,Jerauld,nan,Dollars/capita,46073,2941
+South Dakota,Jones,nan,Dollars/capita,46075,2944
+South Dakota,Kingsbury,nan,Dollars/capita,46077,2945
+South Dakota,Lake,nan,Dollars/capita,46079,2401
+South Dakota,Lawrence,9.953163146972656,Dollars/capita,46081,2406
+South Dakota,Lincoln,2.2512948513031006,Dollars/capita,46083,2410
+South Dakota,Lyman,41.028114318847656,Dollars/capita,46085,2417
+South Dakota,McCook,nan,Dollars/capita,46087,2422
+South Dakota,McPherson,nan,Dollars/capita,46089,2426
+South Dakota,Marshall,nan,Dollars/capita,46091,2430
+South Dakota,Meade,6.2837114334106445,Dollars/capita,46093,2442
+South Dakota,Mellette,nan,Dollars/capita,46095,2450
+South Dakota,Miner,nan,Dollars/capita,46097,2456
+South Dakota,Minnehaha,15.809218406677246,Dollars/capita,46099,2467
+South Dakota,Moody,nan,Dollars/capita,46101,2485
+South Dakota,Pennington,17.040035247802734,Dollars/capita,46103,2497
+South Dakota,Perkins,nan,Dollars/capita,46105,2502
+South Dakota,Potter,nan,Dollars/capita,46107,2506
+South Dakota,Roberts,nan,Dollars/capita,46109,2511
+South Dakota,Sanborn,nan,Dollars/capita,46111,2514
+South Dakota,Shannon,nan,Dollars/capita,46113,2519
+South Dakota,Spink,nan,Dollars/capita,46115,2523
+South Dakota,Stanley,nan,Dollars/capita,46117,2530
+South Dakota,Sully,nan,Dollars/capita,46119,2535
+South Dakota,Todd,45.745262145996094,Dollars/capita,46121,2540
+South Dakota,Tripp,nan,Dollars/capita,46123,2546
+South Dakota,Turner,5.258014678955078,Dollars/capita,46125,2550
+South Dakota,Union,5.933091640472412,Dollars/capita,46127,2557
+South Dakota,Walworth,nan,Dollars/capita,46129,2561
+South Dakota,Yankton,nan,Dollars/capita,46135,2569
+South Dakota,Ziebach,nan,Dollars/capita,46137,2578
+Tennessee,Anderson,16.3973445892334,Dollars/capita,47001,2584
+Tennessee,Bedford,19.482460021972656,Dollars/capita,47003,2593
+Tennessee,Benton,22.277809143066406,Dollars/capita,47005,2598
+Tennessee,Bledsoe,nan,Dollars/capita,47007,2602
+Tennessee,Blount,12.018571853637695,Dollars/capita,47009,2622
+Tennessee,Bradley,19.804956436157227,Dollars/capita,47011,2627
+Tennessee,Campbell,20.826160430908203,Dollars/capita,47013,2633
+Tennessee,Cannon,nan,Dollars/capita,47015,2638
+Tennessee,Carroll,14.192097663879395,Dollars/capita,47017,2648
+Tennessee,Carter,17.36878204345703,Dollars/capita,47019,2654
+Tennessee,Cheatham,9.602631568908691,Dollars/capita,47021,2660
+Tennessee,Chester,nan,Dollars/capita,47023,2664
+Tennessee,Claiborne,21.66440773010254,Dollars/capita,47025,2670
+Tennessee,Clay,nan,Dollars/capita,47027,2679
+Tennessee,Cocke,22.761703491210938,Dollars/capita,47029,2686
+Tennessee,Coffee,22.876930236816406,Dollars/capita,47031,2689
+Tennessee,Crockett,nan,Dollars/capita,47033,2693
+Tennessee,Cumberland,19.55179214477539,Dollars/capita,47035,2696
+Tennessee,Davidson,19.733766555786133,Dollars/capita,47037,2698
+Tennessee,Decatur,13.715825080871582,Dollars/capita,47039,2705
+Tennessee,DeKalb,20.689197540283203,Dollars/capita,47041,2710
+Tennessee,Dickson,17.720783233642578,Dollars/capita,47043,2717
+Tennessee,Dyer,24.5947322845459,Dollars/capita,47045,2723
+Tennessee,Fayette,9.81206226348877,Dollars/capita,47047,2726
+Tennessee,Fentress,25.755403518676758,Dollars/capita,47049,2731
+Tennessee,Franklin,13.104743957519531,Dollars/capita,47051,2734
+Tennessee,Gibson,21.18621063232422,Dollars/capita,47053,2739
+Tennessee,Giles,16.39833641052246,Dollars/capita,47055,2743
+Tennessee,Grainger,15.288472175598145,Dollars/capita,47057,2748
+Tennessee,Greene,19.5976619720459,Dollars/capita,47059,2750
+Tennessee,Grundy,nan,Dollars/capita,47061,2754
+Tennessee,Hamblen,29.941761016845703,Dollars/capita,47063,2757
+Tennessee,Hamilton,13.972393035888672,Dollars/capita,47065,2761
+Tennessee,Hancock,nan,Dollars/capita,47067,2766
+Tennessee,Hardeman,21.536916732788086,Dollars/capita,47069,2770
+Tennessee,Hardin,27.113481521606445,Dollars/capita,47071,2773
+Tennessee,Hawkins,15.461467742919922,Dollars/capita,47073,2779
+Tennessee,Haywood,nan,Dollars/capita,47075,2781
+Tennessee,Henderson,20.9409236907959,Dollars/capita,47077,2786
+Tennessee,Henry,18.9594783782959,Dollars/capita,47079,2789
+Tennessee,Hickman,nan,Dollars/capita,47081,2792
+Tennessee,Houston,nan,Dollars/capita,47083,2796
+Tennessee,Humphreys,16.884904861450195,Dollars/capita,47085,2798
+Tennessee,Jackson,nan,Dollars/capita,47087,2801
+Tennessee,Jefferson,14.343401908874512,Dollars/capita,47089,2804
+Tennessee,Johnson,nan,Dollars/capita,47091,2808
+Tennessee,Knox,13.002910614013672,Dollars/capita,47093,2814
+Tennessee,Lake,nan,Dollars/capita,47095,2817
+Tennessee,Lauderdale,21.557498931884766,Dollars/capita,47097,2821
+Tennessee,Lawrence,19.242023468017578,Dollars/capita,47099,2823
+Tennessee,Lewis,nan,Dollars/capita,47101,2825
+Tennessee,Lincoln,13.953977584838867,Dollars/capita,47103,2828
+Tennessee,Loudon,14.647319793701172,Dollars/capita,47105,2830
+Tennessee,McMinn,18.481416702270508,Dollars/capita,47107,2833
+Tennessee,McNairy,nan,Dollars/capita,47109,2836
+Tennessee,Macon,24.513818740844727,Dollars/capita,47111,2839
+Tennessee,Madison,22.5655574798584,Dollars/capita,47113,2841
+Tennessee,Marion,19.081052780151367,Dollars/capita,47115,2844
+Tennessee,Marshall,16.835351943969727,Dollars/capita,47117,2848
+Tennessee,Maury,13.833047866821289,Dollars/capita,47119,2850
+Tennessee,Meigs,nan,Dollars/capita,47121,2854
+Tennessee,Monroe,21.40264892578125,Dollars/capita,47123,2857
+Tennessee,Montgomery,17.33013916015625,Dollars/capita,47125,2859
+Tennessee,Moore,nan,Dollars/capita,47127,2863
+Tennessee,Morgan,9.176010131835938,Dollars/capita,47129,2866
+Tennessee,Obion,19.128211975097656,Dollars/capita,47131,2872
+Tennessee,Overton,nan,Dollars/capita,47133,2875
+Tennessee,Perry,nan,Dollars/capita,47135,2878
+Tennessee,Pickett,nan,Dollars/capita,47137,2881
+Tennessee,Polk,14.376520156860352,Dollars/capita,47139,2883
+Tennessee,Putnam,21.846050262451172,Dollars/capita,47141,2890
+Tennessee,Rhea,23.408550262451172,Dollars/capita,47143,2893
+Tennessee,Roane,13.492058753967285,Dollars/capita,47145,2001
+Tennessee,Robertson,13.269725799560547,Dollars/capita,47147,2011
+Tennessee,Rutherford,12.960872650146484,Dollars/capita,47149,2015
+Tennessee,Scott,30.88469886779785,Dollars/capita,47151,2020
+Tennessee,Sequatchie,nan,Dollars/capita,47153,2025
+Tennessee,Sevier,17.927749633789062,Dollars/capita,47155,2030
+Tennessee,Shelby,19.917469024658203,Dollars/capita,47157,2033
+Tennessee,Smith,nan,Dollars/capita,47159,2037
+Tennessee,Stewart,nan,Dollars/capita,47161,2041
+Tennessee,Sullivan,15.69082260131836,Dollars/capita,47163,2046
+Tennessee,Sumner,9.873991012573242,Dollars/capita,47165,2050
+Tennessee,Tipton,11.850255966186523,Dollars/capita,47167,2055
+Tennessee,Trousdale,nan,Dollars/capita,47169,2062
+Tennessee,Unicoi,nan,Dollars/capita,47171,2069
+Tennessee,Union,nan,Dollars/capita,47173,2073
+Tennessee,Van Buren,nan,Dollars/capita,47175,2077
+Tennessee,Warren,23.009410858154297,Dollars/capita,47177,2081
+Tennessee,Washington,14.71297550201416,Dollars/capita,47179,2085
+Tennessee,Wayne,12.542838096618652,Dollars/capita,47181,2089
+Tennessee,Weakley,15.030534744262695,Dollars/capita,47183,2096
+Tennessee,White,19.966524124145508,Dollars/capita,47185,2100
+Tennessee,Williamson,3.43961501121521,Dollars/capita,47187,2105
+Tennessee,Wilson,8.241868019104004,Dollars/capita,47189,2111
+Texas,Anderson,17.676998138427734,Dollars/capita,48001,2113
+Texas,Andrews,nan,Dollars/capita,48003,2117
+Texas,Angelina,23.537809371948242,Dollars/capita,48005,2124
+Texas,Aransas,nan,Dollars/capita,48007,2162
+Texas,Archer,nan,Dollars/capita,48009,2168
+Texas,Armstrong,nan,Dollars/capita,48011,2172
+Texas,Atascosa,24.320537567138672,Dollars/capita,48013,2173
+Texas,Austin,nan,Dollars/capita,48015,2177
+Texas,Bailey,nan,Dollars/capita,48017,2179
+Texas,Bandera,nan,Dollars/capita,48019,2183
+Texas,Bastrop,14.258196830749512,Dollars/capita,48021,2190
+Texas,Baylor,nan,Dollars/capita,48023,2192
+Texas,Bee,nan,Dollars/capita,48025,2196
+Texas,Bell,21.213396072387695,Dollars/capita,48027,2198
+Texas,Bexar,19.83115577697754,Dollars/capita,48029,2203
+Texas,Blanco,nan,Dollars/capita,48031,2207
+Texas,Borden,nan,Dollars/capita,48033,2212
+Texas,Bosque,7.454959392547607,Dollars/capita,48035,2216
+Texas,Bowie,8.428092002868652,Dollars/capita,48037,2224
+Texas,Brazoria,15.592124938964844,Dollars/capita,48039,2240
+Texas,Brazos,14.84919548034668,Dollars/capita,48041,2253
+Texas,Brewster,nan,Dollars/capita,48043,2262
+Texas,Briscoe,nan,Dollars/capita,48045,2269
+Texas,Brooks,nan,Dollars/capita,48047,2279
+Texas,Brown,16.837289810180664,Dollars/capita,48049,2296
+Texas,Burleson,nan,Dollars/capita,48051,2304
+Texas,Burnet,nan,Dollars/capita,48053,2312
+Texas,Caldwell,nan,Dollars/capita,48055,2320
+Texas,Calhoun,nan,Dollars/capita,48057,2327
+Texas,Callahan,nan,Dollars/capita,48059,2331
+Texas,Cameron,41.91376876831055,Dollars/capita,48061,2359
+Texas,Camp,nan,Dollars/capita,48063,2373
+Texas,Carson,nan,Dollars/capita,48065,2377
+Texas,Cass,13.941313743591309,Dollars/capita,48067,2382
+Texas,Castro,nan,Dollars/capita,48069,2386
+Texas,Chambers,10.557324409484863,Dollars/capita,48071,2395
+Texas,Cherokee,23.9261417388916,Dollars/capita,48073,2400
+Texas,Childress,nan,Dollars/capita,48075,2405
+Texas,Clay,nan,Dollars/capita,48077,2409
+Texas,Cochran,nan,Dollars/capita,48079,2413
+Texas,Coke,nan,Dollars/capita,48081,2418
+Texas,Coleman,nan,Dollars/capita,48083,2423
+Texas,Collin,5.49109411239624,Dollars/capita,48085,2429
+Texas,Collingsworth,nan,Dollars/capita,48087,2434
+Texas,Colorado,15.93011474609375,Dollars/capita,48089,2441
+Texas,Comal,10.182280540466309,Dollars/capita,48091,2449
+Texas,Comanche,nan,Dollars/capita,48093,2455
+Texas,Concho,nan,Dollars/capita,48095,2458
+Texas,Cooke,nan,Dollars/capita,48097,2463
+Texas,Coryell,25.12575912475586,Dollars/capita,48099,2469
+Texas,Cottle,nan,Dollars/capita,48101,2473
+Texas,Crane,nan,Dollars/capita,48103,2478
+Texas,Crockett,nan,Dollars/capita,48105,2483
+Texas,Crosby,nan,Dollars/capita,48107,2487
+Texas,Culberson,nan,Dollars/capita,48109,2491
+Texas,Dallam,nan,Dollars/capita,48111,2498
+Texas,Dallas,21.993303298950195,Dollars/capita,48113,2507
+Texas,Dawson,nan,Dollars/capita,48115,2512
+Texas,Deaf Smith,nan,Dollars/capita,48117,2515
+Texas,Delta,nan,Dollars/capita,48119,2524
+Texas,Denton,7.386220932006836,Dollars/capita,48121,2532
+Texas,DeWitt,nan,Dollars/capita,48123,2538
+Texas,Dickens,nan,Dollars/capita,48125,2542
+Texas,Dimmit,nan,Dollars/capita,48127,2548
+Texas,Donley,nan,Dollars/capita,48129,2551
+Texas,Duval,nan,Dollars/capita,48131,2556
+Texas,Eastland,12.924263000488281,Dollars/capita,48133,2562
+Texas,Ector,16.512542724609375,Dollars/capita,48135,2568
+Texas,Edwards,nan,Dollars/capita,48137,2574
+Texas,Ellis,13.239206314086914,Dollars/capita,48139,2579
+Texas,El Paso,29.405284881591797,Dollars/capita,48141,2588
+Texas,Erath,nan,Dollars/capita,48143,2597
+Texas,Falls,nan,Dollars/capita,48145,2601
+Texas,Fannin,nan,Dollars/capita,48147,2621
+Texas,Fayette,nan,Dollars/capita,48149,2624
+Texas,Fisher,nan,Dollars/capita,48151,2628
+Texas,Floyd,nan,Dollars/capita,48153,2630
+Texas,Foard,nan,Dollars/capita,48155,2002
+Texas,Fort Bend,9.395580291748047,Dollars/capita,48157,2009
+Texas,Franklin,nan,Dollars/capita,48159,2016
+Texas,Freestone,nan,Dollars/capita,48161,2022
+Texas,Frio,nan,Dollars/capita,48163,2028
+Texas,Gaines,nan,Dollars/capita,48165,2032
+Texas,Galveston,13.349519729614258,Dollars/capita,48167,2059
+Texas,Garza,nan,Dollars/capita,48169,2060
+Texas,Gillespie,nan,Dollars/capita,48171,2066
+Texas,Glasscock,nan,Dollars/capita,48173,2072
+Texas,Goliad,nan,Dollars/capita,48175,2079
+Texas,Gonzales,nan,Dollars/capita,48177,2086
+Texas,Gray,nan,Dollars/capita,48179,2088
+Texas,Grayson,13.837212562561035,Dollars/capita,48181,2094
+Texas,Gregg,25.343473434448242,Dollars/capita,48183,2101
+Texas,Grimes,nan,Dollars/capita,48185,2108
+Texas,Guadalupe,9.216377258300781,Dollars/capita,48187,2116
+Texas,Hale,27.509803771972656,Dollars/capita,48189,2120
+Texas,Hall,nan,Dollars/capita,48191,2125
+Texas,Hamilton,nan,Dollars/capita,48193,2128
+Texas,Hansford,nan,Dollars/capita,48195,2132
+Texas,Hardeman,nan,Dollars/capita,48197,2137
+Texas,Hardin,12.688740730285645,Dollars/capita,48199,2142
+Texas,Harris,21.523061752319336,Dollars/capita,48201,2149
+Texas,Harrison,16.69267463684082,Dollars/capita,48203,2157
+Texas,Hartley,nan,Dollars/capita,48205,2160
+Texas,Haskell,28.384830474853516,Dollars/capita,48207,2163
+Texas,Hays,11.087982177734375,Dollars/capita,48209,2166
+Texas,Hemphill,nan,Dollars/capita,48211,2171
+Texas,Henderson,19.816547393798828,Dollars/capita,48213,2178
+Texas,Hidalgo,47.43552780151367,Dollars/capita,48215,2188
+Texas,Hill,14.698565483093262,Dollars/capita,48217,2201
+Texas,Hockley,nan,Dollars/capita,48219,2208
+Texas,Hood,10.397940635681152,Dollars/capita,48221,2213
+Texas,Hopkins,nan,Dollars/capita,48223,2221
+Texas,Houston,nan,Dollars/capita,48225,2228
+Texas,Howard,nan,Dollars/capita,48227,2231
+Texas,Hudspeth,nan,Dollars/capita,48229,2241
+Texas,Hunt,15.825823783874512,Dollars/capita,48231,2246
+Texas,Hutchinson,15.683341026306152,Dollars/capita,48233,2249
+Texas,Irion,nan,Dollars/capita,48235,2255
+Texas,Jack,nan,Dollars/capita,48237,2256
+Texas,Jackson,nan,Dollars/capita,48239,2264
+Texas,Jasper,19.54978370666504,Dollars/capita,48241,2271
+Texas,Jeff Davis,nan,Dollars/capita,48243,2275
+Texas,Jefferson,20.140785217285156,Dollars/capita,48245,2285
+Texas,Jim Hogg,nan,Dollars/capita,48247,2288
+Texas,Jim Wells,34.70714569091797,Dollars/capita,48249,2294
+Texas,Johnson,10.89731502532959,Dollars/capita,48251,2299
+Texas,Jones,nan,Dollars/capita,48253,2301
+Texas,Karnes,nan,Dollars/capita,48255,2307
+Texas,Kaufman,11.842199325561523,Dollars/capita,48257,2314
+Texas,Kendall,nan,Dollars/capita,48259,2319
+Texas,Kenedy,nan,Dollars/capita,48261,2330
+Texas,Kent,nan,Dollars/capita,48263,2335
+Texas,Kerr,nan,Dollars/capita,48265,2337
+Texas,Kimble,nan,Dollars/capita,48267,2339
+Texas,King,nan,Dollars/capita,48269,2342
+Texas,Kinney,nan,Dollars/capita,48271,2347
+Texas,Kleberg,nan,Dollars/capita,48273,2358
+Texas,Knox,nan,Dollars/capita,48275,2364
+Texas,Lamar,17.636024475097656,Dollars/capita,48277,2371
+Texas,Lamb,22.87395477294922,Dollars/capita,48279,2376
+Texas,Lampasas,nan,Dollars/capita,48281,2381
+Texas,La Salle,nan,Dollars/capita,48283,2388
+Texas,Lavaca,nan,Dollars/capita,48285,2392
+Texas,Lee,nan,Dollars/capita,48287,2398
+Texas,Leon,10.832521438598633,Dollars/capita,48289,2402
+Texas,Liberty,20.43744659423828,Dollars/capita,48291,2404
+Texas,Limestone,nan,Dollars/capita,48293,2408
+Texas,Lipscomb,nan,Dollars/capita,48295,2412
+Texas,Live Oak,nan,Dollars/capita,48297,2416
+Texas,Llano,nan,Dollars/capita,48299,2421
+Texas,Loving,nan,Dollars/capita,48301,2424
+Texas,Lubbock,16.01746940612793,Dollars/capita,48303,2428
+Texas,Lynn,nan,Dollars/capita,48305,2438
+Texas,McCulloch,nan,Dollars/capita,48307,2452
+Texas,McLennan,17.811538696289062,Dollars/capita,48309,2477
+Texas,McMullen,nan,Dollars/capita,48311,2494
+Texas,Madison,nan,Dollars/capita,48313,2526
+Texas,Marion,nan,Dollars/capita,48315,2547
+Texas,Martin,nan,Dollars/capita,48317,2564
+Texas,Mason,nan,Dollars/capita,48319,2570
+Texas,Matagorda,nan,Dollars/capita,48321,2637
+Texas,Maverick,45.71854019165039,Dollars/capita,48323,2649
+Texas,Medina,9.625038146972656,Dollars/capita,48325,2652
+Texas,Menard,nan,Dollars/capita,48327,2655
+Texas,Midland,11.989848136901855,Dollars/capita,48329,2657
+Texas,Milam,18.13776969909668,Dollars/capita,48331,2659
+Texas,Mills,nan,Dollars/capita,48333,2663
+Texas,Mitchell,nan,Dollars/capita,48335,2666
+Texas,Montague,nan,Dollars/capita,48337,2669
+Texas,Montgomery,12.44169807434082,Dollars/capita,48339,2682
+Texas,Moore,27.793554306030273,Dollars/capita,48341,2683
+Texas,Morris,21.225725173950195,Dollars/capita,48343,2688
+Texas,Motley,nan,Dollars/capita,48345,2692
+Texas,Nacogdoches,21.978940963745117,Dollars/capita,48347,2701
+Texas,Navarro,20.251665115356445,Dollars/capita,48349,2706
+Texas,Newton,nan,Dollars/capita,48351,2711
+Texas,Nolan,nan,Dollars/capita,48353,2714
+Texas,Nueces,20.3905086517334,Dollars/capita,48355,2194
+Texas,Ochiltree,nan,Dollars/capita,48357,2204
+Texas,Oldham,nan,Dollars/capita,48359,2210
+Texas,Orange,18.99241828918457,Dollars/capita,48361,2214
+Texas,Palo Pinto,nan,Dollars/capita,48363,2220
+Texas,Panola,16.518115997314453,Dollars/capita,48365,2227
+Texas,Parker,6.603176116943359,Dollars/capita,48367,2229
+Texas,Parmer,nan,Dollars/capita,48369,2235
+Texas,Pecos,nan,Dollars/capita,48371,2239
+Texas,Polk,20.255064010620117,Dollars/capita,48373,2243
+Texas,Potter,24.911983489990234,Dollars/capita,48375,2247
+Texas,Presidio,nan,Dollars/capita,48377,2261
+Texas,Rains,nan,Dollars/capita,48379,2268
+Texas,Randall,10.657474517822266,Dollars/capita,48381,2274
+Texas,Reagan,nan,Dollars/capita,48383,2280
+Texas,Real,nan,Dollars/capita,48385,2283
+Texas,Red River,nan,Dollars/capita,48387,2295
+Texas,Reeves,nan,Dollars/capita,48389,2308
+Texas,Refugio,nan,Dollars/capita,48391,2334
+Texas,Roberts,nan,Dollars/capita,48393,2348
+Texas,Robertson,nan,Dollars/capita,48395,2353
+Texas,Rockwall,7.081460952758789,Dollars/capita,48397,2355
+Texas,Runnels,nan,Dollars/capita,48399,2361
+Texas,Rusk,13.2614164352417,Dollars/capita,48401,2367
+Texas,Sabine,nan,Dollars/capita,48403,2370
+Texas,San Augustine,nan,Dollars/capita,48405,2380
+Texas,San Jacinto,nan,Dollars/capita,48407,2387
+Texas,San Patricio,25.17575454711914,Dollars/capita,48409,2415
+Texas,San Saba,nan,Dollars/capita,48411,2435
+Texas,Schleicher,nan,Dollars/capita,48413,2437
+Texas,Scurry,nan,Dollars/capita,48415,2443
+Texas,Shackelford,nan,Dollars/capita,48417,2445
+Texas,Shelby,27.127653121948242,Dollars/capita,48419,2448
+Texas,Sherman,nan,Dollars/capita,48421,2453
+Texas,Smith,19.48381805419922,Dollars/capita,48423,2465
+Texas,Somervell,nan,Dollars/capita,48425,2470
+Texas,Starr,54.8632926940918,Dollars/capita,48427,2474
+Texas,Stephens,nan,Dollars/capita,48429,2480
+Texas,Sterling,nan,Dollars/capita,48431,2481
+Texas,Stonewall,nan,Dollars/capita,48433,2486
+Texas,Sutton,nan,Dollars/capita,48435,2490
+Texas,Swisher,nan,Dollars/capita,48437,2495
+Texas,Tarrant,15.104376792907715,Dollars/capita,48439,2500
+Texas,Taylor,16.684829711914062,Dollars/capita,48441,2508
+Texas,Terrell,nan,Dollars/capita,48443,2518
+Texas,Terry,nan,Dollars/capita,48445,2522
+Texas,Throckmorton,nan,Dollars/capita,48447,2525
+Texas,Titus,34.8681526184082,Dollars/capita,48449,2531
+Texas,Tom Green,15.828006744384766,Dollars/capita,48451,2536
+Texas,Travis,12.55747127532959,Dollars/capita,48453,2543
+Texas,Trinity,nan,Dollars/capita,48455,2553
+Texas,Tyler,nan,Dollars/capita,48457,2560
+Texas,Upshur,10.90020751953125,Dollars/capita,48459,2566
+Texas,Upton,nan,Dollars/capita,48461,2572
+Texas,Uvalde,nan,Dollars/capita,48463,2576
+Texas,Val Verde,32.07236099243164,Dollars/capita,48465,2582
+Texas,Van Zandt,14.381913185119629,Dollars/capita,48467,2586
+Texas,Victoria,18.405851364135742,Dollars/capita,48469,2595
+Texas,Walker,13.002351760864258,Dollars/capita,48471,2603
+Texas,Waller,nan,Dollars/capita,48473,2606
+Texas,Ward,nan,Dollars/capita,48475,2610
+Texas,Washington,nan,Dollars/capita,48477,2613
+Texas,Webb,47.92945098876953,Dollars/capita,48479,2616
+Texas,Wharton,22.98550033569336,Dollars/capita,48481,2618
+Texas,Wheeler,nan,Dollars/capita,48483,2623
+Texas,Wichita,16.284141540527344,Dollars/capita,48485,2632
+Texas,Wilbarger,nan,Dollars/capita,48487,2634
+Texas,Willacy,nan,Dollars/capita,48489,2639
+Texas,Williamson,7.911989688873291,Dollars/capita,48491,2640
+Texas,Wilson,10.90051555633545,Dollars/capita,48493,2641
+Texas,Winkler,nan,Dollars/capita,48495,2642
+Texas,Wise,9.752381324768066,Dollars/capita,48497,2643
+Texas,Wood,14.255847930908203,Dollars/capita,48499,2644
+Texas,Yoakum,nan,Dollars/capita,48501,2645
+Texas,Young,nan,Dollars/capita,48503,2646
+Texas,Zapata,nan,Dollars/capita,48505,2650
+Texas,Zavala,nan,Dollars/capita,48507,2651
+Utah,Beaver,11.775666236877441,Dollars/capita,49001,2653
+Utah,Box Elder,9.974178314208984,Dollars/capita,49003,2658
+Utah,Cache,13.637825012207031,Dollars/capita,49005,2661
+Utah,Carbon,18.38261604309082,Dollars/capita,49007,2665
+Utah,Daggett,nan,Dollars/capita,49009,2668
+Utah,Davis,8.626883506774902,Dollars/capita,49011,2671
+Utah,Duchesne,12.032388687133789,Dollars/capita,49013,2672
+Utah,Emery,10.102442741394043,Dollars/capita,49015,2673
+Utah,Garfield,6.686264514923096,Dollars/capita,49017,2674
+Utah,Grand,nan,Dollars/capita,49019,2675
+Utah,Iron,13.43607234954834,Dollars/capita,49021,2676
+Utah,Juab,nan,Dollars/capita,49023,2677
+Utah,Kane,nan,Dollars/capita,49025,2678
+Utah,Millard,13.254162788391113,Dollars/capita,49027,2680
+Utah,Morgan,nan,Dollars/capita,49029,2681
+Utah,Piute,nan,Dollars/capita,49031,2685
+Utah,Rich,nan,Dollars/capita,49033,2687
+Utah,Salt Lake,10.446017265319824,Dollars/capita,49035,2690
+Utah,San Juan,13.497408866882324,Dollars/capita,49037,2694
+Utah,Sanpete,13.574994087219238,Dollars/capita,49039,2697
+Utah,Sevier,18.618440628051758,Dollars/capita,49041,2702
+Utah,Summit,5.803413391113281,Dollars/capita,49043,2703
+Utah,Tooele,8.921769142150879,Dollars/capita,49045,2707
+Utah,Uintah,9.256731986999512,Dollars/capita,49047,2539
+Utah,Utah,10.601688385009766,Dollars/capita,49049,2555
+Utah,Wasatch,8.513086318969727,Dollars/capita,49051,2567
+Utah,Washington,5.26381254196167,Dollars/capita,49053,2577
+Utah,Wayne,nan,Dollars/capita,49055,2580
+Utah,Weber,13.642095565795898,Dollars/capita,49057,2587
+Vermont,Addison,1.9953633546829224,Dollars/capita,50001,2590
+Vermont,Bennington,15.894123077392578,Dollars/capita,50003,2591
+Vermont,Caledonia,3.6446900367736816,Dollars/capita,50005,2596
+Vermont,Chittenden,3.574043035507202,Dollars/capita,50007,2599
+Vermont,Essex,nan,Dollars/capita,50009,2604
+Vermont,Franklin,9.617676734924316,Dollars/capita,50011,2607
+Vermont,Grand Isle,nan,Dollars/capita,50013,2609
+Vermont,Lamoille,5.4731926918029785,Dollars/capita,50015,2611
+Vermont,Orange,nan,Dollars/capita,50017,2612
+Vermont,Orleans,5.921653747558594,Dollars/capita,50019,2614
+Vermont,Rutland,12.396020889282227,Dollars/capita,50021,2615
+Vermont,Washington,7.047152042388916,Dollars/capita,50023,2617
+Vermont,Windham,7.035526275634766,Dollars/capita,50025,2620
+Vermont,Windsor,1.6072379350662231,Dollars/capita,50027,2625
+Virginia,Accomack,16.252540588378906,Dollars/capita,51001,2719
+Virginia,Albemarle,4.1560797691345215,Dollars/capita,51003,2728
+Virginia,Alleghany,nan,Dollars/capita,51005,2733
+Virginia,Amelia,nan,Dollars/capita,51007,2741
+Virginia,Amherst,10.961492538452148,Dollars/capita,51009,2746
+Virginia,Appomattox,nan,Dollars/capita,51011,2749
+Virginia,Arlington,5.352678298950195,Dollars/capita,51013,2753
+Virginia,Augusta,2.2785463333129883,Dollars/capita,51015,2758
+Virginia,Bath,nan,Dollars/capita,51017,2763
+Virginia,Bedford County,4.203871250152588,Dollars/capita,51019,2769
+Virginia,Bland,nan,Dollars/capita,51021,2772
+Virginia,Botetourt,nan,Dollars/capita,51023,2776
+Virginia,Brunswick,nan,Dollars/capita,51025,2777
+Virginia,Buchanan,14.78416919708252,Dollars/capita,51027,2784
+Virginia,Buckingham,nan,Dollars/capita,51029,2785
+Virginia,Campbell,9.881443977355957,Dollars/capita,51031,2788
+Virginia,Caroline,nan,Dollars/capita,51033,2793
+Virginia,Carroll,nan,Dollars/capita,51035,2797
+Virginia,Charles City,nan,Dollars/capita,51036,2806
+Virginia,Charlotte,nan,Dollars/capita,51037,2810
+Virginia,Chesterfield,9.393556594848633,Dollars/capita,51041,2816
+Virginia,Clarke,nan,Dollars/capita,51043,2819
+Virginia,Craig,nan,Dollars/capita,51045,2820
+Virginia,Culpeper,11.86463451385498,Dollars/capita,51047,2824
+Virginia,Cumberland,nan,Dollars/capita,51049,2827
+Virginia,Dickenson,nan,Dollars/capita,51051,2832
+Virginia,Dinwiddie,nan,Dollars/capita,51053,2838
+Virginia,Essex,nan,Dollars/capita,51057,2842
+Virginia,Fairfax County,8.342190742492676,Dollars/capita,51059,2849
+Virginia,Fauquier,5.114410400390625,Dollars/capita,51061,2853
+Virginia,Floyd,nan,Dollars/capita,51063,2856
+Virginia,Fluvanna,nan,Dollars/capita,51065,2858
+Virginia,Franklin County,8.699889183044434,Dollars/capita,51067,2862
+Virginia,Frederick,6.292101860046387,Dollars/capita,51069,2868
+Virginia,Giles,8.48435115814209,Dollars/capita,51071,2873
+Virginia,Gloucester,9.188175201416016,Dollars/capita,51073,2887
+Virginia,Goochland,nan,Dollars/capita,51075,2892
+Virginia,Grayson,nan,Dollars/capita,51077,2896
+Virginia,Greene,nan,Dollars/capita,51079,2899
+Virginia,Greensville,nan,Dollars/capita,51081,2902
+Virginia,Halifax,nan,Dollars/capita,51083,2904
+Virginia,Hanover,6.387066841125488,Dollars/capita,51085,2909
+Virginia,Henrico,10.113611221313477,Dollars/capita,51087,2915
+Virginia,Henry,10.341080665588379,Dollars/capita,51089,2918
+Virginia,Highland,nan,Dollars/capita,51091,2920
+Virginia,Isle of Wight,6.499476432800293,Dollars/capita,51093,2925
+Virginia,James City,3.5316593647003174,Dollars/capita,51095,2930
+Virginia,King and Queen,nan,Dollars/capita,51097,2936
+Virginia,King George,7.581255912780762,Dollars/capita,51099,2938
+Virginia,King William,nan,Dollars/capita,51101,2943
+Virginia,Lancaster,nan,Dollars/capita,51103,2948
+Virginia,Lee,13.771683692932129,Dollars/capita,51105,2950
+Virginia,Loudoun,4.399684906005859,Dollars/capita,51107,2952
+Virginia,Louisa,8.393054962158203,Dollars/capita,51109,2953
+Virginia,Lunenburg,nan,Dollars/capita,51111,2954
+Virginia,Madison,nan,Dollars/capita,51113,2955
+Virginia,Mathews,nan,Dollars/capita,51115,2962
+Virginia,Mecklenburg,16.994722366333008,Dollars/capita,51117,2964
+Virginia,Middlesex,nan,Dollars/capita,51119,2965
+Virginia,Montgomery,4.775890350341797,Dollars/capita,51121,2966
+Virginia,Nelson,nan,Dollars/capita,51125,2968
+Virginia,New Kent,nan,Dollars/capita,51127,2971
+Virginia,Northampton,nan,Dollars/capita,51131,2982
+Virginia,Northumberland,nan,Dollars/capita,51133,2983
+Virginia,Nottoway,nan,Dollars/capita,51135,2984
+Virginia,Orange,8.548542976379395,Dollars/capita,51137,2985
+Virginia,Page,9.419282913208008,Dollars/capita,51139,2986
+Virginia,Patrick,nan,Dollars/capita,51141,2987
+Virginia,Pittsylvania,nan,Dollars/capita,51143,2988
+Virginia,Powhatan,nan,Dollars/capita,51145,2989
+Virginia,Prince Edward,nan,Dollars/capita,51147,2990
+Virginia,Prince George,nan,Dollars/capita,51149,2991
+Virginia,Prince William,12.134220123291016,Dollars/capita,51153,2992
+Virginia,Pulaski,12.639695167541504,Dollars/capita,51155,2993
+Virginia,Rappahannock,nan,Dollars/capita,51157,2994
+Virginia,Richmond County,nan,Dollars/capita,51159,2995
+Virginia,Roanoke County,11.2123441696167,Dollars/capita,51161,2996
+Virginia,Rockbridge,nan,Dollars/capita,51163,2997
+Virginia,Rockingham,5.879167556762695,Dollars/capita,51165,2998
+Virginia,Russell,nan,Dollars/capita,51167,2999
+Virginia,Scott,6.703949928283691,Dollars/capita,51169,2585
+Virginia,Shenandoah,8.207954406738281,Dollars/capita,51171,2594
+Virginia,Smyth,13.970498085021973,Dollars/capita,51173,2600
+Virginia,Southampton,nan,Dollars/capita,51175,2608
+Virginia,Spotsylvania,7.52865743637085,Dollars/capita,51177,2619
+Virginia,Stafford,6.338108539581299,Dollars/capita,51179,2629
+Virginia,Surry,nan,Dollars/capita,51181,2636
+Virginia,Sussex,nan,Dollars/capita,51183,2647
+Virginia,Tazewell,15.762860298156738,Dollars/capita,51185,2656
+Virginia,Warren,nan,Dollars/capita,51187,2662
+Virginia,Washington,6.140951633453369,Dollars/capita,51191,2667
+Virginia,Westmoreland,nan,Dollars/capita,51193,2684
+Virginia,Wise,15.329466819763184,Dollars/capita,51195,2695
+Virginia,Wythe,11.589118957519531,Dollars/capita,51197,2699
+Virginia,York,12.653346061706543,Dollars/capita,51199,2709
+Virginia,Alexandria,8.93974494934082,Dollars/capita,51510,2712
+Virginia,Bedford County,nan,Dollars/capita,51515,2769
+Virginia,Bristol,29.900644302368164,Dollars/capita,51520,2716
+Virginia,Buena Vista,nan,Dollars/capita,51530,2720
+Virginia,Charlottesville,12.040253639221191,Dollars/capita,51540,2722
+Virginia,Chesapeake,7.519940376281738,Dollars/capita,51550,2724
+Virginia,Colonial Heights,nan,Dollars/capita,51570,2727
+Virginia,Covington,nan,Dollars/capita,51580,2729
+Virginia,Danville,21.559642791748047,Dollars/capita,51590,2732
+Virginia,Emporia,nan,Dollars/capita,51595,2736
+Virginia,Fairfax County,15.423783302307129,Dollars/capita,51600,2849
+Virginia,Falls Church,nan,Dollars/capita,51610,2740
+Virginia,Franklin County,nan,Dollars/capita,51620,2862
+Virginia,Fredericksburg,nan,Dollars/capita,51630,2745
+Virginia,Galax,75.20298767089844,Dollars/capita,51640,2747
+Virginia,Hampton,14.584383010864258,Dollars/capita,51650,2751
+Virginia,Harrisonburg,16.490581512451172,Dollars/capita,51660,2755
+Virginia,Hopewell,nan,Dollars/capita,51670,2756
+Virginia,Lexington,nan,Dollars/capita,51678,2760
+Virginia,Lynchburg,12.902924537658691,Dollars/capita,51680,2762
+Virginia,Manassas,10.925416946411133,Dollars/capita,51683,2765
+Virginia,Manassas Park,nan,Dollars/capita,51685,2768
+Virginia,Martinsville,nan,Dollars/capita,51690,2771
+Virginia,Newport News,13.098673820495605,Dollars/capita,51700,2775
+Virginia,Norfolk,14.339679718017578,Dollars/capita,51710,2778
+Virginia,Norton,nan,Dollars/capita,51720,2780
+Virginia,Petersburg,21.309093475341797,Dollars/capita,51730,2782
+Virginia,Poquoson,nan,Dollars/capita,51735,2791
+Virginia,Portsmouth,15.710784912109375,Dollars/capita,51740,2795
+Virginia,Radford,nan,Dollars/capita,51750,2799
+Virginia,Richmond County,10.212632179260254,Dollars/capita,51760,2995
+Virginia,Roanoke County,14.45285415649414,Dollars/capita,51770,2996
+Virginia,Salem,17.071598052978516,Dollars/capita,51775,2809
+Virginia,Staunton,15.113553047180176,Dollars/capita,51790,2812
+Virginia,Suffolk,12.698184967041016,Dollars/capita,51800,2815
+Virginia,Virginia Beach,8.826237678527832,Dollars/capita,51810,2826
+Virginia,Waynesboro,17.822309494018555,Dollars/capita,51820,2831
+Virginia,Williamsburg,nan,Dollars/capita,51830,2835
+Virginia,Winchester,20.77680015563965,Dollars/capita,51840,2837
+Washington,Adams,67.69205474853516,Dollars/capita,53001,2840
+Washington,Asotin,14.99406623840332,Dollars/capita,53003,2845
+Washington,Benton,21.015684127807617,Dollars/capita,53005,2847
+Washington,Chelan,22.37255859375,Dollars/capita,53007,2852
+Washington,Clallam,12.980459213256836,Dollars/capita,53009,2861
+Washington,Clark,12.313042640686035,Dollars/capita,53011,2865
+Washington,Columbia,nan,Dollars/capita,53013,2869
+Washington,Cowlitz,20.646757125854492,Dollars/capita,53015,2871
+Washington,Douglas,25.279525756835938,Dollars/capita,53017,2877
+Washington,Ferry,nan,Dollars/capita,53019,2880
+Washington,Franklin,39.12717819213867,Dollars/capita,53021,2884
+Washington,Garfield,nan,Dollars/capita,53023,2886
+Washington,Grant,39.565032958984375,Dollars/capita,53025,2889
+Washington,Grays Harbor,20.7766170501709,Dollars/capita,53027,2894
+Washington,Island,11.212843894958496,Dollars/capita,53029,2898
+Washington,Jefferson,5.858602523803711,Dollars/capita,53031,2905
+Washington,King,9.57448959350586,Dollars/capita,53033,2913
+Washington,Kitsap,10.960442543029785,Dollars/capita,53035,2927
+Washington,Kittitas,9.276369094848633,Dollars/capita,53037,2932
+Washington,Klickitat,13.622293472290039,Dollars/capita,53039,2935
+Washington,Lewis,21.15595054626465,Dollars/capita,53041,2940
+Washington,Lincoln,9.119409561157227,Dollars/capita,53043,2942
+Washington,Mason,15.783886909484863,Dollars/capita,53045,2946
+Washington,Okanogan,26.10630989074707,Dollars/capita,53047,2947
+Washington,Pacific,14.968940734863281,Dollars/capita,53049,2949
+Washington,Pend Oreille,nan,Dollars/capita,53051,2951
+Washington,Pierce,16.129507064819336,Dollars/capita,53053,2956
+Washington,San Juan,6.316024303436279,Dollars/capita,53055,2957
+Washington,Skagit,17.401897430419922,Dollars/capita,53057,2958
+Washington,Skamania,nan,Dollars/capita,53059,2959
+Washington,Snohomish,10.492541313171387,Dollars/capita,53061,2960
+Washington,Spokane,17.082277297973633,Dollars/capita,53063,2961
+Washington,Stevens,11.94219970703125,Dollars/capita,53065,2963
+Washington,Thurston,12.405844688415527,Dollars/capita,53067,2967
+Washington,Wahkiakum,nan,Dollars/capita,53069,2969
+Washington,Walla Walla,17.223125457763672,Dollars/capita,53071,2970
+Washington,Whatcom,11.198319435119629,Dollars/capita,53073,2972
+Washington,Whitman,7.552059650421143,Dollars/capita,53075,2973
+Washington,Yakima,45.600547790527344,Dollars/capita,53077,2974
+West Virginia,Barbour,nan,Dollars/capita,54001,2975
+West Virginia,Berkeley,14.11943531036377,Dollars/capita,54003,2976
+West Virginia,Boone,13.785160064697266,Dollars/capita,54005,2977
+West Virginia,Braxton,24.068710327148438,Dollars/capita,54007,2978
+West Virginia,Brooke,21.353395462036133,Dollars/capita,54009,2979
+West Virginia,Cabell,17.391206741333008,Dollars/capita,54011,2980
+West Virginia,Calhoun,nan,Dollars/capita,54013,2981
+West Virginia,Clay,20.3102970123291,Dollars/capita,54015,3000
+West Virginia,Doddridge,nan,Dollars/capita,54017,3002
+West Virginia,Fayette,16.458690643310547,Dollars/capita,54019,3006
+West Virginia,Gilmer,nan,Dollars/capita,54021,3008
+West Virginia,Grant,nan,Dollars/capita,54023,3011
+West Virginia,Greenbrier,18.79225730895996,Dollars/capita,54025,3013
+West Virginia,Hampshire,15.918303489685059,Dollars/capita,54027,3016
+West Virginia,Hancock,6.845479488372803,Dollars/capita,54029,3017
+West Virginia,Hardy,nan,Dollars/capita,54031,3019
+West Virginia,Harrison,19.2697696685791,Dollars/capita,54033,3021
+West Virginia,Jackson,16.579418182373047,Dollars/capita,54035,3023
+West Virginia,Jefferson,9.20242977142334,Dollars/capita,54037,3026
+West Virginia,Kanawha,14.582584381103516,Dollars/capita,54039,3027
+West Virginia,Lewis,nan,Dollars/capita,54041,3029
+West Virginia,Lincoln,13.794856071472168,Dollars/capita,54043,3031
+West Virginia,Logan,21.867355346679688,Dollars/capita,54045,3034
+West Virginia,McDowell,21.798458099365234,Dollars/capita,54047,3037
+West Virginia,Marion,13.839902877807617,Dollars/capita,54049,3039
+West Virginia,Marshall,nan,Dollars/capita,54051,3041
+West Virginia,Mason,nan,Dollars/capita,54053,3042
+West Virginia,Mercer,20.177188873291016,Dollars/capita,54055,3044
+West Virginia,Mineral,17.989614486694336,Dollars/capita,54057,3046
+West Virginia,Mingo,7.6275129318237305,Dollars/capita,54059,3048
+West Virginia,Monongalia,9.955425262451172,Dollars/capita,54061,3050
+West Virginia,Monroe,nan,Dollars/capita,54063,3052
+West Virginia,Morgan,nan,Dollars/capita,54065,3054
+West Virginia,Nicholas,22.76913070678711,Dollars/capita,54067,3057
+West Virginia,Ohio,14.975789070129395,Dollars/capita,54069,3059
+West Virginia,Pendleton,nan,Dollars/capita,54071,3061
+West Virginia,Pleasants,nan,Dollars/capita,54073,3064
+West Virginia,Pocahontas,11.57317066192627,Dollars/capita,54075,3066
+West Virginia,Preston,10.649616241455078,Dollars/capita,54077,3068
+West Virginia,Putnam,8.321806907653809,Dollars/capita,54079,3070
+West Virginia,Raleigh,16.437999725341797,Dollars/capita,54081,3073
+West Virginia,Randolph,19.024803161621094,Dollars/capita,54083,3075
+West Virginia,Ritchie,nan,Dollars/capita,54085,3077
+West Virginia,Roane,nan,Dollars/capita,54087,3079
+West Virginia,Summers,nan,Dollars/capita,54089,3080
+West Virginia,Taylor,nan,Dollars/capita,54091,3082
+West Virginia,Tucker,nan,Dollars/capita,54093,3084
+West Virginia,Tyler,nan,Dollars/capita,54095,3085
+West Virginia,Upshur,18.54988670349121,Dollars/capita,54097,3087
+West Virginia,Wayne,12.878629684448242,Dollars/capita,54099,3089
+West Virginia,Webster,nan,Dollars/capita,54101,3091
+West Virginia,Wetzel,21.72551155090332,Dollars/capita,54103,3093
+West Virginia,Wirt,nan,Dollars/capita,54105,3095
+West Virginia,Wood,18.914701461791992,Dollars/capita,54107,3097
+West Virginia,Wyoming,13.998437881469727,Dollars/capita,54109,3099
+Wisconsin,Adams,nan,Dollars/capita,55001,3101
+Wisconsin,Ashland,20.131223678588867,Dollars/capita,55003,3104
+Wisconsin,Barron,12.468605041503906,Dollars/capita,55005,3106
+Wisconsin,Bayfield,6.667651176452637,Dollars/capita,55007,3108
+Wisconsin,Brown,13.277947425842285,Dollars/capita,55009,3111
+Wisconsin,Buffalo,nan,Dollars/capita,55011,3113
+Wisconsin,Burnett,12.966718673706055,Dollars/capita,55013,3115
+Wisconsin,Calumet,13.658435821533203,Dollars/capita,55015,3116
+Wisconsin,Chippewa,11.239629745483398,Dollars/capita,55017,3117
+Wisconsin,Clark,3.4349570274353027,Dollars/capita,55019,3119
+Wisconsin,Columbia,7.226056098937988,Dollars/capita,55021,3120
+Wisconsin,Crawford,9.086822509765625,Dollars/capita,55023,3122
+Wisconsin,Dane,5.791229248046875,Dollars/capita,55025,3124
+Wisconsin,Dodge,6.011545658111572,Dollars/capita,55027,3126
+Wisconsin,Door,8.007439613342285,Dollars/capita,55029,3131
+Wisconsin,Douglas,11.437342643737793,Dollars/capita,55031,3134
+Wisconsin,Dunn,9.075730323791504,Dollars/capita,55033,3135
+Wisconsin,Eau Claire,10.364712715148926,Dollars/capita,55035,3137
+Wisconsin,Florence,nan,Dollars/capita,55037,3138
+Wisconsin,Fond du Lac,9.735159873962402,Dollars/capita,55039,3140
+Wisconsin,Forest,12.732975006103516,Dollars/capita,55041,3141
+Wisconsin,Grant,8.254379272460938,Dollars/capita,55043,3143
+Wisconsin,Green,9.565014839172363,Dollars/capita,55045,3145
+Wisconsin,Green Lake,8.620366096496582,Dollars/capita,55047,3147
+Wisconsin,Iowa,7.022299766540527,Dollars/capita,55049,3148
+Wisconsin,Iron,4.449831962585449,Dollars/capita,55051,3151
+Wisconsin,Jackson,nan,Dollars/capita,55053,3153
+Wisconsin,Jefferson,8.249537467956543,Dollars/capita,55055,3154
+Wisconsin,Juneau,9.894286155700684,Dollars/capita,55057,3156
+Wisconsin,Kenosha,15.451217651367188,Dollars/capita,55059,3158
+Wisconsin,Kewaunee,5.153621196746826,Dollars/capita,55061,3160
+Wisconsin,La Crosse,10.52023696899414,Dollars/capita,55063,3161
+Wisconsin,Lafayette,nan,Dollars/capita,55065,3163
+Wisconsin,Langlade,13.063302993774414,Dollars/capita,55067,3165
+Wisconsin,Lincoln,8.376585960388184,Dollars/capita,55069,3166
+Wisconsin,Manitowoc,7.9748711585998535,Dollars/capita,55071,3169
+Wisconsin,Marathon,12.574009895324707,Dollars/capita,55073,3170
+Wisconsin,Marinette,10.125127792358398,Dollars/capita,55075,3172
+Wisconsin,Marquette,nan,Dollars/capita,55077,3174
+Wisconsin,Menominee,nan,Dollars/capita,55078,3175
+Wisconsin,Milwaukee,24.293500900268555,Dollars/capita,55079,3177
+Wisconsin,Monroe,12.768962860107422,Dollars/capita,55081,3179
+Wisconsin,Oconto,5.2088141441345215,Dollars/capita,55083,3181
+Wisconsin,Oneida,9.733646392822266,Dollars/capita,55085,3183
+Wisconsin,Outagamie,6.174324989318848,Dollars/capita,55087,3185
+Wisconsin,Ozaukee,2.5885579586029053,Dollars/capita,55089,3186
+Wisconsin,Pepin,nan,Dollars/capita,55091,3188
+Wisconsin,Pierce,5.902083873748779,Dollars/capita,55093,3189
+Wisconsin,Polk,9.880722999572754,Dollars/capita,55095,3191
+Wisconsin,Portage,7.365392684936523,Dollars/capita,55097,3192
+Wisconsin,Price,nan,Dollars/capita,55099,3194
+Wisconsin,Racine,17.167173385620117,Dollars/capita,55101,3195
+Wisconsin,Richland,nan,Dollars/capita,55103,3196
+Wisconsin,Rock,13.135066032409668,Dollars/capita,55105,3198
+Wisconsin,Rusk,13.180767059326172,Dollars/capita,55107,3199
+Wisconsin,St. Croix,5.269631385803223,Dollars/capita,55109,3200
+Wisconsin,Sauk,12.91495418548584,Dollars/capita,55111,3202
+Wisconsin,Sawyer,16.867395401000977,Dollars/capita,55113,3203
+Wisconsin,Shawano,13.164464950561523,Dollars/capita,55115,3205
+Wisconsin,Sheboygan,10.839645385742188,Dollars/capita,55117,3207
+Wisconsin,Taylor,11.38235092163086,Dollars/capita,55119,3208
+Wisconsin,Trempealeau,7.727048397064209,Dollars/capita,55121,3210
+Wisconsin,Vernon,6.846793174743652,Dollars/capita,55123,3213
+Wisconsin,Vilas,7.919736862182617,Dollars/capita,55125,3001
+Wisconsin,Walworth,8.138436317443848,Dollars/capita,55127,3003
+Wisconsin,Washburn,9.459637641906738,Dollars/capita,55129,3004
+Wisconsin,Washington,5.0098137855529785,Dollars/capita,55131,3005
+Wisconsin,Waukesha,4.351327896118164,Dollars/capita,55133,3007
+Wisconsin,Waupaca,9.414190292358398,Dollars/capita,55135,3009
+Wisconsin,Waushara,6.176933765411377,Dollars/capita,55137,3010
+Wisconsin,Winnebago,8.196764945983887,Dollars/capita,55139,3012
+Wisconsin,Wood,8.795307159423828,Dollars/capita,55141,3014
+Wyoming,Albany,nan,Dollars/capita,56001,3015
+Wyoming,Big Horn,nan,Dollars/capita,56003,3018
+Wyoming,Campbell,12.27632999420166,Dollars/capita,56005,3020
+Wyoming,Carbon,9.576905250549316,Dollars/capita,56007,3022
+Wyoming,Converse,nan,Dollars/capita,56009,3024
+Wyoming,Crook,5.749245643615723,Dollars/capita,56011,3025
+Wyoming,Fremont,9.286049842834473,Dollars/capita,56013,3028
+Wyoming,Goshen,nan,Dollars/capita,56015,3030
+Wyoming,Hot Springs,nan,Dollars/capita,56017,3032
+Wyoming,Johnson,nan,Dollars/capita,56019,3033
+Wyoming,Laramie,12.324017524719238,Dollars/capita,56021,3035
+Wyoming,Lincoln,7.569813251495361,Dollars/capita,56023,3036
+Wyoming,Natrona,10.580421447753906,Dollars/capita,56025,3038
+Wyoming,Niobrara,nan,Dollars/capita,56027,3040
+Wyoming,Park,9.203454971313477,Dollars/capita,56029,3043
+Wyoming,Platte,8.126266479492188,Dollars/capita,56031,3045
+Wyoming,Sheridan,nan,Dollars/capita,56033,3047
+Wyoming,Sublette,nan,Dollars/capita,56035,3049
+Wyoming,Sweetwater,9.948467254638672,Dollars/capita,56037,3051
+Wyoming,Teton,nan,Dollars/capita,56039,3053
+Wyoming,Uinta,nan,Dollars/capita,56041,3055
+Wyoming,Washakie,nan,Dollars/capita,56043,3056
+Wyoming,Weston,nan,Dollars/capita,56045,3058
