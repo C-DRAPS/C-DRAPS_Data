@@ -66,42 +66,42 @@ Alabama,Walker,503.0,"1,000 dollars",1127.0,317
 Alabama,Washington,20.0,"1,000 dollars",1129.0,319
 Alabama,Wilcox,34.0,"1,000 dollars",1131.0,326
 Alabama,Winston,58.0,"1,000 dollars",1133.0,332
-Alaska,Aleutians East,nan,"1,000 dollars",2013.0,346
-Alaska,Aleutians West,nan,"1,000 dollars",2016.0,381
+Alaska,Aleutians East,0,"1,000 dollars",2013.0,346
+Alaska,Aleutians West,0,"1,000 dollars",2016.0,381
 Alaska,Anchorage,946.0,"1,000 dollars",2020.0,400
-Alaska,Bethel,nan,"1,000 dollars",2050.0,411
-Alaska,Bristol Bay,nan,"1,000 dollars",2060.0,423
-Alaska,Denali,nan,"1,000 dollars",2068.0,426
-Alaska,Dillingham,nan,"1,000 dollars",2070.0,445
+Alaska,Bethel,0,"1,000 dollars",2050.0,411
+Alaska,Bristol Bay,0,"1,000 dollars",2060.0,423
+Alaska,Denali,0,"1,000 dollars",2068.0,426
+Alaska,Dillingham,0,"1,000 dollars",2070.0,445
 Alaska,Fairbanks North Star,729.0,"1,000 dollars",2090.0,454
-Alaska,Haines,nan,"1,000 dollars",2100.0,462
-Alaska,Hoonah-Angoon,nan,"1,000 dollars",2105.0,476
+Alaska,Haines,0,"1,000 dollars",2100.0,462
+Alaska,Hoonah-Angoon,0,"1,000 dollars",2105.0,476
 Alaska,Juneau,87.0,"1,000 dollars",2110.0,482
 Alaska,Kenai Peninsula,312.0,"1,000 dollars",2122.0,494
-Alaska,Ketchikan Gateway,nan,"1,000 dollars",2130.0,514
-Alaska,Kodiak Island,nan,"1,000 dollars",2150.0,533
-Alaska,Lake and Peninsula,nan,"1,000 dollars",2164.0,544
-Alaska,Matanuska-Susitna,nan,"1,000 dollars",2170.0,556
-Alaska,Nome,nan,"1,000 dollars",2180.0,571
-Alaska,North Slope,nan,"1,000 dollars",2185.0,614
-Alaska,Northwest Arctic,nan,"1,000 dollars",2188.0,638
-Alaska,Petersburg,nan,"1,000 dollars",2195.0,645
-Alaska,Prince of Wales-Hyder,nan,"1,000 dollars",2198.0,669
-Alaska,Sitka,nan,"1,000 dollars",2220.0,679
-Alaska,Skagway,nan,"1,000 dollars",2230.0,683
-Alaska,Southeast Fairbanks,nan,"1,000 dollars",2240.0,690
-Alaska,Valdez-Cordova,nan,"1,000 dollars",2261.0,710
-Alaska,Wade Hampton,nan,"1,000 dollars",2270.0,725
-Alaska,Wrangell,nan,"1,000 dollars",2275.0,733
-Alaska,Yakutat,nan,"1,000 dollars",2282.0,744
-Alaska,Yukon-Koyukuk,nan,"1,000 dollars",2290.0,753
+Alaska,Ketchikan Gateway,0,"1,000 dollars",2130.0,514
+Alaska,Kodiak Island,0,"1,000 dollars",2150.0,533
+Alaska,Lake and Peninsula,0,"1,000 dollars",2164.0,544
+Alaska,Matanuska-Susitna,0,"1,000 dollars",2170.0,556
+Alaska,Nome,0,"1,000 dollars",2180.0,571
+Alaska,North Slope,0,"1,000 dollars",2185.0,614
+Alaska,Northwest Arctic,0,"1,000 dollars",2188.0,638
+Alaska,Petersburg,0,"1,000 dollars",2195.0,645
+Alaska,Prince of Wales-Hyder,0,"1,000 dollars",2198.0,669
+Alaska,Sitka,0,"1,000 dollars",2220.0,679
+Alaska,Skagway,0,"1,000 dollars",2230.0,683
+Alaska,Southeast Fairbanks,0,"1,000 dollars",2240.0,690
+Alaska,Valdez-Cordova,0,"1,000 dollars",2261.0,710
+Alaska,Wade Hampton,0,"1,000 dollars",2270.0,725
+Alaska,Wrangell,0,"1,000 dollars",2275.0,733
+Alaska,Yakutat,0,"1,000 dollars",2282.0,744
+Alaska,Yukon-Koyukuk,0,"1,000 dollars",2290.0,753
 Arizona,Apache,126.0,"1,000 dollars",4001.0,761
 Arizona,Cochise,1148.0,"1,000 dollars",4003.0,763
 Arizona,Coconino,1037.0,"1,000 dollars",4005.0,771
 Arizona,Gila,37.0,"1,000 dollars",4007.0,787
 Arizona,Graham,125.0,"1,000 dollars",4009.0,0
-Arizona,Greenlee,nan,"1,000 dollars",4011.0,1
-Arizona,La Paz,nan,"1,000 dollars",4012.0,3
+Arizona,Greenlee,0,"1,000 dollars",4011.0,1
+Arizona,La Paz,0,"1,000 dollars",4012.0,3
 Arizona,Maricopa,2041.0,"1,000 dollars",4013.0,9
 Arizona,Mohave,219.0,"1,000 dollars",4015.0,15
 Arizona,Navajo,318.0,"1,000 dollars",4017.0,17
@@ -116,11 +116,11 @@ Arkansas,Baxter,75.0,"1,000 dollars",5005.0,54
 Arkansas,Benton,291.0,"1,000 dollars",5007.0,59
 Arkansas,Boone,170.0,"1,000 dollars",5009.0,62
 Arkansas,Bradley,44.0,"1,000 dollars",5011.0,68
-Arkansas,Calhoun,nan,"1,000 dollars",5013.0,72
+Arkansas,Calhoun,0,"1,000 dollars",5013.0,72
 Arkansas,Carroll,129.0,"1,000 dollars",5015.0,74
-Arkansas,Chicot,nan,"1,000 dollars",5017.0,77
+Arkansas,Chicot,0,"1,000 dollars",5017.0,77
 Arkansas,Clark,18.0,"1,000 dollars",5019.0,86
-Arkansas,Clay,nan,"1,000 dollars",5021.0,93
+Arkansas,Clay,0,"1,000 dollars",5021.0,93
 Arkansas,Cleburne,16.0,"1,000 dollars",5023.0,97
 Arkansas,Cleveland,0.0,"1,000 dollars",5025.0,103
 Arkansas,Columbia,6.0,"1,000 dollars",5027.0,107
@@ -130,7 +130,7 @@ Arkansas,Crawford,154.0,"1,000 dollars",5033.0,115
 Arkansas,Crittenden,49.0,"1,000 dollars",5035.0,119
 Arkansas,Cross,106.0,"1,000 dollars",5037.0,124
 Arkansas,Dallas,9.0,"1,000 dollars",5039.0,128
-Arkansas,Desha,nan,"1,000 dollars",5041.0,130
+Arkansas,Desha,0,"1,000 dollars",5041.0,130
 Arkansas,Drew,32.0,"1,000 dollars",5043.0,136
 Arkansas,Faulkner,338.0,"1,000 dollars",5045.0,141
 Arkansas,Franklin,112.0,"1,000 dollars",5047.0,144
@@ -148,8 +148,8 @@ Arkansas,Jefferson,56.0,"1,000 dollars",5069.0,213
 Arkansas,Johnson,206.0,"1,000 dollars",5071.0,218
 Arkansas,Lafayette,132.0,"1,000 dollars",5073.0,222
 Arkansas,Lawrence,64.0,"1,000 dollars",5075.0,230
-Arkansas,Lee,nan,"1,000 dollars",5077.0,237
-Arkansas,Lincoln,nan,"1,000 dollars",5079.0,244
+Arkansas,Lee,0,"1,000 dollars",5077.0,237
+Arkansas,Lincoln,0,"1,000 dollars",5079.0,244
 Arkansas,Little River,24.0,"1,000 dollars",5081.0,251
 Arkansas,Logan,76.0,"1,000 dollars",5083.0,258
 Arkansas,Lonoke,633.0,"1,000 dollars",5085.0,268
@@ -210,7 +210,7 @@ California,Mariposa,71.0,"1,000 dollars",6043.0,178
 California,Mendocino,1561.0,"1,000 dollars",6045.0,190
 California,Merced,11543.0,"1,000 dollars",6047.0,204
 California,Modoc,152.0,"1,000 dollars",6049.0,207
-California,Mono,nan,"1,000 dollars",6051.0,214
+California,Mono,0,"1,000 dollars",6051.0,214
 California,Monterey,2449.0,"1,000 dollars",6053.0,228
 California,Napa,1379.0,"1,000 dollars",6055.0,236
 California,Nevada,933.0,"1,000 dollars",6057.0,243
@@ -222,7 +222,7 @@ California,Sacramento,3911.0,"1,000 dollars",6067.0,289
 California,San Benito,1827.0,"1,000 dollars",6069.0,295
 California,San Bernardino,3256.0,"1,000 dollars",6071.0,302
 California,San Diego,11379.0,"1,000 dollars",6073.0,315
-California,San Francisco,nan,"1,000 dollars",6075.0,331
+California,San Francisco,0,"1,000 dollars",6075.0,331
 California,San Joaquin,8919.0,"1,000 dollars",6077.0,339
 California,San Luis Obispo,5884.0,"1,000 dollars",6079.0,351
 California,San Mateo,1098.0,"1,000 dollars",6081.0,368
@@ -230,7 +230,7 @@ California,Santa Barbara,6285.0,"1,000 dollars",6083.0,391
 California,Santa Clara,3598.0,"1,000 dollars",6085.0,406
 California,Santa Cruz,7786.0,"1,000 dollars",6087.0,415
 California,Shasta,777.0,"1,000 dollars",6089.0,431
-California,Sierra,nan,"1,000 dollars",6091.0,439
+California,Sierra,0,"1,000 dollars",6091.0,439
 California,Siskiyou,449.0,"1,000 dollars",6093.0,446
 California,Solano,2701.0,"1,000 dollars",6095.0,453
 California,Sonoma,8153.0,"1,000 dollars",6097.0,463
@@ -253,13 +253,13 @@ Colorado,Boulder,1753.0,"1,000 dollars",8013.0,570
 Colorado,Broomfield,0.0,"1,000 dollars",8014.0,577
 Colorado,Chaffee,129.0,"1,000 dollars",8015.0,582
 Colorado,Cheyenne,25.0,"1,000 dollars",8017.0,587
-Colorado,Clear Creek,nan,"1,000 dollars",8019.0,591
+Colorado,Clear Creek,0,"1,000 dollars",8019.0,591
 Colorado,Conejos,58.0,"1,000 dollars",8021.0,596
 Colorado,Costilla,38.0,"1,000 dollars",8023.0,599
 Colorado,Crowley,92.0,"1,000 dollars",8025.0,605
 Colorado,Custer,7.0,"1,000 dollars",8027.0,610
 Colorado,Delta,1655.0,"1,000 dollars",8029.0,617
-Colorado,Denver,nan,"1,000 dollars",8031.0,628
+Colorado,Denver,0,"1,000 dollars",8031.0,628
 Colorado,Dolores,31.0,"1,000 dollars",8033.0,636
 Colorado,Douglas,350.0,"1,000 dollars",8035.0,644
 Colorado,Eagle,113.0,"1,000 dollars",8037.0,648
@@ -302,7 +302,7 @@ Colorado,Saguache,70.0,"1,000 dollars",8109.0,811
 Colorado,San Juan,0.0,"1,000 dollars",8111.0,347
 Colorado,San Miguel,84.0,"1,000 dollars",8113.0,359
 Colorado,Sedgwick,21.0,"1,000 dollars",8115.0,366
-Colorado,Summit,nan,"1,000 dollars",8117.0,373
+Colorado,Summit,0,"1,000 dollars",8117.0,373
 Colorado,Teller,86.0,"1,000 dollars",8119.0,375
 Colorado,Washington,57.0,"1,000 dollars",8121.0,377
 Colorado,Weld,1759.0,"1,000 dollars",8123.0,382
@@ -318,7 +318,7 @@ Connecticut,Windham,2425.0,"1,000 dollars",9015.0,529
 Delaware,Kent,1078.0,"1,000 dollars",10001.0,532
 Delaware,New Castle,492.0,"1,000 dollars",10003.0,536
 Delaware,Sussex,2731.0,"1,000 dollars",10005.0,609
-District of Columbia,District of Columbia,nan,"1,000 dollars",11001.0,630
+District of Columbia,District of Columbia,0,"1,000 dollars",11001.0,630
 Florida,Alachua,688.0,"1,000 dollars",12001.0,639
 Florida,Baker,143.0,"1,000 dollars",12003.0,641
 Florida,Bay,27.0,"1,000 dollars",12005.0,658
@@ -336,11 +336,11 @@ Florida,Dixie,10.0,"1,000 dollars",12029.0,918
 Florida,Duval,86.0,"1,000 dollars",12031.0,924
 Florida,Escambia,298.0,"1,000 dollars",12033.0,931
 Florida,Flagler,22.0,"1,000 dollars",12035.0,935
-Florida,Franklin,nan,"1,000 dollars",12037.0,937
+Florida,Franklin,0,"1,000 dollars",12037.0,937
 Florida,Gadsden,58.0,"1,000 dollars",12039.0,938
 Florida,Gilchrist,337.0,"1,000 dollars",12041.0,939
 Florida,Glades,25.0,"1,000 dollars",12043.0,940
-Florida,Gulf,nan,"1,000 dollars",12045.0,941
+Florida,Gulf,0,"1,000 dollars",12045.0,941
 Florida,Hamilton,18.0,"1,000 dollars",12047.0,942
 Florida,Hardee,170.0,"1,000 dollars",12049.0,943
 Florida,Hendry,137.0,"1,000 dollars",12051.0,944
@@ -354,7 +354,7 @@ Florida,Jefferson,143.0,"1,000 dollars",12065.0,951
 Florida,Lafayette,25.0,"1,000 dollars",12067.0,952
 Florida,Lake,1683.0,"1,000 dollars",12069.0,953
 Florida,Lee,956.0,"1,000 dollars",12071.0,954
-Florida,Leon,nan,"1,000 dollars",12073.0,955
+Florida,Leon,0,"1,000 dollars",12073.0,955
 Florida,Levy,160.0,"1,000 dollars",12075.0,956
 Florida,Liberty,0.0,"1,000 dollars",12077.0,957
 Florida,Madison,37.0,"1,000 dollars",12079.0,958
@@ -362,7 +362,7 @@ Florida,Manatee,599.0,"1,000 dollars",12081.0,959
 Florida,Marion,508.0,"1,000 dollars",12083.0,960
 Florida,Martin,196.0,"1,000 dollars",12085.0,961
 Florida,Miami-Dade,2727.0,"1,000 dollars",12086.0,962
-Florida,Monroe,nan,"1,000 dollars",12087.0,963
+Florida,Monroe,0,"1,000 dollars",12087.0,963
 Florida,Nassau,50.0,"1,000 dollars",12089.0,964
 Florida,Okaloosa,71.0,"1,000 dollars",12091.0,965
 Florida,Okeechobee,295.0,"1,000 dollars",12093.0,966
@@ -386,16 +386,16 @@ Florida,Volusia,229.0,"1,000 dollars",12127.0,983
 Florida,Wakulla,58.0,"1,000 dollars",12129.0,984
 Florida,Walton,64.0,"1,000 dollars",12131.0,985
 Florida,Washington,174.0,"1,000 dollars",12133.0,986
-Georgia,Appling,nan,"1,000 dollars",13001.0,987
+Georgia,Appling,0,"1,000 dollars",13001.0,987
 Georgia,Atkinson,20.0,"1,000 dollars",13003.0,988
 Georgia,Bacon,5.0,"1,000 dollars",13005.0,989
-Georgia,Baker,nan,"1,000 dollars",13007.0,990
+Georgia,Baker,0,"1,000 dollars",13007.0,990
 Georgia,Baldwin,61.0,"1,000 dollars",13009.0,991
 Georgia,Banks,33.0,"1,000 dollars",13011.0,992
 Georgia,Barrow,37.0,"1,000 dollars",13013.0,993
 Georgia,Bartow,26.0,"1,000 dollars",13015.0,994
 Georgia,Ben Hill,15.0,"1,000 dollars",13017.0,995
-Georgia,Berrien,nan,"1,000 dollars",13019.0,996
+Georgia,Berrien,0,"1,000 dollars",13019.0,996
 Georgia,Bibb,15.0,"1,000 dollars",13021.0,997
 Georgia,Bleckley,19.0,"1,000 dollars",13023.0,998
 Georgia,Brantley,262.0,"1,000 dollars",13025.0,999
@@ -417,7 +417,7 @@ Georgia,Cherokee,86.0,"1,000 dollars",13057.0,662
 Georgia,Clarke,17.0,"1,000 dollars",13059.0,666
 Georgia,Clay,0.0,"1,000 dollars",13061.0,670
 Georgia,Clayton,0.0,"1,000 dollars",13063.0,673
-Georgia,Clinch,nan,"1,000 dollars",13065.0,676
+Georgia,Clinch,0,"1,000 dollars",13065.0,676
 Georgia,Cobb,102.0,"1,000 dollars",13067.0,680
 Georgia,Coffee,53.0,"1,000 dollars",13069.0,684
 Georgia,Colquitt,61.0,"1,000 dollars",13071.0,689
@@ -425,16 +425,16 @@ Georgia,Columbia,42.0,"1,000 dollars",13073.0,692
 Georgia,Cook,15.0,"1,000 dollars",13075.0,697
 Georgia,Coweta,109.0,"1,000 dollars",13077.0,700
 Georgia,Crawford,483.0,"1,000 dollars",13079.0,704
-Georgia,Crisp,nan,"1,000 dollars",13081.0,707
+Georgia,Crisp,0,"1,000 dollars",13081.0,707
 Georgia,Dade,36.0,"1,000 dollars",13083.0,708
 Georgia,Dawson,5.0,"1,000 dollars",13085.0,713
 Georgia,Decatur,12.0,"1,000 dollars",13087.0,714
 Georgia,DeKalb,32.0,"1,000 dollars",13089.0,718
 Georgia,Dodge,34.0,"1,000 dollars",13091.0,720
 Georgia,Dooly,21.0,"1,000 dollars",13093.0,724
-Georgia,Dougherty,nan,"1,000 dollars",13095.0,728
+Georgia,Dougherty,0,"1,000 dollars",13095.0,728
 Georgia,Douglas,130.0,"1,000 dollars",13097.0,731
-Georgia,Early,nan,"1,000 dollars",13099.0,735
+Georgia,Early,0,"1,000 dollars",13099.0,735
 Georgia,Echols,2.0,"1,000 dollars",13101.0,737
 Georgia,Effingham,57.0,"1,000 dollars",13103.0,742
 Georgia,Elbert,39.0,"1,000 dollars",13105.0,746
@@ -447,7 +447,7 @@ Georgia,Forsyth,145.0,"1,000 dollars",13117.0,768
 Georgia,Franklin,55.0,"1,000 dollars",13119.0,772
 Georgia,Fulton,394.0,"1,000 dollars",13121.0,779
 Georgia,Gilmer,369.0,"1,000 dollars",13123.0,781
-Georgia,Glascock,nan,"1,000 dollars",13125.0,783
+Georgia,Glascock,0,"1,000 dollars",13125.0,783
 Georgia,Glynn,15.0,"1,000 dollars",13127.0,793
 Georgia,Gordon,162.0,"1,000 dollars",13129.0,796
 Georgia,Grady,16.0,"1,000 dollars",13131.0,797
@@ -467,7 +467,7 @@ Georgia,Jackson,301.0,"1,000 dollars",13157.0,828
 Georgia,Jasper,40.0,"1,000 dollars",13159.0,830
 Georgia,Jeff Davis,36.0,"1,000 dollars",13161.0,832
 Georgia,Jefferson,98.0,"1,000 dollars",13163.0,834
-Georgia,Jenkins,nan,"1,000 dollars",13165.0,835
+Georgia,Jenkins,0,"1,000 dollars",13165.0,835
 Georgia,Johnson,10.0,"1,000 dollars",13167.0,837
 Georgia,Jones,30.0,"1,000 dollars",13169.0,839
 Georgia,Lamar,25.0,"1,000 dollars",13171.0,841
@@ -475,7 +475,7 @@ Georgia,Lanier,1.0,"1,000 dollars",13173.0,845
 Georgia,Laurens,53.0,"1,000 dollars",13175.0,847
 Georgia,Lee,6.0,"1,000 dollars",13177.0,849
 Georgia,Liberty,4.0,"1,000 dollars",13179.0,855
-Georgia,Lincoln,nan,"1,000 dollars",13181.0,857
+Georgia,Lincoln,0,"1,000 dollars",13181.0,857
 Georgia,Long,15.0,"1,000 dollars",13183.0,860
 Georgia,Lowndes,48.0,"1,000 dollars",13185.0,863
 Georgia,Lumpkin,7.0,"1,000 dollars",13187.0,865
@@ -502,13 +502,13 @@ Georgia,Pierce,22.0,"1,000 dollars",13229.0,915
 Georgia,Pike,231.0,"1,000 dollars",13231.0,7
 Georgia,Polk,49.0,"1,000 dollars",13233.0,8
 Georgia,Pulaski,59.0,"1,000 dollars",13235.0,11
-Georgia,Putnam,nan,"1,000 dollars",13237.0,13
+Georgia,Putnam,0,"1,000 dollars",13237.0,13
 Georgia,Quitman,0.0,"1,000 dollars",13239.0,16
 Georgia,Rabun,118.0,"1,000 dollars",13241.0,18
-Georgia,Randolph,nan,"1,000 dollars",13243.0,23
+Georgia,Randolph,0,"1,000 dollars",13243.0,23
 Georgia,Richmond,2.0,"1,000 dollars",13245.0,24
 Georgia,Rockdale,27.0,"1,000 dollars",13247.0,28
-Georgia,Schley,nan,"1,000 dollars",13249.0,31
+Georgia,Schley,0,"1,000 dollars",13249.0,31
 Georgia,Screven,92.0,"1,000 dollars",13251.0,34
 Georgia,Seminole,0.0,"1,000 dollars",13253.0,38
 Georgia,Spalding,34.0,"1,000 dollars",13255.0,41
@@ -520,11 +520,11 @@ Georgia,Taliaferro,20.0,"1,000 dollars",13265.0,60
 Georgia,Tattnall,238.0,"1,000 dollars",13267.0,63
 Georgia,Taylor,22.0,"1,000 dollars",13269.0,69
 Georgia,Telfair,19.0,"1,000 dollars",13271.0,75
-Georgia,Terrell,nan,"1,000 dollars",13273.0,78
+Georgia,Terrell,0,"1,000 dollars",13273.0,78
 Georgia,Thomas,88.0,"1,000 dollars",13275.0,83
-Georgia,Tift,nan,"1,000 dollars",13277.0,87
+Georgia,Tift,0,"1,000 dollars",13277.0,87
 Georgia,Toombs,29.0,"1,000 dollars",13279.0,91
-Georgia,Towns,nan,"1,000 dollars",13281.0,95
+Georgia,Towns,0,"1,000 dollars",13281.0,95
 Georgia,Treutlen,82.0,"1,000 dollars",13283.0,102
 Georgia,Troup,11.0,"1,000 dollars",13285.0,105
 Georgia,Turner,81.0,"1,000 dollars",13287.0,108
@@ -534,11 +534,11 @@ Georgia,Upson,105.0,"1,000 dollars",13293.0,123
 Georgia,Walker,97.0,"1,000 dollars",13295.0,126
 Georgia,Walton,141.0,"1,000 dollars",13297.0,127
 Georgia,Ware,54.0,"1,000 dollars",13299.0,132
-Georgia,Warren,nan,"1,000 dollars",13301.0,135
+Georgia,Warren,0,"1,000 dollars",13301.0,135
 Georgia,Washington,14.0,"1,000 dollars",13303.0,143
 Georgia,Wayne,35.0,"1,000 dollars",13305.0,147
-Georgia,Webster,nan,"1,000 dollars",13307.0,149
-Georgia,Wheeler,nan,"1,000 dollars",13309.0,154
+Georgia,Webster,0,"1,000 dollars",13307.0,149
+Georgia,Wheeler,0,"1,000 dollars",13309.0,154
 Georgia,White,103.0,"1,000 dollars",13311.0,157
 Georgia,Whitfield,47.0,"1,000 dollars",13313.0,159
 Georgia,Wilcox,175.0,"1,000 dollars",13315.0,163
@@ -547,7 +547,7 @@ Georgia,Wilkinson,146.0,"1,000 dollars",13319.0,169
 Georgia,Worth,7.0,"1,000 dollars",13321.0,173
 Hawaii,Hawaii,6029.0,"1,000 dollars",15001.0,198
 Hawaii,Honolulu,3244.0,"1,000 dollars",15003.0,234
-Hawaii,Kalawao,nan,"1,000 dollars",15005.0,247
+Hawaii,Kalawao,0,"1,000 dollars",15005.0,247
 Hawaii,Kauai,1278.0,"1,000 dollars",15007.0,261
 Hawaii,Maui,2664.0,"1,000 dollars",15009.0,323
 Idaho,Ada,1230.0,"1,000 dollars",16001.0,336
@@ -561,7 +561,7 @@ Idaho,Boise,29.0,"1,000 dollars",16015.0,380
 Idaho,Bonner,397.0,"1,000 dollars",16017.0,387
 Idaho,Bonneville,217.0,"1,000 dollars",16019.0,395
 Idaho,Boundary,114.0,"1,000 dollars",16021.0,405
-Idaho,Butte,nan,"1,000 dollars",16023.0,414
+Idaho,Butte,0,"1,000 dollars",16023.0,414
 Idaho,Camas,98.0,"1,000 dollars",16025.0,429
 Idaho,Canyon,1249.0,"1,000 dollars",16027.0,441
 Idaho,Caribou,350.0,"1,000 dollars",16029.0,449
@@ -580,7 +580,7 @@ Idaho,Jerome,84.0,"1,000 dollars",16053.0,547
 Idaho,Kootenai,431.0,"1,000 dollars",16055.0,552
 Idaho,Latah,291.0,"1,000 dollars",16057.0,559
 Idaho,Lemhi,102.0,"1,000 dollars",16059.0,566
-Idaho,Lewis,nan,"1,000 dollars",16061.0,574
+Idaho,Lewis,0,"1,000 dollars",16061.0,574
 Idaho,Lincoln,55.0,"1,000 dollars",16063.0,578
 Idaho,Madison,69.0,"1,000 dollars",16065.0,581
 Idaho,Minidoka,62.0,"1,000 dollars",16067.0,585
@@ -595,7 +595,7 @@ Idaho,Twin Falls,397.0,"1,000 dollars",16083.0,634
 Idaho,Valley,32.0,"1,000 dollars",16085.0,643
 Idaho,Washington,378.0,"1,000 dollars",16087.0,649
 Illinois,Adams,290.0,"1,000 dollars",17001.0,650
-Illinois,Alexander,nan,"1,000 dollars",17003.0,651
+Illinois,Alexander,0,"1,000 dollars",17003.0,651
 Illinois,Bond,34.0,"1,000 dollars",17005.0,652
 Illinois,Boone,1502.0,"1,000 dollars",17007.0,653
 Illinois,Brown,42.0,"1,000 dollars",17009.0,654
@@ -628,8 +628,8 @@ Illinois,Greene,168.0,"1,000 dollars",17061.0,96
 Illinois,Grundy,74.0,"1,000 dollars",17063.0,99
 Illinois,Hamilton,34.0,"1,000 dollars",17065.0,106
 Illinois,Hancock,18.0,"1,000 dollars",17067.0,111
-Illinois,Hardin,nan,"1,000 dollars",17069.0,113
-Illinois,Henderson,nan,"1,000 dollars",17071.0,117
+Illinois,Hardin,0,"1,000 dollars",17069.0,113
+Illinois,Henderson,0,"1,000 dollars",17071.0,117
 Illinois,Henry,175.0,"1,000 dollars",17073.0,121
 Illinois,Iroquois,295.0,"1,000 dollars",17075.0,125
 Illinois,Jackson,173.0,"1,000 dollars",17077.0,129
@@ -669,9 +669,9 @@ Illinois,Peoria,476.0,"1,000 dollars",17143.0,233
 Illinois,Perry,118.0,"1,000 dollars",17145.0,235
 Illinois,Piatt,38.0,"1,000 dollars",17147.0,238
 Illinois,Pike,30.0,"1,000 dollars",17149.0,241
-Illinois,Pope,nan,"1,000 dollars",17151.0,245
+Illinois,Pope,0,"1,000 dollars",17151.0,245
 Illinois,Pulaski,10.0,"1,000 dollars",17153.0,248
-Illinois,Putnam,nan,"1,000 dollars",17155.0,253
+Illinois,Putnam,0,"1,000 dollars",17155.0,253
 Illinois,Randolph,69.0,"1,000 dollars",17157.0,255
 Illinois,Richland,78.0,"1,000 dollars",17159.0,259
 Illinois,Rock Island,200.0,"1,000 dollars",17161.0,265
@@ -679,14 +679,14 @@ Illinois,St. Clair,152.0,"1,000 dollars",17163.0,269
 Illinois,Saline,5.0,"1,000 dollars",17165.0,271
 Illinois,Sangamon,398.0,"1,000 dollars",17167.0,274
 Illinois,Schuyler,9.0,"1,000 dollars",17169.0,278
-Illinois,Scott,nan,"1,000 dollars",17171.0,280
+Illinois,Scott,0,"1,000 dollars",17171.0,280
 Illinois,Shelby,99.0,"1,000 dollars",17173.0,283
 Illinois,Stark,250.0,"1,000 dollars",17175.0,285
 Illinois,Stephenson,137.0,"1,000 dollars",17177.0,290
 Illinois,Tazewell,270.0,"1,000 dollars",17179.0,291
 Illinois,Union,733.0,"1,000 dollars",17181.0,293
 Illinois,Vermilion,94.0,"1,000 dollars",17183.0,296
-Illinois,Wabash,nan,"1,000 dollars",17185.0,299
+Illinois,Wabash,0,"1,000 dollars",17185.0,299
 Illinois,Warren,49.0,"1,000 dollars",17187.0,301
 Illinois,Washington,108.0,"1,000 dollars",17189.0,305
 Illinois,Wayne,35.0,"1,000 dollars",17191.0,310
@@ -758,7 +758,7 @@ Indiana,Orange,79.0,"1,000 dollars",18117.0,444
 Indiana,Owen,85.0,"1,000 dollars",18119.0,448
 Indiana,Parke,475.0,"1,000 dollars",18121.0,452
 Indiana,Perry,126.0,"1,000 dollars",18123.0,459
-Indiana,Pike,nan,"1,000 dollars",18125.0,465
+Indiana,Pike,0,"1,000 dollars",18125.0,465
 Indiana,Porter,228.0,"1,000 dollars",18127.0,468
 Indiana,Posey,79.0,"1,000 dollars",18129.0,471
 Indiana,Pulaski,54.0,"1,000 dollars",18131.0,477
@@ -773,12 +773,12 @@ Indiana,Spencer,231.0,"1,000 dollars",18147.0,509
 Indiana,Starke,132.0,"1,000 dollars",18149.0,512
 Indiana,Steuben,170.0,"1,000 dollars",18151.0,515
 Indiana,Sullivan,115.0,"1,000 dollars",18153.0,518
-Indiana,Switzerland,nan,"1,000 dollars",18155.0,526
+Indiana,Switzerland,0,"1,000 dollars",18155.0,526
 Indiana,Tippecanoe,853.0,"1,000 dollars",18157.0,530
 Indiana,Tipton,37.0,"1,000 dollars",18159.0,534
 Indiana,Union,25.0,"1,000 dollars",18161.0,538
 Indiana,Vanderburgh,723.0,"1,000 dollars",18163.0,543
-Indiana,Vermillion,nan,"1,000 dollars",18165.0,548
+Indiana,Vermillion,0,"1,000 dollars",18165.0,548
 Indiana,Vigo,133.0,"1,000 dollars",18167.0,553
 Indiana,Wabash,314.0,"1,000 dollars",18169.0,555
 Indiana,Warren,15.0,"1,000 dollars",18171.0,567
@@ -906,7 +906,7 @@ Kansas,Coffey,96.0,"1,000 dollars",20031.0,745
 Kansas,Comanche,11.0,"1,000 dollars",20033.0,748
 Kansas,Cowley,188.0,"1,000 dollars",20035.0,752
 Kansas,Crawford,82.0,"1,000 dollars",20037.0,756
-Kansas,Decatur,nan,"1,000 dollars",20039.0,759
+Kansas,Decatur,0,"1,000 dollars",20039.0,759
 Kansas,Dickinson,48.0,"1,000 dollars",20041.0,762
 Kansas,Doniphan,47.0,"1,000 dollars",20043.0,765
 Kansas,Douglas,497.0,"1,000 dollars",20045.0,767
@@ -919,7 +919,7 @@ Kansas,Ford,21.0,"1,000 dollars",20057.0,784
 Kansas,Franklin,115.0,"1,000 dollars",20059.0,786
 Kansas,Geary,11.0,"1,000 dollars",20061.0,788
 Kansas,Gove,93.0,"1,000 dollars",20063.0,790
-Kansas,Graham,nan,"1,000 dollars",20065.0,791
+Kansas,Graham,0,"1,000 dollars",20065.0,791
 Kansas,Grant,15.0,"1,000 dollars",20067.0,794
 Kansas,Gray,16.0,"1,000 dollars",20069.0,798
 Kansas,Greeley,19.0,"1,000 dollars",20071.0,801
@@ -941,7 +941,7 @@ Kansas,Lane,8.0,"1,000 dollars",20101.0,833
 Kansas,Leavenworth,314.0,"1,000 dollars",20103.0,836
 Kansas,Lincoln,10.0,"1,000 dollars",20105.0,838
 Kansas,Linn,102.0,"1,000 dollars",20107.0,840
-Kansas,Logan,nan,"1,000 dollars",20109.0,842
+Kansas,Logan,0,"1,000 dollars",20109.0,842
 Kansas,Lyon,164.0,"1,000 dollars",20111.0,844
 Kansas,McPherson,155.0,"1,000 dollars",20113.0,846
 Kansas,Marion,84.0,"1,000 dollars",20115.0,848
@@ -972,23 +972,23 @@ Kansas,Rooks,42.0,"1,000 dollars",20163.0,889
 Kansas,Rush,37.0,"1,000 dollars",20165.0,891
 Kansas,Russell,10.0,"1,000 dollars",20167.0,893
 Kansas,Saline,46.0,"1,000 dollars",20169.0,895
-Kansas,Scott,nan,"1,000 dollars",20171.0,897
+Kansas,Scott,0,"1,000 dollars",20171.0,897
 Kansas,Sedgwick,429.0,"1,000 dollars",20173.0,898
 Kansas,Seward,8.0,"1,000 dollars",20175.0,900
 Kansas,Shawnee,176.0,"1,000 dollars",20177.0,902
 Kansas,Sheridan,12.0,"1,000 dollars",20179.0,904
-Kansas,Sherman,nan,"1,000 dollars",20181.0,907
-Kansas,Smith,nan,"1,000 dollars",20183.0,909
+Kansas,Sherman,0,"1,000 dollars",20181.0,907
+Kansas,Smith,0,"1,000 dollars",20183.0,909
 Kansas,Stafford,20.0,"1,000 dollars",20185.0,911
-Kansas,Stanton,nan,"1,000 dollars",20187.0,913
-Kansas,Stevens,nan,"1,000 dollars",20189.0,914
+Kansas,Stanton,0,"1,000 dollars",20187.0,913
+Kansas,Stevens,0,"1,000 dollars",20189.0,914
 Kansas,Sumner,80.0,"1,000 dollars",20191.0,916
 Kansas,Thomas,51.0,"1,000 dollars",20193.0,917
 Kansas,Trego,1.0,"1,000 dollars",20195.0,919
 Kansas,Wabaunsee,36.0,"1,000 dollars",20197.0,920
 Kansas,Wallace,0.0,"1,000 dollars",20199.0,921
 Kansas,Washington,53.0,"1,000 dollars",20201.0,922
-Kansas,Wichita,nan,"1,000 dollars",20203.0,923
+Kansas,Wichita,0,"1,000 dollars",20203.0,923
 Kansas,Wilson,62.0,"1,000 dollars",20205.0,925
 Kansas,Woodson,5.0,"1,000 dollars",20207.0,926
 Kansas,Wyandotte,161.0,"1,000 dollars",20209.0,927
@@ -1039,7 +1039,7 @@ Kentucky,Green,53.0,"1,000 dollars",21087.0,1102
 Kentucky,Greenup,135.0,"1,000 dollars",21089.0,1105
 Kentucky,Hancock,64.0,"1,000 dollars",21091.0,1107
 Kentucky,Hardin,140.0,"1,000 dollars",21093.0,1110
-Kentucky,Harlan,nan,"1,000 dollars",21095.0,1114
+Kentucky,Harlan,0,"1,000 dollars",21095.0,1114
 Kentucky,Harrison,131.0,"1,000 dollars",21097.0,1119
 Kentucky,Hart,197.0,"1,000 dollars",21099.0,1121
 Kentucky,Henderson,170.0,"1,000 dollars",21101.0,1126
@@ -1071,7 +1071,7 @@ Kentucky,Madison,550.0,"1,000 dollars",21151.0,1204
 Kentucky,Magoffin,28.0,"1,000 dollars",21153.0,1206
 Kentucky,Marion,120.0,"1,000 dollars",21155.0,1210
 Kentucky,Marshall,101.0,"1,000 dollars",21157.0,1213
-Kentucky,Martin,nan,"1,000 dollars",21159.0,1215
+Kentucky,Martin,0,"1,000 dollars",21159.0,1215
 Kentucky,Mason,47.0,"1,000 dollars",21161.0,1217
 Kentucky,Meade,100.0,"1,000 dollars",21163.0,1220
 Kentucky,Menifee,22.0,"1,000 dollars",21165.0,1222
@@ -1092,7 +1092,7 @@ Kentucky,Perry,13.0,"1,000 dollars",21193.0,1265
 Kentucky,Pike,40.0,"1,000 dollars",21195.0,1267
 Kentucky,Powell,10.0,"1,000 dollars",21197.0,1270
 Kentucky,Pulaski,641.0,"1,000 dollars",21199.0,1272
-Kentucky,Robertson,nan,"1,000 dollars",21201.0,1273
+Kentucky,Robertson,0,"1,000 dollars",21201.0,1273
 Kentucky,Rockcastle,23.0,"1,000 dollars",21203.0,1276
 Kentucky,Rowan,83.0,"1,000 dollars",21205.0,1279
 Kentucky,Russell,25.0,"1,000 dollars",21207.0,1282
@@ -1115,7 +1115,7 @@ Kentucky,Woodford,167.0,"1,000 dollars",21239.0,1042
 Louisiana,Acadia,620.0,"1,000 dollars",22001.0,1046
 Louisiana,Allen,57.0,"1,000 dollars",22003.0,1051
 Louisiana,Ascension,21.0,"1,000 dollars",22005.0,1055
-Louisiana,Assumption,nan,"1,000 dollars",22007.0,1060
+Louisiana,Assumption,0,"1,000 dollars",22007.0,1060
 Louisiana,Avoyelles,126.0,"1,000 dollars",22009.0,1062
 Louisiana,Beauregard,225.0,"1,000 dollars",22011.0,1066
 Louisiana,Bienville,65.0,"1,000 dollars",22013.0,1069
@@ -1135,16 +1135,16 @@ Louisiana,Evangeline,41.0,"1,000 dollars",22039.0,1118
 Louisiana,Franklin,291.0,"1,000 dollars",22041.0,1123
 Louisiana,Grant,99.0,"1,000 dollars",22043.0,1127
 Louisiana,Iberia,28.0,"1,000 dollars",22045.0,1133
-Louisiana,Iberville,nan,"1,000 dollars",22047.0,1134
+Louisiana,Iberville,0,"1,000 dollars",22047.0,1134
 Louisiana,Jackson,7.0,"1,000 dollars",22049.0,1138
-Louisiana,Jefferson,nan,"1,000 dollars",22051.0,1147
+Louisiana,Jefferson,0,"1,000 dollars",22051.0,1147
 Louisiana,Jefferson Davis,46.0,"1,000 dollars",22053.0,1155
 Louisiana,Lafayette,55.0,"1,000 dollars",22055.0,1161
 Louisiana,Lafourche,154.0,"1,000 dollars",22057.0,1280
 Louisiana,La Salle,0.0,"1,000 dollars",22059.0,1289
 Louisiana,Lincoln,233.0,"1,000 dollars",22061.0,1291
 Louisiana,Livingston,60.0,"1,000 dollars",22063.0,1295
-Louisiana,Madison,nan,"1,000 dollars",22065.0,1297
+Louisiana,Madison,0,"1,000 dollars",22065.0,1297
 Louisiana,Morehouse,204.0,"1,000 dollars",22067.0,1299
 Louisiana,Natchitoches,228.0,"1,000 dollars",22069.0,1301
 Louisiana,Orleans,14.0,"1,000 dollars",22071.0,1304
@@ -1172,7 +1172,7 @@ Louisiana,Vermilion,158.0,"1,000 dollars",22113.0,1510
 Louisiana,Vernon,17.0,"1,000 dollars",22115.0,1513
 Louisiana,Washington,100.0,"1,000 dollars",22117.0,1516
 Louisiana,Webster,45.0,"1,000 dollars",22119.0,1518
-Louisiana,West Baton Rouge,nan,"1,000 dollars",22121.0,1520
+Louisiana,West Baton Rouge,0,"1,000 dollars",22121.0,1520
 Louisiana,West Carroll,102.0,"1,000 dollars",22123.0,1522
 Louisiana,West Feliciana,66.0,"1,000 dollars",22125.0,1524
 Louisiana,Winn,15.0,"1,000 dollars",22127.0,1529
@@ -1215,7 +1215,7 @@ Maryland,Talbot,62.0,"1,000 dollars",24041.0,1438
 Maryland,Washington,3361.0,"1,000 dollars",24043.0,1445
 Maryland,Wicomico,475.0,"1,000 dollars",24045.0,1446
 Maryland,Worcester,184.0,"1,000 dollars",24047.0,1456
-Maryland,Baltimore City,nan,"1,000 dollars",24510.0,1460
+Maryland,Baltimore City,0,"1,000 dollars",24510.0,1460
 Massachusetts,Barnstable,1248.0,"1,000 dollars",25001.0,1478
 Massachusetts,Berkshire,1385.0,"1,000 dollars",25003.0,1480
 Massachusetts,Bristol,4479.0,"1,000 dollars",25005.0,1486
@@ -1347,7 +1347,7 @@ Minnesota,Itasca,457.0,"1,000 dollars",27061.0,1917
 Minnesota,Jackson,36.0,"1,000 dollars",27063.0,1918
 Minnesota,Kanabec,194.0,"1,000 dollars",27065.0,1919
 Minnesota,Kandiyohi,309.0,"1,000 dollars",27067.0,1920
-Minnesota,Kittson,nan,"1,000 dollars",27069.0,1921
+Minnesota,Kittson,0,"1,000 dollars",27069.0,1921
 Minnesota,Koochiching,46.0,"1,000 dollars",27071.0,1922
 Minnesota,Lac qui Parle,81.0,"1,000 dollars",27073.0,1923
 Minnesota,Lake,21.0,"1,000 dollars",27075.0,1926
@@ -1375,7 +1375,7 @@ Minnesota,Pipestone,129.0,"1,000 dollars",27117.0,1958
 Minnesota,Polk,156.0,"1,000 dollars",27119.0,1959
 Minnesota,Pope,154.0,"1,000 dollars",27121.0,1961
 Minnesota,Ramsey,229.0,"1,000 dollars",27123.0,1964
-Minnesota,Red Lake,nan,"1,000 dollars",27125.0,1966
+Minnesota,Red Lake,0,"1,000 dollars",27125.0,1966
 Minnesota,Redwood,283.0,"1,000 dollars",27127.0,1969
 Minnesota,Renville,127.0,"1,000 dollars",27129.0,1971
 Minnesota,Rice,1256.0,"1,000 dollars",27131.0,1973
@@ -1421,11 +1421,11 @@ Mississippi,Forrest,100.0,"1,000 dollars",28035.0,1572
 Mississippi,Franklin,4.0,"1,000 dollars",28037.0,1575
 Mississippi,George,133.0,"1,000 dollars",28039.0,1577
 Mississippi,Greene,202.0,"1,000 dollars",28041.0,1579
-Mississippi,Grenada,nan,"1,000 dollars",28043.0,1581
+Mississippi,Grenada,0,"1,000 dollars",28043.0,1581
 Mississippi,Hancock,21.0,"1,000 dollars",28045.0,1583
 Mississippi,Harrison,115.0,"1,000 dollars",28047.0,1587
 Mississippi,Hinds,108.0,"1,000 dollars",28049.0,1591
-Mississippi,Holmes,nan,"1,000 dollars",28051.0,1593
+Mississippi,Holmes,0,"1,000 dollars",28051.0,1593
 Mississippi,Humphreys,4.0,"1,000 dollars",28053.0,1596
 Mississippi,Issaquena,0.0,"1,000 dollars",28055.0,1598
 Mississippi,Itawamba,27.0,"1,000 dollars",28057.0,1601
@@ -1438,7 +1438,7 @@ Mississippi,Kemper,12.0,"1,000 dollars",28069.0,1616
 Mississippi,Lafayette,18.0,"1,000 dollars",28071.0,1620
 Mississippi,Lamar,21.0,"1,000 dollars",28073.0,1623
 Mississippi,Lauderdale,82.0,"1,000 dollars",28075.0,1628
-Mississippi,Lawrence,nan,"1,000 dollars",28077.0,1632
+Mississippi,Lawrence,0,"1,000 dollars",28077.0,1632
 Mississippi,Leake,18.0,"1,000 dollars",28079.0,1636
 Mississippi,Lee,25.0,"1,000 dollars",28081.0,1638
 Mississippi,Leflore,12.0,"1,000 dollars",28083.0,1643
@@ -1448,7 +1448,7 @@ Mississippi,Madison,23.0,"1,000 dollars",28089.0,1651
 Mississippi,Marion,97.0,"1,000 dollars",28091.0,1653
 Mississippi,Marshall,75.0,"1,000 dollars",28093.0,1655
 Mississippi,Monroe,65.0,"1,000 dollars",28095.0,1656
-Mississippi,Montgomery,nan,"1,000 dollars",28097.0,1658
+Mississippi,Montgomery,0,"1,000 dollars",28097.0,1658
 Mississippi,Neshoba,13.0,"1,000 dollars",28099.0,1661
 Mississippi,Newton,62.0,"1,000 dollars",28101.0,1663
 Mississippi,Noxubee,9.0,"1,000 dollars",28103.0,1666
@@ -1462,12 +1462,12 @@ Mississippi,Prentiss,8.0,"1,000 dollars",28117.0,1684
 Mississippi,Quitman,9.0,"1,000 dollars",28119.0,1685
 Mississippi,Rankin,59.0,"1,000 dollars",28121.0,1690
 Mississippi,Scott,184.0,"1,000 dollars",28123.0,1692
-Mississippi,Sharkey,nan,"1,000 dollars",28125.0,1695
+Mississippi,Sharkey,0,"1,000 dollars",28125.0,1695
 Mississippi,Simpson,144.0,"1,000 dollars",28127.0,1698
 Mississippi,Smith,78.0,"1,000 dollars",28129.0,1709
 Mississippi,Stone,95.0,"1,000 dollars",28131.0,1712
 Mississippi,Sunflower,16.0,"1,000 dollars",28133.0,1721
-Mississippi,Tallahatchie,nan,"1,000 dollars",28135.0,1725
+Mississippi,Tallahatchie,0,"1,000 dollars",28135.0,1725
 Mississippi,Tate,128.0,"1,000 dollars",28137.0,1727
 Mississippi,Tippah,14.0,"1,000 dollars",28139.0,1730
 Mississippi,Tishomingo,2.0,"1,000 dollars",28141.0,1732
@@ -1475,7 +1475,7 @@ Mississippi,Tunica,0.0,"1,000 dollars",28143.0,1735
 Mississippi,Union,27.0,"1,000 dollars",28145.0,1737
 Mississippi,Walthall,30.0,"1,000 dollars",28147.0,1740
 Mississippi,Warren,7.0,"1,000 dollars",28149.0,1746
-Mississippi,Washington,nan,"1,000 dollars",28151.0,1750
+Mississippi,Washington,0,"1,000 dollars",28151.0,1750
 Mississippi,Wayne,13.0,"1,000 dollars",28153.0,1753
 Mississippi,Webster,2.0,"1,000 dollars",28155.0,1756
 Mississippi,Wilkinson,8.0,"1,000 dollars",28157.0,1757
@@ -1506,7 +1506,7 @@ Missouri,Chariton,159.0,"1,000 dollars",29041.0,1011
 Missouri,Christian,191.0,"1,000 dollars",29043.0,1014
 Missouri,Clark,275.0,"1,000 dollars",29045.0,1015
 Missouri,Clay,206.0,"1,000 dollars",29047.0,1018
-Missouri,Clinton,nan,"1,000 dollars",29049.0,1021
+Missouri,Clinton,0,"1,000 dollars",29049.0,1021
 Missouri,Cole,182.0,"1,000 dollars",29051.0,1022
 Missouri,Cooper,124.0,"1,000 dollars",29053.0,1025
 Missouri,Crawford,88.0,"1,000 dollars",29055.0,1028
@@ -1548,7 +1548,7 @@ Missouri,Maries,165.0,"1,000 dollars",29125.0,1120
 Missouri,Marion,62.0,"1,000 dollars",29127.0,1122
 Missouri,Mercer,12.0,"1,000 dollars",29129.0,1125
 Missouri,Miller,110.0,"1,000 dollars",29131.0,1128
-Missouri,Mississippi,nan,"1,000 dollars",29133.0,1131
+Missouri,Mississippi,0,"1,000 dollars",29133.0,1131
 Missouri,Moniteau,348.0,"1,000 dollars",29135.0,1135
 Missouri,Monroe,157.0,"1,000 dollars",29137.0,1139
 Missouri,Montgomery,38.0,"1,000 dollars",29139.0,1142
@@ -1577,7 +1577,7 @@ Missouri,St. Charles,260.0,"1,000 dollars",29183.0,1205
 Missouri,St. Clair,38.0,"1,000 dollars",29185.0,1208
 Missouri,Ste. Genevieve,300.0,"1,000 dollars",29186.0,1209
 Missouri,St. Francois,93.0,"1,000 dollars",29187.0,1212
-Missouri,St. Louis County,nan,"1,000 dollars",29189.0,1216
+Missouri,St. Louis County,0,"1,000 dollars",29189.0,1216
 Missouri,Saline,141.0,"1,000 dollars",29195.0,1218
 Missouri,Schuyler,19.0,"1,000 dollars",29197.0,1221
 Missouri,Scotland,35.0,"1,000 dollars",29199.0,1224
@@ -1596,11 +1596,11 @@ Missouri,Wayne,17.0,"1,000 dollars",29223.0,1256
 Missouri,Webster,255.0,"1,000 dollars",29225.0,1258
 Missouri,Worth,11.0,"1,000 dollars",29227.0,1261
 Missouri,Wright,169.0,"1,000 dollars",29229.0,1263
-Missouri,St. Louis City,nan,"1,000 dollars",29510.0,1266
+Missouri,St. Louis City,0,"1,000 dollars",29510.0,1266
 Montana,Beaverhead,175.0,"1,000 dollars",30001.0,1269
 Montana,Big Horn,23.0,"1,000 dollars",30003.0,1274
 Montana,Blaine,234.0,"1,000 dollars",30005.0,1124
-Montana,Broadwater,nan,"1,000 dollars",30007.0,1132
+Montana,Broadwater,0,"1,000 dollars",30007.0,1132
 Montana,Carbon,150.0,"1,000 dollars",30009.0,1137
 Montana,Carter,33.0,"1,000 dollars",30011.0,1141
 Montana,Cascade,516.0,"1,000 dollars",30013.0,1144
@@ -1624,10 +1624,10 @@ Montana,Lake,611.0,"1,000 dollars",30047.0,1207
 Montana,Lewis and Clark,212.0,"1,000 dollars",30049.0,1211
 Montana,Liberty,257.0,"1,000 dollars",30051.0,1214
 Montana,Lincoln,176.0,"1,000 dollars",30053.0,1219
-Montana,McCone,nan,"1,000 dollars",30055.0,1223
+Montana,McCone,0,"1,000 dollars",30055.0,1223
 Montana,Madison,122.0,"1,000 dollars",30057.0,1226
 Montana,Meagher,106.0,"1,000 dollars",30059.0,1231
-Montana,Mineral,nan,"1,000 dollars",30061.0,1234
+Montana,Mineral,0,"1,000 dollars",30061.0,1234
 Montana,Missoula,405.0,"1,000 dollars",30063.0,1239
 Montana,Musselshell,61.0,"1,000 dollars",30065.0,1241
 Montana,Park,263.0,"1,000 dollars",30067.0,1244
@@ -1639,23 +1639,23 @@ Montana,Powell,122.0,"1,000 dollars",30077.0,1262
 Montana,Prairie,17.0,"1,000 dollars",30079.0,1264
 Montana,Ravalli,643.0,"1,000 dollars",30081.0,1268
 Montana,Richland,45.0,"1,000 dollars",30083.0,1271
-Montana,Roosevelt,nan,"1,000 dollars",30085.0,1275
+Montana,Roosevelt,0,"1,000 dollars",30085.0,1275
 Montana,Rosebud,169.0,"1,000 dollars",30087.0,1277
 Montana,Sanders,204.0,"1,000 dollars",30089.0,1278
 Montana,Sheridan,33.0,"1,000 dollars",30091.0,1281
-Montana,Silver Bow,nan,"1,000 dollars",30093.0,1284
+Montana,Silver Bow,0,"1,000 dollars",30093.0,1284
 Montana,Stillwater,121.0,"1,000 dollars",30095.0,1286
 Montana,Sweet Grass,170.0,"1,000 dollars",30097.0,1288
 Montana,Teton,184.0,"1,000 dollars",30099.0,1290
 Montana,Toole,56.0,"1,000 dollars",30101.0,1292
-Montana,Treasure,nan,"1,000 dollars",30103.0,1293
+Montana,Treasure,0,"1,000 dollars",30103.0,1293
 Montana,Valley,3.0,"1,000 dollars",30105.0,1296
 Montana,Wheatland,215.0,"1,000 dollars",30107.0,1298
-Montana,Wibaux,nan,"1,000 dollars",30109.0,1300
+Montana,Wibaux,0,"1,000 dollars",30109.0,1300
 Montana,Yellowstone,224.0,"1,000 dollars",30111.0,1302
 Nebraska,Adams,73.0,"1,000 dollars",31001.0,1303
 Nebraska,Antelope,13.0,"1,000 dollars",31003.0,1305
-Nebraska,Arthur,nan,"1,000 dollars",31005.0,1307
+Nebraska,Arthur,0,"1,000 dollars",31005.0,1307
 Nebraska,Banner,19.0,"1,000 dollars",31007.0,1308
 Nebraska,Blaine,12.0,"1,000 dollars",31009.0,1309
 Nebraska,Boone,4.0,"1,000 dollars",31011.0,1310
@@ -1678,7 +1678,7 @@ Nebraska,Dakota,10.0,"1,000 dollars",31043.0,1344
 Nebraska,Dawes,41.0,"1,000 dollars",31045.0,1347
 Nebraska,Dawson,87.0,"1,000 dollars",31047.0,1349
 Nebraska,Deuel,16.0,"1,000 dollars",31049.0,1351
-Nebraska,Dixon,nan,"1,000 dollars",31051.0,1353
+Nebraska,Dixon,0,"1,000 dollars",31051.0,1353
 Nebraska,Dodge,137.0,"1,000 dollars",31053.0,1354
 Nebraska,Douglas,275.0,"1,000 dollars",31055.0,1358
 Nebraska,Dundy,41.0,"1,000 dollars",31057.0,1360
@@ -1688,12 +1688,12 @@ Nebraska,Frontier,28.0,"1,000 dollars",31063.0,1371
 Nebraska,Furnas,11.0,"1,000 dollars",31065.0,1374
 Nebraska,Gage,155.0,"1,000 dollars",31067.0,1378
 Nebraska,Garden,2.0,"1,000 dollars",31069.0,1381
-Nebraska,Garfield,nan,"1,000 dollars",31071.0,1391
-Nebraska,Gosper,nan,"1,000 dollars",31073.0,1393
+Nebraska,Garfield,0,"1,000 dollars",31071.0,1391
+Nebraska,Gosper,0,"1,000 dollars",31073.0,1393
 Nebraska,Grant,0.0,"1,000 dollars",31075.0,1395
 Nebraska,Greeley,23.0,"1,000 dollars",31077.0,1397
 Nebraska,Hall,37.0,"1,000 dollars",31079.0,1402
-Nebraska,Hamilton,nan,"1,000 dollars",31081.0,1405
+Nebraska,Hamilton,0,"1,000 dollars",31081.0,1405
 Nebraska,Harlan,13.0,"1,000 dollars",31083.0,1409
 Nebraska,Hayes,5.0,"1,000 dollars",31085.0,1411
 Nebraska,Hitchcock,41.0,"1,000 dollars",31087.0,1414
@@ -1724,7 +1724,7 @@ Nebraska,Perkins,102.0,"1,000 dollars",31135.0,1352
 Nebraska,Phelps,13.0,"1,000 dollars",31137.0,1355
 Nebraska,Pierce,48.0,"1,000 dollars",31139.0,1356
 Nebraska,Platte,526.0,"1,000 dollars",31141.0,1359
-Nebraska,Polk,nan,"1,000 dollars",31143.0,1362
+Nebraska,Polk,0,"1,000 dollars",31143.0,1362
 Nebraska,Red Willow,74.0,"1,000 dollars",31145.0,1364
 Nebraska,Richardson,152.0,"1,000 dollars",31147.0,1365
 Nebraska,Rock,11.0,"1,000 dollars",31149.0,1366
@@ -1751,17 +1751,17 @@ Nevada,Clark,1519.0,"1,000 dollars",32003.0,1399
 Nevada,Douglas,138.0,"1,000 dollars",32005.0,1400
 Nevada,Elko,123.0,"1,000 dollars",32007.0,1401
 Nevada,Esmeralda,0.0,"1,000 dollars",32009.0,1404
-Nevada,Eureka,nan,"1,000 dollars",32011.0,1406
+Nevada,Eureka,0,"1,000 dollars",32011.0,1406
 Nevada,Humboldt,39.0,"1,000 dollars",32013.0,1407
 Nevada,Lander,18.0,"1,000 dollars",32015.0,1408
 Nevada,Lincoln,982.0,"1,000 dollars",32017.0,1410
 Nevada,Lyon,333.0,"1,000 dollars",32019.0,1412
-Nevada,Mineral,nan,"1,000 dollars",32021.0,1415
+Nevada,Mineral,0,"1,000 dollars",32021.0,1415
 Nevada,Nye,43.0,"1,000 dollars",32023.0,1417
 Nevada,Pershing,2.0,"1,000 dollars",32027.0,1419
 Nevada,Storey,0.0,"1,000 dollars",32029.0,1420
 Nevada,Washoe,135.0,"1,000 dollars",32031.0,1423
-Nevada,White Pine,nan,"1,000 dollars",32033.0,1425
+Nevada,White Pine,0,"1,000 dollars",32033.0,1425
 Nevada,Carson City,0.0,"1,000 dollars",32510.0,1428
 New Hampshire,Belknap,1195.0,"1,000 dollars",33001.0,1432
 New Hampshire,Carroll,1312.0,"1,000 dollars",33003.0,1435
@@ -1779,7 +1779,7 @@ New Jersey,Burlington,1775.0,"1,000 dollars",34005.0,1470
 New Jersey,Camden,1219.0,"1,000 dollars",34007.0,1472
 New Jersey,Cape May,596.0,"1,000 dollars",34009.0,1477
 New Jersey,Cumberland,1557.0,"1,000 dollars",34011.0,1482
-New Jersey,Essex,nan,"1,000 dollars",34013.0,1483
+New Jersey,Essex,0,"1,000 dollars",34013.0,1483
 New Jersey,Gloucester,3867.0,"1,000 dollars",34015.0,1484
 New Jersey,Hudson,0.0,"1,000 dollars",34017.0,1487
 New Jersey,Hunterdon,3842.0,"1,000 dollars",34019.0,1488
@@ -1792,14 +1792,14 @@ New Jersey,Passaic,293.0,"1,000 dollars",34031.0,1551
 New Jersey,Salem,6474.0,"1,000 dollars",34033.0,1553
 New Jersey,Somerset,418.0,"1,000 dollars",34035.0,1558
 New Jersey,Sussex,1265.0,"1,000 dollars",34037.0,1561
-New Jersey,Union,nan,"1,000 dollars",34039.0,1566
+New Jersey,Union,0,"1,000 dollars",34039.0,1566
 New Jersey,Warren,2150.0,"1,000 dollars",34041.0,1570
 New Mexico,Bernalillo,1136.0,"1,000 dollars",35001.0,1574
 New Mexico,Catron,38.0,"1,000 dollars",35003.0,1576
 New Mexico,Chaves,38.0,"1,000 dollars",35005.0,1578
 New Mexico,Cibola,40.0,"1,000 dollars",35006.0,1580
 New Mexico,Colfax,92.0,"1,000 dollars",35007.0,1582
-New Mexico,Curry,nan,"1,000 dollars",35009.0,1586
+New Mexico,Curry,0,"1,000 dollars",35009.0,1586
 New Mexico,De Baca,22.0,"1,000 dollars",35011.0,1589
 New Mexico,Doña Ana,1795.0,"1,000 dollars",35013.0,1590
 New Mexico,Eddy,45.0,"1,000 dollars",35015.0,1592
@@ -1814,7 +1814,7 @@ New Mexico,Luna,463.0,"1,000 dollars",35029.0,1622
 New Mexico,McKinley,49.0,"1,000 dollars",35031.0,1626
 New Mexico,Mora,31.0,"1,000 dollars",35033.0,1629
 New Mexico,Otero,280.0,"1,000 dollars",35035.0,1633
-New Mexico,Quay,nan,"1,000 dollars",35037.0,1637
+New Mexico,Quay,0,"1,000 dollars",35037.0,1637
 New Mexico,Rio Arriba,1087.0,"1,000 dollars",35039.0,1639
 New Mexico,Roosevelt,264.0,"1,000 dollars",35041.0,1642
 New Mexico,Sandoval,106.0,"1,000 dollars",35043.0,1646
@@ -1898,7 +1898,7 @@ North Carolina,Avery,382.0,"1,000 dollars",37011.0,1977
 North Carolina,Beaufort,59.0,"1,000 dollars",37013.0,1981
 North Carolina,Bertie,325.0,"1,000 dollars",37015.0,1983
 North Carolina,Bladen,604.0,"1,000 dollars",37017.0,1986
-North Carolina,Brunswick,nan,"1,000 dollars",37019.0,1995
+North Carolina,Brunswick,0,"1,000 dollars",37019.0,1995
 North Carolina,Buncombe,1141.0,"1,000 dollars",37021.0,1422
 North Carolina,Burke,340.0,"1,000 dollars",37023.0,1424
 North Carolina,Cabarrus,148.0,"1,000 dollars",37025.0,1426
@@ -1942,7 +1942,7 @@ North Carolina,Jackson,75.0,"1,000 dollars",37099.0,1528
 North Carolina,Johnston,828.0,"1,000 dollars",37101.0,1530
 North Carolina,Jones,100.0,"1,000 dollars",37103.0,1536
 North Carolina,Lee,98.0,"1,000 dollars",37105.0,1540
-North Carolina,Lenoir,nan,"1,000 dollars",37107.0,1542
+North Carolina,Lenoir,0,"1,000 dollars",37107.0,1542
 North Carolina,Lincoln,228.0,"1,000 dollars",37109.0,1545
 North Carolina,McDowell,46.0,"1,000 dollars",37111.0,1554
 North Carolina,Macon,236.0,"1,000 dollars",37113.0,1556
@@ -1989,7 +1989,7 @@ North Carolina,Wilkes,687.0,"1,000 dollars",37193.0,1817
 North Carolina,Wilson,117.0,"1,000 dollars",37195.0,1819
 North Carolina,Yadkin,158.0,"1,000 dollars",37197.0,1821
 North Carolina,Yancey,167.0,"1,000 dollars",37199.0,1823
-North Dakota,Adams,nan,"1,000 dollars",38001.0,1826
+North Dakota,Adams,0,"1,000 dollars",38001.0,1826
 North Dakota,Barnes,3.0,"1,000 dollars",38003.0,1828
 North Dakota,Benson,12.0,"1,000 dollars",38005.0,1831
 North Dakota,Billings,7.0,"1,000 dollars",38007.0,1833
@@ -2003,7 +2003,7 @@ North Dakota,Dickey,44.0,"1,000 dollars",38021.0,2004
 North Dakota,Divide,0.0,"1,000 dollars",38023.0,2007
 North Dakota,Dunn,31.0,"1,000 dollars",38025.0,2013
 North Dakota,Eddy,32.0,"1,000 dollars",38027.0,2017
-North Dakota,Emmons,nan,"1,000 dollars",38029.0,2021
+North Dakota,Emmons,0,"1,000 dollars",38029.0,2021
 North Dakota,Foster,2.0,"1,000 dollars",38031.0,2026
 North Dakota,Golden Valley,12.0,"1,000 dollars",38033.0,2036
 North Dakota,Grand Forks,49.0,"1,000 dollars",38035.0,2043
@@ -2029,19 +2029,19 @@ North Dakota,Ransom,31.0,"1,000 dollars",38073.0,2147
 North Dakota,Renville,0.0,"1,000 dollars",38075.0,2150
 North Dakota,Richland,160.0,"1,000 dollars",38077.0,2156
 North Dakota,Rolette,7.0,"1,000 dollars",38079.0,2161
-North Dakota,Sargent,nan,"1,000 dollars",38081.0,2164
-North Dakota,Sheridan,nan,"1,000 dollars",38083.0,2169
-North Dakota,Sioux,nan,"1,000 dollars",38085.0,2175
-North Dakota,Slope,nan,"1,000 dollars",38087.0,2180
+North Dakota,Sargent,0,"1,000 dollars",38081.0,2164
+North Dakota,Sheridan,0,"1,000 dollars",38083.0,2169
+North Dakota,Sioux,0,"1,000 dollars",38085.0,2175
+North Dakota,Slope,0,"1,000 dollars",38087.0,2180
 North Dakota,Stark,20.0,"1,000 dollars",38089.0,2182
 North Dakota,Steele,0.0,"1,000 dollars",38091.0,2186
 North Dakota,Stutsman,41.0,"1,000 dollars",38093.0,2199
 North Dakota,Towner,5.0,"1,000 dollars",38095.0,2205
-North Dakota,Traill,nan,"1,000 dollars",38097.0,2217
+North Dakota,Traill,0,"1,000 dollars",38097.0,2217
 North Dakota,Walsh,68.0,"1,000 dollars",38099.0,2225
 North Dakota,Ward,198.0,"1,000 dollars",38101.0,2233
 North Dakota,Wells,22.0,"1,000 dollars",38103.0,2237
-North Dakota,Williams,nan,"1,000 dollars",38105.0,2244
+North Dakota,Williams,0,"1,000 dollars",38105.0,2244
 Ohio,Adams,193.0,"1,000 dollars",39001.0,2248
 Ohio,Allen,748.0,"1,000 dollars",39003.0,2250
 Ohio,Ashland,354.0,"1,000 dollars",39005.0,2254
@@ -2142,7 +2142,7 @@ Oklahoma,Canadian,216.0,"1,000 dollars",40017.0,2123
 Oklahoma,Carter,52.0,"1,000 dollars",40019.0,2126
 Oklahoma,Cherokee,179.0,"1,000 dollars",40021.0,2129
 Oklahoma,Choctaw,23.0,"1,000 dollars",40023.0,2133
-Oklahoma,Cimarron,nan,"1,000 dollars",40025.0,2135
+Oklahoma,Cimarron,0,"1,000 dollars",40025.0,2135
 Oklahoma,Cleveland,146.0,"1,000 dollars",40027.0,2140
 Oklahoma,Coal,6.0,"1,000 dollars",40029.0,2144
 Oklahoma,Comanche,65.0,"1,000 dollars",40031.0,2145
@@ -2157,13 +2157,13 @@ Oklahoma,Garfield,17.0,"1,000 dollars",40047.0,2167
 Oklahoma,Garvin,177.0,"1,000 dollars",40049.0,2176
 Oklahoma,Grady,283.0,"1,000 dollars",40051.0,2184
 Oklahoma,Grant,14.0,"1,000 dollars",40053.0,2187
-Oklahoma,Greer,nan,"1,000 dollars",40055.0,2189
+Oklahoma,Greer,0,"1,000 dollars",40055.0,2189
 Oklahoma,Harmon,0.0,"1,000 dollars",40057.0,2191
-Oklahoma,Harper,nan,"1,000 dollars",40059.0,2193
+Oklahoma,Harper,0,"1,000 dollars",40059.0,2193
 Oklahoma,Haskell,103.0,"1,000 dollars",40061.0,2195
 Oklahoma,Hughes,20.0,"1,000 dollars",40063.0,2197
 Oklahoma,Jackson,16.0,"1,000 dollars",40065.0,2202
-Oklahoma,Jefferson,nan,"1,000 dollars",40067.0,2206
+Oklahoma,Jefferson,0,"1,000 dollars",40067.0,2206
 Oklahoma,Johnston,47.0,"1,000 dollars",40069.0,2211
 Oklahoma,Kay,125.0,"1,000 dollars",40071.0,2215
 Oklahoma,Kingfisher,86.0,"1,000 dollars",40073.0,2219
@@ -2177,11 +2177,11 @@ Oklahoma,McClain,210.0,"1,000 dollars",40087.0,2245
 Oklahoma,McCurtain,193.0,"1,000 dollars",40089.0,2252
 Oklahoma,McIntosh,92.0,"1,000 dollars",40091.0,2258
 Oklahoma,Major,99.0,"1,000 dollars",40093.0,2260
-Oklahoma,Marshall,nan,"1,000 dollars",40095.0,2265
+Oklahoma,Marshall,0,"1,000 dollars",40095.0,2265
 Oklahoma,Mayes,135.0,"1,000 dollars",40097.0,2270
 Oklahoma,Murray,60.0,"1,000 dollars",40099.0,2276
 Oklahoma,Muskogee,221.0,"1,000 dollars",40101.0,2281
-Oklahoma,Noble,nan,"1,000 dollars",40103.0,2287
+Oklahoma,Noble,0,"1,000 dollars",40103.0,2287
 Oklahoma,Nowata,114.0,"1,000 dollars",40105.0,2290
 Oklahoma,Okfuskee,76.0,"1,000 dollars",40107.0,2297
 Oklahoma,Oklahoma,185.0,"1,000 dollars",40109.0,2303
@@ -2204,8 +2204,8 @@ Oklahoma,Tillman,3.0,"1,000 dollars",40141.0,2005
 Oklahoma,Tulsa,377.0,"1,000 dollars",40143.0,2008
 Oklahoma,Wagoner,216.0,"1,000 dollars",40145.0,2014
 Oklahoma,Washington,101.0,"1,000 dollars",40147.0,2018
-Oklahoma,Washita,nan,"1,000 dollars",40149.0,2023
-Oklahoma,Woods,nan,"1,000 dollars",40151.0,2029
+Oklahoma,Washita,0,"1,000 dollars",40149.0,2023
+Oklahoma,Woods,0,"1,000 dollars",40151.0,2029
 Oklahoma,Woodward,51.0,"1,000 dollars",40153.0,2035
 Oregon,Baker,298.0,"1,000 dollars",41001.0,2044
 Oregon,Benton,3705.0,"1,000 dollars",41003.0,2053
@@ -2294,12 +2294,12 @@ Pennsylvania,Northampton,1169.0,"1,000 dollars",42095.0,2537
 Pennsylvania,Northumberland,2368.0,"1,000 dollars",42097.0,2544
 Pennsylvania,Perry,994.0,"1,000 dollars",42099.0,2554
 Pennsylvania,Philadelphia,54.0,"1,000 dollars",42101.0,2563
-Pennsylvania,Pike,nan,"1,000 dollars",42103.0,2571
+Pennsylvania,Pike,0,"1,000 dollars",42103.0,2571
 Pennsylvania,Potter,269.0,"1,000 dollars",42105.0,2575
 Pennsylvania,Schuylkill,1596.0,"1,000 dollars",42107.0,2581
 Pennsylvania,Snyder,1014.0,"1,000 dollars",42109.0,2583
 Pennsylvania,Somerset,1043.0,"1,000 dollars",42111.0,2589
-Pennsylvania,Sullivan,nan,"1,000 dollars",42113.0,2293
+Pennsylvania,Sullivan,0,"1,000 dollars",42113.0,2293
 Pennsylvania,Susquehanna,493.0,"1,000 dollars",42115.0,2298
 Pennsylvania,Tioga,449.0,"1,000 dollars",42117.0,2305
 Pennsylvania,Union,426.0,"1,000 dollars",42119.0,2313
@@ -2319,7 +2319,7 @@ South Carolina,Abbeville,206.0,"1,000 dollars",45001.0,2489
 South Carolina,Aiken,228.0,"1,000 dollars",45003.0,2503
 South Carolina,Allendale,134.0,"1,000 dollars",45005.0,2527
 South Carolina,Anderson,575.0,"1,000 dollars",45007.0,2559
-South Carolina,Bamberg,nan,"1,000 dollars",45009.0,2592
+South Carolina,Bamberg,0,"1,000 dollars",45009.0,2592
 South Carolina,Barnwell,208.0,"1,000 dollars",45011.0,2605
 South Carolina,Beaufort,333.0,"1,000 dollars",45013.0,2626
 South Carolina,Berkeley,252.0,"1,000 dollars",45015.0,2631
@@ -2339,12 +2339,12 @@ South Carolina,Florence,112.0,"1,000 dollars",45041.0,2742
 South Carolina,Georgetown,20.0,"1,000 dollars",45043.0,2752
 South Carolina,Greenville,2486.0,"1,000 dollars",45045.0,2759
 South Carolina,Greenwood,31.0,"1,000 dollars",45047.0,2764
-South Carolina,Hampton,nan,"1,000 dollars",45049.0,2767
+South Carolina,Hampton,0,"1,000 dollars",45049.0,2767
 South Carolina,Horry,246.0,"1,000 dollars",45051.0,2774
 South Carolina,Jasper,24.0,"1,000 dollars",45053.0,2783
 South Carolina,Kershaw,40.0,"1,000 dollars",45055.0,2787
 South Carolina,Lancaster,65.0,"1,000 dollars",45057.0,2790
-South Carolina,Laurens,nan,"1,000 dollars",45059.0,2794
+South Carolina,Laurens,0,"1,000 dollars",45059.0,2794
 South Carolina,Lee,2.0,"1,000 dollars",45061.0,2800
 South Carolina,Lexington,4116.0,"1,000 dollars",45063.0,2803
 South Carolina,McCormick,5.0,"1,000 dollars",45065.0,2807
@@ -2368,14 +2368,14 @@ South Dakota,Bon Homme,78.0,"1,000 dollars",46009.0,2879
 South Dakota,Brookings,59.0,"1,000 dollars",46011.0,2882
 South Dakota,Brown,39.0,"1,000 dollars",46013.0,2885
 South Dakota,Brule,81.0,"1,000 dollars",46015.0,2888
-South Dakota,Buffalo,nan,"1,000 dollars",46017.0,2891
+South Dakota,Buffalo,0,"1,000 dollars",46017.0,2891
 South Dakota,Butte,226.0,"1,000 dollars",46019.0,2895
-South Dakota,Campbell,nan,"1,000 dollars",46021.0,2897
+South Dakota,Campbell,0,"1,000 dollars",46021.0,2897
 South Dakota,Charles Mix,230.0,"1,000 dollars",46023.0,2900
 South Dakota,Clark,212.0,"1,000 dollars",46025.0,2901
 South Dakota,Clay,54.0,"1,000 dollars",46027.0,2903
 South Dakota,Codington,94.0,"1,000 dollars",46029.0,2906
-South Dakota,Corson,nan,"1,000 dollars",46031.0,2907
+South Dakota,Corson,0,"1,000 dollars",46031.0,2907
 South Dakota,Custer,191.0,"1,000 dollars",46033.0,2908
 South Dakota,Davison,18.0,"1,000 dollars",46035.0,2910
 South Dakota,Day,31.0,"1,000 dollars",46037.0,2911
@@ -2391,11 +2391,11 @@ South Dakota,Haakon,0.0,"1,000 dollars",46055.0,2924
 South Dakota,Hamlin,68.0,"1,000 dollars",46057.0,2926
 South Dakota,Hand,4.0,"1,000 dollars",46059.0,2928
 South Dakota,Hanson,4.0,"1,000 dollars",46061.0,2929
-South Dakota,Harding,nan,"1,000 dollars",46063.0,2931
+South Dakota,Harding,0,"1,000 dollars",46063.0,2931
 South Dakota,Hughes,278.0,"1,000 dollars",46065.0,2933
 South Dakota,Hutchinson,128.0,"1,000 dollars",46067.0,2934
 South Dakota,Hyde,292.0,"1,000 dollars",46069.0,2937
-South Dakota,Jackson,nan,"1,000 dollars",46071.0,2939
+South Dakota,Jackson,0,"1,000 dollars",46071.0,2939
 South Dakota,Jerauld,5.0,"1,000 dollars",46073.0,2941
 South Dakota,Jones,1.0,"1,000 dollars",46075.0,2944
 South Dakota,Kingsbury,16.0,"1,000 dollars",46077.0,2945
@@ -2412,13 +2412,13 @@ South Dakota,Miner,12.0,"1,000 dollars",46097.0,2456
 South Dakota,Minnehaha,210.0,"1,000 dollars",46099.0,2467
 South Dakota,Moody,64.0,"1,000 dollars",46101.0,2485
 South Dakota,Pennington,127.0,"1,000 dollars",46103.0,2497
-South Dakota,Perkins,nan,"1,000 dollars",46105.0,2502
-South Dakota,Potter,nan,"1,000 dollars",46107.0,2506
+South Dakota,Perkins,0,"1,000 dollars",46105.0,2502
+South Dakota,Potter,0,"1,000 dollars",46107.0,2506
 South Dakota,Roberts,34.0,"1,000 dollars",46109.0,2511
 South Dakota,Sanborn,56.0,"1,000 dollars",46111.0,2514
 South Dakota,Shannon,0.0,"1,000 dollars",46113.0,2519
 South Dakota,Spink,14.0,"1,000 dollars",46115.0,2523
-South Dakota,Stanley,nan,"1,000 dollars",46117.0,2530
+South Dakota,Stanley,0,"1,000 dollars",46117.0,2530
 South Dakota,Sully,0.0,"1,000 dollars",46119.0,2535
 South Dakota,Todd,0.0,"1,000 dollars",46121.0,2540
 South Dakota,Tripp,125.0,"1,000 dollars",46123.0,2546
@@ -2426,7 +2426,7 @@ South Dakota,Turner,62.0,"1,000 dollars",46125.0,2550
 South Dakota,Union,11.0,"1,000 dollars",46127.0,2557
 South Dakota,Walworth,22.0,"1,000 dollars",46129.0,2561
 South Dakota,Yankton,11.0,"1,000 dollars",46135.0,2569
-South Dakota,Ziebach,nan,"1,000 dollars",46137.0,2578
+South Dakota,Ziebach,0,"1,000 dollars",46137.0,2578
 Tennessee,Anderson,123.0,"1,000 dollars",47001.0,2584
 Tennessee,Bedford,116.0,"1,000 dollars",47003.0,2593
 Tennessee,Benton,65.0,"1,000 dollars",47005.0,2598
@@ -2443,7 +2443,7 @@ Tennessee,Claiborne,78.0,"1,000 dollars",47025.0,2670
 Tennessee,Clay,30.0,"1,000 dollars",47027.0,2679
 Tennessee,Cocke,227.0,"1,000 dollars",47029.0,2686
 Tennessee,Coffee,75.0,"1,000 dollars",47031.0,2689
-Tennessee,Crockett,nan,"1,000 dollars",47033.0,2693
+Tennessee,Crockett,0,"1,000 dollars",47033.0,2693
 Tennessee,Cumberland,463.0,"1,000 dollars",47035.0,2696
 Tennessee,Davidson,127.0,"1,000 dollars",47037.0,2698
 Tennessee,Decatur,11.0,"1,000 dollars",47039.0,2705
@@ -2512,7 +2512,7 @@ Tennessee,Sullivan,57.0,"1,000 dollars",47163.0,2046
 Tennessee,Sumner,151.0,"1,000 dollars",47165.0,2050
 Tennessee,Tipton,114.0,"1,000 dollars",47167.0,2055
 Tennessee,Trousdale,28.0,"1,000 dollars",47169.0,2062
-Tennessee,Unicoi,nan,"1,000 dollars",47171.0,2069
+Tennessee,Unicoi,0,"1,000 dollars",47171.0,2069
 Tennessee,Union,136.0,"1,000 dollars",47173.0,2073
 Tennessee,Van Buren,10.0,"1,000 dollars",47175.0,2077
 Tennessee,Warren,226.0,"1,000 dollars",47177.0,2081
@@ -2523,10 +2523,10 @@ Tennessee,White,213.0,"1,000 dollars",47185.0,2100
 Tennessee,Williamson,1323.0,"1,000 dollars",47187.0,2105
 Tennessee,Wilson,426.0,"1,000 dollars",47189.0,2111
 Texas,Anderson,100.0,"1,000 dollars",48001.0,2113
-Texas,Andrews,nan,"1,000 dollars",48003.0,2117
+Texas,Andrews,0,"1,000 dollars",48003.0,2117
 Texas,Angelina,75.0,"1,000 dollars",48005.0,2124
 Texas,Aransas,10.0,"1,000 dollars",48007.0,2162
-Texas,Archer,nan,"1,000 dollars",48009.0,2168
+Texas,Archer,0,"1,000 dollars",48009.0,2168
 Texas,Armstrong,8.0,"1,000 dollars",48011.0,2172
 Texas,Atascosa,243.0,"1,000 dollars",48013.0,2173
 Texas,Austin,295.0,"1,000 dollars",48015.0,2177
@@ -2538,7 +2538,7 @@ Texas,Bee,68.0,"1,000 dollars",48025.0,2196
 Texas,Bell,230.0,"1,000 dollars",48027.0,2198
 Texas,Bexar,176.0,"1,000 dollars",48029.0,2203
 Texas,Blanco,23.0,"1,000 dollars",48031.0,2207
-Texas,Borden,nan,"1,000 dollars",48033.0,2212
+Texas,Borden,0,"1,000 dollars",48033.0,2212
 Texas,Bosque,192.0,"1,000 dollars",48035.0,2216
 Texas,Bowie,220.0,"1,000 dollars",48037.0,2224
 Texas,Brazoria,864.0,"1,000 dollars",48039.0,2240
@@ -2554,12 +2554,12 @@ Texas,Calhoun,5.0,"1,000 dollars",48057.0,2327
 Texas,Callahan,52.0,"1,000 dollars",48059.0,2331
 Texas,Cameron,256.0,"1,000 dollars",48061.0,2359
 Texas,Camp,43.0,"1,000 dollars",48063.0,2373
-Texas,Carson,nan,"1,000 dollars",48065.0,2377
+Texas,Carson,0,"1,000 dollars",48065.0,2377
 Texas,Cass,98.0,"1,000 dollars",48067.0,2382
-Texas,Castro,nan,"1,000 dollars",48069.0,2386
+Texas,Castro,0,"1,000 dollars",48069.0,2386
 Texas,Chambers,39.0,"1,000 dollars",48071.0,2395
 Texas,Cherokee,271.0,"1,000 dollars",48073.0,2400
-Texas,Childress,nan,"1,000 dollars",48075.0,2405
+Texas,Childress,0,"1,000 dollars",48075.0,2405
 Texas,Clay,183.0,"1,000 dollars",48077.0,2409
 Texas,Cochran,0.0,"1,000 dollars",48079.0,2413
 Texas,Coke,19.0,"1,000 dollars",48081.0,2418
@@ -2569,22 +2569,22 @@ Texas,Collingsworth,21.0,"1,000 dollars",48087.0,2434
 Texas,Colorado,102.0,"1,000 dollars",48089.0,2441
 Texas,Comal,77.0,"1,000 dollars",48091.0,2449
 Texas,Comanche,144.0,"1,000 dollars",48093.0,2455
-Texas,Concho,nan,"1,000 dollars",48095.0,2458
+Texas,Concho,0,"1,000 dollars",48095.0,2458
 Texas,Cooke,181.0,"1,000 dollars",48097.0,2463
 Texas,Coryell,65.0,"1,000 dollars",48099.0,2469
-Texas,Cottle,nan,"1,000 dollars",48101.0,2473
+Texas,Cottle,0,"1,000 dollars",48101.0,2473
 Texas,Crane,1.0,"1,000 dollars",48103.0,2478
 Texas,Crockett,54.0,"1,000 dollars",48105.0,2483
-Texas,Crosby,nan,"1,000 dollars",48107.0,2487
+Texas,Crosby,0,"1,000 dollars",48107.0,2487
 Texas,Culberson,0.0,"1,000 dollars",48109.0,2491
 Texas,Dallam,60.0,"1,000 dollars",48111.0,2498
 Texas,Dallas,202.0,"1,000 dollars",48113.0,2507
-Texas,Dawson,nan,"1,000 dollars",48115.0,2512
-Texas,Deaf Smith,nan,"1,000 dollars",48117.0,2515
+Texas,Dawson,0,"1,000 dollars",48115.0,2512
+Texas,Deaf Smith,0,"1,000 dollars",48117.0,2515
 Texas,Delta,30.0,"1,000 dollars",48119.0,2524
 Texas,Denton,257.0,"1,000 dollars",48121.0,2532
 Texas,DeWitt,308.0,"1,000 dollars",48123.0,2538
-Texas,Dickens,nan,"1,000 dollars",48125.0,2542
+Texas,Dickens,0,"1,000 dollars",48125.0,2542
 Texas,Dimmit,61.0,"1,000 dollars",48127.0,2548
 Texas,Donley,59.0,"1,000 dollars",48129.0,2551
 Texas,Duval,95.0,"1,000 dollars",48131.0,2556
@@ -2597,8 +2597,8 @@ Texas,Erath,275.0,"1,000 dollars",48143.0,2597
 Texas,Falls,79.0,"1,000 dollars",48145.0,2601
 Texas,Fannin,314.0,"1,000 dollars",48147.0,2621
 Texas,Fayette,96.0,"1,000 dollars",48149.0,2624
-Texas,Fisher,nan,"1,000 dollars",48151.0,2628
-Texas,Floyd,nan,"1,000 dollars",48153.0,2630
+Texas,Fisher,0,"1,000 dollars",48151.0,2628
+Texas,Floyd,0,"1,000 dollars",48153.0,2630
 Texas,Foard,0.0,"1,000 dollars",48155.0,2002
 Texas,Fort Bend,164.0,"1,000 dollars",48157.0,2009
 Texas,Franklin,53.0,"1,000 dollars",48159.0,2016
@@ -2608,7 +2608,7 @@ Texas,Gaines,17.0,"1,000 dollars",48165.0,2032
 Texas,Galveston,86.0,"1,000 dollars",48167.0,2059
 Texas,Garza,28.0,"1,000 dollars",48169.0,2060
 Texas,Gillespie,1341.0,"1,000 dollars",48171.0,2066
-Texas,Glasscock,nan,"1,000 dollars",48173.0,2072
+Texas,Glasscock,0,"1,000 dollars",48173.0,2072
 Texas,Goliad,15.0,"1,000 dollars",48175.0,2079
 Texas,Gonzales,92.0,"1,000 dollars",48177.0,2086
 Texas,Gray,21.0,"1,000 dollars",48179.0,2088
@@ -2619,15 +2619,15 @@ Texas,Guadalupe,210.0,"1,000 dollars",48187.0,2116
 Texas,Hale,1.0,"1,000 dollars",48189.0,2120
 Texas,Hall,0.0,"1,000 dollars",48191.0,2125
 Texas,Hamilton,25.0,"1,000 dollars",48193.0,2128
-Texas,Hansford,nan,"1,000 dollars",48195.0,2132
-Texas,Hardeman,nan,"1,000 dollars",48197.0,2137
+Texas,Hansford,0,"1,000 dollars",48195.0,2132
+Texas,Hardeman,0,"1,000 dollars",48197.0,2137
 Texas,Hardin,160.0,"1,000 dollars",48199.0,2142
 Texas,Harris,650.0,"1,000 dollars",48201.0,2149
 Texas,Harrison,86.0,"1,000 dollars",48203.0,2157
 Texas,Hartley,9.0,"1,000 dollars",48205.0,2160
 Texas,Haskell,0.0,"1,000 dollars",48207.0,2163
 Texas,Hays,216.0,"1,000 dollars",48209.0,2166
-Texas,Hemphill,nan,"1,000 dollars",48211.0,2171
+Texas,Hemphill,0,"1,000 dollars",48211.0,2171
 Texas,Henderson,228.0,"1,000 dollars",48213.0,2178
 Texas,Hidalgo,2278.0,"1,000 dollars",48215.0,2188
 Texas,Hill,161.0,"1,000 dollars",48217.0,2201
@@ -2645,7 +2645,7 @@ Texas,Jackson,362.0,"1,000 dollars",48239.0,2264
 Texas,Jasper,108.0,"1,000 dollars",48241.0,2271
 Texas,Jeff Davis,0.0,"1,000 dollars",48243.0,2275
 Texas,Jefferson,163.0,"1,000 dollars",48245.0,2285
-Texas,Jim Hogg,nan,"1,000 dollars",48247.0,2288
+Texas,Jim Hogg,0,"1,000 dollars",48247.0,2288
 Texas,Jim Wells,15.0,"1,000 dollars",48249.0,2294
 Texas,Johnson,172.0,"1,000 dollars",48251.0,2299
 Texas,Jones,48.0,"1,000 dollars",48253.0,2301
@@ -2653,11 +2653,11 @@ Texas,Karnes,29.0,"1,000 dollars",48255.0,2307
 Texas,Kaufman,252.0,"1,000 dollars",48257.0,2314
 Texas,Kendall,57.0,"1,000 dollars",48259.0,2319
 Texas,Kenedy,0.0,"1,000 dollars",48261.0,2330
-Texas,Kent,nan,"1,000 dollars",48263.0,2335
+Texas,Kent,0,"1,000 dollars",48263.0,2335
 Texas,Kerr,35.0,"1,000 dollars",48265.0,2337
 Texas,Kimble,17.0,"1,000 dollars",48267.0,2339
-Texas,King,nan,"1,000 dollars",48269.0,2342
-Texas,Kinney,nan,"1,000 dollars",48271.0,2347
+Texas,King,0,"1,000 dollars",48269.0,2342
+Texas,Kinney,0,"1,000 dollars",48271.0,2347
 Texas,Kleberg,36.0,"1,000 dollars",48273.0,2358
 Texas,Knox,0.0,"1,000 dollars",48275.0,2364
 Texas,Lamar,81.0,"1,000 dollars",48277.0,2371
@@ -2674,13 +2674,13 @@ Texas,Live Oak,10.0,"1,000 dollars",48297.0,2416
 Texas,Llano,50.0,"1,000 dollars",48299.0,2421
 Texas,Loving,0.0,"1,000 dollars",48301.0,2424
 Texas,Lubbock,116.0,"1,000 dollars",48303.0,2428
-Texas,Lynn,nan,"1,000 dollars",48305.0,2438
+Texas,Lynn,0,"1,000 dollars",48305.0,2438
 Texas,McCulloch,96.0,"1,000 dollars",48307.0,2452
 Texas,McLennan,73.0,"1,000 dollars",48309.0,2477
 Texas,McMullen,0.0,"1,000 dollars",48311.0,2494
 Texas,Madison,65.0,"1,000 dollars",48313.0,2526
-Texas,Marion,nan,"1,000 dollars",48315.0,2547
-Texas,Martin,nan,"1,000 dollars",48317.0,2564
+Texas,Marion,0,"1,000 dollars",48315.0,2547
+Texas,Martin,0,"1,000 dollars",48317.0,2564
 Texas,Mason,226.0,"1,000 dollars",48319.0,2570
 Texas,Matagorda,111.0,"1,000 dollars",48321.0,2637
 Texas,Maverick,175.0,"1,000 dollars",48323.0,2649
@@ -2689,18 +2689,18 @@ Texas,Menard,3.0,"1,000 dollars",48327.0,2655
 Texas,Midland,26.0,"1,000 dollars",48329.0,2657
 Texas,Milam,418.0,"1,000 dollars",48331.0,2659
 Texas,Mills,51.0,"1,000 dollars",48333.0,2663
-Texas,Mitchell,nan,"1,000 dollars",48335.0,2666
+Texas,Mitchell,0,"1,000 dollars",48335.0,2666
 Texas,Montague,165.0,"1,000 dollars",48337.0,2669
 Texas,Montgomery,437.0,"1,000 dollars",48339.0,2682
 Texas,Moore,10.0,"1,000 dollars",48341.0,2683
-Texas,Morris,nan,"1,000 dollars",48343.0,2688
+Texas,Morris,0,"1,000 dollars",48343.0,2688
 Texas,Motley,0.0,"1,000 dollars",48345.0,2692
 Texas,Nacogdoches,200.0,"1,000 dollars",48347.0,2701
 Texas,Navarro,114.0,"1,000 dollars",48349.0,2706
 Texas,Newton,18.0,"1,000 dollars",48351.0,2711
 Texas,Nolan,6.0,"1,000 dollars",48353.0,2714
 Texas,Nueces,66.0,"1,000 dollars",48355.0,2194
-Texas,Ochiltree,nan,"1,000 dollars",48357.0,2204
+Texas,Ochiltree,0,"1,000 dollars",48357.0,2204
 Texas,Oldham,0.0,"1,000 dollars",48359.0,2210
 Texas,Orange,47.0,"1,000 dollars",48361.0,2214
 Texas,Palo Pinto,70.0,"1,000 dollars",48363.0,2220
@@ -2718,7 +2718,7 @@ Texas,Real,62.0,"1,000 dollars",48385.0,2283
 Texas,Red River,145.0,"1,000 dollars",48387.0,2295
 Texas,Reeves,6.0,"1,000 dollars",48389.0,2308
 Texas,Refugio,12.0,"1,000 dollars",48391.0,2334
-Texas,Roberts,nan,"1,000 dollars",48393.0,2348
+Texas,Roberts,0,"1,000 dollars",48393.0,2348
 Texas,Robertson,92.0,"1,000 dollars",48395.0,2353
 Texas,Rockwall,11.0,"1,000 dollars",48397.0,2355
 Texas,Runnels,41.0,"1,000 dollars",48399.0,2361
@@ -2737,14 +2737,14 @@ Texas,Smith,543.0,"1,000 dollars",48423.0,2465
 Texas,Somervell,11.0,"1,000 dollars",48425.0,2470
 Texas,Starr,208.0,"1,000 dollars",48427.0,2474
 Texas,Stephens,57.0,"1,000 dollars",48429.0,2480
-Texas,Sterling,nan,"1,000 dollars",48431.0,2481
+Texas,Sterling,0,"1,000 dollars",48431.0,2481
 Texas,Stonewall,6.0,"1,000 dollars",48433.0,2486
-Texas,Sutton,nan,"1,000 dollars",48435.0,2490
+Texas,Sutton,0,"1,000 dollars",48435.0,2490
 Texas,Swisher,15.0,"1,000 dollars",48437.0,2495
 Texas,Tarrant,121.0,"1,000 dollars",48439.0,2500
 Texas,Taylor,45.0,"1,000 dollars",48441.0,2508
 Texas,Terrell,0.0,"1,000 dollars",48443.0,2518
-Texas,Terry,nan,"1,000 dollars",48445.0,2522
+Texas,Terry,0,"1,000 dollars",48445.0,2522
 Texas,Throckmorton,9.0,"1,000 dollars",48447.0,2525
 Texas,Titus,35.0,"1,000 dollars",48449.0,2531
 Texas,Tom Green,57.0,"1,000 dollars",48451.0,2536
@@ -2759,23 +2759,23 @@ Texas,Van Zandt,333.0,"1,000 dollars",48467.0,2586
 Texas,Victoria,143.0,"1,000 dollars",48469.0,2595
 Texas,Walker,50.0,"1,000 dollars",48471.0,2603
 Texas,Waller,237.0,"1,000 dollars",48473.0,2606
-Texas,Ward,nan,"1,000 dollars",48475.0,2610
+Texas,Ward,0,"1,000 dollars",48475.0,2610
 Texas,Washington,277.0,"1,000 dollars",48477.0,2613
 Texas,Webb,14.0,"1,000 dollars",48479.0,2616
 Texas,Wharton,184.0,"1,000 dollars",48481.0,2618
 Texas,Wheeler,24.0,"1,000 dollars",48483.0,2623
 Texas,Wichita,60.0,"1,000 dollars",48485.0,2632
-Texas,Wilbarger,nan,"1,000 dollars",48487.0,2634
+Texas,Wilbarger,0,"1,000 dollars",48487.0,2634
 Texas,Willacy,8.0,"1,000 dollars",48489.0,2639
 Texas,Williamson,601.0,"1,000 dollars",48491.0,2640
 Texas,Wilson,233.0,"1,000 dollars",48493.0,2641
-Texas,Winkler,nan,"1,000 dollars",48495.0,2642
+Texas,Winkler,0,"1,000 dollars",48495.0,2642
 Texas,Wise,314.0,"1,000 dollars",48497.0,2643
 Texas,Wood,213.0,"1,000 dollars",48499.0,2644
 Texas,Yoakum,21.0,"1,000 dollars",48501.0,2645
 Texas,Young,33.0,"1,000 dollars",48503.0,2646
 Texas,Zapata,9.0,"1,000 dollars",48505.0,2650
-Texas,Zavala,nan,"1,000 dollars",48507.0,2651
+Texas,Zavala,0,"1,000 dollars",48507.0,2651
 Utah,Beaver,65.0,"1,000 dollars",49001.0,2653
 Utah,Box Elder,2439.0,"1,000 dollars",49003.0,2658
 Utah,Cache,550.0,"1,000 dollars",49005.0,2661
@@ -2820,12 +2820,12 @@ Vermont,Washington,1562.0,"1,000 dollars",50023.0,2617
 Vermont,Windham,3175.0,"1,000 dollars",50025.0,2620
 Vermont,Windsor,2556.0,"1,000 dollars",50027.0,2625
 Virginia,Accomack,285.0,"1,000 dollars",51001.0,2719
-Virginia,Albemarle,nan,"1,000 dollars",51003.0,2728
+Virginia,Albemarle,0,"1,000 dollars",51003.0,2728
 Virginia,Alleghany,31.0,"1,000 dollars",51005.0,2733
 Virginia,Amelia,91.0,"1,000 dollars",51007.0,2741
 Virginia,Amherst,144.0,"1,000 dollars",51009.0,2746
 Virginia,Appomattox,137.0,"1,000 dollars",51011.0,2749
-Virginia,Arlington,nan,"1,000 dollars",51013.0,2753
+Virginia,Arlington,0,"1,000 dollars",51013.0,2753
 Virginia,Augusta,990.0,"1,000 dollars",51015.0,2758
 Virginia,Bath,3.0,"1,000 dollars",51017.0,2763
 Virginia,Bedford County,453.0,"1,000 dollars",51019.0,2769
@@ -2837,9 +2837,9 @@ Virginia,Buckingham,149.0,"1,000 dollars",51029.0,2785
 Virginia,Campbell,466.0,"1,000 dollars",51031.0,2788
 Virginia,Caroline,373.0,"1,000 dollars",51033.0,2793
 Virginia,Carroll,1479.0,"1,000 dollars",51035.0,2797
-Virginia,Charles City,nan,"1,000 dollars",51036.0,2806
+Virginia,Charles City,0,"1,000 dollars",51036.0,2806
 Virginia,Charlotte,131.0,"1,000 dollars",51037.0,2810
-Virginia,Chesterfield,nan,"1,000 dollars",51041.0,2816
+Virginia,Chesterfield,0,"1,000 dollars",51041.0,2816
 Virginia,Clarke,414.0,"1,000 dollars",51043.0,2819
 Virginia,Craig,95.0,"1,000 dollars",51045.0,2820
 Virginia,Culpeper,327.0,"1,000 dollars",51047.0,2824
@@ -2880,8 +2880,8 @@ Virginia,Mecklenburg,75.0,"1,000 dollars",51117.0,2964
 Virginia,Middlesex,22.0,"1,000 dollars",51119.0,2965
 Virginia,Montgomery,435.0,"1,000 dollars",51121.0,2966
 Virginia,Nelson,598.0,"1,000 dollars",51125.0,2968
-Virginia,New Kent,nan,"1,000 dollars",51127.0,2971
-Virginia,Northampton,nan,"1,000 dollars",51131.0,2982
+Virginia,New Kent,0,"1,000 dollars",51127.0,2971
+Virginia,Northampton,0,"1,000 dollars",51131.0,2982
 Virginia,Northumberland,45.0,"1,000 dollars",51133.0,2983
 Virginia,Nottoway,68.0,"1,000 dollars",51135.0,2984
 Virginia,Orange,121.0,"1,000 dollars",51137.0,2985
@@ -2913,46 +2913,46 @@ Virginia,Washington,270.0,"1,000 dollars",51191.0,2667
 Virginia,Westmoreland,676.0,"1,000 dollars",51193.0,2684
 Virginia,Wise,15.0,"1,000 dollars",51195.0,2695
 Virginia,Wythe,238.0,"1,000 dollars",51197.0,2699
-Virginia,York,nan,"1,000 dollars",51199.0,2709
-Virginia,Alexandria,nan,"1,000 dollars",51510.0,2712
-Virginia,Bedford City,nan,"1,000 dollars",51515.0,2713
-Virginia,Bristol,nan,"1,000 dollars",51520.0,2716
-Virginia,Buena Vista,nan,"1,000 dollars",51530.0,2720
-Virginia,Charlottesville,nan,"1,000 dollars",51540.0,2722
+Virginia,York,0,"1,000 dollars",51199.0,2709
+Virginia,Alexandria,0,"1,000 dollars",51510.0,2712
+Virginia,Bedford City,0,"1,000 dollars",51515.0,2713
+Virginia,Bristol,0,"1,000 dollars",51520.0,2716
+Virginia,Buena Vista,0,"1,000 dollars",51530.0,2720
+Virginia,Charlottesville,0,"1,000 dollars",51540.0,2722
 Virginia,Chesapeake,131.0,"1,000 dollars",51550.0,2724
-Virginia,Colonial Heights,nan,"1,000 dollars",51570.0,2727
-Virginia,Covington,nan,"1,000 dollars",51580.0,2729
-Virginia,Danville,nan,"1,000 dollars",51590.0,2732
-Virginia,Emporia,nan,"1,000 dollars",51595.0,2736
-Virginia,Fairfax City,nan,"1,000 dollars",51600.0,2737
-Virginia,Falls Church,nan,"1,000 dollars",51610.0,2740
-Virginia,Franklin City,nan,"1,000 dollars",51620.0,2744
-Virginia,Fredericksburg,nan,"1,000 dollars",51630.0,2745
-Virginia,Galax,nan,"1,000 dollars",51640.0,2747
+Virginia,Colonial Heights,0,"1,000 dollars",51570.0,2727
+Virginia,Covington,0,"1,000 dollars",51580.0,2729
+Virginia,Danville,0,"1,000 dollars",51590.0,2732
+Virginia,Emporia,0,"1,000 dollars",51595.0,2736
+Virginia,Fairfax City,0,"1,000 dollars",51600.0,2737
+Virginia,Falls Church,0,"1,000 dollars",51610.0,2740
+Virginia,Franklin City,0,"1,000 dollars",51620.0,2744
+Virginia,Fredericksburg,0,"1,000 dollars",51630.0,2745
+Virginia,Galax,0,"1,000 dollars",51640.0,2747
 Virginia,Hampton,0.0,"1,000 dollars",51650.0,2751
-Virginia,Harrisonburg,nan,"1,000 dollars",51660.0,2755
-Virginia,Hopewell,nan,"1,000 dollars",51670.0,2756
-Virginia,Lexington,nan,"1,000 dollars",51678.0,2760
-Virginia,Lynchburg,nan,"1,000 dollars",51680.0,2762
-Virginia,Manassas,nan,"1,000 dollars",51683.0,2765
-Virginia,Manassas Park,nan,"1,000 dollars",51685.0,2768
-Virginia,Martinsville,nan,"1,000 dollars",51690.0,2771
+Virginia,Harrisonburg,0,"1,000 dollars",51660.0,2755
+Virginia,Hopewell,0,"1,000 dollars",51670.0,2756
+Virginia,Lexington,0,"1,000 dollars",51678.0,2760
+Virginia,Lynchburg,0,"1,000 dollars",51680.0,2762
+Virginia,Manassas,0,"1,000 dollars",51683.0,2765
+Virginia,Manassas Park,0,"1,000 dollars",51685.0,2768
+Virginia,Martinsville,0,"1,000 dollars",51690.0,2771
 Virginia,Newport News,0.0,"1,000 dollars",51700.0,2775
-Virginia,Norfolk,nan,"1,000 dollars",51710.0,2778
-Virginia,Norton,nan,"1,000 dollars",51720.0,2780
-Virginia,Petersburg,nan,"1,000 dollars",51730.0,2782
-Virginia,Poquoson,nan,"1,000 dollars",51735.0,2791
-Virginia,Portsmouth,nan,"1,000 dollars",51740.0,2795
-Virginia,Radford,nan,"1,000 dollars",51750.0,2799
-Virginia,Richmond City,nan,"1,000 dollars",51760.0,2802
-Virginia,Roanoke City,nan,"1,000 dollars",51770.0,2805
-Virginia,Salem,nan,"1,000 dollars",51775.0,2809
-Virginia,Staunton,nan,"1,000 dollars",51790.0,2812
+Virginia,Norfolk,0,"1,000 dollars",51710.0,2778
+Virginia,Norton,0,"1,000 dollars",51720.0,2780
+Virginia,Petersburg,0,"1,000 dollars",51730.0,2782
+Virginia,Poquoson,0,"1,000 dollars",51735.0,2791
+Virginia,Portsmouth,0,"1,000 dollars",51740.0,2795
+Virginia,Radford,0,"1,000 dollars",51750.0,2799
+Virginia,Richmond City,0,"1,000 dollars",51760.0,2802
+Virginia,Roanoke City,0,"1,000 dollars",51770.0,2805
+Virginia,Salem,0,"1,000 dollars",51775.0,2809
+Virginia,Staunton,0,"1,000 dollars",51790.0,2812
 Virginia,Suffolk,100.0,"1,000 dollars",51800.0,2815
 Virginia,Virginia Beach,504.0,"1,000 dollars",51810.0,2826
-Virginia,Waynesboro,nan,"1,000 dollars",51820.0,2831
-Virginia,Williamsburg,nan,"1,000 dollars",51830.0,2835
-Virginia,Winchester,nan,"1,000 dollars",51840.0,2837
+Virginia,Waynesboro,0,"1,000 dollars",51820.0,2831
+Virginia,Williamsburg,0,"1,000 dollars",51830.0,2835
+Virginia,Winchester,0,"1,000 dollars",51840.0,2837
 Washington,Adams,115.0,"1,000 dollars",53001.0,2840
 Washington,Asotin,278.0,"1,000 dollars",53003.0,2845
 Washington,Benton,862.0,"1,000 dollars",53005.0,2847
@@ -2994,7 +2994,7 @@ Washington,Whitman,245.0,"1,000 dollars",53075.0,2973
 Washington,Yakima,4138.0,"1,000 dollars",53077.0,2974
 West Virginia,Barbour,130.0,"1,000 dollars",54001.0,2975
 West Virginia,Berkeley,2112.0,"1,000 dollars",54003.0,2976
-West Virginia,Boone,nan,"1,000 dollars",54005.0,2977
+West Virginia,Boone,0,"1,000 dollars",54005.0,2977
 West Virginia,Braxton,24.0,"1,000 dollars",54007.0,2978
 West Virginia,Brooke,17.0,"1,000 dollars",54009.0,2979
 West Virginia,Cabell,58.0,"1,000 dollars",54011.0,2980
@@ -3021,7 +3021,7 @@ West Virginia,Marshall,130.0,"1,000 dollars",54051.0,3041
 West Virginia,Mason,181.0,"1,000 dollars",54053.0,3042
 West Virginia,Mercer,94.0,"1,000 dollars",54055.0,3044
 West Virginia,Mineral,293.0,"1,000 dollars",54057.0,3046
-West Virginia,Mingo,nan,"1,000 dollars",54059.0,3048
+West Virginia,Mingo,0,"1,000 dollars",54059.0,3048
 West Virginia,Monongalia,198.0,"1,000 dollars",54061.0,3050
 West Virginia,Monroe,174.0,"1,000 dollars",54063.0,3052
 West Virginia,Morgan,364.0,"1,000 dollars",54065.0,3054
@@ -3140,5 +3140,5 @@ Wyoming,Sublette,68.0,"1,000 dollars",56035.0,3049
 Wyoming,Sweetwater,94.0,"1,000 dollars",56037.0,3051
 Wyoming,Teton,24.0,"1,000 dollars",56039.0,3053
 Wyoming,Uinta,133.0,"1,000 dollars",56041.0,3055
-Wyoming,Washakie,nan,"1,000 dollars",56043.0,3056
-Wyoming,Weston,nan,"1,000 dollars",56045.0,3058
+Wyoming,Washakie,0,"1,000 dollars",56043.0,3056
+Wyoming,Weston,0,"1,000 dollars",56045.0,3058

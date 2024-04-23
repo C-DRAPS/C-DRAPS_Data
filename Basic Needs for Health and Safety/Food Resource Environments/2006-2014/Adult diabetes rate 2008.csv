@@ -75,7 +75,7 @@ Alaska,Denali,6.0,Percent,2068,426
 Alaska,Dillingham,7.8,Percent,2070,445
 Alaska,Fairbanks North Star,5.2,Percent,2090,454
 Alaska,Haines,6.6,Percent,2100,462
-Alaska,Hoonah-Angoon,nan,Percent,2105,476
+Alaska,Hoonah-Angoon,0,Percent,2105,476
 Alaska,Juneau,5.3,Percent,2110,482
 Alaska,Kenai Peninsula,6.3,Percent,2122,494
 Alaska,Ketchikan Gateway,7.2,Percent,2130,514
@@ -85,14 +85,14 @@ Alaska,Matanuska-Susitna,5.8,Percent,2170,556
 Alaska,Nome,7.1,Percent,2180,571
 Alaska,North Slope,7.1,Percent,2185,614
 Alaska,Northwest Arctic,6.6,Percent,2188,638
-Alaska,Petersburg,nan,Percent,2195,645
-Alaska,Prince of Wales-Hyder,nan,Percent,2198,669
+Alaska,Petersburg,0,Percent,2195,645
+Alaska,Prince of Wales-Hyder,0,Percent,2198,669
 Alaska,Sitka,6.8,Percent,2220,679
-Alaska,Skagway,nan,Percent,2230,683
+Alaska,Skagway,0,Percent,2230,683
 Alaska,Southeast Fairbanks,6.3,Percent,2240,690
 Alaska,Valdez-Cordova,6.2,Percent,2261,710
 Alaska,Wade Hampton,6.4,Percent,2270,725
-Alaska,Wrangell,nan,Percent,2275,733
+Alaska,Wrangell,0,Percent,2275,733
 Alaska,Yakutat,7.3,Percent,2282,744
 Alaska,Yukon-Koyukuk,6.9,Percent,2290,753
 Arizona,Apache,13.6,Percent,4001,761

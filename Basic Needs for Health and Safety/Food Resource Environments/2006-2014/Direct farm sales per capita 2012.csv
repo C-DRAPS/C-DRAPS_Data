@@ -66,42 +66,42 @@ Alabama,Walker,7.600024175027197,Dollars,1127.0,317
 Alabama,Washington,1.1685655857434998,Dollars,1129.0,319
 Alabama,Wilcox,2.9916410030796303,Dollars,1131.0,326
 Alabama,Winston,2.3990734612839177,Dollars,1133.0,332
-Alaska,Aleutians East,nan,Dollars,2013.0,346
-Alaska,Aleutians West,nan,Dollars,2016.0,381
+Alaska,Aleutians East,0,Dollars,2013.0,346
+Alaska,Aleutians West,0,Dollars,2016.0,381
 Alaska,Anchorage,3.1679799606849,Dollars,2020.0,400
-Alaska,Bethel,nan,Dollars,2050.0,411
-Alaska,Bristol Bay,nan,Dollars,2060.0,423
-Alaska,Denali,nan,Dollars,2068.0,426
-Alaska,Dillingham,nan,Dollars,2070.0,445
+Alaska,Bethel,0,Dollars,2050.0,411
+Alaska,Bristol Bay,0,Dollars,2060.0,423
+Alaska,Denali,0,Dollars,2068.0,426
+Alaska,Dillingham,0,Dollars,2070.0,445
 Alaska,Fairbanks North Star,7.263126432200857,Dollars,2090.0,454
-Alaska,Haines,nan,Dollars,2100.0,462
-Alaska,Hoonah-Angoon,nan,Dollars,2105.0,476
+Alaska,Haines,0,Dollars,2100.0,462
+Alaska,Hoonah-Angoon,0,Dollars,2105.0,476
 Alaska,Juneau,2.6816262367845143,Dollars,2110.0,482
 Alaska,Kenai Peninsula,5.477431927108022,Dollars,2122.0,494
-Alaska,Ketchikan Gateway,nan,Dollars,2130.0,514
-Alaska,Kodiak Island,nan,Dollars,2150.0,533
-Alaska,Lake and Peninsula,nan,Dollars,2164.0,544
-Alaska,Matanuska-Susitna,nan,Dollars,2170.0,556
-Alaska,Nome,nan,Dollars,2180.0,571
-Alaska,North Slope,nan,Dollars,2185.0,614
-Alaska,Northwest Arctic,nan,Dollars,2188.0,638
-Alaska,Petersburg,nan,Dollars,2195.0,645
-Alaska,Prince of Wales-Hyder,nan,Dollars,2198.0,669
-Alaska,Sitka,nan,Dollars,2220.0,679
-Alaska,Skagway,nan,Dollars,2230.0,683
-Alaska,Southeast Fairbanks,nan,Dollars,2240.0,690
-Alaska,Valdez-Cordova,nan,Dollars,2261.0,710
-Alaska,Wade Hampton,nan,Dollars,2270.0,725
-Alaska,Wrangell,nan,Dollars,2275.0,733
-Alaska,Yakutat,nan,Dollars,2282.0,744
-Alaska,Yukon-Koyukuk,nan,Dollars,2290.0,753
+Alaska,Ketchikan Gateway,0,Dollars,2130.0,514
+Alaska,Kodiak Island,0,Dollars,2150.0,533
+Alaska,Lake and Peninsula,0,Dollars,2164.0,544
+Alaska,Matanuska-Susitna,0,Dollars,2170.0,556
+Alaska,Nome,0,Dollars,2180.0,571
+Alaska,North Slope,0,Dollars,2185.0,614
+Alaska,Northwest Arctic,0,Dollars,2188.0,638
+Alaska,Petersburg,0,Dollars,2195.0,645
+Alaska,Prince of Wales-Hyder,0,Dollars,2198.0,669
+Alaska,Sitka,0,Dollars,2220.0,679
+Alaska,Skagway,0,Dollars,2230.0,683
+Alaska,Southeast Fairbanks,0,Dollars,2240.0,690
+Alaska,Valdez-Cordova,0,Dollars,2261.0,710
+Alaska,Wade Hampton,0,Dollars,2270.0,725
+Alaska,Wrangell,0,Dollars,2275.0,733
+Alaska,Yakutat,0,Dollars,2282.0,744
+Alaska,Yukon-Koyukuk,0,Dollars,2290.0,753
 Arizona,Apache,1.72730512982206,Dollars,4001.0,761
 Arizona,Cochise,8.704355210481621,Dollars,4003.0,763
 Arizona,Coconino,7.626233655444263,Dollars,4005.0,771
 Arizona,Gila,0.6977051158756199,Dollars,4007.0,787
 Arizona,Graham,3.383316191197965,Dollars,4009.0,0
-Arizona,Greenlee,nan,Dollars,4011.0,1
-Arizona,La Paz,nan,Dollars,4012.0,3
+Arizona,Greenlee,0,Dollars,4011.0,1
+Arizona,La Paz,0,Dollars,4012.0,3
 Arizona,Maricopa,0.5173034322994023,Dollars,4013.0,9
 Arizona,Mohave,1.0775862068965518,Dollars,4015.0,15
 Arizona,Navajo,2.9710463128194107,Dollars,4017.0,17
@@ -116,11 +116,11 @@ Arkansas,Baxter,1.826328349486193,Dollars,5005.0,54
 Arkansas,Benton,1.2490717808501415,Dollars,5007.0,59
 Arkansas,Boone,4.554222031718817,Dollars,5009.0,62
 Arkansas,Bradley,3.900709219858156,Dollars,5011.0,68
-Arkansas,Calhoun,nan,Dollars,5013.0,72
+Arkansas,Calhoun,0,Dollars,5013.0,72
 Arkansas,Carroll,4.678150498640073,Dollars,5015.0,74
-Arkansas,Chicot,nan,Dollars,5017.0,77
+Arkansas,Chicot,0,Dollars,5017.0,77
 Arkansas,Clark,0.7890929814563149,Dollars,5019.0,86
-Arkansas,Clay,nan,Dollars,5021.0,93
+Arkansas,Clay,0,Dollars,5021.0,93
 Arkansas,Cleburne,0.6199868252799628,Dollars,5023.0,97
 Arkansas,Cleveland,0.0,Dollars,5025.0,103
 Arkansas,Columbia,0.24562983583739306,Dollars,5027.0,107
@@ -130,7 +130,7 @@ Arkansas,Crawford,2.487240777828025,Dollars,5033.0,115
 Arkansas,Crittenden,0.9790209790209791,Dollars,5035.0,119
 Arkansas,Cross,6.007027088291964,Dollars,5037.0,124
 Arkansas,Dallas,1.1279608973555584,Dollars,5039.0,128
-Arkansas,Desha,nan,Dollars,5041.0,130
+Arkansas,Desha,0,Dollars,5041.0,130
 Arkansas,Drew,1.7048481619605753,Dollars,5043.0,136
 Arkansas,Faulkner,2.850732925121873,Dollars,5045.0,141
 Arkansas,Franklin,6.240945057394406,Dollars,5047.0,144
@@ -148,8 +148,8 @@ Arkansas,Jefferson,0.7504992159963547,Dollars,5069.0,213
 Arkansas,Johnson,7.953360874097525,Dollars,5071.0,218
 Arkansas,Lafayette,17.739551135600053,Dollars,5073.0,222
 Arkansas,Lawrence,3.755868544600939,Dollars,5075.0,230
-Arkansas,Lee,nan,Dollars,5077.0,237
-Arkansas,Lincoln,nan,Dollars,5079.0,244
+Arkansas,Lee,0,Dollars,5077.0,237
+Arkansas,Lincoln,0,Dollars,5079.0,244
 Arkansas,Little River,1.8590240123934934,Dollars,5081.0,251
 Arkansas,Logan,3.4534466306175307,Dollars,5083.0,258
 Arkansas,Lonoke,9.02969958061111,Dollars,5085.0,268
@@ -210,7 +210,7 @@ California,Mariposa,3.9764771772612715,Dollars,6043.0,178
 California,Mendocino,17.835515641781495,Dollars,6045.0,190
 California,Merced,44.092930157226455,Dollars,6047.0,204
 California,Modoc,16.286295939140683,Dollars,6049.0,207
-California,Mono,nan,Dollars,6051.0,214
+California,Mono,0,Dollars,6051.0,214
 California,Monterey,5.742881195757444,Dollars,6053.0,228
 California,Napa,9.916939340548703,Dollars,6055.0,236
 California,Nevada,9.492511802051116,Dollars,6057.0,243
@@ -222,7 +222,7 @@ California,Sacramento,2.700097896671375,Dollars,6067.0,289
 California,San Benito,32.117429902434736,Dollars,6069.0,295
 California,San Bernardino,1.5657414237667622,Dollars,6071.0,302
 California,San Diego,3.5734047490891414,Dollars,6073.0,315
-California,San Francisco,nan,Dollars,6075.0,331
+California,San Francisco,0,Dollars,6075.0,331
 California,San Joaquin,12.714836399302031,Dollars,6077.0,339
 California,San Luis Obispo,21.43127713511466,Dollars,6079.0,351
 California,San Mateo,1.4824916120408562,Dollars,6081.0,368
@@ -230,7 +230,7 @@ California,Santa Barbara,14.58666474808122,Dollars,6083.0,391
 California,Santa Clara,1.9540350987716408,Dollars,6085.0,406
 California,Santa Cruz,29.205129840170745,Dollars,6087.0,415
 California,Shasta,4.354868541259156,Dollars,6089.0,431
-California,Sierra,nan,Dollars,6091.0,439
+California,Sierra,0,Dollars,6091.0,439
 California,Siskiyou,10.17033614206759,Dollars,6093.0,446
 California,Solano,6.425444856789419,Dollars,6095.0,453
 California,Sonoma,16.61348233098181,Dollars,6097.0,463
@@ -253,13 +253,13 @@ Colorado,Boulder,5.737232775210441,Dollars,8013.0,570
 Colorado,Broomfield,0.0,Dollars,8014.0,577
 Colorado,Chaffee,7.125497127706584,Dollars,8015.0,582
 Colorado,Cheyenne,13.304949441192123,Dollars,8017.0,587
-Colorado,Clear Creek,nan,Dollars,8019.0,591
+Colorado,Clear Creek,0,Dollars,8019.0,591
 Colorado,Conejos,7.007369819983086,Dollars,8021.0,596
 Colorado,Costilla,10.552624271035823,Dollars,8023.0,599
 Colorado,Crowley,16.986706056129986,Dollars,8025.0,605
 Colorado,Custer,1.650943396226415,Dollars,8027.0,610
 Colorado,Delta,54.36210747602155,Dollars,8029.0,617
-Colorado,Denver,nan,Dollars,8031.0,628
+Colorado,Denver,0,Dollars,8031.0,628
 Colorado,Dolores,15.554440541896637,Dollars,8033.0,636
 Colorado,Douglas,1.1718501504990408,Dollars,8035.0,644
 Colorado,Eagle,2.1734530976515165,Dollars,8037.0,648
@@ -302,7 +302,7 @@ Colorado,Saguache,11.077702168064567,Dollars,8109.0,811
 Colorado,San Juan,0.0,Dollars,8111.0,347
 Colorado,San Miguel,11.075949367088608,Dollars,8113.0,359
 Colorado,Sedgwick,8.845829823083404,Dollars,8115.0,366
-Colorado,Summit,nan,Dollars,8117.0,373
+Colorado,Summit,0,Dollars,8117.0,373
 Colorado,Teller,3.6794592050656743,Dollars,8119.0,375
 Colorado,Washington,12.032932235592147,Dollars,8121.0,377
 Colorado,Weld,6.659927229220384,Dollars,8123.0,382
@@ -318,7 +318,7 @@ Connecticut,Windham,20.560953689101424,Dollars,9015.0,529
 Delaware,Kent,6.431558787907715,Dollars,10001.0,532
 Delaware,New Castle,0.9007508087533939,Dollars,10003.0,536
 Delaware,Sussex,13.434869660610891,Dollars,10005.0,609
-District of Columbia,District of Columbia,nan,Dollars,11001.0,630
+District of Columbia,District of Columbia,0,Dollars,11001.0,630
 Florida,Alachua,2.7337494884153393,Dollars,12001.0,639
 Florida,Baker,5.286115629158657,Dollars,12003.0,641
 Florida,Bay,0.1570497906002792,Dollars,12005.0,658
@@ -336,11 +336,11 @@ Florida,Dixie,0.6226650062266501,Dollars,12029.0,918
 Florida,Duval,0.09762088814575934,Dollars,12031.0,924
 Florida,Escambia,0.9796476555848135,Dollars,12033.0,931
 Florida,Flagler,0.2231689997971191,Dollars,12035.0,935
-Florida,Franklin,nan,Dollars,12037.0,937
+Florida,Franklin,0,Dollars,12037.0,937
 Florida,Gadsden,1.245704467353952,Dollars,12039.0,938
 Florida,Gilchrist,19.966820713354664,Dollars,12041.0,939
 Florida,Glades,1.9263368777931884,Dollars,12043.0,940
-Florida,Gulf,nan,Dollars,12045.0,941
+Florida,Gulf,0,Dollars,12045.0,941
 Florida,Hamilton,1.2238237693772096,Dollars,12047.0,942
 Florida,Hardee,6.206418166551057,Dollars,12049.0,943
 Florida,Hendry,3.6367497544530276,Dollars,12051.0,944
@@ -354,7 +354,7 @@ Florida,Jefferson,10.073260073260073,Dollars,12065.0,951
 Florida,Lafayette,2.8367184840576423,Dollars,12067.0,952
 Florida,Lake,5.547644476088762,Dollars,12069.0,953
 Florida,Lee,1.4824808293208656,Dollars,12071.0,954
-Florida,Leon,nan,Dollars,12073.0,955
+Florida,Leon,0,Dollars,12073.0,955
 Florida,Levy,4.006209624918624,Dollars,12075.0,956
 Florida,Liberty,0.0,Dollars,12077.0,957
 Florida,Madison,1.9561194818926777,Dollars,12079.0,958
@@ -362,7 +362,7 @@ Florida,Manatee,1.7936602046988508,Dollars,12081.0,959
 Florida,Marion,1.52053015019725,Dollars,12083.0,960
 Florida,Martin,1.3162047638554055,Dollars,12085.0,961
 Florida,Miami-Dade,1.0443542256517448,Dollars,12086.0,962
-Florida,Monroe,nan,Dollars,12087.0,963
+Florida,Monroe,0,Dollars,12087.0,963
 Florida,Nassau,0.6700975662056395,Dollars,12089.0,964
 Florida,Okaloosa,0.37327753447559764,Dollars,12091.0,965
 Florida,Okeechobee,7.5140091696383084,Dollars,12093.0,966
@@ -386,16 +386,16 @@ Florida,Volusia,0.4606505834572128,Dollars,12127.0,983
 Florida,Wakulla,1.8828723542397092,Dollars,12129.0,984
 Florida,Walton,1.1169479397546205,Dollars,12131.0,985
 Florida,Washington,7.006241191866318,Dollars,12133.0,986
-Georgia,Appling,nan,Dollars,13001.0,987
+Georgia,Appling,0,Dollars,13001.0,987
 Georgia,Atkinson,2.4271844660194173,Dollars,13003.0,988
 Georgia,Bacon,0.44726719742374094,Dollars,13005.0,989
-Georgia,Baker,nan,Dollars,13007.0,990
+Georgia,Baker,0,Dollars,13007.0,990
 Georgia,Baldwin,1.3130139050325025,Dollars,13009.0,991
 Georgia,Banks,1.8097066081710995,Dollars,13011.0,992
 Georgia,Barrow,0.5270880521959628,Dollars,13013.0,993
 Georgia,Bartow,0.2586421288236757,Dollars,13015.0,994
 Georgia,Ben Hill,0.8555783709787816,Dollars,13017.0,995
-Georgia,Berrien,nan,Dollars,13019.0,996
+Georgia,Berrien,0,Dollars,13019.0,996
 Georgia,Bibb,0.09607809227339982,Dollars,13021.0,997
 Georgia,Bleckley,1.472525769200961,Dollars,13023.0,998
 Georgia,Brantley,14.130845153983065,Dollars,13025.0,999
@@ -417,7 +417,7 @@ Georgia,Cherokee,0.38952980129450715,Dollars,13057.0,662
 Georgia,Clarke,0.14141094853473302,Dollars,13059.0,666
 Georgia,Clay,0.0,Dollars,13061.0,670
 Georgia,Clayton,0.0,Dollars,13063.0,673
-Georgia,Clinch,nan,Dollars,13065.0,676
+Georgia,Clinch,0,Dollars,13065.0,676
 Georgia,Cobb,0.14409914020846343,Dollars,13067.0,680
 Georgia,Coffee,1.2302407093614354,Dollars,13069.0,684
 Georgia,Colquitt,1.3230095213308175,Dollars,13071.0,689
@@ -425,16 +425,16 @@ Georgia,Columbia,0.31680181029605886,Dollars,13073.0,692
 Georgia,Cook,0.8902605495875127,Dollars,13075.0,697
 Georgia,Coweta,0.8335755035866689,Dollars,13077.0,700
 Georgia,Crawford,38.15467256497354,Dollars,13079.0,704
-Georgia,Crisp,nan,Dollars,13081.0,707
+Georgia,Crisp,0,Dollars,13081.0,707
 Georgia,Dade,2.1766733176129147,Dollars,13083.0,708
 Georgia,Dawson,0.22356360384529397,Dollars,13085.0,713
 Georgia,Decatur,0.437078856310326,Dollars,13087.0,714
 Georgia,DeKalb,0.045156920298035676,Dollars,13089.0,718
 Georgia,Dodge,1.5935508061492314,Dollars,13091.0,720
 Georgia,Dooly,1.4641288433382138,Dollars,13093.0,724
-Georgia,Dougherty,nan,Dollars,13095.0,728
+Georgia,Dougherty,0,Dollars,13095.0,728
 Georgia,Douglas,0.9715267917196024,Dollars,13097.0,731
-Georgia,Early,nan,Dollars,13099.0,735
+Georgia,Early,0,Dollars,13099.0,735
 Georgia,Echols,0.5008765339343851,Dollars,13101.0,737
 Georgia,Effingham,1.067755652548564,Dollars,13103.0,742
 Georgia,Elbert,1.991421568627451,Dollars,13105.0,746
@@ -447,7 +447,7 @@ Georgia,Forsyth,0.7728057645980344,Dollars,13117.0,768
 Georgia,Franklin,2.5063798760481224,Dollars,13119.0,772
 Georgia,Fulton,0.4029387942107718,Dollars,13121.0,779
 Georgia,Gilmer,13.079077021231347,Dollars,13123.0,781
-Georgia,Glascock,nan,Dollars,13125.0,783
+Georgia,Glascock,0,Dollars,13125.0,783
 Georgia,Glynn,0.18521948508983144,Dollars,13127.0,793
 Georgia,Gordon,2.9082814211083785,Dollars,13129.0,796
 Georgia,Grady,0.6312633157105658,Dollars,13131.0,797
@@ -467,7 +467,7 @@ Georgia,Jackson,4.978827577080852,Dollars,13157.0,828
 Georgia,Jasper,2.9433406916850626,Dollars,13159.0,830
 Georgia,Jeff Davis,2.382055184278436,Dollars,13161.0,832
 Georgia,Jefferson,5.97451685667256,Dollars,13163.0,834
-Georgia,Jenkins,nan,Dollars,13165.0,835
+Georgia,Jenkins,0,Dollars,13165.0,835
 Georgia,Johnson,1.0109179134654267,Dollars,13167.0,837
 Georgia,Jones,1.0426079099186767,Dollars,13169.0,839
 Georgia,Lamar,1.3858093126385809,Dollars,13171.0,841
@@ -475,7 +475,7 @@ Georgia,Lanier,0.09571209800918837,Dollars,13173.0,845
 Georgia,Laurens,1.1044888092360272,Dollars,13175.0,847
 Georgia,Lee,0.20892092343048158,Dollars,13177.0,849
 Georgia,Liberty,0.06117236844117512,Dollars,13179.0,855
-Georgia,Lincoln,nan,Dollars,13181.0,857
+Georgia,Lincoln,0,Dollars,13181.0,857
 Georgia,Long,0.9281603861147206,Dollars,13183.0,860
 Georgia,Lowndes,0.418267848273338,Dollars,13185.0,863
 Georgia,Lumpkin,0.2279610512261048,Dollars,13187.0,865
@@ -502,13 +502,13 @@ Georgia,Pierce,1.16710875331565,Dollars,13229.0,915
 Georgia,Pike,12.987012987012987,Dollars,13231.0,7
 Georgia,Polk,1.1918371318074574,Dollars,13233.0,8
 Georgia,Pulaski,5.047912388774812,Dollars,13235.0,11
-Georgia,Putnam,nan,Dollars,13237.0,13
+Georgia,Putnam,0,Dollars,13237.0,13
 Georgia,Quitman,0.0,Dollars,13239.0,16
 Georgia,Rabun,7.235712533725779,Dollars,13241.0,18
-Georgia,Randolph,nan,Dollars,13243.0,23
+Georgia,Randolph,0,Dollars,13243.0,23
 Georgia,Richmond,0.009908347783007183,Dollars,13245.0,24
 Georgia,Rockdale,0.3152879630062123,Dollars,13247.0,28
-Georgia,Schley,nan,Dollars,13249.0,31
+Georgia,Schley,0,Dollars,13249.0,31
 Georgia,Screven,6.477960850584425,Dollars,13251.0,34
 Georgia,Seminole,0.0,Dollars,13253.0,38
 Georgia,Spalding,0.5335007061038757,Dollars,13255.0,41
@@ -520,11 +520,11 @@ Georgia,Taliaferro,11.961722488038278,Dollars,13265.0,60
 Georgia,Tattnall,9.405255878284924,Dollars,13267.0,63
 Georgia,Taylor,2.6278069756330624,Dollars,13269.0,69
 Georgia,Telfair,1.1626483906498593,Dollars,13271.0,75
-Georgia,Terrell,nan,Dollars,13273.0,78
+Georgia,Terrell,0,Dollars,13273.0,78
 Georgia,Thomas,1.9748210318439892,Dollars,13275.0,83
-Georgia,Tift,nan,Dollars,13277.0,87
+Georgia,Tift,0,Dollars,13277.0,87
 Georgia,Toombs,1.0672751361695862,Dollars,13279.0,91
-Georgia,Towns,nan,Dollars,13281.0,95
+Georgia,Towns,0,Dollars,13281.0,95
 Georgia,Treutlen,12.142751369761587,Dollars,13283.0,102
 Georgia,Troup,0.1607787538184954,Dollars,13285.0,105
 Georgia,Turner,9.679732313575526,Dollars,13287.0,108
@@ -534,11 +534,11 @@ Georgia,Upson,3.9476652379878185,Dollars,13293.0,123
 Georgia,Walker,1.4225585522166981,Dollars,13295.0,126
 Georgia,Walton,1.6624025843875638,Dollars,13297.0,127
 Georgia,Ware,1.5075376884422111,Dollars,13299.0,132
-Georgia,Warren,nan,Dollars,13301.0,135
+Georgia,Warren,0,Dollars,13301.0,135
 Georgia,Washington,0.6714628297362111,Dollars,13303.0,143
 Georgia,Wayne,1.152984582949005,Dollars,13305.0,147
-Georgia,Webster,nan,Dollars,13307.0,149
-Georgia,Wheeler,nan,Dollars,13309.0,154
+Georgia,Webster,0,Dollars,13307.0,149
+Georgia,Wheeler,0,Dollars,13309.0,154
 Georgia,White,3.737436046300664,Dollars,13311.0,157
 Georgia,Whitfield,0.4552675423301949,Dollars,13313.0,159
 Georgia,Wilcox,19.381991361169565,Dollars,13315.0,163
@@ -547,7 +547,7 @@ Georgia,Wilkinson,15.291160452450775,Dollars,13319.0,169
 Georgia,Worth,0.32612746925083863,Dollars,13321.0,173
 Hawaii,Hawaii,31.936645831126178,Dollars,15001.0,198
 Hawaii,Honolulu,3.321350942090342,Dollars,15003.0,234
-Hawaii,Kalawao,nan,Dollars,15005.0,247
+Hawaii,Kalawao,0,Dollars,15005.0,247
 Hawaii,Kauai,18.643054076526965,Dollars,15007.0,261
 Hawaii,Maui,16.806510630244148,Dollars,15009.0,323
 Idaho,Ada,3.007915954426405,Dollars,16001.0,336
@@ -561,7 +561,7 @@ Idaho,Boise,4.264078811939421,Dollars,16015.0,380
 Idaho,Bonner,9.817498392601019,Dollars,16017.0,387
 Idaho,Bonneville,2.0295168440545446,Dollars,16019.0,395
 Idaho,Boundary,10.526315789473685,Dollars,16021.0,405
-Idaho,Butte,nan,Dollars,16023.0,414
+Idaho,Butte,0,Dollars,16023.0,414
 Idaho,Camas,90.99350046425255,Dollars,16025.0,429
 Idaho,Canyon,6.44269406746001,Dollars,16027.0,441
 Idaho,Caribou,51.63003392830801,Dollars,16029.0,449
@@ -580,7 +580,7 @@ Idaho,Jerome,3.7290242386575514,Dollars,16053.0,547
 Idaho,Kootenai,3.0289826553847017,Dollars,16055.0,552
 Idaho,Latah,7.621991146965609,Dollars,16057.0,559
 Idaho,Lemhi,13.122346584330375,Dollars,16059.0,566
-Idaho,Lewis,nan,Dollars,16061.0,574
+Idaho,Lewis,0,Dollars,16061.0,574
 Idaho,Lincoln,10.464231354642314,Dollars,16063.0,578
 Idaho,Madison,1.829656342808655,Dollars,16065.0,581
 Idaho,Minidoka,3.0816640986132513,Dollars,16067.0,585
@@ -595,7 +595,7 @@ Idaho,Twin Falls,5.056873909332926,Dollars,16083.0,634
 Idaho,Valley,3.3645252865103563,Dollars,16085.0,643
 Idaho,Washington,37.63066202090592,Dollars,16087.0,649
 Illinois,Adams,4.317789291882556,Dollars,17001.0,650
-Illinois,Alexander,nan,Dollars,17003.0,651
+Illinois,Alexander,0,Dollars,17003.0,651
 Illinois,Bond,1.9421912487147264,Dollars,17005.0,652
 Illinois,Boone,27.898510345852372,Dollars,17007.0,653
 Illinois,Brown,6.09490639965172,Dollars,17009.0,654
@@ -628,8 +628,8 @@ Illinois,Greene,12.33208544373486,Dollars,17061.0,96
 Illinois,Grundy,1.4749850508271876,Dollars,17063.0,99
 Illinois,Hamilton,4.065526724859501,Dollars,17065.0,106
 Illinois,Hancock,0.9528346831824679,Dollars,17067.0,111
-Illinois,Hardin,nan,Dollars,17069.0,113
-Illinois,Henderson,nan,Dollars,17071.0,117
+Illinois,Hardin,0,Dollars,17069.0,113
+Illinois,Henderson,0,Dollars,17071.0,117
 Illinois,Henry,3.49008814965498,Dollars,17073.0,121
 Illinois,Iroquois,10.070321567556496,Dollars,17075.0,125
 Illinois,Jackson,2.9338941084692873,Dollars,17077.0,129
@@ -669,9 +669,9 @@ Illinois,Peoria,2.543890121048553,Dollars,17143.0,233
 Illinois,Perry,5.397246489502813,Dollars,17145.0,235
 Illinois,Piatt,2.3001028993402337,Dollars,17147.0,238
 Illinois,Pike,1.8442245035962377,Dollars,17149.0,241
-Illinois,Pope,nan,Dollars,17151.0,245
+Illinois,Pope,0,Dollars,17151.0,245
 Illinois,Pulaski,1.6758840288252053,Dollars,17153.0,248
-Illinois,Putnam,nan,Dollars,17155.0,253
+Illinois,Putnam,0,Dollars,17155.0,253
 Illinois,Randolph,2.0916696980720264,Dollars,17157.0,255
 Illinois,Richland,4.820468450651999,Dollars,17159.0,259
 Illinois,Rock Island,1.3539769688517598,Dollars,17161.0,265
@@ -679,14 +679,14 @@ Illinois,St. Clair,0.5657813924922298,Dollars,17163.0,269
 Illinois,Saline,0.20024830790179823,Dollars,17165.0,271
 Illinois,Sangamon,1.997029543994862,Dollars,17167.0,274
 Illinois,Schuyler,1.2070815450643777,Dollars,17169.0,278
-Illinois,Scott,nan,Dollars,17171.0,280
+Illinois,Scott,0,Dollars,17171.0,280
 Illinois,Shelby,4.45043830074174,Dollars,17173.0,283
 Illinois,Stark,42.09462872537464,Dollars,17175.0,285
 Illinois,Stephenson,2.918681693261467,Dollars,17177.0,290
 Illinois,Tazewell,1.983456503533491,Dollars,17179.0,291
 Illinois,Union,41.583933738015546,Dollars,17181.0,293
 Illinois,Vermilion,1.163308747091728,Dollars,17183.0,296
-Illinois,Wabash,nan,Dollars,17185.0,299
+Illinois,Wabash,0,Dollars,17185.0,299
 Illinois,Warren,2.7638332675277795,Dollars,17187.0,301
 Illinois,Washington,7.392703128208638,Dollars,17189.0,305
 Illinois,Wayne,2.106023226427583,Dollars,17191.0,310
@@ -758,7 +758,7 @@ Indiana,Orange,4.011781434084908,Dollars,18117.0,444
 Indiana,Owen,3.9788419229508962,Dollars,18119.0,448
 Indiana,Parke,27.782651927238696,Dollars,18121.0,452
 Indiana,Perry,6.4884906534837015,Dollars,18123.0,459
-Indiana,Pike,nan,Dollars,18125.0,465
+Indiana,Pike,0,Dollars,18125.0,465
 Indiana,Porter,1.3754411365487287,Dollars,18127.0,468
 Indiana,Posey,3.083528493364559,Dollars,18129.0,471
 Indiana,Pulaski,4.133813059787185,Dollars,18131.0,477
@@ -773,12 +773,12 @@ Indiana,Spencer,11.072233140008628,Dollars,18147.0,509
 Indiana,Starke,5.691372396843875,Dollars,18149.0,512
 Indiana,Steuben,4.975998126683058,Dollars,18151.0,515
 Indiana,Sullivan,5.420692905962762,Dollars,18153.0,518
-Indiana,Switzerland,nan,Dollars,18155.0,526
+Indiana,Switzerland,0,Dollars,18155.0,526
 Indiana,Tippecanoe,4.780693396702274,Dollars,18157.0,530
 Indiana,Tipton,2.3524923702950153,Dollars,18159.0,534
 Indiana,Union,3.408781019907281,Dollars,18161.0,538
 Indiana,Vanderburgh,3.9976998020502728,Dollars,18163.0,543
-Indiana,Vermillion,nan,Dollars,18165.0,548
+Indiana,Vermillion,0,Dollars,18165.0,548
 Indiana,Vigo,1.2247453818811351,Dollars,18167.0,553
 Indiana,Wabash,9.680900262062586,Dollars,18169.0,555
 Indiana,Warren,1.7886954447889338,Dollars,18171.0,567
@@ -906,7 +906,7 @@ Kansas,Coffey,11.276870668389522,Dollars,20031.0,745
 Kansas,Comanche,5.7591623036649215,Dollars,20033.0,748
 Kansas,Cowley,5.184204720935363,Dollars,20035.0,752
 Kansas,Crawford,2.08201091786213,Dollars,20037.0,756
-Kansas,Decatur,nan,Dollars,20039.0,759
+Kansas,Decatur,0,Dollars,20039.0,759
 Kansas,Dickinson,2.4324735215121875,Dollars,20041.0,762
 Kansas,Doniphan,5.974323121901614,Dollars,20043.0,765
 Kansas,Douglas,4.38832722617103,Dollars,20045.0,767
@@ -919,7 +919,7 @@ Kansas,Ford,0.6036737861844942,Dollars,20057.0,784
 Kansas,Franklin,4.444616217051867,Dollars,20059.0,786
 Kansas,Geary,0.28986271047985457,Dollars,20061.0,788
 Kansas,Gove,34.22892896577107,Dollars,20063.0,790
-Kansas,Graham,nan,Dollars,20065.0,791
+Kansas,Graham,0,Dollars,20065.0,791
 Kansas,Grant,1.9154641808198187,Dollars,20067.0,794
 Kansas,Gray,2.670672675680187,Dollars,20069.0,798
 Kansas,Greeley,14.984227129337539,Dollars,20071.0,801
@@ -941,7 +941,7 @@ Kansas,Lane,4.703115814226925,Dollars,20101.0,833
 Kansas,Leavenworth,4.039364507622049,Dollars,20103.0,836
 Kansas,Lincoln,3.1595576619273302,Dollars,20105.0,838
 Kansas,Linn,10.756089844985764,Dollars,20107.0,840
-Kansas,Logan,nan,Dollars,20109.0,842
+Kansas,Logan,0,Dollars,20109.0,842
 Kansas,Lyon,4.889392403553754,Dollars,20111.0,844
 Kansas,McPherson,5.2805505399788775,Dollars,20113.0,846
 Kansas,Marion,6.7867819342328515,Dollars,20115.0,848
@@ -972,23 +972,23 @@ Kansas,Rooks,8.062967940103666,Dollars,20163.0,889
 Kansas,Rush,11.540860885839052,Dollars,20165.0,891
 Kansas,Russell,1.4336917562724014,Dollars,20167.0,893
 Kansas,Saline,0.8235462618160986,Dollars,20169.0,895
-Kansas,Scott,nan,Dollars,20171.0,897
+Kansas,Scott,0,Dollars,20171.0,897
 Kansas,Sedgwick,0.8509085283249399,Dollars,20173.0,898
 Kansas,Seward,0.34196802598957,Dollars,20175.0,900
 Kansas,Shawnee,0.9831798045930138,Dollars,20177.0,902
 Kansas,Sheridan,4.739336492890995,Dollars,20179.0,904
-Kansas,Sherman,nan,Dollars,20181.0,907
-Kansas,Smith,nan,Dollars,20183.0,909
+Kansas,Sherman,0,Dollars,20181.0,907
+Kansas,Smith,0,Dollars,20183.0,909
 Kansas,Stafford,4.602991944764097,Dollars,20185.0,911
-Kansas,Stanton,nan,Dollars,20187.0,913
-Kansas,Stevens,nan,Dollars,20189.0,914
+Kansas,Stanton,0,Dollars,20187.0,913
+Kansas,Stevens,0,Dollars,20189.0,914
 Kansas,Sumner,3.3751001982871367,Dollars,20191.0,916
 Kansas,Thomas,6.418323684872892,Dollars,20193.0,917
 Kansas,Trego,0.33681374200067365,Dollars,20195.0,919
 Kansas,Wabaunsee,5.141388174807198,Dollars,20197.0,920
 Kansas,Wallace,0.0,Dollars,20199.0,921
 Kansas,Washington,9.251178216093559,Dollars,20201.0,922
-Kansas,Wichita,nan,Dollars,20203.0,923
+Kansas,Wichita,0,Dollars,20203.0,923
 Kansas,Wilson,6.795265234546251,Dollars,20205.0,925
 Kansas,Woodson,1.5309246785058175,Dollars,20207.0,926
 Kansas,Wyandotte,1.0095816193438347,Dollars,20209.0,927
@@ -1039,7 +1039,7 @@ Kentucky,Green,4.686532849942524,Dollars,21087.0,1102
 Kentucky,Greenup,3.678273663560569,Dollars,21089.0,1105
 Kentucky,Hancock,7.387740967332333,Dollars,21091.0,1107
 Kentucky,Hardin,1.3071895424836601,Dollars,21093.0,1110
-Kentucky,Harlan,nan,Dollars,21095.0,1114
+Kentucky,Harlan,0,Dollars,21095.0,1114
 Kentucky,Harrison,7.042253521126761,Dollars,21097.0,1119
 Kentucky,Hart,10.701287413765007,Dollars,21099.0,1121
 Kentucky,Henderson,3.6611103932463283,Dollars,21101.0,1126
@@ -1071,7 +1071,7 @@ Kentucky,Madison,6.476378879939711,Dollars,21151.0,1204
 Kentucky,Magoffin,2.1500422329724334,Dollars,21153.0,1206
 Kentucky,Marion,6.001500375093774,Dollars,21155.0,1210
 Kentucky,Marshall,3.2295197288482447,Dollars,21157.0,1213
-Kentucky,Martin,nan,Dollars,21159.0,1215
+Kentucky,Martin,0,Dollars,21159.0,1215
 Kentucky,Mason,2.693872872127013,Dollars,21161.0,1217
 Kentucky,Meade,3.412386964681795,Dollars,21163.0,1220
 Kentucky,Menifee,3.4832172260924636,Dollars,21165.0,1222
@@ -1092,7 +1092,7 @@ Kentucky,Perry,0.45981890209394455,Dollars,21193.0,1265
 Kentucky,Pike,0.6223259432127577,Dollars,21195.0,1267
 Kentucky,Powell,0.8015389547932029,Dollars,21197.0,1270
 Kentucky,Pulaski,10.097032323105035,Dollars,21199.0,1272
-Kentucky,Robertson,nan,Dollars,21201.0,1273
+Kentucky,Robertson,0,Dollars,21201.0,1273
 Kentucky,Rockcastle,1.3469196533145935,Dollars,21203.0,1276
 Kentucky,Rowan,3.5435255945011312,Dollars,21205.0,1279
 Kentucky,Russell,1.4249073810202337,Dollars,21207.0,1282
@@ -1115,7 +1115,7 @@ Kentucky,Woodford,6.664538271210791,Dollars,21239.0,1042
 Louisiana,Acadia,10.024252223120452,Dollars,22001.0,1046
 Louisiana,Allen,2.2296107960101703,Dollars,22003.0,1051
 Louisiana,Ascension,0.18712074634446257,Dollars,22005.0,1055
-Louisiana,Assumption,nan,Dollars,22007.0,1060
+Louisiana,Assumption,0,Dollars,22007.0,1060
 Louisiana,Avoyelles,3.029865820227961,Dollars,22009.0,1062
 Louisiana,Beauregard,6.199713435467872,Dollars,22011.0,1066
 Louisiana,Bienville,4.590395480225989,Dollars,22013.0,1069
@@ -1135,16 +1135,16 @@ Louisiana,Evangeline,1.2160037963045347,Dollars,22039.0,1118
 Louisiana,Franklin,14.126899364046798,Dollars,22041.0,1123
 Louisiana,Grant,4.423592493297587,Dollars,22043.0,1127
 Louisiana,Iberia,0.3787878787878788,Dollars,22045.0,1133
-Louisiana,Iberville,nan,Dollars,22047.0,1134
+Louisiana,Iberville,0,Dollars,22047.0,1134
 Louisiana,Jackson,0.4310610259252417,Dollars,22049.0,1138
-Louisiana,Jefferson,nan,Dollars,22051.0,1147
+Louisiana,Jefferson,0,Dollars,22051.0,1147
 Louisiana,Jefferson Davis,1.4637095491138192,Dollars,22053.0,1155
 Louisiana,Lafayette,0.24215207150090257,Dollars,22055.0,1161
 Louisiana,Lafourche,1.5870562168289792,Dollars,22057.0,1280
 Louisiana,La Salle,0.0,Dollars,22059.0,1289
 Louisiana,Lincoln,4.94818212708121,Dollars,22061.0,1291
 Louisiana,Livingston,0.454910761672252,Dollars,22063.0,1295
-Louisiana,Madison,nan,Dollars,22065.0,1297
+Louisiana,Madison,0,Dollars,22065.0,1297
 Louisiana,Morehouse,7.436299347501184,Dollars,22067.0,1299
 Louisiana,Natchitoches,5.775661161211875,Dollars,22069.0,1301
 Louisiana,Orleans,0.0378367129625876,Dollars,22071.0,1304
@@ -1172,7 +1172,7 @@ Louisiana,Vermilion,2.69454440029333,Dollars,22113.0,1510
 Louisiana,Vernon,0.31387319522912743,Dollars,22115.0,1513
 Louisiana,Washington,2.144266232095377,Dollars,22117.0,1516
 Louisiana,Webster,1.1000562250959494,Dollars,22119.0,1518
-Louisiana,West Baton Rouge,nan,Dollars,22121.0,1520
+Louisiana,West Baton Rouge,0,Dollars,22121.0,1520
 Louisiana,West Carroll,8.874967371443487,Dollars,22123.0,1522
 Louisiana,West Feliciana,4.275719098211972,Dollars,22125.0,1524
 Louisiana,Winn,0.9968102073365231,Dollars,22127.0,1529
@@ -1215,7 +1215,7 @@ Maryland,Talbot,1.629306493574751,Dollars,24041.0,1438
 Maryland,Washington,22.52635670864527,Dollars,24043.0,1445
 Maryland,Wicomico,4.722139377671737,Dollars,24045.0,1446
 Maryland,Worcester,3.569280906286978,Dollars,24047.0,1456
-Maryland,Baltimore City,nan,Dollars,24510.0,1460
+Maryland,Baltimore City,0,Dollars,24510.0,1460
 Massachusetts,Barnstable,5.809893578391665,Dollars,25001.0,1478
 Massachusetts,Berkshire,10.639850657980656,Dollars,25003.0,1480
 Massachusetts,Bristol,8.12872385024564,Dollars,25005.0,1486
@@ -1347,7 +1347,7 @@ Minnesota,Itasca,10.101679929266137,Dollars,27061.0,1917
 Minnesota,Jackson,3.499562554680665,Dollars,27063.0,1918
 Minnesota,Kanabec,12.133341672399775,Dollars,27065.0,1919
 Minnesota,Kandiyohi,7.281038667263602,Dollars,27067.0,1920
-Minnesota,Kittson,nan,Dollars,27069.0,1921
+Minnesota,Kittson,0,Dollars,27069.0,1921
 Minnesota,Koochiching,3.488283915977857,Dollars,27071.0,1922
 Minnesota,Lac qui Parle,11.37161308437456,Dollars,27073.0,1923
 Minnesota,Lake,1.9383422558611778,Dollars,27075.0,1926
@@ -1375,7 +1375,7 @@ Minnesota,Pipestone,13.748268144516679,Dollars,27117.0,1958
 Minnesota,Polk,4.954110959382642,Dollars,27119.0,1959
 Minnesota,Pope,14.112903225806452,Dollars,27121.0,1961
 Minnesota,Ramsey,0.4392965117171314,Dollars,27123.0,1964
-Minnesota,Red Lake,nan,Dollars,27125.0,1966
+Minnesota,Red Lake,0,Dollars,27125.0,1966
 Minnesota,Redwood,17.835759752946366,Dollars,27127.0,1969
 Minnesota,Renville,8.270921523933572,Dollars,27129.0,1971
 Minnesota,Rice,19.4556748299952,Dollars,27131.0,1973
@@ -1421,11 +1421,11 @@ Mississippi,Forrest,1.3033051819414034,Dollars,28035.0,1572
 Mississippi,Franklin,0.507163687080005,Dollars,28037.0,1575
 Mississippi,George,5.810143724607925,Dollars,28039.0,1577
 Mississippi,Greene,14.138727514523692,Dollars,28041.0,1579
-Mississippi,Grenada,nan,Dollars,28043.0,1581
+Mississippi,Grenada,0,Dollars,28043.0,1581
 Mississippi,Hancock,0.4633000198557151,Dollars,28045.0,1583
 Mississippi,Harrison,0.5937016004130098,Dollars,28047.0,1587
 Mississippi,Hinds,0.4351662697789114,Dollars,28049.0,1591
-Mississippi,Holmes,nan,Dollars,28051.0,1593
+Mississippi,Holmes,0,Dollars,28051.0,1593
 Mississippi,Humphreys,0.43431053203040176,Dollars,28053.0,1596
 Mississippi,Issaquena,0.0,Dollars,28055.0,1598
 Mississippi,Itawamba,1.1543394613082514,Dollars,28057.0,1601
@@ -1438,7 +1438,7 @@ Mississippi,Kemper,1.1587485515643106,Dollars,28069.0,1616
 Mississippi,Lafayette,0.357305913412867,Dollars,28071.0,1620
 Mississippi,Lamar,0.36298895476466214,Dollars,28073.0,1623
 Mississippi,Lauderdale,1.021399566527989,Dollars,28075.0,1628
-Mississippi,Lawrence,nan,Dollars,28077.0,1632
+Mississippi,Lawrence,0,Dollars,28077.0,1632
 Mississippi,Leake,0.7749268124677113,Dollars,28079.0,1636
 Mississippi,Lee,0.29385836027034967,Dollars,28081.0,1638
 Mississippi,Leflore,0.38028838535889714,Dollars,28083.0,1643
@@ -1448,7 +1448,7 @@ Mississippi,Madison,0.23353098854682805,Dollars,28089.0,1651
 Mississippi,Marion,3.679538729990137,Dollars,28091.0,1653
 Mississippi,Marshall,2.0511978995733506,Dollars,28093.0,1655
 Mississippi,Monroe,1.786155917671952,Dollars,28095.0,1656
-Mississippi,Montgomery,nan,Dollars,28097.0,1658
+Mississippi,Montgomery,0,Dollars,28097.0,1658
 Mississippi,Neshoba,0.4379463684139604,Dollars,28099.0,1661
 Mississippi,Newton,2.870769088299301,Dollars,28101.0,1663
 Mississippi,Noxubee,0.8057296329453895,Dollars,28103.0,1666
@@ -1462,12 +1462,12 @@ Mississippi,Prentiss,0.31599320614606785,Dollars,28117.0,1684
 Mississippi,Quitman,1.153994101807924,Dollars,28119.0,1685
 Mississippi,Rankin,0.4053311349271778,Dollars,28121.0,1690
 Mississippi,Scott,6.513504902828418,Dollars,28123.0,1692
-Mississippi,Sharkey,nan,Dollars,28125.0,1695
+Mississippi,Sharkey,0,Dollars,28125.0,1695
 Mississippi,Simpson,5.26085050416484,Dollars,28127.0,1698
 Mississippi,Smith,4.775315293253336,Dollars,28129.0,1709
 Mississippi,Stone,5.263449498587179,Dollars,28131.0,1712
 Mississippi,Sunflower,0.5620345651257552,Dollars,28133.0,1721
-Mississippi,Tallahatchie,nan,Dollars,28135.0,1725
+Mississippi,Tallahatchie,0,Dollars,28135.0,1725
 Mississippi,Tate,4.49107048875478,Dollars,28137.0,1727
 Mississippi,Tippah,0.6376098738443321,Dollars,28139.0,1730
 Mississippi,Tishomingo,0.102014792144861,Dollars,28141.0,1732
@@ -1475,7 +1475,7 @@ Mississippi,Tunica,0.0,Dollars,28143.0,1735
 Mississippi,Union,0.9867339107553996,Dollars,28145.0,1737
 Mississippi,Walthall,1.987018148099086,Dollars,28147.0,1740
 Mississippi,Warren,0.14546059056999772,Dollars,28149.0,1746
-Mississippi,Washington,nan,Dollars,28151.0,1750
+Mississippi,Washington,0,Dollars,28151.0,1750
 Mississippi,Wayne,0.63033359193173,Dollars,28153.0,1753
 Mississippi,Webster,0.19896538002387584,Dollars,28155.0,1756
 Mississippi,Wilkinson,0.8457553652605984,Dollars,28157.0,1757
@@ -1506,7 +1506,7 @@ Missouri,Chariton,20.7653127856863,Dollars,29041.0,1011
 Missouri,Christian,2.3948942359535064,Dollars,29043.0,1014
 Missouri,Clark,39.41522144188046,Dollars,29045.0,1015
 Missouri,Clay,0.9055502316626078,Dollars,29047.0,1018
-Missouri,Clinton,nan,Dollars,29049.0,1021
+Missouri,Clinton,0,Dollars,29049.0,1021
 Missouri,Cole,2.3832907745695016,Dollars,29051.0,1022
 Missouri,Cooper,7.071974449640698,Dollars,29053.0,1025
 Missouri,Crawford,3.551537654370813,Dollars,29055.0,1028
@@ -1548,7 +1548,7 @@ Missouri,Maries,18.240106124253813,Dollars,29125.0,1120
 Missouri,Marion,2.15247882238578,Dollars,29127.0,1122
 Missouri,Mercer,3.228410008071025,Dollars,29129.0,1125
 Missouri,Miller,4.446959896507115,Dollars,29131.0,1128
-Missouri,Mississippi,nan,Dollars,29133.0,1131
+Missouri,Mississippi,0,Dollars,29133.0,1131
 Missouri,Moniteau,22.186802677717566,Dollars,29135.0,1135
 Missouri,Monroe,18.070902394106813,Dollars,29137.0,1139
 Missouri,Montgomery,3.161923780995174,Dollars,29139.0,1142
@@ -1577,7 +1577,7 @@ Missouri,St. Charles,0.7045154017905529,Dollars,29183.0,1205
 Missouri,St. Clair,3.9953737777310483,Dollars,29185.0,1208
 Missouri,Ste. Genevieve,16.786034019695613,Dollars,29186.0,1209
 Missouri,St. Francois,1.412493734906821,Dollars,29187.0,1212
-Missouri,St. Louis County,nan,Dollars,29189.0,1216
+Missouri,St. Louis County,0,Dollars,29189.0,1216
 Missouri,Saline,6.007157464212679,Dollars,29195.0,1218
 Missouri,Schuyler,4.32407828857533,Dollars,29197.0,1221
 Missouri,Scotland,7.160392798690671,Dollars,29199.0,1224
@@ -1596,11 +1596,11 @@ Missouri,Wayne,1.2712181260749271,Dollars,29223.0,1256
 Missouri,Webster,7.019765457248252,Dollars,29225.0,1258
 Missouri,Worth,5.285920230658338,Dollars,29227.0,1261
 Missouri,Wright,9.080651227768524,Dollars,29229.0,1263
-Missouri,St. Louis City,nan,Dollars,29510.0,1266
+Missouri,St. Louis City,0,Dollars,29510.0,1266
 Montana,Beaverhead,18.714575981178484,Dollars,30001.0,1269
 Montana,Big Horn,1.7700477143296907,Dollars,30003.0,1274
 Montana,Blaine,35.22504892367906,Dollars,30005.0,1124
-Montana,Broadwater,nan,Dollars,30007.0,1132
+Montana,Broadwater,0,Dollars,30007.0,1132
 Montana,Carbon,14.816278150928486,Dollars,30009.0,1137
 Montana,Carter,28.06122448979592,Dollars,30011.0,1141
 Montana,Cascade,6.3106143065050695,Dollars,30013.0,1144
@@ -1624,10 +1624,10 @@ Montana,Lake,21.050818260120586,Dollars,30047.0,1207
 Montana,Lewis and Clark,3.2687296668054335,Dollars,30049.0,1211
 Montana,Liberty,107.21735502711724,Dollars,30051.0,1214
 Montana,Lincoln,9.035835301365644,Dollars,30053.0,1219
-Montana,McCone,nan,Dollars,30055.0,1223
+Montana,McCone,0,Dollars,30055.0,1223
 Montana,Madison,15.79697008934352,Dollars,30057.0,1226
 Montana,Meagher,55.7015239096164,Dollars,30059.0,1231
-Montana,Mineral,nan,Dollars,30061.0,1234
+Montana,Mineral,0,Dollars,30061.0,1234
 Montana,Missoula,3.6461193586431033,Dollars,30063.0,1239
 Montana,Musselshell,13.028620247757368,Dollars,30065.0,1241
 Montana,Park,16.88711955823809,Dollars,30067.0,1244
@@ -1639,23 +1639,23 @@ Montana,Powell,17.21461831522506,Dollars,30077.0,1262
 Montana,Prairie,14.731369150779896,Dollars,30079.0,1264
 Montana,Ravalli,15.827692307692308,Dollars,30081.0,1268
 Montana,Richland,4.164738546968996,Dollars,30083.0,1271
-Montana,Roosevelt,nan,Dollars,30085.0,1275
+Montana,Roosevelt,0,Dollars,30085.0,1275
 Montana,Rosebud,18.034361327499735,Dollars,30087.0,1277
 Montana,Sanders,17.94037463723507,Dollars,30089.0,1278
 Montana,Sheridan,9.220452640402348,Dollars,30091.0,1281
-Montana,Silver Bow,nan,Dollars,30093.0,1284
+Montana,Silver Bow,0,Dollars,30093.0,1284
 Montana,Stillwater,13.153603652570931,Dollars,30095.0,1286
 Montana,Sweet Grass,47.248471372984994,Dollars,30097.0,1288
 Montana,Teton,30.313014827018122,Dollars,30099.0,1290
 Montana,Toole,10.705410055438731,Dollars,30101.0,1292
-Montana,Treasure,nan,Dollars,30103.0,1293
+Montana,Treasure,0,Dollars,30103.0,1293
 Montana,Valley,0.4001600640256102,Dollars,30105.0,1296
 Montana,Wheatland,102.38095238095238,Dollars,30107.0,1298
-Montana,Wibaux,nan,Dollars,30109.0,1300
+Montana,Wibaux,0,Dollars,30109.0,1300
 Montana,Yellowstone,1.4744893593212083,Dollars,30111.0,1302
 Nebraska,Adams,2.325729578182745,Dollars,31001.0,1303
 Nebraska,Antelope,1.9911165568999847,Dollars,31003.0,1305
-Nebraska,Arthur,nan,Dollars,31005.0,1307
+Nebraska,Arthur,0,Dollars,31005.0,1307
 Nebraska,Banner,24.836601307189543,Dollars,31007.0,1308
 Nebraska,Blaine,23.4375,Dollars,31009.0,1309
 Nebraska,Boone,0.7385524372230429,Dollars,31011.0,1310
@@ -1678,7 +1678,7 @@ Nebraska,Dakota,0.48093108257586686,Dollars,31043.0,1344
 Nebraska,Dawes,4.464771861047588,Dollars,31045.0,1347
 Nebraska,Dawson,3.616711702348784,Dollars,31047.0,1349
 Nebraska,Deuel,8.113590263691684,Dollars,31049.0,1351
-Nebraska,Dixon,nan,Dollars,31051.0,1353
+Nebraska,Dixon,0,Dollars,31051.0,1353
 Nebraska,Dodge,3.7385727930140535,Dollars,31053.0,1354
 Nebraska,Douglas,0.5173510123148354,Dollars,31055.0,1358
 Nebraska,Dundy,20.603015075376884,Dollars,31057.0,1360
@@ -1688,12 +1688,12 @@ Nebraska,Frontier,10.23765996343693,Dollars,31063.0,1371
 Nebraska,Furnas,2.2435243728329595,Dollars,31065.0,1374
 Nebraska,Gage,7.127747631748368,Dollars,31067.0,1378
 Nebraska,Garden,1.0183299389002036,Dollars,31069.0,1381
-Nebraska,Garfield,nan,Dollars,31071.0,1391
-Nebraska,Gosper,nan,Dollars,31073.0,1393
+Nebraska,Garfield,0,Dollars,31071.0,1391
+Nebraska,Gosper,0,Dollars,31073.0,1393
 Nebraska,Grant,0.0,Dollars,31075.0,1395
 Nebraska,Greeley,9.368635437881874,Dollars,31077.0,1397
 Nebraska,Hall,0.6132630567019707,Dollars,31079.0,1402
-Nebraska,Hamilton,nan,Dollars,31081.0,1405
+Nebraska,Hamilton,0,Dollars,31081.0,1405
 Nebraska,Harlan,3.8056206088992974,Dollars,31083.0,1409
 Nebraska,Hayes,5.279831045406547,Dollars,31085.0,1411
 Nebraska,Hitchcock,14.21636615811373,Dollars,31087.0,1414
@@ -1724,7 +1724,7 @@ Nebraska,Perkins,34.705682204831575,Dollars,31135.0,1352
 Nebraska,Phelps,1.4096725222294513,Dollars,31137.0,1355
 Nebraska,Pierce,6.694560669456067,Dollars,31139.0,1356
 Nebraska,Platte,16.12754867392304,Dollars,31141.0,1359
-Nebraska,Polk,nan,Dollars,31143.0,1362
+Nebraska,Polk,0,Dollars,31143.0,1362
 Nebraska,Red Willow,6.718111665910123,Dollars,31145.0,1364
 Nebraska,Richardson,18.337555796839183,Dollars,31147.0,1365
 Nebraska,Rock,7.988380537400145,Dollars,31149.0,1366
@@ -1751,17 +1751,17 @@ Nevada,Clark,0.7601826440143249,Dollars,32003.0,1399
 Nevada,Douglas,2.9370450772570553,Dollars,32005.0,1400
 Nevada,Elko,2.406762415371972,Dollars,32007.0,1401
 Nevada,Esmeralda,0.0,Dollars,32009.0,1404
-Nevada,Eureka,nan,Dollars,32011.0,1406
+Nevada,Eureka,0,Dollars,32011.0,1406
 Nevada,Humboldt,2.2820362785254535,Dollars,32013.0,1407
 Nevada,Lander,3.0354131534569984,Dollars,32015.0,1408
 Nevada,Lincoln,183.9985010305415,Dollars,32017.0,1410
 Nevada,Lyon,6.514721705957156,Dollars,32019.0,1412
-Nevada,Mineral,nan,Dollars,32021.0,1415
+Nevada,Mineral,0,Dollars,32021.0,1415
 Nevada,Nye,1.0023543672346675,Dollars,32023.0,1417
 Nevada,Pershing,0.2952901225454009,Dollars,32027.0,1419
 Nevada,Storey,0.0,Dollars,32029.0,1420
 Nevada,Washoe,0.3145584647682869,Dollars,32031.0,1423
-Nevada,White Pine,nan,Dollars,32033.0,1425
+Nevada,White Pine,0,Dollars,32033.0,1425
 Nevada,Carson City,0.0,Dollars,32510.0,1428
 New Hampshire,Belknap,19.777564463274967,Dollars,33001.0,1432
 New Hampshire,Carroll,27.526015441423297,Dollars,33003.0,1435
@@ -1779,7 +1779,7 @@ New Jersey,Burlington,3.9337185053199386,Dollars,34005.0,1470
 New Jersey,Camden,2.37625074806089,Dollars,34007.0,1472
 New Jersey,Cape May,6.179559758209172,Dollars,34009.0,1477
 New Jersey,Cumberland,9.874617096976731,Dollars,34011.0,1482
-New Jersey,Essex,nan,Dollars,34013.0,1483
+New Jersey,Essex,0,Dollars,34013.0,1483
 New Jersey,Gloucester,13.347415944415106,Dollars,34015.0,1484
 New Jersey,Hudson,0.0,Dollars,34017.0,1487
 New Jersey,Hunterdon,30.37274200561287,Dollars,34019.0,1488
@@ -1792,14 +1792,14 @@ New Jersey,Passaic,0.5797479975939469,Dollars,34031.0,1551
 New Jersey,Salem,98.60484951870355,Dollars,34033.0,1553
 New Jersey,Somerset,1.2717768974728758,Dollars,34035.0,1558
 New Jersey,Sussex,8.60263315380012,Dollars,34037.0,1561
-New Jersey,Union,nan,Dollars,34039.0,1566
+New Jersey,Union,0,Dollars,34039.0,1566
 New Jersey,Warren,19.99293273075564,Dollars,34041.0,1570
 New Mexico,Bernalillo,1.6880947710670067,Dollars,35001.0,1574
 New Mexico,Catron,10.430963491627779,Dollars,35003.0,1576
 New Mexico,Chaves,0.5776304988903415,Dollars,35005.0,1578
 New Mexico,Cibola,1.4636466756924877,Dollars,35006.0,1580
 New Mexico,Colfax,6.95599576591562,Dollars,35007.0,1582
-New Mexico,Curry,nan,Dollars,35009.0,1586
+New Mexico,Curry,0,Dollars,35009.0,1586
 New Mexico,De Baca,11.351909184726523,Dollars,35011.0,1589
 New Mexico,Doña Ana,8.371108250788144,Dollars,35013.0,1590
 New Mexico,Eddy,0.826917069405906,Dollars,35015.0,1592
@@ -1814,7 +1814,7 @@ New Mexico,Luna,18.522222666720005,Dollars,35029.0,1622
 New Mexico,McKinley,0.6739193222297102,Dollars,35031.0,1626
 New Mexico,Mora,6.626763574176999,Dollars,35033.0,1629
 New Mexico,Otero,4.242295688009454,Dollars,35035.0,1633
-New Mexico,Quay,nan,Dollars,35037.0,1637
+New Mexico,Quay,0,Dollars,35037.0,1637
 New Mexico,Rio Arriba,27.008895293942256,Dollars,35039.0,1639
 New Mexico,Roosevelt,12.979351032448378,Dollars,35041.0,1642
 New Mexico,Sandoval,0.7828829294592938,Dollars,35043.0,1646
@@ -1898,7 +1898,7 @@ North Carolina,Avery,21.681139678755887,Dollars,37011.0,1977
 North Carolina,Beaufort,1.241922243037868,Dollars,37013.0,1981
 North Carolina,Bertie,15.785127980960707,Dollars,37015.0,1983
 North Carolina,Bladen,17.301137177393944,Dollars,37017.0,1986
-North Carolina,Brunswick,nan,Dollars,37019.0,1995
+North Carolina,Brunswick,0,Dollars,37019.0,1995
 North Carolina,Buncombe,4.671577076927486,Dollars,37021.0,1422
 North Carolina,Burke,3.7779876659814433,Dollars,37023.0,1424
 North Carolina,Cabarrus,0.8025638661887435,Dollars,37025.0,1426
@@ -1942,7 +1942,7 @@ North Carolina,Jackson,1.8488845063478367,Dollars,37099.0,1528
 North Carolina,Johnston,4.736516943916894,Dollars,37101.0,1530
 North Carolina,Jones,9.73046608932568,Dollars,37103.0,1536
 North Carolina,Lee,1.650804345995115,Dollars,37105.0,1540
-North Carolina,Lenoir,nan,Dollars,37107.0,1542
+North Carolina,Lenoir,0,Dollars,37107.0,1542
 North Carolina,Lincoln,2.8874282891987386,Dollars,37109.0,1545
 North Carolina,McDowell,1.022926905201361,Dollars,37111.0,1554
 North Carolina,Macon,6.974819718642865,Dollars,37113.0,1556
@@ -1989,7 +1989,7 @@ North Carolina,Wilkes,9.924160346695558,Dollars,37193.0,1817
 North Carolina,Wilson,1.4310351154001395,Dollars,37195.0,1819
 North Carolina,Yadkin,4.145349599895054,Dollars,37197.0,1821
 North Carolina,Yancey,9.48055634402498,Dollars,37199.0,1823
-North Dakota,Adams,nan,Dollars,38001.0,1826
+North Dakota,Adams,0,Dollars,38001.0,1826
 North Dakota,Barnes,0.2723558783477077,Dollars,38003.0,1828
 North Dakota,Benson,1.7730496453900708,Dollars,38005.0,1831
 North Dakota,Billings,7.633587786259542,Dollars,38007.0,1833
@@ -2003,7 +2003,7 @@ North Dakota,Dickey,8.382549056963231,Dollars,38021.0,2004
 North Dakota,Divide,0.0,Dollars,38023.0,2007
 North Dakota,Dunn,7.7909022367429,Dollars,38025.0,2013
 North Dakota,Eddy,13.479359730412805,Dollars,38027.0,2017
-North Dakota,Emmons,nan,Dollars,38029.0,2021
+North Dakota,Emmons,0,Dollars,38029.0,2021
 North Dakota,Foster,0.5897965202005309,Dollars,38031.0,2026
 North Dakota,Golden Valley,6.655574043261232,Dollars,38033.0,2036
 North Dakota,Grand Forks,0.7236851821766678,Dollars,38035.0,2043
@@ -2029,19 +2029,19 @@ North Dakota,Ransom,5.663134819145049,Dollars,38073.0,2147
 North Dakota,Renville,0.0,Dollars,38075.0,2150
 North Dakota,Richland,9.866189800826293,Dollars,38077.0,2156
 North Dakota,Rolette,0.4872955099199443,Dollars,38079.0,2161
-North Dakota,Sargent,nan,Dollars,38081.0,2164
-North Dakota,Sheridan,nan,Dollars,38083.0,2169
-North Dakota,Sioux,nan,Dollars,38085.0,2175
-North Dakota,Slope,nan,Dollars,38087.0,2180
+North Dakota,Sargent,0,Dollars,38081.0,2164
+North Dakota,Sheridan,0,Dollars,38083.0,2169
+North Dakota,Sioux,0,Dollars,38085.0,2175
+North Dakota,Slope,0,Dollars,38087.0,2180
 North Dakota,Stark,0.7426385949277784,Dollars,38089.0,2182
 North Dakota,Steele,0.0,Dollars,38091.0,2186
 North Dakota,Stutsman,1.9544284488511774,Dollars,38093.0,2199
 North Dakota,Towner,2.1561017680034498,Dollars,38095.0,2205
-North Dakota,Traill,nan,Dollars,38097.0,2217
+North Dakota,Traill,0,Dollars,38097.0,2217
 North Dakota,Walsh,6.154403113403928,Dollars,38099.0,2225
 North Dakota,Ward,3.021332438123722,Dollars,38101.0,2233
 North Dakota,Wells,5.161895823557016,Dollars,38103.0,2237
-North Dakota,Williams,nan,Dollars,38105.0,2244
+North Dakota,Williams,0,Dollars,38105.0,2244
 Ohio,Adams,6.806799746067575,Dollars,39001.0,2248
 Ohio,Allen,7.101557975486333,Dollars,39003.0,2250
 Ohio,Ashland,6.649385777076525,Dollars,39005.0,2254
@@ -2142,7 +2142,7 @@ Oklahoma,Canadian,1.762344570999641,Dollars,40017.0,2123
 Oklahoma,Carter,1.0811260343465425,Dollars,40019.0,2126
 Oklahoma,Cherokee,3.7243560401148517,Dollars,40021.0,2129
 Oklahoma,Choctaw,1.5167501978369824,Dollars,40023.0,2133
-Oklahoma,Cimarron,nan,Dollars,40025.0,2135
+Oklahoma,Cimarron,0,Dollars,40025.0,2135
 Oklahoma,Cleveland,0.548268260900587,Dollars,40027.0,2140
 Oklahoma,Coal,1.015916017609211,Dollars,40029.0,2144
 Oklahoma,Comanche,0.5133916230283787,Dollars,40031.0,2145
@@ -2157,13 +2157,13 @@ Oklahoma,Garfield,0.27731106144886875,Dollars,40047.0,2167
 Oklahoma,Garvin,6.489697147466452,Dollars,40049.0,2176
 Oklahoma,Grady,5.333584621183566,Dollars,40051.0,2184
 Oklahoma,Grant,3.1055900621118013,Dollars,40053.0,2187
-Oklahoma,Greer,nan,Dollars,40055.0,2189
+Oklahoma,Greer,0,Dollars,40055.0,2189
 Oklahoma,Harmon,0.0,Dollars,40057.0,2191
-Oklahoma,Harper,nan,Dollars,40059.0,2193
+Oklahoma,Harper,0,Dollars,40059.0,2193
 Oklahoma,Haskell,8.004973964405067,Dollars,40061.0,2195
 Oklahoma,Hughes,1.450010875081563,Dollars,40063.0,2197
 Oklahoma,Jackson,0.6096399314155078,Dollars,40065.0,2202
-Oklahoma,Jefferson,nan,Dollars,40067.0,2206
+Oklahoma,Jefferson,0,Dollars,40067.0,2206
 Oklahoma,Johnston,4.280120207631363,Dollars,40069.0,2211
 Oklahoma,Kay,2.7357685320960363,Dollars,40071.0,2215
 Oklahoma,Kingfisher,5.733715581038736,Dollars,40073.0,2219
@@ -2177,11 +2177,11 @@ Oklahoma,McClain,5.90103127546576,Dollars,40087.0,2245
 Oklahoma,McCurtain,5.808704026966833,Dollars,40089.0,2252
 Oklahoma,McIntosh,4.483430799220273,Dollars,40091.0,2258
 Oklahoma,Major,12.90911461729039,Dollars,40093.0,2260
-Oklahoma,Marshall,nan,Dollars,40095.0,2265
+Oklahoma,Marshall,0,Dollars,40095.0,2265
 Oklahoma,Mayes,3.2835530476236805,Dollars,40097.0,2270
 Oklahoma,Murray,4.402377283733216,Dollars,40099.0,2276
 Oklahoma,Muskogee,3.1331518657139616,Dollars,40101.0,2281
-Oklahoma,Noble,nan,Dollars,40103.0,2287
+Oklahoma,Noble,0,Dollars,40103.0,2287
 Oklahoma,Nowata,10.768940109578688,Dollars,40105.0,2290
 Oklahoma,Okfuskee,6.181877338539125,Dollars,40107.0,2297
 Oklahoma,Oklahoma,0.24908243416818585,Dollars,40109.0,2303
@@ -2204,8 +2204,8 @@ Oklahoma,Tillman,0.3853069612124326,Dollars,40141.0,2005
 Oklahoma,Tulsa,0.6131935837505327,Dollars,40143.0,2008
 Oklahoma,Wagoner,2.8793089658481965,Dollars,40145.0,2014
 Oklahoma,Washington,1.9527851356315618,Dollars,40147.0,2018
-Oklahoma,Washita,nan,Dollars,40149.0,2023
-Oklahoma,Woods,nan,Dollars,40151.0,2029
+Oklahoma,Washita,0,Dollars,40149.0,2023
+Oklahoma,Woods,0,Dollars,40151.0,2029
 Oklahoma,Woodward,2.472847168347556,Dollars,40153.0,2035
 Oregon,Baker,18.6401451179083,Dollars,41001.0,2044
 Oregon,Benton,42.86160502539304,Dollars,41003.0,2053
@@ -2294,12 +2294,12 @@ Pennsylvania,Northampton,3.905910655217348,Dollars,42095.0,2537
 Pennsylvania,Northumberland,25.053163914133666,Dollars,42097.0,2544
 Pennsylvania,Perry,21.73057583839797,Dollars,42099.0,2554
 Pennsylvania,Philadelphia,0.03482558829447486,Dollars,42101.0,2563
-Pennsylvania,Pike,nan,Dollars,42103.0,2571
+Pennsylvania,Pike,0,Dollars,42103.0,2571
 Pennsylvania,Potter,15.265875943476534,Dollars,42105.0,2575
 Pennsylvania,Schuylkill,10.835251227112568,Dollars,42107.0,2581
 Pennsylvania,Snyder,25.480588013569545,Dollars,42109.0,2583
 Pennsylvania,Somerset,13.511587838275492,Dollars,42111.0,2589
-Pennsylvania,Sullivan,nan,Dollars,42113.0,2293
+Pennsylvania,Sullivan,0,Dollars,42113.0,2293
 Pennsylvania,Susquehanna,11.523268587990557,Dollars,42115.0,2298
 Pennsylvania,Tioga,10.534712934938176,Dollars,42117.0,2305
 Pennsylvania,Union,9.438351611831173,Dollars,42119.0,2313
@@ -2319,7 +2319,7 @@ South Carolina,Abbeville,8.223224621771585,Dollars,45001.0,2489
 South Carolina,Aiken,1.3964256403346522,Dollars,45003.0,2503
 South Carolina,Allendale,13.406703351675837,Dollars,45005.0,2527
 South Carolina,Anderson,3.03683282103284,Dollars,45007.0,2559
-South Carolina,Bamberg,nan,Dollars,45009.0,2592
+South Carolina,Bamberg,0,Dollars,45009.0,2592
 South Carolina,Barnwell,9.331957467809234,Dollars,45011.0,2605
 South Carolina,Beaufort,1.9887245885191467,Dollars,45013.0,2626
 South Carolina,Berkeley,1.3296890005171014,Dollars,45015.0,2631
@@ -2339,12 +2339,12 @@ South Carolina,Florence,0.8115412762935751,Dollars,45041.0,2742
 South Carolina,Georgetown,0.33203838363714844,Dollars,45043.0,2752
 South Carolina,Greenville,5.325507165656263,Dollars,45045.0,2759
 South Carolina,Greenwood,0.443484356446975,Dollars,45047.0,2764
-South Carolina,Hampton,nan,Dollars,45049.0,2767
+South Carolina,Hampton,0,Dollars,45049.0,2767
 South Carolina,Horry,0.8731113642897452,Dollars,45051.0,2774
 South Carolina,Jasper,0.9259973763407671,Dollars,45053.0,2783
 South Carolina,Kershaw,0.6426528710517014,Dollars,45055.0,2787
 South Carolina,Lancaster,0.8210284328461898,Dollars,45057.0,2790
-South Carolina,Laurens,nan,Dollars,45059.0,2794
+South Carolina,Laurens,0,Dollars,45059.0,2794
 South Carolina,Lee,0.10706638115631692,Dollars,45061.0,2800
 South Carolina,Lexington,15.241509042702887,Dollars,45063.0,2803
 South Carolina,McCormick,0.502815768302494,Dollars,45065.0,2807
@@ -2368,14 +2368,14 @@ South Dakota,Bon Homme,11.081119477198465,Dollars,46009.0,2879
 South Dakota,Brookings,1.8041158303519556,Dollars,46011.0,2882
 South Dakota,Brown,1.0369031160267999,Dollars,46013.0,2885
 South Dakota,Brule,15.211267605633802,Dollars,46015.0,2888
-South Dakota,Buffalo,nan,Dollars,46017.0,2891
+South Dakota,Buffalo,0,Dollars,46017.0,2891
 South Dakota,Butte,22.066002733841046,Dollars,46019.0,2895
-South Dakota,Campbell,nan,Dollars,46021.0,2897
+South Dakota,Campbell,0,Dollars,46021.0,2897
 South Dakota,Charles Mix,25.010874293170943,Dollars,46023.0,2900
 South Dakota,Clark,59.11879531511433,Dollars,46025.0,2901
 South Dakota,Clay,3.8281582305401956,Dollars,46027.0,2903
 South Dakota,Codington,3.4060439162258134,Dollars,46029.0,2906
-South Dakota,Corson,nan,Dollars,46031.0,2907
+South Dakota,Corson,0,Dollars,46031.0,2907
 South Dakota,Custer,22.95949032335617,Dollars,46033.0,2908
 South Dakota,Davison,0.9097801364670205,Dollars,46035.0,2910
 South Dakota,Day,5.507194883638301,Dollars,46037.0,2911
@@ -2391,11 +2391,11 @@ South Dakota,Haakon,0.0,Dollars,46055.0,2924
 South Dakota,Hamlin,11.420893516963385,Dollars,46057.0,2926
 South Dakota,Hand,1.1806375442739079,Dollars,46059.0,2928
 South Dakota,Hanson,1.1830819284235434,Dollars,46061.0,2929
-South Dakota,Harding,nan,Dollars,46063.0,2931
+South Dakota,Harding,0,Dollars,46063.0,2931
 South Dakota,Hughes,15.944938342414684,Dollars,46065.0,2933
 South Dakota,Hutchinson,17.730987671422636,Dollars,46067.0,2934
 South Dakota,Hyde,203.91061452513966,Dollars,46069.0,2937
-South Dakota,Jackson,nan,Dollars,46071.0,2939
+South Dakota,Jackson,0,Dollars,46071.0,2939
 South Dakota,Jerauld,2.454590083456063,Dollars,46073.0,2941
 South Dakota,Jones,0.9920634920634921,Dollars,46075.0,2944
 South Dakota,Kingsbury,3.0598584815452283,Dollars,46077.0,2945
@@ -2412,13 +2412,13 @@ South Dakota,Miner,5.176876617773943,Dollars,46097.0,2456
 South Dakota,Minnehaha,1.1970245390030496,Dollars,46099.0,2467
 South Dakota,Moody,9.919404835709857,Dollars,46101.0,2485
 South Dakota,Pennington,1.2143581113384712,Dollars,46103.0,2497
-South Dakota,Perkins,nan,Dollars,46105.0,2502
-South Dakota,Potter,nan,Dollars,46107.0,2506
+South Dakota,Perkins,0,Dollars,46105.0,2502
+South Dakota,Potter,0,Dollars,46107.0,2506
 South Dakota,Roberts,3.285024154589372,Dollars,46109.0,2511
 South Dakota,Sanborn,24.096385542168676,Dollars,46111.0,2514
-South Dakota,Shannon,nan,Dollars,46113.0,2519
+South Dakota,Shannon,0,Dollars,46113.0,2519
 South Dakota,Spink,2.1039975954313195,Dollars,46115.0,2523
-South Dakota,Stanley,nan,Dollars,46117.0,2530
+South Dakota,Stanley,0,Dollars,46117.0,2530
 South Dakota,Sully,0.0,Dollars,46119.0,2535
 South Dakota,Todd,0.0,Dollars,46121.0,2540
 South Dakota,Tripp,22.797738464344338,Dollars,46123.0,2546
@@ -2426,7 +2426,7 @@ South Dakota,Turner,7.445658700612466,Dollars,46125.0,2550
 South Dakota,Union,0.740391734535909,Dollars,46127.0,2557
 South Dakota,Walworth,4.029304029304029,Dollars,46129.0,2561
 South Dakota,Yankton,0.4868333702146493,Dollars,46135.0,2569
-South Dakota,Ziebach,nan,Dollars,46137.0,2578
+South Dakota,Ziebach,0,Dollars,46137.0,2578
 Tennessee,Anderson,1.6322955649335138,Dollars,47001.0,2584
 Tennessee,Bedford,2.5591810620601407,Dollars,47003.0,2593
 Tennessee,Benton,3.9733480041567333,Dollars,47005.0,2598
@@ -2443,7 +2443,7 @@ Tennessee,Claiborne,2.458783847681493,Dollars,47025.0,2670
 Tennessee,Clay,3.8481272447408927,Dollars,47027.0,2679
 Tennessee,Cocke,6.401037701266108,Dollars,47029.0,2686
 Tennessee,Coffee,1.411764705882353,Dollars,47031.0,2689
-Tennessee,Crockett,nan,Dollars,47033.0,2693
+Tennessee,Crockett,0,Dollars,47033.0,2693
 Tennessee,Cumberland,8.11597251437386,Dollars,47035.0,2696
 Tennessee,Davidson,0.19558983425686643,Dollars,47037.0,2698
 Tennessee,Decatur,0.9435580717104135,Dollars,47039.0,2705
@@ -2512,7 +2512,7 @@ Tennessee,Sullivan,0.363901018922853,Dollars,47163.0,2046
 Tennessee,Sumner,0.9086368641798499,Dollars,47165.0,2050
 Tennessee,Tipton,1.8488785092200652,Dollars,47167.0,2055
 Tennessee,Trousdale,3.5989717223650386,Dollars,47169.0,2062
-Tennessee,Unicoi,nan,Dollars,47171.0,2069
+Tennessee,Unicoi,0,Dollars,47171.0,2069
 Tennessee,Union,7.115948095437422,Dollars,47173.0,2073
 Tennessee,Van Buren,1.7806267806267806,Dollars,47175.0,2077
 Tennessee,Warren,5.68196103079824,Dollars,47177.0,2081
@@ -2523,10 +2523,10 @@ Tennessee,White,8.165299394311125,Dollars,47185.0,2100
 Tennessee,Williamson,6.854567120874566,Dollars,47187.0,2105
 Tennessee,Wilson,3.576646012795325,Dollars,47189.0,2111
 Texas,Anderson,1.7238407171177383,Dollars,48001.0,2113
-Texas,Andrews,nan,Dollars,48003.0,2117
+Texas,Andrews,0,Dollars,48003.0,2117
 Texas,Angelina,0.855939650548372,Dollars,48005.0,2124
 Texas,Aransas,0.4221546774738264,Dollars,48007.0,2162
-Texas,Archer,nan,Dollars,48009.0,2168
+Texas,Archer,0,Dollars,48009.0,2168
 Texas,Armstrong,4.113110539845758,Dollars,48011.0,2172
 Texas,Atascosa,5.231206406613278,Dollars,48013.0,2173
 Texas,Austin,10.329131652661065,Dollars,48015.0,2177
@@ -2538,7 +2538,7 @@ Texas,Bee,2.096177558569667,Dollars,48025.0,2196
 Texas,Bell,0.7118627281055785,Dollars,48027.0,2198
 Texas,Bexar,0.09833314150921259,Dollars,48029.0,2203
 Texas,Blanco,2.165317266051591,Dollars,48031.0,2207
-Texas,Borden,nan,Dollars,48033.0,2212
+Texas,Borden,0,Dollars,48033.0,2212
 Texas,Bosque,10.599536270288175,Dollars,48035.0,2216
 Texas,Bowie,2.36543878889534,Dollars,48037.0,2224
 Texas,Brazoria,2.6625331661032408,Dollars,48039.0,2240
@@ -2554,12 +2554,12 @@ Texas,Calhoun,0.23192170323298855,Dollars,48057.0,2327
 Texas,Callahan,3.846438346031511,Dollars,48059.0,2331
 Texas,Cameron,0.6154186409344747,Dollars,48061.0,2359
 Texas,Camp,3.450766391140358,Dollars,48063.0,2373
-Texas,Carson,nan,Dollars,48065.0,2377
+Texas,Carson,0,Dollars,48065.0,2377
 Texas,Cass,3.2467532467532467,Dollars,48067.0,2382
-Texas,Castro,nan,Dollars,48069.0,2386
+Texas,Castro,0,Dollars,48069.0,2386
 Texas,Chambers,1.071251991429984,Dollars,48071.0,2395
 Texas,Cherokee,5.291108594634699,Dollars,48073.0,2400
-Texas,Childress,nan,Dollars,48075.0,2405
+Texas,Childress,0,Dollars,48075.0,2405
 Texas,Clay,17.400399353427783,Dollars,48077.0,2409
 Texas,Cochran,0.0,Dollars,48079.0,2413
 Texas,Coke,5.898789195901894,Dollars,48081.0,2418
@@ -2569,22 +2569,22 @@ Texas,Collingsworth,6.937561942517344,Dollars,48087.0,2434
 Texas,Colorado,4.929441329982602,Dollars,48089.0,2441
 Texas,Comal,0.6699671977099303,Dollars,48091.0,2449
 Texas,Comanche,10.490274641218038,Dollars,48093.0,2455
-Texas,Concho,nan,Dollars,48095.0,2458
+Texas,Concho,0,Dollars,48095.0,2458
 Texas,Cooke,4.666151069863367,Dollars,48097.0,2463
 Texas,Coryell,0.8456934686442883,Dollars,48099.0,2469
-Texas,Cottle,nan,Dollars,48101.0,2473
+Texas,Cottle,0,Dollars,48101.0,2473
 Texas,Crane,0.21910604732690622,Dollars,48103.0,2478
 Texas,Crockett,14.551333872271625,Dollars,48105.0,2483
-Texas,Crosby,nan,Dollars,48107.0,2487
+Texas,Crosby,0,Dollars,48107.0,2487
 Texas,Culberson,0.0,Dollars,48109.0,2491
 Texas,Dallam,8.592295574967778,Dollars,48111.0,2498
 Texas,Dallas,0.08223269083276476,Dollars,48113.0,2507
-Texas,Dawson,nan,Dollars,48115.0,2512
-Texas,Deaf Smith,nan,Dollars,48117.0,2515
+Texas,Dawson,0,Dollars,48115.0,2512
+Texas,Deaf Smith,0,Dollars,48117.0,2515
 Texas,Delta,5.662514156285391,Dollars,48119.0,2524
 Texas,Denton,0.36284060426373005,Dollars,48121.0,2532
 Texas,DeWitt,15.057443167929602,Dollars,48123.0,2538
-Texas,Dickens,nan,Dollars,48125.0,2542
+Texas,Dickens,0,Dollars,48125.0,2542
 Texas,Dimmit,5.825613599465189,Dollars,48127.0,2548
 Texas,Donley,16.133442712605962,Dollars,48129.0,2551
 Texas,Duval,8.202383008116042,Dollars,48131.0,2556
@@ -2597,8 +2597,8 @@ Texas,Erath,6.967316949581961,Dollars,48143.0,2597
 Texas,Falls,4.48736154501562,Dollars,48145.0,2601
 Texas,Fannin,9.31971981479283,Dollars,48147.0,2621
 Texas,Fayette,3.882709807886754,Dollars,48149.0,2624
-Texas,Fisher,nan,Dollars,48151.0,2628
-Texas,Floyd,nan,Dollars,48153.0,2630
+Texas,Fisher,0,Dollars,48151.0,2628
+Texas,Floyd,0,Dollars,48153.0,2630
 Texas,Foard,0.0,Dollars,48155.0,2002
 Texas,Fort Bend,0.2616431187859759,Dollars,48157.0,2009
 Texas,Franklin,4.987765857331075,Dollars,48159.0,2016
@@ -2608,7 +2608,7 @@ Texas,Gaines,0.9248680702899733,Dollars,48165.0,2032
 Texas,Galveston,0.28533983642727984,Dollars,48167.0,2059
 Texas,Garza,4.337050805452292,Dollars,48169.0,2060
 Texas,Gillespie,53.30100560435629,Dollars,48171.0,2066
-Texas,Glasscock,nan,Dollars,48173.0,2072
+Texas,Glasscock,0,Dollars,48173.0,2072
 Texas,Goliad,2.044153720359771,Dollars,48175.0,2079
 Texas,Gonzales,4.614767255216694,Dollars,48177.0,2086
 Texas,Gray,0.9203260583749672,Dollars,48179.0,2088
@@ -2619,15 +2619,15 @@ Texas,Guadalupe,1.5028661805013848,Dollars,48187.0,2116
 Texas,Hale,0.027526218723333974,Dollars,48189.0,2120
 Texas,Hall,0.0,Dollars,48191.0,2125
 Texas,Hamilton,3.0142271521581865,Dollars,48193.0,2128
-Texas,Hansford,nan,Dollars,48195.0,2132
-Texas,Hardeman,nan,Dollars,48197.0,2137
+Texas,Hansford,0,Dollars,48195.0,2132
+Texas,Hardeman,0,Dollars,48197.0,2137
 Texas,Hardin,2.903705854596929,Dollars,48199.0,2142
 Texas,Harris,0.15249252552021064,Dollars,48201.0,2149
 Texas,Harrison,1.297134238310709,Dollars,48203.0,2157
 Texas,Hartley,1.4627011214041932,Dollars,48205.0,2160
 Texas,Haskell,0.0,Dollars,48207.0,2163
 Texas,Hays,1.2813591898962455,Dollars,48209.0,2166
-Texas,Hemphill,nan,Dollars,48211.0,2171
+Texas,Hemphill,0,Dollars,48211.0,2171
 Texas,Henderson,2.887794004027713,Dollars,48213.0,2178
 Texas,Hidalgo,2.8200887374717745,Dollars,48215.0,2188
 Texas,Hill,4.588724847517528,Dollars,48217.0,2201
@@ -2645,7 +2645,7 @@ Texas,Jackson,25.398161790500247,Dollars,48239.0,2264
 Texas,Jasper,3.012888467332478,Dollars,48241.0,2271
 Texas,Jeff Davis,0.0,Dollars,48243.0,2275
 Texas,Jefferson,0.6483846074289761,Dollars,48245.0,2285
-Texas,Jim Hogg,nan,Dollars,48247.0,2288
+Texas,Jim Hogg,0,Dollars,48247.0,2288
 Texas,Jim Wells,0.3600576092174748,Dollars,48249.0,2294
 Texas,Johnson,1.1212954874375791,Dollars,48251.0,2299
 Texas,Jones,2.4171618491288145,Dollars,48253.0,2301
@@ -2653,11 +2653,11 @@ Texas,Karnes,1.9491867186449792,Dollars,48255.0,2307
 Texas,Kaufman,2.362315444105929,Dollars,48257.0,2314
 Texas,Kendall,1.5952087764468823,Dollars,48259.0,2319
 Texas,Kenedy,0.0,Dollars,48261.0,2330
-Texas,Kent,nan,Dollars,48263.0,2335
+Texas,Kent,0,Dollars,48263.0,2335
 Texas,Kerr,0.7032207510397621,Dollars,48265.0,2337
 Texas,Kimble,3.7444933920704844,Dollars,48267.0,2339
-Texas,King,nan,Dollars,48269.0,2342
-Texas,Kinney,nan,Dollars,48271.0,2347
+Texas,King,0,Dollars,48269.0,2342
+Texas,Kinney,0,Dollars,48271.0,2347
 Texas,Kleberg,1.120483052693828,Dollars,48273.0,2358
 Texas,Knox,0.0,Dollars,48275.0,2364
 Texas,Lamar,1.6274864376130198,Dollars,48277.0,2371
@@ -2674,13 +2674,13 @@ Texas,Live Oak,0.8563110121596164,Dollars,48297.0,2416
 Texas,Llano,2.6197212616577596,Dollars,48299.0,2421
 Texas,Loving,0.0,Dollars,48301.0,2424
 Texas,Lubbock,0.40545547329935894,Dollars,48303.0,2428
-Texas,Lynn,nan,Dollars,48305.0,2438
+Texas,Lynn,0,Dollars,48305.0,2438
 Texas,McCulloch,11.59280280159401,Dollars,48307.0,2452
 Texas,McLennan,0.3049086109533197,Dollars,48309.0,2477
 Texas,McMullen,0.0,Dollars,48311.0,2494
 Texas,Madison,4.735538394288212,Dollars,48313.0,2526
-Texas,Marion,nan,Dollars,48315.0,2547
-Texas,Martin,nan,Dollars,48317.0,2564
+Texas,Marion,0,Dollars,48315.0,2547
+Texas,Martin,0,Dollars,48317.0,2564
 Texas,Mason,55.8300395256917,Dollars,48319.0,2570
 Texas,Matagorda,3.0366033812989004,Dollars,48321.0,2637
 Texas,Maverick,3.133224714876551,Dollars,48323.0,2649
@@ -2689,18 +2689,18 @@ Texas,Menard,1.348314606741573,Dollars,48327.0,2655
 Texas,Midland,0.17664843564221896,Dollars,48329.0,2657
 Texas,Milam,17.313507020668517,Dollars,48331.0,2659
 Texas,Mills,10.548086866597725,Dollars,48333.0,2663
-Texas,Mitchell,nan,Dollars,48335.0,2666
+Texas,Mitchell,0,Dollars,48335.0,2666
 Texas,Montague,8.449838684897834,Dollars,48337.0,2669
 Texas,Montgomery,0.9010234967134292,Dollars,48339.0,2682
 Texas,Moore,0.44545414049623594,Dollars,48341.0,2683
-Texas,Morris,nan,Dollars,48343.0,2688
+Texas,Morris,0,Dollars,48343.0,2688
 Texas,Motley,0.0,Dollars,48345.0,2692
 Texas,Nacogdoches,3.0366062888116243,Dollars,48347.0,2701
 Texas,Navarro,2.370703100630108,Dollars,48349.0,2706
 Texas,Newton,1.2567199609020456,Dollars,48351.0,2711
 Texas,Nolan,0.40292794305285073,Dollars,48353.0,2714
 Texas,Nueces,0.18969550996476262,Dollars,48355.0,2194
-Texas,Ochiltree,nan,Dollars,48357.0,2204
+Texas,Ochiltree,0,Dollars,48357.0,2204
 Texas,Oldham,0.0,Dollars,48359.0,2210
 Texas,Orange,0.5665449197796502,Dollars,48361.0,2214
 Texas,Palo Pinto,2.516175413371675,Dollars,48363.0,2220
@@ -2718,7 +2718,7 @@ Texas,Real,18.40855106888361,Dollars,48385.0,2283
 Texas,Red River,11.40475066855435,Dollars,48387.0,2295
 Texas,Reeves,0.4313133491481561,Dollars,48389.0,2308
 Texas,Refugio,1.658374792703151,Dollars,48391.0,2334
-Texas,Roberts,nan,Dollars,48393.0,2348
+Texas,Roberts,0,Dollars,48393.0,2348
 Texas,Robertson,5.591005773321179,Dollars,48395.0,2353
 Texas,Rockwall,0.13264518618560678,Dollars,48397.0,2355
 Texas,Runnels,3.934363304865176,Dollars,48399.0,2361
@@ -2737,14 +2737,14 @@ Texas,Smith,2.5245480919437626,Dollars,48423.0,2465
 Texas,Somervell,1.2811553692056836,Dollars,48425.0,2470
 Texas,Starr,3.3535946342485854,Dollars,48427.0,2474
 Texas,Stephens,5.950516755402443,Dollars,48429.0,2480
-Texas,Sterling,nan,Dollars,48431.0,2481
+Texas,Sterling,0,Dollars,48431.0,2481
 Texas,Stonewall,4.087193460490464,Dollars,48433.0,2486
-Texas,Sutton,nan,Dollars,48435.0,2490
+Texas,Sutton,0,Dollars,48435.0,2490
 Texas,Swisher,1.904036557501904,Dollars,48437.0,2495
 Texas,Tarrant,0.06428176023647188,Dollars,48439.0,2500
 Texas,Taylor,0.33531791864442145,Dollars,48441.0,2508
 Texas,Terrell,0.0,Dollars,48443.0,2518
-Texas,Terry,nan,Dollars,48445.0,2522
+Texas,Terry,0,Dollars,48445.0,2522
 Texas,Throckmorton,5.607476635514018,Dollars,48447.0,2525
 Texas,Titus,1.072599675155527,Dollars,48449.0,2531
 Texas,Tom Green,0.5022336179323835,Dollars,48451.0,2536
@@ -2759,23 +2759,23 @@ Texas,Van Zandt,6.366747605299887,Dollars,48467.0,2586
 Texas,Victoria,1.6015051908926992,Dollars,48469.0,2595
 Texas,Walker,0.7299589763055316,Dollars,48471.0,2603
 Texas,Waller,5.345422559036471,Dollars,48473.0,2606
-Texas,Ward,nan,Dollars,48475.0,2610
+Texas,Ward,0,Dollars,48475.0,2610
 Texas,Washington,8.175914994096813,Dollars,48477.0,2613
 Texas,Webb,0.05384304751648943,Dollars,48479.0,2616
 Texas,Wharton,4.471337270054191,Dollars,48481.0,2618
 Texas,Wheeler,4.294149221685454,Dollars,48483.0,2623
 Texas,Wichita,0.4552801110883471,Dollars,48485.0,2632
-Texas,Wilbarger,nan,Dollars,48487.0,2634
+Texas,Wilbarger,0,Dollars,48487.0,2634
 Texas,Willacy,0.3616636528028933,Dollars,48489.0,2639
 Texas,Williamson,1.3166282923922545,Dollars,48491.0,2640
 Texas,Wilson,5.241844769403825,Dollars,48493.0,2641
-Texas,Winkler,nan,Dollars,48495.0,2642
+Texas,Winkler,0,Dollars,48495.0,2642
 Texas,Wise,5.196094654972696,Dollars,48497.0,2643
 Texas,Wood,5.010467878901931,Dollars,48499.0,2644
 Texas,Yoakum,2.61259019656631,Dollars,48501.0,2645
 Texas,Young,1.8033772337286191,Dollars,48503.0,2646
 Texas,Zapata,0.631578947368421,Dollars,48505.0,2650
-Texas,Zavala,nan,Dollars,48507.0,2651
+Texas,Zavala,0,Dollars,48507.0,2651
 Utah,Beaver,10.00307787011388,Dollars,49001.0,2653
 Utah,Box Elder,48.52379436574885,Dollars,49003.0,2658
 Utah,Cache,4.7426876379690945,Dollars,49005.0,2661
@@ -2820,12 +2820,12 @@ Vermont,Washington,26.314902793220796,Dollars,50023.0,2617
 Vermont,Windham,72.15581109949548,Dollars,50025.0,2620
 Vermont,Windsor,45.45373712944357,Dollars,50027.0,2625
 Virginia,Accomack,8.554961877889175,Dollars,51001.0,2719
-Virginia,Albemarle,nan,Dollars,51003.0,2728
+Virginia,Albemarle,0,Dollars,51003.0,2728
 Virginia,Alleghany,1.9096901373744841,Dollars,51005.0,2733
 Virginia,Amelia,7.142857142857143,Dollars,51007.0,2741
 Virginia,Amherst,4.437733058029523,Dollars,51009.0,2746
 Virginia,Appomattox,9.0506705423796,Dollars,51011.0,2749
-Virginia,Arlington,nan,Dollars,51013.0,2753
+Virginia,Arlington,0,Dollars,51013.0,2753
 Virginia,Augusta,13.412271551081787,Dollars,51015.0,2758
 Virginia,Bath,0.6466910972192282,Dollars,51017.0,2763
 Virginia,Bedford County,5.979092972915897,Dollars,51019.0,2769
@@ -2837,9 +2837,9 @@ Virginia,Buckingham,8.738490411119582,Dollars,51029.0,2785
 Virginia,Campbell,8.490016032648303,Dollars,51031.0,2788
 Virginia,Caroline,12.870945479641131,Dollars,51033.0,2793
 Virginia,Carroll,49.402097668514934,Dollars,51035.0,2797
-Virginia,Charles City,nan,Dollars,51036.0,2806
+Virginia,Charles City,0,Dollars,51036.0,2806
 Virginia,Charlotte,10.56536817485281,Dollars,51037.0,2810
-Virginia,Chesterfield,nan,Dollars,51041.0,2816
+Virginia,Chesterfield,0,Dollars,51041.0,2816
 Virginia,Clarke,28.997688590039925,Dollars,51043.0,2819
 Virginia,Craig,18.276260100038478,Dollars,51045.0,2820
 Virginia,Culpeper,6.844440723375754,Dollars,51047.0,2824
@@ -2880,8 +2880,8 @@ Virginia,Mecklenburg,2.363470204518955,Dollars,51117.0,2964
 Virginia,Middlesex,2.0357175904506337,Dollars,51119.0,2965
 Virginia,Montgomery,4.545882057873781,Dollars,51121.0,2966
 Virginia,Nelson,40.342710652364566,Dollars,51125.0,2968
-Virginia,New Kent,nan,Dollars,51127.0,2971
-Virginia,Northampton,nan,Dollars,51131.0,2982
+Virginia,New Kent,0,Dollars,51127.0,2971
+Virginia,Northampton,0,Dollars,51131.0,2982
 Virginia,Northumberland,3.6384217335058215,Dollars,51133.0,2983
 Virginia,Nottoway,4.31171136896836,Dollars,51135.0,2984
 Virginia,Orange,3.5409106871122558,Dollars,51137.0,2985
@@ -2913,46 +2913,46 @@ Virginia,Washington,4.90418672236854,Dollars,51191.0,2667
 Virginia,Westmoreland,38.60210141617177,Dollars,51193.0,2684
 Virginia,Wise,0.36684682922057277,Dollars,51195.0,2695
 Virginia,Wythe,8.123698672218998,Dollars,51197.0,2699
-Virginia,York,nan,Dollars,51199.0,2709
-Virginia,Alexandria,nan,Dollars,51510.0,2712
-Virginia,Bedford City,nan,Dollars,51515.0,2713
-Virginia,Bristol,nan,Dollars,51520.0,2716
-Virginia,Buena Vista,nan,Dollars,51530.0,2720
-Virginia,Charlottesville,nan,Dollars,51540.0,2722
+Virginia,York,0,Dollars,51199.0,2709
+Virginia,Alexandria,0,Dollars,51510.0,2712
+Virginia,Bedford City,0,Dollars,51515.0,2713
+Virginia,Bristol,0,Dollars,51520.0,2716
+Virginia,Buena Vista,0,Dollars,51530.0,2720
+Virginia,Charlottesville,0,Dollars,51540.0,2722
 Virginia,Chesapeake,0.5739798712707739,Dollars,51550.0,2724
-Virginia,Colonial Heights,nan,Dollars,51570.0,2727
-Virginia,Covington,nan,Dollars,51580.0,2729
-Virginia,Danville,nan,Dollars,51590.0,2732
-Virginia,Emporia,nan,Dollars,51595.0,2736
-Virginia,Fairfax City,nan,Dollars,51600.0,2737
-Virginia,Falls Church,nan,Dollars,51610.0,2740
-Virginia,Franklin City,nan,Dollars,51620.0,2744
-Virginia,Fredericksburg,nan,Dollars,51630.0,2745
-Virginia,Galax,nan,Dollars,51640.0,2747
+Virginia,Colonial Heights,0,Dollars,51570.0,2727
+Virginia,Covington,0,Dollars,51580.0,2729
+Virginia,Danville,0,Dollars,51590.0,2732
+Virginia,Emporia,0,Dollars,51595.0,2736
+Virginia,Fairfax City,0,Dollars,51600.0,2737
+Virginia,Falls Church,0,Dollars,51610.0,2740
+Virginia,Franklin City,0,Dollars,51620.0,2744
+Virginia,Fredericksburg,0,Dollars,51630.0,2745
+Virginia,Galax,0,Dollars,51640.0,2747
 Virginia,Hampton,0.0,Dollars,51650.0,2751
-Virginia,Harrisonburg,nan,Dollars,51660.0,2755
-Virginia,Hopewell,nan,Dollars,51670.0,2756
-Virginia,Lexington,nan,Dollars,51678.0,2760
-Virginia,Lynchburg,nan,Dollars,51680.0,2762
-Virginia,Manassas,nan,Dollars,51683.0,2765
-Virginia,Manassas Park,nan,Dollars,51685.0,2768
-Virginia,Martinsville,nan,Dollars,51690.0,2771
+Virginia,Harrisonburg,0,Dollars,51660.0,2755
+Virginia,Hopewell,0,Dollars,51670.0,2756
+Virginia,Lexington,0,Dollars,51678.0,2760
+Virginia,Lynchburg,0,Dollars,51680.0,2762
+Virginia,Manassas,0,Dollars,51683.0,2765
+Virginia,Manassas Park,0,Dollars,51685.0,2768
+Virginia,Martinsville,0,Dollars,51690.0,2771
 Virginia,Newport News,0.0,Dollars,51700.0,2775
-Virginia,Norfolk,nan,Dollars,51710.0,2778
-Virginia,Norton,nan,Dollars,51720.0,2780
-Virginia,Petersburg,nan,Dollars,51730.0,2782
-Virginia,Poquoson,nan,Dollars,51735.0,2791
-Virginia,Portsmouth,nan,Dollars,51740.0,2795
-Virginia,Radford,nan,Dollars,51750.0,2799
-Virginia,Richmond City,nan,Dollars,51760.0,2802
-Virginia,Roanoke City,nan,Dollars,51770.0,2805
-Virginia,Salem,nan,Dollars,51775.0,2809
-Virginia,Staunton,nan,Dollars,51790.0,2812
+Virginia,Norfolk,0,Dollars,51710.0,2778
+Virginia,Norton,0,Dollars,51720.0,2780
+Virginia,Petersburg,0,Dollars,51730.0,2782
+Virginia,Poquoson,0,Dollars,51735.0,2791
+Virginia,Portsmouth,0,Dollars,51740.0,2795
+Virginia,Radford,0,Dollars,51750.0,2799
+Virginia,Richmond City,0,Dollars,51760.0,2802
+Virginia,Roanoke City,0,Dollars,51770.0,2805
+Virginia,Salem,0,Dollars,51775.0,2809
+Virginia,Staunton,0,Dollars,51790.0,2812
 Virginia,Suffolk,1.1731856683638753,Dollars,51800.0,2815
 Virginia,Virginia Beach,1.1307344389403402,Dollars,51810.0,2826
-Virginia,Waynesboro,nan,Dollars,51820.0,2831
-Virginia,Williamsburg,nan,Dollars,51830.0,2835
-Virginia,Winchester,nan,Dollars,51840.0,2837
+Virginia,Waynesboro,0,Dollars,51820.0,2831
+Virginia,Williamsburg,0,Dollars,51830.0,2835
+Virginia,Winchester,0,Dollars,51840.0,2837
 Washington,Adams,6.064761101149668,Dollars,53001.0,2840
 Washington,Asotin,12.70682877776762,Dollars,53003.0,2845
 Washington,Benton,4.722459623518068,Dollars,53005.0,2847
@@ -2994,7 +2994,7 @@ Washington,Whitman,5.253114346362486,Dollars,53075.0,2973
 Washington,Yakima,16.763623989240166,Dollars,53077.0,2974
 West Virginia,Barbour,7.710100231303007,Dollars,54001.0,2975
 West Virginia,Berkeley,19.7327852004111,Dollars,54003.0,2976
-West Virginia,Boone,nan,Dollars,54005.0,2977
+West Virginia,Boone,0,Dollars,54005.0,2977
 West Virginia,Braxton,1.6566576931041623,Dollars,54007.0,2978
 West Virginia,Brooke,0.7141656864392539,Dollars,54009.0,2979
 West Virginia,Cabell,0.5985428577325546,Dollars,54011.0,2980
@@ -3021,7 +3021,7 @@ West Virginia,Marshall,3.976629653421431,Dollars,54051.0,3041
 West Virginia,Mason,6.644152411717202,Dollars,54053.0,3042
 West Virginia,Mercer,1.5074248693030565,Dollars,54055.0,3044
 West Virginia,Mineral,10.495021133319005,Dollars,54057.0,3046
-West Virginia,Mingo,nan,Dollars,54059.0,3048
+West Virginia,Mingo,0,Dollars,54059.0,3048
 West Virginia,Monongalia,1.9693850147703875,Dollars,54061.0,3050
 West Virginia,Monroe,12.882209224846376,Dollars,54063.0,3052
 West Virginia,Morgan,20.859598853868196,Dollars,54065.0,3054
@@ -3140,5 +3140,5 @@ Wyoming,Sublette,6.527164522941064,Dollars,56035.0,3049
 Wyoming,Sweetwater,2.084072366087265,Dollars,56037.0,3051
 Wyoming,Teton,1.1061437065032032,Dollars,56039.0,3053
 Wyoming,Uinta,6.336652532278813,Dollars,56041.0,3055
-Wyoming,Washakie,nan,Dollars,56043.0,3056
-Wyoming,Weston,nan,Dollars,56045.0,3058
+Wyoming,Washakie,0,Dollars,56043.0,3056
+Wyoming,Weston,0,Dollars,56045.0,3058

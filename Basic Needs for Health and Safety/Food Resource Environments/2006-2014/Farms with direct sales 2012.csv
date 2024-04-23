@@ -66,35 +66,35 @@ Alabama,Walker,19.0,Count,1127.0,317
 Alabama,Washington,21.0,Count,1129.0,319
 Alabama,Wilcox,15.0,Count,1131.0,326
 Alabama,Winston,17.0,Count,1133.0,332
-Alaska,Aleutians East,nan,Count,2013.0,346
-Alaska,Aleutians West,nan,Count,2016.0,381
+Alaska,Aleutians East,0,Count,2013.0,346
+Alaska,Aleutians West,0,Count,2016.0,381
 Alaska,Anchorage,90.0,Count,2020.0,400
-Alaska,Bethel,nan,Count,2050.0,411
-Alaska,Bristol Bay,nan,Count,2060.0,423
-Alaska,Denali,nan,Count,2068.0,426
-Alaska,Dillingham,nan,Count,2070.0,445
+Alaska,Bethel,0,Count,2050.0,411
+Alaska,Bristol Bay,0,Count,2060.0,423
+Alaska,Denali,0,Count,2068.0,426
+Alaska,Dillingham,0,Count,2070.0,445
 Alaska,Fairbanks North Star,62.0,Count,2090.0,454
-Alaska,Haines,nan,Count,2100.0,462
-Alaska,Hoonah-Angoon,nan,Count,2105.0,476
+Alaska,Haines,0,Count,2100.0,462
+Alaska,Hoonah-Angoon,0,Count,2105.0,476
 Alaska,Juneau,18.0,Count,2110.0,482
 Alaska,Kenai Peninsula,56.0,Count,2122.0,494
-Alaska,Ketchikan Gateway,nan,Count,2130.0,514
-Alaska,Kodiak Island,nan,Count,2150.0,533
-Alaska,Lake and Peninsula,nan,Count,2164.0,544
-Alaska,Matanuska-Susitna,nan,Count,2170.0,556
-Alaska,Nome,nan,Count,2180.0,571
-Alaska,North Slope,nan,Count,2185.0,614
-Alaska,Northwest Arctic,nan,Count,2188.0,638
-Alaska,Petersburg,nan,Count,2195.0,645
-Alaska,Prince of Wales-Hyder,nan,Count,2198.0,669
-Alaska,Sitka,nan,Count,2220.0,679
-Alaska,Skagway,nan,Count,2230.0,683
-Alaska,Southeast Fairbanks,nan,Count,2240.0,690
-Alaska,Valdez-Cordova,nan,Count,2261.0,710
-Alaska,Wade Hampton,nan,Count,2270.0,725
-Alaska,Wrangell,nan,Count,2275.0,733
-Alaska,Yakutat,nan,Count,2282.0,744
-Alaska,Yukon-Koyukuk,nan,Count,2290.0,753
+Alaska,Ketchikan Gateway,0,Count,2130.0,514
+Alaska,Kodiak Island,0,Count,2150.0,533
+Alaska,Lake and Peninsula,0,Count,2164.0,544
+Alaska,Matanuska-Susitna,0,Count,2170.0,556
+Alaska,Nome,0,Count,2180.0,571
+Alaska,North Slope,0,Count,2185.0,614
+Alaska,Northwest Arctic,0,Count,2188.0,638
+Alaska,Petersburg,0,Count,2195.0,645
+Alaska,Prince of Wales-Hyder,0,Count,2198.0,669
+Alaska,Sitka,0,Count,2220.0,679
+Alaska,Skagway,0,Count,2230.0,683
+Alaska,Southeast Fairbanks,0,Count,2240.0,690
+Alaska,Valdez-Cordova,0,Count,2261.0,710
+Alaska,Wade Hampton,0,Count,2270.0,725
+Alaska,Wrangell,0,Count,2275.0,733
+Alaska,Yakutat,0,Count,2282.0,744
+Alaska,Yukon-Koyukuk,0,Count,2290.0,753
 Arizona,Apache,130.0,Count,4001.0,761
 Arizona,Cochise,122.0,Count,4003.0,763
 Arizona,Coconino,115.0,Count,4005.0,771
@@ -318,7 +318,7 @@ Connecticut,Windham,190.0,Count,9015.0,529
 Delaware,Kent,60.0,Count,10001.0,532
 Delaware,New Castle,49.0,Count,10003.0,536
 Delaware,Sussex,70.0,Count,10005.0,609
-District of Columbia,District of Columbia,nan,Count,11001.0,630
+District of Columbia,District of Columbia,0,Count,11001.0,630
 Florida,Alachua,152.0,Count,12001.0,639
 Florida,Baker,29.0,Count,12003.0,641
 Florida,Bay,9.0,Count,12005.0,658
@@ -547,7 +547,7 @@ Georgia,Wilkinson,8.0,Count,13319.0,169
 Georgia,Worth,7.0,Count,13321.0,173
 Hawaii,Hawaii,788.0,Count,15001.0,198
 Hawaii,Honolulu,262.0,Count,15003.0,234
-Hawaii,Kalawao,nan,Count,15005.0,247
+Hawaii,Kalawao,0,Count,15005.0,247
 Hawaii,Kauai,204.0,Count,15007.0,261
 Hawaii,Maui,352.0,Count,15009.0,323
 Idaho,Ada,229.0,Count,16001.0,336
@@ -1215,7 +1215,7 @@ Maryland,Talbot,11.0,Count,24041.0,1438
 Maryland,Washington,120.0,Count,24043.0,1445
 Maryland,Wicomico,39.0,Count,24045.0,1446
 Maryland,Worcester,15.0,Count,24047.0,1456
-Maryland,Baltimore City,nan,Count,24510.0,1460
+Maryland,Baltimore City,0,Count,24510.0,1460
 Massachusetts,Barnstable,81.0,Count,25001.0,1478
 Massachusetts,Berkshire,190.0,Count,25003.0,1480
 Massachusetts,Bristol,174.0,Count,25005.0,1486
@@ -1596,7 +1596,7 @@ Missouri,Wayne,14.0,Count,29223.0,1256
 Missouri,Webster,89.0,Count,29225.0,1258
 Missouri,Worth,8.0,Count,29227.0,1261
 Missouri,Wright,53.0,Count,29229.0,1263
-Missouri,St. Louis City,nan,Count,29510.0,1266
+Missouri,St. Louis City,0,Count,29510.0,1266
 Montana,Beaverhead,30.0,Count,30001.0,1269
 Montana,Big Horn,7.0,Count,30003.0,1274
 Montana,Blaine,9.0,Count,30005.0,1124
@@ -2914,45 +2914,45 @@ Virginia,Westmoreland,20.0,Count,51193.0,2684
 Virginia,Wise,10.0,Count,51195.0,2695
 Virginia,Wythe,44.0,Count,51197.0,2699
 Virginia,York,10.0,Count,51199.0,2709
-Virginia,Alexandria,nan,Count,51510.0,2712
-Virginia,Bedford City,nan,Count,51515.0,2713
-Virginia,Bristol,nan,Count,51520.0,2716
-Virginia,Buena Vista,nan,Count,51530.0,2720
-Virginia,Charlottesville,nan,Count,51540.0,2722
+Virginia,Alexandria,0,Count,51510.0,2712
+Virginia,Bedford City,0,Count,51515.0,2713
+Virginia,Bristol,0,Count,51520.0,2716
+Virginia,Buena Vista,0,Count,51530.0,2720
+Virginia,Charlottesville,0,Count,51540.0,2722
 Virginia,Chesapeake,36.0,Count,51550.0,2724
-Virginia,Colonial Heights,nan,Count,51570.0,2727
-Virginia,Covington,nan,Count,51580.0,2729
-Virginia,Danville,nan,Count,51590.0,2732
-Virginia,Emporia,nan,Count,51595.0,2736
-Virginia,Fairfax City,nan,Count,51600.0,2737
-Virginia,Falls Church,nan,Count,51610.0,2740
-Virginia,Franklin City,nan,Count,51620.0,2744
-Virginia,Fredericksburg,nan,Count,51630.0,2745
-Virginia,Galax,nan,Count,51640.0,2747
+Virginia,Colonial Heights,0,Count,51570.0,2727
+Virginia,Covington,0,Count,51580.0,2729
+Virginia,Danville,0,Count,51590.0,2732
+Virginia,Emporia,0,Count,51595.0,2736
+Virginia,Fairfax City,0,Count,51600.0,2737
+Virginia,Falls Church,0,Count,51610.0,2740
+Virginia,Franklin City,0,Count,51620.0,2744
+Virginia,Fredericksburg,0,Count,51630.0,2745
+Virginia,Galax,0,Count,51640.0,2747
 Virginia,Hampton,0.0,Count,51650.0,2751
-Virginia,Harrisonburg,nan,Count,51660.0,2755
-Virginia,Hopewell,nan,Count,51670.0,2756
-Virginia,Lexington,nan,Count,51678.0,2760
-Virginia,Lynchburg,nan,Count,51680.0,2762
-Virginia,Manassas,nan,Count,51683.0,2765
-Virginia,Manassas Park,nan,Count,51685.0,2768
-Virginia,Martinsville,nan,Count,51690.0,2771
+Virginia,Harrisonburg,0,Count,51660.0,2755
+Virginia,Hopewell,0,Count,51670.0,2756
+Virginia,Lexington,0,Count,51678.0,2760
+Virginia,Lynchburg,0,Count,51680.0,2762
+Virginia,Manassas,0,Count,51683.0,2765
+Virginia,Manassas Park,0,Count,51685.0,2768
+Virginia,Martinsville,0,Count,51690.0,2771
 Virginia,Newport News,0.0,Count,51700.0,2775
-Virginia,Norfolk,nan,Count,51710.0,2778
-Virginia,Norton,nan,Count,51720.0,2780
-Virginia,Petersburg,nan,Count,51730.0,2782
-Virginia,Poquoson,nan,Count,51735.0,2791
-Virginia,Portsmouth,nan,Count,51740.0,2795
-Virginia,Radford,nan,Count,51750.0,2799
-Virginia,Richmond City,nan,Count,51760.0,2802
-Virginia,Roanoke City,nan,Count,51770.0,2805
-Virginia,Salem,nan,Count,51775.0,2809
-Virginia,Staunton,nan,Count,51790.0,2812
+Virginia,Norfolk,0,Count,51710.0,2778
+Virginia,Norton,0,Count,51720.0,2780
+Virginia,Petersburg,0,Count,51730.0,2782
+Virginia,Poquoson,0,Count,51735.0,2791
+Virginia,Portsmouth,0,Count,51740.0,2795
+Virginia,Radford,0,Count,51750.0,2799
+Virginia,Richmond City,0,Count,51760.0,2802
+Virginia,Roanoke City,0,Count,51770.0,2805
+Virginia,Salem,0,Count,51775.0,2809
+Virginia,Staunton,0,Count,51790.0,2812
 Virginia,Suffolk,40.0,Count,51800.0,2815
 Virginia,Virginia Beach,34.0,Count,51810.0,2826
-Virginia,Waynesboro,nan,Count,51820.0,2831
-Virginia,Williamsburg,nan,Count,51830.0,2835
-Virginia,Winchester,nan,Count,51840.0,2837
+Virginia,Waynesboro,0,Count,51820.0,2831
+Virginia,Williamsburg,0,Count,51830.0,2835
+Virginia,Winchester,0,Count,51840.0,2837
 Washington,Adams,27.0,Count,53001.0,2840
 Washington,Asotin,16.0,Count,53003.0,2845
 Washington,Benton,188.0,Count,53005.0,2847
