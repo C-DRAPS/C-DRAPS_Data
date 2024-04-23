@@ -1,0 +1,3144 @@
+State,County,Vegetable acres harvested for fresh market per 1000 pop 2012 (FRESHVEG_ACRESPTH12),Units,FIPS,FID
+Alabama,Autauga,nan,"Acres/1,000 pop",1001.0,5
+Alabama,Baldwin,nan,"Acres/1,000 pop",1003.0,20
+Alabama,Barbour,1.5096284841120808,"Acres/1,000 pop",1005.0,25
+Alabama,Bibb,0.5299885169154669,"Acres/1,000 pop",1007.0,29
+Alabama,Blount,11.319579063971199,"Acres/1,000 pop",1009.0,33
+Alabama,Bullock,6.600037714501226,"Acres/1,000 pop",1011.0,37
+Alabama,Butler,4.900039200313603,"Acres/1,000 pop",1013.0,39
+Alabama,Calhoun,nan,"Acres/1,000 pop",1015.0,43
+Alabama,Chambers,nan,"Acres/1,000 pop",1017.0,47
+Alabama,Cherokee,nan,"Acres/1,000 pop",1019.0,51
+Alabama,Chilton,10.366844405794447,"Acres/1,000 pop",1021.0,56
+Alabama,Choctaw,4.356494129808757,"Acres/1,000 pop",1023.0,58
+Alabama,Clarke,nan,"Acres/1,000 pop",1025.0,61
+Alabama,Clay,nan,"Acres/1,000 pop",1027.0,65
+Alabama,Cleburne,nan,"Acres/1,000 pop",1029.0,67
+Alabama,Coffee,nan,"Acres/1,000 pop",1031.0,70
+Alabama,Colbert,1.064767219856073,"Acres/1,000 pop",1033.0,73
+Alabama,Conecuh,nan,"Acres/1,000 pop",1035.0,80
+Alabama,Coosa,nan,"Acres/1,000 pop",1037.0,82
+Alabama,Covington,1.4543339150668995,"Acres/1,000 pop",1039.0,88
+Alabama,Crenshaw,nan,"Acres/1,000 pop",1041.0,90
+Alabama,Cullman,11.334511160325478,"Acres/1,000 pop",1043.0,98
+Alabama,Dale,nan,"Acres/1,000 pop",1045.0,101
+Alabama,Dallas,nan,"Acres/1,000 pop",1047.0,110
+Alabama,DeKalb,nan,"Acres/1,000 pop",1049.0,112
+Alabama,Elmore,1.2805848418539885,"Acres/1,000 pop",1051.0,118
+Alabama,Escambia,nan,"Acres/1,000 pop",1053.0,122
+Alabama,Etowah,2.1393965558593564,"Acres/1,000 pop",1055.0,131
+Alabama,Fayette,5.4245283018867925,"Acres/1,000 pop",1057.0,134
+Alabama,Franklin,1.4534883720930232,"Acres/1,000 pop",1059.0,138
+Alabama,Geneva,18.07005850551729,"Acres/1,000 pop",1061.0,140
+Alabama,Greene,7.017543859649122,"Acres/1,000 pop",1063.0,148
+Alabama,Hale,7.077462502434907,"Acres/1,000 pop",1065.0,150
+Alabama,Henry,0.9855643805437997,"Acres/1,000 pop",1067.0,158
+Alabama,Houston,nan,"Acres/1,000 pop",1069.0,160
+Alabama,Jackson,nan,"Acres/1,000 pop",1071.0,164
+Alabama,Jefferson,nan,"Acres/1,000 pop",1073.0,171
+Alabama,Lamar,nan,"Acres/1,000 pop",1075.0,174
+Alabama,Lauderdale,1.0034527406128615,"Acres/1,000 pop",1077.0,176
+Alabama,Lawrence,2.2501184272856465,"Acres/1,000 pop",1079.0,181
+Alabama,Lee,0.12170467684027614,"Acres/1,000 pop",1081.0,187
+Alabama,Limestone,0.8588999209812073,"Acres/1,000 pop",1083.0,197
+Alabama,Lowndes,nan,"Acres/1,000 pop",1085.0,205
+Alabama,Macon,nan,"Acres/1,000 pop",1087.0,210
+Alabama,Madison,0.2597053948689217,"Acres/1,000 pop",1089.0,217
+Alabama,Marengo,3.0808352486674164,"Acres/1,000 pop",1091.0,220
+Alabama,Marion,1.081435359659184,"Acres/1,000 pop",1093.0,224
+Alabama,Marshall,0.573078065967653,"Acres/1,000 pop",1095.0,231
+Alabama,Mobile,nan,"Acres/1,000 pop",1097.0,240
+Alabama,Monroe,1.3283152534868274,"Acres/1,000 pop",1099.0,250
+Alabama,Montgomery,0.322741030852298,"Acres/1,000 pop",1101.0,256
+Alabama,Morgan,nan,"Acres/1,000 pop",1103.0,262
+Alabama,Perry,7.858546168958743,"Acres/1,000 pop",1105.0,264
+Alabama,Pickens,nan,"Acres/1,000 pop",1107.0,273
+Alabama,Pike,0.24165533907264766,"Acres/1,000 pop",1109.0,279
+Alabama,Randolph,nan,"Acres/1,000 pop",1111.0,284
+Alabama,Russell,1.2463000467362517,"Acres/1,000 pop",1113.0,288
+Alabama,St. Clair,5.7186472522310945,"Acres/1,000 pop",1115.0,292
+Alabama,Shelby,nan,"Acres/1,000 pop",1117.0,298
+Alabama,Sumter,4.981042301687607,"Acres/1,000 pop",1119.0,303
+Alabama,Talladega,0.18308088513505266,"Acres/1,000 pop",1121.0,306
+Alabama,Tallapoosa,0.46157957388917237,"Acres/1,000 pop",1123.0,308
+Alabama,Tuscaloosa,0.6295865379288114,"Acres/1,000 pop",1125.0,313
+Alabama,Walker,nan,"Acres/1,000 pop",1127.0,317
+Alabama,Washington,2.68770084721005,"Acres/1,000 pop",1129.0,319
+Alabama,Wilcox,6.335239771227452,"Acres/1,000 pop",1131.0,326
+Alabama,Winston,0.9927200529450696,"Acres/1,000 pop",1133.0,332
+Alaska,Aleutians East,nan,"Acres/1,000 pop",2013.0,346
+Alaska,Aleutians West,nan,"Acres/1,000 pop",2016.0,381
+Alaska,Anchorage,nan,"Acres/1,000 pop",2020.0,400
+Alaska,Bethel,nan,"Acres/1,000 pop",2050.0,411
+Alaska,Bristol Bay,nan,"Acres/1,000 pop",2060.0,423
+Alaska,Denali,nan,"Acres/1,000 pop",2068.0,426
+Alaska,Dillingham,nan,"Acres/1,000 pop",2070.0,445
+Alaska,Fairbanks North Star,nan,"Acres/1,000 pop",2090.0,454
+Alaska,Haines,nan,"Acres/1,000 pop",2100.0,462
+Alaska,Hoonah-Angoon,nan,"Acres/1,000 pop",2105.0,476
+Alaska,Juneau,nan,"Acres/1,000 pop",2110.0,482
+Alaska,Kenai Peninsula,0.614455504643528,"Acres/1,000 pop",2122.0,494
+Alaska,Ketchikan Gateway,nan,"Acres/1,000 pop",2130.0,514
+Alaska,Kodiak Island,nan,"Acres/1,000 pop",2150.0,533
+Alaska,Lake and Peninsula,nan,"Acres/1,000 pop",2164.0,544
+Alaska,Matanuska-Susitna,nan,"Acres/1,000 pop",2170.0,556
+Alaska,Nome,nan,"Acres/1,000 pop",2180.0,571
+Alaska,North Slope,nan,"Acres/1,000 pop",2185.0,614
+Alaska,Northwest Arctic,nan,"Acres/1,000 pop",2188.0,638
+Alaska,Petersburg,nan,"Acres/1,000 pop",2195.0,645
+Alaska,Prince of Wales-Hyder,nan,"Acres/1,000 pop",2198.0,669
+Alaska,Sitka,nan,"Acres/1,000 pop",2220.0,679
+Alaska,Skagway,nan,"Acres/1,000 pop",2230.0,683
+Alaska,Southeast Fairbanks,nan,"Acres/1,000 pop",2240.0,690
+Alaska,Valdez-Cordova,nan,"Acres/1,000 pop",2261.0,710
+Alaska,Wade Hampton,nan,"Acres/1,000 pop",2270.0,725
+Alaska,Wrangell,nan,"Acres/1,000 pop",2275.0,733
+Alaska,Yakutat,nan,"Acres/1,000 pop",2282.0,744
+Alaska,Yukon-Koyukuk,nan,"Acres/1,000 pop",2290.0,753
+Arizona,Apache,30.17300468839964,"Acres/1,000 pop",4001.0,761
+Arizona,Cochise,nan,"Acres/1,000 pop",4003.0,763
+Arizona,Coconino,nan,"Acres/1,000 pop",4005.0,771
+Arizona,Gila,nan,"Acres/1,000 pop",4007.0,787
+Arizona,Graham,nan,"Acres/1,000 pop",4009.0,0
+Arizona,Greenlee,0.0,"Acres/1,000 pop",4011.0,1
+Arizona,La Paz,nan,"Acres/1,000 pop",4012.0,3
+Arizona,Maricopa,nan,"Acres/1,000 pop",4013.0,9
+Arizona,Mohave,0.11317115414895292,"Acres/1,000 pop",4015.0,15
+Arizona,Navajo,8.296506684854204,"Acres/1,000 pop",4017.0,17
+Arizona,Pima,nan,"Acres/1,000 pop",4019.0,21
+Arizona,Pinal,16.286167872807304,"Acres/1,000 pop",4021.0,26
+Arizona,Santa Cruz,nan,"Acres/1,000 pop",4023.0,32
+Arizona,Yavapai,nan,"Acres/1,000 pop",4025.0,35
+Arizona,Yuma,471.2242124768376,"Acres/1,000 pop",4027.0,42
+Arkansas,Arkansas,nan,"Acres/1,000 pop",5001.0,46
+Arkansas,Ashley,20.380624447443115,"Acres/1,000 pop",5003.0,50
+Arkansas,Baxter,nan,"Acres/1,000 pop",5005.0,54
+Arkansas,Benton,0.321925716713954,"Acres/1,000 pop",5007.0,59
+Arkansas,Boone,0.18752678954136304,"Acres/1,000 pop",5009.0,62
+Arkansas,Bradley,nan,"Acres/1,000 pop",5011.0,68
+Arkansas,Calhoun,2.4500565397663023,"Acres/1,000 pop",5013.0,72
+Arkansas,Carroll,0.6890299184043518,"Acres/1,000 pop",5015.0,74
+Arkansas,Chicot,nan,"Acres/1,000 pop",5017.0,77
+Arkansas,Clark,nan,"Acres/1,000 pop",5019.0,86
+Arkansas,Clay,nan,"Acres/1,000 pop",5021.0,93
+Arkansas,Cleburne,nan,"Acres/1,000 pop",5023.0,97
+Arkansas,Cleveland,0.23226106143305073,"Acres/1,000 pop",5025.0,103
+Arkansas,Columbia,nan,"Acres/1,000 pop",5027.0,107
+Arkansas,Conway,0.09431737797689226,"Acres/1,000 pop",5029.0,109
+Arkansas,Craighead,0.6102868348123618,"Acres/1,000 pop",5031.0,114
+Arkansas,Crawford,nan,"Acres/1,000 pop",5033.0,115
+Arkansas,Crittenden,0.1998001998001998,"Acres/1,000 pop",5035.0,119
+Arkansas,Cross,nan,"Acres/1,000 pop",5037.0,124
+Arkansas,Dallas,nan,"Acres/1,000 pop",5039.0,128
+Arkansas,Desha,nan,"Acres/1,000 pop",5041.0,130
+Arkansas,Drew,2.450719232818327,"Acres/1,000 pop",5043.0,136
+Arkansas,Faulkner,nan,"Acres/1,000 pop",5045.0,141
+Arkansas,Franklin,nan,"Acres/1,000 pop",5047.0,144
+Arkansas,Fulton,1.3063357282821686,"Acres/1,000 pop",5049.0,146
+Arkansas,Garland,nan,"Acres/1,000 pop",5051.0,151
+Arkansas,Grant,nan,"Acres/1,000 pop",5053.0,155
+Arkansas,Greene,0.0694959229058562,"Acres/1,000 pop",5055.0,162
+Arkansas,Hempstead,2.459859564381233,"Acres/1,000 pop",5057.0,172
+Arkansas,Hot Spring,0.839001588110149,"Acres/1,000 pop",5059.0,184
+Arkansas,Howard,0.2922481186527362,"Acres/1,000 pop",5061.0,191
+Arkansas,Independence,0.9204862333161871,"Acres/1,000 pop",5063.0,200
+Arkansas,Izard,2.14560520864161,"Acres/1,000 pop",5065.0,203
+Arkansas,Jackson,nan,"Acres/1,000 pop",5067.0,209
+Arkansas,Jefferson,0.5092673251403835,"Acres/1,000 pop",5069.0,213
+Arkansas,Johnson,1.042430794177831,"Acres/1,000 pop",5071.0,218
+Arkansas,Lafayette,nan,"Acres/1,000 pop",5073.0,222
+Arkansas,Lawrence,nan,"Acres/1,000 pop",5075.0,230
+Arkansas,Lee,nan,"Acres/1,000 pop",5077.0,237
+Arkansas,Lincoln,nan,"Acres/1,000 pop",5079.0,244
+Arkansas,Little River,nan,"Acres/1,000 pop",5081.0,251
+Arkansas,Logan,0.5452810469396101,"Acres/1,000 pop",5083.0,258
+Arkansas,Lonoke,nan,"Acres/1,000 pop",5085.0,268
+Arkansas,Madison,1.7913121361397224,"Acres/1,000 pop",5087.0,277
+Arkansas,Marion,0.24077529645458376,"Acres/1,000 pop",5089.0,282
+Arkansas,Miller,nan,"Acres/1,000 pop",5091.0,287
+Arkansas,Mississippi,6.278814489571899,"Acres/1,000 pop",5093.0,294
+Arkansas,Monroe,0.0,"Acres/1,000 pop",5095.0,300
+Arkansas,Montgomery,nan,"Acres/1,000 pop",5097.0,304
+Arkansas,Nevada,11.338123035473732,"Acres/1,000 pop",5099.0,307
+Arkansas,Newton,0.7420232500618352,"Acres/1,000 pop",5101.0,311
+Arkansas,Ouachita,nan,"Acres/1,000 pop",5103.0,316
+Arkansas,Perry,nan,"Acres/1,000 pop",5105.0,318
+Arkansas,Phillips,1.349202524936154,"Acres/1,000 pop",5107.0,322
+Arkansas,Pike,nan,"Acres/1,000 pop",5109.0,327
+Arkansas,Poinsett,0.12356357345854442,"Acres/1,000 pop",5111.0,333
+Arkansas,Polk,1.1743406566521504,"Acres/1,000 pop",5113.0,337
+Arkansas,Pope,nan,"Acres/1,000 pop",5115.0,340
+Arkansas,Prairie,nan,"Acres/1,000 pop",5117.0,345
+Arkansas,Pulaski,0.5270139645846617,"Acres/1,000 pop",5119.0,350
+Arkansas,Randolph,0.44807886187969087,"Acres/1,000 pop",5121.0,353
+Arkansas,St. Francis,8.208473725715105,"Acres/1,000 pop",5123.0,357
+Arkansas,Saline,0.3042369468927565,"Acres/1,000 pop",5125.0,360
+Arkansas,Scott,0.0,"Acres/1,000 pop",5127.0,364
+Arkansas,Searcy,nan,"Acres/1,000 pop",5129.0,372
+Arkansas,Sebastian,nan,"Acres/1,000 pop",5131.0,378
+Arkansas,Sevier,0.0,"Acres/1,000 pop",5133.0,390
+Arkansas,Sharp,2.8712059064807223,"Acres/1,000 pop",5135.0,394
+Arkansas,Stone,nan,"Acres/1,000 pop",5137.0,399
+Arkansas,Union,1.1989820886757365,"Acres/1,000 pop",5139.0,403
+Arkansas,Van Buren,0.81547064305685,"Acres/1,000 pop",5141.0,407
+Arkansas,Washington,nan,"Acres/1,000 pop",5143.0,417
+Arkansas,White,nan,"Acres/1,000 pop",5145.0,428
+Arkansas,Woodruff,nan,"Acres/1,000 pop",5147.0,435
+Arkansas,Yell,nan,"Acres/1,000 pop",5149.0,438
+California,Alameda,nan,"Acres/1,000 pop",6001.0,457
+California,Alpine,0.0,"Acres/1,000 pop",6003.0,461
+California,Amador,0.8895118466805036,"Acres/1,000 pop",6005.0,472
+California,Butte,0.8363282927601093,"Acres/1,000 pop",6007.0,486
+California,Calaveras,0.9831303764942464,"Acres/1,000 pop",6009.0,489
+California,Colusa,155.7323350491343,"Acres/1,000 pop",6011.0,497
+California,Contra Costa,nan,"Acres/1,000 pop",6013.0,503
+California,Del Norte,1.914825715400163,"Acres/1,000 pop",6015.0,511
+California,El Dorado,1.174001406586591,"Acres/1,000 pop",6017.0,522
+California,Fresno,70.11405351620164,"Acres/1,000 pop",6019.0,527
+California,Glenn,nan,"Acres/1,000 pop",6021.0,537
+California,Humboldt,4.4097013429545,"Acres/1,000 pop",6023.0,551
+California,Imperial,592.8687689023807,"Acres/1,000 pop",6025.0,557
+California,Inyo,nan,"Acres/1,000 pop",6027.0,562
+California,Kern,70.2751419605499,"Acres/1,000 pop",6029.0,84
+California,Kings,35.17833876760074,"Acres/1,000 pop",6031.0,94
+California,Lake,1.688185825491606,"Acres/1,000 pop",6033.0,100
+California,Lassen,18.70879610381897,"Acres/1,000 pop",6035.0,104
+California,Los Angeles,1.7461623543845024,"Acres/1,000 pop",6037.0,139
+California,Madera,21.451104100946374,"Acres/1,000 pop",6039.0,153
+California,Marin,0.7265029040586514,"Acres/1,000 pop",6041.0,168
+California,Mariposa,0.056006720806496775,"Acres/1,000 pop",6043.0,178
+California,Mendocino,3.81618335961244,"Acres/1,000 pop",6045.0,190
+California,Merced,137.0078078445154,"Acres/1,000 pop",6047.0,204
+California,Modoc,152.14829101039322,"Acres/1,000 pop",6049.0,207
+California,Mono,nan,"Acres/1,000 pop",6051.0,214
+California,Monterey,579.9911359367416,"Acres/1,000 pop",6053.0,228
+California,Napa,0.5033979360684621,"Acres/1,000 pop",6055.0,236
+California,Nevada,2.095881491128113,"Acres/1,000 pop",6057.0,243
+California,Orange,nan,"Acres/1,000 pop",6059.0,257
+California,Placer,0.43741262129202835,"Acres/1,000 pop",6061.0,266
+California,Plumas,1.3453378867846424,"Acres/1,000 pop",6063.0,275
+California,Riverside,15.629602973421605,"Acres/1,000 pop",6065.0,281
+California,Sacramento,1.1066880410033788,"Acres/1,000 pop",6067.0,289
+California,San Benito,150.42629867276085,"Acres/1,000 pop",6069.0,295
+California,San Bernardino,0.4943434224914717,"Acres/1,000 pop",6071.0,302
+California,San Diego,0.6148806132978767,"Acres/1,000 pop",6073.0,315
+California,San Francisco,0.0,"Acres/1,000 pop",6075.0,331
+California,San Joaquin,41.25372078966276,"Acres/1,000 pop",6077.0,339
+California,San Luis Obispo,87.90320230775954,"Acres/1,000 pop",6079.0,351
+California,San Mateo,1.6526136003078398,"Acres/1,000 pop",6081.0,368
+California,Santa Barbara,135.83352867318212,"Acres/1,000 pop",6083.0,391
+California,Santa Clara,4.715643902899988,"Acres/1,000 pop",6085.0,406
+California,Santa Cruz,64.1305040941946,"Acres/1,000 pop",6087.0,415
+California,Shasta,0.7342185056691758,"Acres/1,000 pop",6089.0,431
+California,Sierra,0.0,"Acres/1,000 pop",6091.0,439
+California,Siskiyou,74.81652622995378,"Acres/1,000 pop",6093.0,446
+California,Solano,4.560376819868684,"Acres/1,000 pop",6095.0,453
+California,Sonoma,2.241485412005396,"Acres/1,000 pop",6097.0,463
+California,Stanislaus,14.541359172720778,"Acres/1,000 pop",6099.0,473
+California,Sutter,49.27020819441358,"Acres/1,000 pop",6101.0,483
+California,Tehama,1.2337477460377717,"Acres/1,000 pop",6103.0,492
+California,Trinity,4.219721646431744,"Acres/1,000 pop",6105.0,500
+California,Tulare,5.877425102721966,"Acres/1,000 pop",6107.0,501
+California,Tuolumne,nan,"Acres/1,000 pop",6109.0,513
+California,Ventura,35.91623813764639,"Acres/1,000 pop",6111.0,521
+California,Yolo,17.504254167621518,"Acres/1,000 pop",6113.0,525
+California,Yuba,0.9870315027554629,"Acres/1,000 pop",6115.0,541
+Colorado,Adams,0.23441162681669012,"Acres/1,000 pop",8001.0,545
+Colorado,Alamosa,nan,"Acres/1,000 pop",8003.0,549
+Colorado,Arapahoe,nan,"Acres/1,000 pop",8005.0,558
+Colorado,Archuleta,0.4127455836222552,"Acres/1,000 pop",8007.0,560
+Colorado,Baca,0.0,"Acres/1,000 pop",8009.0,563
+Colorado,Bent,nan,"Acres/1,000 pop",8011.0,564
+Colorado,Boulder,2.6182465602785814,"Acres/1,000 pop",8013.0,570
+Colorado,Broomfield,nan,"Acres/1,000 pop",8014.0,577
+Colorado,Chaffee,nan,"Acres/1,000 pop",8015.0,582
+Colorado,Cheyenne,0.0,"Acres/1,000 pop",8017.0,587
+Colorado,Clear Creek,0.0,"Acres/1,000 pop",8019.0,591
+Colorado,Conejos,nan,"Acres/1,000 pop",8021.0,596
+Colorado,Costilla,1299.9166898083865,"Acres/1,000 pop",8023.0,599
+Colorado,Crowley,nan,"Acres/1,000 pop",8025.0,605
+Colorado,Custer,0.0,"Acres/1,000 pop",8027.0,610
+Colorado,Delta,nan,"Acres/1,000 pop",8029.0,617
+Colorado,Denver,nan,"Acres/1,000 pop",8031.0,628
+Colorado,Dolores,4.515805318615153,"Acres/1,000 pop",8033.0,636
+Colorado,Douglas,0.04687400601996163,"Acres/1,000 pop",8035.0,644
+Colorado,Eagle,nan,"Acres/1,000 pop",8037.0,648
+Colorado,Elbert,0.170852554245686,"Acres/1,000 pop",8039.0,655
+Colorado,El Paso,0.026328913173439394,"Acres/1,000 pop",8041.0,661
+Colorado,Fremont,nan,"Acres/1,000 pop",8043.0,664
+Colorado,Garfield,0.15853443720274793,"Acres/1,000 pop",8045.0,667
+Colorado,Gilpin,0.0,"Acres/1,000 pop",8047.0,672
+Colorado,Grand,0.0,"Acres/1,000 pop",8049.0,677
+Colorado,Gunnison,0.0,"Acres/1,000 pop",8051.0,682
+Colorado,Hinsdale,0.0,"Acres/1,000 pop",8053.0,688
+Colorado,Huerfano,0.4557192769254139,"Acres/1,000 pop",8055.0,693
+Colorado,Jackson,0.0,"Acres/1,000 pop",8057.0,701
+Colorado,Jefferson,nan,"Acres/1,000 pop",8059.0,706
+Colorado,Kiowa,0.0,"Acres/1,000 pop",8061.0,711
+Colorado,Kit Carson,0.123395853899309,"Acres/1,000 pop",8063.0,716
+Colorado,Lake,0.0,"Acres/1,000 pop",8065.0,721
+Colorado,La Plata,0.38235800179708257,"Acres/1,000 pop",8067.0,727
+Colorado,Larimer,4.463453066212175,"Acres/1,000 pop",8069.0,734
+Colorado,Las Animas,0.33420225920727226,"Acres/1,000 pop",8071.0,741
+Colorado,Lincoln,0.0,"Acres/1,000 pop",8073.0,747
+Colorado,Logan,0.2286341396497325,"Acres/1,000 pop",8075.0,749
+Colorado,Mesa,3.7232602220417004,"Acres/1,000 pop",8077.0,751
+Colorado,Mineral,0.0,"Acres/1,000 pop",8079.0,757
+Colorado,Moffat,0.6072567177774404,"Acres/1,000 pop",8081.0,758
+Colorado,Montezuma,2.3203681126361744,"Acres/1,000 pop",8083.0,766
+Colorado,Montrose,75.24874094091635,"Acres/1,000 pop",8085.0,769
+Colorado,Morgan,nan,"Acres/1,000 pop",8087.0,775
+Colorado,Otero,nan,"Acres/1,000 pop",8089.0,777
+Colorado,Ouray,0.43956043956043955,"Acres/1,000 pop",8091.0,780
+Colorado,Park,0.0,"Acres/1,000 pop",8093.0,782
+Colorado,Phillips,0.0,"Acres/1,000 pop",8095.0,785
+Colorado,Pitkin,nan,"Acres/1,000 pop",8097.0,789
+Colorado,Prowers,121.80366217633298,"Acres/1,000 pop",8099.0,792
+Colorado,Pueblo,nan,"Acres/1,000 pop",8101.0,795
+Colorado,Rio Blanco,nan,"Acres/1,000 pop",8103.0,799
+Colorado,Rio Grande,nan,"Acres/1,000 pop",8105.0,802
+Colorado,Routt,nan,"Acres/1,000 pop",8107.0,809
+Colorado,Saguache,nan,"Acres/1,000 pop",8109.0,811
+Colorado,San Juan,0.0,"Acres/1,000 pop",8111.0,347
+Colorado,San Miguel,0.39556962025316456,"Acres/1,000 pop",8113.0,359
+Colorado,Sedgwick,nan,"Acres/1,000 pop",8115.0,366
+Colorado,Summit,0.0,"Acres/1,000 pop",8117.0,373
+Colorado,Teller,nan,"Acres/1,000 pop",8119.0,375
+Colorado,Washington,0.0,"Acres/1,000 pop",8121.0,377
+Colorado,Weld,36.93438892611986,"Acres/1,000 pop",8123.0,382
+Colorado,Yuma,nan,"Acres/1,000 pop",8125.0,385
+Connecticut,Fairfield,0.2972505394348818,"Acres/1,000 pop",9001.0,410
+Connecticut,Hartford,4.775126539738661,"Acres/1,000 pop",9003.0,432
+Connecticut,Litchfield,3.9476140940492384,"Acres/1,000 pop",9005.0,443
+Connecticut,Middlesex,nan,"Acres/1,000 pop",9007.0,450
+Connecticut,New Haven,1.857808757976713,"Acres/1,000 pop",9009.0,466
+Connecticut,New London,nan,"Acres/1,000 pop",9011.0,517
+Connecticut,Tolland,6.404096515592297,"Acres/1,000 pop",9013.0,524
+Connecticut,Windham,2.7895067066863377,"Acres/1,000 pop",9015.0,529
+Delaware,Kent,28.142544343748323,"Acres/1,000 pop",10001.0,532
+Delaware,New Castle,0.5712078299411766,"Acres/1,000 pop",10003.0,536
+Delaware,Sussex,23.0178524870005,"Acres/1,000 pop",10005.0,609
+District of Columbia,District of Columbia,nan,"Acres/1,000 pop",11001.0,630
+Florida,Alachua,11.43565556345835,"Acres/1,000 pop",12001.0,639
+Florida,Baker,5.1012864113559075,"Acres/1,000 pop",12003.0,641
+Florida,Bay,0.02326663564448581,"Acres/1,000 pop",12005.0,658
+Florida,Bradford,2.690450742638116,"Acres/1,000 pop",12007.0,665
+Florida,Brevard,0.20456807824728993,"Acres/1,000 pop",12009.0,686
+Florida,Broward,nan,"Acres/1,000 pop",12011.0,695
+Florida,Calhoun,nan,"Acres/1,000 pop",12013.0,699
+Florida,Charlotte,21.13848100177485,"Acres/1,000 pop",12015.0,743
+Florida,Citrus,nan,"Acres/1,000 pop",12017.0,843
+Florida,Clay,0.13378545957878163,"Acres/1,000 pop",12019.0,852
+Florida,Collier,nan,"Acres/1,000 pop",12021.0,894
+Florida,Columbia,5.227430018700947,"Acres/1,000 pop",12023.0,903
+Florida,DeSoto,nan,"Acres/1,000 pop",12027.0,906
+Florida,Dixie,nan,"Acres/1,000 pop",12029.0,918
+Florida,Duval,0.0204322789142287,"Acres/1,000 pop",12031.0,924
+Florida,Escambia,1.2327780900815608,"Acres/1,000 pop",12033.0,931
+Florida,Flagler,nan,"Acres/1,000 pop",12035.0,935
+Florida,Franklin,0.0,"Acres/1,000 pop",12037.0,937
+Florida,Gadsden,18.599656357388316,"Acres/1,000 pop",12039.0,938
+Florida,Gilchrist,nan,"Acres/1,000 pop",12041.0,939
+Florida,Glades,nan,"Acres/1,000 pop",12043.0,940
+Florida,Gulf,nan,"Acres/1,000 pop",12045.0,941
+Florida,Hamilton,nan,"Acres/1,000 pop",12047.0,942
+Florida,Hardee,nan,"Acres/1,000 pop",12049.0,943
+Florida,Hendry,nan,"Acres/1,000 pop",12051.0,944
+Florida,Hernando,nan,"Acres/1,000 pop",12053.0,945
+Florida,Highlands,nan,"Acres/1,000 pop",12055.0,946
+Florida,Hillsborough,10.209846083741805,"Acres/1,000 pop",12057.0,947
+Florida,Holmes,5.828687278256462,"Acres/1,000 pop",12059.0,948
+Florida,Indian River,nan,"Acres/1,000 pop",12061.0,949
+Florida,Jackson,38.97747922494232,"Acres/1,000 pop",12063.0,950
+Florida,Jefferson,nan,"Acres/1,000 pop",12065.0,951
+Florida,Lafayette,nan,"Acres/1,000 pop",12067.0,952
+Florida,Lake,nan,"Acres/1,000 pop",12069.0,953
+Florida,Lee,nan,"Acres/1,000 pop",12071.0,954
+Florida,Leon,0.1338739963854021,"Acres/1,000 pop",12073.0,955
+Florida,Levy,32.85091892433272,"Acres/1,000 pop",12075.0,956
+Florida,Liberty,0.0,"Acres/1,000 pop",12077.0,957
+Florida,Madison,nan,"Acres/1,000 pop",12079.0,958
+Florida,Manatee,74.16889751283111,"Acres/1,000 pop",12081.0,959
+Florida,Marion,nan,"Acres/1,000 pop",12083.0,960
+Florida,Martin,nan,"Acres/1,000 pop",12085.0,961
+Florida,Miami-Dade,10.30490777551784,"Acres/1,000 pop",12086.0,962
+Florida,Monroe,0.0,"Acres/1,000 pop",12087.0,963
+Florida,Nassau,0.6834995175297524,"Acres/1,000 pop",12089.0,964
+Florida,Okaloosa,0.36802010441256106,"Acres/1,000 pop",12091.0,965
+Florida,Okeechobee,nan,"Acres/1,000 pop",12093.0,966
+Florida,Orange,0.03825344738404631,"Acres/1,000 pop",12095.0,967
+Florida,Osceola,nan,"Acres/1,000 pop",12097.0,968
+Florida,Palm Beach,44.15869893609816,"Acres/1,000 pop",12099.0,969
+Florida,Pasco,0.235860081849823,"Acres/1,000 pop",12101.0,970
+Florida,Pinellas,nan,"Acres/1,000 pop",12103.0,971
+Florida,Polk,nan,"Acres/1,000 pop",12105.0,972
+Florida,Putnam,42.37322931636214,"Acres/1,000 pop",12107.0,973
+Florida,St. Johns,34.90884637635296,"Acres/1,000 pop",12109.0,974
+Florida,St. Lucie,0.07406754254474915,"Acres/1,000 pop",12111.0,975
+Florida,Santa Rosa,nan,"Acres/1,000 pop",12113.0,976
+Florida,Sarasota,nan,"Acres/1,000 pop",12115.0,977
+Florida,Seminole,0.0996847181008902,"Acres/1,000 pop",12117.0,978
+Florida,Sumter,nan,"Acres/1,000 pop",12119.0,979
+Florida,Suwannee,173.45906163753452,"Acres/1,000 pop",12121.0,980
+Florida,Taylor,0.5714788113240724,"Acres/1,000 pop",12123.0,981
+Florida,Union,13.846961543509646,"Acres/1,000 pop",12125.0,982
+Florida,Volusia,nan,"Acres/1,000 pop",12127.0,983
+Florida,Wakulla,1.6556291390728477,"Acres/1,000 pop",12129.0,984
+Florida,Walton,nan,"Acres/1,000 pop",12131.0,985
+Florida,Washington,2.1340849607408896,"Acres/1,000 pop",12133.0,986
+Georgia,Appling,5.390395295655015,"Acres/1,000 pop",13001.0,987
+Georgia,Atkinson,4.490291262135922,"Acres/1,000 pop",13003.0,988
+Georgia,Bacon,nan,"Acres/1,000 pop",13005.0,989
+Georgia,Baker,nan,"Acres/1,000 pop",13007.0,990
+Georgia,Baldwin,nan,"Acres/1,000 pop",13009.0,991
+Georgia,Banks,nan,"Acres/1,000 pop",13011.0,992
+Georgia,Barrow,nan,"Acres/1,000 pop",13013.0,993
+Georgia,Bartow,0.21885103208157172,"Acres/1,000 pop",13015.0,994
+Georgia,Ben Hill,9.867670545288615,"Acres/1,000 pop",13017.0,995
+Georgia,Berrien,95.15570934256054,"Acres/1,000 pop",13019.0,996
+Georgia,Bibb,nan,"Acres/1,000 pop",13021.0,997
+Georgia,Bleckley,nan,"Acres/1,000 pop",13023.0,998
+Georgia,Brantley,0.5393452348848498,"Acres/1,000 pop",13025.0,999
+Georgia,Brooks,251.062733479325,"Acres/1,000 pop",13027.0,565
+Georgia,Bryan,0.7124272085243465,"Acres/1,000 pop",13029.0,573
+Georgia,Bulloch,9.210327646081836,"Acres/1,000 pop",13031.0,579
+Georgia,Burke,2.292883409041748,"Acres/1,000 pop",13033.0,583
+Georgia,Butts,0.7246994628698099,"Acres/1,000 pop",13035.0,588
+Georgia,Calhoun,14.644673963311238,"Acres/1,000 pop",13037.0,592
+Georgia,Camden,nan,"Acres/1,000 pop",13039.0,603
+Georgia,Candler,nan,"Acres/1,000 pop",13043.0,616
+Georgia,Carroll,0.5475369811862703,"Acres/1,000 pop",13045.0,620
+Georgia,Catoosa,1.445886913185258,"Acres/1,000 pop",13047.0,626
+Georgia,Charlton,nan,"Acres/1,000 pop",13049.0,635
+Georgia,Chatham,nan,"Acres/1,000 pop",13051.0,646
+Georgia,Chattahoochee,0.0,"Acres/1,000 pop",13053.0,656
+Georgia,Chattooga,nan,"Acres/1,000 pop",13055.0,659
+Georgia,Cherokee,nan,"Acres/1,000 pop",13057.0,662
+Georgia,Clarke,0.06654632872222731,"Acres/1,000 pop",13059.0,666
+Georgia,Clay,nan,"Acres/1,000 pop",13061.0,670
+Georgia,Clayton,0.0,"Acres/1,000 pop",13063.0,673
+Georgia,Clinch,nan,"Acres/1,000 pop",13065.0,676
+Georgia,Cobb,0.028254733374208515,"Acres/1,000 pop",13067.0,680
+Georgia,Coffee,nan,"Acres/1,000 pop",13069.0,684
+Georgia,Colquitt,279.17669768148005,"Acres/1,000 pop",13071.0,689
+Georgia,Columbia,0.08297190269658684,"Acres/1,000 pop",13073.0,692
+Georgia,Cook,127.6633628108493,"Acres/1,000 pop",13075.0,697
+Georgia,Coweta,nan,"Acres/1,000 pop",13077.0,700
+Georgia,Crawford,nan,"Acres/1,000 pop",13079.0,704
+Georgia,Crisp,122.56020278833967,"Acres/1,000 pop",13081.0,707
+Georgia,Dade,0.3023157385573493,"Acres/1,000 pop",13083.0,708
+Georgia,Dawson,nan,"Acres/1,000 pop",13085.0,713
+Georgia,Decatur,nan,"Acres/1,000 pop",13087.0,714
+Georgia,DeKalb,0.00846692255588169,"Acres/1,000 pop",13089.0,718
+Georgia,Dodge,nan,"Acres/1,000 pop",13091.0,720
+Georgia,Dooly,8.15728927002719,"Acres/1,000 pop",13093.0,724
+Georgia,Dougherty,0.06343366424561514,"Acres/1,000 pop",13095.0,728
+Georgia,Douglas,0.04483969807936627,"Acres/1,000 pop",13097.0,731
+Georgia,Early,nan,"Acres/1,000 pop",13099.0,735
+Georgia,Echols,nan,"Acres/1,000 pop",13101.0,737
+Georgia,Effingham,nan,"Acres/1,000 pop",13103.0,742
+Georgia,Elbert,1.0723039215686274,"Acres/1,000 pop",13105.0,746
+Georgia,Emanuel,1.26931325775813,"Acres/1,000 pop",13107.0,750
+Georgia,Evans,nan,"Acres/1,000 pop",13109.0,754
+Georgia,Fannin,nan,"Acres/1,000 pop",13111.0,755
+Georgia,Fayette,nan,"Acres/1,000 pop",13113.0,760
+Georgia,Floyd,1.0100589374596496,"Acres/1,000 pop",13115.0,764
+Georgia,Forsyth,nan,"Acres/1,000 pop",13117.0,768
+Georgia,Franklin,1.4126868392271237,"Acres/1,000 pop",13119.0,772
+Georgia,Fulton,0.040907491798047896,"Acres/1,000 pop",13121.0,779
+Georgia,Gilmer,nan,"Acres/1,000 pop",13123.0,781
+Georgia,Glascock,nan,"Acres/1,000 pop",13125.0,783
+Georgia,Glynn,nan,"Acres/1,000 pop",13127.0,793
+Georgia,Gordon,nan,"Acres/1,000 pop",13129.0,796
+Georgia,Grady,76.38286120097845,"Acres/1,000 pop",13131.0,797
+Georgia,Greene,1.0532185118641968,"Acres/1,000 pop",13133.0,800
+Georgia,Gwinnett,0.025007204456521995,"Acres/1,000 pop",13135.0,804
+Georgia,Habersham,nan,"Acres/1,000 pop",13137.0,806
+Georgia,Hall,nan,"Acres/1,000 pop",13139.0,808
+Georgia,Hancock,3.0966600309666004,"Acres/1,000 pop",13141.0,810
+Georgia,Haralson,0.4580529227299954,"Acres/1,000 pop",13143.0,813
+Georgia,Harris,1.6867543778943173,"Acres/1,000 pop",13145.0,814
+Georgia,Hart,3.9493235317118947,"Acres/1,000 pop",13147.0,816
+Georgia,Heard,1.4586014586014586,"Acres/1,000 pop",13149.0,817
+Georgia,Henry,nan,"Acres/1,000 pop",13151.0,820
+Georgia,Houston,nan,"Acres/1,000 pop",13153.0,823
+Georgia,Irwin,23.21949187838401,"Acres/1,000 pop",13155.0,825
+Georgia,Jackson,1.7864231838030964,"Acres/1,000 pop",13157.0,828
+Georgia,Jasper,0.36791758646063283,"Acres/1,000 pop",13159.0,830
+Georgia,Jeff Davis,6.484483557202409,"Acres/1,000 pop",13161.0,832
+Georgia,Jefferson,nan,"Acres/1,000 pop",13163.0,834
+Georgia,Jenkins,1.7515051997810618,"Acres/1,000 pop",13165.0,835
+Georgia,Johnson,1.819652244237768,"Acres/1,000 pop",13167.0,837
+Georgia,Jones,0.2085215819837353,"Acres/1,000 pop",13169.0,839
+Georgia,Lamar,nan,"Acres/1,000 pop",13171.0,841
+Georgia,Lanier,0.2871362940275651,"Acres/1,000 pop",13173.0,845
+Georgia,Laurens,1.7921893885716669,"Acres/1,000 pop",13175.0,847
+Georgia,Lee,nan,"Acres/1,000 pop",13177.0,849
+Georgia,Liberty,0.0,"Acres/1,000 pop",13179.0,855
+Georgia,Lincoln,0.0,"Acres/1,000 pop",13181.0,857
+Georgia,Long,nan,"Acres/1,000 pop",13183.0,860
+Georgia,Lowndes,5.3939124600249215,"Acres/1,000 pop",13185.0,863
+Georgia,Lumpkin,nan,"Acres/1,000 pop",13187.0,865
+Georgia,McDuffie,0.32325098129762175,"Acres/1,000 pop",13189.0,868
+Georgia,McIntosh,0.43371403787769264,"Acres/1,000 pop",13191.0,871
+Georgia,Macon,nan,"Acres/1,000 pop",13193.0,874
+Georgia,Madison,1.6045068815517365,"Acres/1,000 pop",13195.0,875
+Georgia,Marion,39.15731623540188,"Acres/1,000 pop",13197.0,877
+Georgia,Meriwether,0.2346096096096096,"Acres/1,000 pop",13199.0,879
+Georgia,Miller,nan,"Acres/1,000 pop",13201.0,881
+Georgia,Mitchell,nan,"Acres/1,000 pop",13205.0,883
+Georgia,Monroe,nan,"Acres/1,000 pop",13207.0,885
+Georgia,Montgomery,nan,"Acres/1,000 pop",13209.0,887
+Georgia,Morgan,0.44868199663488506,"Acres/1,000 pop",13211.0,890
+Georgia,Murray,2.5393600812595225,"Acres/1,000 pop",13213.0,892
+Georgia,Muscogee,0.0,"Acres/1,000 pop",13215.0,896
+Georgia,Newton,0.5044510385756676,"Acres/1,000 pop",13217.0,899
+Georgia,Oconee,nan,"Acres/1,000 pop",13219.0,901
+Georgia,Oglethorpe,2.6030963145636385,"Acres/1,000 pop",13221.0,905
+Georgia,Paulding,nan,"Acres/1,000 pop",13223.0,908
+Georgia,Peach,nan,"Acres/1,000 pop",13225.0,910
+Georgia,Pickens,1.7386561210922853,"Acres/1,000 pop",13227.0,912
+Georgia,Pierce,nan,"Acres/1,000 pop",13229.0,915
+Georgia,Pike,1.349300050598752,"Acres/1,000 pop",13231.0,7
+Georgia,Polk,0.2918784812589692,"Acres/1,000 pop",13233.0,8
+Georgia,Pulaski,nan,"Acres/1,000 pop",13235.0,11
+Georgia,Putnam,0.0,"Acres/1,000 pop",13237.0,13
+Georgia,Quitman,0.0,"Acres/1,000 pop",13239.0,16
+Georgia,Rabun,nan,"Acres/1,000 pop",13241.0,18
+Georgia,Randolph,0.0,"Acres/1,000 pop",13243.0,23
+Georgia,Richmond,0.09412930393856825,"Acres/1,000 pop",13245.0,24
+Georgia,Rockdale,0.12845065159512356,"Acres/1,000 pop",13247.0,28
+Georgia,Schley,nan,"Acres/1,000 pop",13249.0,31
+Georgia,Screven,nan,"Acres/1,000 pop",13251.0,34
+Georgia,Seminole,nan,"Acres/1,000 pop",13253.0,38
+Georgia,Spalding,nan,"Acres/1,000 pop",13255.0,41
+Georgia,Stephens,nan,"Acres/1,000 pop",13257.0,45
+Georgia,Stewart,0.0,"Acres/1,000 pop",13259.0,48
+Georgia,Sumter,nan,"Acres/1,000 pop",13261.0,52
+Georgia,Talbot,nan,"Acres/1,000 pop",13263.0,57
+Georgia,Taliaferro,2.9904306220095696,"Acres/1,000 pop",13265.0,60
+Georgia,Tattnall,nan,"Acres/1,000 pop",13267.0,63
+Georgia,Taylor,5.255613951266125,"Acres/1,000 pop",13269.0,69
+Georgia,Telfair,5.384897809325665,"Acres/1,000 pop",13271.0,75
+Georgia,Terrell,12.022094660457055,"Acres/1,000 pop",13273.0,78
+Georgia,Thomas,nan,"Acres/1,000 pop",13275.0,83
+Georgia,Tift,nan,"Acres/1,000 pop",13277.0,87
+Georgia,Toombs,nan,"Acres/1,000 pop",13279.0,91
+Georgia,Towns,0.38102495713469237,"Acres/1,000 pop",13281.0,95
+Georgia,Treutlen,nan,"Acres/1,000 pop",13283.0,102
+Georgia,Troup,nan,"Acres/1,000 pop",13285.0,105
+Georgia,Turner,106.71606118546845,"Acres/1,000 pop",13287.0,108
+Georgia,Twiggs,1.9981194170192762,"Acres/1,000 pop",13289.0,116
+Georgia,Union,nan,"Acres/1,000 pop",13291.0,120
+Georgia,Upson,nan,"Acres/1,000 pop",13293.0,123
+Georgia,Walker,0.3079765937788728,"Acres/1,000 pop",13295.0,126
+Georgia,Walton,1.1907990143485387,"Acres/1,000 pop",13297.0,127
+Georgia,Ware,nan,"Acres/1,000 pop",13299.0,132
+Georgia,Warren,nan,"Acres/1,000 pop",13301.0,135
+Georgia,Washington,4.028776978417266,"Acres/1,000 pop",13303.0,143
+Georgia,Wayne,nan,"Acres/1,000 pop",13305.0,147
+Georgia,Webster,10.021474588403722,"Acres/1,000 pop",13307.0,149
+Georgia,Wheeler,nan,"Acres/1,000 pop",13309.0,154
+Georgia,White,nan,"Acres/1,000 pop",13311.0,157
+Georgia,Whitfield,0.19373086907667866,"Acres/1,000 pop",13313.0,159
+Georgia,Wilcox,nan,"Acres/1,000 pop",13315.0,163
+Georgia,Wilkes,nan,"Acres/1,000 pop",13317.0,167
+Georgia,Wilkinson,3.456221198156682,"Acres/1,000 pop",13319.0,169
+Georgia,Worth,130.21803950801342,"Acres/1,000 pop",13321.0,173
+Hawaii,Hawaii,8.803898718084543,"Acres/1,000 pop",15001.0,198
+Hawaii,Honolulu,5.36699187374771,"Acres/1,000 pop",15003.0,234
+Hawaii,Kalawao,nan,"Acres/1,000 pop",15005.0,247
+Hawaii,Kauai,2.596606905807355,"Acres/1,000 pop",15007.0,261
+Hawaii,Maui,11.343132925367485,"Acres/1,000 pop",15009.0,323
+Idaho,Ada,nan,"Acres/1,000 pop",16001.0,336
+Idaho,Adams,0.2560819462227913,"Acres/1,000 pop",16003.0,338
+Idaho,Bannock,49.085831582967344,"Acres/1,000 pop",16005.0,343
+Idaho,Bear Lake,nan,"Acres/1,000 pop",16007.0,349
+Idaho,Benewah,1.3156452143405328,"Acres/1,000 pop",16009.0,354
+Idaho,Bingham,999.9121323287129,"Acres/1,000 pop",16011.0,362
+Idaho,Blaine,nan,"Acres/1,000 pop",16013.0,371
+Idaho,Boise,nan,"Acres/1,000 pop",16015.0,380
+Idaho,Bonner,0.7666056679360996,"Acres/1,000 pop",16017.0,387
+Idaho,Bonneville,186.89324928452518,"Acres/1,000 pop",16019.0,395
+Idaho,Boundary,1.0156971375807942,"Acres/1,000 pop",16021.0,405
+Idaho,Butte,85.1063829787234,"Acres/1,000 pop",16023.0,414
+Idaho,Camas,8.356545961002785,"Acres/1,000 pop",16025.0,429
+Idaho,Canyon,29.6085379881669,"Acres/1,000 pop",16027.0,441
+Idaho,Caribou,1290.8983625903525,"Acres/1,000 pop",16029.0,449
+Idaho,Cassia,326.8495856412899,"Acres/1,000 pop",16031.0,456
+Idaho,Clark,nan,"Acres/1,000 pop",16033.0,464
+Idaho,Clearwater,nan,"Acres/1,000 pop",16035.0,474
+Idaho,Custer,nan,"Acres/1,000 pop",16037.0,484
+Idaho,Elmore,99.87819732034106,"Acres/1,000 pop",16039.0,490
+Idaho,Franklin,nan,"Acres/1,000 pop",16041.0,498
+Idaho,Fremont,2250.096220460319,"Acres/1,000 pop",16043.0,502
+Idaho,Gem,nan,"Acres/1,000 pop",16045.0,510
+Idaho,Gooding,246.50705149229256,"Acres/1,000 pop",16047.0,519
+Idaho,Idaho,0.4266991770801585,"Acres/1,000 pop",16049.0,528
+Idaho,Jefferson,752.6357258094774,"Acres/1,000 pop",16051.0,540
+Idaho,Jerome,91.49427328420492,"Acres/1,000 pop",16053.0,547
+Idaho,Kootenai,1.0330868917437381,"Acres/1,000 pop",16055.0,552
+Idaho,Latah,0.5500405982346316,"Acres/1,000 pop",16057.0,559
+Idaho,Lemhi,2.1870577640550626,"Acres/1,000 pop",16059.0,566
+Idaho,Lewis,0.0,"Acres/1,000 pop",16061.0,574
+Idaho,Lincoln,41.666666666666664,"Acres/1,000 pop",16063.0,578
+Idaho,Madison,704.6033092914721,"Acres/1,000 pop",16065.0,581
+Idaho,Minidoka,587.1067150454794,"Acres/1,000 pop",16067.0,585
+Idaho,Nez Perce,0.6824040843148157,"Acres/1,000 pop",16069.0,589
+Idaho,Oneida,nan,"Acres/1,000 pop",16071.0,593
+Idaho,Owyhee,nan,"Acres/1,000 pop",16073.0,601
+Idaho,Payette,44.94332465928638,"Acres/1,000 pop",16075.0,606
+Idaho,Power,nan,"Acres/1,000 pop",16077.0,613
+Idaho,Shoshone,nan,"Acres/1,000 pop",16079.0,621
+Idaho,Teton,nan,"Acres/1,000 pop",16081.0,627
+Idaho,Twin Falls,16.44439349357382,"Acres/1,000 pop",16083.0,634
+Idaho,Valley,12.932394070024184,"Acres/1,000 pop",16085.0,643
+Idaho,Washington,139.17371826779492,"Acres/1,000 pop",16087.0,649
+Illinois,Adams,nan,"Acres/1,000 pop",17001.0,650
+Illinois,Alexander,nan,"Acres/1,000 pop",17003.0,651
+Illinois,Bond,nan,"Acres/1,000 pop",17005.0,652
+Illinois,Boone,2.340354396522902,"Acres/1,000 pop",17007.0,653
+Illinois,Brown,0.0,"Acres/1,000 pop",17009.0,654
+Illinois,Bureau,0.378567268491555,"Acres/1,000 pop",17011.0,2
+Illinois,Calhoun,11.940298507462686,"Acres/1,000 pop",17013.0,4
+Illinois,Carroll,nan,"Acres/1,000 pop",17015.0,6
+Illinois,Cass,3.7285607755406414,"Acres/1,000 pop",17017.0,10
+Illinois,Champaign,nan,"Acres/1,000 pop",17019.0,12
+Illinois,Christian,nan,"Acres/1,000 pop",17021.0,14
+Illinois,Clark,3.067484662576687,"Acres/1,000 pop",17023.0,19
+Illinois,Clay,nan,"Acres/1,000 pop",17025.0,22
+Illinois,Clinton,0.0,"Acres/1,000 pop",17027.0,27
+Illinois,Coles,nan,"Acres/1,000 pop",17029.0,30
+Illinois,Cook,nan,"Acres/1,000 pop",17031.0,36
+Illinois,Crawford,nan,"Acres/1,000 pop",17033.0,40
+Illinois,Cumberland,8.225187351489673,"Acres/1,000 pop",17035.0,44
+Illinois,DeKalb,3.6926559307890776,"Acres/1,000 pop",17037.0,49
+Illinois,De Witt,nan,"Acres/1,000 pop",17039.0,53
+Illinois,Douglas,3.1281533804238144,"Acres/1,000 pop",17041.0,55
+Illinois,DuPage,0.018319024738226525,"Acres/1,000 pop",17043.0,64
+Illinois,Edgar,nan,"Acres/1,000 pop",17045.0,66
+Illinois,Edwards,nan,"Acres/1,000 pop",17047.0,71
+Illinois,Effingham,nan,"Acres/1,000 pop",17049.0,76
+Illinois,Fayette,nan,"Acres/1,000 pop",17051.0,79
+Illinois,Ford,0.0,"Acres/1,000 pop",17053.0,81
+Illinois,Franklin,1.7554418697963687,"Acres/1,000 pop",17055.0,85
+Illinois,Fulton,0.19114715600338603,"Acres/1,000 pop",17057.0,89
+Illinois,Gallatin,0.0,"Acres/1,000 pop",17059.0,92
+Illinois,Greene,nan,"Acres/1,000 pop",17061.0,96
+Illinois,Grundy,nan,"Acres/1,000 pop",17063.0,99
+Illinois,Hamilton,1.1957431543704413,"Acres/1,000 pop",17065.0,106
+Illinois,Hancock,0.10587052035360754,"Acres/1,000 pop",17067.0,111
+Illinois,Hardin,nan,"Acres/1,000 pop",17069.0,113
+Illinois,Henderson,nan,"Acres/1,000 pop",17071.0,117
+Illinois,Henry,nan,"Acres/1,000 pop",17073.0,121
+Illinois,Iroquois,nan,"Acres/1,000 pop",17075.0,125
+Illinois,Jackson,0.7461927212291829,"Acres/1,000 pop",17077.0,129
+Illinois,Jasper,0.0,"Acres/1,000 pop",17079.0,133
+Illinois,Jefferson,nan,"Acres/1,000 pop",17081.0,137
+Illinois,Jersey,nan,"Acres/1,000 pop",17083.0,142
+Illinois,Jo Daviess,nan,"Acres/1,000 pop",17085.0,145
+Illinois,Johnson,nan,"Acres/1,000 pop",17087.0,152
+Illinois,Kane,nan,"Acres/1,000 pop",17089.0,156
+Illinois,Kankakee,nan,"Acres/1,000 pop",17091.0,161
+Illinois,Kendall,nan,"Acres/1,000 pop",17093.0,165
+Illinois,Knox,nan,"Acres/1,000 pop",17095.0,166
+Illinois,Lake,0.33642483043333227,"Acres/1,000 pop",17097.0,170
+Illinois,LaSalle,0.8220195163343234,"Acres/1,000 pop",17099.0,175
+Illinois,Lawrence,nan,"Acres/1,000 pop",17101.0,177
+Illinois,Lee,0.4556716885484009,"Acres/1,000 pop",17103.0,180
+Illinois,Livingston,nan,"Acres/1,000 pop",17105.0,182
+Illinois,Logan,0.7241367960238306,"Acres/1,000 pop",17107.0,186
+Illinois,McDonough,nan,"Acres/1,000 pop",17109.0,189
+Illinois,McHenry,3.41341308800104,"Acres/1,000 pop",17111.0,192
+Illinois,McLean,1.4600316340187371,"Acres/1,000 pop",17113.0,193
+Illinois,Macon,nan,"Acres/1,000 pop",17115.0,194
+Illinois,Macoupin,0.2543450614667232,"Acres/1,000 pop",17117.0,196
+Illinois,Madison,4.796860779135521,"Acres/1,000 pop",17119.0,199
+Illinois,Marion,nan,"Acres/1,000 pop",17121.0,201
+Illinois,Marshall,nan,"Acres/1,000 pop",17123.0,202
+Illinois,Mason,61.84201352576169,"Acres/1,000 pop",17125.0,206
+Illinois,Massac,nan,"Acres/1,000 pop",17127.0,208
+Illinois,Menard,nan,"Acres/1,000 pop",17129.0,212
+Illinois,Mercer,nan,"Acres/1,000 pop",17131.0,216
+Illinois,Monroe,nan,"Acres/1,000 pop",17133.0,219
+Illinois,Montgomery,nan,"Acres/1,000 pop",17135.0,223
+Illinois,Morgan,1.4423892754115053,"Acres/1,000 pop",17137.0,225
+Illinois,Moultrie,11.620141578736476,"Acres/1,000 pop",17139.0,227
+Illinois,Ogle,0.34078000757288907,"Acres/1,000 pop",17141.0,229
+Illinois,Peoria,0.507709162814312,"Acres/1,000 pop",17143.0,233
+Illinois,Perry,0.4116543932671637,"Acres/1,000 pop",17145.0,235
+Illinois,Piatt,nan,"Acres/1,000 pop",17147.0,238
+Illinois,Pike,0.5532673510788714,"Acres/1,000 pop",17149.0,241
+Illinois,Pope,nan,"Acres/1,000 pop",17151.0,245
+Illinois,Pulaski,nan,"Acres/1,000 pop",17153.0,248
+Illinois,Putnam,nan,"Acres/1,000 pop",17155.0,253
+Illinois,Randolph,0.18188432157148055,"Acres/1,000 pop",17157.0,255
+Illinois,Richland,0.6180087757246152,"Acres/1,000 pop",17159.0,259
+Illinois,Rock Island,nan,"Acres/1,000 pop",17161.0,265
+Illinois,St. Clair,nan,"Acres/1,000 pop",17163.0,269
+Illinois,Saline,0.0,"Acres/1,000 pop",17165.0,271
+Illinois,Sangamon,0.3763246628131021,"Acres/1,000 pop",17167.0,274
+Illinois,Schuyler,0.0,"Acres/1,000 pop",17169.0,278
+Illinois,Scott,nan,"Acres/1,000 pop",17171.0,280
+Illinois,Shelby,nan,"Acres/1,000 pop",17173.0,283
+Illinois,Stark,2.5256777235224783,"Acres/1,000 pop",17175.0,285
+Illinois,Stephenson,0.4686934105967319,"Acres/1,000 pop",17177.0,290
+Illinois,Tazewell,3.2176072168432186,"Acres/1,000 pop",17179.0,291
+Illinois,Union,29.046349350428322,"Acres/1,000 pop",17181.0,293
+Illinois,Vermilion,0.21038562447403594,"Acres/1,000 pop",17183.0,296
+Illinois,Wabash,0.0,"Acres/1,000 pop",17185.0,299
+Illinois,Warren,0.0,"Acres/1,000 pop",17187.0,301
+Illinois,Washington,1.3005681429255938,"Acres/1,000 pop",17189.0,305
+Illinois,Wayne,nan,"Acres/1,000 pop",17191.0,310
+Illinois,White,3.366078175448238,"Acres/1,000 pop",17193.0,312
+Illinois,Whiteside,12.650341784200053,"Acres/1,000 pop",17195.0,314
+Illinois,Will,nan,"Acres/1,000 pop",17197.0,320
+Illinois,Williamson,nan,"Acres/1,000 pop",17199.0,324
+Illinois,Winnebago,0.6541745584321731,"Acres/1,000 pop",17201.0,325
+Illinois,Woodford,nan,"Acres/1,000 pop",17203.0,328
+Indiana,Adams,4.618199773446803,"Acres/1,000 pop",18001.0,330
+Indiana,Allen,0.34362451816360406,"Acres/1,000 pop",18003.0,335
+Indiana,Bartholomew,8.438497795347422,"Acres/1,000 pop",18005.0,342
+Indiana,Benton,0.0,"Acres/1,000 pop",18007.0,179
+Indiana,Blackford,nan,"Acres/1,000 pop",18009.0,183
+Indiana,Boone,nan,"Acres/1,000 pop",18011.0,185
+Indiana,Brown,1.3949780789159028,"Acres/1,000 pop",18013.0,188
+Indiana,Carroll,nan,"Acres/1,000 pop",18015.0,195
+Indiana,Cass,0.413468744347107,"Acres/1,000 pop",18017.0,211
+Indiana,Clark,nan,"Acres/1,000 pop",18019.0,215
+Indiana,Clay,nan,"Acres/1,000 pop",18021.0,221
+Indiana,Clinton,0.5463817387081107,"Acres/1,000 pop",18023.0,226
+Indiana,Crawford,0.9390553103577801,"Acres/1,000 pop",18025.0,232
+Indiana,Daviess,14.090202177293936,"Acres/1,000 pop",18027.0,239
+Indiana,Dearborn,0.602966595650601,"Acres/1,000 pop",18029.0,242
+Indiana,Decatur,nan,"Acres/1,000 pop",18031.0,246
+Indiana,DeKalb,0.6382526061981421,"Acres/1,000 pop",18033.0,249
+Indiana,Delaware,nan,"Acres/1,000 pop",18035.0,252
+Indiana,Dubois,0.11877048790916434,"Acres/1,000 pop",18037.0,254
+Indiana,Elkhart,nan,"Acres/1,000 pop",18039.0,260
+Indiana,Fayette,nan,"Acres/1,000 pop",18041.0,263
+Indiana,Floyd,0.7829606529095614,"Acres/1,000 pop",18043.0,267
+Indiana,Fountain,0.40916530278232405,"Acres/1,000 pop",18045.0,270
+Indiana,Franklin,nan,"Acres/1,000 pop",18047.0,272
+Indiana,Fulton,nan,"Acres/1,000 pop",18049.0,276
+Indiana,Gibson,nan,"Acres/1,000 pop",18051.0,286
+Indiana,Grant,nan,"Acres/1,000 pop",18053.0,297
+Indiana,Greene,0.605840300496789,"Acres/1,000 pop",18055.0,309
+Indiana,Hamilton,nan,"Acres/1,000 pop",18057.0,321
+Indiana,Hancock,1.1178876169183094,"Acres/1,000 pop",18059.0,329
+Indiana,Harrison,nan,"Acres/1,000 pop",18061.0,334
+Indiana,Hendricks,nan,"Acres/1,000 pop",18063.0,341
+Indiana,Henry,1.0149811213511428,"Acres/1,000 pop",18065.0,344
+Indiana,Howard,nan,"Acres/1,000 pop",18067.0,348
+Indiana,Huntington,0.18922498851133998,"Acres/1,000 pop",18069.0,352
+Indiana,Jackson,nan,"Acres/1,000 pop",18071.0,355
+Indiana,Jasper,nan,"Acres/1,000 pop",18073.0,356
+Indiana,Jay,nan,"Acres/1,000 pop",18075.0,358
+Indiana,Jefferson,0.9840703610308137,"Acres/1,000 pop",18077.0,363
+Indiana,Jennings,1.170669410053567,"Acres/1,000 pop",18079.0,367
+Indiana,Johnson,nan,"Acres/1,000 pop",18081.0,370
+Indiana,Knox,nan,"Acres/1,000 pop",18083.0,376
+Indiana,Kosciusko,0.450972812781858,"Acres/1,000 pop",18085.0,384
+Indiana,LaGrange,20.787920676271995,"Acres/1,000 pop",18087.0,386
+Indiana,Lake,nan,"Acres/1,000 pop",18089.0,389
+Indiana,LaPorte,2.3736097749566185,"Acres/1,000 pop",18091.0,392
+Indiana,Lawrence,nan,"Acres/1,000 pop",18093.0,396
+Indiana,Madison,nan,"Acres/1,000 pop",18095.0,401
+Indiana,Marion,0.30802788142123844,"Acres/1,000 pop",18097.0,409
+Indiana,Marshall,nan,"Acres/1,000 pop",18099.0,412
+Indiana,Martin,1.4537701104865284,"Acres/1,000 pop",18101.0,418
+Indiana,Miami,nan,"Acres/1,000 pop",18103.0,420
+Indiana,Monroe,0.15567065749624973,"Acres/1,000 pop",18105.0,422
+Indiana,Montgomery,nan,"Acres/1,000 pop",18107.0,425
+Indiana,Morgan,0.5925283618758581,"Acres/1,000 pop",18109.0,430
+Indiana,Newton,nan,"Acres/1,000 pop",18111.0,433
+Indiana,Noble,1.5178985537799892,"Acres/1,000 pop",18113.0,436
+Indiana,Ohio,nan,"Acres/1,000 pop",18115.0,440
+Indiana,Orange,0.964858825919155,"Acres/1,000 pop",18117.0,444
+Indiana,Owen,3.55755277816786,"Acres/1,000 pop",18119.0,448
+Indiana,Parke,13.160203544481487,"Acres/1,000 pop",18121.0,452
+Indiana,Perry,nan,"Acres/1,000 pop",18123.0,459
+Indiana,Pike,nan,"Acres/1,000 pop",18125.0,465
+Indiana,Porter,0.5791331101257805,"Acres/1,000 pop",18127.0,468
+Indiana,Posey,1.7174082747853239,"Acres/1,000 pop",18129.0,471
+Indiana,Pulaski,nan,"Acres/1,000 pop",18131.0,477
+Indiana,Putnam,0.0531250830079422,"Acres/1,000 pop",18133.0,480
+Indiana,Randolph,0.6576402321083171,"Acres/1,000 pop",18135.0,485
+Indiana,Ripley,3.850327277818615,"Acres/1,000 pop",18137.0,488
+Indiana,Rush,3.0349013657056143,"Acres/1,000 pop",18139.0,493
+Indiana,St. Joseph,nan,"Acres/1,000 pop",18141.0,496
+Indiana,Scott,0.1683147485798443,"Acres/1,000 pop",18143.0,504
+Indiana,Shelby,0.24790967073088277,"Acres/1,000 pop",18145.0,506
+Indiana,Spencer,1.054498394286536,"Acres/1,000 pop",18147.0,509
+Indiana,Starke,nan,"Acres/1,000 pop",18149.0,512
+Indiana,Steuben,nan,"Acres/1,000 pop",18151.0,515
+Indiana,Sullivan,nan,"Acres/1,000 pop",18153.0,518
+Indiana,Switzerland,1.923631816870251,"Acres/1,000 pop",18155.0,526
+Indiana,Tippecanoe,0.9527759407261274,"Acres/1,000 pop",18157.0,530
+Indiana,Tipton,nan,"Acres/1,000 pop",18159.0,534
+Indiana,Union,nan,"Acres/1,000 pop",18161.0,538
+Indiana,Vanderburgh,nan,"Acres/1,000 pop",18163.0,543
+Indiana,Vermillion,nan,"Acres/1,000 pop",18165.0,548
+Indiana,Vigo,nan,"Acres/1,000 pop",18167.0,553
+Indiana,Wabash,0.277478032989055,"Acres/1,000 pop",18169.0,555
+Indiana,Warren,nan,"Acres/1,000 pop",18171.0,567
+Indiana,Warrick,0.2480117722921248,"Acres/1,000 pop",18173.0,575
+Indiana,Washington,nan,"Acres/1,000 pop",18175.0,584
+Indiana,Wayne,nan,"Acres/1,000 pop",18177.0,586
+Indiana,Wells,nan,"Acres/1,000 pop",18179.0,590
+Indiana,White,nan,"Acres/1,000 pop",18181.0,594
+Indiana,Whitley,1.171628563703548,"Acres/1,000 pop",18183.0,597
+Iowa,Adair,4.006410256410256,"Acres/1,000 pop",19001.0,598
+Iowa,Adams,nan,"Acres/1,000 pop",19003.0,602
+Iowa,Allamakee,nan,"Acres/1,000 pop",19005.0,608
+Iowa,Appanoose,0.4725525714735765,"Acres/1,000 pop",19007.0,611
+Iowa,Audubon,0.0,"Acres/1,000 pop",19009.0,615
+Iowa,Benton,5.570599613152805,"Acres/1,000 pop",19011.0,619
+Iowa,Black Hawk,0.994428165849363,"Acres/1,000 pop",19013.0,623
+Iowa,Boone,3.6967872251229084,"Acres/1,000 pop",19015.0,625
+Iowa,Bremer,0.6132711885195634,"Acres/1,000 pop",19017.0,631
+Iowa,Buchanan,nan,"Acres/1,000 pop",19019.0,632
+Iowa,Buena Vista,0.19473248624701817,"Acres/1,000 pop",19021.0,633
+Iowa,Butler,0.20017348368586108,"Acres/1,000 pop",19023.0,361
+Iowa,Calhoun,0.40338846308995563,"Acres/1,000 pop",19025.0,365
+Iowa,Carroll,1.0157194679564692,"Acres/1,000 pop",19027.0,369
+Iowa,Cass,1.530389156099694,"Acres/1,000 pop",19029.0,374
+Iowa,Cedar,0.5979235744958418,"Acres/1,000 pop",19031.0,379
+Iowa,Cerro Gordo,nan,"Acres/1,000 pop",19033.0,383
+Iowa,Cherokee,nan,"Acres/1,000 pop",19035.0,388
+Iowa,Chickasaw,17.66813222602182,"Acres/1,000 pop",19037.0,393
+Iowa,Clarke,2.888318356867779,"Acres/1,000 pop",19039.0,397
+Iowa,Clay,1.025888600567256,"Acres/1,000 pop",19041.0,398
+Iowa,Clayton,1.2272676559187774,"Acres/1,000 pop",19043.0,402
+Iowa,Clinton,0.3899915843921263,"Acres/1,000 pop",19045.0,404
+Iowa,Crawford,nan,"Acres/1,000 pop",19047.0,408
+Iowa,Dallas,3.933245620109411,"Acres/1,000 pop",19049.0,413
+Iowa,Davis,7.135458625848774,"Acres/1,000 pop",19051.0,416
+Iowa,Decatur,0.6054734802615646,"Acres/1,000 pop",19053.0,419
+Iowa,Delaware,1.9347863199226085,"Acres/1,000 pop",19055.0,421
+Iowa,Des Moines,0.07451749919272709,"Acres/1,000 pop",19057.0,424
+Iowa,Dickinson,0.235640648011782,"Acres/1,000 pop",19059.0,427
+Iowa,Dubuque,0.598569733373938,"Acres/1,000 pop",19061.0,434
+Iowa,Emmet,nan,"Acres/1,000 pop",19063.0,437
+Iowa,Fayette,3.0748534640146055,"Acres/1,000 pop",19065.0,442
+Iowa,Floyd,6.6434868992921885,"Acres/1,000 pop",19067.0,447
+Iowa,Franklin,nan,"Acres/1,000 pop",19069.0,451
+Iowa,Fremont,2.51994960100798,"Acres/1,000 pop",19071.0,455
+Iowa,Greene,2.616944717042853,"Acres/1,000 pop",19073.0,458
+Iowa,Grundy,0.9653286139489985,"Acres/1,000 pop",19075.0,460
+Iowa,Guthrie,nan,"Acres/1,000 pop",19077.0,467
+Iowa,Hamilton,nan,"Acres/1,000 pop",19079.0,469
+Iowa,Hancock,0.8955758552749418,"Acres/1,000 pop",19081.0,470
+Iowa,Hardin,0.4601403428045554,"Acres/1,000 pop",19083.0,475
+Iowa,Harrison,0.20658311527337833,"Acres/1,000 pop",19085.0,478
+Iowa,Henry,0.8473309076409311,"Acres/1,000 pop",19087.0,479
+Iowa,Howard,nan,"Acres/1,000 pop",19089.0,481
+Iowa,Humboldt,0.6170300287947347,"Acres/1,000 pop",19091.0,487
+Iowa,Ida,nan,"Acres/1,000 pop",19093.0,491
+Iowa,Iowa,nan,"Acres/1,000 pop",19095.0,495
+Iowa,Jackson,1.675807434491164,"Acres/1,000 pop",19097.0,499
+Iowa,Jasper,2.3528124316042898,"Acres/1,000 pop",19099.0,505
+Iowa,Jefferson,2.44926522043387,"Acres/1,000 pop",19101.0,507
+Iowa,Johnson,0.9932589849769579,"Acres/1,000 pop",19103.0,508
+Iowa,Jones,1.310297971464622,"Acres/1,000 pop",19105.0,516
+Iowa,Keokuk,0.7693787266782074,"Acres/1,000 pop",19107.0,520
+Iowa,Kossuth,nan,"Acres/1,000 pop",19109.0,523
+Iowa,Lee,2.0500435283214915,"Acres/1,000 pop",19111.0,531
+Iowa,Linn,1.2726369129730006,"Acres/1,000 pop",19113.0,535
+Iowa,Louisa,nan,"Acres/1,000 pop",19115.0,539
+Iowa,Lucas,nan,"Acres/1,000 pop",19117.0,542
+Iowa,Lyon,4.7578589634664405,"Acres/1,000 pop",19119.0,546
+Iowa,Madison,3.7714139606238812,"Acres/1,000 pop",19121.0,550
+Iowa,Mahaska,0.9370398465039489,"Acres/1,000 pop",19123.0,554
+Iowa,Marion,2.1313640730067243,"Acres/1,000 pop",19125.0,561
+Iowa,Marshall,0.9977611213861579,"Acres/1,000 pop",19127.0,568
+Iowa,Mills,nan,"Acres/1,000 pop",19129.0,569
+Iowa,Mitchell,nan,"Acres/1,000 pop",19131.0,572
+Iowa,Monona,0.21891418563922943,"Acres/1,000 pop",19133.0,576
+Iowa,Monroe,0.8685941183769699,"Acres/1,000 pop",19135.0,580
+Iowa,Montgomery,0.4733503739467954,"Acres/1,000 pop",19137.0,595
+Iowa,Muscatine,nan,"Acres/1,000 pop",19139.0,600
+Iowa,O'Brien,1.4117314886708547,"Acres/1,000 pop",19141.0,604
+Iowa,Osceola,0.8085381630012937,"Acres/1,000 pop",19143.0,607
+Iowa,Page,nan,"Acres/1,000 pop",19145.0,612
+Iowa,Palo Alto,nan,"Acres/1,000 pop",19147.0,618
+Iowa,Plymouth,nan,"Acres/1,000 pop",19149.0,622
+Iowa,Pocahontas,nan,"Acres/1,000 pop",19151.0,624
+Iowa,Polk,nan,"Acres/1,000 pop",19153.0,629
+Iowa,Pottawattamie,0.5274659030969784,"Acres/1,000 pop",19155.0,637
+Iowa,Poweshiek,2.3439164713402945,"Acres/1,000 pop",19157.0,640
+Iowa,Ringgold,2.1662071681764474,"Acres/1,000 pop",19159.0,642
+Iowa,Sac,nan,"Acres/1,000 pop",19161.0,647
+Iowa,Scott,0.4146035205761804,"Acres/1,000 pop",19163.0,657
+Iowa,Shelby,1.0759807978811455,"Acres/1,000 pop",19165.0,660
+Iowa,Sioux,1.5432548117520308,"Acres/1,000 pop",19167.0,663
+Iowa,Story,1.023207210345278,"Acres/1,000 pop",19169.0,668
+Iowa,Tama,1.0265769362381658,"Acres/1,000 pop",19171.0,671
+Iowa,Taylor,0.0,"Acres/1,000 pop",19173.0,674
+Iowa,Union,0.1586797841954935,"Acres/1,000 pop",19175.0,675
+Iowa,Van Buren,4.829621679635095,"Acres/1,000 pop",19177.0,678
+Iowa,Wapello,nan,"Acres/1,000 pop",19179.0,681
+Iowa,Warren,2.660876599186836,"Acres/1,000 pop",19181.0,685
+Iowa,Washington,2.874218714357407,"Acres/1,000 pop",19183.0,687
+Iowa,Wayne,0.6288319446627889,"Acres/1,000 pop",19185.0,691
+Iowa,Webster,0.7773756869052406,"Acres/1,000 pop",19187.0,694
+Iowa,Winnebago,nan,"Acres/1,000 pop",19189.0,696
+Iowa,Winneshiek,nan,"Acres/1,000 pop",19191.0,698
+Iowa,Woodbury,0.18557043374647172,"Acres/1,000 pop",19193.0,702
+Iowa,Worth,nan,"Acres/1,000 pop",19195.0,703
+Iowa,Wright,0.38408357658626513,"Acres/1,000 pop",19197.0,705
+Kansas,Allen,0.5995653151465188,"Acres/1,000 pop",20001.0,709
+Kansas,Anderson,nan,"Acres/1,000 pop",20003.0,712
+Kansas,Atchison,nan,"Acres/1,000 pop",20005.0,715
+Kansas,Barber,0.0,"Acres/1,000 pop",20007.0,717
+Kansas,Barton,0.25430502070769456,"Acres/1,000 pop",20009.0,719
+Kansas,Bourbon,nan,"Acres/1,000 pop",20011.0,722
+Kansas,Brown,0.7082869574015987,"Acres/1,000 pop",20013.0,723
+Kansas,Butler,0.303951367781155,"Acres/1,000 pop",20015.0,726
+Kansas,Chase,nan,"Acres/1,000 pop",20017.0,729
+Kansas,Chautauqua,0.0,"Acres/1,000 pop",20019.0,730
+Kansas,Cherokee,nan,"Acres/1,000 pop",20021.0,732
+Kansas,Cheyenne,0.0,"Acres/1,000 pop",20023.0,736
+Kansas,Clark,0.0,"Acres/1,000 pop",20025.0,738
+Kansas,Clay,nan,"Acres/1,000 pop",20027.0,739
+Kansas,Cloud,1.1708355508249069,"Acres/1,000 pop",20029.0,740
+Kansas,Coffey,0.0,"Acres/1,000 pop",20031.0,745
+Kansas,Comanche,nan,"Acres/1,000 pop",20033.0,748
+Kansas,Cowley,0.5239355834987867,"Acres/1,000 pop",20035.0,752
+Kansas,Crawford,0.22851339342389235,"Acres/1,000 pop",20037.0,756
+Kansas,Decatur,1.0427528675703859,"Acres/1,000 pop",20039.0,759
+Kansas,Dickinson,nan,"Acres/1,000 pop",20041.0,762
+Kansas,Doniphan,5.084530316512012,"Acres/1,000 pop",20043.0,765
+Kansas,Douglas,nan,"Acres/1,000 pop",20045.0,767
+Kansas,Edwards,nan,"Acres/1,000 pop",20047.0,770
+Kansas,Elk,0.0,"Acres/1,000 pop",20049.0,773
+Kansas,Ellis,0.0,"Acres/1,000 pop",20051.0,774
+Kansas,Ellsworth,0.46339202965708987,"Acres/1,000 pop",20053.0,776
+Kansas,Finney,nan,"Acres/1,000 pop",20055.0,778
+Kansas,Ford,nan,"Acres/1,000 pop",20057.0,784
+Kansas,Franklin,0.7729767334003247,"Acres/1,000 pop",20059.0,786
+Kansas,Geary,nan,"Acres/1,000 pop",20061.0,788
+Kansas,Gove,0.0,"Acres/1,000 pop",20063.0,790
+Kansas,Graham,0.0,"Acres/1,000 pop",20065.0,791
+Kansas,Grant,nan,"Acres/1,000 pop",20067.0,794
+Kansas,Gray,nan,"Acres/1,000 pop",20069.0,798
+Kansas,Greeley,0.0,"Acres/1,000 pop",20071.0,801
+Kansas,Greenwood,nan,"Acres/1,000 pop",20073.0,803
+Kansas,Hamilton,0.0,"Acres/1,000 pop",20075.0,805
+Kansas,Harper,nan,"Acres/1,000 pop",20077.0,807
+Kansas,Harvey,nan,"Acres/1,000 pop",20079.0,812
+Kansas,Haskell,0.0,"Acres/1,000 pop",20081.0,815
+Kansas,Hodgeman,0.0,"Acres/1,000 pop",20083.0,818
+Kansas,Jackson,nan,"Acres/1,000 pop",20085.0,819
+Kansas,Jefferson,nan,"Acres/1,000 pop",20087.0,821
+Kansas,Jewell,0.0,"Acres/1,000 pop",20089.0,822
+Kansas,Johnson,nan,"Acres/1,000 pop",20091.0,824
+Kansas,Kearny,nan,"Acres/1,000 pop",20093.0,826
+Kansas,Kingman,nan,"Acres/1,000 pop",20095.0,827
+Kansas,Kiowa,0.0,"Acres/1,000 pop",20097.0,829
+Kansas,Labette,nan,"Acres/1,000 pop",20099.0,831
+Kansas,Lane,nan,"Acres/1,000 pop",20101.0,833
+Kansas,Leavenworth,nan,"Acres/1,000 pop",20103.0,836
+Kansas,Lincoln,nan,"Acres/1,000 pop",20105.0,838
+Kansas,Linn,0.4218074449014025,"Acres/1,000 pop",20107.0,840
+Kansas,Logan,0.0,"Acres/1,000 pop",20109.0,842
+Kansas,Lyon,nan,"Acres/1,000 pop",20111.0,844
+Kansas,McPherson,nan,"Acres/1,000 pop",20113.0,846
+Kansas,Marion,nan,"Acres/1,000 pop",20115.0,848
+Kansas,Marshall,0.0,"Acres/1,000 pop",20117.0,850
+Kansas,Meade,nan,"Acres/1,000 pop",20119.0,851
+Kansas,Miami,nan,"Acres/1,000 pop",20121.0,853
+Kansas,Mitchell,0.0,"Acres/1,000 pop",20123.0,854
+Kansas,Montgomery,0.377150483042734,"Acres/1,000 pop",20125.0,856
+Kansas,Morris,nan,"Acres/1,000 pop",20127.0,858
+Kansas,Morton,0.0,"Acres/1,000 pop",20129.0,859
+Kansas,Nemaha,0.09889240506329114,"Acres/1,000 pop",20131.0,861
+Kansas,Neosho,nan,"Acres/1,000 pop",20133.0,862
+Kansas,Ness,0.0,"Acres/1,000 pop",20135.0,864
+Kansas,Norton,0.0,"Acres/1,000 pop",20137.0,866
+Kansas,Osage,nan,"Acres/1,000 pop",20139.0,867
+Kansas,Osborne,0.0,"Acres/1,000 pop",20141.0,869
+Kansas,Ottawa,nan,"Acres/1,000 pop",20143.0,870
+Kansas,Pawnee,nan,"Acres/1,000 pop",20145.0,872
+Kansas,Phillips,nan,"Acres/1,000 pop",20147.0,873
+Kansas,Pottawatomie,1.7911517105498835,"Acres/1,000 pop",20149.0,876
+Kansas,Pratt,nan,"Acres/1,000 pop",20151.0,878
+Kansas,Rawlins,0.0,"Acres/1,000 pop",20153.0,880
+Kansas,Reno,2.522107360817038,"Acres/1,000 pop",20155.0,882
+Kansas,Republic,nan,"Acres/1,000 pop",20157.0,884
+Kansas,Rice,0.0,"Acres/1,000 pop",20159.0,886
+Kansas,Riley,nan,"Acres/1,000 pop",20161.0,888
+Kansas,Rooks,0.0,"Acres/1,000 pop",20163.0,889
+Kansas,Rush,0.0,"Acres/1,000 pop",20165.0,891
+Kansas,Russell,nan,"Acres/1,000 pop",20167.0,893
+Kansas,Saline,0.053709538814093384,"Acres/1,000 pop",20169.0,895
+Kansas,Scott,0.0,"Acres/1,000 pop",20171.0,897
+Kansas,Sedgwick,nan,"Acres/1,000 pop",20173.0,898
+Kansas,Seward,0.0,"Acres/1,000 pop",20175.0,900
+Kansas,Shawnee,0.3240024356045159,"Acres/1,000 pop",20177.0,902
+Kansas,Sheridan,nan,"Acres/1,000 pop",20179.0,904
+Kansas,Sherman,0.0,"Acres/1,000 pop",20181.0,907
+Kansas,Smith,nan,"Acres/1,000 pop",20183.0,909
+Kansas,Stafford,nan,"Acres/1,000 pop",20185.0,911
+Kansas,Stanton,0.0,"Acres/1,000 pop",20187.0,913
+Kansas,Stevens,126.97860497477824,"Acres/1,000 pop",20189.0,914
+Kansas,Sumner,nan,"Acres/1,000 pop",20191.0,916
+Kansas,Thomas,0.0,"Acres/1,000 pop",20193.0,917
+Kansas,Trego,0.0,"Acres/1,000 pop",20195.0,919
+Kansas,Wabaunsee,1.570979720079977,"Acres/1,000 pop",20197.0,920
+Kansas,Wallace,nan,"Acres/1,000 pop",20199.0,921
+Kansas,Washington,2.094606388549485,"Acres/1,000 pop",20201.0,922
+Kansas,Wichita,0.0,"Acres/1,000 pop",20203.0,923
+Kansas,Wilson,nan,"Acres/1,000 pop",20205.0,925
+Kansas,Woodson,3.674219228413962,"Acres/1,000 pop",20207.0,926
+Kansas,Wyandotte,0.4389485301494933,"Acres/1,000 pop",20209.0,927
+Kentucky,Adair,3.5316780821917813,"Acres/1,000 pop",21001.0,928
+Kentucky,Allen,nan,"Acres/1,000 pop",21003.0,929
+Kentucky,Anderson,nan,"Acres/1,000 pop",21005.0,930
+Kentucky,Ballard,0.6022645145748012,"Acres/1,000 pop",21007.0,932
+Kentucky,Barren,nan,"Acres/1,000 pop",21009.0,933
+Kentucky,Bath,1.6105789607527337,"Acres/1,000 pop",21011.0,934
+Kentucky,Bell,nan,"Acres/1,000 pop",21013.0,936
+Kentucky,Boone,0.9822544769697855,"Acres/1,000 pop",21015.0,1002
+Kentucky,Bourbon,nan,"Acres/1,000 pop",21017.0,1005
+Kentucky,Boyd,nan,"Acres/1,000 pop",21019.0,1008
+Kentucky,Boyle,1.0352324096759722,"Acres/1,000 pop",21021.0,1010
+Kentucky,Bracken,0.8261536645816121,"Acres/1,000 pop",21023.0,1013
+Kentucky,Breathitt,nan,"Acres/1,000 pop",21025.0,1017
+Kentucky,Breckinridge,3.2368905930979532,"Acres/1,000 pop",21027.0,1020
+Kentucky,Bullitt,nan,"Acres/1,000 pop",21029.0,1024
+Kentucky,Butler,2.1108591978735047,"Acres/1,000 pop",21031.0,1026
+Kentucky,Caldwell,nan,"Acres/1,000 pop",21033.0,1031
+Kentucky,Calloway,nan,"Acres/1,000 pop",21035.0,1033
+Kentucky,Campbell,1.1844962600627345,"Acres/1,000 pop",21037.0,1035
+Kentucky,Carlisle,nan,"Acres/1,000 pop",21039.0,1039
+Kentucky,Carroll,1.104158998895841,"Acres/1,000 pop",21041.0,1041
+Kentucky,Carter,2.877959927140255,"Acres/1,000 pop",21043.0,1044
+Kentucky,Casey,7.403259922856787,"Acres/1,000 pop",21045.0,1048
+Kentucky,Christian,6.371279014434516,"Acres/1,000 pop",21047.0,1050
+Kentucky,Clark,2.3772898895259402,"Acres/1,000 pop",21049.0,1053
+Kentucky,Clay,5.340143951706525,"Acres/1,000 pop",21051.0,1056
+Kentucky,Clinton,nan,"Acres/1,000 pop",21053.0,1059
+Kentucky,Crittenden,5.1891891891891895,"Acres/1,000 pop",21055.0,1064
+Kentucky,Cumberland,2.186907712494533,"Acres/1,000 pop",21057.0,1067
+Kentucky,Daviess,3.9051318748722146,"Acres/1,000 pop",21059.0,1071
+Kentucky,Edmonson,0.7416563658838072,"Acres/1,000 pop",21061.0,1073
+Kentucky,Elliott,nan,"Acres/1,000 pop",21063.0,1075
+Kentucky,Estill,nan,"Acres/1,000 pop",21065.0,1077
+Kentucky,Fayette,0.39931265853858117,"Acres/1,000 pop",21067.0,1080
+Kentucky,Fleming,1.9258545979778527,"Acres/1,000 pop",21069.0,1083
+Kentucky,Floyd,0.178849740667876,"Acres/1,000 pop",21071.0,1085
+Kentucky,Franklin,nan,"Acres/1,000 pop",21073.0,1086
+Kentucky,Fulton,0.0,"Acres/1,000 pop",21075.0,1088
+Kentucky,Gallatin,nan,"Acres/1,000 pop",21077.0,1090
+Kentucky,Garrard,0.5898661003952103,"Acres/1,000 pop",21079.0,1092
+Kentucky,Grant,nan,"Acres/1,000 pop",21081.0,1094
+Kentucky,Graves,1.8116907337347472,"Acres/1,000 pop",21083.0,1097
+Kentucky,Grayson,2.2824867499709853,"Acres/1,000 pop",21085.0,1100
+Kentucky,Green,nan,"Acres/1,000 pop",21087.0,1102
+Kentucky,Greenup,1.2260912211868564,"Acres/1,000 pop",21089.0,1105
+Kentucky,Hancock,nan,"Acres/1,000 pop",21091.0,1107
+Kentucky,Hardin,0.7282913165266107,"Acres/1,000 pop",21093.0,1110
+Kentucky,Harlan,nan,"Acres/1,000 pop",21095.0,1114
+Kentucky,Harrison,3.8705515535963873,"Acres/1,000 pop",21097.0,1119
+Kentucky,Hart,nan,"Acres/1,000 pop",21099.0,1121
+Kentucky,Henderson,0.7968299091183185,"Acres/1,000 pop",21101.0,1126
+Kentucky,Henry,nan,"Acres/1,000 pop",21103.0,1129
+Kentucky,Hickman,0.0,"Acres/1,000 pop",21105.0,1130
+Kentucky,Hopkins,nan,"Acres/1,000 pop",21107.0,1136
+Kentucky,Jackson,3.0817799158147925,"Acres/1,000 pop",21109.0,1140
+Kentucky,Jefferson,0.07988166862154861,"Acres/1,000 pop",21111.0,1143
+Kentucky,Jessamine,0.7468109155498144,"Acres/1,000 pop",21113.0,1145
+Kentucky,Johnson,0.4268578990054211,"Acres/1,000 pop",21115.0,1148
+Kentucky,Kenton,0.290455149399005,"Acres/1,000 pop",21117.0,1151
+Kentucky,Knott,0.0,"Acres/1,000 pop",21119.0,1154
+Kentucky,Knox,0.9781957022498502,"Acres/1,000 pop",21121.0,1159
+Kentucky,Larue,nan,"Acres/1,000 pop",21123.0,1162
+Kentucky,Laurel,nan,"Acres/1,000 pop",21125.0,1166
+Kentucky,Lawrence,3.8534428300694885,"Acres/1,000 pop",21127.0,1167
+Kentucky,Lee,nan,"Acres/1,000 pop",21129.0,1171
+Kentucky,Leslie,0.0,"Acres/1,000 pop",21131.0,1175
+Kentucky,Letcher,0.25071034598027747,"Acres/1,000 pop",21133.0,1178
+Kentucky,Lewis,1.1575748806250905,"Acres/1,000 pop",21135.0,1180
+Kentucky,Lincoln,nan,"Acres/1,000 pop",21137.0,1184
+Kentucky,Livingston,nan,"Acres/1,000 pop",21139.0,1187
+Kentucky,Logan,nan,"Acres/1,000 pop",21141.0,1190
+Kentucky,Lyon,1.6595542911332386,"Acres/1,000 pop",21143.0,1193
+Kentucky,McCracken,nan,"Acres/1,000 pop",21145.0,1196
+Kentucky,McCreary,1.0526898997174359,"Acres/1,000 pop",21147.0,1198
+Kentucky,McLean,1.996007984031936,"Acres/1,000 pop",21149.0,1201
+Kentucky,Madison,1.295275775987942,"Acres/1,000 pop",21151.0,1204
+Kentucky,Magoffin,nan,"Acres/1,000 pop",21153.0,1206
+Kentucky,Marion,2.150537634408602,"Acres/1,000 pop",21155.0,1210
+Kentucky,Marshall,1.310993157255228,"Acres/1,000 pop",21157.0,1213
+Kentucky,Martin,0.3916960438699569,"Acres/1,000 pop",21159.0,1215
+Kentucky,Mason,2.751189316214822,"Acres/1,000 pop",21161.0,1217
+Kentucky,Meade,1.2625831769322642,"Acres/1,000 pop",21163.0,1220
+Kentucky,Menifee,nan,"Acres/1,000 pop",21165.0,1222
+Kentucky,Mercer,2.4829007776632626,"Acres/1,000 pop",21167.0,1225
+Kentucky,Metcalfe,5.506056662328561,"Acres/1,000 pop",21169.0,1228
+Kentucky,Monroe,nan,"Acres/1,000 pop",21171.0,1230
+Kentucky,Montgomery,nan,"Acres/1,000 pop",21173.0,1233
+Kentucky,Morgan,3.2653061224489797,"Acres/1,000 pop",21175.0,1235
+Kentucky,Muhlenberg,0.38268967056797526,"Acres/1,000 pop",21177.0,1238
+Kentucky,Nelson,nan,"Acres/1,000 pop",21179.0,1243
+Kentucky,Nicholas,1.8497438816163916,"Acres/1,000 pop",21181.0,1246
+Kentucky,Ohio,0.790086493679308,"Acres/1,000 pop",21183.0,1249
+Kentucky,Oldham,0.8850269530935715,"Acres/1,000 pop",21185.0,1252
+Kentucky,Owen,2.417255485310524,"Acres/1,000 pop",21187.0,1255
+Kentucky,Owsley,14.090520922288642,"Acres/1,000 pop",21189.0,1257
+Kentucky,Pendleton,nan,"Acres/1,000 pop",21191.0,1260
+Kentucky,Perry,0.31833616298811546,"Acres/1,000 pop",21193.0,1265
+Kentucky,Pike,0.12446518864255153,"Acres/1,000 pop",21195.0,1267
+Kentucky,Powell,1.7633857005450464,"Acres/1,000 pop",21197.0,1270
+Kentucky,Pulaski,4.07976813055258,"Acres/1,000 pop",21199.0,1272
+Kentucky,Robertson,nan,"Acres/1,000 pop",21201.0,1273
+Kentucky,Rockcastle,1.2883579292574372,"Acres/1,000 pop",21203.0,1276
+Kentucky,Rowan,nan,"Acres/1,000 pop",21205.0,1279
+Kentucky,Russell,nan,"Acres/1,000 pop",21207.0,1282
+Kentucky,Scott,3.159847511874911,"Acres/1,000 pop",21209.0,1283
+Kentucky,Shelby,5.816749490461905,"Acres/1,000 pop",21211.0,1285
+Kentucky,Simpson,nan,"Acres/1,000 pop",21213.0,1287
+Kentucky,Spencer,nan,"Acres/1,000 pop",21215.0,1000
+Kentucky,Taylor,2.9028746522598072,"Acres/1,000 pop",21217.0,1003
+Kentucky,Todd,43.8943372350522,"Acres/1,000 pop",21219.0,1006
+Kentucky,Trigg,8.547602501737318,"Acres/1,000 pop",21221.0,1009
+Kentucky,Trimble,nan,"Acres/1,000 pop",21223.0,1012
+Kentucky,Union,nan,"Acres/1,000 pop",21225.0,1016
+Kentucky,Warren,nan,"Acres/1,000 pop",21227.0,1019
+Kentucky,Washington,2.6114059472664475,"Acres/1,000 pop",21229.0,1023
+Kentucky,Wayne,2.358490566037736,"Acres/1,000 pop",21231.0,1027
+Kentucky,Webster,nan,"Acres/1,000 pop",21233.0,1029
+Kentucky,Whitley,nan,"Acres/1,000 pop",21235.0,1034
+Kentucky,Wolfe,1.6689847009735743,"Acres/1,000 pop",21237.0,1037
+Kentucky,Woodford,nan,"Acres/1,000 pop",21239.0,1042
+Louisiana,Acadia,nan,"Acres/1,000 pop",22001.0,1046
+Louisiana,Allen,nan,"Acres/1,000 pop",22003.0,1051
+Louisiana,Ascension,0.044552558653443465,"Acres/1,000 pop",22005.0,1055
+Louisiana,Assumption,0.0,"Acres/1,000 pop",22007.0,1060
+Louisiana,Avoyelles,25.94623190496802,"Acres/1,000 pop",22009.0,1062
+Louisiana,Beauregard,1.8185826077372422,"Acres/1,000 pop",22011.0,1066
+Louisiana,Bienville,5.367231638418079,"Acres/1,000 pop",22013.0,1069
+Louisiana,Bossier,nan,"Acres/1,000 pop",22015.0,1076
+Louisiana,Caddo,0.4002393664560553,"Acres/1,000 pop",22017.0,1079
+Louisiana,Calcasieu,nan,"Acres/1,000 pop",22019.0,1081
+Louisiana,Caldwell,2.3976023976023977,"Acres/1,000 pop",22021.0,1084
+Louisiana,Cameron,0.4525569467491326,"Acres/1,000 pop",22023.0,1089
+Louisiana,Catahoula,nan,"Acres/1,000 pop",22025.0,1093
+Louisiana,Claiborne,nan,"Acres/1,000 pop",22027.0,1095
+Louisiana,Concordia,nan,"Acres/1,000 pop",22029.0,1098
+Louisiana,De Soto,nan,"Acres/1,000 pop",22031.0,1103
+Louisiana,East Baton Rouge,nan,"Acres/1,000 pop",22033.0,1108
+Louisiana,East Carroll,nan,"Acres/1,000 pop",22035.0,1111
+Louisiana,East Feliciana,0.30066145520144316,"Acres/1,000 pop",22037.0,1115
+Louisiana,Evangeline,nan,"Acres/1,000 pop",22039.0,1118
+Louisiana,Franklin,nan,"Acres/1,000 pop",22041.0,1123
+Louisiana,Grant,2.680965147453083,"Acres/1,000 pop",22043.0,1127
+Louisiana,Iberia,nan,"Acres/1,000 pop",22045.0,1133
+Louisiana,Iberville,nan,"Acres/1,000 pop",22047.0,1134
+Louisiana,Jackson,nan,"Acres/1,000 pop",22049.0,1138
+Louisiana,Jefferson,nan,"Acres/1,000 pop",22051.0,1147
+Louisiana,Jefferson Davis,nan,"Acres/1,000 pop",22053.0,1155
+Louisiana,Lafayette,0.022013824681900235,"Acres/1,000 pop",22055.0,1161
+Louisiana,Lafourche,1.0511671046529603,"Acres/1,000 pop",22057.0,1280
+Louisiana,La Salle,0.0,"Acres/1,000 pop",22059.0,1289
+Louisiana,Lincoln,nan,"Acres/1,000 pop",22061.0,1291
+Louisiana,Livingston,0.4397470696165102,"Acres/1,000 pop",22063.0,1295
+Louisiana,Madison,nan,"Acres/1,000 pop",22065.0,1297
+Louisiana,Morehouse,nan,"Acres/1,000 pop",22067.0,1299
+Louisiana,Natchitoches,0.3799777079744655,"Acres/1,000 pop",22069.0,1301
+Louisiana,Orleans,0.013513111772352713,"Acres/1,000 pop",22071.0,1304
+Louisiana,Ouachita,0.31557524859601216,"Acres/1,000 pop",22073.0,1306
+Louisiana,Plaquemines,nan,"Acres/1,000 pop",22075.0,1427
+Louisiana,Pointe Coupee,1.4098779574393092,"Acres/1,000 pop",22077.0,1431
+Louisiana,Rapides,0.9539745152522353,"Acres/1,000 pop",22079.0,1434
+Louisiana,Red River,nan,"Acres/1,000 pop",22081.0,1436
+Louisiana,Richland,nan,"Acres/1,000 pop",22083.0,1439
+Louisiana,Sabine,0.7406493025552401,"Acres/1,000 pop",22085.0,1441
+Louisiana,St. Bernard,0.1686381266713243,"Acres/1,000 pop",22087.0,1463
+Louisiana,St. Charles,0.38109029934643013,"Acres/1,000 pop",22089.0,1466
+Louisiana,St. Helena,nan,"Acres/1,000 pop",22091.0,1467
+Louisiana,St. James,nan,"Acres/1,000 pop",22093.0,1468
+Louisiana,St. John the Baptist,0.0,"Acres/1,000 pop",22095.0,1469
+Louisiana,St. Landry,1.5213953711246346,"Acres/1,000 pop",22097.0,1471
+Louisiana,St. Martin,0.398406374501992,"Acres/1,000 pop",22099.0,1473
+Louisiana,St. Mary,0.11208668036614983,"Acres/1,000 pop",22101.0,1474
+Louisiana,St. Tammany,0.17130155759074805,"Acres/1,000 pop",22103.0,1475
+Louisiana,Tangipahoa,2.280225111585484,"Acres/1,000 pop",22105.0,1476
+Louisiana,Tensas,5.845595646039104,"Acres/1,000 pop",22107.0,1479
+Louisiana,Terrebonne,0.07158580453496072,"Acres/1,000 pop",22109.0,1501
+Louisiana,Union,nan,"Acres/1,000 pop",22111.0,1507
+Louisiana,Vermilion,nan,"Acres/1,000 pop",22113.0,1510
+Louisiana,Vernon,1.144714006129759,"Acres/1,000 pop",22115.0,1513
+Louisiana,Washington,2.7232181147611287,"Acres/1,000 pop",22117.0,1516
+Louisiana,Webster,nan,"Acres/1,000 pop",22119.0,1518
+Louisiana,West Baton Rouge,0.0,"Acres/1,000 pop",22121.0,1520
+Louisiana,West Carroll,40.72043852779953,"Acres/1,000 pop",22123.0,1522
+Louisiana,West Feliciana,0.647836227001814,"Acres/1,000 pop",22125.0,1524
+Louisiana,Winn,2.59170653907496,"Acres/1,000 pop",22127.0,1529
+Maine,Androscoggin,6.963684709645028,"Acres/1,000 pop",23001.0,1532
+Maine,Aroostook,406.87695287647216,"Acres/1,000 pop",23003.0,1535
+Maine,Cumberland,2.1189498174957673,"Acres/1,000 pop",23005.0,1608
+Maine,Franklin,nan,"Acres/1,000 pop",23007.0,1619
+Maine,Hancock,2.8048691061083817,"Acres/1,000 pop",23009.0,1748
+Maine,Kennebec,2.638565803858389,"Acres/1,000 pop",23011.0,1755
+Maine,Knox,nan,"Acres/1,000 pop",23013.0,1774
+Maine,Lincoln,5.758045187501827,"Acres/1,000 pop",23015.0,1835
+Maine,Oxford,nan,"Acres/1,000 pop",23017.0,1842
+Maine,Penobscot,nan,"Acres/1,000 pop",23019.0,1846
+Maine,Piscataquis,nan,"Acres/1,000 pop",23021.0,1851
+Maine,Sagadahoc,nan,"Acres/1,000 pop",23023.0,1855
+Maine,Somerset,4.956127663677563,"Acres/1,000 pop",23025.0,1860
+Maine,Waldo,9.174076167960116,"Acres/1,000 pop",23027.0,1865
+Maine,Washington,3.167379070697131,"Acres/1,000 pop",23029.0,1884
+Maine,York,4.511837292495679,"Acres/1,000 pop",23031.0,1901
+Maryland,Allegany,nan,"Acres/1,000 pop",24001.0,1905
+Maryland,Anne Arundel,nan,"Acres/1,000 pop",24003.0,1925
+Maryland,Baltimore County,1.1654997416109063,"Acres/1,000 pop",24005.0,1939
+Maryland,Calvert,2.8996821502258405,"Acres/1,000 pop",24009.0,1946
+Maryland,Caroline,66.00275777539451,"Acres/1,000 pop",24011.0,1949
+Maryland,Carroll,3.068236870278773,"Acres/1,000 pop",24013.0,1955
+Maryland,Cecil,0.8745467587724901,"Acres/1,000 pop",24015.0,1963
+Maryland,Charles,2.221544338046102,"Acres/1,000 pop",24017.0,1294
+Maryland,Dorchester,51.04836971581638,"Acres/1,000 pop",24019.0,1346
+Maryland,Frederick,1.5277435728328792,"Acres/1,000 pop",24021.0,1357
+Maryland,Garrett,nan,"Acres/1,000 pop",24023.0,1361
+Maryland,Harford,2.2562559824969233,"Acres/1,000 pop",24025.0,1372
+Maryland,Howard,0.36705329613859927,"Acres/1,000 pop",24027.0,1379
+Maryland,Kent,nan,"Acres/1,000 pop",24029.0,1394
+Maryland,Montgomery,nan,"Acres/1,000 pop",24031.0,1398
+Maryland,Prince George's,0.48585967149543985,"Acres/1,000 pop",24033.0,1403
+Maryland,Queen Anne's,22.810162576497497,"Acres/1,000 pop",24035.0,1413
+Maryland,St. Mary's,nan,"Acres/1,000 pop",24037.0,1421
+Maryland,Somerset,nan,"Acres/1,000 pop",24039.0,1430
+Maryland,Talbot,7.174204399127533,"Acres/1,000 pop",24041.0,1438
+Maryland,Washington,nan,"Acres/1,000 pop",24043.0,1445
+Maryland,Wicomico,nan,"Acres/1,000 pop",24045.0,1446
+Maryland,Worcester,nan,"Acres/1,000 pop",24047.0,1456
+Maryland,Baltimore City,nan,"Acres/1,000 pop",24510.0,1460
+Massachusetts,Barnstable,nan,"Acres/1,000 pop",25001.0,1478
+Massachusetts,Berkshire,2.949965814198247,"Acres/1,000 pop",25003.0,1480
+Massachusetts,Bristol,2.8928747080356216,"Acres/1,000 pop",25005.0,1486
+Massachusetts,Dukes,nan,"Acres/1,000 pop",25007.0,1491
+Massachusetts,Essex,1.1003236245954693,"Acres/1,000 pop",25009.0,1519
+Massachusetts,Franklin,49.73009257964367,"Acres/1,000 pop",25011.0,1523
+Massachusetts,Hampden,2.252614297135043,"Acres/1,000 pop",25013.0,1526
+Massachusetts,Hampshire,30.204605812750145,"Acres/1,000 pop",25015.0,1527
+Massachusetts,Middlesex,1.0027818271269036,"Acres/1,000 pop",25017.0,1533
+Massachusetts,Nantucket,nan,"Acres/1,000 pop",25019.0,1537
+Massachusetts,Norfolk,nan,"Acres/1,000 pop",25021.0,1543
+Massachusetts,Plymouth,1.537506756621489,"Acres/1,000 pop",25023.0,1569
+Massachusetts,Suffolk,0.013340270273875748,"Acres/1,000 pop",25025.0,1585
+Massachusetts,Worcester,1.7660635510031464,"Acres/1,000 pop",25027.0,1599
+Michigan,Alcona,1.5084378240784388,"Acres/1,000 pop",26001.0,1603
+Michigan,Alger,2.632687447346251,"Acres/1,000 pop",26003.0,1609
+Michigan,Allegan,33.861195016890385,"Acres/1,000 pop",26005.0,1611
+Michigan,Alpena,1.368972244087751,"Acres/1,000 pop",26007.0,1614
+Michigan,Antrim,nan,"Acres/1,000 pop",26009.0,1617
+Michigan,Arenac,nan,"Acres/1,000 pop",26011.0,1621
+Michigan,Baraga,nan,"Acres/1,000 pop",26013.0,1624
+Michigan,Barry,2.4208566108007448,"Acres/1,000 pop",26015.0,1627
+Michigan,Bay,14.301584189841394,"Acres/1,000 pop",26017.0,1631
+Michigan,Benzie,nan,"Acres/1,000 pop",26019.0,1634
+Michigan,Berrien,41.08579303272121,"Acres/1,000 pop",26021.0,1635
+Michigan,Branch,17.180717386337673,"Acres/1,000 pop",26023.0,1640
+Michigan,Calhoun,nan,"Acres/1,000 pop",26025.0,1641
+Michigan,Cass,32.28534091782612,"Acres/1,000 pop",26027.0,1644
+Michigan,Charlevoix,6.252157569713474,"Acres/1,000 pop",26029.0,1648
+Michigan,Cheboygan,nan,"Acres/1,000 pop",26031.0,1649
+Michigan,Chippewa,0.9230059226213368,"Acres/1,000 pop",26033.0,1660
+Michigan,Clare,2.1761725347538,"Acres/1,000 pop",26035.0,1665
+Michigan,Clinton,nan,"Acres/1,000 pop",26037.0,1669
+Michigan,Crawford,0.8575103615835358,"Acres/1,000 pop",26039.0,1672
+Michigan,Delta,nan,"Acres/1,000 pop",26041.0,1675
+Michigan,Dickinson,nan,"Acres/1,000 pop",26043.0,1677
+Michigan,Eaton,nan,"Acres/1,000 pop",26045.0,1678
+Michigan,Emmet,6.962602614776528,"Acres/1,000 pop",26047.0,1686
+Michigan,Genesee,nan,"Acres/1,000 pop",26049.0,1688
+Michigan,Gladwin,nan,"Acres/1,000 pop",26051.0,1691
+Michigan,Gogebic,nan,"Acres/1,000 pop",26053.0,1693
+Michigan,Grand Traverse,2.022744639726705,"Acres/1,000 pop",26055.0,1697
+Michigan,Gratiot,6.7086951350065425,"Acres/1,000 pop",26057.0,1700
+Michigan,Hillsdale,nan,"Acres/1,000 pop",26059.0,1701
+Michigan,Houghton,1.303391533385831,"Acres/1,000 pop",26061.0,1705
+Michigan,Huron,nan,"Acres/1,000 pop",26063.0,1708
+Michigan,Ingham,nan,"Acres/1,000 pop",26065.0,1710
+Michigan,Ionia,8.43360297914287,"Acres/1,000 pop",26067.0,1713
+Michigan,Iosco,nan,"Acres/1,000 pop",26069.0,1715
+Michigan,Iron,nan,"Acres/1,000 pop",26071.0,1716
+Michigan,Isabella,1.8547096883804561,"Acres/1,000 pop",26073.0,1717
+Michigan,Jackson,2.2480750857078626,"Acres/1,000 pop",26075.0,1719
+Michigan,Kalamazoo,2.05515180276818,"Acres/1,000 pop",26077.0,1720
+Michigan,Kalkaska,77.90459467369037,"Acres/1,000 pop",26079.0,1722
+Michigan,Kent,3.4925409536197716,"Acres/1,000 pop",26081.0,1726
+Michigan,Keweenaw,0.0,"Acres/1,000 pop",26083.0,1743
+Michigan,Lake,1.741856819369448,"Acres/1,000 pop",26085.0,1749
+Michigan,Lapeer,30.885186444520002,"Acres/1,000 pop",26087.0,1752
+Michigan,Leelanau,nan,"Acres/1,000 pop",26089.0,1765
+Michigan,Lenawee,4.3628431194328305,"Acres/1,000 pop",26091.0,1768
+Michigan,Livingston,nan,"Acres/1,000 pop",26093.0,1770
+Michigan,Luce,0.7694675284702985,"Acres/1,000 pop",26095.0,1773
+Michigan,Mackinac,nan,"Acres/1,000 pop",26097.0,1779
+Michigan,Macomb,nan,"Acres/1,000 pop",26099.0,1785
+Michigan,Manistee,2.679985381897917,"Acres/1,000 pop",26101.0,1787
+Michigan,Marquette,0.589857401973073,"Acres/1,000 pop",26103.0,1793
+Michigan,Mason,10.112633818042333,"Acres/1,000 pop",26105.0,1797
+Michigan,Mecosta,10.110526436728785,"Acres/1,000 pop",26107.0,1800
+Michigan,Menominee,nan,"Acres/1,000 pop",26109.0,1802
+Michigan,Midland,0.7650011953143677,"Acres/1,000 pop",26111.0,1806
+Michigan,Missaukee,21.422393719646063,"Acres/1,000 pop",26113.0,1810
+Michigan,Monroe,23.688012831559274,"Acres/1,000 pop",26115.0,1812
+Michigan,Montcalm,11.425764226740409,"Acres/1,000 pop",26117.0,1815
+Michigan,Montmorency,0.7373077733305246,"Acres/1,000 pop",26119.0,1816
+Michigan,Muskegon,nan,"Acres/1,000 pop",26121.0,1818
+Michigan,Newaygo,60.12262262262262,"Acres/1,000 pop",26123.0,1820
+Michigan,Oakland,0.16211024970709625,"Acres/1,000 pop",26125.0,1824
+Michigan,Oceana,126.81421660127232,"Acres/1,000 pop",26127.0,1825
+Michigan,Ogemaw,nan,"Acres/1,000 pop",26129.0,1827
+Michigan,Ontonagon,1.2484394506866416,"Acres/1,000 pop",26131.0,1829
+Michigan,Osceola,nan,"Acres/1,000 pop",26133.0,1830
+Michigan,Oscoda,nan,"Acres/1,000 pop",26135.0,1832
+Michigan,Otsego,nan,"Acres/1,000 pop",26137.0,1834
+Michigan,Ottawa,12.406533736870216,"Acres/1,000 pop",26139.0,1837
+Michigan,Presque Isle,nan,"Acres/1,000 pop",26141.0,1840
+Michigan,Roscommon,nan,"Acres/1,000 pop",26143.0,1843
+Michigan,Saginaw,3.2622561501343728,"Acres/1,000 pop",26145.0,1845
+Michigan,St. Clair,3.1018567540127933,"Acres/1,000 pop",26147.0,1854
+Michigan,St. Joseph,64.42668941643561,"Acres/1,000 pop",26149.0,1857
+Michigan,Sanilac,5.645580384560873,"Acres/1,000 pop",26151.0,1858
+Michigan,Schoolcraft,1.4354066985645935,"Acres/1,000 pop",26153.0,1861
+Michigan,Shiawassee,nan,"Acres/1,000 pop",26155.0,1863
+Michigan,Tuscola,15.535329166209745,"Acres/1,000 pop",26157.0,1866
+Michigan,Van Buren,nan,"Acres/1,000 pop",26159.0,1867
+Michigan,Washtenaw,nan,"Acres/1,000 pop",26161.0,1869
+Michigan,Wayne,0.30794738562711366,"Acres/1,000 pop",26163.0,1871
+Michigan,Wexford,nan,"Acres/1,000 pop",26165.0,1873
+Minnesota,Aitkin,2.9496673779339777,"Acres/1,000 pop",27001.0,1875
+Minnesota,Anoka,nan,"Acres/1,000 pop",27003.0,1877
+Minnesota,Becker,0.9085677943002514,"Acres/1,000 pop",27005.0,1878
+Minnesota,Beltrami,0.48641358420482433,"Acres/1,000 pop",27007.0,1880
+Minnesota,Benton,nan,"Acres/1,000 pop",27009.0,1881
+Minnesota,Big Stone,nan,"Acres/1,000 pop",27011.0,1882
+Minnesota,Blue Earth,4.81042617609541,"Acres/1,000 pop",27013.0,1886
+Minnesota,Brown,3.1879722921914357,"Acres/1,000 pop",27015.0,1892
+Minnesota,Carlton,nan,"Acres/1,000 pop",27017.0,1893
+Minnesota,Carver,1.959051563514794,"Acres/1,000 pop",27019.0,1894
+Minnesota,Cass,nan,"Acres/1,000 pop",27021.0,1895
+Minnesota,Chippewa,0.49394912324030626,"Acres/1,000 pop",27023.0,1896
+Minnesota,Chisago,nan,"Acres/1,000 pop",27025.0,1897
+Minnesota,Clay,nan,"Acres/1,000 pop",27027.0,1898
+Minnesota,Clearwater,nan,"Acres/1,000 pop",27029.0,1899
+Minnesota,Cook,0.5794861889124976,"Acres/1,000 pop",27031.0,1900
+Minnesota,Cottonwood,0.6010647432594882,"Acres/1,000 pop",27033.0,1902
+Minnesota,Crow Wing,0.6841251153466764,"Acres/1,000 pop",27035.0,1903
+Minnesota,Dakota,4.57121689201704,"Acres/1,000 pop",27037.0,1904
+Minnesota,Dodge,0.5928267957711688,"Acres/1,000 pop",27039.0,1906
+Minnesota,Douglas,1.2899684369425002,"Acres/1,000 pop",27041.0,1907
+Minnesota,Faribault,3.2989401277461923,"Acres/1,000 pop",27043.0,1908
+Minnesota,Fillmore,3.256393065798295,"Acres/1,000 pop",27045.0,1909
+Minnesota,Freeborn,nan,"Acres/1,000 pop",27047.0,1910
+Minnesota,Goodhue,1.2068445325632515,"Acres/1,000 pop",27049.0,1911
+Minnesota,Grant,nan,"Acres/1,000 pop",27051.0,1912
+Minnesota,Hennepin,0.3798696118661137,"Acres/1,000 pop",27053.0,1913
+Minnesota,Houston,0.6378568011481422,"Acres/1,000 pop",27055.0,1914
+Minnesota,Hubbard,nan,"Acres/1,000 pop",27057.0,1915
+Minnesota,Isanti,nan,"Acres/1,000 pop",27059.0,1916
+Minnesota,Itasca,2.961980548187445,"Acres/1,000 pop",27061.0,1917
+Minnesota,Jackson,1.6525712063769806,"Acres/1,000 pop",27063.0,1918
+Minnesota,Kanabec,4.002751891925699,"Acres/1,000 pop",27065.0,1919
+Minnesota,Kandiyohi,9.96724710761328,"Acres/1,000 pop",27067.0,1920
+Minnesota,Kittson,nan,"Acres/1,000 pop",27069.0,1921
+Minnesota,Koochiching,0.8341548494729658,"Acres/1,000 pop",27071.0,1922
+Minnesota,Lac qui Parle,0.7019514249613926,"Acres/1,000 pop",27073.0,1923
+Minnesota,Lake,nan,"Acres/1,000 pop",27075.0,1926
+Minnesota,Lake of the Woods,13.127997980308004,"Acres/1,000 pop",27077.0,1927
+Minnesota,Le Sueur,7.197106690777577,"Acres/1,000 pop",27079.0,1929
+Minnesota,Lincoln,nan,"Acres/1,000 pop",27081.0,1931
+Minnesota,Lyon,0.2721300003887572,"Acres/1,000 pop",27083.0,1932
+Minnesota,McLeod,3.4706796979120393,"Acres/1,000 pop",27085.0,1934
+Minnesota,Mahnomen,nan,"Acres/1,000 pop",27087.0,1936
+Minnesota,Marshall,nan,"Acres/1,000 pop",27089.0,1937
+Minnesota,Martin,0.4884720593982024,"Acres/1,000 pop",27091.0,1940
+Minnesota,Meeker,2.2540095361941916,"Acres/1,000 pop",27093.0,1941
+Minnesota,Mille Lacs,4.895675486653457,"Acres/1,000 pop",27095.0,1943
+Minnesota,Morrison,nan,"Acres/1,000 pop",27097.0,1944
+Minnesota,Mower,1.0175010175010175,"Acres/1,000 pop",27099.0,1945
+Minnesota,Murray,1.1646866992778941,"Acres/1,000 pop",27101.0,1947
+Minnesota,Nicollet,2.306735059337724,"Acres/1,000 pop",27103.0,1948
+Minnesota,Nobles,5.9482639369207355,"Acres/1,000 pop",27105.0,1950
+Minnesota,Norman,16.867469879518072,"Acres/1,000 pop",27107.0,1951
+Minnesota,Olmsted,2.08095315815244,"Acres/1,000 pop",27109.0,1953
+Minnesota,Otter Tail,27.379809789721666,"Acres/1,000 pop",27111.0,1954
+Minnesota,Pennington,nan,"Acres/1,000 pop",27113.0,1956
+Minnesota,Pine,2.4301752464403066,"Acres/1,000 pop",27115.0,1957
+Minnesota,Pipestone,4.156453159970159,"Acres/1,000 pop",27117.0,1958
+Minnesota,Polk,114.80199434723237,"Acres/1,000 pop",27119.0,1959
+Minnesota,Pope,1.3746334310850439,"Acres/1,000 pop",27121.0,1961
+Minnesota,Ramsey,0.3836650757354859,"Acres/1,000 pop",27123.0,1964
+Minnesota,Red Lake,nan,"Acres/1,000 pop",27125.0,1966
+Minnesota,Redwood,0.7562866326337682,"Acres/1,000 pop",27127.0,1969
+Minnesota,Renville,31.325301204819276,"Acres/1,000 pop",27129.0,1971
+Minnesota,Rice,3.1135275802778937,"Acres/1,000 pop",27131.0,1973
+Minnesota,Rock,1.36068662340381,"Acres/1,000 pop",27133.0,1974
+Minnesota,Roseau,nan,"Acres/1,000 pop",27135.0,1976
+Minnesota,St. Louis,0.5439583198175494,"Acres/1,000 pop",27137.0,1978
+Minnesota,Scott,nan,"Acres/1,000 pop",27139.0,1979
+Minnesota,Sherburne,36.44687622131651,"Acres/1,000 pop",27141.0,1980
+Minnesota,Sibley,9.530743265603283,"Acres/1,000 pop",27143.0,1982
+Minnesota,Stearns,3.929247179974025,"Acres/1,000 pop",27145.0,1984
+Minnesota,Steele,0.5784805244890089,"Acres/1,000 pop",27147.0,1985
+Minnesota,Stevens,nan,"Acres/1,000 pop",27149.0,1987
+Minnesota,Swift,nan,"Acres/1,000 pop",27151.0,1988
+Minnesota,Todd,nan,"Acres/1,000 pop",27153.0,1989
+Minnesota,Traverse,nan,"Acres/1,000 pop",27155.0,1990
+Minnesota,Wabasha,24.75710014947683,"Acres/1,000 pop",27157.0,1991
+Minnesota,Wadena,182.5217200846901,"Acres/1,000 pop",27159.0,1992
+Minnesota,Waseca,0.7297748123436196,"Acres/1,000 pop",27161.0,1993
+Minnesota,Washington,4.218925361885491,"Acres/1,000 pop",27163.0,1994
+Minnesota,Watonwan,0.6292134831460674,"Acres/1,000 pop",27165.0,1996
+Minnesota,Wilkin,0.4535833081342607,"Acres/1,000 pop",27167.0,1997
+Minnesota,Winona,3.6213543086328412,"Acres/1,000 pop",27169.0,1998
+Minnesota,Wright,nan,"Acres/1,000 pop",27171.0,1999
+Minnesota,Yellow Medicine,0.7875566056310298,"Acres/1,000 pop",27173.0,1531
+Mississippi,Adams,nan,"Acres/1,000 pop",28001.0,1534
+Mississippi,Alcorn,0.2685789487819945,"Acres/1,000 pop",28003.0,1538
+Mississippi,Amite,1.773870121857165,"Acres/1,000 pop",28005.0,1539
+Mississippi,Attala,0.36643459142543056,"Acres/1,000 pop",28007.0,1541
+Mississippi,Benton,2.19678575557868,"Acres/1,000 pop",28009.0,1544
+Mississippi,Bolivar,nan,"Acres/1,000 pop",28011.0,1547
+Mississippi,Calhoun,743.3807181836556,"Acres/1,000 pop",28013.0,1548
+Mississippi,Carroll,6.251202154260435,"Acres/1,000 pop",28015.0,1549
+Mississippi,Chickasaw,177.81982911864213,"Acres/1,000 pop",28017.0,1550
+Mississippi,Choctaw,nan,"Acres/1,000 pop",28019.0,1552
+Mississippi,Claiborne,2.026882867505867,"Acres/1,000 pop",28021.0,1555
+Mississippi,Clarke,1.4544573056178411,"Acres/1,000 pop",28023.0,1557
+Mississippi,Clay,0.7361601884570081,"Acres/1,000 pop",28025.0,1559
+Mississippi,Coahoma,nan,"Acres/1,000 pop",28027.0,1562
+Mississippi,Copiah,nan,"Acres/1,000 pop",28029.0,1564
+Mississippi,Covington,7.67773967344014,"Acres/1,000 pop",28031.0,1567
+Mississippi,DeSoto,nan,"Acres/1,000 pop",28033.0,1571
+Mississippi,Forrest,2.137420498383902,"Acres/1,000 pop",28035.0,1572
+Mississippi,Franklin,1.1411182959300115,"Acres/1,000 pop",28037.0,1575
+Mississippi,George,11.576602158053385,"Acres/1,000 pop",28039.0,1577
+Mississippi,Greene,54.80506754392104,"Acres/1,000 pop",28041.0,1579
+Mississippi,Grenada,2.3146004999537078,"Acres/1,000 pop",28043.0,1581
+Mississippi,Hancock,nan,"Acres/1,000 pop",28045.0,1583
+Mississippi,Harrison,0.242643262777491,"Acres/1,000 pop",28047.0,1587
+Mississippi,Hinds,1.1564140687643292,"Acres/1,000 pop",28049.0,1591
+Mississippi,Holmes,6.350705925576024,"Acres/1,000 pop",28051.0,1593
+Mississippi,Humphreys,nan,"Acres/1,000 pop",28053.0,1596
+Mississippi,Issaquena,0.0,"Acres/1,000 pop",28055.0,1598
+Mississippi,Itawamba,nan,"Acres/1,000 pop",28057.0,1601
+Mississippi,Jackson,0.30001071466838103,"Acres/1,000 pop",28059.0,1605
+Mississippi,Jasper,1.269726101940867,"Acres/1,000 pop",28061.0,1607
+Mississippi,Jefferson,47.3326359832636,"Acres/1,000 pop",28063.0,1610
+Mississippi,Jefferson Davis,7.285371305571653,"Acres/1,000 pop",28065.0,1612
+Mississippi,Jones,3.324351238943237,"Acres/1,000 pop",28067.0,1615
+Mississippi,Kemper,nan,"Acres/1,000 pop",28069.0,1616
+Mississippi,Lafayette,5.1412350874406965,"Acres/1,000 pop",28071.0,1620
+Mississippi,Lamar,1.279103935837381,"Acres/1,000 pop",28073.0,1623
+Mississippi,Lauderdale,0.9591191051543311,"Acres/1,000 pop",28075.0,1628
+Mississippi,Lawrence,3.8080126933756446,"Acres/1,000 pop",28077.0,1632
+Mississippi,Leake,nan,"Acres/1,000 pop",28079.0,1636
+Mississippi,Lee,0.24684102262709373,"Acres/1,000 pop",28081.0,1638
+Mississippi,Leflore,0.633813975598162,"Acres/1,000 pop",28083.0,1643
+Mississippi,Lincoln,1.5789171499110064,"Acres/1,000 pop",28085.0,1645
+Mississippi,Lowndes,nan,"Acres/1,000 pop",28087.0,1647
+Mississippi,Madison,0.12184225489399723,"Acres/1,000 pop",28089.0,1651
+Mississippi,Marion,1.4035353918519082,"Acres/1,000 pop",28091.0,1653
+Mississippi,Marshall,15.069467235532217,"Acres/1,000 pop",28093.0,1655
+Mississippi,Monroe,nan,"Acres/1,000 pop",28095.0,1656
+Mississippi,Montgomery,1.8939393939393938,"Acres/1,000 pop",28097.0,1658
+Mississippi,Neshoba,1.2801509230561918,"Acres/1,000 pop",28099.0,1661
+Mississippi,Newton,nan,"Acres/1,000 pop",28101.0,1663
+Mississippi,Noxubee,3.6705461056401076,"Acres/1,000 pop",28103.0,1666
+Mississippi,Oktibbeha,0.6535947712418301,"Acres/1,000 pop",28105.0,1668
+Mississippi,Panola,2.4689206459858255,"Acres/1,000 pop",28107.0,1671
+Mississippi,Pearl River,1.4159163520185885,"Acres/1,000 pop",28109.0,1676
+Mississippi,Perry,10.675273088381331,"Acres/1,000 pop",28111.0,1679
+Mississippi,Pike,0.7484843192535116,"Acres/1,000 pop",28113.0,1680
+Mississippi,Pontotoc,20.16474464579901,"Acres/1,000 pop",28115.0,1682
+Mississippi,Prentiss,nan,"Acres/1,000 pop",28117.0,1684
+Mississippi,Quitman,3.333760738556225,"Acres/1,000 pop",28119.0,1685
+Mississippi,Rankin,0.4053311349271778,"Acres/1,000 pop",28121.0,1690
+Mississippi,Scott,2.159368473220291,"Acres/1,000 pop",28123.0,1692
+Mississippi,Sharkey,0.0,"Acres/1,000 pop",28125.0,1695
+Mississippi,Simpson,5.699254712845243,"Acres/1,000 pop",28127.0,1698
+Mississippi,Smith,nan,"Acres/1,000 pop",28129.0,1709
+Mississippi,Stone,nan,"Acres/1,000 pop",28131.0,1712
+Mississippi,Sunflower,nan,"Acres/1,000 pop",28133.0,1721
+Mississippi,Tallahatchie,2.186444046909163,"Acres/1,000 pop",28135.0,1725
+Mississippi,Tate,nan,"Acres/1,000 pop",28137.0,1727
+Mississippi,Tippah,2.2771781208726147,"Acres/1,000 pop",28139.0,1730
+Mississippi,Tishomingo,nan,"Acres/1,000 pop",28141.0,1732
+Mississippi,Tunica,0.0,"Acres/1,000 pop",28143.0,1735
+Mississippi,Union,0.9867339107553996,"Acres/1,000 pop",28145.0,1737
+Mississippi,Walthall,1.5896145184792687,"Acres/1,000 pop",28147.0,1740
+Mississippi,Warren,0.08312033746857013,"Acres/1,000 pop",28149.0,1746
+Mississippi,Washington,nan,"Acres/1,000 pop",28151.0,1750
+Mississippi,Wayne,3.248642358417378,"Acres/1,000 pop",28153.0,1753
+Mississippi,Webster,99.6816553919618,"Acres/1,000 pop",28155.0,1756
+Mississippi,Wilkinson,nan,"Acres/1,000 pop",28157.0,1757
+Mississippi,Winston,5.429625724828677,"Acres/1,000 pop",28159.0,1758
+Mississippi,Yalobusha,6.31119022574642,"Acres/1,000 pop",28161.0,1759
+Mississippi,Yazoo,0.7429683353971342,"Acres/1,000 pop",28163.0,1760
+Missouri,Adair,nan,"Acres/1,000 pop",29001.0,1761
+Missouri,Andrew,8.740152952676672,"Acres/1,000 pop",29003.0,1762
+Missouri,Atchison,0.0,"Acres/1,000 pop",29005.0,1763
+Missouri,Audrain,nan,"Acres/1,000 pop",29007.0,1766
+Missouri,Barry,nan,"Acres/1,000 pop",29009.0,1767
+Missouri,Barton,12.231672742000809,"Acres/1,000 pop",29011.0,1771
+Missouri,Bates,4.851461427886918,"Acres/1,000 pop",29013.0,1776
+Missouri,Benton,nan,"Acres/1,000 pop",29015.0,1778
+Missouri,Bollinger,1.0482180293501049,"Acres/1,000 pop",29017.0,1781
+Missouri,Boone,0.41486398387957096,"Acres/1,000 pop",29019.0,1783
+Missouri,Buchanan,nan,"Acres/1,000 pop",29021.0,1789
+Missouri,Butler,nan,"Acres/1,000 pop",29023.0,1792
+Missouri,Caldwell,0.3292000438933392,"Acres/1,000 pop",29025.0,1795
+Missouri,Callaway,nan,"Acres/1,000 pop",29027.0,1799
+Missouri,Camden,nan,"Acres/1,000 pop",29029.0,1803
+Missouri,Cape Girardeau,0.15559964212082314,"Acres/1,000 pop",29031.0,1808
+Missouri,Carroll,1.2085255987695012,"Acres/1,000 pop",29033.0,1822
+Missouri,Carter,2.235350471020278,"Acres/1,000 pop",29035.0,1001
+Missouri,Cass,nan,"Acres/1,000 pop",29037.0,1004
+Missouri,Cedar,nan,"Acres/1,000 pop",29039.0,1007
+Missouri,Chariton,nan,"Acres/1,000 pop",29041.0,1011
+Missouri,Christian,0.17554198588140885,"Acres/1,000 pop",29043.0,1014
+Missouri,Clark,nan,"Acres/1,000 pop",29045.0,1015
+Missouri,Clay,nan,"Acres/1,000 pop",29047.0,1018
+Missouri,Clinton,nan,"Acres/1,000 pop",29049.0,1021
+Missouri,Cole,0.5499901787468081,"Acres/1,000 pop",29051.0,1022
+Missouri,Cooper,nan,"Acres/1,000 pop",29053.0,1025
+Missouri,Crawford,0.2421502946161918,"Acres/1,000 pop",29055.0,1028
+Missouri,Dade,1.7193492924216374,"Acres/1,000 pop",29057.0,1030
+Missouri,Dallas,7.092198581560284,"Acres/1,000 pop",29059.0,1032
+Missouri,Daviess,nan,"Acres/1,000 pop",29061.0,1036
+Missouri,DeKalb,nan,"Acres/1,000 pop",29063.0,1038
+Missouri,Dent,1.664319549353476,"Acres/1,000 pop",29065.0,1040
+Missouri,Douglas,nan,"Acres/1,000 pop",29067.0,1043
+Missouri,Dunklin,nan,"Acres/1,000 pop",29069.0,1045
+Missouri,Franklin,1.7562380985269308,"Acres/1,000 pop",29071.0,1047
+Missouri,Gasconade,3.802535023348899,"Acres/1,000 pop",29073.0,1049
+Missouri,Gentry,2.791654422568322,"Acres/1,000 pop",29075.0,1052
+Missouri,Greene,0.07837353539455731,"Acres/1,000 pop",29077.0,1054
+Missouri,Grundy,nan,"Acres/1,000 pop",29079.0,1057
+Missouri,Harrison,nan,"Acres/1,000 pop",29081.0,1058
+Missouri,Henry,2.1214172872940646,"Acres/1,000 pop",29083.0,1061
+Missouri,Hickory,nan,"Acres/1,000 pop",29085.0,1063
+Missouri,Holt,nan,"Acres/1,000 pop",29087.0,1065
+Missouri,Howard,nan,"Acres/1,000 pop",29089.0,1068
+Missouri,Howell,nan,"Acres/1,000 pop",29091.0,1070
+Missouri,Iron,nan,"Acres/1,000 pop",29093.0,1072
+Missouri,Jackson,0.14611295269187288,"Acres/1,000 pop",29095.0,1074
+Missouri,Jasper,0.15594812125832805,"Acres/1,000 pop",29097.0,1078
+Missouri,Jefferson,nan,"Acres/1,000 pop",29099.0,1082
+Missouri,Johnson,1.2668686312310657,"Acres/1,000 pop",29101.0,1087
+Missouri,Knox,3.4254954734524103,"Acres/1,000 pop",29103.0,1091
+Missouri,Laclede,nan,"Acres/1,000 pop",29105.0,1096
+Missouri,Lafayette,0.4531174480425326,"Acres/1,000 pop",29107.0,1099
+Missouri,Lawrence,0.7813110399249942,"Acres/1,000 pop",29109.0,1101
+Missouri,Lewis,nan,"Acres/1,000 pop",29111.0,1104
+Missouri,Lincoln,nan,"Acres/1,000 pop",29113.0,1106
+Missouri,Linn,0.5608524957936063,"Acres/1,000 pop",29115.0,1109
+Missouri,Livingston,nan,"Acres/1,000 pop",29117.0,1112
+Missouri,McDonald,4.276301435615482,"Acres/1,000 pop",29119.0,1113
+Missouri,Macon,nan,"Acres/1,000 pop",29121.0,1116
+Missouri,Madison,0.0,"Acres/1,000 pop",29123.0,1117
+Missouri,Maries,3.426929029405262,"Acres/1,000 pop",29125.0,1120
+Missouri,Marion,nan,"Acres/1,000 pop",29127.0,1122
+Missouri,Mercer,nan,"Acres/1,000 pop",29129.0,1125
+Missouri,Miller,0.0,"Acres/1,000 pop",29131.0,1128
+Missouri,Mississippi,64.34466358931319,"Acres/1,000 pop",29133.0,1131
+Missouri,Moniteau,10.009563277016257,"Acres/1,000 pop",29135.0,1135
+Missouri,Monroe,nan,"Acres/1,000 pop",29137.0,1139
+Missouri,Montgomery,1.6641704110500914,"Acres/1,000 pop",29139.0,1142
+Missouri,Morgan,3.9239060249341877,"Acres/1,000 pop",29141.0,1146
+Missouri,New Madrid,nan,"Acres/1,000 pop",29143.0,1149
+Missouri,Newton,nan,"Acres/1,000 pop",29145.0,1152
+Missouri,Nodaway,nan,"Acres/1,000 pop",29147.0,1156
+Missouri,Oregon,nan,"Acres/1,000 pop",29149.0,1158
+Missouri,Osage,nan,"Acres/1,000 pop",29151.0,1164
+Missouri,Ozark,nan,"Acres/1,000 pop",29153.0,1168
+Missouri,Pemiscot,nan,"Acres/1,000 pop",29155.0,1170
+Missouri,Perry,1.522549482858193,"Acres/1,000 pop",29157.0,1172
+Missouri,Pettis,0.14188422247446086,"Acres/1,000 pop",29159.0,1174
+Missouri,Phelps,0.0,"Acres/1,000 pop",29161.0,1176
+Missouri,Pike,nan,"Acres/1,000 pop",29163.0,1179
+Missouri,Platte,nan,"Acres/1,000 pop",29165.0,1181
+Missouri,Polk,1.8340948580989769,"Acres/1,000 pop",29167.0,1183
+Missouri,Pulaski,0.5805134735304582,"Acres/1,000 pop",29169.0,1185
+Missouri,Putnam,0.0,"Acres/1,000 pop",29171.0,1188
+Missouri,Ralls,nan,"Acres/1,000 pop",29173.0,1191
+Missouri,Randolph,0.5531629064759571,"Acres/1,000 pop",29175.0,1194
+Missouri,Ray,3.2967509651672233,"Acres/1,000 pop",29177.0,1197
+Missouri,Reynolds,nan,"Acres/1,000 pop",29179.0,1200
+Missouri,Ripley,0.0,"Acres/1,000 pop",29181.0,1203
+Missouri,St. Charles,nan,"Acres/1,000 pop",29183.0,1205
+Missouri,St. Clair,5.993060666596572,"Acres/1,000 pop",29185.0,1208
+Missouri,Ste. Genevieve,nan,"Acres/1,000 pop",29186.0,1209
+Missouri,St. Francois,nan,"Acres/1,000 pop",29187.0,1212
+Missouri,St. Louis County,nan,"Acres/1,000 pop",29189.0,1216
+Missouri,Saline,1.6615541922290387,"Acres/1,000 pop",29195.0,1218
+Missouri,Schuyler,nan,"Acres/1,000 pop",29197.0,1221
+Missouri,Scotland,2.2504091653027825,"Acres/1,000 pop",29199.0,1224
+Missouri,Scott,nan,"Acres/1,000 pop",29201.0,1227
+Missouri,Shannon,nan,"Acres/1,000 pop",29203.0,1229
+Missouri,Shelby,0.4810776138550353,"Acres/1,000 pop",29205.0,1232
+Missouri,Stoddard,1.0726376831026045,"Acres/1,000 pop",29207.0,1236
+Missouri,Stone,nan,"Acres/1,000 pop",29209.0,1237
+Missouri,Sullivan,0.4571080298643913,"Acres/1,000 pop",29211.0,1240
+Missouri,Taney,0.07548309178743962,"Acres/1,000 pop",29213.0,1242
+Missouri,Texas,nan,"Acres/1,000 pop",29215.0,1245
+Missouri,Vernon,42.09613717368269,"Acres/1,000 pop",29217.0,1248
+Missouri,Warren,5.428318745997378,"Acres/1,000 pop",29219.0,1251
+Missouri,Washington,nan,"Acres/1,000 pop",29221.0,1253
+Missouri,Wayne,nan,"Acres/1,000 pop",29223.0,1256
+Missouri,Webster,1.1286681715575622,"Acres/1,000 pop",29225.0,1258
+Missouri,Worth,0.0,"Acres/1,000 pop",29227.0,1261
+Missouri,Wright,0.7522432969749073,"Acres/1,000 pop",29229.0,1263
+Missouri,St. Louis City,nan,"Acres/1,000 pop",29510.0,1266
+Montana,Beaverhead,96.13945032616832,"Acres/1,000 pop",30001.0,1269
+Montana,Big Horn,nan,"Acres/1,000 pop",30003.0,1274
+Montana,Blaine,1.2042751768779167,"Acres/1,000 pop",30005.0,1124
+Montana,Broadwater,nan,"Acres/1,000 pop",30007.0,1132
+Montana,Carbon,nan,"Acres/1,000 pop",30009.0,1137
+Montana,Carter,nan,"Acres/1,000 pop",30011.0,1141
+Montana,Cascade,nan,"Acres/1,000 pop",30013.0,1144
+Montana,Chouteau,nan,"Acres/1,000 pop",30015.0,1150
+Montana,Custer,nan,"Acres/1,000 pop",30017.0,1153
+Montana,Daniels,0.0,"Acres/1,000 pop",30019.0,1157
+Montana,Dawson,nan,"Acres/1,000 pop",30021.0,1160
+Montana,Deer Lodge,0.0,"Acres/1,000 pop",30023.0,1163
+Montana,Fallon,0.0,"Acres/1,000 pop",30025.0,1165
+Montana,Fergus,nan,"Acres/1,000 pop",30027.0,1169
+Montana,Flathead,3.132640586797066,"Acres/1,000 pop",30029.0,1173
+Montana,Gallatin,44.51403887688985,"Acres/1,000 pop",30031.0,1177
+Montana,Garfield,0.0,"Acres/1,000 pop",30033.0,1182
+Montana,Glacier,nan,"Acres/1,000 pop",30035.0,1186
+Montana,Golden Valley,0.0,"Acres/1,000 pop",30037.0,1189
+Montana,Granite,0.0,"Acres/1,000 pop",30039.0,1192
+Montana,Hill,nan,"Acres/1,000 pop",30041.0,1195
+Montana,Jefferson,nan,"Acres/1,000 pop",30043.0,1199
+Montana,Judith Basin,nan,"Acres/1,000 pop",30045.0,1202
+Montana,Lake,47.47631352282515,"Acres/1,000 pop",30047.0,1207
+Montana,Lewis and Clark,nan,"Acres/1,000 pop",30049.0,1211
+Montana,Liberty,10.012515644555695,"Acres/1,000 pop",30051.0,1214
+Montana,Lincoln,0.8214395728514221,"Acres/1,000 pop",30053.0,1219
+Montana,McCone,nan,"Acres/1,000 pop",30055.0,1223
+Montana,Madison,123.26816004143468,"Acres/1,000 pop",30057.0,1226
+Montana,Meagher,0.0,"Acres/1,000 pop",30059.0,1231
+Montana,Mineral,0.0,"Acres/1,000 pop",30061.0,1234
+Montana,Missoula,0.4501381924250745,"Acres/1,000 pop",30063.0,1239
+Montana,Musselshell,nan,"Acres/1,000 pop",30065.0,1241
+Montana,Park,0.9631437010401952,"Acres/1,000 pop",30067.0,1244
+Montana,Petroleum,0.0,"Acres/1,000 pop",30069.0,1247
+Montana,Phillips,nan,"Acres/1,000 pop",30071.0,1250
+Montana,Pondera,nan,"Acres/1,000 pop",30073.0,1254
+Montana,Powder River,0.0,"Acres/1,000 pop",30075.0,1259
+Montana,Powell,0.0,"Acres/1,000 pop",30077.0,1262
+Montana,Prairie,nan,"Acres/1,000 pop",30079.0,1264
+Montana,Ravalli,1.92,"Acres/1,000 pop",30081.0,1268
+Montana,Richland,nan,"Acres/1,000 pop",30083.0,1271
+Montana,Roosevelt,0.0,"Acres/1,000 pop",30085.0,1275
+Montana,Rosebud,0.746985380428983,"Acres/1,000 pop",30087.0,1277
+Montana,Sanders,2.638290387828687,"Acres/1,000 pop",30089.0,1278
+Montana,Sheridan,nan,"Acres/1,000 pop",30091.0,1281
+Montana,Silver Bow,0.0,"Acres/1,000 pop",30093.0,1284
+Montana,Stillwater,0.0,"Acres/1,000 pop",30095.0,1286
+Montana,Sweet Grass,0.0,"Acres/1,000 pop",30097.0,1288
+Montana,Teton,6.095551894563426,"Acres/1,000 pop",30099.0,1290
+Montana,Toole,0.0,"Acres/1,000 pop",30101.0,1292
+Montana,Treasure,0.0,"Acres/1,000 pop",30103.0,1293
+Montana,Valley,0.0,"Acres/1,000 pop",30105.0,1296
+Montana,Wheatland,9.047619047619047,"Acres/1,000 pop",30107.0,1298
+Montana,Wibaux,nan,"Acres/1,000 pop",30109.0,1300
+Montana,Yellowstone,nan,"Acres/1,000 pop",30111.0,1302
+Nebraska,Adams,0.4778896393526188,"Acres/1,000 pop",31001.0,1303
+Nebraska,Antelope,0.0,"Acres/1,000 pop",31003.0,1305
+Nebraska,Arthur,0.0,"Acres/1,000 pop",31005.0,1307
+Nebraska,Banner,0.0,"Acres/1,000 pop",31007.0,1308
+Nebraska,Blaine,0.0,"Acres/1,000 pop",31009.0,1309
+Nebraska,Boone,0.0,"Acres/1,000 pop",31011.0,1310
+Nebraska,Box Butte,nan,"Acres/1,000 pop",31013.0,1315
+Nebraska,Boyd,0.0,"Acres/1,000 pop",31015.0,1317
+Nebraska,Brown,0.0,"Acres/1,000 pop",31017.0,1319
+Nebraska,Buffalo,0.902318749344245,"Acres/1,000 pop",31019.0,1321
+Nebraska,Burt,nan,"Acres/1,000 pop",31021.0,1323
+Nebraska,Butler,7.462686567164179,"Acres/1,000 pop",31023.0,1325
+Nebraska,Cass,nan,"Acres/1,000 pop",31025.0,1326
+Nebraska,Cedar,0.3425439598081754,"Acres/1,000 pop",31027.0,1329
+Nebraska,Chase,nan,"Acres/1,000 pop",31029.0,1330
+Nebraska,Cherry,nan,"Acres/1,000 pop",31031.0,1333
+Nebraska,Cheyenne,0.0,"Acres/1,000 pop",31033.0,1334
+Nebraska,Clay,nan,"Acres/1,000 pop",31035.0,1336
+Nebraska,Colfax,0.0,"Acres/1,000 pop",31037.0,1338
+Nebraska,Cuming,nan,"Acres/1,000 pop",31039.0,1340
+Nebraska,Custer,1.5755329008341057,"Acres/1,000 pop",31041.0,1342
+Nebraska,Dakota,0.9618621651517338,"Acres/1,000 pop",31043.0,1344
+Nebraska,Dawes,nan,"Acres/1,000 pop",31045.0,1347
+Nebraska,Dawson,0.33257119102057786,"Acres/1,000 pop",31047.0,1349
+Nebraska,Deuel,0.0,"Acres/1,000 pop",31049.0,1351
+Nebraska,Dixon,nan,"Acres/1,000 pop",31051.0,1353
+Nebraska,Dodge,1.9647973802701595,"Acres/1,000 pop",31053.0,1354
+Nebraska,Douglas,0.5888395158347035,"Acres/1,000 pop",31055.0,1358
+Nebraska,Dundy,nan,"Acres/1,000 pop",31057.0,1360
+Nebraska,Fillmore,1.221427325074158,"Acres/1,000 pop",31059.0,1363
+Nebraska,Franklin,0.0,"Acres/1,000 pop",31061.0,1369
+Nebraska,Frontier,0.0,"Acres/1,000 pop",31063.0,1371
+Nebraska,Furnas,nan,"Acres/1,000 pop",31065.0,1374
+Nebraska,Gage,1.2416076519819739,"Acres/1,000 pop",31067.0,1378
+Nebraska,Garden,0.0,"Acres/1,000 pop",31069.0,1381
+Nebraska,Garfield,0.0,"Acres/1,000 pop",31071.0,1391
+Nebraska,Gosper,nan,"Acres/1,000 pop",31073.0,1393
+Nebraska,Grant,0.0,"Acres/1,000 pop",31075.0,1395
+Nebraska,Greeley,0.0,"Acres/1,000 pop",31077.0,1397
+Nebraska,Hall,0.09944806324896822,"Acres/1,000 pop",31079.0,1402
+Nebraska,Hamilton,0.2217049107637734,"Acres/1,000 pop",31081.0,1405
+Nebraska,Harlan,1.756440281030445,"Acres/1,000 pop",31083.0,1409
+Nebraska,Hayes,nan,"Acres/1,000 pop",31085.0,1411
+Nebraska,Hitchcock,0.6934812760055479,"Acres/1,000 pop",31087.0,1414
+Nebraska,Holt,nan,"Acres/1,000 pop",31089.0,1416
+Nebraska,Hooker,0.0,"Acres/1,000 pop",31091.0,1418
+Nebraska,Howard,47.08306911857958,"Acres/1,000 pop",31093.0,1311
+Nebraska,Jefferson,0.0,"Acres/1,000 pop",31095.0,1312
+Nebraska,Johnson,0.1936108422071636,"Acres/1,000 pop",31097.0,1313
+Nebraska,Kearney,1.0744435917114352,"Acres/1,000 pop",31099.0,1314
+Nebraska,Keith,nan,"Acres/1,000 pop",31101.0,1316
+Nebraska,Keya Paha,nan,"Acres/1,000 pop",31103.0,1318
+Nebraska,Kimball,0.0,"Acres/1,000 pop",31105.0,1320
+Nebraska,Knox,0.23293733985557885,"Acres/1,000 pop",31107.0,1322
+Nebraska,Lancaster,0.3950630738631719,"Acres/1,000 pop",31109.0,1324
+Nebraska,Lincoln,nan,"Acres/1,000 pop",31111.0,1327
+Nebraska,Logan,nan,"Acres/1,000 pop",31113.0,1328
+Nebraska,Loup,0.0,"Acres/1,000 pop",31115.0,1331
+Nebraska,McPherson,0.0,"Acres/1,000 pop",31117.0,1332
+Nebraska,Madison,2.6199629787839953,"Acres/1,000 pop",31119.0,1335
+Nebraska,Merrick,nan,"Acres/1,000 pop",31121.0,1337
+Nebraska,Morrill,nan,"Acres/1,000 pop",31123.0,1339
+Nebraska,Nance,0.0,"Acres/1,000 pop",31125.0,1341
+Nebraska,Nemaha,0.6948304613674263,"Acres/1,000 pop",31127.0,1343
+Nebraska,Nuckolls,nan,"Acres/1,000 pop",31129.0,1345
+Nebraska,Otoe,1.4598540145985401,"Acres/1,000 pop",31131.0,1348
+Nebraska,Pawnee,1.8005041411595246,"Acres/1,000 pop",31133.0,1350
+Nebraska,Perkins,0.3402517863218782,"Acres/1,000 pop",31135.0,1352
+Nebraska,Phelps,nan,"Acres/1,000 pop",31137.0,1355
+Nebraska,Pierce,1.6736401673640167,"Acres/1,000 pop",31139.0,1356
+Nebraska,Platte,nan,"Acres/1,000 pop",31141.0,1359
+Nebraska,Polk,nan,"Acres/1,000 pop",31143.0,1362
+Nebraska,Red Willow,nan,"Acres/1,000 pop",31145.0,1364
+Nebraska,Richardson,0.6032090722644469,"Acres/1,000 pop",31147.0,1365
+Nebraska,Rock,0.0,"Acres/1,000 pop",31149.0,1366
+Nebraska,Saline,nan,"Acres/1,000 pop",31151.0,1367
+Nebraska,Sarpy,0.5365486058779201,"Acres/1,000 pop",31153.0,1368
+Nebraska,Saunders,25.11525163273146,"Acres/1,000 pop",31155.0,1370
+Nebraska,Scotts Bluff,0.21672581475360986,"Acres/1,000 pop",31157.0,1373
+Nebraska,Seward,nan,"Acres/1,000 pop",31159.0,1375
+Nebraska,Sheridan,nan,"Acres/1,000 pop",31161.0,1376
+Nebraska,Sherman,nan,"Acres/1,000 pop",31163.0,1377
+Nebraska,Sioux,5.29500756429652,"Acres/1,000 pop",31165.0,1380
+Nebraska,Stanton,5.244182235332677,"Acres/1,000 pop",31167.0,1382
+Nebraska,Thayer,nan,"Acres/1,000 pop",31169.0,1383
+Nebraska,Thomas,0.0,"Acres/1,000 pop",31171.0,1384
+Nebraska,Thurston,nan,"Acres/1,000 pop",31173.0,1385
+Nebraska,Valley,0.0,"Acres/1,000 pop",31175.0,1386
+Nebraska,Washington,2.562333694688085,"Acres/1,000 pop",31177.0,1387
+Nebraska,Wayne,nan,"Acres/1,000 pop",31179.0,1388
+Nebraska,Webster,0.0,"Acres/1,000 pop",31181.0,1389
+Nebraska,Wheeler,0.0,"Acres/1,000 pop",31183.0,1390
+Nebraska,York,nan,"Acres/1,000 pop",31185.0,1392
+Nevada,Churchill,nan,"Acres/1,000 pop",32001.0,1396
+Nevada,Clark,0.121108755662585,"Acres/1,000 pop",32003.0,1399
+Nevada,Douglas,nan,"Acres/1,000 pop",32005.0,1400
+Nevada,Elko,0.9979258795444762,"Acres/1,000 pop",32007.0,1401
+Nevada,Esmeralda,0.0,"Acres/1,000 pop",32009.0,1404
+Nevada,Eureka,0.0,"Acres/1,000 pop",32011.0,1406
+Nevada,Humboldt,nan,"Acres/1,000 pop",32013.0,1407
+Nevada,Lander,nan,"Acres/1,000 pop",32015.0,1408
+Nevada,Lincoln,nan,"Acres/1,000 pop",32017.0,1410
+Nevada,Lyon,nan,"Acres/1,000 pop",32019.0,1412
+Nevada,Mineral,0.0,"Acres/1,000 pop",32021.0,1415
+Nevada,Nye,nan,"Acres/1,000 pop",32023.0,1417
+Nevada,Pershing,0.0,"Acres/1,000 pop",32027.0,1419
+Nevada,Storey,0.0,"Acres/1,000 pop",32029.0,1420
+Nevada,Washoe,1.081149093722112,"Acres/1,000 pop",32031.0,1423
+Nevada,White Pine,nan,"Acres/1,000 pop",32033.0,1425
+Nevada,Carson City,0.0,"Acres/1,000 pop",32510.0,1428
+New Hampshire,Belknap,nan,"Acres/1,000 pop",33001.0,1432
+New Hampshire,Carroll,nan,"Acres/1,000 pop",33003.0,1435
+New Hampshire,Cheshire,3.7518075114312883,"Acres/1,000 pop",33005.0,1437
+New Hampshire,Coos,nan,"Acres/1,000 pop",33007.0,1440
+New Hampshire,Grafton,nan,"Acres/1,000 pop",33009.0,1442
+New Hampshire,Hillsborough,3.0473796756912486,"Acres/1,000 pop",33011.0,1443
+New Hampshire,Merrimack,4.524209623980352,"Acres/1,000 pop",33013.0,1444
+New Hampshire,Rockingham,1.8332174981617462,"Acres/1,000 pop",33015.0,1448
+New Hampshire,Strafford,1.7653100526383363,"Acres/1,000 pop",33017.0,1453
+New Hampshire,Sullivan,3.6588472315494522,"Acres/1,000 pop",33019.0,1454
+New Jersey,Atlantic,nan,"Acres/1,000 pop",34001.0,1461
+New Jersey,Bergen,0.07717340973863214,"Acres/1,000 pop",34003.0,1465
+New Jersey,Burlington,7.694575014349763,"Acres/1,000 pop",34005.0,1470
+New Jersey,Camden,nan,"Acres/1,000 pop",34007.0,1472
+New Jersey,Cape May,nan,"Acres/1,000 pop",34009.0,1477
+New Jersey,Cumberland,57.15481649194239,"Acres/1,000 pop",34011.0,1482
+New Jersey,Essex,nan,"Acres/1,000 pop",34013.0,1483
+New Jersey,Gloucester,19.80539764392394,"Acres/1,000 pop",34015.0,1484
+New Jersey,Hudson,0.0,"Acres/1,000 pop",34017.0,1487
+New Jersey,Hunterdon,nan,"Acres/1,000 pop",34019.0,1488
+New Jersey,Mercer,nan,"Acres/1,000 pop",34021.0,1493
+New Jersey,Middlesex,1.6443578879459835,"Acres/1,000 pop",34023.0,1497
+New Jersey,Monmouth,2.7246353773397445,"Acres/1,000 pop",34025.0,1504
+New Jersey,Morris,nan,"Acres/1,000 pop",34027.0,1511
+New Jersey,Ocean,1.2194449802959737,"Acres/1,000 pop",34029.0,1546
+New Jersey,Passaic,0.1998448728907462,"Acres/1,000 pop",34031.0,1551
+New Jersey,Salem,100.99610088948458,"Acres/1,000 pop",34033.0,1553
+New Jersey,Somerset,0.7089091318449284,"Acres/1,000 pop",34035.0,1558
+New Jersey,Sussex,nan,"Acres/1,000 pop",34037.0,1561
+New Jersey,Union,nan,"Acres/1,000 pop",34039.0,1566
+New Jersey,Warren,15.994346184604513,"Acres/1,000 pop",34041.0,1570
+New Mexico,Bernalillo,0.24221782366542438,"Acres/1,000 pop",35001.0,1574
+New Mexico,Catron,2.195992314026901,"Acres/1,000 pop",35003.0,1576
+New Mexico,Chaves,0.7600401301188703,"Acres/1,000 pop",35005.0,1578
+New Mexico,Cibola,0.9147791723078049,"Acres/1,000 pop",35006.0,1580
+New Mexico,Colfax,0.0,"Acres/1,000 pop",35007.0,1582
+New Mexico,Curry,nan,"Acres/1,000 pop",35009.0,1586
+New Mexico,De Baca,nan,"Acres/1,000 pop",35011.0,1589
+New Mexico,Doña Ana,23.215251739511633,"Acres/1,000 pop",35013.0,1590
+New Mexico,Eddy,nan,"Acres/1,000 pop",35015.0,1592
+New Mexico,Grant,0.7159660427534008,"Acres/1,000 pop",35017.0,1594
+New Mexico,Guadalupe,nan,"Acres/1,000 pop",35019.0,1595
+New Mexico,Harding,0.0,"Acres/1,000 pop",35021.0,1597
+New Mexico,Hidalgo,39.490179690764734,"Acres/1,000 pop",35023.0,1600
+New Mexico,Lea,nan,"Acres/1,000 pop",35025.0,1604
+New Mexico,Lincoln,0.0,"Acres/1,000 pop",35027.0,1613
+New Mexico,Los Alamos,0.0,"Acres/1,000 pop",35028.0,1618
+New Mexico,Luna,105.4926591190943,"Acres/1,000 pop",35029.0,1622
+New Mexico,McKinley,1.705428488907838,"Acres/1,000 pop",35031.0,1626
+New Mexico,Mora,1.496365968362548,"Acres/1,000 pop",35033.0,1629
+New Mexico,Otero,nan,"Acres/1,000 pop",35035.0,1633
+New Mexico,Quay,nan,"Acres/1,000 pop",35037.0,1637
+New Mexico,Rio Arriba,7.77717040202753,"Acres/1,000 pop",35039.0,1639
+New Mexico,Roosevelt,37.80727630285153,"Acres/1,000 pop",35041.0,1642
+New Mexico,Sandoval,1.7725651233040616,"Acres/1,000 pop",35043.0,1646
+New Mexico,San Juan,nan,"Acres/1,000 pop",35045.0,1650
+New Mexico,San Miguel,0.6889899407468651,"Acres/1,000 pop",35047.0,1652
+New Mexico,Santa Fe,1.626505200716209,"Acres/1,000 pop",35049.0,1654
+New Mexico,Sierra,22.731099511702308,"Acres/1,000 pop",35051.0,1657
+New Mexico,Socorro,nan,"Acres/1,000 pop",35053.0,1659
+New Mexico,Taos,2.771855010660981,"Acres/1,000 pop",35055.0,1662
+New Mexico,Torrance,nan,"Acres/1,000 pop",35057.0,1664
+New Mexico,Union,nan,"Acres/1,000 pop",35059.0,1667
+New Mexico,Valencia,0.8085761235295652,"Acres/1,000 pop",35061.0,1670
+New York,Albany,2.2289740518701517,"Acres/1,000 pop",36001.0,1673
+New York,Allegany,nan,"Acres/1,000 pop",36003.0,1674
+New York,Bronx,0.0,"Acres/1,000 pop",36005.0,1681
+New York,Broome,nan,"Acres/1,000 pop",36007.0,1683
+New York,Cattaraugus,2.909942934885303,"Acres/1,000 pop",36009.0,1687
+New York,Cayuga,51.54859201787754,"Acres/1,000 pop",36011.0,1689
+New York,Chautauqua,nan,"Acres/1,000 pop",36013.0,1694
+New York,Chemung,1.5905552381912476,"Acres/1,000 pop",36015.0,1696
+New York,Chenango,5.213346166185435,"Acres/1,000 pop",36017.0,1699
+New York,Clinton,6.181058597901372,"Acres/1,000 pop",36019.0,1702
+New York,Columbia,9.512238013780754,"Acres/1,000 pop",36021.0,1704
+New York,Cortland,nan,"Acres/1,000 pop",36023.0,1706
+New York,Delaware,4.627868644605046,"Acres/1,000 pop",36025.0,1707
+New York,Dutchess,3.384128906381404,"Acres/1,000 pop",36027.0,1711
+New York,Erie,3.110499320427061,"Acres/1,000 pop",36029.0,1723
+New York,Essex,5.112605127942944,"Acres/1,000 pop",36031.0,1728
+New York,Franklin,nan,"Acres/1,000 pop",36033.0,1731
+New York,Fulton,nan,"Acres/1,000 pop",36035.0,1734
+New York,Genesee,81.98446504635429,"Acres/1,000 pop",36037.0,1736
+New York,Greene,nan,"Acres/1,000 pop",36039.0,1739
+New York,Hamilton,3.3382015439182138,"Acres/1,000 pop",36041.0,1742
+New York,Herkimer,nan,"Acres/1,000 pop",36043.0,1745
+New York,Jefferson,2.268737786904249,"Acres/1,000 pop",36045.0,1782
+New York,Kings,0.0015540027614629071,"Acres/1,000 pop",36047.0,1788
+New York,Lewis,2.715197769134806,"Acres/1,000 pop",36049.0,1790
+New York,Livingston,19.57791857435755,"Acres/1,000 pop",36051.0,1791
+New York,Madison,10.06952107702494,"Acres/1,000 pop",36053.0,1796
+New York,Monroe,6.835036305287605,"Acres/1,000 pop",36055.0,1804
+New York,Montgomery,6.9038874505790035,"Acres/1,000 pop",36057.0,1807
+New York,Nassau,nan,"Acres/1,000 pop",36059.0,1839
+New York,New York,0.0,"Acres/1,000 pop",36061.0,1847
+New York,Niagara,nan,"Acres/1,000 pop",36063.0,1850
+New York,Oneida,3.8163861003200976,"Acres/1,000 pop",36065.0,1852
+New York,Onondaga,3.5488832462334563,"Acres/1,000 pop",36067.0,1853
+New York,Ontario,19.45861482604899,"Acres/1,000 pop",36069.0,1856
+New York,Orange,15.215519776700015,"Acres/1,000 pop",36071.0,1859
+New York,Orleans,282.53549647978525,"Acres/1,000 pop",36073.0,1862
+New York,Oswego,19.6591320369822,"Acres/1,000 pop",36075.0,1864
+New York,Otsego,3.6230711998188463,"Acres/1,000 pop",36077.0,1868
+New York,Putnam,nan,"Acres/1,000 pop",36079.0,1870
+New York,Queens,nan,"Acres/1,000 pop",36081.0,1872
+New York,Rensselaer,9.25229898017991,"Acres/1,000 pop",36083.0,1874
+New York,Richmond,0.0,"Acres/1,000 pop",36085.0,1876
+New York,Rockland,nan,"Acres/1,000 pop",36087.0,1879
+New York,St. Lawrence,4.200897020293974,"Acres/1,000 pop",36089.0,1883
+New York,Saratoga,1.496420723404829,"Acres/1,000 pop",36091.0,1885
+New York,Schenectady,nan,"Acres/1,000 pop",36093.0,1887
+New York,Schoharie,25.443547129805744,"Acres/1,000 pop",36095.0,1888
+New York,Schuyler,nan,"Acres/1,000 pop",36097.0,1889
+New York,Seneca,nan,"Acres/1,000 pop",36099.0,1890
+New York,Steuben,8.517165519607646,"Acres/1,000 pop",36101.0,1891
+New York,Suffolk,3.7906641395572405,"Acres/1,000 pop",36103.0,1924
+New York,Sullivan,1.62430479754665,"Acres/1,000 pop",36105.0,1928
+New York,Tioga,4.922783754813609,"Acres/1,000 pop",36107.0,1930
+New York,Tompkins,nan,"Acres/1,000 pop",36109.0,1933
+New York,Ulster,14.644823167747292,"Acres/1,000 pop",36111.0,1935
+New York,Warren,0.7031381360725149,"Acres/1,000 pop",36113.0,1938
+New York,Washington,12.261861328341874,"Acres/1,000 pop",36115.0,1942
+New York,Wayne,47.313931861917716,"Acres/1,000 pop",36117.0,1952
+New York,Westchester,nan,"Acres/1,000 pop",36119.0,1960
+New York,Wyoming,14.087881546791893,"Acres/1,000 pop",36121.0,1962
+New York,Yates,23.44275927612561,"Acres/1,000 pop",36123.0,1965
+North Carolina,Alamance,1.0531653469594726,"Acres/1,000 pop",37001.0,1967
+North Carolina,Alexander,nan,"Acres/1,000 pop",37003.0,1968
+North Carolina,Alleghany,nan,"Acres/1,000 pop",37005.0,1970
+North Carolina,Anson,1.861631396983397,"Acres/1,000 pop",37007.0,1972
+North Carolina,Ashe,9.798504438796185,"Acres/1,000 pop",37009.0,1975
+North Carolina,Avery,nan,"Acres/1,000 pop",37011.0,1977
+North Carolina,Beaufort,2.967983665565075,"Acres/1,000 pop",37013.0,1981
+North Carolina,Bertie,9.956773034144447,"Acres/1,000 pop",37015.0,1983
+North Carolina,Bladen,nan,"Acres/1,000 pop",37017.0,1986
+North Carolina,Brunswick,nan,"Acres/1,000 pop",37019.0,1995
+North Carolina,Buncombe,2.874186773008848,"Acres/1,000 pop",37021.0,1422
+North Carolina,Burke,1.2445135840880048,"Acres/1,000 pop",37023.0,1424
+North Carolina,Cabarrus,nan,"Acres/1,000 pop",37025.0,1426
+North Carolina,Caldwell,1.4160329105579903,"Acres/1,000 pop",37027.0,1429
+North Carolina,Camden,nan,"Acres/1,000 pop",37029.0,1433
+North Carolina,Carteret,nan,"Acres/1,000 pop",37031.0,1447
+North Carolina,Caswell,5.092352839634041,"Acres/1,000 pop",37033.0,1449
+North Carolina,Catawba,1.902924938025489,"Acres/1,000 pop",37035.0,1450
+North Carolina,Chatham,1.8396886212978165,"Acres/1,000 pop",37037.0,1451
+North Carolina,Cherokee,nan,"Acres/1,000 pop",37039.0,1452
+North Carolina,Chowan,126.90975758810347,"Acres/1,000 pop",37041.0,1455
+North Carolina,Clay,14.90578419424393,"Acres/1,000 pop",37043.0,1457
+North Carolina,Cleveland,nan,"Acres/1,000 pop",37045.0,1458
+North Carolina,Columbus,46.02931980824012,"Acres/1,000 pop",37047.0,1459
+North Carolina,Craven,nan,"Acres/1,000 pop",37049.0,1462
+North Carolina,Cumberland,nan,"Acres/1,000 pop",37051.0,1464
+North Carolina,Currituck,4.868508655126498,"Acres/1,000 pop",37053.0,1481
+North Carolina,Dare,0.0,"Acres/1,000 pop",37055.0,1485
+North Carolina,Davidson,2.476821840064581,"Acres/1,000 pop",37057.0,1489
+North Carolina,Davie,nan,"Acres/1,000 pop",37059.0,1490
+North Carolina,Duplin,67.2036244651397,"Acres/1,000 pop",37061.0,1492
+North Carolina,Durham,nan,"Acres/1,000 pop",37063.0,1494
+North Carolina,Edgecombe,21.458688436350588,"Acres/1,000 pop",37065.0,1495
+North Carolina,Forsyth,0.6565731352624476,"Acres/1,000 pop",37067.0,1496
+North Carolina,Franklin,2.1108693534244796,"Acres/1,000 pop",37069.0,1498
+North Carolina,Gaston,nan,"Acres/1,000 pop",37071.0,1499
+North Carolina,Gates,nan,"Acres/1,000 pop",37073.0,1500
+North Carolina,Graham,2.067777139574957,"Acres/1,000 pop",37075.0,1502
+North Carolina,Granville,nan,"Acres/1,000 pop",37077.0,1503
+North Carolina,Greene,nan,"Acres/1,000 pop",37079.0,1505
+North Carolina,Guilford,nan,"Acres/1,000 pop",37081.0,1506
+North Carolina,Halifax,11.385762234131326,"Acres/1,000 pop",37083.0,1508
+North Carolina,Harnett,12.557572584405705,"Acres/1,000 pop",37085.0,1509
+North Carolina,Haywood,7.58748575219884,"Acres/1,000 pop",37087.0,1512
+North Carolina,Henderson,14.461376190079662,"Acres/1,000 pop",37089.0,1514
+North Carolina,Hertford,31.071940971510557,"Acres/1,000 pop",37091.0,1515
+North Carolina,Hoke,nan,"Acres/1,000 pop",37093.0,1517
+North Carolina,Hyde,600.2093144950288,"Acres/1,000 pop",37095.0,1521
+North Carolina,Iredell,0.823227296742723,"Acres/1,000 pop",37097.0,1525
+North Carolina,Jackson,nan,"Acres/1,000 pop",37099.0,1528
+North Carolina,Johnston,56.8038807404526,"Acres/1,000 pop",37101.0,1530
+North Carolina,Jones,nan,"Acres/1,000 pop",37103.0,1536
+North Carolina,Lee,1.3644403267918808,"Acres/1,000 pop",37105.0,1540
+North Carolina,Lenoir,19.8843461499442,"Acres/1,000 pop",37107.0,1542
+North Carolina,Lincoln,2.064257943593835,"Acres/1,000 pop",37109.0,1545
+North Carolina,McDowell,0.8450265738619938,"Acres/1,000 pop",37111.0,1554
+North Carolina,Macon,2.984986405012413,"Acres/1,000 pop",37113.0,1556
+North Carolina,Madison,8.238337005460293,"Acres/1,000 pop",37115.0,1560
+North Carolina,Martin,nan,"Acres/1,000 pop",37117.0,1563
+North Carolina,Mecklenburg,0.08364070431668642,"Acres/1,000 pop",37119.0,1565
+North Carolina,Mitchell,2.926829268292683,"Acres/1,000 pop",37121.0,1568
+North Carolina,Montgomery,10.487108089538205,"Acres/1,000 pop",37123.0,1573
+North Carolina,Moore,nan,"Acres/1,000 pop",37125.0,1584
+North Carolina,Nash,77.91716970237783,"Acres/1,000 pop",37127.0,1588
+North Carolina,New Hanover,0.21986530860007936,"Acres/1,000 pop",37129.0,1602
+North Carolina,Northampton,3.5206308970567526,"Acres/1,000 pop",37131.0,1606
+North Carolina,Onslow,nan,"Acres/1,000 pop",37133.0,1625
+North Carolina,Orange,1.1114178204588048,"Acres/1,000 pop",37135.0,1630
+North Carolina,Pamlico,0.2301849152152229,"Acres/1,000 pop",37137.0,1703
+North Carolina,Pasquotank,55.26075474492188,"Acres/1,000 pop",37139.0,1714
+North Carolina,Pender,5.401692901692901,"Acres/1,000 pop",37141.0,1718
+North Carolina,Perquimans,nan,"Acres/1,000 pop",37143.0,1724
+North Carolina,Person,nan,"Acres/1,000 pop",37145.0,1729
+North Carolina,Pitt,0.8385186555943651,"Acres/1,000 pop",37147.0,1733
+North Carolina,Polk,nan,"Acres/1,000 pop",37149.0,1738
+North Carolina,Randolph,2.3336238648185117,"Acres/1,000 pop",37151.0,1741
+North Carolina,Richmond,nan,"Acres/1,000 pop",37153.0,1744
+North Carolina,Robeson,3.708574045891757,"Acres/1,000 pop",37155.0,1747
+North Carolina,Rockingham,1.4452425634720334,"Acres/1,000 pop",37157.0,1751
+North Carolina,Rowan,nan,"Acres/1,000 pop",37159.0,1754
+North Carolina,Rutherford,2.157641771944705,"Acres/1,000 pop",37161.0,1764
+North Carolina,Sampson,225.48942896042314,"Acres/1,000 pop",37163.0,1769
+North Carolina,Scotland,0.7194443675807299,"Acres/1,000 pop",37165.0,1772
+North Carolina,Stanly,nan,"Acres/1,000 pop",37167.0,1775
+North Carolina,Stokes,5.624345073886358,"Acres/1,000 pop",37169.0,1777
+North Carolina,Surry,4.202709319405908,"Acres/1,000 pop",37171.0,1780
+North Carolina,Swain,1.845542305508234,"Acres/1,000 pop",37173.0,1784
+North Carolina,Transylvania,8.045101325613286,"Acres/1,000 pop",37175.0,1786
+North Carolina,Tyrrell,52.453468697123526,"Acres/1,000 pop",37177.0,1794
+North Carolina,Union,nan,"Acres/1,000 pop",37179.0,1798
+North Carolina,Vance,2.3083923379131246,"Acres/1,000 pop",37181.0,1801
+North Carolina,Wake,1.1831076995431336,"Acres/1,000 pop",37183.0,1805
+North Carolina,Warren,nan,"Acres/1,000 pop",37185.0,1809
+North Carolina,Washington,nan,"Acres/1,000 pop",37187.0,1811
+North Carolina,Watauga,2.4975984630163306,"Acres/1,000 pop",37189.0,1813
+North Carolina,Wayne,19.68421728934434,"Acres/1,000 pop",37191.0,1814
+North Carolina,Wilkes,0.8956301914048393,"Acres/1,000 pop",37193.0,1817
+North Carolina,Wilson,59.308455338250226,"Acres/1,000 pop",37195.0,1819
+North Carolina,Yadkin,0.9969828151646333,"Acres/1,000 pop",37197.0,1821
+North Carolina,Yancey,6.301447629860914,"Acres/1,000 pop",37199.0,1823
+North Dakota,Adams,0.0,"Acres/1,000 pop",38001.0,1826
+North Dakota,Barnes,nan,"Acres/1,000 pop",38003.0,1828
+North Dakota,Benson,0.7387706855791962,"Acres/1,000 pop",38005.0,1831
+North Dakota,Billings,nan,"Acres/1,000 pop",38007.0,1833
+North Dakota,Bottineau,nan,"Acres/1,000 pop",38009.0,1836
+North Dakota,Bowman,0.0,"Acres/1,000 pop",38011.0,1838
+North Dakota,Burke,nan,"Acres/1,000 pop",38013.0,1841
+North Dakota,Burleigh,nan,"Acres/1,000 pop",38015.0,1844
+North Dakota,Cass,0.07618612269775062,"Acres/1,000 pop",38017.0,1848
+North Dakota,Cavalier,2.2831050228310503,"Acres/1,000 pop",38019.0,1849
+North Dakota,Dickey,13.907410935416271,"Acres/1,000 pop",38021.0,2004
+North Dakota,Divide,0.0,"Acres/1,000 pop",38023.0,2007
+North Dakota,Dunn,nan,"Acres/1,000 pop",38025.0,2013
+North Dakota,Eddy,nan,"Acres/1,000 pop",38027.0,2017
+North Dakota,Emmons,nan,"Acres/1,000 pop",38029.0,2021
+North Dakota,Foster,nan,"Acres/1,000 pop",38031.0,2026
+North Dakota,Golden Valley,0.0,"Acres/1,000 pop",38033.0,2036
+North Dakota,Grand Forks,50.18535202114933,"Acres/1,000 pop",38035.0,2043
+North Dakota,Grant,nan,"Acres/1,000 pop",38037.0,2051
+North Dakota,Griggs,0.0,"Acres/1,000 pop",38039.0,2056
+North Dakota,Hettinger,0.0,"Acres/1,000 pop",38041.0,2063
+North Dakota,Kidder,nan,"Acres/1,000 pop",38043.0,2068
+North Dakota,LaMoure,nan,"Acres/1,000 pop",38045.0,2074
+North Dakota,Logan,0.0,"Acres/1,000 pop",38047.0,2078
+North Dakota,McHenry,nan,"Acres/1,000 pop",38049.0,2082
+North Dakota,McIntosh,5.077983315197678,"Acres/1,000 pop",38051.0,2090
+North Dakota,McKenzie,nan,"Acres/1,000 pop",38053.0,2097
+North Dakota,McLean,1.1737089201877935,"Acres/1,000 pop",38055.0,2103
+North Dakota,Mercer,nan,"Acres/1,000 pop",38057.0,2107
+North Dakota,Morton,1.2837886028100705,"Acres/1,000 pop",38059.0,2114
+North Dakota,Mountrail,0.0,"Acres/1,000 pop",38061.0,2119
+North Dakota,Nelson,0.0,"Acres/1,000 pop",38063.0,2122
+North Dakota,Oliver,nan,"Acres/1,000 pop",38065.0,2127
+North Dakota,Pembina,1301.4736262222834,"Acres/1,000 pop",38067.0,2131
+North Dakota,Pierce,0.0,"Acres/1,000 pop",38069.0,2136
+North Dakota,Ramsey,nan,"Acres/1,000 pop",38071.0,2141
+North Dakota,Ransom,nan,"Acres/1,000 pop",38073.0,2147
+North Dakota,Renville,0.0,"Acres/1,000 pop",38075.0,2150
+North Dakota,Richland,nan,"Acres/1,000 pop",38077.0,2156
+North Dakota,Rolette,nan,"Acres/1,000 pop",38079.0,2161
+North Dakota,Sargent,nan,"Acres/1,000 pop",38081.0,2164
+North Dakota,Sheridan,0.0,"Acres/1,000 pop",38083.0,2169
+North Dakota,Sioux,0.0,"Acres/1,000 pop",38085.0,2175
+North Dakota,Slope,0.0,"Acres/1,000 pop",38087.0,2180
+North Dakota,Stark,0.1856596487319446,"Acres/1,000 pop",38089.0,2182
+North Dakota,Steele,nan,"Acres/1,000 pop",38091.0,2186
+North Dakota,Stutsman,nan,"Acres/1,000 pop",38093.0,2199
+North Dakota,Towner,nan,"Acres/1,000 pop",38095.0,2205
+North Dakota,Traill,116.92498450092995,"Acres/1,000 pop",38097.0,2217
+North Dakota,Walsh,902.4346094669202,"Acres/1,000 pop",38099.0,2225
+North Dakota,Ward,nan,"Acres/1,000 pop",38101.0,2233
+North Dakota,Wells,0.0,"Acres/1,000 pop",38103.0,2237
+North Dakota,Williams,nan,"Acres/1,000 pop",38105.0,2244
+Ohio,Adams,1.3049305212668407,"Acres/1,000 pop",39001.0,2248
+Ohio,Allen,nan,"Acres/1,000 pop",39003.0,2250
+Ohio,Ashland,4.339005973177054,"Acres/1,000 pop",39005.0,2254
+Ohio,Ashtabula,nan,"Acres/1,000 pop",39007.0,2259
+Ohio,Athens,nan,"Acres/1,000 pop",39009.0,2266
+Ohio,Auglaize,nan,"Acres/1,000 pop",39011.0,2273
+Ohio,Belmont,1.3641977081478502,"Acres/1,000 pop",39013.0,2278
+Ohio,Brown,1.756796324241537,"Acres/1,000 pop",39015.0,2282
+Ohio,Butler,nan,"Acres/1,000 pop",39017.0,2286
+Ohio,Carroll,nan,"Acres/1,000 pop",39019.0,2289
+Ohio,Champaign,nan,"Acres/1,000 pop",39021.0,2291
+Ohio,Clark,nan,"Acres/1,000 pop",39023.0,2300
+Ohio,Clermont,0.5320163419359373,"Acres/1,000 pop",39025.0,2306
+Ohio,Clinton,nan,"Acres/1,000 pop",39027.0,2310
+Ohio,Columbiana,2.0480829755451375,"Acres/1,000 pop",39029.0,2315
+Ohio,Coshocton,nan,"Acres/1,000 pop",39031.0,2317
+Ohio,Crawford,0.9339902398019941,"Acres/1,000 pop",39033.0,2323
+Ohio,Cuyahoga,nan,"Acres/1,000 pop",39035.0,2332
+Ohio,Darke,nan,"Acres/1,000 pop",39037.0,2345
+Ohio,Defiance,0.30902348578491967,"Acres/1,000 pop",39039.0,2350
+Ohio,Delaware,0.5576197916379115,"Acres/1,000 pop",39041.0,2352
+Ohio,Erie,7.153693241263863,"Acres/1,000 pop",39043.0,2357
+Ohio,Fairfield,1.6611295681063123,"Acres/1,000 pop",39045.0,2365
+Ohio,Fayette,0.4854873946665742,"Acres/1,000 pop",39047.0,2368
+Ohio,Franklin,0.13108567325434795,"Acres/1,000 pop",39049.0,2375
+Ohio,Fulton,5.487388427027154,"Acres/1,000 pop",39051.0,2378
+Ohio,Gallia,4.250072997436979,"Acres/1,000 pop",39053.0,2383
+Ohio,Geauga,4.314983112967323,"Acres/1,000 pop",39055.0,2390
+Ohio,Greene,1.04629871828407,"Acres/1,000 pop",39057.0,2393
+Ohio,Guernsey,1.381007382112188,"Acres/1,000 pop",39059.0,2399
+Ohio,Hamilton,0.1919443211901545,"Acres/1,000 pop",39061.0,2411
+Ohio,Hancock,nan,"Acres/1,000 pop",39063.0,2427
+Ohio,Hardin,1.0430494974397875,"Acres/1,000 pop",39065.0,2432
+Ohio,Harrison,nan,"Acres/1,000 pop",39067.0,2440
+Ohio,Henry,33.69785915292274,"Acres/1,000 pop",39069.0,2451
+Ohio,Highland,nan,"Acres/1,000 pop",39071.0,2457
+Ohio,Hocking,nan,"Acres/1,000 pop",39073.0,2461
+Ohio,Holmes,nan,"Acres/1,000 pop",39075.0,2464
+Ohio,Huron,69.3192939826533,"Acres/1,000 pop",39077.0,2468
+Ohio,Jackson,3.6468621790001516,"Acres/1,000 pop",39079.0,2472
+Ohio,Jefferson,0.5267932921654132,"Acres/1,000 pop",39081.0,2476
+Ohio,Knox,2.2366581695584244,"Acres/1,000 pop",39083.0,2479
+Ohio,Lake,0.8807960303133366,"Acres/1,000 pop",39085.0,2493
+Ohio,Lawrence,1.5615441578930422,"Acres/1,000 pop",39087.0,2499
+Ohio,Licking,1.496479398069482,"Acres/1,000 pop",39089.0,2504
+Ohio,Logan,nan,"Acres/1,000 pop",39091.0,2510
+Ohio,Lorain,nan,"Acres/1,000 pop",39093.0,2516
+Ohio,Lucas,nan,"Acres/1,000 pop",39095.0,2520
+Ohio,Madison,2.8871452187478175,"Acres/1,000 pop",39097.0,2529
+Ohio,Mahoning,nan,"Acres/1,000 pop",39099.0,2534
+Ohio,Marion,0.2415604807053566,"Acres/1,000 pop",39101.0,2541
+Ohio,Medina,2.188007416193558,"Acres/1,000 pop",39103.0,2545
+Ohio,Meigs,nan,"Acres/1,000 pop",39105.0,2549
+Ohio,Mercer,1.0528635439876595,"Acres/1,000 pop",39107.0,2552
+Ohio,Miami,nan,"Acres/1,000 pop",39109.0,2558
+Ohio,Monroe,nan,"Acres/1,000 pop",39111.0,2565
+Ohio,Montgomery,nan,"Acres/1,000 pop",39113.0,2573
+Ohio,Morgan,1.336987766561936,"Acres/1,000 pop",39115.0,2000
+Ohio,Morrow,3.4603065660032026,"Acres/1,000 pop",39117.0,2006
+Ohio,Muskingum,1.9796676487370883,"Acres/1,000 pop",39119.0,2010
+Ohio,Noble,1.0975442447523667,"Acres/1,000 pop",39121.0,2012
+Ohio,Ottawa,27.62524492609884,"Acres/1,000 pop",39123.0,2019
+Ohio,Paulding,0.15561780267662623,"Acres/1,000 pop",39125.0,2024
+Ohio,Perry,nan,"Acres/1,000 pop",39127.0,2027
+Ohio,Pickaway,nan,"Acres/1,000 pop",39129.0,2031
+Ohio,Pike,nan,"Acres/1,000 pop",39131.0,2034
+Ohio,Portage,nan,"Acres/1,000 pop",39133.0,2038
+Ohio,Preble,nan,"Acres/1,000 pop",39135.0,2039
+Ohio,Putnam,1.9890019890019888,"Acres/1,000 pop",39137.0,2040
+Ohio,Richland,nan,"Acres/1,000 pop",39139.0,2042
+Ohio,Ross,nan,"Acres/1,000 pop",39141.0,2045
+Ohio,Sandusky,20.092863398271618,"Acres/1,000 pop",39143.0,2047
+Ohio,Scioto,1.1067998218942814,"Acres/1,000 pop",39145.0,2048
+Ohio,Seneca,nan,"Acres/1,000 pop",39147.0,2049
+Ohio,Shelby,0.8956743002544529,"Acres/1,000 pop",39149.0,2052
+Ohio,Stark,2.2598297256988262,"Acres/1,000 pop",39151.0,2054
+Ohio,Summit,1.5743026504456827,"Acres/1,000 pop",39153.0,2057
+Ohio,Trumbull,0.7521733470267455,"Acres/1,000 pop",39155.0,2061
+Ohio,Tuscarawas,0.5729667787375271,"Acres/1,000 pop",39157.0,2065
+Ohio,Union,nan,"Acres/1,000 pop",39159.0,2067
+Ohio,Van Wert,1.1491050908837663,"Acres/1,000 pop",39161.0,2071
+Ohio,Vinton,0.7555723460521345,"Acres/1,000 pop",39163.0,2075
+Ohio,Warren,1.3134388676871076,"Acres/1,000 pop",39165.0,2076
+Ohio,Washington,nan,"Acres/1,000 pop",39167.0,2080
+Ohio,Wayne,nan,"Acres/1,000 pop",39169.0,2084
+Ohio,Williams,15.7136389059046,"Acres/1,000 pop",39171.0,2087
+Ohio,Wood,5.1771583153247,"Acres/1,000 pop",39173.0,2091
+Ohio,Wyandot,0.531020444287105,"Acres/1,000 pop",39175.0,2093
+Oklahoma,Adair,3.144936651990296,"Acres/1,000 pop",40001.0,2095
+Oklahoma,Alfalfa,0.0,"Acres/1,000 pop",40003.0,2099
+Oklahoma,Atoka,7.5855159582081,"Acres/1,000 pop",40005.0,2102
+Oklahoma,Beaver,nan,"Acres/1,000 pop",40007.0,2104
+Oklahoma,Beckham,0.0,"Acres/1,000 pop",40009.0,2106
+Oklahoma,Blaine,nan,"Acres/1,000 pop",40011.0,2110
+Oklahoma,Bryan,0.36831564650905824,"Acres/1,000 pop",40013.0,2112
+Oklahoma,Caddo,nan,"Acres/1,000 pop",40015.0,2118
+Oklahoma,Canadian,0.23661107666198886,"Acres/1,000 pop",40017.0,2123
+Oklahoma,Carter,nan,"Acres/1,000 pop",40019.0,2126
+Oklahoma,Cherokee,0.5201614581165994,"Acres/1,000 pop",40021.0,2129
+Oklahoma,Choctaw,nan,"Acres/1,000 pop",40023.0,2133
+Oklahoma,Cimarron,nan,"Acres/1,000 pop",40025.0,2135
+Oklahoma,Cleveland,0.14269995831659113,"Acres/1,000 pop",40027.0,2140
+Oklahoma,Coal,3.217067389095835,"Acres/1,000 pop",40029.0,2144
+Oklahoma,Comanche,nan,"Acres/1,000 pop",40031.0,2145
+Oklahoma,Cotton,3.5801464605370223,"Acres/1,000 pop",40033.0,2146
+Oklahoma,Craig,2.784758541058208,"Acres/1,000 pop",40035.0,2148
+Oklahoma,Creek,0.3951119013349138,"Acres/1,000 pop",40037.0,2151
+Oklahoma,Custer,nan,"Acres/1,000 pop",40039.0,2153
+Oklahoma,Delaware,1.6915158398376144,"Acres/1,000 pop",40041.0,2154
+Oklahoma,Dewey,0.0,"Acres/1,000 pop",40043.0,2158
+Oklahoma,Ellis,nan,"Acres/1,000 pop",40045.0,2165
+Oklahoma,Garfield,nan,"Acres/1,000 pop",40047.0,2167
+Oklahoma,Garvin,4.289799809342231,"Acres/1,000 pop",40049.0,2176
+Oklahoma,Grady,3.0719939690915945,"Acres/1,000 pop",40051.0,2184
+Oklahoma,Grant,0.0,"Acres/1,000 pop",40053.0,2187
+Oklahoma,Greer,0.0,"Acres/1,000 pop",40055.0,2189
+Oklahoma,Harmon,0.0,"Acres/1,000 pop",40057.0,2191
+Oklahoma,Harper,0.0,"Acres/1,000 pop",40059.0,2193
+Oklahoma,Haskell,0.0,"Acres/1,000 pop",40061.0,2195
+Oklahoma,Hughes,5.51004132530994,"Acres/1,000 pop",40063.0,2197
+Oklahoma,Jackson,nan,"Acres/1,000 pop",40065.0,2202
+Oklahoma,Jefferson,20.05685407454201,"Acres/1,000 pop",40067.0,2206
+Oklahoma,Johnston,2.7319916218923597,"Acres/1,000 pop",40069.0,2211
+Oklahoma,Kay,0.17508918605414633,"Acres/1,000 pop",40071.0,2215
+Oklahoma,Kingfisher,nan,"Acres/1,000 pop",40073.0,2219
+Oklahoma,Kiowa,0.0,"Acres/1,000 pop",40075.0,2222
+Oklahoma,Latimer,1.461988304093567,"Acres/1,000 pop",40077.0,2226
+Oklahoma,Le Flore,nan,"Acres/1,000 pop",40079.0,2230
+Oklahoma,Lincoln,0.40920118083769325,"Acres/1,000 pop",40081.0,2234
+Oklahoma,Logan,0.5953062392673154,"Acres/1,000 pop",40083.0,2236
+Oklahoma,Love,nan,"Acres/1,000 pop",40085.0,2238
+Oklahoma,McClain,3.4282181695562985,"Acres/1,000 pop",40087.0,2245
+Oklahoma,McCurtain,3.7019201829892254,"Acres/1,000 pop",40089.0,2252
+Oklahoma,McIntosh,0.7797270955165693,"Acres/1,000 pop",40091.0,2258
+Oklahoma,Major,4.694223497196505,"Acres/1,000 pop",40093.0,2260
+Oklahoma,Marshall,0.6284960090503425,"Acres/1,000 pop",40095.0,2265
+Oklahoma,Mayes,nan,"Acres/1,000 pop",40097.0,2270
+Oklahoma,Murray,nan,"Acres/1,000 pop",40099.0,2276
+Oklahoma,Muskogee,nan,"Acres/1,000 pop",40101.0,2281
+Oklahoma,Noble,0.0,"Acres/1,000 pop",40103.0,2287
+Oklahoma,Nowata,nan,"Acres/1,000 pop",40105.0,2290
+Oklahoma,Okfuskee,12.851797624857653,"Acres/1,000 pop",40107.0,2297
+Oklahoma,Oklahoma,nan,"Acres/1,000 pop",40109.0,2303
+Oklahoma,Okmulgee,1.3125678370396547,"Acres/1,000 pop",40111.0,2311
+Oklahoma,Osage,0.43738154249890654,"Acres/1,000 pop",40113.0,2318
+Oklahoma,Ottawa,0.12415034606908966,"Acres/1,000 pop",40115.0,2325
+Oklahoma,Pawnee,nan,"Acres/1,000 pop",40117.0,2329
+Oklahoma,Payne,0.38212179495344484,"Acres/1,000 pop",40119.0,2340
+Oklahoma,Pittsburg,0.48772917728955595,"Acres/1,000 pop",40121.0,2344
+Oklahoma,Pontotoc,0.4732358817961931,"Acres/1,000 pop",40123.0,2351
+Oklahoma,Pottawatomie,1.1176345759354884,"Acres/1,000 pop",40125.0,2356
+Oklahoma,Pushmataha,0.6235524674861928,"Acres/1,000 pop",40127.0,2362
+Oklahoma,Roger Mills,0.0,"Acres/1,000 pop",40129.0,2369
+Oklahoma,Rogers,0.2827414612078715,"Acres/1,000 pop",40131.0,2374
+Oklahoma,Seminole,0.2747899819423726,"Acres/1,000 pop",40133.0,2384
+Oklahoma,Sequoyah,nan,"Acres/1,000 pop",40135.0,2391
+Oklahoma,Stephens,0.1783166904422254,"Acres/1,000 pop",40137.0,2396
+Oklahoma,Texas,nan,"Acres/1,000 pop",40139.0,2003
+Oklahoma,Tillman,nan,"Acres/1,000 pop",40141.0,2005
+Oklahoma,Tulsa,nan,"Acres/1,000 pop",40143.0,2008
+Oklahoma,Wagoner,1.373003812418353,"Acres/1,000 pop",40145.0,2014
+Oklahoma,Washington,0.0,"Acres/1,000 pop",40147.0,2018
+Oklahoma,Washita,nan,"Acres/1,000 pop",40149.0,2023
+Oklahoma,Woods,0.0,"Acres/1,000 pop",40151.0,2029
+Oklahoma,Woodward,0.678820791311094,"Acres/1,000 pop",40153.0,2035
+Oregon,Baker,1.6263213861262276,"Acres/1,000 pop",41001.0,2044
+Oregon,Benton,3.1003806064251918,"Acres/1,000 pop",41003.0,2053
+Oregon,Clackamas,6.36690150212969,"Acres/1,000 pop",41005.0,2058
+Oregon,Clatsop,nan,"Acres/1,000 pop",41007.0,2064
+Oregon,Columbia,0.6297613001523615,"Acres/1,000 pop",41009.0,2070
+Oregon,Coos,nan,"Acres/1,000 pop",41011.0,2083
+Oregon,Crook,0.435814246283473,"Acres/1,000 pop",41013.0,2092
+Oregon,Curry,0.6745514233035033,"Acres/1,000 pop",41015.0,2098
+Oregon,Deschutes,0.4760462197602458,"Acres/1,000 pop",41017.0,2109
+Oregon,Douglas,3.528522221288751,"Acres/1,000 pop",41019.0,2115
+Oregon,Gilliam,0.0,"Acres/1,000 pop",41021.0,2121
+Oregon,Grant,nan,"Acres/1,000 pop",41023.0,2130
+Oregon,Harney,0.5522573519259975,"Acres/1,000 pop",41025.0,2134
+Oregon,Hood River,nan,"Acres/1,000 pop",41027.0,2138
+Oregon,Jackson,1.875581575682382,"Acres/1,000 pop",41029.0,2139
+Oregon,Jefferson,nan,"Acres/1,000 pop",41031.0,2143
+Oregon,Josephine,2.814315565701586,"Acres/1,000 pop",41033.0,2152
+Oregon,Klamath,66.93902254501437,"Acres/1,000 pop",41035.0,2155
+Oregon,Lake,1.15547567081782,"Acres/1,000 pop",41037.0,2159
+Oregon,Lane,2.670539465892107,"Acres/1,000 pop",41039.0,2170
+Oregon,Lincoln,0.4332192522635706,"Acres/1,000 pop",41041.0,2174
+Oregon,Linn,17.5652041669835,"Acres/1,000 pop",41043.0,2181
+Oregon,Malheur,246.5041819132253,"Acres/1,000 pop",41045.0,2185
+Oregon,Marion,8.298301270530873,"Acres/1,000 pop",41047.0,2200
+Oregon,Morrow,544.1111012196208,"Acres/1,000 pop",41049.0,2209
+Oregon,Multnomah,1.92971109656327,"Acres/1,000 pop",41051.0,2218
+Oregon,Polk,6.593608263639462,"Acres/1,000 pop",41053.0,2223
+Oregon,Sherman,0.0,"Acres/1,000 pop",41055.0,2232
+Oregon,Tillamook,1.4997237351014285,"Acres/1,000 pop",41057.0,2242
+Oregon,Umatilla,141.54449989602827,"Acres/1,000 pop",41059.0,2251
+Oregon,Union,nan,"Acres/1,000 pop",41061.0,2257
+Oregon,Wallowa,nan,"Acres/1,000 pop",41063.0,2263
+Oregon,Wasco,nan,"Acres/1,000 pop",41065.0,2267
+Oregon,Washington,2.0951504931268845,"Acres/1,000 pop",41067.0,2272
+Oregon,Wheeler,nan,"Acres/1,000 pop",41069.0,2277
+Oregon,Yamhill,13.07299835222648,"Acres/1,000 pop",41071.0,2284
+Pennsylvania,Adams,4.33190249281298,"Acres/1,000 pop",42001.0,2292
+Pennsylvania,Allegheny,0.3607172423654277,"Acres/1,000 pop",42003.0,2302
+Pennsylvania,Armstrong,2.281502281502281,"Acres/1,000 pop",42005.0,2309
+Pennsylvania,Beaver,nan,"Acres/1,000 pop",42007.0,2321
+Pennsylvania,Bedford,2.9163966299416724,"Acres/1,000 pop",42009.0,2324
+Pennsylvania,Berks,2.7616827402083595,"Acres/1,000 pop",42011.0,2326
+Pennsylvania,Blair,nan,"Acres/1,000 pop",42013.0,2328
+Pennsylvania,Bradford,nan,"Acres/1,000 pop",42015.0,2333
+Pennsylvania,Bucks,1.2935288424992895,"Acres/1,000 pop",42017.0,2336
+Pennsylvania,Butler,5.769573602580101,"Acres/1,000 pop",42019.0,2338
+Pennsylvania,Cambria,nan,"Acres/1,000 pop",42021.0,2341
+Pennsylvania,Cameron,nan,"Acres/1,000 pop",42023.0,2343
+Pennsylvania,Carbon,nan,"Acres/1,000 pop",42025.0,2349
+Pennsylvania,Centre,3.8822117698393854,"Acres/1,000 pop",42027.0,2354
+Pennsylvania,Chester,nan,"Acres/1,000 pop",42029.0,2360
+Pennsylvania,Clarion,9.968547077922079,"Acres/1,000 pop",42031.0,2366
+Pennsylvania,Clearfield,0.5767083450924574,"Acres/1,000 pop",42033.0,2372
+Pennsylvania,Clinton,nan,"Acres/1,000 pop",42035.0,2379
+Pennsylvania,Columbia,20.745523570382325,"Acres/1,000 pop",42037.0,2385
+Pennsylvania,Crawford,4.596888260254596,"Acres/1,000 pop",42039.0,2389
+Pennsylvania,Cumberland,4.339700736244026,"Acres/1,000 pop",42041.0,2397
+Pennsylvania,Dauphin,2.189018608510134,"Acres/1,000 pop",42043.0,2403
+Pennsylvania,Delaware,0.06953495379491467,"Acres/1,000 pop",42045.0,2414
+Pennsylvania,Elk,nan,"Acres/1,000 pop",42047.0,2420
+Pennsylvania,Erie,2.1809048086638487,"Acres/1,000 pop",42049.0,2425
+Pennsylvania,Fayette,2.4872684330946933,"Acres/1,000 pop",42051.0,2431
+Pennsylvania,Forest,2.610625244746117,"Acres/1,000 pop",42053.0,2436
+Pennsylvania,Franklin,7.53208721919561,"Acres/1,000 pop",42055.0,2439
+Pennsylvania,Fulton,1.8967619563744749,"Acres/1,000 pop",42057.0,2446
+Pennsylvania,Greene,nan,"Acres/1,000 pop",42059.0,2447
+Pennsylvania,Huntingdon,nan,"Acres/1,000 pop",42061.0,2454
+Pennsylvania,Indiana,10.812771311020187,"Acres/1,000 pop",42063.0,2459
+Pennsylvania,Jefferson,1.4046509553856101,"Acres/1,000 pop",42065.0,2462
+Pennsylvania,Juniata,nan,"Acres/1,000 pop",42067.0,2466
+Pennsylvania,Lackawanna,nan,"Acres/1,000 pop",42069.0,2471
+Pennsylvania,Lancaster,9.423416002535687,"Acres/1,000 pop",42071.0,2482
+Pennsylvania,Lawrence,nan,"Acres/1,000 pop",42073.0,2488
+Pennsylvania,Lebanon,5.600318753320347,"Acres/1,000 pop",42075.0,2492
+Pennsylvania,Lehigh,nan,"Acres/1,000 pop",42077.0,2496
+Pennsylvania,Luzerne,2.7372291154084225,"Acres/1,000 pop",42079.0,2501
+Pennsylvania,Lycoming,3.7079973404708735,"Acres/1,000 pop",42081.0,2505
+Pennsylvania,McKean,0.9480864839865881,"Acres/1,000 pop",42083.0,2509
+Pennsylvania,Mercer,4.62795075031515,"Acres/1,000 pop",42085.0,2513
+Pennsylvania,Mifflin,nan,"Acres/1,000 pop",42087.0,2517
+Pennsylvania,Monroe,2.052450186559417,"Acres/1,000 pop",42089.0,2521
+Pennsylvania,Montgomery,0.3692721140272767,"Acres/1,000 pop",42091.0,2528
+Pennsylvania,Montour,7.08529395856996,"Acres/1,000 pop",42093.0,2533
+Pennsylvania,Northampton,1.9278960205820441,"Acres/1,000 pop",42095.0,2537
+Pennsylvania,Northumberland,11.669611400882362,"Acres/1,000 pop",42097.0,2544
+Pennsylvania,Perry,nan,"Acres/1,000 pop",42099.0,2554
+Pennsylvania,Philadelphia,0.007094101319244878,"Acres/1,000 pop",42101.0,2563
+Pennsylvania,Pike,0.21127876472348892,"Acres/1,000 pop",42103.0,2571
+Pennsylvania,Potter,27.183474263662678,"Acres/1,000 pop",42105.0,2575
+Pennsylvania,Schuylkill,10.108827742588105,"Acres/1,000 pop",42107.0,2581
+Pennsylvania,Snyder,23.796959417012186,"Acres/1,000 pop",42109.0,2583
+Pennsylvania,Somerset,3.3293174251551307,"Acres/1,000 pop",42111.0,2589
+Pennsylvania,Sullivan,6.508600650860065,"Acres/1,000 pop",42113.0,2293
+Pennsylvania,Susquehanna,3.6696818829909077,"Acres/1,000 pop",42115.0,2298
+Pennsylvania,Tioga,1.8770089861805213,"Acres/1,000 pop",42117.0,2305
+Pennsylvania,Union,5.16229090506259,"Acres/1,000 pop",42119.0,2313
+Pennsylvania,Venango,0.7926267281105991,"Acres/1,000 pop",42121.0,2316
+Pennsylvania,Warren,nan,"Acres/1,000 pop",42123.0,2322
+Pennsylvania,Washington,2.4611871269838224,"Acres/1,000 pop",42125.0,2346
+Pennsylvania,Wayne,3.868546780401942,"Acres/1,000 pop",42127.0,2363
+Pennsylvania,Westmoreland,1.4232543798795327,"Acres/1,000 pop",42129.0,2394
+Pennsylvania,Wyoming,10.68481557232527,"Acres/1,000 pop",42131.0,2407
+Pennsylvania,York,2.6768197006621244,"Acres/1,000 pop",42133.0,2419
+Rhode Island,Bristol,nan,"Acres/1,000 pop",44001.0,2433
+Rhode Island,Kent,nan,"Acres/1,000 pop",44003.0,2444
+Rhode Island,Newport,nan,"Acres/1,000 pop",44005.0,2460
+Rhode Island,Providence,nan,"Acres/1,000 pop",44007.0,2475
+Rhode Island,Washington,3.9624047041668646,"Acres/1,000 pop",44009.0,2484
+South Carolina,Abbeville,nan,"Acres/1,000 pop",45001.0,2489
+South Carolina,Aiken,1.7394073765571982,"Acres/1,000 pop",45003.0,2503
+South Carolina,Allendale,nan,"Acres/1,000 pop",45005.0,2527
+South Carolina,Anderson,nan,"Acres/1,000 pop",45007.0,2559
+South Carolina,Bamberg,nan,"Acres/1,000 pop",45009.0,2592
+South Carolina,Barnwell,59.17717259634797,"Acres/1,000 pop",45011.0,2605
+South Carolina,Beaufort,13.538854781300017,"Acres/1,000 pop",45013.0,2626
+South Carolina,Berkeley,0.6965037621756245,"Acres/1,000 pop",45015.0,2631
+South Carolina,Calhoun,2.077608739360633,"Acres/1,000 pop",45017.0,2635
+South Carolina,Charleston,1.8130975758721082,"Acres/1,000 pop",45019.0,2691
+South Carolina,Cherokee,nan,"Acres/1,000 pop",45021.0,2700
+South Carolina,Chester,4.592774035517453,"Acres/1,000 pop",45023.0,2704
+South Carolina,Chesterfield,nan,"Acres/1,000 pop",45025.0,2708
+South Carolina,Clarendon,22.2767218475373,"Acres/1,000 pop",45027.0,2715
+South Carolina,Colleton,nan,"Acres/1,000 pop",45029.0,2718
+South Carolina,Darlington,1.892966674982024,"Acres/1,000 pop",45031.0,2721
+South Carolina,Dillon,1.9355862287799461,"Acres/1,000 pop",45033.0,2725
+South Carolina,Dorchester,nan,"Acres/1,000 pop",45035.0,2730
+South Carolina,Edgefield,10.66737529420697,"Acres/1,000 pop",45037.0,2735
+South Carolina,Fairfield,0.6445236969879259,"Acres/1,000 pop",45039.0,2738
+South Carolina,Florence,nan,"Acres/1,000 pop",45041.0,2742
+South Carolina,Georgetown,0.46485373709200783,"Acres/1,000 pop",45043.0,2752
+South Carolina,Greenville,1.7501767314324885,"Acres/1,000 pop",45045.0,2759
+South Carolina,Greenwood,nan,"Acres/1,000 pop",45047.0,2764
+South Carolina,Hampton,31.794277994885896,"Acres/1,000 pop",45049.0,2767
+South Carolina,Horry,nan,"Acres/1,000 pop",45051.0,2774
+South Carolina,Jasper,nan,"Acres/1,000 pop",45053.0,2783
+South Carolina,Kershaw,nan,"Acres/1,000 pop",45055.0,2787
+South Carolina,Lancaster,1.0231277393929443,"Acres/1,000 pop",45057.0,2790
+South Carolina,Laurens,2.1284625254736205,"Acres/1,000 pop",45059.0,2794
+South Carolina,Lee,nan,"Acres/1,000 pop",45061.0,2800
+South Carolina,Lexington,nan,"Acres/1,000 pop",45063.0,2803
+South Carolina,McCormick,nan,"Acres/1,000 pop",45065.0,2807
+South Carolina,Marion,nan,"Acres/1,000 pop",45067.0,2811
+South Carolina,Marlboro,nan,"Acres/1,000 pop",45069.0,2813
+South Carolina,Newberry,nan,"Acres/1,000 pop",45071.0,2818
+South Carolina,Oconee,3.605318179381333,"Acres/1,000 pop",45073.0,2822
+South Carolina,Orangeburg,nan,"Acres/1,000 pop",45075.0,2829
+South Carolina,Pickens,nan,"Acres/1,000 pop",45077.0,2834
+South Carolina,Richland,0.4268411972895584,"Acres/1,000 pop",45079.0,2843
+South Carolina,Saluda,nan,"Acres/1,000 pop",45081.0,2846
+South Carolina,Spartanburg,1.2236847122607661,"Acres/1,000 pop",45083.0,2851
+South Carolina,Sumter,nan,"Acres/1,000 pop",45085.0,2855
+South Carolina,Union,1.2401233036884811,"Acres/1,000 pop",45087.0,2860
+South Carolina,Williamsburg,7.079119571683522,"Acres/1,000 pop",45089.0,2864
+South Carolina,York,0.9720410303634922,"Acres/1,000 pop",45091.0,2867
+South Dakota,Aurora,0.0,"Acres/1,000 pop",46003.0,2870
+South Dakota,Beadle,nan,"Acres/1,000 pop",46005.0,2874
+South Dakota,Bennett,0.0,"Acres/1,000 pop",46007.0,2876
+South Dakota,Bon Homme,nan,"Acres/1,000 pop",46009.0,2879
+South Dakota,Brookings,nan,"Acres/1,000 pop",46011.0,2882
+South Dakota,Brown,nan,"Acres/1,000 pop",46013.0,2885
+South Dakota,Brule,0.0,"Acres/1,000 pop",46015.0,2888
+South Dakota,Buffalo,0.0,"Acres/1,000 pop",46017.0,2891
+South Dakota,Butte,nan,"Acres/1,000 pop",46019.0,2895
+South Dakota,Campbell,nan,"Acres/1,000 pop",46021.0,2897
+South Dakota,Charles Mix,nan,"Acres/1,000 pop",46023.0,2900
+South Dakota,Clark,nan,"Acres/1,000 pop",46025.0,2901
+South Dakota,Clay,nan,"Acres/1,000 pop",46027.0,2903
+South Dakota,Codington,0.8333937241829118,"Acres/1,000 pop",46029.0,2906
+South Dakota,Corson,0.0,"Acres/1,000 pop",46031.0,2907
+South Dakota,Custer,nan,"Acres/1,000 pop",46033.0,2908
+South Dakota,Davison,nan,"Acres/1,000 pop",46035.0,2910
+South Dakota,Day,0.8882572392965004,"Acres/1,000 pop",46037.0,2911
+South Dakota,Deuel,1.3723696248856359,"Acres/1,000 pop",46039.0,2912
+South Dakota,Dewey,0.0,"Acres/1,000 pop",46041.0,2914
+South Dakota,Douglas,0.0,"Acres/1,000 pop",46043.0,2916
+South Dakota,Edmunds,0.24838549428713363,"Acres/1,000 pop",46045.0,2917
+South Dakota,Fall River,nan,"Acres/1,000 pop",46047.0,2919
+South Dakota,Faulk,nan,"Acres/1,000 pop",46049.0,2921
+South Dakota,Grant,nan,"Acres/1,000 pop",46051.0,2922
+South Dakota,Gregory,nan,"Acres/1,000 pop",46053.0,2923
+South Dakota,Haakon,0.0,"Acres/1,000 pop",46055.0,2924
+South Dakota,Hamlin,0.0,"Acres/1,000 pop",46057.0,2926
+South Dakota,Hand,0.0,"Acres/1,000 pop",46059.0,2928
+South Dakota,Hanson,nan,"Acres/1,000 pop",46061.0,2929
+South Dakota,Harding,0.0,"Acres/1,000 pop",46063.0,2931
+South Dakota,Hughes,4.703183252079151,"Acres/1,000 pop",46065.0,2933
+South Dakota,Hutchinson,5.125363623770605,"Acres/1,000 pop",46067.0,2934
+South Dakota,Hyde,0.0,"Acres/1,000 pop",46069.0,2937
+South Dakota,Jackson,0.0,"Acres/1,000 pop",46071.0,2939
+South Dakota,Jerauld,0.0,"Acres/1,000 pop",46073.0,2941
+South Dakota,Jones,0.0,"Acres/1,000 pop",46075.0,2944
+South Dakota,Kingsbury,0.5737234652897304,"Acres/1,000 pop",46077.0,2945
+South Dakota,Lake,0.5072708826513358,"Acres/1,000 pop",46079.0,2401
+South Dakota,Lawrence,nan,"Acres/1,000 pop",46081.0,2406
+South Dakota,Lincoln,0.4758456604944657,"Acres/1,000 pop",46083.0,2410
+South Dakota,Lyman,2.382212811011117,"Acres/1,000 pop",46085.0,2417
+South Dakota,McCook,nan,"Acres/1,000 pop",46087.0,2422
+South Dakota,McPherson,0.0,"Acres/1,000 pop",46089.0,2426
+South Dakota,Marshall,4.717992708556723,"Acres/1,000 pop",46091.0,2430
+South Dakota,Meade,nan,"Acres/1,000 pop",46093.0,2442
+South Dakota,Mellette,nan,"Acres/1,000 pop",46095.0,2450
+South Dakota,Miner,4.3140638481449525,"Acres/1,000 pop",46097.0,2456
+South Dakota,Minnehaha,nan,"Acres/1,000 pop",46099.0,2467
+South Dakota,Moody,nan,"Acres/1,000 pop",46101.0,2485
+South Dakota,Pennington,0.11474249870914689,"Acres/1,000 pop",46103.0,2497
+South Dakota,Perkins,0.0,"Acres/1,000 pop",46105.0,2502
+South Dakota,Potter,0.0,"Acres/1,000 pop",46107.0,2506
+South Dakota,Roberts,nan,"Acres/1,000 pop",46109.0,2511
+South Dakota,Sanborn,58.089500860585204,"Acres/1,000 pop",46111.0,2514
+South Dakota,Shannon,nan,"Acres/1,000 pop",46113.0,2519
+South Dakota,Spink,nan,"Acres/1,000 pop",46115.0,2523
+South Dakota,Stanley,0.0,"Acres/1,000 pop",46117.0,2530
+South Dakota,Sully,0.0,"Acres/1,000 pop",46119.0,2535
+South Dakota,Todd,0.0,"Acres/1,000 pop",46121.0,2540
+South Dakota,Tripp,0.0,"Acres/1,000 pop",46123.0,2546
+South Dakota,Turner,nan,"Acres/1,000 pop",46125.0,2550
+South Dakota,Union,0.3365416975163223,"Acres/1,000 pop",46127.0,2557
+South Dakota,Walworth,0.0,"Acres/1,000 pop",46129.0,2561
+South Dakota,Yankton,0.0,"Acres/1,000 pop",46135.0,2569
+South Dakota,Ziebach,0.0,"Acres/1,000 pop",46137.0,2578
+Tennessee,Anderson,0.2521432173474534,"Acres/1,000 pop",47001.0,2584
+Tennessee,Bedford,0.4633000198557152,"Acres/1,000 pop",47003.0,2593
+Tennessee,Benton,1.22256861666361,"Acres/1,000 pop",47005.0,2598
+Tennessee,Bledsoe,nan,"Acres/1,000 pop",47007.0,2602
+Tennessee,Blount,1.790351457281569,"Acres/1,000 pop",47009.0,2622
+Tennessee,Bradley,1.274426508071368,"Acres/1,000 pop",47011.0,2627
+Tennessee,Campbell,0.5687578822423898,"Acres/1,000 pop",47013.0,2633
+Tennessee,Cannon,0.8665511265164644,"Acres/1,000 pop",47015.0,2638
+Tennessee,Carroll,0.3845078299776286,"Acres/1,000 pop",47017.0,2648
+Tennessee,Carter,1.2379690333379831,"Acres/1,000 pop",47019.0,2654
+Tennessee,Cheatham,0.560409608477469,"Acres/1,000 pop",47021.0,2660
+Tennessee,Chester,1.9755955839628123,"Acres/1,000 pop",47023.0,2664
+Tennessee,Claiborne,1.2924376635248873,"Acres/1,000 pop",47025.0,2670
+Tennessee,Clay,nan,"Acres/1,000 pop",47027.0,2679
+Tennessee,Cocke,22.643318388179228,"Acres/1,000 pop",47029.0,2686
+Tennessee,Coffee,0.64,"Acres/1,000 pop",47031.0,2689
+Tennessee,Crockett,nan,"Acres/1,000 pop",47033.0,2693
+Tennessee,Cumberland,121.1260692749965,"Acres/1,000 pop",47035.0,2696
+Tennessee,Davidson,0.1986699891270533,"Acres/1,000 pop",47037.0,2698
+Tennessee,Decatur,1.544004117344313,"Acres/1,000 pop",47039.0,2705
+Tennessee,DeKalb,1.3225413955456806,"Acres/1,000 pop",47041.0,2710
+Tennessee,Dickson,0.7576814946264431,"Acres/1,000 pop",47043.0,2717
+Tennessee,Dyer,2.536809896173863,"Acres/1,000 pop",47045.0,2723
+Tennessee,Fayette,nan,"Acres/1,000 pop",47047.0,2726
+Tennessee,Fentress,nan,"Acres/1,000 pop",47049.0,2731
+Tennessee,Franklin,0.9568438872396281,"Acres/1,000 pop",47051.0,2734
+Tennessee,Gibson,1.1276000241628577,"Acres/1,000 pop",47053.0,2739
+Tennessee,Giles,0.7605614326211713,"Acres/1,000 pop",47055.0,2743
+Tennessee,Grainger,22.445102284275173,"Acres/1,000 pop",47057.0,2748
+Tennessee,Greene,7.123814518596215,"Acres/1,000 pop",47059.0,2750
+Tennessee,Grundy,5.136483710008806,"Acres/1,000 pop",47061.0,2754
+Tennessee,Hamblen,nan,"Acres/1,000 pop",47063.0,2757
+Tennessee,Hamilton,0.2776556607047826,"Acres/1,000 pop",47065.0,2761
+Tennessee,Hancock,3.744757339724386,"Acres/1,000 pop",47067.0,2766
+Tennessee,Hardeman,6.711156354861818,"Acres/1,000 pop",47069.0,2770
+Tennessee,Hardin,0.5381717536711002,"Acres/1,000 pop",47071.0,2773
+Tennessee,Hawkins,1.909172868532235,"Acres/1,000 pop",47073.0,2779
+Tennessee,Haywood,1.862503423719529,"Acres/1,000 pop",47075.0,2781
+Tennessee,Henderson,2.6404995539696703,"Acres/1,000 pop",47077.0,2786
+Tennessee,Henry,1.298179457855531,"Acres/1,000 pop",47079.0,2789
+Tennessee,Hickman,1.2840692568966945,"Acres/1,000 pop",47081.0,2792
+Tennessee,Houston,2.7315914489311166,"Acres/1,000 pop",47083.0,2796
+Tennessee,Humphreys,nan,"Acres/1,000 pop",47085.0,2798
+Tennessee,Jackson,1.130336492478915,"Acres/1,000 pop",47087.0,2801
+Tennessee,Jefferson,2.103692937329075,"Acres/1,000 pop",47089.0,2804
+Tennessee,Johnson,1.9864260883959608,"Acres/1,000 pop",47091.0,2808
+Tennessee,Knox,0.08614885161313725,"Acres/1,000 pop",47093.0,2814
+Tennessee,Lake,0.0,"Acres/1,000 pop",47095.0,2817
+Tennessee,Lauderdale,nan,"Acres/1,000 pop",47097.0,2821
+Tennessee,Lawrence,11.149594344546188,"Acres/1,000 pop",47099.0,2823
+Tennessee,Lewis,nan,"Acres/1,000 pop",47101.0,2825
+Tennessee,Lincoln,17.883844727555473,"Acres/1,000 pop",47103.0,2828
+Tennessee,Loudon,0.2611857834568943,"Acres/1,000 pop",47105.0,2830
+Tennessee,McMinn,1.7350849428947317,"Acres/1,000 pop",47107.0,2833
+Tennessee,McNairy,1.71978903921119,"Acres/1,000 pop",47109.0,2836
+Tennessee,Macon,0.6219734328490826,"Acres/1,000 pop",47111.0,2839
+Tennessee,Madison,0.4872849093954622,"Acres/1,000 pop",47113.0,2841
+Tennessee,Marion,nan,"Acres/1,000 pop",47115.0,2844
+Tennessee,Marshall,0.9049773755656109,"Acres/1,000 pop",47117.0,2848
+Tennessee,Maury,0.4146240335601571,"Acres/1,000 pop",47119.0,2850
+Tennessee,Meigs,nan,"Acres/1,000 pop",47121.0,2854
+Tennessee,Monroe,1.0630522888844596,"Acres/1,000 pop",47123.0,2857
+Tennessee,Montgomery,0.2860056877357523,"Acres/1,000 pop",47125.0,2859
+Tennessee,Moore,nan,"Acres/1,000 pop",47127.0,2863
+Tennessee,Morgan,1.5492572678392416,"Acres/1,000 pop",47129.0,2866
+Tennessee,Obion,0.31891822936599057,"Acres/1,000 pop",47131.0,2872
+Tennessee,Overton,8.060158501440922,"Acres/1,000 pop",47133.0,2875
+Tennessee,Perry,1.0204081632653061,"Acres/1,000 pop",47135.0,2878
+Tennessee,Pickett,1.9712201852946973,"Acres/1,000 pop",47137.0,2881
+Tennessee,Polk,3.675805965652305,"Acres/1,000 pop",47139.0,2883
+Tennessee,Putnam,0.7090361199361868,"Acres/1,000 pop",47141.0,2890
+Tennessee,Rhea,37.41096314648498,"Acres/1,000 pop",47143.0,2893
+Tennessee,Roane,1.2342908438061042,"Acres/1,000 pop",47145.0,2001
+Tennessee,Robertson,2.158920539730135,"Acres/1,000 pop",47147.0,2011
+Tennessee,Rutherford,0.3098356413051006,"Acres/1,000 pop",47149.0,2015
+Tennessee,Scott,0.3159272464683847,"Acres/1,000 pop",47151.0,2020
+Tennessee,Sequatchie,nan,"Acres/1,000 pop",47153.0,2025
+Tennessee,Sevier,0.6274611623177117,"Acres/1,000 pop",47155.0,2030
+Tennessee,Shelby,0.08087928553793239,"Acres/1,000 pop",47157.0,2033
+Tennessee,Smith,2.457387849001359,"Acres/1,000 pop",47159.0,2037
+Tennessee,Stewart,1.1250281257031425,"Acres/1,000 pop",47161.0,2041
+Tennessee,Sullivan,0.18514262366250414,"Acres/1,000 pop",47163.0,2046
+Tennessee,Sumner,0.2226461190374467,"Acres/1,000 pop",47165.0,2050
+Tennessee,Tipton,2.351643717867627,"Acres/1,000 pop",47167.0,2055
+Tennessee,Trousdale,nan,"Acres/1,000 pop",47169.0,2062
+Tennessee,Unicoi,nan,"Acres/1,000 pop",47171.0,2069
+Tennessee,Union,1.6220175805776478,"Acres/1,000 pop",47173.0,2073
+Tennessee,Van Buren,nan,"Acres/1,000 pop",47175.0,2077
+Tennessee,Warren,2.4135763670647394,"Acres/1,000 pop",47177.0,2081
+Tennessee,Washington,6.716352196223153,"Acres/1,000 pop",47179.0,2085
+Tennessee,Wayne,1.0595714622086179,"Acres/1,000 pop",47181.0,2089
+Tennessee,Weakley,2.61644623346751,"Acres/1,000 pop",47183.0,2096
+Tennessee,White,0.8050295177489841,"Acres/1,000 pop",47185.0,2100
+Tennessee,Williamson,0.9481374022071396,"Acres/1,000 pop",47187.0,2105
+Tennessee,Wilson,0.957130623142411,"Acres/1,000 pop",47189.0,2111
+Texas,Anderson,7.791760041372178,"Acres/1,000 pop",48001.0,2113
+Texas,Andrews,0.0,"Acres/1,000 pop",48003.0,2117
+Texas,Angelina,1.677641715074809,"Acres/1,000 pop",48005.0,2124
+Texas,Aransas,0.0,"Acres/1,000 pop",48007.0,2162
+Texas,Archer,0.0,"Acres/1,000 pop",48009.0,2168
+Texas,Armstrong,0.0,"Acres/1,000 pop",48011.0,2172
+Texas,Atascosa,nan,"Acres/1,000 pop",48013.0,2173
+Texas,Austin,1.1904761904761905,"Acres/1,000 pop",48015.0,2177
+Texas,Bailey,108.18385650224215,"Acres/1,000 pop",48017.0,2179
+Texas,Bandera,0.5335661622041133,"Acres/1,000 pop",48019.0,2183
+Texas,Bastrop,1.0816440990305265,"Acres/1,000 pop",48021.0,2190
+Texas,Baylor,0.0,"Acres/1,000 pop",48023.0,2192
+Texas,Bee,0.27743526510480887,"Acres/1,000 pop",48025.0,2196
+Texas,Bell,0.14546760096070518,"Acres/1,000 pop",48027.0,2198
+Texas,Bexar,nan,"Acres/1,000 pop",48029.0,2203
+Texas,Blanco,2.824326868762945,"Acres/1,000 pop",48031.0,2207
+Texas,Borden,0.0,"Acres/1,000 pop",48033.0,2212
+Texas,Bosque,0.16561775422325273,"Acres/1,000 pop",48035.0,2216
+Texas,Bowie,nan,"Acres/1,000 pop",48037.0,2224
+Texas,Brazoria,3.220309211316999,"Acres/1,000 pop",48039.0,2240
+Texas,Brazos,0.24460007887104585,"Acres/1,000 pop",48041.0,2253
+Texas,Brewster,nan,"Acres/1,000 pop",48043.0,2262
+Texas,Briscoe,nan,"Acres/1,000 pop",48045.0,2269
+Texas,Brooks,nan,"Acres/1,000 pop",48047.0,2279
+Texas,Brown,nan,"Acres/1,000 pop",48049.0,2296
+Texas,Burleson,nan,"Acres/1,000 pop",48051.0,2304
+Texas,Burnet,2.064788473891897,"Acres/1,000 pop",48053.0,2312
+Texas,Caldwell,2.2474232130402214,"Acres/1,000 pop",48055.0,2320
+Texas,Calhoun,nan,"Acres/1,000 pop",48057.0,2327
+Texas,Callahan,1.5533693320511872,"Acres/1,000 pop",48059.0,2331
+Texas,Cameron,6.377756462496725,"Acres/1,000 pop",48061.0,2359
+Texas,Camp,3.4507663911403577,"Acres/1,000 pop",48063.0,2373
+Texas,Carson,0.0,"Acres/1,000 pop",48065.0,2377
+Texas,Cass,2.782931354359926,"Acres/1,000 pop",48067.0,2382
+Texas,Castro,41.37173541615816,"Acres/1,000 pop",48069.0,2386
+Texas,Chambers,nan,"Acres/1,000 pop",48071.0,2395
+Texas,Cherokee,8.004998242805263,"Acres/1,000 pop",48073.0,2400
+Texas,Childress,0.0,"Acres/1,000 pop",48075.0,2405
+Texas,Clay,13.406865075591899,"Acres/1,000 pop",48077.0,2409
+Texas,Cochran,nan,"Acres/1,000 pop",48079.0,2413
+Texas,Coke,nan,"Acres/1,000 pop",48081.0,2418
+Texas,Coleman,nan,"Acres/1,000 pop",48083.0,2423
+Texas,Collin,nan,"Acres/1,000 pop",48085.0,2429
+Texas,Collingsworth,0.0,"Acres/1,000 pop",48087.0,2434
+Texas,Colorado,0.09665571235260004,"Acres/1,000 pop",48089.0,2441
+Texas,Comal,0.03480349079012625,"Acres/1,000 pop",48091.0,2449
+Texas,Comanche,39.55707729292635,"Acres/1,000 pop",48093.0,2455
+Texas,Concho,0.0,"Acres/1,000 pop",48095.0,2458
+Texas,Cooke,1.3921113689095128,"Acres/1,000 pop",48097.0,2463
+Texas,Coryell,3.239656518345043,"Acres/1,000 pop",48099.0,2469
+Texas,Cottle,nan,"Acres/1,000 pop",48101.0,2473
+Texas,Crane,0.0,"Acres/1,000 pop",48103.0,2478
+Texas,Crockett,0.0,"Acres/1,000 pop",48105.0,2483
+Texas,Crosby,0.0,"Acres/1,000 pop",48107.0,2487
+Texas,Culberson,nan,"Acres/1,000 pop",48109.0,2491
+Texas,Dallam,161.10554203064586,"Acres/1,000 pop",48111.0,2498
+Texas,Dallas,0.020761718972628726,"Acres/1,000 pop",48113.0,2507
+Texas,Dawson,0.0,"Acres/1,000 pop",48115.0,2512
+Texas,Deaf Smith,0.0,"Acres/1,000 pop",48117.0,2515
+Texas,Delta,4.718761796904492,"Acres/1,000 pop",48119.0,2524
+Texas,Denton,nan,"Acres/1,000 pop",48121.0,2532
+Texas,DeWitt,0.7822048398924469,"Acres/1,000 pop",48123.0,2538
+Texas,Dickens,0.0,"Acres/1,000 pop",48125.0,2542
+Texas,Dimmit,nan,"Acres/1,000 pop",48127.0,2548
+Texas,Donley,6.289308176100629,"Acres/1,000 pop",48129.0,2551
+Texas,Duval,nan,"Acres/1,000 pop",48131.0,2556
+Texas,Eastland,2.933188484519283,"Acres/1,000 pop",48133.0,2562
+Texas,Ector,0.041507554374896234,"Acres/1,000 pop",48135.0,2568
+Texas,Edwards,0.0,"Acres/1,000 pop",48137.0,2574
+Texas,Ellis,0.46170153271903186,"Acres/1,000 pop",48139.0,2579
+Texas,El Paso,nan,"Acres/1,000 pop",48141.0,2588
+Texas,Erath,0.35469977197871805,"Acres/1,000 pop",48143.0,2597
+Texas,Falls,27.037773359840955,"Acres/1,000 pop",48145.0,2601
+Texas,Fannin,0.9497803632909889,"Acres/1,000 pop",48147.0,2621
+Texas,Fayette,1.4964610717896865,"Acres/1,000 pop",48149.0,2624
+Texas,Fisher,nan,"Acres/1,000 pop",48151.0,2628
+Texas,Floyd,46.50432050274941,"Acres/1,000 pop",48153.0,2630
+Texas,Foard,0.0,"Acres/1,000 pop",48155.0,2002
+Texas,Fort Bend,0.13241694426363415,"Acres/1,000 pop",48157.0,2009
+Texas,Franklin,3.293807641633729,"Acres/1,000 pop",48159.0,2016
+Texas,Freestone,nan,"Acres/1,000 pop",48161.0,2022
+Texas,Frio,375.1401659564925,"Acres/1,000 pop",48163.0,2028
+Texas,Gaines,nan,"Acres/1,000 pop",48165.0,2032
+Texas,Galveston,0.12276248776522504,"Acres/1,000 pop",48167.0,2059
+Texas,Garza,0.0,"Acres/1,000 pop",48169.0,2060
+Texas,Gillespie,nan,"Acres/1,000 pop",48171.0,2066
+Texas,Glasscock,328.29888712241655,"Acres/1,000 pop",48173.0,2072
+Texas,Goliad,0.8176614881439084,"Acres/1,000 pop",48175.0,2079
+Texas,Gonzales,1.1536918138041734,"Acres/1,000 pop",48177.0,2086
+Texas,Gray,0.0,"Acres/1,000 pop",48179.0,2088
+Texas,Grayson,0.17269594822411,"Acres/1,000 pop",48181.0,2094
+Texas,Gregg,nan,"Acres/1,000 pop",48183.0,2101
+Texas,Grimes,nan,"Acres/1,000 pop",48185.0,2108
+Texas,Guadalupe,0.9375022364080067,"Acres/1,000 pop",48187.0,2116
+Texas,Hale,28.407057722480662,"Acres/1,000 pop",48189.0,2120
+Texas,Hall,0.0,"Acres/1,000 pop",48191.0,2125
+Texas,Hamilton,nan,"Acres/1,000 pop",48193.0,2128
+Texas,Hansford,nan,"Acres/1,000 pop",48195.0,2132
+Texas,Hardeman,nan,"Acres/1,000 pop",48197.0,2137
+Texas,Hardin,0.30851874705092375,"Acres/1,000 pop",48199.0,2142
+Texas,Harris,nan,"Acres/1,000 pop",48201.0,2149
+Texas,Harrison,2.2171945701357467,"Acres/1,000 pop",48203.0,2157
+Texas,Hartley,nan,"Acres/1,000 pop",48205.0,2160
+Texas,Haskell,0.0,"Acres/1,000 pop",48207.0,2163
+Texas,Hays,0.17203433568051443,"Acres/1,000 pop",48209.0,2166
+Texas,Hemphill,0.0,"Acres/1,000 pop",48211.0,2171
+Texas,Henderson,2.393829240180867,"Acres/1,000 pop",48213.0,2178
+Texas,Hidalgo,38.26555876876758,"Acres/1,000 pop",48215.0,2188
+Texas,Hill,0.76953770734766,"Acres/1,000 pop",48217.0,2201
+Texas,Hockley,nan,"Acres/1,000 pop",48219.0,2208
+Texas,Hood,0.3068131699553203,"Acres/1,000 pop",48221.0,2213
+Texas,Hopkins,nan,"Acres/1,000 pop",48223.0,2221
+Texas,Houston,41.9728538082476,"Acres/1,000 pop",48225.0,2228
+Texas,Howard,nan,"Acres/1,000 pop",48227.0,2231
+Texas,Hudspeth,nan,"Acres/1,000 pop",48229.0,2241
+Texas,Hunt,nan,"Acres/1,000 pop",48231.0,2246
+Texas,Hutchinson,0.0,"Acres/1,000 pop",48233.0,2249
+Texas,Irion,nan,"Acres/1,000 pop",48235.0,2255
+Texas,Jack,0.0,"Acres/1,000 pop",48237.0,2256
+Texas,Jackson,0.0,"Acres/1,000 pop",48239.0,2264
+Texas,Jasper,2.2875634659376223,"Acres/1,000 pop",48241.0,2271
+Texas,Jeff Davis,0.0,"Acres/1,000 pop",48243.0,2275
+Texas,Jefferson,0.13922368871174332,"Acres/1,000 pop",48245.0,2285
+Texas,Jim Hogg,0.0,"Acres/1,000 pop",48247.0,2288
+Texas,Jim Wells,48.6077772443591,"Acres/1,000 pop",48249.0,2294
+Texas,Johnson,0.4693795063692191,"Acres/1,000 pop",48251.0,2299
+Texas,Jones,1.1582233860408904,"Acres/1,000 pop",48253.0,2301
+Texas,Karnes,nan,"Acres/1,000 pop",48255.0,2307
+Texas,Kaufman,0.1781110850714788,"Acres/1,000 pop",48257.0,2314
+Texas,Kendall,0.3078473077353633,"Acres/1,000 pop",48259.0,2319
+Texas,Kenedy,0.0,"Acres/1,000 pop",48261.0,2330
+Texas,Kent,0.0,"Acres/1,000 pop",48263.0,2335
+Texas,Kerr,nan,"Acres/1,000 pop",48265.0,2337
+Texas,Kimble,0.0,"Acres/1,000 pop",48267.0,2339
+Texas,King,0.0,"Acres/1,000 pop",48269.0,2342
+Texas,Kinney,nan,"Acres/1,000 pop",48271.0,2347
+Texas,Kleberg,nan,"Acres/1,000 pop",48273.0,2358
+Texas,Knox,0.0,"Acres/1,000 pop",48275.0,2364
+Texas,Lamar,0.5625879043600562,"Acres/1,000 pop",48277.0,2371
+Texas,Lamb,97.72923253808565,"Acres/1,000 pop",48279.0,2376
+Texas,Lampasas,0.6462196152507829,"Acres/1,000 pop",48281.0,2381
+Texas,La Salle,87.62091686527408,"Acres/1,000 pop",48283.0,2388
+Texas,Lavaca,4.67842270320292,"Acres/1,000 pop",48285.0,2392
+Texas,Lee,3.1423737007493355,"Acres/1,000 pop",48287.0,2398
+Texas,Leon,0.9559087107181264,"Acres/1,000 pop",48289.0,2402
+Texas,Liberty,0.2092296426096167,"Acres/1,000 pop",48291.0,2404
+Texas,Limestone,5.291453244719129,"Acres/1,000 pop",48293.0,2408
+Texas,Lipscomb,0.0,"Acres/1,000 pop",48295.0,2412
+Texas,Live Oak,nan,"Acres/1,000 pop",48297.0,2416
+Texas,Llano,nan,"Acres/1,000 pop",48299.0,2421
+Texas,Loving,0.0,"Acres/1,000 pop",48301.0,2424
+Texas,Lubbock,1.6532796454361791,"Acres/1,000 pop",48303.0,2428
+Texas,Lynn,0.0,"Acres/1,000 pop",48305.0,2438
+Texas,McCulloch,nan,"Acres/1,000 pop",48307.0,2452
+Texas,McLennan,0.6641160156380526,"Acres/1,000 pop",48309.0,2477
+Texas,McMullen,0.0,"Acres/1,000 pop",48311.0,2494
+Texas,Madison,30.38030016027976,"Acres/1,000 pop",48313.0,2526
+Texas,Marion,nan,"Acres/1,000 pop",48315.0,2547
+Texas,Martin,nan,"Acres/1,000 pop",48317.0,2564
+Texas,Mason,nan,"Acres/1,000 pop",48319.0,2570
+Texas,Matagorda,0.46506538272145315,"Acres/1,000 pop",48321.0,2637
+Texas,Maverick,1.1637691798112904,"Acres/1,000 pop",48323.0,2649
+Texas,Medina,33.482810164424514,"Acres/1,000 pop",48325.0,2652
+Texas,Menard,nan,"Acres/1,000 pop",48327.0,2655
+Texas,Midland,nan,"Acres/1,000 pop",48329.0,2657
+Texas,Milam,4.01772770575322,"Acres/1,000 pop",48331.0,2659
+Texas,Mills,1.2409513960703207,"Acres/1,000 pop",48333.0,2663
+Texas,Mitchell,0.0,"Acres/1,000 pop",48335.0,2666
+Texas,Montague,1.2802785886208838,"Acres/1,000 pop",48337.0,2669
+Texas,Montgomery,0.13195767457587979,"Acres/1,000 pop",48339.0,2682
+Texas,Moore,0.0,"Acres/1,000 pop",48341.0,2683
+Texas,Morris,1.805337519623234,"Acres/1,000 pop",48343.0,2688
+Texas,Motley,0.0,"Acres/1,000 pop",48345.0,2692
+Texas,Nacogdoches,1.2753746413008822,"Acres/1,000 pop",48347.0,2701
+Texas,Navarro,2.9321854139372387,"Acres/1,000 pop",48349.0,2706
+Texas,Newton,1.8850799413530683,"Acres/1,000 pop",48351.0,2711
+Texas,Nolan,nan,"Acres/1,000 pop",48353.0,2714
+Texas,Nueces,0.07472853422854285,"Acres/1,000 pop",48355.0,2194
+Texas,Ochiltree,nan,"Acres/1,000 pop",48357.0,2204
+Texas,Oldham,0.0,"Acres/1,000 pop",48359.0,2210
+Texas,Orange,0.26519123904579367,"Acres/1,000 pop",48361.0,2214
+Texas,Palo Pinto,1.3659237958303379,"Acres/1,000 pop",48363.0,2220
+Texas,Panola,3.0815357708003663,"Acres/1,000 pop",48365.0,2227
+Texas,Parker,1.143668085816846,"Acres/1,000 pop",48367.0,2229
+Texas,Parmer,185.7579040677632,"Acres/1,000 pop",48369.0,2235
+Texas,Pecos,nan,"Acres/1,000 pop",48371.0,2239
+Texas,Polk,0.851491201257587,"Acres/1,000 pop",48373.0,2243
+Texas,Potter,nan,"Acres/1,000 pop",48375.0,2247
+Texas,Presidio,nan,"Acres/1,000 pop",48377.0,2261
+Texas,Rains,18.733436900301562,"Acres/1,000 pop",48379.0,2268
+Texas,Randall,0.04803112416846116,"Acres/1,000 pop",48381.0,2274
+Texas,Reagan,0.0,"Acres/1,000 pop",48383.0,2280
+Texas,Real,0.0,"Acres/1,000 pop",48385.0,2283
+Texas,Red River,1.651722510618216,"Acres/1,000 pop",48387.0,2295
+Texas,Reeves,nan,"Acres/1,000 pop",48389.0,2308
+Texas,Refugio,nan,"Acres/1,000 pop",48391.0,2334
+Texas,Roberts,0.0,"Acres/1,000 pop",48393.0,2348
+Texas,Robertson,2.7955028866605898,"Acres/1,000 pop",48395.0,2353
+Texas,Rockwall,nan,"Acres/1,000 pop",48397.0,2355
+Texas,Runnels,nan,"Acres/1,000 pop",48399.0,2361
+Texas,Rusk,5.665459273706697,"Acres/1,000 pop",48401.0,2367
+Texas,Sabine,0.668960244648318,"Acres/1,000 pop",48403.0,2370
+Texas,San Augustine,1.0180995475113122,"Acres/1,000 pop",48405.0,2380
+Texas,San Jacinto,0.5925267562863386,"Acres/1,000 pop",48407.0,2387
+Texas,San Patricio,0.29076885406464253,"Acres/1,000 pop",48409.0,2415
+Texas,San Saba,5.515627611566105,"Acres/1,000 pop",48411.0,2435
+Texas,Schleicher,nan,"Acres/1,000 pop",48413.0,2437
+Texas,Scurry,nan,"Acres/1,000 pop",48415.0,2443
+Texas,Shackelford,0.0,"Acres/1,000 pop",48417.0,2445
+Texas,Shelby,nan,"Acres/1,000 pop",48419.0,2448
+Texas,Sherman,nan,"Acres/1,000 pop",48421.0,2453
+Texas,Smith,3.310273004537678,"Acres/1,000 pop",48423.0,2465
+Texas,Somervell,0.6988120195667366,"Acres/1,000 pop",48425.0,2470
+Texas,Starr,13.849700917401607,"Acres/1,000 pop",48427.0,2474
+Texas,Stephens,nan,"Acres/1,000 pop",48429.0,2480
+Texas,Sterling,0.0,"Acres/1,000 pop",48431.0,2481
+Texas,Stonewall,0.0,"Acres/1,000 pop",48433.0,2486
+Texas,Sutton,0.0,"Acres/1,000 pop",48435.0,2490
+Texas,Swisher,nan,"Acres/1,000 pop",48437.0,2495
+Texas,Tarrant,0.014875118071249692,"Acres/1,000 pop",48439.0,2500
+Texas,Taylor,nan,"Acres/1,000 pop",48441.0,2508
+Texas,Terrell,0.0,"Acres/1,000 pop",48443.0,2518
+Texas,Terry,186.14065724718208,"Acres/1,000 pop",48445.0,2522
+Texas,Throckmorton,0.0,"Acres/1,000 pop",48447.0,2525
+Texas,Titus,0.3064570500444363,"Acres/1,000 pop",48449.0,2531
+Texas,Tom Green,0.08811116104076903,"Acres/1,000 pop",48451.0,2536
+Texas,Travis,0.19696150405640392,"Acres/1,000 pop",48453.0,2543
+Texas,Trinity,2.653816607304979,"Acres/1,000 pop",48455.0,2553
+Texas,Tyler,2.4242424242424243,"Acres/1,000 pop",48457.0,2560
+Texas,Upshur,1.3017899611966455,"Acres/1,000 pop",48459.0,2566
+Texas,Upton,nan,"Acres/1,000 pop",48461.0,2572
+Texas,Uvalde,166.46125116713353,"Acres/1,000 pop",48463.0,2576
+Texas,Val Verde,0.0,"Acres/1,000 pop",48465.0,2582
+Texas,Van Zandt,24.071276982199876,"Acres/1,000 pop",48467.0,2586
+Texas,Victoria,0.9743423189347191,"Acres/1,000 pop",48469.0,2595
+Texas,Walker,3.270216213848782,"Acres/1,000 pop",48471.0,2603
+Texas,Waller,nan,"Acres/1,000 pop",48473.0,2606
+Texas,Ward,0.0,"Acres/1,000 pop",48475.0,2610
+Texas,Washington,1.1511216056670601,"Acres/1,000 pop",48477.0,2613
+Texas,Webb,0.0,"Acres/1,000 pop",48479.0,2616
+Texas,Wharton,4.179728317659352,"Acres/1,000 pop",48481.0,2618
+Texas,Wheeler,nan,"Acres/1,000 pop",48483.0,2623
+Texas,Wichita,nan,"Acres/1,000 pop",48485.0,2632
+Texas,Wilbarger,0.0,"Acres/1,000 pop",48487.0,2634
+Texas,Willacy,43.942133815551536,"Acres/1,000 pop",48489.0,2639
+Texas,Williamson,0.21469146864299657,"Acres/1,000 pop",48491.0,2640
+Texas,Wilson,21.462317210348704,"Acres/1,000 pop",48493.0,2641
+Texas,Winkler,0.0,"Acres/1,000 pop",48495.0,2642
+Texas,Wise,5.642892603011749,"Acres/1,000 pop",48497.0,2643
+Texas,Wood,10.326738961680505,"Acres/1,000 pop",48499.0,2644
+Texas,Yoakum,385.1704404080617,"Acres/1,000 pop",48501.0,2645
+Texas,Young,0.0,"Acres/1,000 pop",48503.0,2646
+Texas,Zapata,nan,"Acres/1,000 pop",48505.0,2650
+Texas,Zavala,233.44218370593654,"Acres/1,000 pop",48507.0,2651
+Utah,Beaver,0.0,"Acres/1,000 pop",49001.0,2653
+Utah,Box Elder,13.866783383733884,"Acres/1,000 pop",49003.0,2658
+Utah,Cache,0.8191915011037527,"Acres/1,000 pop",49005.0,2661
+Utah,Carbon,0.18821757952192736,"Acres/1,000 pop",49007.0,2665
+Utah,Daggett,0.0,"Acres/1,000 pop",49009.0,2668
+Utah,Davis,nan,"Acres/1,000 pop",49011.0,2671
+Utah,Duchesne,nan,"Acres/1,000 pop",49013.0,2672
+Utah,Emery,16.022706464017578,"Acres/1,000 pop",49015.0,2673
+Utah,Garfield,nan,"Acres/1,000 pop",49017.0,2674
+Utah,Grand,nan,"Acres/1,000 pop",49019.0,2675
+Utah,Iron,0.36379199657607536,"Acres/1,000 pop",49021.0,2676
+Utah,Juab,0.0,"Acres/1,000 pop",49023.0,2677
+Utah,Kane,nan,"Acres/1,000 pop",49025.0,2678
+Utah,Millard,0.23954008304056212,"Acres/1,000 pop",49027.0,2680
+Utah,Morgan,0.5094243504839532,"Acres/1,000 pop",49029.0,2681
+Utah,Piute,1.963350785340314,"Acres/1,000 pop",49031.0,2685
+Utah,Rich,0.0,"Acres/1,000 pop",49033.0,2687
+Utah,Salt Lake,0.3512578129035591,"Acres/1,000 pop",49035.0,2690
+Utah,San Juan,5.293841720833613,"Acres/1,000 pop",49037.0,2694
+Utah,Sanpete,nan,"Acres/1,000 pop",49039.0,2697
+Utah,Sevier,nan,"Acres/1,000 pop",49041.0,2702
+Utah,Summit,0.23732299659837036,"Acres/1,000 pop",49043.0,2703
+Utah,Tooele,0.885340104236269,"Acres/1,000 pop",49045.0,2707
+Utah,Uintah,1.0667435490846187,"Acres/1,000 pop",49047.0,2539
+Utah,Utah,1.3219774115904461,"Acres/1,000 pop",49049.0,2555
+Utah,Wasatch,nan,"Acres/1,000 pop",49051.0,2567
+Utah,Washington,0.39419904977281683,"Acres/1,000 pop",49053.0,2577
+Utah,Wayne,nan,"Acres/1,000 pop",49055.0,2580
+Utah,Weber,2.2568021029676526,"Acres/1,000 pop",49057.0,2587
+Vermont,Addison,6.322587647888853,"Acres/1,000 pop",50001.0,2590
+Vermont,Bennington,3.461999781921274,"Acres/1,000 pop",50003.0,2591
+Vermont,Caledonia,nan,"Acres/1,000 pop",50005.0,2596
+Vermont,Chittenden,nan,"Acres/1,000 pop",50007.0,2599
+Vermont,Essex,2.892495580909529,"Acres/1,000 pop",50009.0,2604
+Vermont,Franklin,2.5079799361605106,"Acres/1,000 pop",50011.0,2607
+Vermont,Grand Isle,nan,"Acres/1,000 pop",50013.0,2609
+Vermont,Lamoille,nan,"Acres/1,000 pop",50015.0,2611
+Vermont,Orange,14.194929888789114,"Acres/1,000 pop",50017.0,2612
+Vermont,Orleans,5.484393404004711,"Acres/1,000 pop",50019.0,2614
+Vermont,Rutland,5.286054338011984,"Acres/1,000 pop",50021.0,2615
+Vermont,Washington,nan,"Acres/1,000 pop",50023.0,2617
+Vermont,Windham,16.385618835507476,"Acres/1,000 pop",50025.0,2620
+Vermont,Windsor,4.71253534401508,"Acres/1,000 pop",50027.0,2625
+Virginia,Accomack,86.99045446358888,"Acres/1,000 pop",51001.0,2719
+Virginia,Albemarle,nan,"Acres/1,000 pop",51003.0,2728
+Virginia,Alleghany,nan,"Acres/1,000 pop",51005.0,2733
+Virginia,Amelia,nan,"Acres/1,000 pop",51007.0,2741
+Virginia,Amherst,nan,"Acres/1,000 pop",51009.0,2746
+Virginia,Appomattox,nan,"Acres/1,000 pop",51011.0,2749
+Virginia,Arlington,0.0,"Acres/1,000 pop",51013.0,2753
+Virginia,Augusta,2.2624740899299582,"Acres/1,000 pop",51015.0,2758
+Virginia,Bath,0.6466910972192282,"Acres/1,000 pop",51017.0,2763
+Virginia,Bedford County,nan,"Acres/1,000 pop",51019.0,2769
+Virginia,Bland,nan,"Acres/1,000 pop",51021.0,2772
+Virginia,Botetourt,nan,"Acres/1,000 pop",51023.0,2776
+Virginia,Brunswick,1.6427104722792607,"Acres/1,000 pop",51025.0,2777
+Virginia,Buchanan,nan,"Acres/1,000 pop",51027.0,2784
+Virginia,Buckingham,0.5278282798662836,"Acres/1,000 pop",51029.0,2785
+Virginia,Campbell,0.7469756595248507,"Acres/1,000 pop",51031.0,2788
+Virginia,Caroline,8.143547273982056,"Acres/1,000 pop",51033.0,2793
+Virginia,Carroll,60.22446389204356,"Acres/1,000 pop",51035.0,2797
+Virginia,Charles City,2.5111607142857144,"Acres/1,000 pop",51036.0,2806
+Virginia,Charlotte,15.72707476409388,"Acres/1,000 pop",51037.0,2810
+Virginia,Chesterfield,nan,"Acres/1,000 pop",51041.0,2816
+Virginia,Clarke,nan,"Acres/1,000 pop",51043.0,2819
+Virginia,Craig,nan,"Acres/1,000 pop",51045.0,2820
+Virginia,Culpeper,nan,"Acres/1,000 pop",51047.0,2824
+Virginia,Cumberland,nan,"Acres/1,000 pop",51049.0,2827
+Virginia,Dickenson,0.1914486279514997,"Acres/1,000 pop",51051.0,2832
+Virginia,Dinwiddie,nan,"Acres/1,000 pop",51053.0,2838
+Virginia,Essex,1.6127587133769377,"Acres/1,000 pop",51057.0,2842
+Virginia,Fairfax County,0.008025360138036194,"Acres/1,000 pop",51059.0,2849
+Virginia,Fauquier,2.0695240094778202,"Acres/1,000 pop",51061.0,2853
+Virginia,Floyd,nan,"Acres/1,000 pop",51063.0,2856
+Virginia,Fluvanna,nan,"Acres/1,000 pop",51065.0,2858
+Virginia,Franklin County,0.9584154198391991,"Acres/1,000 pop",51067.0,2862
+Virginia,Frederick,0.49864741887629804,"Acres/1,000 pop",51069.0,2868
+Virginia,Giles,1.1190293892455387,"Acres/1,000 pop",51071.0,2873
+Virginia,Gloucester,0.21660845314488397,"Acres/1,000 pop",51073.0,2887
+Virginia,Goochland,nan,"Acres/1,000 pop",51075.0,2892
+Virginia,Grayson,1.6420361247947455,"Acres/1,000 pop",51077.0,2896
+Virginia,Greene,1.2203533718894253,"Acres/1,000 pop",51079.0,2899
+Virginia,Greensville,2.555583950932788,"Acres/1,000 pop",51081.0,2902
+Virginia,Halifax,nan,"Acres/1,000 pop",51083.0,2904
+Virginia,Hanover,7.905846742074239,"Acres/1,000 pop",51085.0,2909
+Virginia,Henrico,0.2089255528613304,"Acres/1,000 pop",51087.0,2915
+Virginia,Henry,0.4725272648231803,"Acres/1,000 pop",51089.0,2918
+Virginia,Highland,7.104795737122559,"Acres/1,000 pop",51091.0,2920
+Virginia,Isle of Wight,0.7623027188796974,"Acres/1,000 pop",51093.0,2925
+Virginia,James City,0.9380186160617648,"Acres/1,000 pop",51095.0,2930
+Virginia,King and Queen,nan,"Acres/1,000 pop",51097.0,2936
+Virginia,King George,13.695846541493944,"Acres/1,000 pop",51099.0,2938
+Virginia,King William,nan,"Acres/1,000 pop",51101.0,2943
+Virginia,Lancaster,nan,"Acres/1,000 pop",51103.0,2948
+Virginia,Lee,nan,"Acres/1,000 pop",51105.0,2950
+Virginia,Loudoun,nan,"Acres/1,000 pop",51107.0,2952
+Virginia,Louisa,2.0288211952143684,"Acres/1,000 pop",51109.0,2953
+Virginia,Lunenburg,0.9509469847056027,"Acres/1,000 pop",51111.0,2954
+Virginia,Madison,4.78287276040085,"Acres/1,000 pop",51113.0,2955
+Virginia,Mathews,nan,"Acres/1,000 pop",51115.0,2962
+Virginia,Mecklenburg,0.6932845933255601,"Acres/1,000 pop",51117.0,2964
+Virginia,Middlesex,nan,"Acres/1,000 pop",51119.0,2965
+Virginia,Montgomery,0.836024286505523,"Acres/1,000 pop",51121.0,2966
+Virginia,Nelson,30.425689806381975,"Acres/1,000 pop",51125.0,2968
+Virginia,New Kent,nan,"Acres/1,000 pop",51127.0,2971
+Virginia,Northampton,308.2780643576517,"Acres/1,000 pop",51131.0,2982
+Virginia,Northumberland,nan,"Acres/1,000 pop",51133.0,2983
+Virginia,Nottoway,1.1413353623739775,"Acres/1,000 pop",51135.0,2984
+Virginia,Orange,nan,"Acres/1,000 pop",51137.0,2985
+Virginia,Page,nan,"Acres/1,000 pop",51139.0,2986
+Virginia,Patrick,nan,"Acres/1,000 pop",51141.0,2987
+Virginia,Pittsylvania,3.5842862353892757,"Acres/1,000 pop",51143.0,2988
+Virginia,Powhatan,1.1009695635188408,"Acres/1,000 pop",51145.0,2989
+Virginia,Prince Edward,0.1294386676446477,"Acres/1,000 pop",51147.0,2990
+Virginia,Prince George,nan,"Acres/1,000 pop",51149.0,2991
+Virginia,Prince William,0.15789974759260936,"Acres/1,000 pop",51153.0,2992
+Virginia,Pulaski,nan,"Acres/1,000 pop",51155.0,2993
+Virginia,Rappahannock,nan,"Acres/1,000 pop",51157.0,2994
+Virginia,Richmond County,nan,"Acres/1,000 pop",51159.0,2995
+Virginia,Roanoke County,nan,"Acres/1,000 pop",51161.0,2996
+Virginia,Rockbridge,nan,"Acres/1,000 pop",51163.0,2997
+Virginia,Rockingham,4.639501673580687,"Acres/1,000 pop",51165.0,2998
+Virginia,Russell,0.6334682386063699,"Acres/1,000 pop",51167.0,2999
+Virginia,Scott,4.914436156208864,"Acres/1,000 pop",51169.0,2585
+Virginia,Shenandoah,2.135648908706876,"Acres/1,000 pop",51171.0,2594
+Virginia,Smyth,0.7216139051862077,"Acres/1,000 pop",51173.0,2600
+Virginia,Southampton,nan,"Acres/1,000 pop",51175.0,2608
+Virginia,Spotsylvania,0.4913654411589884,"Acres/1,000 pop",51177.0,2619
+Virginia,Stafford,0.12646927540544564,"Acres/1,000 pop",51179.0,2629
+Virginia,Surry,nan,"Acres/1,000 pop",51181.0,2636
+Virginia,Sussex,0.8378016085790885,"Acres/1,000 pop",51183.0,2647
+Virginia,Tazewell,0.8814156891992677,"Acres/1,000 pop",51185.0,2656
+Virginia,Warren,nan,"Acres/1,000 pop",51187.0,2662
+Virginia,Washington,1.7982017982017982,"Acres/1,000 pop",51191.0,2667
+Virginia,Westmoreland,nan,"Acres/1,000 pop",51193.0,2684
+Virginia,Wise,0.24456455281371517,"Acres/1,000 pop",51195.0,2695
+Virginia,Wythe,6.246373348807045,"Acres/1,000 pop",51197.0,2699
+Virginia,York,0.42495067536803766,"Acres/1,000 pop",51199.0,2709
+Virginia,Alexandria,nan,"Acres/1,000 pop",51510.0,2712
+Virginia,Bedford City,nan,"Acres/1,000 pop",51515.0,2713
+Virginia,Bristol,nan,"Acres/1,000 pop",51520.0,2716
+Virginia,Buena Vista,nan,"Acres/1,000 pop",51530.0,2720
+Virginia,Charlottesville,nan,"Acres/1,000 pop",51540.0,2722
+Virginia,Chesapeake,0.3461405330564209,"Acres/1,000 pop",51550.0,2724
+Virginia,Colonial Heights,nan,"Acres/1,000 pop",51570.0,2727
+Virginia,Covington,nan,"Acres/1,000 pop",51580.0,2729
+Virginia,Danville,nan,"Acres/1,000 pop",51590.0,2732
+Virginia,Emporia,nan,"Acres/1,000 pop",51595.0,2736
+Virginia,Fairfax City,nan,"Acres/1,000 pop",51600.0,2737
+Virginia,Falls Church,nan,"Acres/1,000 pop",51610.0,2740
+Virginia,Franklin City,nan,"Acres/1,000 pop",51620.0,2744
+Virginia,Fredericksburg,nan,"Acres/1,000 pop",51630.0,2745
+Virginia,Galax,nan,"Acres/1,000 pop",51640.0,2747
+Virginia,Hampton,0.0,"Acres/1,000 pop",51650.0,2751
+Virginia,Harrisonburg,nan,"Acres/1,000 pop",51660.0,2755
+Virginia,Hopewell,nan,"Acres/1,000 pop",51670.0,2756
+Virginia,Lexington,nan,"Acres/1,000 pop",51678.0,2760
+Virginia,Lynchburg,nan,"Acres/1,000 pop",51680.0,2762
+Virginia,Manassas,nan,"Acres/1,000 pop",51683.0,2765
+Virginia,Manassas Park,nan,"Acres/1,000 pop",51685.0,2768
+Virginia,Martinsville,nan,"Acres/1,000 pop",51690.0,2771
+Virginia,Newport News,0.0,"Acres/1,000 pop",51700.0,2775
+Virginia,Norfolk,nan,"Acres/1,000 pop",51710.0,2778
+Virginia,Norton,nan,"Acres/1,000 pop",51720.0,2780
+Virginia,Petersburg,nan,"Acres/1,000 pop",51730.0,2782
+Virginia,Poquoson,nan,"Acres/1,000 pop",51735.0,2791
+Virginia,Portsmouth,nan,"Acres/1,000 pop",51740.0,2795
+Virginia,Radford,nan,"Acres/1,000 pop",51750.0,2799
+Virginia,Richmond City,nan,"Acres/1,000 pop",51760.0,2802
+Virginia,Roanoke City,nan,"Acres/1,000 pop",51770.0,2805
+Virginia,Salem,nan,"Acres/1,000 pop",51775.0,2809
+Virginia,Staunton,nan,"Acres/1,000 pop",51790.0,2812
+Virginia,Suffolk,nan,"Acres/1,000 pop",51800.0,2815
+Virginia,Virginia Beach,nan,"Acres/1,000 pop",51810.0,2826
+Virginia,Waynesboro,nan,"Acres/1,000 pop",51820.0,2831
+Virginia,Williamsburg,nan,"Acres/1,000 pop",51830.0,2835
+Virginia,Winchester,nan,"Acres/1,000 pop",51840.0,2837
+Washington,Adams,324.49108743803396,"Acres/1,000 pop",53001.0,2840
+Washington,Asotin,2.696773013986653,"Acres/1,000 pop",53003.0,2845
+Washington,Benton,60.98656673898275,"Acres/1,000 pop",53005.0,2847
+Washington,Chelan,0.4477308188046944,"Acres/1,000 pop",53007.0,2852
+Washington,Clallam,nan,"Acres/1,000 pop",53009.0,2861
+Washington,Clark,0.7341740884576855,"Acres/1,000 pop",53011.0,2865
+Washington,Columbia,1.0015022533800702,"Acres/1,000 pop",53013.0,2869
+Washington,Cowlitz,1.237234878240377,"Acres/1,000 pop",53015.0,2871
+Washington,Douglas,0.2795851972346482,"Acres/1,000 pop",53017.0,2877
+Washington,Ferry,nan,"Acres/1,000 pop",53019.0,2880
+Washington,Franklin,161.84917222979507,"Acres/1,000 pop",53021.0,2884
+Washington,Garfield,nan,"Acres/1,000 pop",53023.0,2886
+Washington,Grant,179.42110952188582,"Acres/1,000 pop",53025.0,2889
+Washington,Grays Harbor,2.5229293858548685,"Acres/1,000 pop",53027.0,2894
+Washington,Island,nan,"Acres/1,000 pop",53029.0,2898
+Washington,Jefferson,1.7101468714371941,"Acres/1,000 pop",53031.0,2905
+Washington,King,0.5001990842126219,"Acres/1,000 pop",53033.0,2913
+Washington,Kitsap,nan,"Acres/1,000 pop",53035.0,2927
+Washington,Kittitas,6.510979770313776,"Acres/1,000 pop",53037.0,2932
+Washington,Klickitat,3.0034394225645498,"Acres/1,000 pop",53039.0,2935
+Washington,Lewis,4.497889960445027,"Acres/1,000 pop",53041.0,2940
+Washington,Lincoln,nan,"Acres/1,000 pop",53043.0,2942
+Washington,Mason,nan,"Acres/1,000 pop",53045.0,2946
+Washington,Okanogan,nan,"Acres/1,000 pop",53047.0,2947
+Washington,Pacific,nan,"Acres/1,000 pop",53049.0,2949
+Washington,Pend Oreille,nan,"Acres/1,000 pop",53051.0,2951
+Washington,Pierce,1.6256417898316107,"Acres/1,000 pop",53053.0,2956
+Washington,San Juan,4.428697962798937,"Acres/1,000 pop",53055.0,2957
+Washington,Skagit,115.4771587366138,"Acres/1,000 pop",53057.0,2958
+Washington,Skamania,0.7171671896010758,"Acres/1,000 pop",53059.0,2959
+Washington,Snohomish,nan,"Acres/1,000 pop",53061.0,2960
+Washington,Spokane,nan,"Acres/1,000 pop",53063.0,2961
+Washington,Stevens,2.8002846190924324,"Acres/1,000 pop",53065.0,2963
+Washington,Thurston,0.8422256392028991,"Acres/1,000 pop",53067.0,2967
+Washington,Wahkiakum,nan,"Acres/1,000 pop",53069.0,2969
+Washington,Walla Walla,19.971397324808613,"Acres/1,000 pop",53071.0,2970
+Washington,Whatcom,15.290713843121374,"Acres/1,000 pop",53073.0,2972
+Washington,Whitman,0.23585411351015242,"Acres/1,000 pop",53075.0,2973
+Washington,Yakima,26.024533713600494,"Acres/1,000 pop",53077.0,2974
+West Virginia,Barbour,0.7710100231303006,"Acres/1,000 pop",54001.0,2975
+West Virginia,Berkeley,nan,"Acres/1,000 pop",54003.0,2976
+West Virginia,Boone,nan,"Acres/1,000 pop",54005.0,2977
+West Virginia,Braxton,nan,"Acres/1,000 pop",54007.0,2978
+West Virginia,Brooke,nan,"Acres/1,000 pop",54009.0,2979
+West Virginia,Cabell,0.44374729107758354,"Acres/1,000 pop",54011.0,2980
+West Virginia,Calhoun,2.1058173203474597,"Acres/1,000 pop",54013.0,2981
+West Virginia,Clay,nan,"Acres/1,000 pop",54015.0,3000
+West Virginia,Doddridge,2.6832540553726063,"Acres/1,000 pop",54017.0,3002
+West Virginia,Fayette,0.6099686301847334,"Acres/1,000 pop",54019.0,3006
+West Virginia,Gilmer,nan,"Acres/1,000 pop",54021.0,3008
+West Virginia,Grant,nan,"Acres/1,000 pop",54023.0,3011
+West Virginia,Greenbrier,2.2029502802487384,"Acres/1,000 pop",54025.0,3013
+West Virginia,Hampshire,6.884608886636257,"Acres/1,000 pop",54027.0,3016
+West Virginia,Hancock,nan,"Acres/1,000 pop",54029.0,3017
+West Virginia,Hardy,nan,"Acres/1,000 pop",54031.0,3019
+West Virginia,Harrison,nan,"Acres/1,000 pop",54033.0,3021
+West Virginia,Jackson,1.8426889609281694,"Acres/1,000 pop",54035.0,3023
+West Virginia,Jefferson,3.3551509817941807,"Acres/1,000 pop",54037.0,3026
+West Virginia,Kanawha,nan,"Acres/1,000 pop",54039.0,3027
+West Virginia,Lewis,2.7377258623836465,"Acres/1,000 pop",54041.0,3029
+West Virginia,Lincoln,nan,"Acres/1,000 pop",54043.0,3031
+West Virginia,Logan,0.0,"Acres/1,000 pop",54045.0,3034
+West Virginia,McDowell,nan,"Acres/1,000 pop",54047.0,3037
+West Virginia,Marion,0.3522553146520598,"Acres/1,000 pop",54049.0,3039
+West Virginia,Marshall,0.9176837661741764,"Acres/1,000 pop",54051.0,3041
+West Virginia,Mason,nan,"Acres/1,000 pop",54053.0,3042
+West Virginia,Mercer,nan,"Acres/1,000 pop",54055.0,3044
+West Virginia,Mineral,nan,"Acres/1,000 pop",54057.0,3046
+West Virginia,Mingo,0.0,"Acres/1,000 pop",54059.0,3048
+West Virginia,Monongalia,nan,"Acres/1,000 pop",54061.0,3050
+West Virginia,Monroe,5.774783445620789,"Acres/1,000 pop",54063.0,3052
+West Virginia,Morgan,3.209169054441261,"Acres/1,000 pop",54065.0,3054
+West Virginia,Nicholas,1.1435541663490127,"Acres/1,000 pop",54067.0,3057
+West Virginia,Ohio,nan,"Acres/1,000 pop",54069.0,3059
+West Virginia,Pendleton,nan,"Acres/1,000 pop",54071.0,3061
+West Virginia,Pleasants,1.9742037378257435,"Acres/1,000 pop",54073.0,3064
+West Virginia,Pocahontas,nan,"Acres/1,000 pop",54075.0,3066
+West Virginia,Preston,5.192659467752405,"Acres/1,000 pop",54077.0,3068
+West Virginia,Putnam,1.8741822553838539,"Acres/1,000 pop",54079.0,3070
+West Virginia,Raleigh,0.18973171934884075,"Acres/1,000 pop",54081.0,3073
+West Virginia,Randolph,0.8837825894829872,"Acres/1,000 pop",54083.0,3075
+West Virginia,Ritchie,nan,"Acres/1,000 pop",54085.0,3077
+West Virginia,Roane,nan,"Acres/1,000 pop",54087.0,3079
+West Virginia,Summers,1.7430459728375336,"Acres/1,000 pop",54089.0,3080
+West Virginia,Taylor,0.17651212049894094,"Acres/1,000 pop",54091.0,3082
+West Virginia,Tucker,1.7278617710583153,"Acres/1,000 pop",54093.0,3084
+West Virginia,Tyler,3.4333813268357516,"Acres/1,000 pop",54095.0,3085
+West Virginia,Upshur,2.1238359745139683,"Acres/1,000 pop",54097.0,3087
+West Virginia,Wayne,nan,"Acres/1,000 pop",54099.0,3089
+West Virginia,Webster,nan,"Acres/1,000 pop",54101.0,3091
+West Virginia,Wetzel,nan,"Acres/1,000 pop",54103.0,3093
+West Virginia,Wirt,0.0,"Acres/1,000 pop",54105.0,3095
+West Virginia,Wood,0.25408851519911296,"Acres/1,000 pop",54107.0,3097
+West Virginia,Wyoming,nan,"Acres/1,000 pop",54109.0,3099
+Wisconsin,Adams,29.285644674008385,"Acres/1,000 pop",55001.0,3101
+Wisconsin,Ashland,0.817250267177972,"Acres/1,000 pop",55003.0,3104
+Wisconsin,Barron,nan,"Acres/1,000 pop",55005.0,3106
+Wisconsin,Bayfield,2.3188021730488937,"Acres/1,000 pop",55007.0,3108
+Wisconsin,Brown,nan,"Acres/1,000 pop",55009.0,3111
+Wisconsin,Buffalo,nan,"Acres/1,000 pop",55011.0,3113
+Wisconsin,Burnett,2.3432923257176332,"Acres/1,000 pop",55013.0,3115
+Wisconsin,Calumet,1.5685328185328185,"Acres/1,000 pop",55015.0,3116
+Wisconsin,Chippewa,nan,"Acres/1,000 pop",55017.0,3117
+Wisconsin,Clark,6.760873980790993,"Acres/1,000 pop",55019.0,3119
+Wisconsin,Columbia,6.148121899362155,"Acres/1,000 pop",55021.0,3120
+Wisconsin,Crawford,3.929629405719122,"Acres/1,000 pop",55023.0,3122
+Wisconsin,Dane,1.1398070668038143,"Acres/1,000 pop",55025.0,3124
+Wisconsin,Dodge,7.384823848238482,"Acres/1,000 pop",55027.0,3126
+Wisconsin,Door,5.345082884900141,"Acres/1,000 pop",55029.0,3131
+Wisconsin,Douglas,0.11410575321207694,"Acres/1,000 pop",55031.0,3134
+Wisconsin,Dunn,14.612828333409206,"Acres/1,000 pop",55033.0,3135
+Wisconsin,Eau Claire,nan,"Acres/1,000 pop",55035.0,3137
+Wisconsin,Florence,0.0,"Acres/1,000 pop",55037.0,3138
+Wisconsin,Fond du Lac,1.8162896638391455,"Acres/1,000 pop",55039.0,3140
+Wisconsin,Forest,nan,"Acres/1,000 pop",55041.0,3141
+Wisconsin,Grant,2.1763425680842303,"Acres/1,000 pop",55043.0,3143
+Wisconsin,Green,1.3824510043099945,"Acres/1,000 pop",55045.0,3145
+Wisconsin,Green Lake,30.458715596330276,"Acres/1,000 pop",55047.0,3147
+Wisconsin,Iowa,nan,"Acres/1,000 pop",55049.0,3148
+Wisconsin,Iron,1.0097610232245036,"Acres/1,000 pop",55051.0,3151
+Wisconsin,Jackson,nan,"Acres/1,000 pop",55053.0,3153
+Wisconsin,Jefferson,nan,"Acres/1,000 pop",55055.0,3154
+Wisconsin,Juneau,nan,"Acres/1,000 pop",55057.0,3156
+Wisconsin,Kenosha,nan,"Acres/1,000 pop",55059.0,3158
+Wisconsin,Kewaunee,2.816080792386871,"Acres/1,000 pop",55061.0,3160
+Wisconsin,La Crosse,nan,"Acres/1,000 pop",55063.0,3161
+Wisconsin,Lafayette,1.4244168793400203,"Acres/1,000 pop",55065.0,3163
+Wisconsin,Langlade,287.140757260885,"Acres/1,000 pop",55067.0,3165
+Wisconsin,Lincoln,0.631911532385466,"Acres/1,000 pop",55069.0,3166
+Wisconsin,Manitowoc,3.3643796306603835,"Acres/1,000 pop",55071.0,3169
+Wisconsin,Marathon,8.638490678154943,"Acres/1,000 pop",55073.0,3170
+Wisconsin,Marinette,nan,"Acres/1,000 pop",55075.0,3172
+Wisconsin,Marquette,123.13875345895374,"Acres/1,000 pop",55077.0,3174
+Wisconsin,Menominee,0.0,"Acres/1,000 pop",55078.0,3175
+Wisconsin,Milwaukee,0.22511603946545936,"Acres/1,000 pop",55079.0,3177
+Wisconsin,Monroe,nan,"Acres/1,000 pop",55081.0,3179
+Wisconsin,Oconto,12.471291993804412,"Acres/1,000 pop",55083.0,3181
+Wisconsin,Oneida,nan,"Acres/1,000 pop",55085.0,3183
+Wisconsin,Outagamie,0.8887000944593182,"Acres/1,000 pop",55087.0,3185
+Wisconsin,Ozaukee,4.46751576263595,"Acres/1,000 pop",55089.0,3186
+Wisconsin,Pepin,nan,"Acres/1,000 pop",55091.0,3188
+Wisconsin,Pierce,3.6647154311574597,"Acres/1,000 pop",55093.0,3189
+Wisconsin,Polk,2.457058877560393,"Acres/1,000 pop",55095.0,3191
+Wisconsin,Portage,213.90070921985816,"Acres/1,000 pop",55097.0,3192
+Wisconsin,Price,0.3603343903142116,"Acres/1,000 pop",55099.0,3194
+Wisconsin,Racine,nan,"Acres/1,000 pop",55101.0,3195
+Wisconsin,Richland,nan,"Acres/1,000 pop",55103.0,3196
+Wisconsin,Rock,2.751297664204432,"Acres/1,000 pop",55105.0,3198
+Wisconsin,Rusk,0.5588543485854,"Acres/1,000 pop",55107.0,3199
+Wisconsin,St. Croix,1.0436944437929498,"Acres/1,000 pop",55109.0,3200
+Wisconsin,Sauk,3.9822796551889583,"Acres/1,000 pop",55111.0,3202
+Wisconsin,Sawyer,0.42293517008035775,"Acres/1,000 pop",55113.0,3203
+Wisconsin,Shawano,0.8650726901357683,"Acres/1,000 pop",55115.0,3205
+Wisconsin,Sheboygan,2.1302495435179547,"Acres/1,000 pop",55117.0,3207
+Wisconsin,Taylor,1.1717033637650733,"Acres/1,000 pop",55119.0,3208
+Wisconsin,Trempealeau,4.051753489955737,"Acres/1,000 pop",55121.0,3210
+Wisconsin,Vernon,20.258863252673045,"Acres/1,000 pop",55123.0,3213
+Wisconsin,Vilas,nan,"Acres/1,000 pop",55125.0,3001
+Wisconsin,Walworth,6.103536946290816,"Acres/1,000 pop",55127.0,3003
+Wisconsin,Washburn,8.46440528077822,"Acres/1,000 pop",55129.0,3004
+Wisconsin,Washington,1.0101847733492149,"Acres/1,000 pop",55131.0,3005
+Wisconsin,Waukesha,nan,"Acres/1,000 pop",55133.0,3007
+Wisconsin,Waupaca,9.186124723743635,"Acres/1,000 pop",55135.0,3009
+Wisconsin,Waushara,33.08282960300604,"Acres/1,000 pop",55137.0,3010
+Wisconsin,Winnebago,0.21337506001173562,"Acres/1,000 pop",55139.0,3012
+Wisconsin,Wood,0.9948375994837599,"Acres/1,000 pop",55141.0,3014
+Wyoming,Albany,nan,"Acres/1,000 pop",56001.0,3015
+Wyoming,Big Horn,0.2545608824777259,"Acres/1,000 pop",56003.0,3018
+Wyoming,Campbell,0.0,"Acres/1,000 pop",56005.0,3020
+Wyoming,Carbon,nan,"Acres/1,000 pop",56007.0,3022
+Wyoming,Converse,nan,"Acres/1,000 pop",56009.0,3024
+Wyoming,Crook,nan,"Acres/1,000 pop",56011.0,3025
+Wyoming,Fremont,nan,"Acres/1,000 pop",56013.0,3028
+Wyoming,Goshen,nan,"Acres/1,000 pop",56015.0,3030
+Wyoming,Hot Springs,nan,"Acres/1,000 pop",56017.0,3032
+Wyoming,Johnson,0.0,"Acres/1,000 pop",56019.0,3033
+Wyoming,Laramie,nan,"Acres/1,000 pop",56021.0,3035
+Wyoming,Lincoln,nan,"Acres/1,000 pop",56023.0,3036
+Wyoming,Natrona,0.06353320880824408,"Acres/1,000 pop",56025.0,3038
+Wyoming,Niobrara,nan,"Acres/1,000 pop",56027.0,3040
+Wyoming,Park,0.20787859889824342,"Acres/1,000 pop",56029.0,3043
+Wyoming,Platte,nan,"Acres/1,000 pop",56031.0,3045
+Wyoming,Sheridan,nan,"Acres/1,000 pop",56033.0,3047
+Wyoming,Sublette,nan,"Acres/1,000 pop",56035.0,3049
+Wyoming,Sweetwater,0.0,"Acres/1,000 pop",56037.0,3051
+Wyoming,Teton,0.0,"Acres/1,000 pop",56039.0,3053
+Wyoming,Uinta,0.0,"Acres/1,000 pop",56041.0,3055
+Wyoming,Washakie,nan,"Acres/1,000 pop",56043.0,3056
+Wyoming,Weston,0.0,"Acres/1,000 pop",56045.0,3058
