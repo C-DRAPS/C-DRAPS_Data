@@ -17,7 +17,7 @@ Alabama,Cleburne,-33.086801587,% change,1029,67
 Alabama,Coffee,37.859695023,% change,1031,70
 Alabama,Colbert,-19.695179193,% change,1033,73
 Alabama,Conecuh,-78.926088694,% change,1035,80
-Alabama,Coosa,nan,% change,1037,82
+Alabama,Coosa,0,% change,1037,82
 Alabama,Covington,-32.208134952,% change,1039,88
 Alabama,Crenshaw,-33.376477074,% change,1041,90
 Alabama,Cullman,12.706109032,% change,1043,98
@@ -71,7 +71,7 @@ Alaska,Aleutians West,29.621251668,% change,2016,381
 Alaska,Anchorage,2.748740231,% change,2020,400
 Alaska,Bethel,-3.136818687,% change,2050,411
 Alaska,Bristol Bay,-24.125230203,% change,2060,423
-Alaska,Denali,nan,% change,2068,426
+Alaska,Denali,0,% change,2068,426
 Alaska,Dillingham,-33.70846731,% change,2070,445
 Alaska,Fairbanks North Star,-14.644838075,% change,2090,454
 Alaska,Haines,1.698933228,% change,2100,462
@@ -80,7 +80,7 @@ Alaska,Juneau,-33.833256185,% change,2110,482
 Alaska,Kenai Peninsula,-13.94827194,% change,2122,494
 Alaska,Ketchikan Gateway,32.527136301,% change,2130,514
 Alaska,Kodiak Island,1.030777104,% change,2150,533
-Alaska,Lake and Peninsula,nan,% change,2164,544
+Alaska,Lake and Peninsula,0,% change,2164,544
 Alaska,Matanuska-Susitna,-26.592427546,% change,2170,556
 Alaska,Nome,24.878130778,% change,2180,571
 Alaska,North Slope,-21.12338668,% change,2185,614
@@ -230,7 +230,7 @@ California,Santa Barbara,-3.732428853,% change,6083,391
 California,Santa Clara,0.240295655,% change,6085,406
 California,Santa Cruz,-0.875323432,% change,6087,415
 California,Shasta,-8.502163567,% change,6089,431
-California,Sierra,nan,% change,6091,439
+California,Sierra,0,% change,6091,439
 California,Siskiyou,8.231379549,% change,6093,446
 California,Solano,-2.671173366,% change,6095,453
 California,Sonoma,1.157481967,% change,6097,463
@@ -299,7 +299,7 @@ Colorado,Rio Blanco,4.442387783,% change,8103,799
 Colorado,Rio Grande,-36.999470806,% change,8105,802
 Colorado,Routt,5.967624296,% change,8107,809
 Colorado,Saguache,141.025440924,% change,8109,811
-Colorado,San Juan,nan,% change,8111,347
+Colorado,San Juan,0,% change,8111,347
 Colorado,San Miguel,-6.215469613,% change,8113,359
 Colorado,Sedgwick,-1.621621622,% change,8115,366
 Colorado,Summit,-7.727812212,% change,8117,373
@@ -381,7 +381,7 @@ Florida,Seminole,-16.935365657,% change,12117,978
 Florida,Sumter,-25.942807039,% change,12119,979
 Florida,Suwannee,15.386487206,% change,12121,980
 Florida,Taylor,2.414323176,% change,12123,981
-Florida,Union,nan,% change,12125,982
+Florida,Union,0,% change,12125,982
 Florida,Volusia,-15.256063522,% change,12127,983
 Florida,Wakulla,45.700172495,% change,12129,984
 Florida,Walton,-15.055012225,% change,12131,985
@@ -503,7 +503,7 @@ Georgia,Pike,-66.932619167,% change,13231,7
 Georgia,Polk,64.969246745,% change,13233,8
 Georgia,Pulaski,4.731582206,% change,13235,11
 Georgia,Putnam,48.106552812,% change,13237,13
-Georgia,Quitman,nan,% change,13239,16
+Georgia,Quitman,0,% change,13239,16
 Georgia,Rabun,-1.560987415,% change,13241,18
 Georgia,Randolph,4.692041522,% change,13243,23
 Georgia,Richmond,5.027989573,% change,13245,24
@@ -513,7 +513,7 @@ Georgia,Screven,2.651083238,% change,13251,34
 Georgia,Seminole,3.789224393,% change,13253,38
 Georgia,Spalding,-14.99211058,% change,13255,41
 Georgia,Stephens,50.291556523,% change,13257,45
-Georgia,Stewart,nan,% change,13259,48
+Georgia,Stewart,0,% change,13259,48
 Georgia,Sumter,-20.732992917,% change,13261,52
 Georgia,Talbot,7.398079647,% change,13263,57
 Georgia,Taliaferro,0.0,% change,13265,60
@@ -1031,7 +1031,7 @@ Kentucky,Floyd,-13.977656956,% change,21071,1085
 Kentucky,Franklin,17.738102347,% change,21073,1086
 Kentucky,Fulton,9.142394822,% change,21075,1088
 Kentucky,Gallatin,97.250229148,% change,21077,1090
-Kentucky,Garrard,nan,% change,21079,1092
+Kentucky,Garrard,0,% change,21079,1092
 Kentucky,Grant,-0.602216155,% change,21081,1094
 Kentucky,Graves,26.413265855,% change,21083,1097
 Kentucky,Grayson,-1.484315226,% change,21085,1100
@@ -2391,7 +2391,7 @@ South Dakota,Haakon,1.911842804,% change,46055,2924
 South Dakota,Hamlin,51.505614154,% change,46057,2926
 South Dakota,Hand,4.478976234,% change,46059,2928
 South Dakota,Hanson,-0.471976401,% change,46061,2929
-South Dakota,Harding,nan,% change,46063,2931
+South Dakota,Harding,0,% change,46063,2931
 South Dakota,Hughes,-34.346020368,% change,46065,2933
 South Dakota,Hutchinson,-1.253747615,% change,46067,2934
 South Dakota,Hyde,-47.796863331,% change,46069,2937
@@ -2490,7 +2490,7 @@ Tennessee,Maury,-9.061481448,% change,47119,2850
 Tennessee,Meigs,30.208682067,% change,47121,2854
 Tennessee,Monroe,30.273166982,% change,47123,2857
 Tennessee,Montgomery,17.240900313,% change,47125,2859
-Tennessee,Moore,nan,% change,47127,2863
+Tennessee,Moore,0,% change,47127,2863
 Tennessee,Morgan,1.256674646,% change,47129,2866
 Tennessee,Obion,3.741073184,% change,47131,2872
 Tennessee,Overton,-27.976677977,% change,47133,2875
@@ -2526,7 +2526,7 @@ Texas,Anderson,-23.930209528,% change,48001,2113
 Texas,Andrews,-13.741099961,% change,48003,2117
 Texas,Angelina,21.459637937,% change,48005,2124
 Texas,Aransas,37.851632047,% change,48007,2162
-Texas,Archer,nan,% change,48009,2168
+Texas,Archer,0,% change,48009,2168
 Texas,Armstrong,4.364224138,% change,48011,2172
 Texas,Atascosa,-19.891857618,% change,48013,2173
 Texas,Austin,20.499713196,% change,48015,2177
@@ -2599,7 +2599,7 @@ Texas,Fannin,-19.959828681,% change,48147,2621
 Texas,Fayette,-34.20023933,% change,48149,2624
 Texas,Fisher,-32.027827879,% change,48151,2628
 Texas,Floyd,8.390061266,% change,48153,2630
-Texas,Foard,nan,% change,48155,2002
+Texas,Foard,0,% change,48155,2002
 Texas,Fort Bend,1.913396365,% change,48157,2009
 Texas,Franklin,-0.90064734,% change,48159,2016
 Texas,Freestone,-0.259581616,% change,48161,2022
@@ -2732,7 +2732,7 @@ Texas,Schleicher,7.930809399,% change,48413,2437
 Texas,Scurry,93.643144005,% change,48415,2443
 Texas,Shackelford,-0.772889417,% change,48417,2445
 Texas,Shelby,-16.818610906,% change,48419,2448
-Texas,Sherman,nan,% change,48421,2453
+Texas,Sherman,0,% change,48421,2453
 Texas,Smith,8.542176161,% change,48423,2465
 Texas,Somervell,-35.337941628,% change,48425,2470
 Texas,Starr,12.380013869,% change,48427,2474
@@ -2829,7 +2829,7 @@ Virginia,Arlington,2.345486357,% change,51013,2753
 Virginia,Augusta,8.333244176,% change,51015,2758
 Virginia,Bath,5.48379787,% change,51017,2763
 Virginia,Bedford County,-38.21807529,% change,51019,2769
-Virginia,Bland,nan,% change,51021,2772
+Virginia,Bland,0,% change,51021,2772
 Virginia,Botetourt,19.449773756,% change,51023,2776
 Virginia,Brunswick,5.259600614,% change,51025,2777
 Virginia,Buchanan,23.158860866,% change,51027,2784
@@ -2917,7 +2917,7 @@ Virginia,York,-31.943698149,% change,51199,2709
 Virginia,Alexandria,13.382796738,% change,51510,2712
 Virginia,Bedford City,0.0,% change,51515,2713
 Virginia,Bristol,4.690730785,% change,51520,2716
-Virginia,Buena Vista,nan,% change,51530,2720
+Virginia,Buena Vista,0,% change,51530,2720
 Virginia,Charlottesville,-7.298143214,% change,51540,2722
 Virginia,Chesapeake,10.657096805,% change,51550,2724
 Virginia,Colonial Heights,95.964176397,% change,51570,2727

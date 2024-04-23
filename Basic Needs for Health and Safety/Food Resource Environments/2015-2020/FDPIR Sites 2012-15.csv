@@ -202,7 +202,7 @@ California,Inyo,0.0,Count,6027,562
 California,Kern,0.0,Count,6029,84
 California,Kings,0.0,Count,6031,94
 California,Lake,0.0,Count,6033,100
-California,Lassen,nan,Count,6035,104
+California,Lassen,0,Count,6035,104
 California,Los Angeles,0.0,Count,6037,139
 California,Madera,0.0,Count,6039,153
 California,Marin,0.0,Count,6041,168
@@ -236,7 +236,7 @@ California,Solano,0.0,Count,6095,453
 California,Sonoma,0.0,Count,6097,463
 California,Stanislaus,0.0,Count,6099,473
 California,Sutter,0.0,Count,6101,483
-California,Tehama,nan,Count,6103,492
+California,Tehama,0,Count,6103,492
 California,Trinity,0.0,Count,6105,500
 California,Tulare,0.0,Count,6107,501
 California,Tuolumne,0.0,Count,6109,513
@@ -2214,16 +2214,16 @@ Oregon,Clatsop,0.0,Count,41007,2064
 Oregon,Columbia,0.0,Count,41009,2070
 Oregon,Coos,0.0,Count,41011,2083
 Oregon,Crook,0.0,Count,41013,2092
-Oregon,Curry,nan,Count,41015,2098
+Oregon,Curry,0,Count,41015,2098
 Oregon,Deschutes,0.0,Count,41017,2109
 Oregon,Douglas,0.0,Count,41019,2115
 Oregon,Gilliam,0.0,Count,41021,2121
 Oregon,Grant,0.0,Count,41023,2130
 Oregon,Harney,0.0,Count,41025,2134
 Oregon,Hood River,0.0,Count,41027,2138
-Oregon,Jackson,nan,Count,41029,2139
+Oregon,Jackson,0,Count,41029,2139
 Oregon,Jefferson,0.0,Count,41031,2143
-Oregon,Josephine,nan,Count,41033,2152
+Oregon,Josephine,0,Count,41033,2152
 Oregon,Klamath,0.0,Count,41035,2155
 Oregon,Lake,0.0,Count,41037,2159
 Oregon,Lane,0.0,Count,41039,2170
@@ -2960,7 +2960,7 @@ Washington,Chelan,0.0,Count,53007,2852
 Washington,Clallam,0.0,Count,53009,2861
 Washington,Clark,0.0,Count,53011,2865
 Washington,Columbia,0.0,Count,53013,2869
-Washington,Cowlitz,nan,Count,53015,2871
+Washington,Cowlitz,0,Count,53015,2871
 Washington,Douglas,0.0,Count,53017,2877
 Washington,Ferry,0.0,Count,53019,2880
 Washington,Franklin,0.0,Count,53021,2884
@@ -2973,7 +2973,7 @@ Washington,King,0.0,Count,53033,2913
 Washington,Kitsap,0.0,Count,53035,2927
 Washington,Kittitas,0.0,Count,53037,2932
 Washington,Klickitat,0.0,Count,53039,2935
-Washington,Lewis,nan,Count,53041,2940
+Washington,Lewis,0,Count,53041,2940
 Washington,Lincoln,0.0,Count,53043,2942
 Washington,Mason,0.0,Count,53045,2946
 Washington,Okanogan,0.0,Count,53047,2947

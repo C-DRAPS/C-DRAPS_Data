@@ -93,7 +93,7 @@ Alaska,Southeast Fairbanks,63.50380399863313,% change,2240,690
 Alaska,Valdez-Cordova,100.45349466484925,% change,2261,710
 Alaska,Wade Hampton,-7.4806275248169225,% change,2270,725
 Alaska,Wrangell,0.0,% change,2275,733
-Alaska,Yakutat,nan,% change,2282,744
+Alaska,Yakutat,0,% change,2282,744
 Alaska,Yukon-Koyukuk,0.0,% change,2290,753
 Arizona,Apache,9.21180286009042,% change,4001,761
 Arizona,Cochise,3.965709065791289,% change,4003,763
@@ -427,7 +427,7 @@ Georgia,Coweta,1.5119170988120463,% change,13077,700
 Georgia,Crawford,1470.6146082973003,% change,13079,704
 Georgia,Crisp,-72.58364750589762,% change,13081,707
 Georgia,Dade,36.15889480821078,% change,13083,708
-Georgia,Dawson,nan,% change,13085,713
+Georgia,Dawson,0,% change,13085,713
 Georgia,Decatur,-16.414048230295506,% change,13087,714
 Georgia,DeKalb,-7.728826860481211,% change,13089,718
 Georgia,Dodge,26.377557836948206,% change,13091,720
@@ -499,7 +499,7 @@ Georgia,Paulding,2.2595527992601414,% change,13223,908
 Georgia,Peach,-7.9367262191611765,% change,13225,910
 Georgia,Pickens,-7.638434592562186,% change,13227,912
 Georgia,Pierce,-2.634649755711043,% change,13229,915
-Georgia,Pike,nan,% change,13231,7
+Georgia,Pike,0,% change,13231,7
 Georgia,Polk,4.444718710015454,% change,13233,8
 Georgia,Pulaski,0.0,% change,13235,11
 Georgia,Putnam,-12.191048997156532,% change,13237,13
@@ -539,7 +539,7 @@ Georgia,Washington,-8.538692163689033,% change,13303,143
 Georgia,Wayne,1.3026868764400936,% change,13305,147
 Georgia,Webster,-9.350908134289352,% change,13307,149
 Georgia,Wheeler,2833.1602998102917,% change,13309,154
-Georgia,White,nan,% change,13311,157
+Georgia,White,0,% change,13311,157
 Georgia,Whitfield,-17.409904175837866,% change,13313,159
 Georgia,Wilcox,-0.44792325441035596,% change,13315,163
 Georgia,Wilkes,-38.2488364132154,% change,13317,167
@@ -611,7 +611,7 @@ Illinois,Clinton,54.58669096524752,% change,17027,27
 Illinois,Coles,2.5609696963106563,% change,17029,30
 Illinois,Cook,-11.411285260377428,% change,17031,36
 Illinois,Crawford,1.30507982453071,% change,17033,40
-Illinois,Cumberland,nan,% change,17035,44
+Illinois,Cumberland,0,% change,17035,44
 Illinois,DeKalb,4.825964453261877,% change,17037,49
 Illinois,De Witt,-8.16269478828569,% change,17039,53
 Illinois,Douglas,0.0,% change,17041,55
@@ -671,7 +671,7 @@ Illinois,Piatt,-0.9170825218792145,% change,17147,238
 Illinois,Pike,-23.78870596552403,% change,17149,241
 Illinois,Pope,-20.207564913623358,% change,17151,245
 Illinois,Pulaski,-60.01229708629923,% change,17153,248
-Illinois,Putnam,nan,% change,17155,253
+Illinois,Putnam,0,% change,17155,253
 Illinois,Randolph,-14.996263481910594,% change,17157,255
 Illinois,Richland,23.428922607778457,% change,17159,259
 Illinois,Rock Island,-11.728039314279192,% change,17161,265
@@ -753,7 +753,7 @@ Indiana,Montgomery,18.42466340566043,% change,18107,425
 Indiana,Morgan,-25.169495394001405,% change,18109,430
 Indiana,Newton,978.1498385789771,% change,18111,433
 Indiana,Noble,-17.54169768069909,% change,18113,436
-Indiana,Ohio,nan,% change,18115,440
+Indiana,Ohio,0,% change,18115,440
 Indiana,Orange,57.77686523011979,% change,18117,444
 Indiana,Owen,22.353762123358198,% change,18119,448
 Indiana,Parke,23.774471862787504,% change,18121,452
@@ -776,7 +776,7 @@ Indiana,Sullivan,-1.6169237029536672,% change,18153,518
 Indiana,Switzerland,0.0,% change,18155,526
 Indiana,Tippecanoe,-10.550356868375884,% change,18157,530
 Indiana,Tipton,-67.74326770123385,% change,18159,534
-Indiana,Union,nan,% change,18161,538
+Indiana,Union,0,% change,18161,538
 Indiana,Vanderburgh,1.4615651341869489,% change,18163,543
 Indiana,Vermillion,-12.437697147933745,% change,18165,548
 Indiana,Vigo,25.90359843912653,% change,18167,553
@@ -1019,7 +1019,7 @@ Kentucky,Christian,24.07391525229753,% change,21047,1050
 Kentucky,Clark,-2.9280123384218117,% change,21049,1053
 Kentucky,Clay,-40.452607156673956,% change,21051,1056
 Kentucky,Clinton,-90.23714216575196,% change,21053,1059
-Kentucky,Crittenden,nan,% change,21055,1064
+Kentucky,Crittenden,0,% change,21055,1064
 Kentucky,Cumberland,-12.158079108481859,% change,21057,1067
 Kentucky,Daviess,-8.011985132956474,% change,21059,1071
 Kentucky,Edmonson,22.95512097122738,% change,21061,1073
@@ -1030,7 +1030,7 @@ Kentucky,Fleming,-4.349730783893311,% change,21069,1083
 Kentucky,Floyd,7.960367245123166,% change,21071,1085
 Kentucky,Franklin,-38.65775411829324,% change,21073,1086
 Kentucky,Fulton,164.01331669550586,% change,21075,1088
-Kentucky,Gallatin,nan,% change,21077,1090
+Kentucky,Gallatin,0,% change,21077,1090
 Kentucky,Garrard,-98.08895762460443,% change,21079,1092
 Kentucky,Grant,3.291759242182885,% change,21081,1094
 Kentucky,Graves,-21.453910546551985,% change,21083,1097
@@ -1058,7 +1058,7 @@ Kentucky,Laurel,-17.76027484079304,% change,21125,1166
 Kentucky,Lawrence,36.13662706269413,% change,21127,1167
 Kentucky,Lee,41.808972950415615,% change,21129,1171
 Kentucky,Leslie,-19.17962082085111,% change,21131,1175
-Kentucky,Letcher,nan,% change,21133,1178
+Kentucky,Letcher,0,% change,21133,1178
 Kentucky,Lewis,3.1868280990181646,% change,21135,1180
 Kentucky,Lincoln,127.4573080066833,% change,21137,1184
 Kentucky,Livingston,819.2532967184244,% change,21139,1187
@@ -1074,7 +1074,7 @@ Kentucky,Marshall,0.0,% change,21157,1213
 Kentucky,Martin,-75.0180098688282,% change,21159,1215
 Kentucky,Mason,30.00500034786866,% change,21161,1217
 Kentucky,Meade,-0.9940735889352561,% change,21163,1220
-Kentucky,Menifee,nan,% change,21165,1222
+Kentucky,Menifee,0,% change,21165,1222
 Kentucky,Mercer,26.539165970380395,% change,21167,1225
 Kentucky,Metcalfe,-0.9521369751484524,% change,21169,1228
 Kentucky,Monroe,-15.926106147354169,% change,21171,1230
@@ -1099,7 +1099,7 @@ Kentucky,Russell,-51.42043573822554,% change,21207,1282
 Kentucky,Scott,59.02463802024515,% change,21209,1283
 Kentucky,Shelby,15.531377983774398,% change,21211,1285
 Kentucky,Simpson,0.0001808707748485204,% change,21213,1287
-Kentucky,Spencer,nan,% change,21215,1000
+Kentucky,Spencer,0,% change,21215,1000
 Kentucky,Taylor,135.66957300216015,% change,21217,1003
 Kentucky,Todd,-94.38862645027528,% change,21219,1006
 Kentucky,Trigg,6.360453775618299,% change,21221,1009
@@ -1239,7 +1239,7 @@ Michigan,Arenac,11232.759410102526,% change,26011,1621
 Michigan,Baraga,13.919627020106907,% change,26013,1624
 Michigan,Barry,-0.8918057995716442,% change,26015,1627
 Michigan,Bay,19.607573539856674,% change,26017,1631
-Michigan,Benzie,nan,% change,26019,1634
+Michigan,Benzie,0,% change,26019,1634
 Michigan,Berrien,9.375972540852363,% change,26021,1635
 Michigan,Branch,-81.78288184375523,% change,26023,1640
 Michigan,Calhoun,-3.9487742856177266,% change,26025,1641
@@ -1415,7 +1415,7 @@ Mississippi,Clarke,1.2803933908340726,% change,28023,1557
 Mississippi,Clay,82.01766024346172,% change,28025,1559
 Mississippi,Coahoma,3.2317857130631045,% change,28027,1562
 Mississippi,Copiah,-22.12508075957643,% change,28029,1564
-Mississippi,Covington,nan,% change,28031,1567
+Mississippi,Covington,0,% change,28031,1567
 Mississippi,DeSoto,-2.99424550738369,% change,28033,1571
 Mississippi,Forrest,-5.912552251237654,% change,28035,1572
 Mississippi,Franklin,-2.2420145080325486,% change,28037,1575
@@ -1894,7 +1894,7 @@ North Carolina,Alexander,-2.0321915790796603,% change,37003,1968
 North Carolina,Alleghany,10.706243941769099,% change,37005,1970
 North Carolina,Anson,14.445333356990531,% change,37007,1972
 North Carolina,Ashe,5.201818216972452,% change,37009,1975
-North Carolina,Avery,nan,% change,37011,1977
+North Carolina,Avery,0,% change,37011,1977
 North Carolina,Beaufort,-29.062635111332725,% change,37013,1981
 North Carolina,Bertie,-36.80576587363083,% change,37015,1983
 North Carolina,Bladen,-0.24961895930988584,% change,37017,1986
@@ -1928,7 +1928,7 @@ North Carolina,Gaston,-0.0608272011345157,% change,37071,1499
 North Carolina,Gates,0.0,% change,37073,1500
 North Carolina,Graham,0.0,% change,37075,1502
 North Carolina,Granville,19.743543228558238,% change,37077,1503
-North Carolina,Greene,nan,% change,37079,1505
+North Carolina,Greene,0,% change,37079,1505
 North Carolina,Guilford,-2.265386280734315,% change,37081,1506
 North Carolina,Halifax,-12.472158698673471,% change,37083,1508
 North Carolina,Harnett,-5.097972115568174,% change,37085,1509
@@ -1949,7 +1949,7 @@ North Carolina,Macon,3.117751915289372,% change,37113,1556
 North Carolina,Madison,20.42221257825826,% change,37115,1560
 North Carolina,Martin,58.32830697600728,% change,37117,1563
 North Carolina,Mecklenburg,-19.72155707810955,% change,37119,1565
-North Carolina,Mitchell,nan,% change,37121,1568
+North Carolina,Mitchell,0,% change,37121,1568
 North Carolina,Montgomery,69.39214748195035,% change,37123,1573
 North Carolina,Moore,-21.82362551079724,% change,37125,1584
 North Carolina,Nash,7.965839712833272,% change,37127,1588
@@ -2511,7 +2511,7 @@ Tennessee,Stewart,-86.11237940507077,% change,47161,2041
 Tennessee,Sullivan,-10.220637932291185,% change,47163,2046
 Tennessee,Sumner,6.163162344272711,% change,47165,2050
 Tennessee,Tipton,-15.40676717649677,% change,47167,2055
-Tennessee,Trousdale,nan,% change,47169,2062
+Tennessee,Trousdale,0,% change,47169,2062
 Tennessee,Unicoi,97.62200630098943,% change,47171,2069
 Tennessee,Union,1591.8268971152302,% change,47173,2073
 Tennessee,Van Buren,-60.84424118373638,% change,47175,2077
@@ -2711,7 +2711,7 @@ Texas,Pecos,-2.858167131652202,% change,48371,2239
 Texas,Polk,-15.72153219683673,% change,48373,2243
 Texas,Potter,-30.85735795825949,% change,48375,2247
 Texas,Presidio,307.77765880847994,% change,48377,2261
-Texas,Rains,nan,% change,48379,2268
+Texas,Rains,0,% change,48379,2268
 Texas,Randall,-42.30511198687583,% change,48381,2274
 Texas,Reagan,0.0,% change,48383,2280
 Texas,Real,0.0,% change,48385,2283
@@ -2832,7 +2832,7 @@ Virginia,Bedford County,-9.697404092756152,% change,51019,2769
 Virginia,Bland,-67.44900221544432,% change,51021,2772
 Virginia,Botetourt,50.95167395273607,% change,51023,2776
 Virginia,Brunswick,-3.2163348058676338,% change,51025,2777
-Virginia,Buchanan,nan,% change,51027,2784
+Virginia,Buchanan,0,% change,51027,2784
 Virginia,Buckingham,-35.369474398174155,% change,51029,2785
 Virginia,Campbell,-30.117629496038028,% change,51031,2788
 Virginia,Caroline,-2.0993724012466144,% change,51033,2793
@@ -2844,7 +2844,7 @@ Virginia,Clarke,-38.824965578390305,% change,51043,2819
 Virginia,Craig,-9.076918649256244,% change,51045,2820
 Virginia,Culpeper,28.988295964403875,% change,51047,2824
 Virginia,Cumberland,-6.625467613869146,% change,51049,2827
-Virginia,Dickenson,nan,% change,51051,2832
+Virginia,Dickenson,0,% change,51051,2832
 Virginia,Dinwiddie,32.26634318059643,% change,51053,2838
 Virginia,Essex,-11.486542827773986,% change,51057,2842
 Virginia,Fairfax County,-0.16049331179411028,% change,51059,2849
@@ -2867,7 +2867,7 @@ Virginia,Highland,2.7928847249848455e-13,% change,51091,2920
 Virginia,Isle of Wight,0.021175670987334215,% change,51093,2925
 Virginia,James City,8.037643409457793,% change,51095,2930
 Virginia,King and Queen,-27.105524121433287,% change,51097,2936
-Virginia,King George,nan,% change,51099,2938
+Virginia,King George,0,% change,51099,2938
 Virginia,King William,10.346400687401662,% change,51101,2943
 Virginia,Lancaster,5.223186122521203,% change,51103,2948
 Virginia,Lee,0.0,% change,51105,2950
@@ -2914,7 +2914,7 @@ Virginia,Westmoreland,-66.73242793741096,% change,51193,2684
 Virginia,Wise,-21.073089875822077,% change,51195,2695
 Virginia,Wythe,-0.023399646027740188,% change,51197,2699
 Virginia,York,4.789905485092774,% change,51199,2709
-Virginia,Alexandria,nan,% change,51510,2712
+Virginia,Alexandria,0,% change,51510,2712
 Virginia,Bedford City,0.0,% change,51515,2713
 Virginia,Bristol,-3.560049968135476,% change,51520,2716
 Virginia,Buena Vista,-2.5707677106667064,% change,51530,2720
@@ -2924,8 +2924,8 @@ Virginia,Colonial Heights,-6.651498471240186,% change,51570,2727
 Virginia,Covington,6.749238743046145,% change,51580,2729
 Virginia,Danville,-4.880510954942537,% change,51590,2732
 Virginia,Emporia,-31.78207607390134,% change,51595,2736
-Virginia,Fairfax City,nan,% change,51600,2737
-Virginia,Falls Church,nan,% change,51610,2740
+Virginia,Fairfax City,0,% change,51600,2737
+Virginia,Falls Church,0,% change,51610,2740
 Virginia,Franklin City,2.0668138061451575,% change,51620,2744
 Virginia,Fredericksburg,-64.2852229455073,% change,51630,2745
 Virginia,Galax,-14.526386538580788,% change,51640,2747
@@ -3013,7 +3013,7 @@ West Virginia,Jackson,-7.29217174325591,% change,54035,3023
 West Virginia,Jefferson,-18.200310111725273,% change,54037,3026
 West Virginia,Kanawha,-3.901873174018163,% change,54039,3027
 West Virginia,Lewis,31.958729466067886,% change,54041,3029
-West Virginia,Lincoln,nan,% change,54043,3031
+West Virginia,Lincoln,0,% change,54043,3031
 West Virginia,Logan,4.68476502719125,% change,54045,3034
 West Virginia,McDowell,-67.43636208667621,% change,54047,3037
 West Virginia,Marion,4.9444150407202745,% change,54049,3039
@@ -3093,7 +3093,7 @@ Wisconsin,Oconto,-3.208932659713995,% change,55083,3181
 Wisconsin,Oneida,-24.09580633405938,% change,55085,3183
 Wisconsin,Outagamie,-14.668464370275478,% change,55087,3185
 Wisconsin,Ozaukee,-2.2462060250494518,% change,55089,3186
-Wisconsin,Pepin,nan,% change,55091,3188
+Wisconsin,Pepin,0,% change,55091,3188
 Wisconsin,Pierce,49.35040120543573,% change,55093,3189
 Wisconsin,Polk,-8.146125874476317,% change,55095,3191
 Wisconsin,Portage,-22.48727012158408,% change,55097,3192

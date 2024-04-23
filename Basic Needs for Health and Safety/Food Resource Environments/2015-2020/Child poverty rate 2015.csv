@@ -91,7 +91,7 @@ Alaska,Sitka,10.4,Percent,2220,679
 Alaska,Skagway,6.3,Percent,2230,683
 Alaska,Southeast Fairbanks,21.4,Percent,2240,690
 Alaska,Valdez-Cordova,12.2,Percent,2261,710
-Alaska,Wade Hampton,nan,Percent,2270,725
+Alaska,Wade Hampton,0,Percent,2270,725
 Alaska,Wrangell,16.0,Percent,2275,733
 Alaska,Yakutat,26.1,Percent,2282,744
 Alaska,Yukon-Koyukuk,34.4,Percent,2290,753
@@ -547,7 +547,7 @@ Georgia,Wilkinson,34.2,Percent,13319,169
 Georgia,Worth,34.3,Percent,13321,173
 Hawaii,Hawaii,28.5,Percent,15001,198
 Hawaii,Honolulu,11.5,Percent,15003,234
-Hawaii,Kalawao,nan,Percent,15005,247
+Hawaii,Kalawao,0,Percent,15005,247
 Hawaii,Kauai,15.9,Percent,15007,261
 Hawaii,Maui,15.3,Percent,15009,323
 Idaho,Ada,12.2,Percent,16001,336
@@ -2416,7 +2416,7 @@ South Dakota,Perkins,15.0,Percent,46105,2502
 South Dakota,Potter,13.0,Percent,46107,2506
 South Dakota,Roberts,29.0,Percent,46109,2511
 South Dakota,Sanborn,18.1,Percent,46111,2514
-South Dakota,Shannon,nan,Percent,46113,2519
+South Dakota,Shannon,0,Percent,46113,2519
 South Dakota,Spink,15.2,Percent,46115,2523
 South Dakota,Stanley,11.0,Percent,46117,2530
 South Dakota,Sully,8.6,Percent,46119,2535
@@ -2915,7 +2915,7 @@ Virginia,Wise,30.9,Percent,51195,2695
 Virginia,Wythe,21.3,Percent,51197,2699
 Virginia,York,6.8,Percent,51199,2709
 Virginia,Alexandria,14.5,Percent,51510,2712
-Virginia,Bedford City,nan,Percent,51515,2713
+Virginia,Bedford City,0,Percent,51515,2713
 Virginia,Bristol,33.4,Percent,51520,2716
 Virginia,Buena Vista,24.6,Percent,51530,2720
 Virginia,Charlottesville,22.6,Percent,51540,2722
