@@ -12,7 +12,7 @@ Alabama,Cherokee,115.0,Acres,1019.0,51
 Alabama,Chilton,411.0,Acres,1021.0,56
 Alabama,Choctaw,52.0,Acres,1023.0,58
 Alabama,Clarke,46.0,Acres,1025.0,61
-Alabama,Clay,nan,Acres,1027.0,65
+Alabama,Clay,0,Acres,1027.0,65
 Alabama,Cleburne,17.0,Acres,1029.0,67
 Alabama,Coffee,126.0,Acres,1031.0,70
 Alabama,Colbert,61.0,Acres,1033.0,73
@@ -55,7 +55,7 @@ Alabama,Perry,119.0,Acres,1105.0,264
 Alabama,Pickens,44.0,Acres,1107.0,273
 Alabama,Pike,95.0,Acres,1109.0,279
 Alabama,Randolph,112.0,Acres,1111.0,284
-Alabama,Russell,nan,Acres,1113.0,288
+Alabama,Russell,0,Acres,1113.0,288
 Alabama,St. Clair,585.0,Acres,1115.0,292
 Alabama,Shelby,51.0,Acres,1117.0,298
 Alabama,Sumter,116.0,Acres,1119.0,303
@@ -66,51 +66,51 @@ Alabama,Walker,456.0,Acres,1127.0,317
 Alabama,Washington,95.0,Acres,1129.0,319
 Alabama,Wilcox,53.0,Acres,1131.0,326
 Alabama,Winston,31.0,Acres,1133.0,332
-Alaska,Aleutians East,nan,Acres,2013.0,346
-Alaska,Aleutians West,nan,Acres,2016.0,381
+Alaska,Aleutians East,0,Acres,2013.0,346
+Alaska,Aleutians West,0,Acres,2016.0,381
 Alaska,Anchorage,827.0,Acres,2020.0,400
-Alaska,Bethel,nan,Acres,2050.0,411
-Alaska,Bristol Bay,nan,Acres,2060.0,423
-Alaska,Denali,nan,Acres,2068.0,426
-Alaska,Dillingham,nan,Acres,2070.0,445
+Alaska,Bethel,0,Acres,2050.0,411
+Alaska,Bristol Bay,0,Acres,2060.0,423
+Alaska,Denali,0,Acres,2068.0,426
+Alaska,Dillingham,0,Acres,2070.0,445
 Alaska,Fairbanks North Star,340.0,Acres,2090.0,454
-Alaska,Haines,nan,Acres,2100.0,462
-Alaska,Hoonah-Angoon,nan,Acres,2105.0,476
-Alaska,Juneau,nan,Acres,2110.0,482
-Alaska,Kenai Peninsula,nan,Acres,2122.0,494
-Alaska,Ketchikan Gateway,nan,Acres,2130.0,514
-Alaska,Kodiak Island,nan,Acres,2150.0,533
-Alaska,Lake and Peninsula,nan,Acres,2164.0,544
-Alaska,Matanuska-Susitna,nan,Acres,2170.0,556
-Alaska,Nome,nan,Acres,2180.0,571
-Alaska,North Slope,nan,Acres,2185.0,614
-Alaska,Northwest Arctic,nan,Acres,2188.0,638
-Alaska,Petersburg,nan,Acres,2195.0,645
-Alaska,Prince of Wales-Hyder,nan,Acres,2198.0,669
-Alaska,Sitka,nan,Acres,2220.0,679
-Alaska,Skagway,nan,Acres,2230.0,683
-Alaska,Southeast Fairbanks,nan,Acres,2240.0,690
-Alaska,Valdez-Cordova,nan,Acres,2261.0,710
-Alaska,Wade Hampton,nan,Acres,2270.0,725
-Alaska,Wrangell,nan,Acres,2275.0,733
-Alaska,Yakutat,nan,Acres,2282.0,744
-Alaska,Yukon-Koyukuk,nan,Acres,2290.0,753
+Alaska,Haines,0,Acres,2100.0,462
+Alaska,Hoonah-Angoon,0,Acres,2105.0,476
+Alaska,Juneau,0,Acres,2110.0,482
+Alaska,Kenai Peninsula,0,Acres,2122.0,494
+Alaska,Ketchikan Gateway,0,Acres,2130.0,514
+Alaska,Kodiak Island,0,Acres,2150.0,533
+Alaska,Lake and Peninsula,0,Acres,2164.0,544
+Alaska,Matanuska-Susitna,0,Acres,2170.0,556
+Alaska,Nome,0,Acres,2180.0,571
+Alaska,North Slope,0,Acres,2185.0,614
+Alaska,Northwest Arctic,0,Acres,2188.0,638
+Alaska,Petersburg,0,Acres,2195.0,645
+Alaska,Prince of Wales-Hyder,0,Acres,2198.0,669
+Alaska,Sitka,0,Acres,2220.0,679
+Alaska,Skagway,0,Acres,2230.0,683
+Alaska,Southeast Fairbanks,0,Acres,2240.0,690
+Alaska,Valdez-Cordova,0,Acres,2261.0,710
+Alaska,Wade Hampton,0,Acres,2270.0,725
+Alaska,Wrangell,0,Acres,2275.0,733
+Alaska,Yakutat,0,Acres,2282.0,744
+Alaska,Yukon-Koyukuk,0,Acres,2290.0,753
 Arizona,Apache,3900.0,Acres,4001.0,761
 Arizona,Cochise,3253.0,Acres,4003.0,763
 Arizona,Coconino,785.0,Acres,4005.0,771
 Arizona,Gila,17.0,Acres,4007.0,787
-Arizona,Graham,nan,Acres,4009.0,0
-Arizona,Greenlee,nan,Acres,4011.0,1
+Arizona,Graham,0,Acres,4009.0,0
+Arizona,Greenlee,0,Acres,4011.0,1
 Arizona,La Paz,9921.0,Acres,4012.0,3
 Arizona,Maricopa,17472.0,Acres,4013.0,9
-Arizona,Mohave,nan,Acres,4015.0,15
+Arizona,Mohave,0,Acres,4015.0,15
 Arizona,Navajo,2024.0,Acres,4017.0,17
 Arizona,Pima,83.0,Acres,4019.0,21
 Arizona,Pinal,9811.0,Acres,4021.0,26
-Arizona,Santa Cruz,nan,Acres,4023.0,32
+Arizona,Santa Cruz,0,Acres,4023.0,32
 Arizona,Yavapai,136.0,Acres,4025.0,35
 Arizona,Yuma,89856.0,Acres,4027.0,42
-Arkansas,Arkansas,nan,Acres,5001.0,46
+Arkansas,Arkansas,0,Acres,5001.0,46
 Arkansas,Ashley,598.0,Acres,5003.0,50
 Arkansas,Baxter,18.0,Acres,5005.0,54
 Arkansas,Benton,594.0,Acres,5007.0,59
@@ -118,35 +118,35 @@ Arkansas,Boone,47.0,Acres,5009.0,62
 Arkansas,Bradley,675.0,Acres,5011.0,68
 Arkansas,Calhoun,36.0,Acres,5013.0,72
 Arkansas,Carroll,34.0,Acres,5015.0,74
-Arkansas,Chicot,nan,Acres,5017.0,77
+Arkansas,Chicot,0,Acres,5017.0,77
 Arkansas,Clark,79.0,Acres,5019.0,86
-Arkansas,Clay,nan,Acres,5021.0,93
-Arkansas,Cleburne,nan,Acres,5023.0,97
-Arkansas,Cleveland,nan,Acres,5025.0,103
+Arkansas,Clay,0,Acres,5021.0,93
+Arkansas,Cleburne,0,Acres,5023.0,97
+Arkansas,Cleveland,0,Acres,5025.0,103
 Arkansas,Columbia,62.0,Acres,5027.0,107
 Arkansas,Conway,6.0,Acres,5029.0,109
 Arkansas,Craighead,175.0,Acres,5031.0,114
 Arkansas,Crawford,470.0,Acres,5033.0,115
 Arkansas,Crittenden,0.0,Acres,5035.0,119
 Arkansas,Cross,1693.0,Acres,5037.0,124
-Arkansas,Dallas,nan,Acres,5039.0,128
-Arkansas,Desha,nan,Acres,5041.0,130
+Arkansas,Dallas,0,Acres,5039.0,128
+Arkansas,Desha,0,Acres,5041.0,130
 Arkansas,Drew,62.0,Acres,5043.0,136
 Arkansas,Faulkner,111.0,Acres,5045.0,141
-Arkansas,Franklin,nan,Acres,5047.0,144
-Arkansas,Fulton,nan,Acres,5049.0,146
+Arkansas,Franklin,0,Acres,5047.0,144
+Arkansas,Fulton,0,Acres,5049.0,146
 Arkansas,Garland,22.0,Acres,5051.0,151
 Arkansas,Grant,119.0,Acres,5053.0,155
-Arkansas,Greene,nan,Acres,5055.0,162
+Arkansas,Greene,0,Acres,5055.0,162
 Arkansas,Hempstead,79.0,Acres,5057.0,172
 Arkansas,Hot Spring,71.0,Acres,5059.0,184
-Arkansas,Howard,nan,Acres,5061.0,191
+Arkansas,Howard,0,Acres,5061.0,191
 Arkansas,Independence,6.0,Acres,5063.0,200
 Arkansas,Izard,22.0,Acres,5065.0,203
 Arkansas,Jackson,1291.0,Acres,5067.0,209
 Arkansas,Jefferson,104.0,Acres,5069.0,213
 Arkansas,Johnson,12.0,Acres,5071.0,218
-Arkansas,Lafayette,nan,Acres,5073.0,222
+Arkansas,Lafayette,0,Acres,5073.0,222
 Arkansas,Lawrence,34.0,Acres,5075.0,230
 Arkansas,Lee,76.0,Acres,5077.0,237
 Arkansas,Lincoln,1210.0,Acres,5079.0,244
@@ -154,21 +154,21 @@ Arkansas,Little River,21.0,Acres,5081.0,251
 Arkansas,Logan,24.0,Acres,5083.0,258
 Arkansas,Lonoke,1273.0,Acres,5085.0,268
 Arkansas,Madison,21.0,Acres,5087.0,277
-Arkansas,Marion,nan,Acres,5089.0,282
+Arkansas,Marion,0,Acres,5089.0,282
 Arkansas,Miller,52.0,Acres,5091.0,287
 Arkansas,Mississippi,169.0,Acres,5093.0,294
-Arkansas,Monroe,nan,Acres,5095.0,300
+Arkansas,Monroe,0,Acres,5095.0,300
 Arkansas,Montgomery,8.0,Acres,5097.0,304
 Arkansas,Nevada,63.0,Acres,5099.0,307
 Arkansas,Newton,9.0,Acres,5101.0,311
 Arkansas,Ouachita,36.0,Acres,5103.0,316
 Arkansas,Perry,14.0,Acres,5105.0,318
 Arkansas,Phillips,52.0,Acres,5107.0,322
-Arkansas,Pike,nan,Acres,5109.0,327
+Arkansas,Pike,0,Acres,5109.0,327
 Arkansas,Poinsett,20.0,Acres,5111.0,333
 Arkansas,Polk,3.0,Acres,5113.0,337
 Arkansas,Pope,72.0,Acres,5115.0,340
-Arkansas,Prairie,nan,Acres,5117.0,345
+Arkansas,Prairie,0,Acres,5117.0,345
 Arkansas,Pulaski,1759.0,Acres,5119.0,350
 Arkansas,Randolph,49.0,Acres,5121.0,353
 Arkansas,St. Francis,324.0,Acres,5123.0,357
@@ -180,12 +180,12 @@ Arkansas,Sevier,6.0,Acres,5133.0,390
 Arkansas,Sharp,67.0,Acres,5135.0,394
 Arkansas,Stone,17.0,Acres,5137.0,399
 Arkansas,Union,77.0,Acres,5139.0,403
-Arkansas,Van Buren,nan,Acres,5141.0,407
+Arkansas,Van Buren,0,Acres,5141.0,407
 Arkansas,Washington,134.0,Acres,5143.0,417
 Arkansas,White,89.0,Acres,5145.0,428
 Arkansas,Woodruff,445.0,Acres,5147.0,435
 Arkansas,Yell,15.0,Acres,5149.0,438
-California,Alameda,nan,Acres,6001.0,457
+California,Alameda,0,Acres,6001.0,457
 California,Alpine,0.0,Acres,6003.0,461
 California,Amador,6.0,Acres,6005.0,472
 California,Butte,258.0,Acres,6007.0,486
@@ -198,7 +198,7 @@ California,Fresno,195401.0,Acres,6019.0,527
 California,Glenn,1961.0,Acres,6021.0,537
 California,Humboldt,282.0,Acres,6023.0,551
 California,Imperial,83486.0,Acres,6025.0,557
-California,Inyo,nan,Acres,6027.0,562
+California,Inyo,0,Acres,6027.0,562
 California,Kern,83755.0,Acres,6029.0,84
 California,Kings,31856.0,Acres,6031.0,94
 California,Lake,31.0,Acres,6033.0,100
@@ -210,7 +210,7 @@ California,Mariposa,2.0,Acres,6043.0,178
 California,Mendocino,255.0,Acres,6045.0,190
 California,Merced,59533.0,Acres,6047.0,204
 California,Modoc,4152.0,Acres,6049.0,207
-California,Mono,nan,Acres,6051.0,214
+California,Mono,0,Acres,6051.0,214
 California,Monterey,253704.0,Acres,6053.0,228
 California,Napa,29.0,Acres,6055.0,236
 California,Nevada,62.0,Acres,6057.0,243
@@ -246,8 +246,8 @@ California,Yuba,86.0,Acres,6115.0,541
 Colorado,Adams,1161.0,Acres,8001.0,545
 Colorado,Alamosa,19591.0,Acres,8003.0,549
 Colorado,Arapahoe,11.0,Acres,8005.0,558
-Colorado,Archuleta,nan,Acres,8007.0,560
-Colorado,Baca,nan,Acres,8009.0,563
+Colorado,Archuleta,0,Acres,8007.0,560
+Colorado,Baca,0,Acres,8009.0,563
 Colorado,Bent,1.0,Acres,8011.0,564
 Colorado,Boulder,520.0,Acres,8013.0,570
 Colorado,Broomfield,0.0,Acres,8014.0,577
@@ -256,30 +256,30 @@ Colorado,Cheyenne,0.0,Acres,8017.0,587
 Colorado,Clear Creek,0.0,Acres,8019.0,591
 Colorado,Conejos,1120.0,Acres,8021.0,596
 Colorado,Costilla,4544.0,Acres,8023.0,599
-Colorado,Crowley,nan,Acres,8025.0,605
-Colorado,Custer,nan,Acres,8027.0,610
+Colorado,Crowley,0,Acres,8025.0,605
+Colorado,Custer,0,Acres,8027.0,610
 Colorado,Delta,1135.0,Acres,8029.0,617
-Colorado,Denver,nan,Acres,8031.0,628
-Colorado,Dolores,nan,Acres,8033.0,636
+Colorado,Denver,0,Acres,8031.0,628
+Colorado,Dolores,0,Acres,8033.0,636
 Colorado,Douglas,11.0,Acres,8035.0,644
 Colorado,Eagle,0.0,Acres,8037.0,648
-Colorado,Elbert,nan,Acres,8039.0,655
+Colorado,Elbert,0,Acres,8039.0,655
 Colorado,El Paso,26.0,Acres,8041.0,661
 Colorado,Fremont,16.0,Acres,8043.0,664
 Colorado,Garfield,12.0,Acres,8045.0,667
 Colorado,Gilpin,0.0,Acres,8047.0,672
-Colorado,Grand,nan,Acres,8049.0,677
-Colorado,Gunnison,nan,Acres,8051.0,682
+Colorado,Grand,0,Acres,8049.0,677
+Colorado,Gunnison,0,Acres,8051.0,682
 Colorado,Hinsdale,0.0,Acres,8053.0,688
-Colorado,Huerfano,nan,Acres,8055.0,693
+Colorado,Huerfano,0,Acres,8055.0,693
 Colorado,Jackson,0.0,Acres,8057.0,701
 Colorado,Jefferson,43.0,Acres,8059.0,706
-Colorado,Kiowa,nan,Acres,8061.0,711
-Colorado,Kit Carson,nan,Acres,8063.0,716
-Colorado,Lake,nan,Acres,8065.0,721
+Colorado,Kiowa,0,Acres,8061.0,711
+Colorado,Kit Carson,0,Acres,8063.0,716
+Colorado,Lake,0,Acres,8065.0,721
 Colorado,La Plata,21.0,Acres,8067.0,727
 Colorado,Larimer,3317.0,Acres,8069.0,734
-Colorado,Las Animas,nan,Acres,8071.0,741
+Colorado,Las Animas,0,Acres,8071.0,741
 Colorado,Lincoln,0.0,Acres,8073.0,747
 Colorado,Logan,14.0,Acres,8075.0,749
 Colorado,Mesa,793.0,Acres,8077.0,751
@@ -291,19 +291,19 @@ Colorado,Morgan,1140.0,Acres,8087.0,775
 Colorado,Otero,2113.0,Acres,8089.0,777
 Colorado,Ouray,3.0,Acres,8091.0,780
 Colorado,Park,0.0,Acres,8093.0,782
-Colorado,Phillips,nan,Acres,8095.0,785
-Colorado,Pitkin,nan,Acres,8097.0,789
-Colorado,Prowers,nan,Acres,8099.0,792
+Colorado,Phillips,0,Acres,8095.0,785
+Colorado,Pitkin,0,Acres,8097.0,789
+Colorado,Prowers,0,Acres,8099.0,792
 Colorado,Pueblo,1555.0,Acres,8101.0,795
-Colorado,Rio Blanco,nan,Acres,8103.0,799
+Colorado,Rio Blanco,0,Acres,8103.0,799
 Colorado,Rio Grande,21712.0,Acres,8105.0,802
-Colorado,Routt,nan,Acres,8107.0,809
+Colorado,Routt,0,Acres,8107.0,809
 Colorado,Saguache,18121.0,Acres,8109.0,811
 Colorado,San Juan,0.0,Acres,8111.0,347
 Colorado,San Miguel,4.0,Acres,8113.0,359
 Colorado,Sedgwick,0.0,Acres,8115.0,366
 Colorado,Summit,0.0,Acres,8117.0,373
-Colorado,Teller,nan,Acres,8119.0,375
+Colorado,Teller,0,Acres,8119.0,375
 Colorado,Washington,0.0,Acres,8121.0,377
 Colorado,Weld,13085.0,Acres,8123.0,382
 Colorado,Yuma,1926.0,Acres,8125.0,385
@@ -318,29 +318,29 @@ Connecticut,Windham,550.0,Acres,9015.0,529
 Delaware,Kent,17281.0,Acres,10001.0,532
 Delaware,New Castle,769.0,Acres,10003.0,536
 Delaware,Sussex,22038.0,Acres,10005.0,609
-District of Columbia,District of Columbia,nan,Acres,11001.0,630
+District of Columbia,District of Columbia,0,Acres,11001.0,630
 Florida,Alachua,3858.0,Acres,12001.0,639
 Florida,Baker,155.0,Acres,12003.0,641
 Florida,Bay,19.0,Acres,12005.0,658
 Florida,Bradford,193.0,Acres,12007.0,665
-Florida,Brevard,nan,Acres,12009.0,686
+Florida,Brevard,0,Acres,12009.0,686
 Florida,Broward,768.0,Acres,12011.0,695
-Florida,Calhoun,nan,Acres,12013.0,699
+Florida,Calhoun,0,Acres,12013.0,699
 Florida,Charlotte,3068.0,Acres,12015.0,743
 Florida,Citrus,25.0,Acres,12017.0,843
 Florida,Clay,15.0,Acres,12019.0,852
 Florida,Collier,12982.0,Acres,12021.0,894
 Florida,Columbia,522.0,Acres,12023.0,903
 Florida,DeSoto,1567.0,Acres,12027.0,906
-Florida,Dixie,nan,Acres,12029.0,918
-Florida,Duval,nan,Acres,12031.0,924
+Florida,Dixie,0,Acres,12029.0,918
+Florida,Duval,0,Acres,12031.0,924
 Florida,Escambia,122.0,Acres,12033.0,931
 Florida,Flagler,6087.0,Acres,12035.0,935
 Florida,Franklin,0.0,Acres,12037.0,937
 Florida,Gadsden,1551.0,Acres,12039.0,938
 Florida,Gilchrist,2992.0,Acres,12041.0,939
-Florida,Glades,nan,Acres,12043.0,940
-Florida,Gulf,nan,Acres,12045.0,941
+Florida,Glades,0,Acres,12043.0,940
+Florida,Gulf,0,Acres,12045.0,941
 Florida,Hamilton,3145.0,Acres,12047.0,942
 Florida,Hardee,3330.0,Acres,12049.0,943
 Florida,Hendry,9852.0,Acres,12051.0,944
@@ -360,27 +360,27 @@ Florida,Liberty,0.0,Acres,12077.0,957
 Florida,Madison,333.0,Acres,12079.0,958
 Florida,Manatee,32635.0,Acres,12081.0,959
 Florida,Marion,1088.0,Acres,12083.0,960
-Florida,Martin,nan,Acres,12085.0,961
+Florida,Martin,0,Acres,12085.0,961
 Florida,Miami-Dade,33451.0,Acres,12086.0,962
 Florida,Monroe,0.0,Acres,12087.0,963
 Florida,Nassau,19.0,Acres,12089.0,964
 Florida,Okaloosa,127.0,Acres,12091.0,965
-Florida,Okeechobee,nan,Acres,12093.0,966
-Florida,Orange,nan,Acres,12095.0,967
-Florida,Osceola,nan,Acres,12097.0,968
+Florida,Okeechobee,0,Acres,12093.0,966
+Florida,Orange,0,Acres,12095.0,967
+Florida,Osceola,0,Acres,12097.0,968
 Florida,Palm Beach,79792.0,Acres,12099.0,969
 Florida,Pasco,223.0,Acres,12101.0,970
-Florida,Pinellas,nan,Acres,12103.0,971
+Florida,Pinellas,0,Acres,12103.0,971
 Florida,Polk,2374.0,Acres,12105.0,972
 Florida,Putnam,3081.0,Acres,12107.0,973
 Florida,St. Johns,14858.0,Acres,12109.0,974
-Florida,St. Lucie,nan,Acres,12111.0,975
+Florida,St. Lucie,0,Acres,12111.0,975
 Florida,Santa Rosa,183.0,Acres,12113.0,976
-Florida,Sarasota,nan,Acres,12115.0,977
+Florida,Sarasota,0,Acres,12115.0,977
 Florida,Seminole,86.0,Acres,12117.0,978
 Florida,Sumter,405.0,Acres,12119.0,979
 Florida,Suwannee,8009.0,Acres,12121.0,980
-Florida,Taylor,nan,Acres,12123.0,981
+Florida,Taylor,0,Acres,12123.0,981
 Florida,Union,446.0,Acres,12125.0,982
 Florida,Volusia,89.0,Acres,12127.0,983
 Florida,Wakulla,32.0,Acres,12129.0,984
@@ -394,19 +394,19 @@ Georgia,Baldwin,26.0,Acres,13009.0,991
 Georgia,Banks,10.0,Acres,13011.0,992
 Georgia,Barrow,15.0,Acres,13013.0,993
 Georgia,Bartow,30.0,Acres,13015.0,994
-Georgia,Ben Hill,nan,Acres,13017.0,995
+Georgia,Ben Hill,0,Acres,13017.0,995
 Georgia,Berrien,2383.0,Acres,13019.0,996
 Georgia,Bibb,0.0,Acres,13021.0,997
-Georgia,Bleckley,nan,Acres,13023.0,998
+Georgia,Bleckley,0,Acres,13023.0,998
 Georgia,Brantley,30.0,Acres,13025.0,999
 Georgia,Brooks,6185.0,Acres,13027.0,565
 Georgia,Bryan,12.0,Acres,13029.0,573
 Georgia,Bulloch,1100.0,Acres,13031.0,579
 Georgia,Burke,150.0,Acres,13033.0,583
-Georgia,Butts,nan,Acres,13035.0,588
-Georgia,Calhoun,nan,Acres,13037.0,592
+Georgia,Butts,0,Acres,13035.0,588
+Georgia,Calhoun,0,Acres,13037.0,592
 Georgia,Camden,0.0,Acres,13039.0,603
-Georgia,Candler,nan,Acres,13043.0,616
+Georgia,Candler,0,Acres,13043.0,616
 Georgia,Carroll,3.0,Acres,13045.0,620
 Georgia,Catoosa,77.0,Acres,13047.0,626
 Georgia,Charlton,0.0,Acres,13049.0,635
@@ -416,23 +416,23 @@ Georgia,Chattooga,17.0,Acres,13055.0,659
 Georgia,Cherokee,27.0,Acres,13057.0,662
 Georgia,Clarke,24.0,Acres,13059.0,666
 Georgia,Clay,28.0,Acres,13061.0,670
-Georgia,Clayton,nan,Acres,13063.0,673
-Georgia,Clinch,nan,Acres,13065.0,676
+Georgia,Clayton,0,Acres,13063.0,673
+Georgia,Clinch,0,Acres,13065.0,676
 Georgia,Cobb,16.0,Acres,13067.0,680
 Georgia,Coffee,244.0,Acres,13069.0,684
 Georgia,Colquitt,19510.0,Acres,13071.0,689
 Georgia,Columbia,18.0,Acres,13073.0,692
 Georgia,Cook,3179.0,Acres,13075.0,697
 Georgia,Coweta,18.0,Acres,13077.0,700
-Georgia,Crawford,nan,Acres,13079.0,704
+Georgia,Crawford,0,Acres,13079.0,704
 Georgia,Crisp,2599.0,Acres,13081.0,707
-Georgia,Dade,nan,Acres,13083.0,708
+Georgia,Dade,0,Acres,13083.0,708
 Georgia,Dawson,5.0,Acres,13085.0,713
 Georgia,Decatur,21249.0,Acres,13087.0,714
-Georgia,DeKalb,nan,Acres,13089.0,718
+Georgia,DeKalb,0,Acres,13089.0,718
 Georgia,Dodge,1431.0,Acres,13091.0,720
 Georgia,Dooly,678.0,Acres,13093.0,724
-Georgia,Dougherty,nan,Acres,13095.0,728
+Georgia,Dougherty,0,Acres,13095.0,728
 Georgia,Douglas,4.0,Acres,13097.0,731
 Georgia,Early,0.0,Acres,13099.0,735
 Georgia,Echols,4754.0,Acres,13101.0,737
@@ -448,10 +448,10 @@ Georgia,Franklin,43.0,Acres,13119.0,772
 Georgia,Fulton,39.0,Acres,13121.0,779
 Georgia,Gilmer,25.0,Acres,13123.0,781
 Georgia,Glascock,0.0,Acres,13125.0,783
-Georgia,Glynn,nan,Acres,13127.0,793
+Georgia,Glynn,0,Acres,13127.0,793
 Georgia,Gordon,23.0,Acres,13129.0,796
 Georgia,Grady,1835.0,Acres,13131.0,797
-Georgia,Greene,nan,Acres,13133.0,800
+Georgia,Greene,0,Acres,13133.0,800
 Georgia,Gwinnett,15.0,Acres,13135.0,804
 Georgia,Habersham,38.0,Acres,13137.0,806
 Georgia,Hall,82.0,Acres,13139.0,808
@@ -465,29 +465,29 @@ Georgia,Houston,91.0,Acres,13153.0,823
 Georgia,Irwin,238.0,Acres,13155.0,825
 Georgia,Jackson,250.0,Acres,13157.0,828
 Georgia,Jasper,31.0,Acres,13159.0,830
-Georgia,Jeff Davis,nan,Acres,13161.0,832
+Georgia,Jeff Davis,0,Acres,13161.0,832
 Georgia,Jefferson,131.0,Acres,13163.0,834
-Georgia,Jenkins,nan,Acres,13165.0,835
+Georgia,Jenkins,0,Acres,13165.0,835
 Georgia,Johnson,84.0,Acres,13167.0,837
-Georgia,Jones,nan,Acres,13169.0,839
+Georgia,Jones,0,Acres,13169.0,839
 Georgia,Lamar,40.0,Acres,13171.0,841
 Georgia,Lanier,23.0,Acres,13173.0,845
 Georgia,Laurens,144.0,Acres,13175.0,847
 Georgia,Lee,571.0,Acres,13177.0,849
-Georgia,Liberty,nan,Acres,13179.0,855
-Georgia,Lincoln,nan,Acres,13181.0,857
-Georgia,Long,nan,Acres,13183.0,860
+Georgia,Liberty,0,Acres,13179.0,855
+Georgia,Lincoln,0,Acres,13181.0,857
+Georgia,Long,0,Acres,13183.0,860
 Georgia,Lowndes,1612.0,Acres,13185.0,863
-Georgia,Lumpkin,nan,Acres,13187.0,865
+Georgia,Lumpkin,0,Acres,13187.0,865
 Georgia,McDuffie,23.0,Acres,13189.0,868
-Georgia,McIntosh,nan,Acres,13191.0,871
+Georgia,McIntosh,0,Acres,13191.0,871
 Georgia,Macon,1271.0,Acres,13193.0,874
 Georgia,Madison,66.0,Acres,13195.0,875
 Georgia,Marion,595.0,Acres,13197.0,877
 Georgia,Meriwether,27.0,Acres,13199.0,879
-Georgia,Miller,nan,Acres,13201.0,881
+Georgia,Miller,0,Acres,13201.0,881
 Georgia,Mitchell,5990.0,Acres,13205.0,883
-Georgia,Monroe,nan,Acres,13207.0,885
+Georgia,Monroe,0,Acres,13207.0,885
 Georgia,Montgomery,572.0,Acres,13209.0,887
 Georgia,Morgan,4.0,Acres,13211.0,890
 Georgia,Murray,214.0,Acres,13213.0,892
@@ -502,38 +502,38 @@ Georgia,Pierce,66.0,Acres,13229.0,915
 Georgia,Pike,35.0,Acres,13231.0,7
 Georgia,Polk,22.0,Acres,13233.0,8
 Georgia,Pulaski,694.0,Acres,13235.0,11
-Georgia,Putnam,nan,Acres,13237.0,13
-Georgia,Quitman,nan,Acres,13239.0,16
-Georgia,Rabun,nan,Acres,13241.0,18
+Georgia,Putnam,0,Acres,13237.0,13
+Georgia,Quitman,0,Acres,13239.0,16
+Georgia,Rabun,0,Acres,13241.0,18
 Georgia,Randolph,0.0,Acres,13243.0,23
 Georgia,Richmond,38.0,Acres,13245.0,24
-Georgia,Rockdale,nan,Acres,13247.0,28
-Georgia,Schley,nan,Acres,13249.0,31
+Georgia,Rockdale,0,Acres,13247.0,28
+Georgia,Schley,0,Acres,13249.0,31
 Georgia,Screven,207.0,Acres,13251.0,34
 Georgia,Seminole,1900.0,Acres,13253.0,38
 Georgia,Spalding,2.0,Acres,13255.0,41
 Georgia,Stephens,0.0,Acres,13257.0,45
-Georgia,Stewart,nan,Acres,13259.0,48
+Georgia,Stewart,0,Acres,13259.0,48
 Georgia,Sumter,4571.0,Acres,13261.0,52
 Georgia,Talbot,8.0,Acres,13263.0,57
-Georgia,Taliaferro,nan,Acres,13265.0,60
+Georgia,Taliaferro,0,Acres,13265.0,60
 Georgia,Tattnall,9253.0,Acres,13267.0,63
 Georgia,Taylor,440.0,Acres,13269.0,69
 Georgia,Telfair,1063.0,Acres,13271.0,75
-Georgia,Terrell,nan,Acres,13273.0,78
+Georgia,Terrell,0,Acres,13273.0,78
 Georgia,Thomas,153.0,Acres,13275.0,83
 Georgia,Tift,8830.0,Acres,13277.0,87
 Georgia,Toombs,6507.0,Acres,13279.0,91
-Georgia,Towns,nan,Acres,13281.0,95
+Georgia,Towns,0,Acres,13281.0,95
 Georgia,Treutlen,63.0,Acres,13283.0,102
-Georgia,Troup,nan,Acres,13285.0,105
+Georgia,Troup,0,Acres,13285.0,105
 Georgia,Turner,1064.0,Acres,13287.0,108
 Georgia,Twiggs,2.0,Acres,13289.0,116
 Georgia,Union,35.0,Acres,13291.0,120
 Georgia,Upson,5.0,Acres,13293.0,123
 Georgia,Walker,47.0,Acres,13295.0,126
 Georgia,Walton,40.0,Acres,13297.0,127
-Georgia,Ware,nan,Acres,13299.0,132
+Georgia,Ware,0,Acres,13299.0,132
 Georgia,Warren,31.0,Acres,13301.0,135
 Georgia,Washington,42.0,Acres,13303.0,143
 Georgia,Wayne,1127.0,Acres,13305.0,147
@@ -547,28 +547,28 @@ Georgia,Wilkinson,22.0,Acres,13319.0,169
 Georgia,Worth,3352.0,Acres,13321.0,173
 Hawaii,Hawaii,1148.0,Acres,15001.0,198
 Hawaii,Honolulu,4446.0,Acres,15003.0,234
-Hawaii,Kalawao,nan,Acres,15005.0,247
+Hawaii,Kalawao,0,Acres,15005.0,247
 Hawaii,Kauai,134.0,Acres,15007.0,261
 Hawaii,Maui,1118.0,Acres,15009.0,323
 Idaho,Ada,992.0,Acres,16001.0,336
-Idaho,Adams,nan,Acres,16003.0,338
+Idaho,Adams,0,Acres,16003.0,338
 Idaho,Bannock,3591.0,Acres,16005.0,343
-Idaho,Bear Lake,nan,Acres,16007.0,349
+Idaho,Bear Lake,0,Acres,16007.0,349
 Idaho,Benewah,0.0,Acres,16009.0,354
 Idaho,Bingham,75490.0,Acres,16011.0,362
 Idaho,Blaine,1377.0,Acres,16013.0,371
-Idaho,Boise,nan,Acres,16015.0,380
+Idaho,Boise,0,Acres,16015.0,380
 Idaho,Bonner,4.0,Acres,16017.0,387
 Idaho,Bonneville,27245.0,Acres,16019.0,395
 Idaho,Boundary,10.0,Acres,16021.0,405
-Idaho,Butte,nan,Acres,16023.0,414
-Idaho,Camas,nan,Acres,16025.0,429
+Idaho,Butte,0,Acres,16023.0,414
+Idaho,Camas,0,Acres,16025.0,429
 Idaho,Canyon,15677.0,Acres,16027.0,441
 Idaho,Caribou,6284.0,Acres,16029.0,449
 Idaho,Cassia,29174.0,Acres,16031.0,456
-Idaho,Clark,nan,Acres,16033.0,464
-Idaho,Clearwater,nan,Acres,16035.0,474
-Idaho,Custer,nan,Acres,16037.0,484
+Idaho,Clark,0,Acres,16033.0,464
+Idaho,Clearwater,0,Acres,16035.0,474
+Idaho,Custer,0,Acres,16037.0,484
 Idaho,Elmore,9569.0,Acres,16039.0,490
 Idaho,Franklin,511.0,Acres,16041.0,498
 Idaho,Fremont,21732.0,Acres,16043.0,502
@@ -579,13 +579,13 @@ Idaho,Jefferson,28933.0,Acres,16051.0,540
 Idaho,Jerome,10418.0,Acres,16053.0,547
 Idaho,Kootenai,142.0,Acres,16055.0,552
 Idaho,Latah,9.0,Acres,16057.0,559
-Idaho,Lemhi,nan,Acres,16059.0,566
+Idaho,Lemhi,0,Acres,16059.0,566
 Idaho,Lewis,0.0,Acres,16061.0,574
 Idaho,Lincoln,1227.0,Acres,16063.0,578
 Idaho,Madison,36664.0,Acres,16065.0,581
 Idaho,Minidoka,30048.0,Acres,16067.0,585
 Idaho,Nez Perce,8.0,Acres,16069.0,589
-Idaho,Oneida,nan,Acres,16071.0,593
+Idaho,Oneida,0,Acres,16071.0,593
 Idaho,Owyhee,2070.0,Acres,16073.0,601
 Idaho,Payette,3028.0,Acres,16075.0,606
 Idaho,Power,35151.0,Acres,16077.0,613
@@ -598,46 +598,46 @@ Illinois,Adams,135.0,Acres,17001.0,650
 Illinois,Alexander,6.0,Acres,17003.0,651
 Illinois,Bond,6.0,Acres,17005.0,652
 Illinois,Boone,866.0,Acres,17007.0,653
-Illinois,Brown,nan,Acres,17009.0,654
+Illinois,Brown,0,Acres,17009.0,654
 Illinois,Bureau,502.0,Acres,17011.0,2
 Illinois,Calhoun,94.0,Acres,17013.0,4
-Illinois,Carroll,nan,Acres,17015.0,6
+Illinois,Carroll,0,Acres,17015.0,6
 Illinois,Cass,696.0,Acres,17017.0,10
 Illinois,Champaign,59.0,Acres,17019.0,12
 Illinois,Christian,115.0,Acres,17021.0,14
 Illinois,Clark,13.0,Acres,17023.0,19
-Illinois,Clay,nan,Acres,17025.0,22
+Illinois,Clay,0,Acres,17025.0,22
 Illinois,Clinton,7.0,Acres,17027.0,27
 Illinois,Coles,24.0,Acres,17029.0,30
 Illinois,Cook,679.0,Acres,17031.0,36
-Illinois,Crawford,nan,Acres,17033.0,40
+Illinois,Crawford,0,Acres,17033.0,40
 Illinois,Cumberland,68.0,Acres,17035.0,44
 Illinois,DeKalb,2247.0,Acres,17037.0,49
-Illinois,De Witt,nan,Acres,17039.0,53
+Illinois,De Witt,0,Acres,17039.0,53
 Illinois,Douglas,25.0,Acres,17041.0,55
-Illinois,DuPage,nan,Acres,17043.0,64
+Illinois,DuPage,0,Acres,17043.0,64
 Illinois,Edgar,22.0,Acres,17045.0,66
-Illinois,Edwards,nan,Acres,17047.0,71
+Illinois,Edwards,0,Acres,17047.0,71
 Illinois,Effingham,60.0,Acres,17049.0,76
 Illinois,Fayette,103.0,Acres,17051.0,79
-Illinois,Ford,nan,Acres,17053.0,81
-Illinois,Franklin,nan,Acres,17055.0,85
+Illinois,Ford,0,Acres,17053.0,81
+Illinois,Franklin,0,Acres,17055.0,85
 Illinois,Fulton,27.0,Acres,17057.0,89
-Illinois,Gallatin,nan,Acres,17059.0,92
-Illinois,Greene,nan,Acres,17061.0,96
-Illinois,Grundy,nan,Acres,17063.0,99
+Illinois,Gallatin,0,Acres,17059.0,92
+Illinois,Greene,0,Acres,17061.0,96
+Illinois,Grundy,0,Acres,17063.0,99
 Illinois,Hamilton,9.0,Acres,17065.0,106
-Illinois,Hancock,nan,Acres,17067.0,111
-Illinois,Hardin,nan,Acres,17069.0,113
+Illinois,Hancock,0,Acres,17067.0,111
+Illinois,Hardin,0,Acres,17069.0,113
 Illinois,Henderson,373.0,Acres,17071.0,117
 Illinois,Henry,888.0,Acres,17073.0,121
-Illinois,Iroquois,nan,Acres,17075.0,125
+Illinois,Iroquois,0,Acres,17075.0,125
 Illinois,Jackson,90.0,Acres,17077.0,129
-Illinois,Jasper,nan,Acres,17079.0,133
-Illinois,Jefferson,nan,Acres,17081.0,137
-Illinois,Jersey,nan,Acres,17083.0,142
+Illinois,Jasper,0,Acres,17079.0,133
+Illinois,Jefferson,0,Acres,17081.0,137
+Illinois,Jersey,0,Acres,17083.0,142
 Illinois,Jo Daviess,106.0,Acres,17085.0,145
-Illinois,Johnson,nan,Acres,17087.0,152
+Illinois,Johnson,0,Acres,17087.0,152
 Illinois,Kane,1180.0,Acres,17089.0,156
 Illinois,Kankakee,3394.0,Acres,17091.0,161
 Illinois,Kendall,664.0,Acres,17093.0,165
@@ -647,7 +647,7 @@ Illinois,LaSalle,6983.0,Acres,17099.0,175
 Illinois,Lawrence,318.0,Acres,17101.0,177
 Illinois,Lee,3872.0,Acres,17103.0,180
 Illinois,Livingston,18.0,Acres,17105.0,182
-Illinois,Logan,nan,Acres,17107.0,186
+Illinois,Logan,0,Acres,17107.0,186
 Illinois,McDonough,26.0,Acres,17109.0,189
 Illinois,McHenry,1896.0,Acres,17111.0,192
 Illinois,McLean,198.0,Acres,17113.0,193
@@ -659,7 +659,7 @@ Illinois,Marshall,245.0,Acres,17123.0,202
 Illinois,Mason,8067.0,Acres,17125.0,206
 Illinois,Massac,17.0,Acres,17127.0,208
 Illinois,Menard,7.0,Acres,17129.0,212
-Illinois,Mercer,nan,Acres,17131.0,216
+Illinois,Mercer,0,Acres,17131.0,216
 Illinois,Monroe,244.0,Acres,17133.0,219
 Illinois,Montgomery,8.0,Acres,17135.0,223
 Illinois,Morgan,36.0,Acres,17137.0,225
@@ -669,18 +669,18 @@ Illinois,Peoria,2013.0,Acres,17143.0,233
 Illinois,Perry,17.0,Acres,17145.0,235
 Illinois,Piatt,22.0,Acres,17147.0,238
 Illinois,Pike,149.0,Acres,17149.0,241
-Illinois,Pope,nan,Acres,17151.0,245
-Illinois,Pulaski,nan,Acres,17153.0,248
-Illinois,Putnam,nan,Acres,17155.0,253
+Illinois,Pope,0,Acres,17151.0,245
+Illinois,Pulaski,0,Acres,17153.0,248
+Illinois,Putnam,0,Acres,17155.0,253
 Illinois,Randolph,3.0,Acres,17157.0,255
-Illinois,Richland,nan,Acres,17159.0,259
+Illinois,Richland,0,Acres,17159.0,259
 Illinois,Rock Island,381.0,Acres,17161.0,265
 Illinois,St. Clair,612.0,Acres,17163.0,269
 Illinois,Saline,19.0,Acres,17165.0,271
 Illinois,Sangamon,177.0,Acres,17167.0,274
-Illinois,Schuyler,nan,Acres,17169.0,278
-Illinois,Scott,nan,Acres,17171.0,280
-Illinois,Shelby,nan,Acres,17173.0,283
+Illinois,Schuyler,0,Acres,17169.0,278
+Illinois,Scott,0,Acres,17171.0,280
+Illinois,Shelby,0,Acres,17173.0,283
 Illinois,Stark,146.0,Acres,17175.0,285
 Illinois,Stephenson,17.0,Acres,17177.0,290
 Illinois,Tazewell,6854.0,Acres,17179.0,291
@@ -689,7 +689,7 @@ Illinois,Vermilion,8.0,Acres,17183.0,296
 Illinois,Wabash,0.0,Acres,17185.0,299
 Illinois,Warren,3.0,Acres,17187.0,301
 Illinois,Washington,37.0,Acres,17189.0,305
-Illinois,Wayne,nan,Acres,17191.0,310
+Illinois,Wayne,0,Acres,17191.0,310
 Illinois,White,1078.0,Acres,17193.0,312
 Illinois,Whiteside,7669.0,Acres,17195.0,314
 Illinois,Will,307.0,Acres,17197.0,320
@@ -700,7 +700,7 @@ Indiana,Adams,125.0,Acres,18001.0,330
 Indiana,Allen,774.0,Acres,18003.0,335
 Indiana,Bartholomew,2842.0,Acres,18005.0,342
 Indiana,Benton,17.0,Acres,18007.0,179
-Indiana,Blackford,nan,Acres,18009.0,183
+Indiana,Blackford,0,Acres,18009.0,183
 Indiana,Boone,44.0,Acres,18011.0,185
 Indiana,Brown,35.0,Acres,18013.0,188
 Indiana,Carroll,64.0,Acres,18015.0,195
@@ -716,9 +716,9 @@ Indiana,DeKalb,36.0,Acres,18033.0,249
 Indiana,Delaware,911.0,Acres,18035.0,252
 Indiana,Dubois,18.0,Acres,18037.0,254
 Indiana,Elkhart,747.0,Acres,18039.0,260
-Indiana,Fayette,nan,Acres,18041.0,263
+Indiana,Fayette,0,Acres,18041.0,263
 Indiana,Floyd,111.0,Acres,18043.0,267
-Indiana,Fountain,nan,Acres,18045.0,270
+Indiana,Fountain,0,Acres,18045.0,270
 Indiana,Franklin,29.0,Acres,18047.0,272
 Indiana,Fulton,211.0,Acres,18049.0,276
 Indiana,Gibson,791.0,Acres,18051.0,286
@@ -729,11 +729,11 @@ Indiana,Hancock,86.0,Acres,18059.0,329
 Indiana,Harrison,235.0,Acres,18061.0,334
 Indiana,Hendricks,32.0,Acres,18063.0,341
 Indiana,Henry,633.0,Acres,18065.0,344
-Indiana,Howard,nan,Acres,18067.0,348
+Indiana,Howard,0,Acres,18067.0,348
 Indiana,Huntington,13.0,Acres,18069.0,352
 Indiana,Jackson,605.0,Acres,18071.0,355
 Indiana,Jasper,90.0,Acres,18073.0,356
-Indiana,Jay,nan,Acres,18075.0,358
+Indiana,Jay,0,Acres,18075.0,358
 Indiana,Jefferson,8.0,Acres,18077.0,363
 Indiana,Jennings,30.0,Acres,18079.0,367
 Indiana,Johnson,39.0,Acres,18081.0,370
@@ -746,37 +746,37 @@ Indiana,Lawrence,34.0,Acres,18093.0,396
 Indiana,Madison,1044.0,Acres,18095.0,401
 Indiana,Marion,407.0,Acres,18097.0,409
 Indiana,Marshall,105.0,Acres,18099.0,412
-Indiana,Martin,nan,Acres,18101.0,418
+Indiana,Martin,0,Acres,18101.0,418
 Indiana,Miami,3.0,Acres,18103.0,420
 Indiana,Monroe,12.0,Acres,18105.0,422
 Indiana,Montgomery,32.0,Acres,18107.0,425
 Indiana,Morgan,75.0,Acres,18109.0,430
 Indiana,Newton,25.0,Acres,18111.0,433
 Indiana,Noble,67.0,Acres,18113.0,436
-Indiana,Ohio,nan,Acres,18115.0,440
+Indiana,Ohio,0,Acres,18115.0,440
 Indiana,Orange,7.0,Acres,18117.0,444
 Indiana,Owen,42.0,Acres,18119.0,448
 Indiana,Parke,336.0,Acres,18121.0,452
-Indiana,Perry,nan,Acres,18123.0,459
+Indiana,Perry,0,Acres,18123.0,459
 Indiana,Pike,11.0,Acres,18125.0,465
 Indiana,Porter,635.0,Acres,18127.0,468
 Indiana,Posey,43.0,Acres,18129.0,471
 Indiana,Pulaski,8.0,Acres,18131.0,477
 Indiana,Putnam,32.0,Acres,18133.0,480
-Indiana,Randolph,nan,Acres,18135.0,485
+Indiana,Randolph,0,Acres,18135.0,485
 Indiana,Ripley,185.0,Acres,18137.0,488
-Indiana,Rush,nan,Acres,18139.0,493
+Indiana,Rush,0,Acres,18139.0,493
 Indiana,St. Joseph,474.0,Acres,18141.0,496
 Indiana,Scott,45.0,Acres,18143.0,504
 Indiana,Shelby,345.0,Acres,18145.0,506
 Indiana,Spencer,7.0,Acres,18147.0,509
-Indiana,Starke,nan,Acres,18149.0,512
+Indiana,Starke,0,Acres,18149.0,512
 Indiana,Steuben,54.0,Acres,18151.0,515
 Indiana,Sullivan,1121.0,Acres,18153.0,518
 Indiana,Switzerland,10.0,Acres,18155.0,526
 Indiana,Tippecanoe,305.0,Acres,18157.0,530
 Indiana,Tipton,775.0,Acres,18159.0,534
-Indiana,Union,nan,Acres,18161.0,538
+Indiana,Union,0,Acres,18161.0,538
 Indiana,Vanderburgh,175.0,Acres,18163.0,543
 Indiana,Vermillion,0.0,Acres,18165.0,548
 Indiana,Vigo,74.0,Acres,18167.0,553
@@ -789,53 +789,53 @@ Indiana,Wells,38.0,Acres,18179.0,590
 Indiana,White,70.0,Acres,18181.0,594
 Indiana,Whitley,38.0,Acres,18183.0,597
 Iowa,Adair,6.0,Acres,19001.0,598
-Iowa,Adams,nan,Acres,19003.0,602
+Iowa,Adams,0,Acres,19003.0,602
 Iowa,Allamakee,64.0,Acres,19005.0,608
 Iowa,Appanoose,27.0,Acres,19007.0,611
-Iowa,Audubon,nan,Acres,19009.0,615
+Iowa,Audubon,0,Acres,19009.0,615
 Iowa,Benton,70.0,Acres,19011.0,619
 Iowa,Black Hawk,222.0,Acres,19013.0,623
 Iowa,Boone,123.0,Acres,19015.0,625
 Iowa,Bremer,11.0,Acres,19017.0,631
-Iowa,Buchanan,nan,Acres,19019.0,632
-Iowa,Buena Vista,nan,Acres,19021.0,633
-Iowa,Butler,nan,Acres,19023.0,361
+Iowa,Buchanan,0,Acres,19019.0,632
+Iowa,Buena Vista,0,Acres,19021.0,633
+Iowa,Butler,0,Acres,19023.0,361
 Iowa,Calhoun,10.0,Acres,19025.0,365
 Iowa,Carroll,10.0,Acres,19027.0,369
 Iowa,Cass,12.0,Acres,19029.0,374
 Iowa,Cedar,27.0,Acres,19031.0,379
 Iowa,Cerro Gordo,137.0,Acres,19033.0,383
-Iowa,Cherokee,nan,Acres,19035.0,388
+Iowa,Cherokee,0,Acres,19035.0,388
 Iowa,Chickasaw,95.0,Acres,19037.0,393
-Iowa,Clarke,nan,Acres,19039.0,397
-Iowa,Clay,nan,Acres,19041.0,398
+Iowa,Clarke,0,Acres,19039.0,397
+Iowa,Clay,0,Acres,19041.0,398
 Iowa,Clayton,9.0,Acres,19043.0,402
 Iowa,Clinton,15.0,Acres,19045.0,404
-Iowa,Crawford,nan,Acres,19047.0,408
+Iowa,Crawford,0,Acres,19047.0,408
 Iowa,Dallas,199.0,Acres,19049.0,413
 Iowa,Davis,36.0,Acres,19051.0,416
-Iowa,Decatur,nan,Acres,19053.0,419
+Iowa,Decatur,0,Acres,19053.0,419
 Iowa,Delaware,22.0,Acres,19055.0,421
 Iowa,Des Moines,20.0,Acres,19057.0,424
-Iowa,Dickinson,nan,Acres,19059.0,427
+Iowa,Dickinson,0,Acres,19059.0,427
 Iowa,Dubuque,44.0,Acres,19061.0,434
-Iowa,Emmet,nan,Acres,19063.0,437
+Iowa,Emmet,0,Acres,19063.0,437
 Iowa,Fayette,13.0,Acres,19065.0,442
 Iowa,Floyd,35.0,Acres,19067.0,447
 Iowa,Franklin,10.0,Acres,19069.0,451
 Iowa,Fremont,28.0,Acres,19071.0,455
-Iowa,Greene,nan,Acres,19073.0,458
-Iowa,Grundy,nan,Acres,19075.0,460
-Iowa,Guthrie,nan,Acres,19077.0,467
+Iowa,Greene,0,Acres,19073.0,458
+Iowa,Grundy,0,Acres,19075.0,460
+Iowa,Guthrie,0,Acres,19077.0,467
 Iowa,Hamilton,32.0,Acres,19079.0,469
-Iowa,Hancock,nan,Acres,19081.0,470
+Iowa,Hancock,0,Acres,19081.0,470
 Iowa,Hardin,133.0,Acres,19083.0,475
 Iowa,Harrison,11.0,Acres,19085.0,478
 Iowa,Henry,10.0,Acres,19087.0,479
 Iowa,Howard,55.0,Acres,19089.0,481
-Iowa,Humboldt,nan,Acres,19091.0,487
-Iowa,Ida,nan,Acres,19093.0,491
-Iowa,Iowa,nan,Acres,19095.0,495
+Iowa,Humboldt,0,Acres,19091.0,487
+Iowa,Ida,0,Acres,19093.0,491
+Iowa,Iowa,0,Acres,19095.0,495
 Iowa,Jackson,87.0,Acres,19097.0,499
 Iowa,Jasper,67.0,Acres,19099.0,505
 Iowa,Jefferson,39.0,Acres,19101.0,507
@@ -847,15 +847,15 @@ Iowa,Lee,30.0,Acres,19111.0,531
 Iowa,Linn,248.0,Acres,19113.0,535
 Iowa,Louisa,1335.0,Acres,19115.0,539
 Iowa,Lucas,130.0,Acres,19117.0,542
-Iowa,Lyon,nan,Acres,19119.0,546
-Iowa,Madison,nan,Acres,19121.0,550
+Iowa,Lyon,0,Acres,19119.0,546
+Iowa,Madison,0,Acres,19121.0,550
 Iowa,Mahaska,32.0,Acres,19123.0,554
 Iowa,Marion,22.0,Acres,19125.0,561
 Iowa,Marshall,43.0,Acres,19127.0,568
 Iowa,Mills,11.0,Acres,19129.0,569
 Iowa,Mitchell,1151.0,Acres,19131.0,572
-Iowa,Monona,nan,Acres,19133.0,576
-Iowa,Monroe,nan,Acres,19135.0,580
+Iowa,Monona,0,Acres,19133.0,576
+Iowa,Monroe,0,Acres,19135.0,580
 Iowa,Montgomery,0.0,Acres,19137.0,595
 Iowa,Muscatine,876.0,Acres,19139.0,600
 Iowa,O'Brien,20.0,Acres,19141.0,604
@@ -863,11 +863,11 @@ Iowa,Osceola,0.0,Acres,19143.0,607
 Iowa,Page,8.0,Acres,19145.0,612
 Iowa,Palo Alto,516.0,Acres,19147.0,618
 Iowa,Plymouth,32.0,Acres,19149.0,622
-Iowa,Pocahontas,nan,Acres,19151.0,624
+Iowa,Pocahontas,0,Acres,19151.0,624
 Iowa,Polk,133.0,Acres,19153.0,629
 Iowa,Pottawattamie,60.0,Acres,19155.0,637
 Iowa,Poweshiek,25.0,Acres,19157.0,640
-Iowa,Ringgold,nan,Acres,19159.0,642
+Iowa,Ringgold,0,Acres,19159.0,642
 Iowa,Sac,8.0,Acres,19161.0,647
 Iowa,Scott,77.0,Acres,19163.0,657
 Iowa,Shelby,10.0,Acres,19165.0,660
@@ -875,27 +875,27 @@ Iowa,Sioux,35.0,Acres,19167.0,663
 Iowa,Story,52.0,Acres,19169.0,668
 Iowa,Tama,24.0,Acres,19171.0,671
 Iowa,Taylor,0.0,Acres,19173.0,674
-Iowa,Union,nan,Acres,19175.0,675
+Iowa,Union,0,Acres,19175.0,675
 Iowa,Van Buren,18.0,Acres,19177.0,678
 Iowa,Wapello,41.0,Acres,19179.0,681
 Iowa,Warren,116.0,Acres,19181.0,685
 Iowa,Washington,34.0,Acres,19183.0,687
 Iowa,Wayne,19.0,Acres,19185.0,691
 Iowa,Webster,13.0,Acres,19187.0,694
-Iowa,Winnebago,nan,Acres,19189.0,696
+Iowa,Winnebago,0,Acres,19189.0,696
 Iowa,Winneshiek,42.0,Acres,19191.0,698
 Iowa,Woodbury,22.0,Acres,19193.0,702
 Iowa,Worth,211.0,Acres,19195.0,703
-Iowa,Wright,nan,Acres,19197.0,705
-Kansas,Allen,nan,Acres,20001.0,709
+Iowa,Wright,0,Acres,19197.0,705
+Kansas,Allen,0,Acres,20001.0,709
 Kansas,Anderson,88.0,Acres,20003.0,712
 Kansas,Atchison,9.0,Acres,20005.0,715
 Kansas,Barber,0.0,Acres,20007.0,717
-Kansas,Barton,nan,Acres,20009.0,719
+Kansas,Barton,0,Acres,20009.0,719
 Kansas,Bourbon,24.0,Acres,20011.0,722
-Kansas,Brown,nan,Acres,20013.0,723
+Kansas,Brown,0,Acres,20013.0,723
 Kansas,Butler,18.0,Acres,20015.0,726
-Kansas,Chase,nan,Acres,20017.0,729
+Kansas,Chase,0,Acres,20017.0,729
 Kansas,Chautauqua,0.0,Acres,20019.0,730
 Kansas,Cherokee,6.0,Acres,20021.0,732
 Kansas,Cheyenne,0.0,Acres,20023.0,736
@@ -906,16 +906,16 @@ Kansas,Coffey,6.0,Acres,20031.0,745
 Kansas,Comanche,0.0,Acres,20033.0,748
 Kansas,Cowley,47.0,Acres,20035.0,752
 Kansas,Crawford,19.0,Acres,20037.0,756
-Kansas,Decatur,nan,Acres,20039.0,759
+Kansas,Decatur,0,Acres,20039.0,759
 Kansas,Dickinson,0.0,Acres,20041.0,762
 Kansas,Doniphan,76.0,Acres,20043.0,765
 Kansas,Douglas,200.0,Acres,20045.0,767
 Kansas,Edwards,0.0,Acres,20047.0,770
 Kansas,Elk,0.0,Acres,20049.0,773
 Kansas,Ellis,0.0,Acres,20051.0,774
-Kansas,Ellsworth,nan,Acres,20053.0,776
+Kansas,Ellsworth,0,Acres,20053.0,776
 Kansas,Finney,3131.0,Acres,20055.0,778
-Kansas,Ford,nan,Acres,20057.0,784
+Kansas,Ford,0,Acres,20057.0,784
 Kansas,Franklin,47.0,Acres,20059.0,786
 Kansas,Geary,11.0,Acres,20061.0,788
 Kansas,Gove,0.0,Acres,20063.0,790
@@ -923,46 +923,46 @@ Kansas,Graham,0.0,Acres,20065.0,791
 Kansas,Grant,653.0,Acres,20067.0,794
 Kansas,Gray,0.0,Acres,20069.0,798
 Kansas,Greeley,0.0,Acres,20071.0,801
-Kansas,Greenwood,nan,Acres,20073.0,803
-Kansas,Hamilton,nan,Acres,20075.0,805
+Kansas,Greenwood,0,Acres,20073.0,803
+Kansas,Hamilton,0,Acres,20075.0,805
 Kansas,Harper,0.0,Acres,20077.0,807
 Kansas,Harvey,165.0,Acres,20079.0,812
-Kansas,Haskell,nan,Acres,20081.0,815
+Kansas,Haskell,0,Acres,20081.0,815
 Kansas,Hodgeman,0.0,Acres,20083.0,818
 Kansas,Jackson,9.0,Acres,20085.0,819
 Kansas,Jefferson,99.0,Acres,20087.0,821
-Kansas,Jewell,nan,Acres,20089.0,822
+Kansas,Jewell,0,Acres,20089.0,822
 Kansas,Johnson,88.0,Acres,20091.0,824
-Kansas,Kearny,nan,Acres,20093.0,826
+Kansas,Kearny,0,Acres,20093.0,826
 Kansas,Kingman,3.0,Acres,20095.0,827
-Kansas,Kiowa,nan,Acres,20097.0,829
+Kansas,Kiowa,0,Acres,20097.0,829
 Kansas,Labette,4.0,Acres,20099.0,831
 Kansas,Lane,0.0,Acres,20101.0,833
 Kansas,Leavenworth,77.0,Acres,20103.0,836
-Kansas,Lincoln,nan,Acres,20105.0,838
+Kansas,Lincoln,0,Acres,20105.0,838
 Kansas,Linn,0.0,Acres,20107.0,840
 Kansas,Logan,0.0,Acres,20109.0,842
 Kansas,Lyon,16.0,Acres,20111.0,844
 Kansas,McPherson,7.0,Acres,20113.0,846
-Kansas,Marion,nan,Acres,20115.0,848
+Kansas,Marion,0,Acres,20115.0,848
 Kansas,Marshall,0.0,Acres,20117.0,850
-Kansas,Meade,nan,Acres,20119.0,851
+Kansas,Meade,0,Acres,20119.0,851
 Kansas,Miami,176.0,Acres,20121.0,853
 Kansas,Mitchell,0.0,Acres,20123.0,854
 Kansas,Montgomery,4.0,Acres,20125.0,856
-Kansas,Morris,nan,Acres,20127.0,858
+Kansas,Morris,0,Acres,20127.0,858
 Kansas,Morton,0.0,Acres,20129.0,859
-Kansas,Nemaha,nan,Acres,20131.0,861
+Kansas,Nemaha,0,Acres,20131.0,861
 Kansas,Neosho,12.0,Acres,20133.0,862
 Kansas,Ness,0.0,Acres,20135.0,864
 Kansas,Norton,0.0,Acres,20137.0,866
 Kansas,Osage,6.0,Acres,20139.0,867
-Kansas,Osborne,nan,Acres,20141.0,869
+Kansas,Osborne,0,Acres,20141.0,869
 Kansas,Ottawa,16.0,Acres,20143.0,870
 Kansas,Pawnee,3.0,Acres,20145.0,872
-Kansas,Phillips,nan,Acres,20147.0,873
+Kansas,Phillips,0,Acres,20147.0,873
 Kansas,Pottawatomie,37.0,Acres,20149.0,876
-Kansas,Pratt,nan,Acres,20151.0,878
+Kansas,Pratt,0,Acres,20151.0,878
 Kansas,Rawlins,0.0,Acres,20153.0,880
 Kansas,Reno,147.0,Acres,20155.0,882
 Kansas,Republic,229.0,Acres,20157.0,884
@@ -972,25 +972,25 @@ Kansas,Rooks,0.0,Acres,20163.0,889
 Kansas,Rush,0.0,Acres,20165.0,891
 Kansas,Russell,0.0,Acres,20167.0,893
 Kansas,Saline,29.0,Acres,20169.0,895
-Kansas,Scott,nan,Acres,20171.0,897
+Kansas,Scott,0,Acres,20171.0,897
 Kansas,Sedgwick,58.0,Acres,20173.0,898
 Kansas,Seward,0.0,Acres,20175.0,900
 Kansas,Shawnee,297.0,Acres,20177.0,902
-Kansas,Sheridan,nan,Acres,20179.0,904
+Kansas,Sheridan,0,Acres,20179.0,904
 Kansas,Sherman,0.0,Acres,20181.0,907
 Kansas,Smith,0.0,Acres,20183.0,909
-Kansas,Stafford,nan,Acres,20185.0,911
-Kansas,Stanton,nan,Acres,20187.0,913
-Kansas,Stevens,nan,Acres,20189.0,914
-Kansas,Sumner,nan,Acres,20191.0,916
+Kansas,Stafford,0,Acres,20185.0,911
+Kansas,Stanton,0,Acres,20187.0,913
+Kansas,Stevens,0,Acres,20189.0,914
+Kansas,Sumner,0,Acres,20191.0,916
 Kansas,Thomas,6.0,Acres,20193.0,917
-Kansas,Trego,nan,Acres,20195.0,919
+Kansas,Trego,0,Acres,20195.0,919
 Kansas,Wabaunsee,26.0,Acres,20197.0,920
 Kansas,Wallace,0.0,Acres,20199.0,921
 Kansas,Washington,53.0,Acres,20201.0,922
 Kansas,Wichita,0.0,Acres,20203.0,923
 Kansas,Wilson,7.0,Acres,20205.0,925
-Kansas,Woodson,nan,Acres,20207.0,926
+Kansas,Woodson,0,Acres,20207.0,926
 Kansas,Wyandotte,139.0,Acres,20209.0,927
 Kentucky,Adair,27.0,Acres,21001.0,928
 Kentucky,Allen,538.0,Acres,21003.0,929
@@ -1009,7 +1009,7 @@ Kentucky,Breckinridge,40.0,Acres,21027.0,1020
 Kentucky,Bullitt,25.0,Acres,21029.0,1024
 Kentucky,Butler,9.0,Acres,21031.0,1026
 Kentucky,Caldwell,39.0,Acres,21033.0,1031
-Kentucky,Calloway,nan,Acres,21035.0,1033
+Kentucky,Calloway,0,Acres,21035.0,1033
 Kentucky,Campbell,98.0,Acres,21037.0,1035
 Kentucky,Carlisle,0.0,Acres,21039.0,1039
 Kentucky,Carroll,17.0,Acres,21041.0,1041
@@ -1029,7 +1029,7 @@ Kentucky,Fayette,108.0,Acres,21067.0,1080
 Kentucky,Fleming,19.0,Acres,21069.0,1083
 Kentucky,Floyd,7.0,Acres,21071.0,1085
 Kentucky,Franklin,121.0,Acres,21073.0,1086
-Kentucky,Fulton,nan,Acres,21075.0,1088
+Kentucky,Fulton,0,Acres,21075.0,1088
 Kentucky,Gallatin,39.0,Acres,21077.0,1090
 Kentucky,Garrard,43.0,Acres,21079.0,1092
 Kentucky,Grant,38.0,Acres,21081.0,1094
@@ -1039,7 +1039,7 @@ Kentucky,Green,15.0,Acres,21087.0,1102
 Kentucky,Greenup,136.0,Acres,21089.0,1105
 Kentucky,Hancock,3.0,Acres,21091.0,1107
 Kentucky,Hardin,81.0,Acres,21093.0,1110
-Kentucky,Harlan,nan,Acres,21095.0,1114
+Kentucky,Harlan,0,Acres,21095.0,1114
 Kentucky,Harrison,86.0,Acres,21097.0,1119
 Kentucky,Hart,72.0,Acres,21099.0,1121
 Kentucky,Henderson,66.0,Acres,21101.0,1126
@@ -1065,7 +1065,7 @@ Kentucky,Livingston,22.0,Acres,21139.0,1187
 Kentucky,Logan,85.0,Acres,21141.0,1190
 Kentucky,Lyon,19.0,Acres,21143.0,1193
 Kentucky,McCracken,167.0,Acres,21145.0,1196
-Kentucky,McCreary,nan,Acres,21147.0,1198
+Kentucky,McCreary,0,Acres,21147.0,1198
 Kentucky,McLean,46.0,Acres,21149.0,1201
 Kentucky,Madison,137.0,Acres,21151.0,1204
 Kentucky,Magoffin,11.0,Acres,21153.0,1206
@@ -1089,7 +1089,7 @@ Kentucky,Owen,14.0,Acres,21187.0,1255
 Kentucky,Owsley,131.0,Acres,21189.0,1257
 Kentucky,Pendleton,43.0,Acres,21191.0,1260
 Kentucky,Perry,14.0,Acres,21193.0,1265
-Kentucky,Pike,nan,Acres,21195.0,1267
+Kentucky,Pike,0,Acres,21195.0,1267
 Kentucky,Powell,12.0,Acres,21197.0,1270
 Kentucky,Pulaski,210.0,Acres,21199.0,1272
 Kentucky,Robertson,5.0,Acres,21201.0,1273
@@ -1108,14 +1108,14 @@ Kentucky,Union,15.0,Acres,21225.0,1016
 Kentucky,Warren,85.0,Acres,21227.0,1019
 Kentucky,Washington,19.0,Acres,21229.0,1023
 Kentucky,Wayne,66.0,Acres,21231.0,1027
-Kentucky,Webster,nan,Acres,21233.0,1029
+Kentucky,Webster,0,Acres,21233.0,1029
 Kentucky,Whitley,76.0,Acres,21235.0,1034
 Kentucky,Wolfe,15.0,Acres,21237.0,1037
 Kentucky,Woodford,41.0,Acres,21239.0,1042
-Louisiana,Acadia,nan,Acres,22001.0,1046
+Louisiana,Acadia,0,Acres,22001.0,1046
 Louisiana,Allen,43.0,Acres,22003.0,1051
-Louisiana,Ascension,nan,Acres,22005.0,1055
-Louisiana,Assumption,nan,Acres,22007.0,1060
+Louisiana,Ascension,0,Acres,22005.0,1055
+Louisiana,Assumption,0,Acres,22007.0,1060
 Louisiana,Avoyelles,2402.0,Acres,22009.0,1062
 Louisiana,Beauregard,169.0,Acres,22011.0,1066
 Louisiana,Bienville,157.0,Acres,22013.0,1069
@@ -1124,12 +1124,12 @@ Louisiana,Caddo,85.0,Acres,22017.0,1079
 Louisiana,Calcasieu,112.0,Acres,22019.0,1081
 Louisiana,Caldwell,0.0,Acres,22021.0,1084
 Louisiana,Cameron,6.0,Acres,22023.0,1089
-Louisiana,Catahoula,nan,Acres,22025.0,1093
+Louisiana,Catahoula,0,Acres,22025.0,1093
 Louisiana,Claiborne,86.0,Acres,22027.0,1095
-Louisiana,Concordia,nan,Acres,22029.0,1098
+Louisiana,Concordia,0,Acres,22029.0,1098
 Louisiana,De Soto,21.0,Acres,22031.0,1103
 Louisiana,East Baton Rouge,136.0,Acres,22033.0,1108
-Louisiana,East Carroll,nan,Acres,22035.0,1111
+Louisiana,East Carroll,0,Acres,22035.0,1111
 Louisiana,East Feliciana,23.0,Acres,22037.0,1115
 Louisiana,Evangeline,888.0,Acres,22039.0,1118
 Louisiana,Franklin,4628.0,Acres,22041.0,1123
@@ -1139,7 +1139,7 @@ Louisiana,Iberville,5.0,Acres,22047.0,1134
 Louisiana,Jackson,44.0,Acres,22049.0,1138
 Louisiana,Jefferson,25.0,Acres,22051.0,1147
 Louisiana,Jefferson Davis,11.0,Acres,22053.0,1155
-Louisiana,Lafayette,nan,Acres,22055.0,1161
+Louisiana,Lafayette,0,Acres,22055.0,1161
 Louisiana,Lafourche,122.0,Acres,22057.0,1280
 Louisiana,La Salle,5.0,Acres,22059.0,1289
 Louisiana,Lincoln,67.0,Acres,22061.0,1291
@@ -1150,7 +1150,7 @@ Louisiana,Natchitoches,28.0,Acres,22069.0,1301
 Louisiana,Orleans,0.0,Acres,22071.0,1304
 Louisiana,Ouachita,103.0,Acres,22073.0,1306
 Louisiana,Plaquemines,118.0,Acres,22075.0,1427
-Louisiana,Pointe Coupee,nan,Acres,22077.0,1431
+Louisiana,Pointe Coupee,0,Acres,22077.0,1431
 Louisiana,Rapides,333.0,Acres,22079.0,1434
 Louisiana,Red River,112.0,Acres,22081.0,1436
 Louisiana,Richland,206.0,Acres,22083.0,1439
@@ -1162,17 +1162,17 @@ Louisiana,St. James,59.0,Acres,22093.0,1468
 Louisiana,St. John the Baptist,32.0,Acres,22095.0,1469
 Louisiana,St. Landry,683.0,Acres,22097.0,1471
 Louisiana,St. Martin,17.0,Acres,22099.0,1473
-Louisiana,St. Mary,nan,Acres,22101.0,1474
+Louisiana,St. Mary,0,Acres,22101.0,1474
 Louisiana,St. Tammany,35.0,Acres,22103.0,1475
 Louisiana,Tangipahoa,279.0,Acres,22105.0,1476
 Louisiana,Tensas,0.0,Acres,22107.0,1479
-Louisiana,Terrebonne,nan,Acres,22109.0,1501
+Louisiana,Terrebonne,0,Acres,22109.0,1501
 Louisiana,Union,52.0,Acres,22111.0,1507
 Louisiana,Vermilion,43.0,Acres,22113.0,1510
 Louisiana,Vernon,58.0,Acres,22115.0,1513
 Louisiana,Washington,425.0,Acres,22117.0,1516
 Louisiana,Webster,16.0,Acres,22119.0,1518
-Louisiana,West Baton Rouge,nan,Acres,22121.0,1520
+Louisiana,West Baton Rouge,0,Acres,22121.0,1520
 Louisiana,West Carroll,4268.0,Acres,22123.0,1522
 Louisiana,West Feliciana,15.0,Acres,22125.0,1524
 Louisiana,Winn,26.0,Acres,22127.0,1529
@@ -1215,20 +1215,20 @@ Maryland,Talbot,1287.0,Acres,24041.0,1438
 Maryland,Washington,523.0,Acres,24043.0,1445
 Maryland,Wicomico,1835.0,Acres,24045.0,1446
 Maryland,Worcester,446.0,Acres,24047.0,1456
-Maryland,Baltimore City,nan,Acres,24510.0,1460
+Maryland,Baltimore City,0,Acres,24510.0,1460
 Massachusetts,Barnstable,83.0,Acres,25001.0,1478
 Massachusetts,Berkshire,612.0,Acres,25003.0,1480
 Massachusetts,Bristol,1786.0,Acres,25005.0,1486
-Massachusetts,Dukes,nan,Acres,25007.0,1491
+Massachusetts,Dukes,0,Acres,25007.0,1491
 Massachusetts,Essex,1069.0,Acres,25009.0,1519
 Massachusetts,Franklin,2794.0,Acres,25011.0,1523
 Massachusetts,Hampden,884.0,Acres,25013.0,1526
 Massachusetts,Hampshire,4166.0,Acres,25015.0,1527
 Massachusetts,Middlesex,1511.0,Acres,25017.0,1533
-Massachusetts,Nantucket,nan,Acres,25019.0,1537
+Massachusetts,Nantucket,0,Acres,25019.0,1537
 Massachusetts,Norfolk,317.0,Acres,25021.0,1543
 Massachusetts,Plymouth,695.0,Acres,25023.0,1569
-Massachusetts,Suffolk,nan,Acres,25025.0,1585
+Massachusetts,Suffolk,0,Acres,25025.0,1585
 Massachusetts,Worcester,1641.0,Acres,25027.0,1599
 Michigan,Alcona,3.0,Acres,26001.0,1603
 Michigan,Alger,14.0,Acres,26003.0,1609
@@ -1249,7 +1249,7 @@ Michigan,Cheboygan,54.0,Acres,26031.0,1649
 Michigan,Chippewa,25.0,Acres,26033.0,1660
 Michigan,Clare,33.0,Acres,26035.0,1665
 Michigan,Clinton,580.0,Acres,26037.0,1669
-Michigan,Crawford,nan,Acres,26039.0,1672
+Michigan,Crawford,0,Acres,26039.0,1672
 Michigan,Delta,773.0,Acres,26041.0,1675
 Michigan,Dickinson,852.0,Acres,26043.0,1677
 Michigan,Eaton,1200.0,Acres,26045.0,1678
@@ -1272,30 +1272,30 @@ Michigan,Kalamazoo,2036.0,Acres,26077.0,1720
 Michigan,Kalkaska,1674.0,Acres,26079.0,1722
 Michigan,Kent,2840.0,Acres,26081.0,1726
 Michigan,Keweenaw,0.0,Acres,26083.0,1743
-Michigan,Lake,nan,Acres,26085.0,1749
+Michigan,Lake,0,Acres,26085.0,1749
 Michigan,Lapeer,3558.0,Acres,26087.0,1752
 Michigan,Leelanau,151.0,Acres,26089.0,1765
 Michigan,Lenawee,3039.0,Acres,26091.0,1768
 Michigan,Livingston,1811.0,Acres,26093.0,1770
-Michigan,Luce,nan,Acres,26095.0,1773
-Michigan,Mackinac,nan,Acres,26097.0,1779
+Michigan,Luce,0,Acres,26095.0,1773
+Michigan,Mackinac,0,Acres,26097.0,1779
 Michigan,Macomb,3006.0,Acres,26099.0,1785
 Michigan,Manistee,450.0,Acres,26101.0,1787
 Michigan,Marquette,266.0,Acres,26103.0,1793
 Michigan,Mason,4619.0,Acres,26105.0,1797
-Michigan,Mecosta,nan,Acres,26107.0,1800
+Michigan,Mecosta,0,Acres,26107.0,1800
 Michigan,Menominee,51.0,Acres,26109.0,1802
 Michigan,Midland,568.0,Acres,26111.0,1806
 Michigan,Missaukee,388.0,Acres,26113.0,1810
 Michigan,Monroe,6707.0,Acres,26115.0,1812
 Michigan,Montcalm,23136.0,Acres,26117.0,1815
-Michigan,Montmorency,nan,Acres,26119.0,1816
+Michigan,Montmorency,0,Acres,26119.0,1816
 Michigan,Muskegon,2289.0,Acres,26121.0,1818
 Michigan,Newaygo,6574.0,Acres,26123.0,1820
 Michigan,Oakland,296.0,Acres,26125.0,1824
 Michigan,Oceana,13122.0,Acres,26127.0,1825
 Michigan,Ogemaw,37.0,Acres,26129.0,1827
-Michigan,Ontonagon,nan,Acres,26131.0,1829
+Michigan,Ontonagon,0,Acres,26131.0,1829
 Michigan,Osceola,530.0,Acres,26133.0,1830
 Michigan,Oscoda,27.0,Acres,26135.0,1832
 Michigan,Otsego,426.0,Acres,26137.0,1834
@@ -1315,21 +1315,21 @@ Michigan,Wayne,728.0,Acres,26163.0,1871
 Michigan,Wexford,30.0,Acres,26165.0,1873
 Minnesota,Aitkin,104.0,Acres,27001.0,1875
 Minnesota,Anoka,822.0,Acres,27003.0,1877
-Minnesota,Becker,nan,Acres,27005.0,1878
+Minnesota,Becker,0,Acres,27005.0,1878
 Minnesota,Beltrami,21.0,Acres,27007.0,1880
 Minnesota,Benton,1722.0,Acres,27009.0,1881
-Minnesota,Big Stone,nan,Acres,27011.0,1882
+Minnesota,Big Stone,0,Acres,27011.0,1882
 Minnesota,Blue Earth,2223.0,Acres,27013.0,1886
 Minnesota,Brown,10341.0,Acres,27015.0,1892
 Minnesota,Carlton,24.0,Acres,27017.0,1893
 Minnesota,Carver,115.0,Acres,27019.0,1894
-Minnesota,Cass,nan,Acres,27021.0,1895
+Minnesota,Cass,0,Acres,27021.0,1895
 Minnesota,Chippewa,5731.0,Acres,27023.0,1896
-Minnesota,Chisago,nan,Acres,27025.0,1897
+Minnesota,Chisago,0,Acres,27025.0,1897
 Minnesota,Clay,1752.0,Acres,27027.0,1898
-Minnesota,Clearwater,nan,Acres,27029.0,1899
+Minnesota,Clearwater,0,Acres,27029.0,1899
 Minnesota,Cook,0.0,Acres,27031.0,1900
-Minnesota,Cottonwood,nan,Acres,27033.0,1902
+Minnesota,Cottonwood,0,Acres,27033.0,1902
 Minnesota,Crow Wing,41.0,Acres,27035.0,1903
 Minnesota,Dakota,10790.0,Acres,27037.0,1904
 Minnesota,Dodge,3593.0,Acres,27039.0,1906
@@ -1338,10 +1338,10 @@ Minnesota,Faribault,5966.0,Acres,27043.0,1908
 Minnesota,Fillmore,1528.0,Acres,27045.0,1909
 Minnesota,Freeborn,9834.0,Acres,27047.0,1910
 Minnesota,Goodhue,5134.0,Acres,27049.0,1911
-Minnesota,Grant,nan,Acres,27051.0,1912
+Minnesota,Grant,0,Acres,27051.0,1912
 Minnesota,Hennepin,604.0,Acres,27053.0,1913
 Minnesota,Houston,35.0,Acres,27055.0,1914
-Minnesota,Hubbard,nan,Acres,27057.0,1915
+Minnesota,Hubbard,0,Acres,27057.0,1915
 Minnesota,Isanti,120.0,Acres,27059.0,1916
 Minnesota,Itasca,154.0,Acres,27061.0,1917
 Minnesota,Jackson,26.0,Acres,27063.0,1918
@@ -1349,38 +1349,38 @@ Minnesota,Kanabec,39.0,Acres,27065.0,1919
 Minnesota,Kandiyohi,8120.0,Acres,27067.0,1920
 Minnesota,Kittson,1135.0,Acres,27069.0,1921
 Minnesota,Koochiching,9.0,Acres,27071.0,1922
-Minnesota,Lac qui Parle,nan,Acres,27073.0,1923
+Minnesota,Lac qui Parle,0,Acres,27073.0,1923
 Minnesota,Lake,0.0,Acres,27075.0,1926
-Minnesota,Lake of the Woods,nan,Acres,27077.0,1927
+Minnesota,Lake of the Woods,0,Acres,27077.0,1927
 Minnesota,Le Sueur,2340.0,Acres,27079.0,1929
-Minnesota,Lincoln,nan,Acres,27081.0,1931
-Minnesota,Lyon,nan,Acres,27083.0,1932
+Minnesota,Lincoln,0,Acres,27081.0,1931
+Minnesota,Lyon,0,Acres,27083.0,1932
 Minnesota,McLeod,3269.0,Acres,27085.0,1934
-Minnesota,Mahnomen,nan,Acres,27087.0,1936
+Minnesota,Mahnomen,0,Acres,27087.0,1936
 Minnesota,Marshall,1537.0,Acres,27089.0,1937
 Minnesota,Martin,3039.0,Acres,27091.0,1940
 Minnesota,Meeker,3171.0,Acres,27093.0,1941
 Minnesota,Mille Lacs,54.0,Acres,27095.0,1943
 Minnesota,Morrison,2912.0,Acres,27097.0,1944
 Minnesota,Mower,14544.0,Acres,27099.0,1945
-Minnesota,Murray,nan,Acres,27101.0,1947
+Minnesota,Murray,0,Acres,27101.0,1947
 Minnesota,Nicollet,3040.0,Acres,27103.0,1948
 Minnesota,Nobles,197.0,Acres,27105.0,1950
 Minnesota,Norman,87.0,Acres,27107.0,1951
 Minnesota,Olmsted,8823.0,Acres,27109.0,1953
 Minnesota,Otter Tail,10836.0,Acres,27111.0,1954
-Minnesota,Pennington,nan,Acres,27113.0,1956
+Minnesota,Pennington,0,Acres,27113.0,1956
 Minnesota,Pine,36.0,Acres,27115.0,1957
-Minnesota,Pipestone,nan,Acres,27117.0,1958
+Minnesota,Pipestone,0,Acres,27117.0,1958
 Minnesota,Polk,6254.0,Acres,27119.0,1959
 Minnesota,Pope,2566.0,Acres,27121.0,1961
 Minnesota,Ramsey,119.0,Acres,27123.0,1964
-Minnesota,Red Lake,nan,Acres,27125.0,1966
+Minnesota,Red Lake,0,Acres,27125.0,1966
 Minnesota,Redwood,9497.0,Acres,27127.0,1969
 Minnesota,Renville,40479.0,Acres,27129.0,1971
 Minnesota,Rice,541.0,Acres,27131.0,1973
-Minnesota,Rock,nan,Acres,27133.0,1974
-Minnesota,Roseau,nan,Acres,27135.0,1976
+Minnesota,Rock,0,Acres,27133.0,1974
+Minnesota,Roseau,0,Acres,27135.0,1976
 Minnesota,St. Louis,96.0,Acres,27137.0,1978
 Minnesota,Scott,359.0,Acres,27139.0,1979
 Minnesota,Sherburne,10450.0,Acres,27141.0,1980
@@ -1390,17 +1390,17 @@ Minnesota,Steele,9441.0,Acres,27147.0,1985
 Minnesota,Stevens,6.0,Acres,27149.0,1987
 Minnesota,Swift,720.0,Acres,27151.0,1988
 Minnesota,Todd,2152.0,Acres,27153.0,1989
-Minnesota,Traverse,nan,Acres,27155.0,1990
+Minnesota,Traverse,0,Acres,27155.0,1990
 Minnesota,Wabasha,4772.0,Acres,27157.0,1991
-Minnesota,Wadena,nan,Acres,27159.0,1992
+Minnesota,Wadena,0,Acres,27159.0,1992
 Minnesota,Waseca,5832.0,Acres,27161.0,1993
 Minnesota,Washington,1511.0,Acres,27163.0,1994
 Minnesota,Watonwan,1239.0,Acres,27165.0,1996
-Minnesota,Wilkin,nan,Acres,27167.0,1997
+Minnesota,Wilkin,0,Acres,27167.0,1997
 Minnesota,Winona,3127.0,Acres,27169.0,1998
 Minnesota,Wright,366.0,Acres,27171.0,1999
 Minnesota,Yellow Medicine,5.0,Acres,27173.0,1531
-Mississippi,Adams,nan,Acres,28001.0,1534
+Mississippi,Adams,0,Acres,28001.0,1534
 Mississippi,Alcorn,51.0,Acres,28003.0,1538
 Mississippi,Amite,54.0,Acres,28005.0,1539
 Mississippi,Attala,26.0,Acres,28007.0,1541
@@ -1421,17 +1421,17 @@ Mississippi,Forrest,221.0,Acres,28035.0,1572
 Mississippi,Franklin,5.0,Acres,28037.0,1575
 Mississippi,George,199.0,Acres,28039.0,1577
 Mississippi,Greene,602.0,Acres,28041.0,1579
-Mississippi,Grenada,nan,Acres,28043.0,1581
+Mississippi,Grenada,0,Acres,28043.0,1581
 Mississippi,Hancock,21.0,Acres,28045.0,1583
 Mississippi,Harrison,97.0,Acres,28047.0,1587
 Mississippi,Hinds,84.0,Acres,28049.0,1591
 Mississippi,Holmes,11.0,Acres,28051.0,1593
 Mississippi,Humphreys,1072.0,Acres,28053.0,1596
-Mississippi,Issaquena,nan,Acres,28055.0,1598
+Mississippi,Issaquena,0,Acres,28055.0,1598
 Mississippi,Itawamba,40.0,Acres,28057.0,1601
 Mississippi,Jackson,25.0,Acres,28059.0,1605
 Mississippi,Jasper,28.0,Acres,28061.0,1607
-Mississippi,Jefferson,nan,Acres,28063.0,1610
+Mississippi,Jefferson,0,Acres,28063.0,1610
 Mississippi,Jefferson Davis,140.0,Acres,28065.0,1612
 Mississippi,Jones,352.0,Acres,28067.0,1615
 Mississippi,Kemper,94.0,Acres,28069.0,1616
@@ -1441,7 +1441,7 @@ Mississippi,Lauderdale,96.0,Acres,28075.0,1628
 Mississippi,Lawrence,88.0,Acres,28077.0,1632
 Mississippi,Leake,28.0,Acres,28079.0,1636
 Mississippi,Lee,44.0,Acres,28081.0,1638
-Mississippi,Leflore,nan,Acres,28083.0,1643
+Mississippi,Leflore,0,Acres,28083.0,1643
 Mississippi,Lincoln,5.0,Acres,28085.0,1645
 Mississippi,Lowndes,161.0,Acres,28087.0,1647
 Mississippi,Madison,87.0,Acres,28089.0,1651
@@ -1466,7 +1466,7 @@ Mississippi,Sharkey,0.0,Acres,28125.0,1695
 Mississippi,Simpson,172.0,Acres,28127.0,1698
 Mississippi,Smith,418.0,Acres,28129.0,1709
 Mississippi,Stone,109.0,Acres,28131.0,1712
-Mississippi,Sunflower,nan,Acres,28133.0,1721
+Mississippi,Sunflower,0,Acres,28133.0,1721
 Mississippi,Tallahatchie,46.0,Acres,28135.0,1725
 Mississippi,Tate,123.0,Acres,28137.0,1727
 Mississippi,Tippah,65.0,Acres,28139.0,1730
@@ -1474,29 +1474,29 @@ Mississippi,Tishomingo,31.0,Acres,28141.0,1732
 Mississippi,Tunica,0.0,Acres,28143.0,1735
 Mississippi,Union,13.0,Acres,28145.0,1737
 Mississippi,Walthall,33.0,Acres,28147.0,1740
-Mississippi,Warren,nan,Acres,28149.0,1746
-Mississippi,Washington,nan,Acres,28151.0,1750
+Mississippi,Warren,0,Acres,28149.0,1746
+Mississippi,Washington,0,Acres,28151.0,1750
 Mississippi,Wayne,78.0,Acres,28153.0,1753
 Mississippi,Webster,302.0,Acres,28155.0,1756
 Mississippi,Wilkinson,11.0,Acres,28157.0,1757
 Mississippi,Winston,103.0,Acres,28159.0,1758
 Mississippi,Yalobusha,102.0,Acres,28161.0,1759
-Mississippi,Yazoo,nan,Acres,28163.0,1760
+Mississippi,Yazoo,0,Acres,28163.0,1760
 Missouri,Adair,6.0,Acres,29001.0,1761
 Missouri,Andrew,79.0,Acres,29003.0,1762
-Missouri,Atchison,nan,Acres,29005.0,1763
+Missouri,Atchison,0,Acres,29005.0,1763
 Missouri,Audrain,42.0,Acres,29007.0,1766
-Missouri,Barry,nan,Acres,29009.0,1767
-Missouri,Barton,nan,Acres,29011.0,1771
+Missouri,Barry,0,Acres,29009.0,1767
+Missouri,Barton,0,Acres,29011.0,1771
 Missouri,Bates,88.0,Acres,29013.0,1776
 Missouri,Benton,57.0,Acres,29015.0,1778
-Missouri,Bollinger,nan,Acres,29017.0,1781
+Missouri,Bollinger,0,Acres,29017.0,1781
 Missouri,Boone,88.0,Acres,29019.0,1783
 Missouri,Buchanan,101.0,Acres,29021.0,1789
 Missouri,Butler,940.0,Acres,29023.0,1792
 Missouri,Caldwell,5.0,Acres,29025.0,1795
 Missouri,Callaway,80.0,Acres,29027.0,1799
-Missouri,Camden,nan,Acres,29029.0,1803
+Missouri,Camden,0,Acres,29029.0,1803
 Missouri,Cape Girardeau,105.0,Acres,29031.0,1808
 Missouri,Carroll,38.0,Acres,29033.0,1822
 Missouri,Carter,4.0,Acres,29035.0,1001
@@ -1504,13 +1504,13 @@ Missouri,Cass,107.0,Acres,29037.0,1004
 Missouri,Cedar,25.0,Acres,29039.0,1007
 Missouri,Chariton,405.0,Acres,29041.0,1011
 Missouri,Christian,54.0,Acres,29043.0,1014
-Missouri,Clark,nan,Acres,29045.0,1015
+Missouri,Clark,0,Acres,29045.0,1015
 Missouri,Clay,107.0,Acres,29047.0,1018
 Missouri,Clinton,69.0,Acres,29049.0,1021
 Missouri,Cole,19.0,Acres,29051.0,1022
 Missouri,Cooper,38.0,Acres,29053.0,1025
 Missouri,Crawford,2.0,Acres,29055.0,1028
-Missouri,Dade,nan,Acres,29057.0,1030
+Missouri,Dade,0,Acres,29057.0,1030
 Missouri,Dallas,68.0,Acres,29059.0,1032
 Missouri,Daviess,64.0,Acres,29061.0,1036
 Missouri,DeKalb,9.0,Acres,29063.0,1038
@@ -1524,8 +1524,8 @@ Missouri,Greene,57.0,Acres,29077.0,1054
 Missouri,Grundy,33.0,Acres,29079.0,1057
 Missouri,Harrison,4.0,Acres,29081.0,1058
 Missouri,Henry,42.0,Acres,29083.0,1061
-Missouri,Hickory,nan,Acres,29085.0,1063
-Missouri,Holt,nan,Acres,29087.0,1065
+Missouri,Hickory,0,Acres,29085.0,1063
+Missouri,Holt,0,Acres,29087.0,1065
 Missouri,Howard,29.0,Acres,29089.0,1068
 Missouri,Howell,22.0,Acres,29091.0,1070
 Missouri,Iron,0.0,Acres,29093.0,1072
@@ -1540,26 +1540,26 @@ Missouri,Lawrence,52.0,Acres,29109.0,1101
 Missouri,Lewis,59.0,Acres,29111.0,1104
 Missouri,Lincoln,11.0,Acres,29113.0,1106
 Missouri,Linn,26.0,Acres,29115.0,1109
-Missouri,Livingston,nan,Acres,29117.0,1112
+Missouri,Livingston,0,Acres,29117.0,1112
 Missouri,McDonald,118.0,Acres,29119.0,1113
 Missouri,Macon,20.0,Acres,29121.0,1116
 Missouri,Madison,0.0,Acres,29123.0,1117
 Missouri,Maries,29.0,Acres,29125.0,1120
-Missouri,Marion,nan,Acres,29127.0,1122
-Missouri,Mercer,nan,Acres,29129.0,1125
+Missouri,Marion,0,Acres,29127.0,1122
+Missouri,Mercer,0,Acres,29129.0,1125
 Missouri,Miller,35.0,Acres,29131.0,1128
 Missouri,Mississippi,4874.0,Acres,29133.0,1131
 Missouri,Moniteau,106.0,Acres,29135.0,1135
 Missouri,Monroe,24.0,Acres,29137.0,1139
-Missouri,Montgomery,nan,Acres,29139.0,1142
+Missouri,Montgomery,0,Acres,29139.0,1142
 Missouri,Morgan,121.0,Acres,29141.0,1146
-Missouri,New Madrid,nan,Acres,29143.0,1149
+Missouri,New Madrid,0,Acres,29143.0,1149
 Missouri,Newton,3829.0,Acres,29145.0,1152
 Missouri,Nodaway,58.0,Acres,29147.0,1156
 Missouri,Oregon,18.0,Acres,29149.0,1158
 Missouri,Osage,9.0,Acres,29151.0,1164
 Missouri,Ozark,4.0,Acres,29153.0,1168
-Missouri,Pemiscot,nan,Acres,29155.0,1170
+Missouri,Pemiscot,0,Acres,29155.0,1170
 Missouri,Perry,37.0,Acres,29157.0,1172
 Missouri,Pettis,76.0,Acres,29159.0,1174
 Missouri,Phelps,4.0,Acres,29161.0,1176
@@ -1567,7 +1567,7 @@ Missouri,Pike,66.0,Acres,29163.0,1179
 Missouri,Platte,156.0,Acres,29165.0,1181
 Missouri,Polk,32.0,Acres,29167.0,1183
 Missouri,Pulaski,12.0,Acres,29169.0,1185
-Missouri,Putnam,nan,Acres,29171.0,1188
+Missouri,Putnam,0,Acres,29171.0,1188
 Missouri,Ralls,8.0,Acres,29173.0,1191
 Missouri,Randolph,13.0,Acres,29175.0,1194
 Missouri,Ray,10.0,Acres,29177.0,1197
@@ -1579,7 +1579,7 @@ Missouri,Ste. Genevieve,9.0,Acres,29186.0,1209
 Missouri,St. Francois,10.0,Acres,29187.0,1212
 Missouri,St. Louis County,489.0,Acres,29189.0,1216
 Missouri,Saline,16.0,Acres,29195.0,1218
-Missouri,Schuyler,nan,Acres,29197.0,1221
+Missouri,Schuyler,0,Acres,29197.0,1221
 Missouri,Scotland,8.0,Acres,29199.0,1224
 Missouri,Scott,2793.0,Acres,29201.0,1227
 Missouri,Shannon,0.0,Acres,29203.0,1229
@@ -1594,17 +1594,17 @@ Missouri,Warren,199.0,Acres,29219.0,1251
 Missouri,Washington,6.0,Acres,29221.0,1253
 Missouri,Wayne,15.0,Acres,29223.0,1256
 Missouri,Webster,45.0,Acres,29225.0,1258
-Missouri,Worth,nan,Acres,29227.0,1261
+Missouri,Worth,0,Acres,29227.0,1261
 Missouri,Wright,12.0,Acres,29229.0,1263
-Missouri,St. Louis City,nan,Acres,29510.0,1266
+Missouri,St. Louis City,0,Acres,29510.0,1266
 Montana,Beaverhead,1215.0,Acres,30001.0,1269
 Montana,Big Horn,0.0,Acres,30003.0,1274
 Montana,Blaine,33.0,Acres,30005.0,1124
-Montana,Broadwater,nan,Acres,30007.0,1132
+Montana,Broadwater,0,Acres,30007.0,1132
 Montana,Carbon,18.0,Acres,30009.0,1137
-Montana,Carter,nan,Acres,30011.0,1141
+Montana,Carter,0,Acres,30011.0,1141
 Montana,Cascade,36.0,Acres,30013.0,1144
-Montana,Chouteau,nan,Acres,30015.0,1150
+Montana,Chouteau,0,Acres,30015.0,1150
 Montana,Custer,0.0,Acres,30017.0,1153
 Montana,Daniels,0.0,Acres,30019.0,1157
 Montana,Dawson,0.0,Acres,30021.0,1160
@@ -1615,154 +1615,154 @@ Montana,Flathead,297.0,Acres,30029.0,1173
 Montana,Gallatin,5401.0,Acres,30031.0,1177
 Montana,Garfield,0.0,Acres,30033.0,1182
 Montana,Glacier,37.0,Acres,30035.0,1186
-Montana,Golden Valley,nan,Acres,30037.0,1189
+Montana,Golden Valley,0,Acres,30037.0,1189
 Montana,Granite,0.0,Acres,30039.0,1192
 Montana,Hill,16.0,Acres,30041.0,1195
-Montana,Jefferson,nan,Acres,30043.0,1199
-Montana,Judith Basin,nan,Acres,30045.0,1202
+Montana,Jefferson,0,Acres,30043.0,1199
+Montana,Judith Basin,0,Acres,30045.0,1202
 Montana,Lake,2403.0,Acres,30047.0,1207
 Montana,Lewis and Clark,13.0,Acres,30049.0,1211
 Montana,Liberty,23.0,Acres,30051.0,1214
-Montana,Lincoln,nan,Acres,30053.0,1219
-Montana,McCone,nan,Acres,30055.0,1223
+Montana,Lincoln,0,Acres,30053.0,1219
+Montana,McCone,0,Acres,30055.0,1223
 Montana,Madison,811.0,Acres,30057.0,1226
-Montana,Meagher,nan,Acres,30059.0,1231
+Montana,Meagher,0,Acres,30059.0,1231
 Montana,Mineral,0.0,Acres,30061.0,1234
 Montana,Missoula,50.0,Acres,30063.0,1239
-Montana,Musselshell,nan,Acres,30065.0,1241
+Montana,Musselshell,0,Acres,30065.0,1241
 Montana,Park,12.0,Acres,30067.0,1244
 Montana,Petroleum,0.0,Acres,30069.0,1247
 Montana,Phillips,0.0,Acres,30071.0,1250
 Montana,Pondera,31.0,Acres,30073.0,1254
 Montana,Powder River,0.0,Acres,30075.0,1259
-Montana,Powell,nan,Acres,30077.0,1262
-Montana,Prairie,nan,Acres,30079.0,1264
+Montana,Powell,0,Acres,30077.0,1262
+Montana,Prairie,0,Acres,30079.0,1264
 Montana,Ravalli,69.0,Acres,30081.0,1268
 Montana,Richland,376.0,Acres,30083.0,1271
 Montana,Roosevelt,0.0,Acres,30085.0,1275
 Montana,Rosebud,0.0,Acres,30087.0,1277
 Montana,Sanders,31.0,Acres,30089.0,1278
-Montana,Sheridan,nan,Acres,30091.0,1281
+Montana,Sheridan,0,Acres,30091.0,1281
 Montana,Silver Bow,0.0,Acres,30093.0,1284
-Montana,Stillwater,nan,Acres,30095.0,1286
-Montana,Sweet Grass,nan,Acres,30097.0,1288
+Montana,Stillwater,0,Acres,30095.0,1286
+Montana,Sweet Grass,0,Acres,30097.0,1288
 Montana,Teton,34.0,Acres,30099.0,1290
-Montana,Toole,nan,Acres,30101.0,1292
+Montana,Toole,0,Acres,30101.0,1292
 Montana,Treasure,0.0,Acres,30103.0,1293
-Montana,Valley,nan,Acres,30105.0,1296
+Montana,Valley,0,Acres,30105.0,1296
 Montana,Wheatland,16.0,Acres,30107.0,1298
-Montana,Wibaux,nan,Acres,30109.0,1300
+Montana,Wibaux,0,Acres,30109.0,1300
 Montana,Yellowstone,155.0,Acres,30111.0,1302
 Nebraska,Adams,1.0,Acres,31001.0,1303
 Nebraska,Antelope,3.0,Acres,31003.0,1305
 Nebraska,Arthur,0.0,Acres,31005.0,1307
 Nebraska,Banner,0.0,Acres,31007.0,1308
 Nebraska,Blaine,0.0,Acres,31009.0,1309
-Nebraska,Boone,nan,Acres,31011.0,1310
+Nebraska,Boone,0,Acres,31011.0,1310
 Nebraska,Box Butte,4072.0,Acres,31013.0,1315
 Nebraska,Boyd,0.0,Acres,31015.0,1317
-Nebraska,Brown,nan,Acres,31017.0,1319
+Nebraska,Brown,0,Acres,31017.0,1319
 Nebraska,Buffalo,21.0,Acres,31019.0,1321
 Nebraska,Burt,3.0,Acres,31021.0,1323
 Nebraska,Butler,29.0,Acres,31023.0,1325
 Nebraska,Cass,52.0,Acres,31025.0,1326
 Nebraska,Cedar,6.0,Acres,31027.0,1329
 Nebraska,Chase,2663.0,Acres,31029.0,1330
-Nebraska,Cherry,nan,Acres,31031.0,1333
+Nebraska,Cherry,0,Acres,31031.0,1333
 Nebraska,Cheyenne,180.0,Acres,31033.0,1334
 Nebraska,Clay,20.0,Acres,31035.0,1336
-Nebraska,Colfax,nan,Acres,31037.0,1338
-Nebraska,Cuming,nan,Acres,31039.0,1340
+Nebraska,Colfax,0,Acres,31037.0,1338
+Nebraska,Cuming,0,Acres,31039.0,1340
 Nebraska,Custer,6.0,Acres,31041.0,1342
 Nebraska,Dakota,30.0,Acres,31043.0,1344
-Nebraska,Dawes,nan,Acres,31045.0,1347
+Nebraska,Dawes,0,Acres,31045.0,1347
 Nebraska,Dawson,7.0,Acres,31047.0,1349
 Nebraska,Deuel,0.0,Acres,31049.0,1351
-Nebraska,Dixon,nan,Acres,31051.0,1353
+Nebraska,Dixon,0,Acres,31051.0,1353
 Nebraska,Dodge,23.0,Acres,31053.0,1354
 Nebraska,Douglas,265.0,Acres,31055.0,1358
 Nebraska,Dundy,3421.0,Acres,31057.0,1360
 Nebraska,Fillmore,0.0,Acres,31059.0,1363
-Nebraska,Franklin,nan,Acres,31061.0,1369
+Nebraska,Franklin,0,Acres,31061.0,1369
 Nebraska,Frontier,0.0,Acres,31063.0,1371
-Nebraska,Furnas,nan,Acres,31065.0,1374
+Nebraska,Furnas,0,Acres,31065.0,1374
 Nebraska,Gage,8.0,Acres,31067.0,1378
 Nebraska,Garden,0.0,Acres,31069.0,1381
 Nebraska,Garfield,0.0,Acres,31071.0,1391
 Nebraska,Gosper,0.0,Acres,31073.0,1393
 Nebraska,Grant,0.0,Acres,31075.0,1395
-Nebraska,Greeley,nan,Acres,31077.0,1397
-Nebraska,Hall,nan,Acres,31079.0,1402
+Nebraska,Greeley,0,Acres,31077.0,1397
+Nebraska,Hall,0,Acres,31079.0,1402
 Nebraska,Hamilton,5.0,Acres,31081.0,1405
-Nebraska,Harlan,nan,Acres,31083.0,1409
-Nebraska,Hayes,nan,Acres,31085.0,1411
-Nebraska,Hitchcock,nan,Acres,31087.0,1414
-Nebraska,Holt,nan,Acres,31089.0,1416
+Nebraska,Harlan,0,Acres,31083.0,1409
+Nebraska,Hayes,0,Acres,31085.0,1411
+Nebraska,Hitchcock,0,Acres,31087.0,1414
+Nebraska,Holt,0,Acres,31089.0,1416
 Nebraska,Hooker,0.0,Acres,31091.0,1418
 Nebraska,Howard,160.0,Acres,31093.0,1311
 Nebraska,Jefferson,0.0,Acres,31095.0,1312
-Nebraska,Johnson,nan,Acres,31097.0,1313
-Nebraska,Kearney,nan,Acres,31099.0,1314
+Nebraska,Johnson,0,Acres,31097.0,1313
+Nebraska,Kearney,0,Acres,31099.0,1314
 Nebraska,Keith,875.0,Acres,31101.0,1316
 Nebraska,Keya Paha,0.0,Acres,31103.0,1318
 Nebraska,Kimball,0.0,Acres,31105.0,1320
 Nebraska,Knox,3.0,Acres,31107.0,1322
 Nebraska,Lancaster,92.0,Acres,31109.0,1324
-Nebraska,Lincoln,nan,Acres,31111.0,1327
+Nebraska,Lincoln,0,Acres,31111.0,1327
 Nebraska,Logan,0.0,Acres,31113.0,1328
-Nebraska,Loup,nan,Acres,31115.0,1331
+Nebraska,Loup,0,Acres,31115.0,1331
 Nebraska,McPherson,0.0,Acres,31117.0,1332
 Nebraska,Madison,301.0,Acres,31119.0,1335
-Nebraska,Merrick,nan,Acres,31121.0,1337
-Nebraska,Morrill,nan,Acres,31123.0,1339
+Nebraska,Merrick,0,Acres,31121.0,1337
+Nebraska,Morrill,0,Acres,31123.0,1339
 Nebraska,Nance,0.0,Acres,31125.0,1341
 Nebraska,Nemaha,3.0,Acres,31127.0,1343
-Nebraska,Nuckolls,nan,Acres,31129.0,1345
+Nebraska,Nuckolls,0,Acres,31129.0,1345
 Nebraska,Otoe,15.0,Acres,31131.0,1348
-Nebraska,Pawnee,nan,Acres,31133.0,1350
+Nebraska,Pawnee,0,Acres,31133.0,1350
 Nebraska,Perkins,0.0,Acres,31135.0,1352
-Nebraska,Phelps,nan,Acres,31137.0,1355
-Nebraska,Pierce,nan,Acres,31139.0,1356
-Nebraska,Platte,nan,Acres,31141.0,1359
-Nebraska,Polk,nan,Acres,31143.0,1362
+Nebraska,Phelps,0,Acres,31137.0,1355
+Nebraska,Pierce,0,Acres,31139.0,1356
+Nebraska,Platte,0,Acres,31141.0,1359
+Nebraska,Polk,0,Acres,31143.0,1362
 Nebraska,Red Willow,6.0,Acres,31145.0,1364
-Nebraska,Richardson,nan,Acres,31147.0,1365
+Nebraska,Richardson,0,Acres,31147.0,1365
 Nebraska,Rock,0.0,Acres,31149.0,1366
 Nebraska,Saline,7.0,Acres,31151.0,1367
 Nebraska,Sarpy,110.0,Acres,31153.0,1368
 Nebraska,Saunders,145.0,Acres,31155.0,1370
 Nebraska,Scotts Bluff,7.0,Acres,31157.0,1373
-Nebraska,Seward,nan,Acres,31159.0,1375
-Nebraska,Sheridan,nan,Acres,31161.0,1376
-Nebraska,Sherman,nan,Acres,31163.0,1377
-Nebraska,Sioux,nan,Acres,31165.0,1380
+Nebraska,Seward,0,Acres,31159.0,1375
+Nebraska,Sheridan,0,Acres,31161.0,1376
+Nebraska,Sherman,0,Acres,31163.0,1377
+Nebraska,Sioux,0,Acres,31165.0,1380
 Nebraska,Stanton,17.0,Acres,31167.0,1382
-Nebraska,Thayer,nan,Acres,31169.0,1383
+Nebraska,Thayer,0,Acres,31169.0,1383
 Nebraska,Thomas,0.0,Acres,31171.0,1384
 Nebraska,Thurston,0.0,Acres,31173.0,1385
-Nebraska,Valley,nan,Acres,31175.0,1386
+Nebraska,Valley,0,Acres,31175.0,1386
 Nebraska,Washington,65.0,Acres,31177.0,1387
-Nebraska,Wayne,nan,Acres,31179.0,1388
+Nebraska,Wayne,0,Acres,31179.0,1388
 Nebraska,Webster,3.0,Acres,31181.0,1389
 Nebraska,Wheeler,0.0,Acres,31183.0,1390
-Nebraska,York,nan,Acres,31185.0,1392
+Nebraska,York,0,Acres,31185.0,1392
 Nevada,Churchill,69.0,Acres,32001.0,1396
 Nevada,Clark,40.0,Acres,32003.0,1399
-Nevada,Douglas,nan,Acres,32005.0,1400
-Nevada,Elko,nan,Acres,32007.0,1401
-Nevada,Esmeralda,nan,Acres,32009.0,1404
+Nevada,Douglas,0,Acres,32005.0,1400
+Nevada,Elko,0,Acres,32007.0,1401
+Nevada,Esmeralda,0,Acres,32009.0,1404
 Nevada,Eureka,0.0,Acres,32011.0,1406
-Nevada,Humboldt,nan,Acres,32013.0,1407
+Nevada,Humboldt,0,Acres,32013.0,1407
 Nevada,Lander,3.0,Acres,32015.0,1408
-Nevada,Lincoln,nan,Acres,32017.0,1410
-Nevada,Lyon,nan,Acres,32019.0,1412
+Nevada,Lincoln,0,Acres,32017.0,1410
+Nevada,Lyon,0,Acres,32019.0,1412
 Nevada,Mineral,0.0,Acres,32021.0,1415
 Nevada,Nye,0.0,Acres,32023.0,1417
 Nevada,Pershing,0.0,Acres,32027.0,1419
-Nevada,Storey,nan,Acres,32029.0,1420
-Nevada,Washoe,nan,Acres,32031.0,1423
+Nevada,Storey,0,Acres,32029.0,1420
+Nevada,Washoe,0,Acres,32031.0,1423
 Nevada,White Pine,0.0,Acres,32033.0,1425
-Nevada,Carson City,nan,Acres,32510.0,1428
+Nevada,Carson City,0,Acres,32510.0,1428
 New Hampshire,Belknap,139.0,Acres,33001.0,1432
 New Hampshire,Carroll,148.0,Acres,33003.0,1435
 New Hampshire,Cheshire,272.0,Acres,33005.0,1437
@@ -1796,36 +1796,36 @@ New Jersey,Union,27.0,Acres,34039.0,1566
 New Jersey,Warren,2480.0,Acres,34041.0,1570
 New Mexico,Bernalillo,281.0,Acres,35001.0,1574
 New Mexico,Catron,0.0,Acres,35003.0,1576
-New Mexico,Chaves,nan,Acres,35005.0,1578
-New Mexico,Cibola,nan,Acres,35006.0,1580
+New Mexico,Chaves,0,Acres,35005.0,1578
+New Mexico,Cibola,0,Acres,35006.0,1580
 New Mexico,Colfax,0.0,Acres,35007.0,1582
 New Mexico,Curry,2878.0,Acres,35009.0,1586
-New Mexico,De Baca,nan,Acres,35011.0,1589
+New Mexico,De Baca,0,Acres,35011.0,1589
 New Mexico,Doña Ana,10118.0,Acres,35013.0,1590
 New Mexico,Eddy,706.0,Acres,35015.0,1592
 New Mexico,Grant,13.0,Acres,35017.0,1594
 New Mexico,Guadalupe,7.0,Acres,35019.0,1595
 New Mexico,Harding,0.0,Acres,35021.0,1597
 New Mexico,Hidalgo,737.0,Acres,35023.0,1600
-New Mexico,Lea,nan,Acres,35025.0,1604
-New Mexico,Lincoln,nan,Acres,35027.0,1613
+New Mexico,Lea,0,Acres,35025.0,1604
+New Mexico,Lincoln,0,Acres,35027.0,1613
 New Mexico,Los Alamos,0.0,Acres,35028.0,1618
 New Mexico,Luna,6449.0,Acres,35029.0,1622
 New Mexico,McKinley,1348.0,Acres,35031.0,1626
 New Mexico,Mora,7.0,Acres,35033.0,1629
 New Mexico,Otero,18.0,Acres,35035.0,1633
-New Mexico,Quay,nan,Acres,35037.0,1637
-New Mexico,Rio Arriba,nan,Acres,35039.0,1639
+New Mexico,Quay,0,Acres,35037.0,1637
+New Mexico,Rio Arriba,0,Acres,35039.0,1639
 New Mexico,Roosevelt,750.0,Acres,35041.0,1642
-New Mexico,Sandoval,nan,Acres,35043.0,1646
+New Mexico,Sandoval,0,Acres,35043.0,1646
 New Mexico,San Juan,9555.0,Acres,35045.0,1650
 New Mexico,San Miguel,14.0,Acres,35047.0,1652
-New Mexico,Santa Fe,nan,Acres,35049.0,1654
+New Mexico,Santa Fe,0,Acres,35049.0,1654
 New Mexico,Sierra,1070.0,Acres,35051.0,1657
 New Mexico,Socorro,143.0,Acres,35053.0,1659
 New Mexico,Taos,85.0,Acres,35055.0,1662
-New Mexico,Torrance,nan,Acres,35057.0,1664
-New Mexico,Union,nan,Acres,35059.0,1667
+New Mexico,Torrance,0,Acres,35057.0,1664
+New Mexico,Union,0,Acres,35059.0,1667
 New Mexico,Valencia,116.0,Acres,35061.0,1670
 New York,Albany,749.0,Acres,36001.0,1673
 New York,Allegany,86.0,Acres,36003.0,1674
@@ -1856,7 +1856,7 @@ New York,Livingston,7513.0,Acres,36051.0,1791
 New York,Madison,766.0,Acres,36053.0,1796
 New York,Monroe,13585.0,Acres,36055.0,1804
 New York,Montgomery,759.0,Acres,36057.0,1807
-New York,Nassau,nan,Acres,36059.0,1839
+New York,Nassau,0,Acres,36059.0,1839
 New York,New York,0.0,Acres,36061.0,1847
 New York,Niagara,5281.0,Acres,36063.0,1850
 New York,Oneida,2242.0,Acres,36065.0,1852
@@ -1867,10 +1867,10 @@ New York,Orleans,18914.0,Acres,36073.0,1862
 New York,Oswego,3713.0,Acres,36075.0,1864
 New York,Otsego,195.0,Acres,36077.0,1868
 New York,Putnam,98.0,Acres,36079.0,1870
-New York,Queens,nan,Acres,36081.0,1872
+New York,Queens,0,Acres,36081.0,1872
 New York,Rensselaer,1324.0,Acres,36083.0,1874
 New York,Richmond,0.0,Acres,36085.0,1876
-New York,Rockland,nan,Acres,36087.0,1879
+New York,Rockland,0,Acres,36087.0,1879
 New York,St. Lawrence,572.0,Acres,36089.0,1883
 New York,Saratoga,274.0,Acres,36091.0,1885
 New York,Schenectady,471.0,Acres,36093.0,1887
@@ -1925,7 +1925,7 @@ North Carolina,Edgecombe,4729.0,Acres,37065.0,1495
 North Carolina,Forsyth,278.0,Acres,37067.0,1496
 North Carolina,Franklin,500.0,Acres,37069.0,1498
 North Carolina,Gaston,139.0,Acres,37071.0,1499
-North Carolina,Gates,nan,Acres,37073.0,1500
+North Carolina,Gates,0,Acres,37073.0,1500
 North Carolina,Graham,10.0,Acres,37075.0,1502
 North Carolina,Granville,442.0,Acres,37077.0,1503
 North Carolina,Greene,2237.0,Acres,37079.0,1505
@@ -1940,14 +1940,14 @@ North Carolina,Hyde,6474.0,Acres,37095.0,1521
 North Carolina,Iredell,283.0,Acres,37097.0,1525
 North Carolina,Jackson,217.0,Acres,37099.0,1528
 North Carolina,Johnston,10191.0,Acres,37101.0,1530
-North Carolina,Jones,nan,Acres,37103.0,1536
+North Carolina,Jones,0,Acres,37103.0,1536
 North Carolina,Lee,146.0,Acres,37105.0,1540
 North Carolina,Lenoir,1074.0,Acres,37107.0,1542
 North Carolina,Lincoln,476.0,Acres,37109.0,1545
 North Carolina,McDowell,90.0,Acres,37111.0,1554
 North Carolina,Macon,160.0,Acres,37113.0,1556
 North Carolina,Madison,201.0,Acres,37115.0,1560
-North Carolina,Martin,nan,Acres,37117.0,1563
+North Carolina,Martin,0,Acres,37117.0,1563
 North Carolina,Mecklenburg,177.0,Acres,37119.0,1565
 North Carolina,Mitchell,55.0,Acres,37121.0,1568
 North Carolina,Montgomery,213.0,Acres,37123.0,1573
@@ -1957,7 +1957,7 @@ North Carolina,New Hanover,24.0,Acres,37129.0,1602
 North Carolina,Northampton,80.0,Acres,37131.0,1606
 North Carolina,Onslow,150.0,Acres,37133.0,1625
 North Carolina,Orange,79.0,Acres,37135.0,1630
-North Carolina,Pamlico,nan,Acres,37137.0,1703
+North Carolina,Pamlico,0,Acres,37137.0,1703
 North Carolina,Pasquotank,5985.0,Acres,37139.0,1714
 North Carolina,Pender,546.0,Acres,37141.0,1718
 North Carolina,Perquimans,566.0,Acres,37143.0,1724
@@ -1978,7 +1978,7 @@ North Carolina,Surry,274.0,Acres,37171.0,1780
 North Carolina,Swain,50.0,Acres,37173.0,1784
 North Carolina,Transylvania,260.0,Acres,37175.0,1786
 North Carolina,Tyrrell,2478.0,Acres,37177.0,1794
-North Carolina,Union,nan,Acres,37179.0,1798
+North Carolina,Union,0,Acres,37179.0,1798
 North Carolina,Vance,97.0,Acres,37181.0,1801
 North Carolina,Wake,1333.0,Acres,37183.0,1805
 North Carolina,Warren,124.0,Acres,37185.0,1809
@@ -1990,60 +1990,60 @@ North Carolina,Wilson,4764.0,Acres,37195.0,1819
 North Carolina,Yadkin,104.0,Acres,37197.0,1821
 North Carolina,Yancey,128.0,Acres,37199.0,1823
 North Dakota,Adams,0.0,Acres,38001.0,1826
-North Dakota,Barnes,nan,Acres,38003.0,1828
-North Dakota,Benson,nan,Acres,38005.0,1831
+North Dakota,Barnes,0,Acres,38003.0,1828
+North Dakota,Benson,0,Acres,38005.0,1831
 North Dakota,Billings,0.0,Acres,38007.0,1833
 North Dakota,Bottineau,0.0,Acres,38009.0,1836
 North Dakota,Bowman,0.0,Acres,38011.0,1838
 North Dakota,Burke,0.0,Acres,38013.0,1841
 North Dakota,Burleigh,74.0,Acres,38015.0,1844
-North Dakota,Cass,nan,Acres,38017.0,1848
+North Dakota,Cass,0,Acres,38017.0,1848
 North Dakota,Cavalier,6.0,Acres,38019.0,1849
-North Dakota,Dickey,nan,Acres,38021.0,2004
+North Dakota,Dickey,0,Acres,38021.0,2004
 North Dakota,Divide,0.0,Acres,38023.0,2007
 North Dakota,Dunn,0.0,Acres,38025.0,2013
-North Dakota,Eddy,nan,Acres,38027.0,2017
-North Dakota,Emmons,nan,Acres,38029.0,2021
-North Dakota,Foster,nan,Acres,38031.0,2026
-North Dakota,Golden Valley,nan,Acres,38033.0,2036
+North Dakota,Eddy,0,Acres,38027.0,2017
+North Dakota,Emmons,0,Acres,38029.0,2021
+North Dakota,Foster,0,Acres,38031.0,2026
+North Dakota,Golden Valley,0,Acres,38033.0,2036
 North Dakota,Grand Forks,13593.0,Acres,38035.0,2043
 North Dakota,Grant,0.0,Acres,38037.0,2051
 North Dakota,Griggs,0.0,Acres,38039.0,2056
 North Dakota,Hettinger,0.0,Acres,38041.0,2063
 North Dakota,Kidder,8156.0,Acres,38043.0,2068
 North Dakota,LaMoure,0.0,Acres,38045.0,2074
-North Dakota,Logan,nan,Acres,38047.0,2078
-North Dakota,McHenry,nan,Acres,38049.0,2082
+North Dakota,Logan,0,Acres,38047.0,2078
+North Dakota,McHenry,0,Acres,38049.0,2082
 North Dakota,McIntosh,0.0,Acres,38051.0,2090
-North Dakota,McKenzie,nan,Acres,38053.0,2097
-North Dakota,McLean,nan,Acres,38055.0,2103
+North Dakota,McKenzie,0,Acres,38053.0,2097
+North Dakota,McLean,0,Acres,38055.0,2103
 North Dakota,Mercer,0.0,Acres,38057.0,2107
 North Dakota,Morton,0.0,Acres,38059.0,2114
 North Dakota,Mountrail,0.0,Acres,38061.0,2119
 North Dakota,Nelson,0.0,Acres,38063.0,2122
-North Dakota,Oliver,nan,Acres,38065.0,2127
+North Dakota,Oliver,0,Acres,38065.0,2127
 North Dakota,Pembina,17911.0,Acres,38067.0,2131
-North Dakota,Pierce,nan,Acres,38069.0,2136
-North Dakota,Ramsey,nan,Acres,38071.0,2141
-North Dakota,Ransom,nan,Acres,38073.0,2147
+North Dakota,Pierce,0,Acres,38069.0,2136
+North Dakota,Ramsey,0,Acres,38071.0,2141
+North Dakota,Ransom,0,Acres,38073.0,2147
 North Dakota,Renville,0.0,Acres,38075.0,2150
-North Dakota,Richland,nan,Acres,38077.0,2156
-North Dakota,Rolette,nan,Acres,38079.0,2161
-North Dakota,Sargent,nan,Acres,38081.0,2164
+North Dakota,Richland,0,Acres,38077.0,2156
+North Dakota,Rolette,0,Acres,38079.0,2161
+North Dakota,Sargent,0,Acres,38081.0,2164
 North Dakota,Sheridan,19.0,Acres,38083.0,2169
 North Dakota,Sioux,0.0,Acres,38085.0,2175
 North Dakota,Slope,0.0,Acres,38087.0,2180
-North Dakota,Stark,nan,Acres,38089.0,2182
+North Dakota,Stark,0,Acres,38089.0,2182
 North Dakota,Steele,0.0,Acres,38091.0,2186
-North Dakota,Stutsman,nan,Acres,38093.0,2199
-North Dakota,Towner,nan,Acres,38095.0,2205
+North Dakota,Stutsman,0,Acres,38093.0,2199
+North Dakota,Towner,0,Acres,38095.0,2205
 North Dakota,Traill,2538.0,Acres,38097.0,2217
 North Dakota,Walsh,31863.0,Acres,38099.0,2225
 North Dakota,Ward,22.0,Acres,38101.0,2233
 North Dakota,Wells,16.0,Acres,38103.0,2237
-North Dakota,Williams,nan,Acres,38105.0,2244
+North Dakota,Williams,0,Acres,38105.0,2244
 Ohio,Adams,42.0,Acres,39001.0,2248
-Ohio,Allen,nan,Acres,39003.0,2250
+Ohio,Allen,0,Acres,39003.0,2250
 Ohio,Ashland,360.0,Acres,39005.0,2254
 Ohio,Ashtabula,409.0,Acres,39007.0,2259
 Ohio,Athens,95.0,Acres,39009.0,2266
@@ -2052,7 +2052,7 @@ Ohio,Belmont,106.0,Acres,39013.0,2278
 Ohio,Brown,86.0,Acres,39015.0,2282
 Ohio,Butler,156.0,Acres,39017.0,2286
 Ohio,Carroll,101.0,Acres,39019.0,2289
-Ohio,Champaign,nan,Acres,39021.0,2291
+Ohio,Champaign,0,Acres,39021.0,2291
 Ohio,Clark,372.0,Acres,39023.0,2300
 Ohio,Clermont,199.0,Acres,39025.0,2306
 Ohio,Clinton,76.0,Acres,39027.0,2310
@@ -2074,7 +2074,7 @@ Ohio,Greene,679.0,Acres,39057.0,2393
 Ohio,Guernsey,89.0,Acres,39059.0,2399
 Ohio,Hamilton,252.0,Acres,39061.0,2411
 Ohio,Hancock,84.0,Acres,39063.0,2427
-Ohio,Hardin,nan,Acres,39065.0,2432
+Ohio,Hardin,0,Acres,39065.0,2432
 Ohio,Harrison,11.0,Acres,39067.0,2440
 Ohio,Henry,3531.0,Acres,39069.0,2451
 Ohio,Highland,163.0,Acres,39071.0,2457
@@ -2102,7 +2102,7 @@ Ohio,Montgomery,173.0,Acres,39113.0,2573
 Ohio,Morgan,35.0,Acres,39115.0,2000
 Ohio,Morrow,154.0,Acres,39117.0,2006
 Ohio,Muskingum,288.0,Acres,39119.0,2010
-Ohio,Noble,nan,Acres,39121.0,2012
+Ohio,Noble,0,Acres,39121.0,2012
 Ohio,Ottawa,1412.0,Acres,39123.0,2019
 Ohio,Paulding,95.0,Acres,39125.0,2024
 Ohio,Perry,39.0,Acres,39127.0,2027
@@ -2129,13 +2129,13 @@ Ohio,Washington,936.0,Acres,39167.0,2080
 Ohio,Wayne,1396.0,Acres,39169.0,2084
 Ohio,Williams,1609.0,Acres,39171.0,2087
 Ohio,Wood,1189.0,Acres,39173.0,2091
-Ohio,Wyandot,nan,Acres,39175.0,2093
+Ohio,Wyandot,0,Acres,39175.0,2093
 Oklahoma,Adair,46.0,Acres,40001.0,2095
-Oklahoma,Alfalfa,nan,Acres,40003.0,2099
+Oklahoma,Alfalfa,0,Acres,40003.0,2099
 Oklahoma,Atoka,34.0,Acres,40005.0,2102
-Oklahoma,Beaver,nan,Acres,40007.0,2104
-Oklahoma,Beckham,nan,Acres,40009.0,2106
-Oklahoma,Blaine,nan,Acres,40011.0,2110
+Oklahoma,Beaver,0,Acres,40007.0,2104
+Oklahoma,Beckham,0,Acres,40009.0,2106
+Oklahoma,Blaine,0,Acres,40011.0,2110
 Oklahoma,Bryan,56.0,Acres,40013.0,2112
 Oklahoma,Caddo,1886.0,Acres,40015.0,2118
 Oklahoma,Canadian,34.0,Acres,40017.0,2123
@@ -2144,31 +2144,31 @@ Oklahoma,Cherokee,28.0,Acres,40021.0,2129
 Oklahoma,Choctaw,35.0,Acres,40023.0,2133
 Oklahoma,Cimarron,0.0,Acres,40025.0,2135
 Oklahoma,Cleveland,68.0,Acres,40027.0,2140
-Oklahoma,Coal,nan,Acres,40029.0,2144
+Oklahoma,Coal,0,Acres,40029.0,2144
 Oklahoma,Comanche,40.0,Acres,40031.0,2145
 Oklahoma,Cotton,38.0,Acres,40033.0,2146
-Oklahoma,Craig,nan,Acres,40035.0,2148
+Oklahoma,Craig,0,Acres,40035.0,2148
 Oklahoma,Creek,64.0,Acres,40037.0,2151
-Oklahoma,Custer,nan,Acres,40039.0,2153
+Oklahoma,Custer,0,Acres,40039.0,2153
 Oklahoma,Delaware,697.0,Acres,40041.0,2154
 Oklahoma,Dewey,3.0,Acres,40043.0,2158
-Oklahoma,Ellis,nan,Acres,40045.0,2165
+Oklahoma,Ellis,0,Acres,40045.0,2165
 Oklahoma,Garfield,8.0,Acres,40047.0,2167
 Oklahoma,Garvin,82.0,Acres,40049.0,2176
 Oklahoma,Grady,181.0,Acres,40051.0,2184
-Oklahoma,Grant,nan,Acres,40053.0,2187
-Oklahoma,Greer,nan,Acres,40055.0,2189
-Oklahoma,Harmon,nan,Acres,40057.0,2191
-Oklahoma,Harper,nan,Acres,40059.0,2193
+Oklahoma,Grant,0,Acres,40053.0,2187
+Oklahoma,Greer,0,Acres,40055.0,2189
+Oklahoma,Harmon,0,Acres,40057.0,2191
+Oklahoma,Harper,0,Acres,40059.0,2193
 Oklahoma,Haskell,3.0,Acres,40061.0,2195
 Oklahoma,Hughes,20.0,Acres,40063.0,2197
-Oklahoma,Jackson,nan,Acres,40065.0,2202
+Oklahoma,Jackson,0,Acres,40065.0,2202
 Oklahoma,Jefferson,2049.0,Acres,40067.0,2206
 Oklahoma,Johnston,25.0,Acres,40069.0,2211
 Oklahoma,Kay,12.0,Acres,40071.0,2215
 Oklahoma,Kingfisher,73.0,Acres,40073.0,2219
-Oklahoma,Kiowa,nan,Acres,40075.0,2222
-Oklahoma,Latimer,nan,Acres,40077.0,2226
+Oklahoma,Kiowa,0,Acres,40075.0,2222
+Oklahoma,Latimer,0,Acres,40077.0,2226
 Oklahoma,Le Flore,7745.0,Acres,40079.0,2230
 Oklahoma,Lincoln,21.0,Acres,40081.0,2234
 Oklahoma,Logan,97.0,Acres,40083.0,2236
@@ -2182,29 +2182,29 @@ Oklahoma,Mayes,27.0,Acres,40097.0,2270
 Oklahoma,Murray,31.0,Acres,40099.0,2276
 Oklahoma,Muskogee,530.0,Acres,40101.0,2281
 Oklahoma,Noble,12.0,Acres,40103.0,2287
-Oklahoma,Nowata,nan,Acres,40105.0,2290
+Oklahoma,Nowata,0,Acres,40105.0,2290
 Oklahoma,Okfuskee,272.0,Acres,40107.0,2297
 Oklahoma,Oklahoma,18.0,Acres,40109.0,2303
 Oklahoma,Okmulgee,23.0,Acres,40111.0,2311
 Oklahoma,Osage,66.0,Acres,40113.0,2318
-Oklahoma,Ottawa,nan,Acres,40115.0,2325
-Oklahoma,Pawnee,nan,Acres,40117.0,2329
+Oklahoma,Ottawa,0,Acres,40115.0,2325
+Oklahoma,Pawnee,0,Acres,40117.0,2329
 Oklahoma,Payne,82.0,Acres,40119.0,2340
 Oklahoma,Pittsburg,51.0,Acres,40121.0,2344
 Oklahoma,Pontotoc,52.0,Acres,40123.0,2351
 Oklahoma,Pottawatomie,27.0,Acres,40125.0,2356
 Oklahoma,Pushmataha,5.0,Acres,40127.0,2362
-Oklahoma,Roger Mills,nan,Acres,40129.0,2369
+Oklahoma,Roger Mills,0,Acres,40129.0,2369
 Oklahoma,Rogers,28.0,Acres,40131.0,2374
 Oklahoma,Seminole,17.0,Acres,40133.0,2384
-Oklahoma,Sequoyah,nan,Acres,40135.0,2391
-Oklahoma,Stephens,nan,Acres,40137.0,2396
+Oklahoma,Sequoyah,0,Acres,40135.0,2391
+Oklahoma,Stephens,0,Acres,40137.0,2396
 Oklahoma,Texas,12.0,Acres,40139.0,2003
-Oklahoma,Tillman,nan,Acres,40141.0,2005
+Oklahoma,Tillman,0,Acres,40141.0,2005
 Oklahoma,Tulsa,207.0,Acres,40143.0,2008
 Oklahoma,Wagoner,277.0,Acres,40145.0,2014
 Oklahoma,Washington,1.0,Acres,40147.0,2018
-Oklahoma,Washita,nan,Acres,40149.0,2023
+Oklahoma,Washita,0,Acres,40149.0,2023
 Oklahoma,Woods,3.0,Acres,40151.0,2029
 Oklahoma,Woodward,9.0,Acres,40153.0,2035
 Oregon,Baker,3734.0,Acres,41001.0,2044
@@ -2213,31 +2213,31 @@ Oregon,Clackamas,3721.0,Acres,41005.0,2058
 Oregon,Clatsop,1.0,Acres,41007.0,2064
 Oregon,Columbia,12.0,Acres,41009.0,2070
 Oregon,Coos,20.0,Acres,41011.0,2083
-Oregon,Crook,nan,Acres,41013.0,2092
+Oregon,Crook,0,Acres,41013.0,2092
 Oregon,Curry,7.0,Acres,41015.0,2098
 Oregon,Deschutes,65.0,Acres,41017.0,2109
-Oregon,Douglas,nan,Acres,41019.0,2115
-Oregon,Gilliam,nan,Acres,41021.0,2121
+Oregon,Douglas,0,Acres,41019.0,2115
+Oregon,Gilliam,0,Acres,41021.0,2121
 Oregon,Grant,0.0,Acres,41023.0,2130
 Oregon,Harney,0.0,Acres,41025.0,2134
 Oregon,Hood River,51.0,Acres,41027.0,2138
 Oregon,Jackson,267.0,Acres,41029.0,2139
-Oregon,Jefferson,nan,Acres,41031.0,2143
+Oregon,Jefferson,0,Acres,41031.0,2143
 Oregon,Josephine,158.0,Acres,41033.0,2152
 Oregon,Klamath,5684.0,Acres,41035.0,2155
-Oregon,Lake,nan,Acres,41037.0,2159
-Oregon,Lane,nan,Acres,41039.0,2170
+Oregon,Lake,0,Acres,41037.0,2159
+Oregon,Lane,0,Acres,41039.0,2170
 Oregon,Lincoln,16.0,Acres,41041.0,2174
 Oregon,Linn,5561.0,Acres,41043.0,2181
 Oregon,Malheur,17277.0,Acres,41045.0,2185
 Oregon,Marion,25012.0,Acres,41047.0,2200
 Oregon,Morrow,21574.0,Acres,41049.0,2209
 Oregon,Multnomah,2575.0,Acres,41051.0,2218
-Oregon,Polk,nan,Acres,41053.0,2223
+Oregon,Polk,0,Acres,41053.0,2223
 Oregon,Sherman,0.0,Acres,41055.0,2232
 Oregon,Tillamook,32.0,Acres,41057.0,2242
 Oregon,Umatilla,41211.0,Acres,41059.0,2251
-Oregon,Union,nan,Acres,41061.0,2257
+Oregon,Union,0,Acres,41061.0,2257
 Oregon,Wallowa,101.0,Acres,41063.0,2263
 Oregon,Wasco,18.0,Acres,41065.0,2267
 Oregon,Washington,3525.0,Acres,41067.0,2272
@@ -2265,7 +2265,7 @@ Pennsylvania,Columbia,4107.0,Acres,42037.0,2385
 Pennsylvania,Crawford,453.0,Acres,42039.0,2389
 Pennsylvania,Cumberland,977.0,Acres,42041.0,2397
 Pennsylvania,Dauphin,334.0,Acres,42043.0,2403
-Pennsylvania,Delaware,nan,Acres,42045.0,2414
+Pennsylvania,Delaware,0,Acres,42045.0,2414
 Pennsylvania,Elk,133.0,Acres,42047.0,2420
 Pennsylvania,Erie,2250.0,Acres,42049.0,2425
 Pennsylvania,Fayette,590.0,Acres,42051.0,2431
@@ -2294,7 +2294,7 @@ Pennsylvania,Northampton,561.0,Acres,42095.0,2537
 Pennsylvania,Northumberland,1549.0,Acres,42097.0,2544
 Pennsylvania,Perry,236.0,Acres,42099.0,2554
 Pennsylvania,Philadelphia,9.0,Acres,42101.0,2563
-Pennsylvania,Pike,nan,Acres,42103.0,2571
+Pennsylvania,Pike,0,Acres,42103.0,2571
 Pennsylvania,Potter,3578.0,Acres,42105.0,2575
 Pennsylvania,Schuylkill,2756.0,Acres,42107.0,2581
 Pennsylvania,Snyder,1221.0,Acres,42109.0,2583
@@ -2323,7 +2323,7 @@ South Carolina,Bamberg,2774.0,Acres,45009.0,2592
 South Carolina,Barnwell,780.0,Acres,45011.0,2605
 South Carolina,Beaufort,2146.0,Acres,45013.0,2626
 South Carolina,Berkeley,82.0,Acres,45015.0,2631
-South Carolina,Calhoun,nan,Acres,45017.0,2635
+South Carolina,Calhoun,0,Acres,45017.0,2635
 South Carolina,Charleston,1097.0,Acres,45019.0,2691
 South Carolina,Cherokee,112.0,Acres,45021.0,2700
 South Carolina,Chester,178.0,Acres,45023.0,2704
@@ -2334,20 +2334,20 @@ South Carolina,Darlington,236.0,Acres,45031.0,2721
 South Carolina,Dillon,125.0,Acres,45033.0,2725
 South Carolina,Dorchester,260.0,Acres,45035.0,2730
 South Carolina,Edgefield,288.0,Acres,45037.0,2735
-South Carolina,Fairfield,nan,Acres,45039.0,2738
+South Carolina,Fairfield,0,Acres,45039.0,2738
 South Carolina,Florence,714.0,Acres,45041.0,2742
 South Carolina,Georgetown,83.0,Acres,45043.0,2752
 South Carolina,Greenville,854.0,Acres,45045.0,2759
 South Carolina,Greenwood,24.0,Acres,45047.0,2764
 South Carolina,Hampton,112.0,Acres,45049.0,2767
 South Carolina,Horry,823.0,Acres,45051.0,2774
-South Carolina,Jasper,nan,Acres,45053.0,2783
+South Carolina,Jasper,0,Acres,45053.0,2783
 South Carolina,Kershaw,102.0,Acres,45055.0,2787
 South Carolina,Lancaster,51.0,Acres,45057.0,2790
 South Carolina,Laurens,91.0,Acres,45059.0,2794
 South Carolina,Lee,98.0,Acres,45061.0,2800
 South Carolina,Lexington,6802.0,Acres,45063.0,2803
-South Carolina,McCormick,nan,Acres,45065.0,2807
+South Carolina,McCormick,0,Acres,45065.0,2807
 South Carolina,Marion,67.0,Acres,45067.0,2811
 South Carolina,Marlboro,64.0,Acres,45069.0,2813
 South Carolina,Newberry,54.0,Acres,45071.0,2818
@@ -2366,40 +2366,40 @@ South Dakota,Beadle,10.0,Acres,46005.0,2874
 South Dakota,Bennett,0.0,Acres,46007.0,2876
 South Dakota,Bon Homme,0.0,Acres,46009.0,2879
 South Dakota,Brookings,44.0,Acres,46011.0,2882
-South Dakota,Brown,nan,Acres,46013.0,2885
-South Dakota,Brule,nan,Acres,46015.0,2888
+South Dakota,Brown,0,Acres,46013.0,2885
+South Dakota,Brule,0,Acres,46015.0,2888
 South Dakota,Buffalo,0.0,Acres,46017.0,2891
 South Dakota,Butte,44.0,Acres,46019.0,2895
 South Dakota,Campbell,0.0,Acres,46021.0,2897
-South Dakota,Charles Mix,nan,Acres,46023.0,2900
-South Dakota,Clark,nan,Acres,46025.0,2901
+South Dakota,Charles Mix,0,Acres,46023.0,2900
+South Dakota,Clark,0,Acres,46025.0,2901
 South Dakota,Clay,22.0,Acres,46027.0,2903
 South Dakota,Codington,12.0,Acres,46029.0,2906
 South Dakota,Corson,0.0,Acres,46031.0,2907
 South Dakota,Custer,0.0,Acres,46033.0,2908
-South Dakota,Davison,nan,Acres,46035.0,2910
+South Dakota,Davison,0,Acres,46035.0,2910
 South Dakota,Day,0.0,Acres,46037.0,2911
 South Dakota,Deuel,8.0,Acres,46039.0,2912
 South Dakota,Dewey,0.0,Acres,46041.0,2914
 South Dakota,Douglas,0.0,Acres,46043.0,2916
 South Dakota,Edmunds,0.0,Acres,46045.0,2917
-South Dakota,Fall River,nan,Acres,46047.0,2919
+South Dakota,Fall River,0,Acres,46047.0,2919
 South Dakota,Faulk,0.0,Acres,46049.0,2921
-South Dakota,Grant,nan,Acres,46051.0,2922
+South Dakota,Grant,0,Acres,46051.0,2922
 South Dakota,Gregory,0.0,Acres,46053.0,2923
 South Dakota,Haakon,0.0,Acres,46055.0,2924
-South Dakota,Hamlin,nan,Acres,46057.0,2926
+South Dakota,Hamlin,0,Acres,46057.0,2926
 South Dakota,Hand,0.0,Acres,46059.0,2928
 South Dakota,Hanson,17.0,Acres,46061.0,2929
 South Dakota,Harding,0.0,Acres,46063.0,2931
-South Dakota,Hughes,nan,Acres,46065.0,2933
+South Dakota,Hughes,0,Acres,46065.0,2933
 South Dakota,Hutchinson,18.0,Acres,46067.0,2934
 South Dakota,Hyde,0.0,Acres,46069.0,2937
 South Dakota,Jackson,0.0,Acres,46071.0,2939
 South Dakota,Jerauld,0.0,Acres,46073.0,2941
 South Dakota,Jones,0.0,Acres,46075.0,2944
 South Dakota,Kingsbury,0.0,Acres,46077.0,2945
-South Dakota,Lake,nan,Acres,46079.0,2401
+South Dakota,Lake,0,Acres,46079.0,2401
 South Dakota,Lawrence,29.0,Acres,46081.0,2406
 South Dakota,Lincoln,54.0,Acres,46083.0,2410
 South Dakota,Lyman,0.0,Acres,46085.0,2417
@@ -2410,22 +2410,22 @@ South Dakota,Meade,0.0,Acres,46093.0,2442
 South Dakota,Mellette,0.0,Acres,46095.0,2450
 South Dakota,Miner,0.0,Acres,46097.0,2456
 South Dakota,Minnehaha,75.0,Acres,46099.0,2467
-South Dakota,Moody,nan,Acres,46101.0,2485
+South Dakota,Moody,0,Acres,46101.0,2485
 South Dakota,Pennington,7.0,Acres,46103.0,2497
 South Dakota,Perkins,0.0,Acres,46105.0,2502
 South Dakota,Potter,0.0,Acres,46107.0,2506
 South Dakota,Roberts,8.0,Acres,46109.0,2511
 South Dakota,Sanborn,366.0,Acres,46111.0,2514
 South Dakota,Shannon,0.0,Acres,46113.0,2519
-South Dakota,Spink,nan,Acres,46115.0,2523
+South Dakota,Spink,0,Acres,46115.0,2523
 South Dakota,Stanley,0.0,Acres,46117.0,2530
-South Dakota,Sully,nan,Acres,46119.0,2535
+South Dakota,Sully,0,Acres,46119.0,2535
 South Dakota,Todd,0.0,Acres,46121.0,2540
 South Dakota,Tripp,1.0,Acres,46123.0,2546
-South Dakota,Turner,nan,Acres,46125.0,2550
+South Dakota,Turner,0,Acres,46125.0,2550
 South Dakota,Union,0.0,Acres,46127.0,2557
-South Dakota,Walworth,nan,Acres,46129.0,2561
-South Dakota,Yankton,nan,Acres,46135.0,2569
+South Dakota,Walworth,0,Acres,46129.0,2561
+South Dakota,Yankton,0,Acres,46135.0,2569
 South Dakota,Ziebach,0.0,Acres,46137.0,2578
 Tennessee,Anderson,23.0,Acres,47001.0,2584
 Tennessee,Bedford,26.0,Acres,47003.0,2593
@@ -2444,12 +2444,12 @@ Tennessee,Clay,0.0,Acres,47027.0,2679
 Tennessee,Cocke,642.0,Acres,47029.0,2686
 Tennessee,Coffee,85.0,Acres,47031.0,2689
 Tennessee,Crockett,344.0,Acres,47033.0,2693
-Tennessee,Cumberland,nan,Acres,47035.0,2696
+Tennessee,Cumberland,0,Acres,47035.0,2696
 Tennessee,Davidson,150.0,Acres,47037.0,2698
 Tennessee,Decatur,42.0,Acres,47039.0,2705
 Tennessee,DeKalb,30.0,Acres,47041.0,2710
 Tennessee,Dickson,65.0,Acres,47043.0,2717
-Tennessee,Dyer,nan,Acres,47045.0,2723
+Tennessee,Dyer,0,Acres,47045.0,2723
 Tennessee,Fayette,61.0,Acres,47047.0,2726
 Tennessee,Fentress,953.0,Acres,47049.0,2731
 Tennessee,Franklin,33.0,Acres,47051.0,2734
@@ -2458,7 +2458,7 @@ Tennessee,Giles,14.0,Acres,47055.0,2743
 Tennessee,Grainger,441.0,Acres,47057.0,2748
 Tennessee,Greene,296.0,Acres,47059.0,2750
 Tennessee,Grundy,25.0,Acres,47061.0,2754
-Tennessee,Hamblen,nan,Acres,47063.0,2757
+Tennessee,Hamblen,0,Acres,47063.0,2757
 Tennessee,Hamilton,39.0,Acres,47065.0,2761
 Tennessee,Hancock,45.0,Acres,47067.0,2766
 Tennessee,Hardeman,63.0,Acres,47069.0,2770
@@ -2468,7 +2468,7 @@ Tennessee,Haywood,33.0,Acres,47075.0,2781
 Tennessee,Henderson,50.0,Acres,47077.0,2786
 Tennessee,Henry,72.0,Acres,47079.0,2789
 Tennessee,Hickman,22.0,Acres,47081.0,2792
-Tennessee,Houston,nan,Acres,47083.0,2796
+Tennessee,Houston,0,Acres,47083.0,2796
 Tennessee,Humphreys,25.0,Acres,47085.0,2798
 Tennessee,Jackson,14.0,Acres,47087.0,2801
 Tennessee,Jefferson,368.0,Acres,47089.0,2804
@@ -2484,7 +2484,7 @@ Tennessee,McMinn,68.0,Acres,47107.0,2833
 Tennessee,McNairy,37.0,Acres,47109.0,2836
 Tennessee,Macon,28.0,Acres,47111.0,2839
 Tennessee,Madison,44.0,Acres,47113.0,2841
-Tennessee,Marion,nan,Acres,47115.0,2844
+Tennessee,Marion,0,Acres,47115.0,2844
 Tennessee,Marshall,18.0,Acres,47117.0,2848
 Tennessee,Maury,30.0,Acres,47119.0,2850
 Tennessee,Meigs,35.0,Acres,47121.0,2854
@@ -2493,7 +2493,7 @@ Tennessee,Montgomery,71.0,Acres,47125.0,2859
 Tennessee,Moore,20.0,Acres,47127.0,2863
 Tennessee,Morgan,20.0,Acres,47129.0,2866
 Tennessee,Obion,72.0,Acres,47131.0,2872
-Tennessee,Overton,nan,Acres,47133.0,2875
+Tennessee,Overton,0,Acres,47133.0,2875
 Tennessee,Perry,8.0,Acres,47135.0,2878
 Tennessee,Pickett,5.0,Acres,47137.0,2881
 Tennessee,Polk,35.0,Acres,47139.0,2883
@@ -2502,7 +2502,7 @@ Tennessee,Rhea,788.0,Acres,47143.0,2893
 Tennessee,Roane,93.0,Acres,47145.0,2001
 Tennessee,Robertson,296.0,Acres,47147.0,2011
 Tennessee,Rutherford,71.0,Acres,47149.0,2015
-Tennessee,Scott,nan,Acres,47151.0,2020
+Tennessee,Scott,0,Acres,47151.0,2020
 Tennessee,Sequatchie,6.0,Acres,47153.0,2025
 Tennessee,Sevier,39.0,Acres,47155.0,2030
 Tennessee,Shelby,44.0,Acres,47157.0,2033
@@ -2526,28 +2526,28 @@ Texas,Anderson,278.0,Acres,48001.0,2113
 Texas,Andrews,0.0,Acres,48003.0,2117
 Texas,Angelina,96.0,Acres,48005.0,2124
 Texas,Aransas,4.0,Acres,48007.0,2162
-Texas,Archer,nan,Acres,48009.0,2168
+Texas,Archer,0,Acres,48009.0,2168
 Texas,Armstrong,0.0,Acres,48011.0,2172
 Texas,Atascosa,1523.0,Acres,48013.0,2173
 Texas,Austin,120.0,Acres,48015.0,2177
 Texas,Bailey,859.0,Acres,48017.0,2179
-Texas,Bandera,nan,Acres,48019.0,2183
+Texas,Bandera,0,Acres,48019.0,2183
 Texas,Bastrop,223.0,Acres,48021.0,2190
-Texas,Baylor,nan,Acres,48023.0,2192
-Texas,Bee,nan,Acres,48025.0,2196
+Texas,Baylor,0,Acres,48023.0,2192
+Texas,Bee,0,Acres,48025.0,2196
 Texas,Bell,32.0,Acres,48027.0,2198
 Texas,Bexar,1856.0,Acres,48029.0,2203
 Texas,Blanco,63.0,Acres,48031.0,2207
 Texas,Borden,0.0,Acres,48033.0,2212
-Texas,Bosque,nan,Acres,48035.0,2216
+Texas,Bosque,0,Acres,48035.0,2216
 Texas,Bowie,32.0,Acres,48037.0,2224
 Texas,Brazoria,1943.0,Acres,48039.0,2240
 Texas,Brazos,28.0,Acres,48041.0,2253
-Texas,Brewster,nan,Acres,48043.0,2262
+Texas,Brewster,0,Acres,48043.0,2262
 Texas,Briscoe,0.0,Acres,48045.0,2269
 Texas,Brooks,242.0,Acres,48047.0,2279
 Texas,Brown,77.0,Acres,48049.0,2296
-Texas,Burleson,nan,Acres,48051.0,2304
+Texas,Burleson,0,Acres,48051.0,2304
 Texas,Burnet,25.0,Acres,48053.0,2312
 Texas,Caldwell,89.0,Acres,48055.0,2320
 Texas,Calhoun,0.0,Acres,48057.0,2327
@@ -2556,22 +2556,22 @@ Texas,Cameron,5499.0,Acres,48061.0,2359
 Texas,Camp,23.0,Acres,48063.0,2373
 Texas,Carson,0.0,Acres,48065.0,2377
 Texas,Cass,103.0,Acres,48067.0,2382
-Texas,Castro,nan,Acres,48069.0,2386
+Texas,Castro,0,Acres,48069.0,2386
 Texas,Chambers,0.0,Acres,48071.0,2395
 Texas,Cherokee,342.0,Acres,48073.0,2400
-Texas,Childress,nan,Acres,48075.0,2405
+Texas,Childress,0,Acres,48075.0,2405
 Texas,Clay,59.0,Acres,48077.0,2409
-Texas,Cochran,nan,Acres,48079.0,2413
+Texas,Cochran,0,Acres,48079.0,2413
 Texas,Coke,0.0,Acres,48081.0,2418
 Texas,Coleman,0.0,Acres,48083.0,2423
 Texas,Collin,346.0,Acres,48085.0,2429
-Texas,Collingsworth,nan,Acres,48087.0,2434
+Texas,Collingsworth,0,Acres,48087.0,2434
 Texas,Colorado,4.0,Acres,48089.0,2441
 Texas,Comal,0.0,Acres,48091.0,2449
 Texas,Comanche,1040.0,Acres,48093.0,2455
 Texas,Concho,0.0,Acres,48095.0,2458
 Texas,Cooke,81.0,Acres,48097.0,2463
-Texas,Coryell,nan,Acres,48099.0,2469
+Texas,Coryell,0,Acres,48099.0,2469
 Texas,Cottle,0.0,Acres,48101.0,2473
 Texas,Crane,0.0,Acres,48103.0,2478
 Texas,Crockett,0.0,Acres,48105.0,2483
@@ -2579,15 +2579,15 @@ Texas,Crosby,0.0,Acres,48107.0,2487
 Texas,Culberson,0.0,Acres,48109.0,2491
 Texas,Dallam,1055.0,Acres,48111.0,2498
 Texas,Dallas,43.0,Acres,48113.0,2507
-Texas,Dawson,nan,Acres,48115.0,2512
+Texas,Dawson,0,Acres,48115.0,2512
 Texas,Deaf Smith,407.0,Acres,48117.0,2515
 Texas,Delta,9.0,Acres,48119.0,2524
 Texas,Denton,81.0,Acres,48121.0,2532
 Texas,DeWitt,9.0,Acres,48123.0,2538
 Texas,Dickens,0.0,Acres,48125.0,2542
-Texas,Dimmit,nan,Acres,48127.0,2548
+Texas,Dimmit,0,Acres,48127.0,2548
 Texas,Donley,333.0,Acres,48129.0,2551
-Texas,Duval,nan,Acres,48131.0,2556
+Texas,Duval,0,Acres,48131.0,2556
 Texas,Eastland,55.0,Acres,48133.0,2562
 Texas,Ector,32.0,Acres,48135.0,2568
 Texas,Edwards,0.0,Acres,48137.0,2574
@@ -2596,8 +2596,8 @@ Texas,El Paso,1218.0,Acres,48141.0,2588
 Texas,Erath,61.0,Acres,48143.0,2597
 Texas,Falls,343.0,Acres,48145.0,2601
 Texas,Fannin,21.0,Acres,48147.0,2621
-Texas,Fayette,nan,Acres,48149.0,2624
-Texas,Fisher,nan,Acres,48151.0,2628
+Texas,Fayette,0,Acres,48149.0,2624
+Texas,Fisher,0,Acres,48151.0,2628
 Texas,Floyd,1143.0,Acres,48153.0,2630
 Texas,Foard,0.0,Acres,48155.0,2002
 Texas,Fort Bend,225.0,Acres,48157.0,2009
@@ -2608,10 +2608,10 @@ Texas,Gaines,5392.0,Acres,48165.0,2032
 Texas,Galveston,38.0,Acres,48167.0,2059
 Texas,Garza,0.0,Acres,48169.0,2060
 Texas,Gillespie,472.0,Acres,48171.0,2066
-Texas,Glasscock,nan,Acres,48173.0,2072
+Texas,Glasscock,0,Acres,48173.0,2072
 Texas,Goliad,6.0,Acres,48175.0,2079
-Texas,Gonzales,nan,Acres,48177.0,2086
-Texas,Gray,nan,Acres,48179.0,2088
+Texas,Gonzales,0,Acres,48177.0,2086
+Texas,Gray,0,Acres,48179.0,2088
 Texas,Grayson,67.0,Acres,48181.0,2094
 Texas,Gregg,26.0,Acres,48183.0,2101
 Texas,Grimes,402.0,Acres,48185.0,2108
@@ -2624,7 +2624,7 @@ Texas,Hardeman,0.0,Acres,48197.0,2137
 Texas,Hardin,57.0,Acres,48199.0,2142
 Texas,Harris,424.0,Acres,48201.0,2149
 Texas,Harrison,74.0,Acres,48203.0,2157
-Texas,Hartley,nan,Acres,48205.0,2160
+Texas,Hartley,0,Acres,48205.0,2160
 Texas,Haskell,0.0,Acres,48207.0,2163
 Texas,Hays,24.0,Acres,48209.0,2166
 Texas,Hemphill,0.0,Acres,48211.0,2171
@@ -2632,67 +2632,67 @@ Texas,Henderson,207.0,Acres,48213.0,2178
 Texas,Hidalgo,31411.0,Acres,48215.0,2188
 Texas,Hill,49.0,Acres,48217.0,2201
 Texas,Hockley,788.0,Acres,48219.0,2208
-Texas,Hood,nan,Acres,48221.0,2213
+Texas,Hood,0,Acres,48221.0,2213
 Texas,Hopkins,13.0,Acres,48223.0,2221
-Texas,Houston,nan,Acres,48225.0,2228
-Texas,Howard,nan,Acres,48227.0,2231
+Texas,Houston,0,Acres,48225.0,2228
+Texas,Howard,0,Acres,48227.0,2231
 Texas,Hudspeth,2467.0,Acres,48229.0,2241
 Texas,Hunt,126.0,Acres,48231.0,2246
 Texas,Hutchinson,0.0,Acres,48233.0,2249
 Texas,Irion,0.0,Acres,48235.0,2255
 Texas,Jack,71.0,Acres,48237.0,2256
-Texas,Jackson,nan,Acres,48239.0,2264
+Texas,Jackson,0,Acres,48239.0,2264
 Texas,Jasper,170.0,Acres,48241.0,2271
 Texas,Jeff Davis,0.0,Acres,48243.0,2275
 Texas,Jefferson,35.0,Acres,48245.0,2285
 Texas,Jim Hogg,0.0,Acres,48247.0,2288
-Texas,Jim Wells,nan,Acres,48249.0,2294
+Texas,Jim Wells,0,Acres,48249.0,2294
 Texas,Johnson,46.0,Acres,48251.0,2299
 Texas,Jones,101.0,Acres,48253.0,2301
-Texas,Karnes,nan,Acres,48255.0,2307
+Texas,Karnes,0,Acres,48255.0,2307
 Texas,Kaufman,46.0,Acres,48257.0,2314
 Texas,Kendall,6.0,Acres,48259.0,2319
 Texas,Kenedy,0.0,Acres,48261.0,2330
-Texas,Kent,nan,Acres,48263.0,2335
-Texas,Kerr,nan,Acres,48265.0,2337
-Texas,Kimble,nan,Acres,48267.0,2339
+Texas,Kent,0,Acres,48263.0,2335
+Texas,Kerr,0,Acres,48265.0,2337
+Texas,Kimble,0,Acres,48267.0,2339
 Texas,King,0.0,Acres,48269.0,2342
 Texas,Kinney,0.0,Acres,48271.0,2347
-Texas,Kleberg,nan,Acres,48273.0,2358
-Texas,Knox,nan,Acres,48275.0,2364
+Texas,Kleberg,0,Acres,48273.0,2358
+Texas,Knox,0,Acres,48275.0,2364
 Texas,Lamar,48.0,Acres,48277.0,2371
-Texas,Lamb,nan,Acres,48279.0,2376
+Texas,Lamb,0,Acres,48279.0,2376
 Texas,Lampasas,11.0,Acres,48281.0,2381
 Texas,La Salle,1017.0,Acres,48283.0,2388
-Texas,Lavaca,nan,Acres,48285.0,2392
+Texas,Lavaca,0,Acres,48285.0,2392
 Texas,Lee,55.0,Acres,48287.0,2398
 Texas,Leon,120.0,Acres,48289.0,2402
 Texas,Liberty,7.0,Acres,48291.0,2404
 Texas,Limestone,219.0,Acres,48293.0,2408
 Texas,Lipscomb,0.0,Acres,48295.0,2412
 Texas,Live Oak,9.0,Acres,48297.0,2416
-Texas,Llano,nan,Acres,48299.0,2421
+Texas,Llano,0,Acres,48299.0,2421
 Texas,Loving,0.0,Acres,48301.0,2424
 Texas,Lubbock,961.0,Acres,48303.0,2428
-Texas,Lynn,nan,Acres,48305.0,2438
+Texas,Lynn,0,Acres,48305.0,2438
 Texas,McCulloch,8.0,Acres,48307.0,2452
 Texas,McLennan,102.0,Acres,48309.0,2477
 Texas,McMullen,0.0,Acres,48311.0,2494
-Texas,Madison,nan,Acres,48313.0,2526
-Texas,Marion,nan,Acres,48315.0,2547
-Texas,Martin,nan,Acres,48317.0,2564
+Texas,Madison,0,Acres,48313.0,2526
+Texas,Marion,0,Acres,48315.0,2547
+Texas,Martin,0,Acres,48317.0,2564
 Texas,Mason,117.0,Acres,48319.0,2570
 Texas,Matagorda,11.0,Acres,48321.0,2637
 Texas,Maverick,57.0,Acres,48323.0,2649
 Texas,Medina,4425.0,Acres,48325.0,2652
 Texas,Menard,0.0,Acres,48327.0,2655
-Texas,Midland,nan,Acres,48329.0,2657
+Texas,Midland,0,Acres,48329.0,2657
 Texas,Milam,82.0,Acres,48331.0,2659
-Texas,Mills,nan,Acres,48333.0,2663
-Texas,Mitchell,nan,Acres,48335.0,2666
+Texas,Mills,0,Acres,48333.0,2663
+Texas,Mitchell,0,Acres,48335.0,2666
 Texas,Montague,88.0,Acres,48337.0,2669
 Texas,Montgomery,38.0,Acres,48339.0,2682
-Texas,Moore,nan,Acres,48341.0,2683
+Texas,Moore,0,Acres,48341.0,2683
 Texas,Morris,112.0,Acres,48343.0,2688
 Texas,Motley,0.0,Acres,48345.0,2692
 Texas,Nacogdoches,133.0,Acres,48347.0,2701
@@ -2701,7 +2701,7 @@ Texas,Newton,15.0,Acres,48351.0,2711
 Texas,Nolan,0.0,Acres,48353.0,2714
 Texas,Nueces,0.0,Acres,48355.0,2194
 Texas,Ochiltree,0.0,Acres,48357.0,2204
-Texas,Oldham,nan,Acres,48359.0,2210
+Texas,Oldham,0,Acres,48359.0,2210
 Texas,Orange,50.0,Acres,48361.0,2214
 Texas,Palo Pinto,75.0,Acres,48363.0,2220
 Texas,Panola,123.0,Acres,48365.0,2227
@@ -2709,14 +2709,14 @@ Texas,Parker,171.0,Acres,48367.0,2229
 Texas,Parmer,4771.0,Acres,48369.0,2235
 Texas,Pecos,981.0,Acres,48371.0,2239
 Texas,Polk,69.0,Acres,48373.0,2243
-Texas,Potter,nan,Acres,48375.0,2247
+Texas,Potter,0,Acres,48375.0,2247
 Texas,Presidio,118.0,Acres,48377.0,2261
 Texas,Rains,482.0,Acres,48379.0,2268
-Texas,Randall,nan,Acres,48381.0,2274
+Texas,Randall,0,Acres,48381.0,2274
 Texas,Reagan,0.0,Acres,48383.0,2280
 Texas,Real,0.0,Acres,48385.0,2283
 Texas,Red River,39.0,Acres,48387.0,2295
-Texas,Reeves,nan,Acres,48389.0,2308
+Texas,Reeves,0,Acres,48389.0,2308
 Texas,Refugio,28.0,Acres,48391.0,2334
 Texas,Roberts,0.0,Acres,48393.0,2348
 Texas,Robertson,94.0,Acres,48395.0,2353
@@ -2727,22 +2727,22 @@ Texas,Sabine,15.0,Acres,48403.0,2370
 Texas,San Augustine,17.0,Acres,48405.0,2380
 Texas,San Jacinto,25.0,Acres,48407.0,2387
 Texas,San Patricio,38.0,Acres,48409.0,2415
-Texas,San Saba,nan,Acres,48411.0,2435
+Texas,San Saba,0,Acres,48411.0,2435
 Texas,Schleicher,0.0,Acres,48413.0,2437
-Texas,Scurry,nan,Acres,48415.0,2443
+Texas,Scurry,0,Acres,48415.0,2443
 Texas,Shackelford,0.0,Acres,48417.0,2445
 Texas,Shelby,693.0,Acres,48419.0,2448
-Texas,Sherman,nan,Acres,48421.0,2453
+Texas,Sherman,0,Acres,48421.0,2453
 Texas,Smith,382.0,Acres,48423.0,2465
 Texas,Somervell,24.0,Acres,48425.0,2470
 Texas,Starr,756.0,Acres,48427.0,2474
-Texas,Stephens,nan,Acres,48429.0,2480
+Texas,Stephens,0,Acres,48429.0,2480
 Texas,Sterling,0.0,Acres,48431.0,2481
 Texas,Stonewall,0.0,Acres,48433.0,2486
 Texas,Sutton,0.0,Acres,48435.0,2490
 Texas,Swisher,308.0,Acres,48437.0,2495
 Texas,Tarrant,20.0,Acres,48439.0,2500
-Texas,Taylor,nan,Acres,48441.0,2508
+Texas,Taylor,0,Acres,48441.0,2508
 Texas,Terrell,0.0,Acres,48443.0,2518
 Texas,Terry,842.0,Acres,48445.0,2522
 Texas,Throckmorton,0.0,Acres,48447.0,2525
@@ -2761,22 +2761,22 @@ Texas,Walker,139.0,Acres,48471.0,2603
 Texas,Waller,1219.0,Acres,48473.0,2606
 Texas,Ward,0.0,Acres,48475.0,2610
 Texas,Washington,93.0,Acres,48477.0,2613
-Texas,Webb,nan,Acres,48479.0,2616
+Texas,Webb,0,Acres,48479.0,2616
 Texas,Wharton,233.0,Acres,48481.0,2618
-Texas,Wheeler,nan,Acres,48483.0,2623
+Texas,Wheeler,0,Acres,48483.0,2623
 Texas,Wichita,0.0,Acres,48485.0,2632
-Texas,Wilbarger,nan,Acres,48487.0,2634
+Texas,Wilbarger,0,Acres,48487.0,2634
 Texas,Willacy,544.0,Acres,48489.0,2639
 Texas,Williamson,33.0,Acres,48491.0,2640
 Texas,Wilson,966.0,Acres,48493.0,2641
-Texas,Winkler,nan,Acres,48495.0,2642
+Texas,Winkler,0,Acres,48495.0,2642
 Texas,Wise,267.0,Acres,48497.0,2643
 Texas,Wood,688.0,Acres,48499.0,2644
 Texas,Yoakum,2149.0,Acres,48501.0,2645
-Texas,Young,nan,Acres,48503.0,2646
-Texas,Zapata,nan,Acres,48505.0,2650
+Texas,Young,0,Acres,48503.0,2646
+Texas,Zapata,0,Acres,48505.0,2650
 Texas,Zavala,3380.0,Acres,48507.0,2651
-Utah,Beaver,nan,Acres,49001.0,2653
+Utah,Beaver,0,Acres,49001.0,2653
 Utah,Box Elder,1646.0,Acres,49003.0,2658
 Utah,Cache,746.0,Acres,49005.0,2661
 Utah,Carbon,1.0,Acres,49007.0,2665
@@ -2784,20 +2784,20 @@ Utah,Daggett,0.0,Acres,49009.0,2668
 Utah,Davis,1323.0,Acres,49011.0,2671
 Utah,Duchesne,11.0,Acres,49013.0,2672
 Utah,Emery,132.0,Acres,49015.0,2673
-Utah,Garfield,nan,Acres,49017.0,2674
+Utah,Garfield,0,Acres,49017.0,2674
 Utah,Grand,144.0,Acres,49019.0,2675
 Utah,Iron,289.0,Acres,49021.0,2676
 Utah,Juab,28.0,Acres,49023.0,2677
-Utah,Kane,nan,Acres,49025.0,2678
+Utah,Kane,0,Acres,49025.0,2678
 Utah,Millard,27.0,Acres,49027.0,2680
-Utah,Morgan,nan,Acres,49029.0,2681
+Utah,Morgan,0,Acres,49029.0,2681
 Utah,Piute,0.0,Acres,49031.0,2685
-Utah,Rich,nan,Acres,49033.0,2687
+Utah,Rich,0,Acres,49033.0,2687
 Utah,Salt Lake,283.0,Acres,49035.0,2690
 Utah,San Juan,155.0,Acres,49037.0,2694
 Utah,Sanpete,94.0,Acres,49039.0,2697
 Utah,Sevier,46.0,Acres,49041.0,2702
-Utah,Summit,nan,Acres,49043.0,2703
+Utah,Summit,0,Acres,49043.0,2703
 Utah,Tooele,17.0,Acres,49045.0,2707
 Utah,Uintah,53.0,Acres,49047.0,2539
 Utah,Utah,399.0,Acres,49049.0,2555
@@ -2809,9 +2809,9 @@ Vermont,Addison,140.0,Acres,50001.0,2590
 Vermont,Bennington,99.0,Acres,50003.0,2591
 Vermont,Caledonia,92.0,Acres,50005.0,2596
 Vermont,Chittenden,717.0,Acres,50007.0,2599
-Vermont,Essex,nan,Acres,50009.0,2604
+Vermont,Essex,0,Acres,50009.0,2604
 Vermont,Franklin,207.0,Acres,50011.0,2607
-Vermont,Grand Isle,nan,Acres,50013.0,2609
+Vermont,Grand Isle,0,Acres,50013.0,2609
 Vermont,Lamoille,115.0,Acres,50015.0,2611
 Vermont,Orange,322.0,Acres,50017.0,2612
 Vermont,Orleans,70.0,Acres,50019.0,2614
@@ -2832,19 +2832,19 @@ Virginia,Bedford County,103.0,Acres,51019.0,2769
 Virginia,Bland,5.0,Acres,51021.0,2772
 Virginia,Botetourt,57.0,Acres,51023.0,2776
 Virginia,Brunswick,35.0,Acres,51025.0,2777
-Virginia,Buchanan,nan,Acres,51027.0,2784
+Virginia,Buchanan,0,Acres,51027.0,2784
 Virginia,Buckingham,8.0,Acres,51029.0,2785
 Virginia,Campbell,21.0,Acres,51031.0,2788
 Virginia,Caroline,364.0,Acres,51033.0,2793
 Virginia,Carroll,1114.0,Acres,51035.0,2797
-Virginia,Charles City,nan,Acres,51036.0,2806
+Virginia,Charles City,0,Acres,51036.0,2806
 Virginia,Charlotte,307.0,Acres,51037.0,2810
 Virginia,Chesterfield,168.0,Acres,51041.0,2816
 Virginia,Clarke,42.0,Acres,51043.0,2819
 Virginia,Craig,14.0,Acres,51045.0,2820
 Virginia,Culpeper,44.0,Acres,51047.0,2824
-Virginia,Cumberland,nan,Acres,51049.0,2827
-Virginia,Dickenson,nan,Acres,51051.0,2832
+Virginia,Cumberland,0,Acres,51049.0,2827
+Virginia,Dickenson,0,Acres,51051.0,2832
 Virginia,Dinwiddie,82.0,Acres,51053.0,2838
 Virginia,Essex,0.0,Acres,51057.0,2842
 Virginia,Fairfax County,6.0,Acres,51059.0,2849
@@ -2877,7 +2877,7 @@ Virginia,Lunenburg,29.0,Acres,51111.0,2954
 Virginia,Madison,99.0,Acres,51113.0,2955
 Virginia,Mathews,28.0,Acres,51115.0,2962
 Virginia,Mecklenburg,43.0,Acres,51117.0,2964
-Virginia,Middlesex,nan,Acres,51119.0,2965
+Virginia,Middlesex,0,Acres,51119.0,2965
 Virginia,Montgomery,37.0,Acres,51121.0,2966
 Virginia,Nelson,359.0,Acres,51125.0,2968
 Virginia,New Kent,354.0,Acres,51127.0,2971
@@ -2885,18 +2885,18 @@ Virginia,Northampton,8372.0,Acres,51131.0,2982
 Virginia,Northumberland,35.0,Acres,51133.0,2983
 Virginia,Nottoway,61.0,Acres,51135.0,2984
 Virginia,Orange,12.0,Acres,51137.0,2985
-Virginia,Page,nan,Acres,51139.0,2986
+Virginia,Page,0,Acres,51139.0,2986
 Virginia,Patrick,388.0,Acres,51141.0,2987
 Virginia,Pittsylvania,136.0,Acres,51143.0,2988
 Virginia,Powhatan,16.0,Acres,51145.0,2989
 Virginia,Prince Edward,10.0,Acres,51147.0,2990
 Virginia,Prince George,100.0,Acres,51149.0,2991
 Virginia,Prince William,97.0,Acres,51153.0,2992
-Virginia,Pulaski,nan,Acres,51155.0,2993
+Virginia,Pulaski,0,Acres,51155.0,2993
 Virginia,Rappahannock,44.0,Acres,51157.0,2994
-Virginia,Richmond County,nan,Acres,51159.0,2995
+Virginia,Richmond County,0,Acres,51159.0,2995
 Virginia,Roanoke County,260.0,Acres,51161.0,2996
-Virginia,Rockbridge,nan,Acres,51163.0,2997
+Virginia,Rockbridge,0,Acres,51163.0,2997
 Virginia,Rockingham,259.0,Acres,51165.0,2998
 Virginia,Russell,30.0,Acres,51167.0,2999
 Virginia,Scott,267.0,Acres,51169.0,2585
@@ -2904,62 +2904,62 @@ Virginia,Shenandoah,112.0,Acres,51171.0,2594
 Virginia,Smyth,92.0,Acres,51173.0,2600
 Virginia,Southampton,657.0,Acres,51175.0,2608
 Virginia,Spotsylvania,41.0,Acres,51177.0,2619
-Virginia,Stafford,nan,Acres,51179.0,2629
+Virginia,Stafford,0,Acres,51179.0,2629
 Virginia,Surry,49.0,Acres,51181.0,2636
 Virginia,Sussex,257.0,Acres,51183.0,2647
 Virginia,Tazewell,8.0,Acres,51185.0,2656
-Virginia,Warren,nan,Acres,51187.0,2662
+Virginia,Warren,0,Acres,51187.0,2662
 Virginia,Washington,200.0,Acres,51191.0,2667
 Virginia,Westmoreland,1514.0,Acres,51193.0,2684
 Virginia,Wise,12.0,Acres,51195.0,2695
 Virginia,Wythe,78.0,Acres,51197.0,2699
 Virginia,York,18.0,Acres,51199.0,2709
-Virginia,Alexandria,nan,Acres,51510.0,2712
-Virginia,Bedford City,nan,Acres,51515.0,2713
-Virginia,Bristol,nan,Acres,51520.0,2716
-Virginia,Buena Vista,nan,Acres,51530.0,2720
-Virginia,Charlottesville,nan,Acres,51540.0,2722
+Virginia,Alexandria,0,Acres,51510.0,2712
+Virginia,Bedford City,0,Acres,51515.0,2713
+Virginia,Bristol,0,Acres,51520.0,2716
+Virginia,Buena Vista,0,Acres,51530.0,2720
+Virginia,Charlottesville,0,Acres,51540.0,2722
 Virginia,Chesapeake,214.0,Acres,51550.0,2724
-Virginia,Colonial Heights,nan,Acres,51570.0,2727
-Virginia,Covington,nan,Acres,51580.0,2729
-Virginia,Danville,nan,Acres,51590.0,2732
-Virginia,Emporia,nan,Acres,51595.0,2736
-Virginia,Fairfax City,nan,Acres,51600.0,2737
-Virginia,Falls Church,nan,Acres,51610.0,2740
-Virginia,Franklin City,nan,Acres,51620.0,2744
-Virginia,Fredericksburg,nan,Acres,51630.0,2745
-Virginia,Galax,nan,Acres,51640.0,2747
+Virginia,Colonial Heights,0,Acres,51570.0,2727
+Virginia,Covington,0,Acres,51580.0,2729
+Virginia,Danville,0,Acres,51590.0,2732
+Virginia,Emporia,0,Acres,51595.0,2736
+Virginia,Fairfax City,0,Acres,51600.0,2737
+Virginia,Falls Church,0,Acres,51610.0,2740
+Virginia,Franklin City,0,Acres,51620.0,2744
+Virginia,Fredericksburg,0,Acres,51630.0,2745
+Virginia,Galax,0,Acres,51640.0,2747
 Virginia,Hampton,0.0,Acres,51650.0,2751
-Virginia,Harrisonburg,nan,Acres,51660.0,2755
-Virginia,Hopewell,nan,Acres,51670.0,2756
-Virginia,Lexington,nan,Acres,51678.0,2760
-Virginia,Lynchburg,nan,Acres,51680.0,2762
-Virginia,Manassas,nan,Acres,51683.0,2765
-Virginia,Manassas Park,nan,Acres,51685.0,2768
-Virginia,Martinsville,nan,Acres,51690.0,2771
+Virginia,Harrisonburg,0,Acres,51660.0,2755
+Virginia,Hopewell,0,Acres,51670.0,2756
+Virginia,Lexington,0,Acres,51678.0,2760
+Virginia,Lynchburg,0,Acres,51680.0,2762
+Virginia,Manassas,0,Acres,51683.0,2765
+Virginia,Manassas Park,0,Acres,51685.0,2768
+Virginia,Martinsville,0,Acres,51690.0,2771
 Virginia,Newport News,0.0,Acres,51700.0,2775
-Virginia,Norfolk,nan,Acres,51710.0,2778
-Virginia,Norton,nan,Acres,51720.0,2780
-Virginia,Petersburg,nan,Acres,51730.0,2782
-Virginia,Poquoson,nan,Acres,51735.0,2791
-Virginia,Portsmouth,nan,Acres,51740.0,2795
-Virginia,Radford,nan,Acres,51750.0,2799
-Virginia,Richmond City,nan,Acres,51760.0,2802
-Virginia,Roanoke City,nan,Acres,51770.0,2805
-Virginia,Salem,nan,Acres,51775.0,2809
-Virginia,Staunton,nan,Acres,51790.0,2812
+Virginia,Norfolk,0,Acres,51710.0,2778
+Virginia,Norton,0,Acres,51720.0,2780
+Virginia,Petersburg,0,Acres,51730.0,2782
+Virginia,Poquoson,0,Acres,51735.0,2791
+Virginia,Portsmouth,0,Acres,51740.0,2795
+Virginia,Radford,0,Acres,51750.0,2799
+Virginia,Richmond City,0,Acres,51760.0,2802
+Virginia,Roanoke City,0,Acres,51770.0,2805
+Virginia,Salem,0,Acres,51775.0,2809
+Virginia,Staunton,0,Acres,51790.0,2812
 Virginia,Suffolk,122.0,Acres,51800.0,2815
 Virginia,Virginia Beach,299.0,Acres,51810.0,2826
-Virginia,Waynesboro,nan,Acres,51820.0,2831
-Virginia,Williamsburg,nan,Acres,51830.0,2835
-Virginia,Winchester,nan,Acres,51840.0,2837
+Virginia,Waynesboro,0,Acres,51820.0,2831
+Virginia,Williamsburg,0,Acres,51830.0,2835
+Virginia,Winchester,0,Acres,51840.0,2837
 Washington,Adams,34348.0,Acres,53001.0,2840
 Washington,Asotin,24.0,Acres,53003.0,2845
 Washington,Benton,73530.0,Acres,53005.0,2847
 Washington,Chelan,24.0,Acres,53007.0,2852
 Washington,Clallam,307.0,Acres,53009.0,2861
 Washington,Clark,222.0,Acres,53011.0,2865
-Washington,Columbia,nan,Acres,53013.0,2869
+Washington,Columbia,0,Acres,53013.0,2869
 Washington,Cowlitz,1184.0,Acres,53015.0,2871
 Washington,Douglas,10.0,Acres,53017.0,2877
 Washington,Ferry,4.0,Acres,53019.0,2880
@@ -2972,13 +2972,13 @@ Washington,Jefferson,37.0,Acres,53031.0,2905
 Washington,King,960.0,Acres,53033.0,2913
 Washington,Kitsap,111.0,Acres,53035.0,2927
 Washington,Kittitas,1829.0,Acres,53037.0,2932
-Washington,Klickitat,nan,Acres,53039.0,2935
+Washington,Klickitat,0,Acres,53039.0,2935
 Washington,Lewis,3132.0,Acres,53041.0,2940
 Washington,Lincoln,2489.0,Acres,53043.0,2942
 Washington,Mason,83.0,Acres,53045.0,2946
 Washington,Okanogan,139.0,Acres,53047.0,2947
-Washington,Pacific,nan,Acres,53049.0,2949
-Washington,Pend Oreille,nan,Acres,53051.0,2951
+Washington,Pacific,0,Acres,53049.0,2949
+Washington,Pend Oreille,0,Acres,53051.0,2951
 Washington,Pierce,1622.0,Acres,53053.0,2956
 Washington,San Juan,49.0,Acres,53055.0,2957
 Washington,Skagit,19456.0,Acres,53057.0,2958
@@ -2994,12 +2994,12 @@ Washington,Whitman,2443.0,Acres,53075.0,2973
 Washington,Yakima,10051.0,Acres,53077.0,2974
 West Virginia,Barbour,4.0,Acres,54001.0,2975
 West Virginia,Berkeley,162.0,Acres,54003.0,2976
-West Virginia,Boone,nan,Acres,54005.0,2977
-West Virginia,Braxton,nan,Acres,54007.0,2978
+West Virginia,Boone,0,Acres,54005.0,2977
+West Virginia,Braxton,0,Acres,54007.0,2978
 West Virginia,Brooke,0.0,Acres,54009.0,2979
 West Virginia,Cabell,39.0,Acres,54011.0,2980
 West Virginia,Calhoun,5.0,Acres,54013.0,2981
-West Virginia,Clay,nan,Acres,54015.0,3000
+West Virginia,Clay,0,Acres,54015.0,3000
 West Virginia,Doddridge,22.0,Acres,54017.0,3002
 West Virginia,Fayette,8.0,Acres,54019.0,3006
 West Virginia,Gilmer,16.0,Acres,54021.0,3008
@@ -3007,7 +3007,7 @@ West Virginia,Grant,4.0,Acres,54023.0,3011
 West Virginia,Greenbrier,107.0,Acres,54025.0,3013
 West Virginia,Hampshire,51.0,Acres,54027.0,3016
 West Virginia,Hancock,30.0,Acres,54029.0,3017
-West Virginia,Hardy,nan,Acres,54031.0,3019
+West Virginia,Hardy,0,Acres,54031.0,3019
 West Virginia,Harrison,23.0,Acres,54033.0,3021
 West Virginia,Jackson,66.0,Acres,54035.0,3023
 West Virginia,Jefferson,120.0,Acres,54037.0,3026
@@ -3067,7 +3067,7 @@ Wisconsin,Dunn,3984.0,Acres,55033.0,3135
 Wisconsin,Eau Claire,1584.0,Acres,55035.0,3137
 Wisconsin,Florence,11.0,Acres,55037.0,3138
 Wisconsin,Fond du Lac,17933.0,Acres,55039.0,3140
-Wisconsin,Forest,nan,Acres,55041.0,3141
+Wisconsin,Forest,0,Acres,55041.0,3141
 Wisconsin,Grant,66.0,Acres,55043.0,3143
 Wisconsin,Green,667.0,Acres,55045.0,3145
 Wisconsin,Green Lake,10605.0,Acres,55047.0,3147
@@ -3075,7 +3075,7 @@ Wisconsin,Iowa,2457.0,Acres,55049.0,3148
 Wisconsin,Iron,38.0,Acres,55051.0,3151
 Wisconsin,Jackson,184.0,Acres,55053.0,3153
 Wisconsin,Jefferson,2668.0,Acres,55055.0,3154
-Wisconsin,Juneau,nan,Acres,55057.0,3156
+Wisconsin,Juneau,0,Acres,55057.0,3156
 Wisconsin,Kenosha,1251.0,Acres,55059.0,3158
 Wisconsin,Kewaunee,1453.0,Acres,55061.0,3160
 Wisconsin,La Crosse,59.0,Acres,55063.0,3161
@@ -3110,7 +3110,7 @@ Wisconsin,Sheboygan,5520.0,Acres,55117.0,3207
 Wisconsin,Taylor,45.0,Acres,55119.0,3208
 Wisconsin,Trempealeau,3126.0,Acres,55121.0,3210
 Wisconsin,Vernon,330.0,Acres,55123.0,3213
-Wisconsin,Vilas,nan,Acres,55125.0,3001
+Wisconsin,Vilas,0,Acres,55125.0,3001
 Wisconsin,Walworth,1880.0,Acres,55127.0,3003
 Wisconsin,Washburn,209.0,Acres,55129.0,3004
 Wisconsin,Washington,1874.0,Acres,55131.0,3005
@@ -3119,22 +3119,22 @@ Wisconsin,Waupaca,4502.0,Acres,55135.0,3009
 Wisconsin,Waushara,27364.0,Acres,55137.0,3010
 Wisconsin,Winnebago,1179.0,Acres,55139.0,3012
 Wisconsin,Wood,1185.0,Acres,55141.0,3014
-Wyoming,Albany,nan,Acres,56001.0,3015
+Wyoming,Albany,0,Acres,56001.0,3015
 Wyoming,Big Horn,2.0,Acres,56003.0,3018
-Wyoming,Campbell,nan,Acres,56005.0,3020
+Wyoming,Campbell,0,Acres,56005.0,3020
 Wyoming,Carbon,0.0,Acres,56007.0,3022
-Wyoming,Converse,nan,Acres,56009.0,3024
-Wyoming,Crook,nan,Acres,56011.0,3025
+Wyoming,Converse,0,Acres,56009.0,3024
+Wyoming,Crook,0,Acres,56011.0,3025
 Wyoming,Fremont,35.0,Acres,56013.0,3028
-Wyoming,Goshen,nan,Acres,56015.0,3030
-Wyoming,Hot Springs,nan,Acres,56017.0,3032
+Wyoming,Goshen,0,Acres,56015.0,3030
+Wyoming,Hot Springs,0,Acres,56017.0,3032
 Wyoming,Johnson,0.0,Acres,56019.0,3033
-Wyoming,Laramie,nan,Acres,56021.0,3035
+Wyoming,Laramie,0,Acres,56021.0,3035
 Wyoming,Lincoln,8.0,Acres,56023.0,3036
-Wyoming,Natrona,nan,Acres,56025.0,3038
-Wyoming,Niobrara,nan,Acres,56027.0,3040
+Wyoming,Natrona,0,Acres,56025.0,3038
+Wyoming,Niobrara,0,Acres,56027.0,3040
 Wyoming,Park,8.0,Acres,56029.0,3043
-Wyoming,Platte,nan,Acres,56031.0,3045
+Wyoming,Platte,0,Acres,56031.0,3045
 Wyoming,Sheridan,16.0,Acres,56033.0,3047
 Wyoming,Sublette,0.0,Acres,56035.0,3049
 Wyoming,Sweetwater,0.0,Acres,56037.0,3051

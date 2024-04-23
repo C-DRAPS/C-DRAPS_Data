@@ -71,7 +71,7 @@ Alaska,Aleutians West,0.7167174220085144,"# per 1,000 pop",2016,381
 Alaska,Anchorage,0.08103892207145691,"# per 1,000 pop",2020,400
 Alaska,Bethel,1.0910135507583618,"# per 1,000 pop",2050,411
 Alaska,Bristol Bay,1.9417475461959839,"# per 1,000 pop",2060,423
-Alaska,Denali,nan,"# per 1,000 pop",2068,426
+Alaska,Denali,0,"# per 1,000 pop",2068,426
 Alaska,Dillingham,1.212611198425293,"# per 1,000 pop",2070,445
 Alaska,Fairbanks North Star,0.0815461128950119,"# per 1,000 pop",2090,454
 Alaska,Haines,0.7773027420043945,"# per 1,000 pop",2100,462
@@ -88,10 +88,10 @@ Alaska,Northwest Arctic,1.68721604347229,"# per 1,000 pop",2188,638
 Alaska,Petersburg,0.9219422340393066,"# per 1,000 pop",2195,645
 Alaska,Prince of Wales-Hyder,0.627549409866333,"# per 1,000 pop",2198,669
 Alaska,Sitka,0.3376097083091736,"# per 1,000 pop",2220,679
-Alaska,Skagway,nan,"# per 1,000 pop",2230,683
+Alaska,Skagway,0,"# per 1,000 pop",2230,683
 Alaska,Southeast Fairbanks,0.4196978211402893,"# per 1,000 pop",2240,690
 Alaska,Valdez-Cordova,0.5134524703025818,"# per 1,000 pop",2261,710
-Alaska,Wade Hampton,nan,"# per 1,000 pop",2270,725
+Alaska,Wade Hampton,0,"# per 1,000 pop",2270,725
 Alaska,Wrangell,0.8350730538368225,"# per 1,000 pop",2275,733
 Alaska,Yakutat,3.0487804412841797,"# per 1,000 pop",2282,744
 Alaska,Yukon-Koyukuk,1.5982950925827026,"# per 1,000 pop",2290,753
@@ -186,7 +186,7 @@ Arkansas,White,0.15371805429458618,"# per 1,000 pop",5145,428
 Arkansas,Woodruff,0.41806021332740784,"# per 1,000 pop",5147,435
 Arkansas,Yell,0.1365809291601181,"# per 1,000 pop",5149,438
 California,Alameda,0.11626403033733368,"# per 1,000 pop",6001,457
-California,Alpine,nan,"# per 1,000 pop",6003,461
+California,Alpine,0,"# per 1,000 pop",6003,461
 California,Amador,0.23975704610347748,"# per 1,000 pop",6005,472
 California,Butte,0.13184694945812225,"# per 1,000 pop",6007,486
 California,Calaveras,0.24357838928699493,"# per 1,000 pop",6009,489
@@ -267,10 +267,10 @@ Colorado,Elbert,0.08629617094993591,"# per 1,000 pop",8039,655
 Colorado,El Paso,0.06278251856565475,"# per 1,000 pop",8041,661
 Colorado,Fremont,0.10553198307752609,"# per 1,000 pop",8043,664
 Colorado,Garfield,0.12485507875680923,"# per 1,000 pop",8045,667
-Colorado,Gilpin,nan,"# per 1,000 pop",8047,672
+Colorado,Gilpin,0,"# per 1,000 pop",8047,672
 Colorado,Grand,0.2060156613588333,"# per 1,000 pop",8049,677
 Colorado,Gunnison,0.13053126633167267,"# per 1,000 pop",8051,682
-Colorado,Hinsdale,nan,"# per 1,000 pop",8053,688
+Colorado,Hinsdale,0,"# per 1,000 pop",8053,688
 Colorado,Huerfano,0.3064194917678833,"# per 1,000 pop",8055,693
 Colorado,Jackson,0.7369197010993958,"# per 1,000 pop",8057,701
 Colorado,Jefferson,0.07397065311670303,"# per 1,000 pop",8059,706
@@ -283,7 +283,7 @@ Colorado,Las Animas,0.19945482909679413,"# per 1,000 pop",8071,741
 Colorado,Lincoln,0.3691399097442627,"# per 1,000 pop",8073,747
 Colorado,Logan,0.13718047738075256,"# per 1,000 pop",8075,749
 Colorado,Mesa,0.09505380690097809,"# per 1,000 pop",8077,751
-Colorado,Mineral,nan,"# per 1,000 pop",8079,757
+Colorado,Mineral,0,"# per 1,000 pop",8079,757
 Colorado,Moffat,0.22353029251098633,"# per 1,000 pop",8081,758
 Colorado,Montezuma,0.19627855718135834,"# per 1,000 pop",8083,766
 Colorado,Montrose,0.17084838449954987,"# per 1,000 pop",8085,769
@@ -299,7 +299,7 @@ Colorado,Rio Blanco,0.29489827156066895,"# per 1,000 pop",8103,799
 Colorado,Rio Grande,0.2518045902252197,"# per 1,000 pop",8105,802
 Colorado,Routt,0.12895460426807404,"# per 1,000 pop",8107,809
 Colorado,Saguache,0.3232584595680237,"# per 1,000 pop",8109,811
-Colorado,San Juan,nan,"# per 1,000 pop",8111,347
+Colorado,San Juan,0,"# per 1,000 pop",8111,347
 Colorado,San Miguel,0.2671653628349304,"# per 1,000 pop",8113,359
 Colorado,Sedgwick,0.42176297307014465,"# per 1,000 pop",8115,366
 Colorado,Summit,0.10696712881326675,"# per 1,000 pop",8117,373
@@ -391,7 +391,7 @@ Georgia,Atkinson,0.35885167121887207,"# per 1,000 pop",13003,988
 Georgia,Bacon,0.3590986728668213,"# per 1,000 pop",13005,989
 Georgia,Baker,0.30165913701057434,"# per 1,000 pop",13007,990
 Georgia,Baldwin,0.17709693312644958,"# per 1,000 pop",13009,991
-Georgia,Banks,nan,"# per 1,000 pop",13011,992
+Georgia,Banks,0,"# per 1,000 pop",13011,992
 Georgia,Barrow,0.1718336045742035,"# per 1,000 pop",13013,993
 Georgia,Bartow,0.09985022246837616,"# per 1,000 pop",13015,994
 Georgia,Ben Hill,0.4554252624511719,"# per 1,000 pop",13017,995
@@ -503,7 +503,7 @@ Georgia,Pike,0.0562334805727005,"# per 1,000 pop",13231,7
 Georgia,Polk,0.16964761912822723,"# per 1,000 pop",13233,8
 Georgia,Pulaski,0.16889038681983948,"# per 1,000 pop",13235,11
 Georgia,Putnam,0.18831504881381989,"# per 1,000 pop",13237,13
-Georgia,Quitman,nan,"# per 1,000 pop",13239,16
+Georgia,Quitman,0,"# per 1,000 pop",13239,16
 Georgia,Rabun,0.24598732590675354,"# per 1,000 pop",13241,18
 Georgia,Randolph,0.5288207530975342,"# per 1,000 pop",13243,23
 Georgia,Richmond,0.15972208976745605,"# per 1,000 pop",13245,24
@@ -547,7 +547,7 @@ Georgia,Wilkinson,0.3187081813812256,"# per 1,000 pop",13319,169
 Georgia,Worth,0.13939225673675537,"# per 1,000 pop",13321,173
 Hawaii,Hawaii,0.14967979490756989,"# per 1,000 pop",15001,198
 Hawaii,Honolulu,0.07029971480369568,"# per 1,000 pop",15003,234
-Hawaii,Kalawao,nan,"# per 1,000 pop",15005,247
+Hawaii,Kalawao,0,"# per 1,000 pop",15005,247
 Hawaii,Kauai,0.17673569917678833,"# per 1,000 pop",15007,261
 Hawaii,Maui,0.1274607926607132,"# per 1,000 pop",15009,323
 Idaho,Ada,0.07227684557437897,"# per 1,000 pop",16001,336
@@ -562,7 +562,7 @@ Idaho,Bonner,0.14712734520435333,"# per 1,000 pop",16017,387
 Idaho,Bonneville,0.07561007887125015,"# per 1,000 pop",16019,395
 Idaho,Boundary,0.1848258078098297,"# per 1,000 pop",16021,405
 Idaho,Butte,0.35298269987106323,"# per 1,000 pop",16023,414
-Idaho,Camas,nan,"# per 1,000 pop",16025,429
+Idaho,Camas,0,"# per 1,000 pop",16025,429
 Idaho,Canyon,0.0783887431025505,"# per 1,000 pop",16027,441
 Idaho,Caribou,0.4384042024612427,"# per 1,000 pop",16029,449
 Idaho,Cassia,0.17310021817684174,"# per 1,000 pop",16031,456
@@ -623,7 +623,7 @@ Illinois,Fayette,0.2234736680984497,"# per 1,000 pop",17051,79
 Illinois,Ford,0.21616947650909424,"# per 1,000 pop",17053,81
 Illinois,Franklin,0.2748144865036011,"# per 1,000 pop",17055,85
 Illinois,Fulton,0.21676105260849,"# per 1,000 pop",17057,89
-Illinois,Gallatin,nan,"# per 1,000 pop",17059,92
+Illinois,Gallatin,0,"# per 1,000 pop",17059,92
 Illinois,Greene,0.36085450649261475,"# per 1,000 pop",17061,96
 Illinois,Grundy,0.13973450660705566,"# per 1,000 pop",17063,99
 Illinois,Hamilton,0.23744508624076843,"# per 1,000 pop",17065,106
@@ -985,7 +985,7 @@ Kansas,Stevens,0.17761988937854767,"# per 1,000 pop",20189,914
 Kansas,Sumner,0.21023419499397278,"# per 1,000 pop",20191,916
 Kansas,Thomas,0.2519209086894989,"# per 1,000 pop",20193,917
 Kansas,Trego,0.33863866329193115,"# per 1,000 pop",20195,919
-Kansas,Wabaunsee,nan,"# per 1,000 pop",20197,920
+Kansas,Wabaunsee,0,"# per 1,000 pop",20197,920
 Kansas,Wallace,0.6557376980781555,"# per 1,000 pop",20199,921
 Kansas,Washington,0.6875214576721191,"# per 1,000 pop",20201,922
 Kansas,Wichita,0.44286978244781494,"# per 1,000 pop",20203,923
@@ -1271,7 +1271,7 @@ Michigan,Jackson,0.16911359131336212,"# per 1,000 pop",26075,1719
 Michigan,Kalamazoo,0.17816701531410217,"# per 1,000 pop",26077,1720
 Michigan,Kalkaska,0.23299160599708557,"# per 1,000 pop",26079,1722
 Michigan,Kent,0.20379050076007843,"# per 1,000 pop",26081,1726
-Michigan,Keweenaw,nan,"# per 1,000 pop",26083,1743
+Michigan,Keweenaw,0,"# per 1,000 pop",26083,1743
 Michigan,Lake,0.5238344669342041,"# per 1,000 pop",26085,1749
 Michigan,Lapeer,0.12488505244255066,"# per 1,000 pop",26087,1752
 Michigan,Leelanau,0.2333286702632904,"# per 1,000 pop",26089,1765
@@ -1400,88 +1400,88 @@ Minnesota,Wilkin,0.15209124982357025,"# per 1,000 pop",27167,1997
 Minnesota,Winona,0.09737477451562881,"# per 1,000 pop",27169,1998
 Minnesota,Wright,0.14261266589164734,"# per 1,000 pop",27171,1999
 Minnesota,Yellow Medicine,0.3890293836593628,"# per 1,000 pop",27173,1531
-Mississippi,Adams,nan,"# per 1,000 pop",28001,1534
-Mississippi,Alcorn,nan,"# per 1,000 pop",28003,1538
-Mississippi,Amite,nan,"# per 1,000 pop",28005,1539
+Mississippi,Adams,0,"# per 1,000 pop",28001,1534
+Mississippi,Alcorn,0,"# per 1,000 pop",28003,1538
+Mississippi,Amite,0,"# per 1,000 pop",28005,1539
 Mississippi,Attala,0.05158095806837082,"# per 1,000 pop",28007,1541
-Mississippi,Benton,nan,"# per 1,000 pop",28009,1544
-Mississippi,Bolivar,nan,"# per 1,000 pop",28011,1547
-Mississippi,Calhoun,nan,"# per 1,000 pop",28013,1548
-Mississippi,Carroll,nan,"# per 1,000 pop",28015,1549
-Mississippi,Chickasaw,nan,"# per 1,000 pop",28017,1550
-Mississippi,Choctaw,nan,"# per 1,000 pop",28019,1552
-Mississippi,Claiborne,nan,"# per 1,000 pop",28021,1555
-Mississippi,Clarke,nan,"# per 1,000 pop",28023,1557
-Mississippi,Clay,nan,"# per 1,000 pop",28025,1559
-Mississippi,Coahoma,nan,"# per 1,000 pop",28027,1562
+Mississippi,Benton,0,"# per 1,000 pop",28009,1544
+Mississippi,Bolivar,0,"# per 1,000 pop",28011,1547
+Mississippi,Calhoun,0,"# per 1,000 pop",28013,1548
+Mississippi,Carroll,0,"# per 1,000 pop",28015,1549
+Mississippi,Chickasaw,0,"# per 1,000 pop",28017,1550
+Mississippi,Choctaw,0,"# per 1,000 pop",28019,1552
+Mississippi,Claiborne,0,"# per 1,000 pop",28021,1555
+Mississippi,Clarke,0,"# per 1,000 pop",28023,1557
+Mississippi,Clay,0,"# per 1,000 pop",28025,1559
+Mississippi,Coahoma,0,"# per 1,000 pop",28027,1562
 Mississippi,Copiah,0.03415767103433609,"# per 1,000 pop",28029,1564
-Mississippi,Covington,nan,"# per 1,000 pop",28031,1567
+Mississippi,Covington,0,"# per 1,000 pop",28031,1567
 Mississippi,DeSoto,0.0060952939093112946,"# per 1,000 pop",28033,1571
-Mississippi,Forrest,nan,"# per 1,000 pop",28035,1572
-Mississippi,Franklin,nan,"# per 1,000 pop",28037,1575
-Mississippi,George,nan,"# per 1,000 pop",28039,1577
-Mississippi,Greene,nan,"# per 1,000 pop",28041,1579
-Mississippi,Grenada,nan,"# per 1,000 pop",28043,1581
-Mississippi,Hancock,nan,"# per 1,000 pop",28045,1583
-Mississippi,Harrison,nan,"# per 1,000 pop",28047,1587
+Mississippi,Forrest,0,"# per 1,000 pop",28035,1572
+Mississippi,Franklin,0,"# per 1,000 pop",28037,1575
+Mississippi,George,0,"# per 1,000 pop",28039,1577
+Mississippi,Greene,0,"# per 1,000 pop",28041,1579
+Mississippi,Grenada,0,"# per 1,000 pop",28043,1581
+Mississippi,Hancock,0,"# per 1,000 pop",28045,1583
+Mississippi,Harrison,0,"# per 1,000 pop",28047,1587
 Mississippi,Hinds,0.00402930099517107,"# per 1,000 pop",28049,1591
-Mississippi,Holmes,nan,"# per 1,000 pop",28051,1593
-Mississippi,Humphreys,nan,"# per 1,000 pop",28053,1596
-Mississippi,Issaquena,nan,"# per 1,000 pop",28055,1598
-Mississippi,Itawamba,nan,"# per 1,000 pop",28057,1601
-Mississippi,Jackson,nan,"# per 1,000 pop",28059,1605
-Mississippi,Jasper,nan,"# per 1,000 pop",28061,1607
-Mississippi,Jefferson,nan,"# per 1,000 pop",28063,1610
-Mississippi,Jefferson Davis,nan,"# per 1,000 pop",28065,1612
+Mississippi,Holmes,0,"# per 1,000 pop",28051,1593
+Mississippi,Humphreys,0,"# per 1,000 pop",28053,1596
+Mississippi,Issaquena,0,"# per 1,000 pop",28055,1598
+Mississippi,Itawamba,0,"# per 1,000 pop",28057,1601
+Mississippi,Jackson,0,"# per 1,000 pop",28059,1605
+Mississippi,Jasper,0,"# per 1,000 pop",28061,1607
+Mississippi,Jefferson,0,"# per 1,000 pop",28063,1610
+Mississippi,Jefferson Davis,0,"# per 1,000 pop",28065,1612
 Mississippi,Jones,0.014722337014973164,"# per 1,000 pop",28067,1615
-Mississippi,Kemper,nan,"# per 1,000 pop",28069,1616
-Mississippi,Lafayette,nan,"# per 1,000 pop",28071,1620
-Mississippi,Lamar,nan,"# per 1,000 pop",28073,1623
-Mississippi,Lauderdale,nan,"# per 1,000 pop",28075,1628
-Mississippi,Lawrence,nan,"# per 1,000 pop",28077,1632
+Mississippi,Kemper,0,"# per 1,000 pop",28069,1616
+Mississippi,Lafayette,0,"# per 1,000 pop",28071,1620
+Mississippi,Lamar,0,"# per 1,000 pop",28073,1623
+Mississippi,Lauderdale,0,"# per 1,000 pop",28075,1628
+Mississippi,Lawrence,0,"# per 1,000 pop",28077,1632
 Mississippi,Leake,0.043007053434848785,"# per 1,000 pop",28079,1636
-Mississippi,Lee,nan,"# per 1,000 pop",28081,1638
-Mississippi,Leflore,nan,"# per 1,000 pop",28083,1643
-Mississippi,Lincoln,nan,"# per 1,000 pop",28085,1645
-Mississippi,Lowndes,nan,"# per 1,000 pop",28087,1647
-Mississippi,Madison,nan,"# per 1,000 pop",28089,1651
-Mississippi,Marion,nan,"# per 1,000 pop",28091,1653
-Mississippi,Marshall,nan,"# per 1,000 pop",28093,1655
-Mississippi,Monroe,nan,"# per 1,000 pop",28095,1656
-Mississippi,Montgomery,nan,"# per 1,000 pop",28097,1658
+Mississippi,Lee,0,"# per 1,000 pop",28081,1638
+Mississippi,Leflore,0,"# per 1,000 pop",28083,1643
+Mississippi,Lincoln,0,"# per 1,000 pop",28085,1645
+Mississippi,Lowndes,0,"# per 1,000 pop",28087,1647
+Mississippi,Madison,0,"# per 1,000 pop",28089,1651
+Mississippi,Marion,0,"# per 1,000 pop",28091,1653
+Mississippi,Marshall,0,"# per 1,000 pop",28093,1655
+Mississippi,Monroe,0,"# per 1,000 pop",28095,1656
+Mississippi,Montgomery,0,"# per 1,000 pop",28097,1658
 Mississippi,Neshoba,0.06724271178245544,"# per 1,000 pop",28099,1661
 Mississippi,Newton,0.09335324913263321,"# per 1,000 pop",28101,1663
-Mississippi,Noxubee,nan,"# per 1,000 pop",28103,1666
-Mississippi,Oktibbeha,nan,"# per 1,000 pop",28105,1668
-Mississippi,Panola,nan,"# per 1,000 pop",28107,1671
-Mississippi,Pearl River,nan,"# per 1,000 pop",28109,1676
+Mississippi,Noxubee,0,"# per 1,000 pop",28103,1666
+Mississippi,Oktibbeha,0,"# per 1,000 pop",28105,1668
+Mississippi,Panola,0,"# per 1,000 pop",28107,1671
+Mississippi,Pearl River,0,"# per 1,000 pop",28109,1676
 Mississippi,Perry,0.08231130242347717,"# per 1,000 pop",28111,1679
-Mississippi,Pike,nan,"# per 1,000 pop",28113,1680
-Mississippi,Pontotoc,nan,"# per 1,000 pop",28115,1682
-Mississippi,Prentiss,nan,"# per 1,000 pop",28117,1684
-Mississippi,Quitman,nan,"# per 1,000 pop",28119,1685
-Mississippi,Rankin,nan,"# per 1,000 pop",28121,1690
-Mississippi,Scott,nan,"# per 1,000 pop",28123,1692
-Mississippi,Sharkey,nan,"# per 1,000 pop",28125,1695
-Mississippi,Simpson,nan,"# per 1,000 pop",28127,1698
-Mississippi,Smith,nan,"# per 1,000 pop",28129,1709
-Mississippi,Stone,nan,"# per 1,000 pop",28131,1712
-Mississippi,Sunflower,nan,"# per 1,000 pop",28133,1721
-Mississippi,Tallahatchie,nan,"# per 1,000 pop",28135,1725
-Mississippi,Tate,nan,"# per 1,000 pop",28137,1727
-Mississippi,Tippah,nan,"# per 1,000 pop",28139,1730
-Mississippi,Tishomingo,nan,"# per 1,000 pop",28141,1732
-Mississippi,Tunica,nan,"# per 1,000 pop",28143,1735
-Mississippi,Union,nan,"# per 1,000 pop",28145,1737
-Mississippi,Walthall,nan,"# per 1,000 pop",28147,1740
-Mississippi,Warren,nan,"# per 1,000 pop",28149,1746
-Mississippi,Washington,nan,"# per 1,000 pop",28151,1750
+Mississippi,Pike,0,"# per 1,000 pop",28113,1680
+Mississippi,Pontotoc,0,"# per 1,000 pop",28115,1682
+Mississippi,Prentiss,0,"# per 1,000 pop",28117,1684
+Mississippi,Quitman,0,"# per 1,000 pop",28119,1685
+Mississippi,Rankin,0,"# per 1,000 pop",28121,1690
+Mississippi,Scott,0,"# per 1,000 pop",28123,1692
+Mississippi,Sharkey,0,"# per 1,000 pop",28125,1695
+Mississippi,Simpson,0,"# per 1,000 pop",28127,1698
+Mississippi,Smith,0,"# per 1,000 pop",28129,1709
+Mississippi,Stone,0,"# per 1,000 pop",28131,1712
+Mississippi,Sunflower,0,"# per 1,000 pop",28133,1721
+Mississippi,Tallahatchie,0,"# per 1,000 pop",28135,1725
+Mississippi,Tate,0,"# per 1,000 pop",28137,1727
+Mississippi,Tippah,0,"# per 1,000 pop",28139,1730
+Mississippi,Tishomingo,0,"# per 1,000 pop",28141,1732
+Mississippi,Tunica,0,"# per 1,000 pop",28143,1735
+Mississippi,Union,0,"# per 1,000 pop",28145,1737
+Mississippi,Walthall,0,"# per 1,000 pop",28147,1740
+Mississippi,Warren,0,"# per 1,000 pop",28149,1746
+Mississippi,Washington,0,"# per 1,000 pop",28151,1750
 Mississippi,Wayne,0.04851307347416878,"# per 1,000 pop",28153,1753
-Mississippi,Webster,nan,"# per 1,000 pop",28155,1756
-Mississippi,Wilkinson,nan,"# per 1,000 pop",28157,1757
-Mississippi,Winston,nan,"# per 1,000 pop",28159,1758
-Mississippi,Yalobusha,nan,"# per 1,000 pop",28161,1759
-Mississippi,Yazoo,nan,"# per 1,000 pop",28163,1760
+Mississippi,Webster,0,"# per 1,000 pop",28155,1756
+Mississippi,Wilkinson,0,"# per 1,000 pop",28157,1757
+Mississippi,Winston,0,"# per 1,000 pop",28159,1758
+Mississippi,Yalobusha,0,"# per 1,000 pop",28161,1759
+Mississippi,Yazoo,0,"# per 1,000 pop",28163,1760
 Missouri,Adair,0.07796663045883179,"# per 1,000 pop",29001,1761
 Missouri,Andrew,0.11627230793237686,"# per 1,000 pop",29003,1762
 Missouri,Atchison,0.3588731288909912,"# per 1,000 pop",29005,1763
@@ -1579,7 +1579,7 @@ Missouri,Ste. Genevieve,0.05492996424436569,"# per 1,000 pop",29186,1209
 Missouri,St. Francois,0.13724951446056366,"# per 1,000 pop",29187,1212
 Missouri,St. Louis County,0.07900308072566986,"# per 1,000 pop",29189,1216
 Missouri,Saline,0.1709255576133728,"# per 1,000 pop",29195,1218
-Missouri,Schuyler,nan,"# per 1,000 pop",29197,1221
+Missouri,Schuyler,0,"# per 1,000 pop",29197,1221
 Missouri,Scotland,0.2068680226802826,"# per 1,000 pop",29199,1224
 Missouri,Scott,0.22998492419719696,"# per 1,000 pop",29201,1227
 Missouri,Shannon,0.23767082393169403,"# per 1,000 pop",29203,1229
@@ -1615,7 +1615,7 @@ Montana,Flathead,0.15340280532836914,"# per 1,000 pop",30029,1173
 Montana,Gallatin,0.1422879844903946,"# per 1,000 pop",30031,1177
 Montana,Garfield,0.7974481582641602,"# per 1,000 pop",30033,1182
 Montana,Glacier,0.1473187953233719,"# per 1,000 pop",30035,1186
-Montana,Golden Valley,nan,"# per 1,000 pop",30037,1189
+Montana,Golden Valley,0,"# per 1,000 pop",30037,1189
 Montana,Granite,0.32425421476364136,"# per 1,000 pop",30039,1192
 Montana,Hill,0.24397681653499603,"# per 1,000 pop",30041,1195
 Montana,Jefferson,0.17582418024539948,"# per 1,000 pop",30043,1199
@@ -1655,9 +1655,9 @@ Montana,Wibaux,1.0204081535339355,"# per 1,000 pop",30109,1300
 Montana,Yellowstone,0.09349039942026138,"# per 1,000 pop",30111,1302
 Nebraska,Adams,0.192283034324646,"# per 1,000 pop",31001,1303
 Nebraska,Antelope,0.6041383743286133,"# per 1,000 pop",31003,1305
-Nebraska,Arthur,nan,"# per 1,000 pop",31005,1307
-Nebraska,Banner,nan,"# per 1,000 pop",31007,1308
-Nebraska,Blaine,nan,"# per 1,000 pop",31009,1309
+Nebraska,Arthur,0,"# per 1,000 pop",31005,1307
+Nebraska,Banner,0,"# per 1,000 pop",31007,1308
+Nebraska,Blaine,0,"# per 1,000 pop",31009,1309
 Nebraska,Boone,0.9248982667922974,"# per 1,000 pop",31011,1310
 Nebraska,Box Butte,0.26562777161598206,"# per 1,000 pop",31013,1315
 Nebraska,Boyd,1.4436959028244019,"# per 1,000 pop",31015,1317
@@ -1710,8 +1710,8 @@ Nebraska,Knox,0.9330534338951111,"# per 1,000 pop",31107,1322
 Nebraska,Lancaster,0.14488554000854492,"# per 1,000 pop",31109,1324
 Nebraska,Lincoln,0.24979877471923828,"# per 1,000 pop",31111,1327
 Nebraska,Logan,1.2836970090866089,"# per 1,000 pop",31113,1328
-Nebraska,Loup,nan,"# per 1,000 pop",31115,1331
-Nebraska,McPherson,nan,"# per 1,000 pop",31117,1332
+Nebraska,Loup,0,"# per 1,000 pop",31115,1331
+Nebraska,McPherson,0,"# per 1,000 pop",31117,1332
 Nebraska,Madison,0.2570987939834595,"# per 1,000 pop",31119,1335
 Nebraska,Merrick,0.12894906103610992,"# per 1,000 pop",31121,1337
 Nebraska,Morrill,0.6018053889274597,"# per 1,000 pop",31123,1339
@@ -1735,7 +1735,7 @@ Nebraska,Scotts Bluff,0.1894349455833435,"# per 1,000 pop",31157,1373
 Nebraska,Seward,0.17960844933986664,"# per 1,000 pop",31159,1375
 Nebraska,Sheridan,0.7461294531822205,"# per 1,000 pop",31161,1376
 Nebraska,Sherman,0.9674298763275146,"# per 1,000 pop",31163,1377
-Nebraska,Sioux,nan,"# per 1,000 pop",31165,1380
+Nebraska,Sioux,0,"# per 1,000 pop",31165,1380
 Nebraska,Stanton,0.16194331645965576,"# per 1,000 pop",31167,1382
 Nebraska,Thayer,0.5804953575134277,"# per 1,000 pop",31169,1383
 Nebraska,Thomas,1.4326647520065308,"# per 1,000 pop",31171,1384
@@ -1744,14 +1744,14 @@ Nebraska,Valley,0.9460737705230713,"# per 1,000 pop",31175,1386
 Nebraska,Washington,0.1506250947713852,"# per 1,000 pop",31177,1387
 Nebraska,Wayne,0.2115730494260788,"# per 1,000 pop",31179,1388
 Nebraska,Webster,0.26616981625556946,"# per 1,000 pop",31181,1389
-Nebraska,Wheeler,nan,"# per 1,000 pop",31183,1390
+Nebraska,Wheeler,0,"# per 1,000 pop",31183,1390
 Nebraska,York,0.3627394139766693,"# per 1,000 pop",31185,1392
 Nevada,Churchill,0.1626611351966858,"# per 1,000 pop",32001,1396
 Nevada,Clark,0.07390379905700684,"# per 1,000 pop",32003,1399
 Nevada,Douglas,0.10645319521427155,"# per 1,000 pop",32005,1400
 Nevada,Elko,0.1820535659790039,"# per 1,000 pop",32007,1401
-Nevada,Esmeralda,nan,"# per 1,000 pop",32009,1404
-Nevada,Eureka,nan,"# per 1,000 pop",32011,1406
+Nevada,Esmeralda,0,"# per 1,000 pop",32009,1404
+Nevada,Eureka,0,"# per 1,000 pop",32011,1406
 Nevada,Humboldt,0.18031013011932373,"# per 1,000 pop",32013,1407
 Nevada,Lander,0.34240710735321045,"# per 1,000 pop",32015,1408
 Nevada,Lincoln,0.5696923732757568,"# per 1,000 pop",32017,1410
@@ -1759,7 +1759,7 @@ Nevada,Lyon,0.09731412678956985,"# per 1,000 pop",32019,1412
 Nevada,Mineral,0.21612276136875153,"# per 1,000 pop",32021,1415
 Nevada,Nye,0.09096697717905045,"# per 1,000 pop",32023,1417
 Nevada,Pershing,0.15124017000198364,"# per 1,000 pop",32027,1419
-Nevada,Storey,nan,"# per 1,000 pop",32029,1420
+Nevada,Storey,0,"# per 1,000 pop",32029,1420
 Nevada,Washoe,0.08962263911962509,"# per 1,000 pop",32031,1423
 Nevada,White Pine,0.09876543283462524,"# per 1,000 pop",32033,1425
 Nevada,Carson City,0.12801989912986755,"# per 1,000 pop",32510,1428
@@ -1805,7 +1805,7 @@ New Mexico,Doña Ana,0.11730094999074936,"# per 1,000 pop",35013,1590
 New Mexico,Eddy,0.12949533760547638,"# per 1,000 pop",35015,1592
 New Mexico,Grant,0.13634194433689117,"# per 1,000 pop",35017,1594
 New Mexico,Guadalupe,0.21621622145175934,"# per 1,000 pop",35019,1595
-New Mexico,Harding,nan,"# per 1,000 pop",35021,1597
+New Mexico,Harding,0,"# per 1,000 pop",35021,1597
 New Mexico,Hidalgo,0.4130524694919586,"# per 1,000 pop",35023,1600
 New Mexico,Lea,0.13818517327308655,"# per 1,000 pop",35025,1604
 New Mexico,Lincoln,0.19599196314811707,"# per 1,000 pop",35027,1613
@@ -1992,7 +1992,7 @@ North Carolina,Yancey,0.22612923383712769,"# per 1,000 pop",37199,1823
 North Dakota,Adams,0.8650519251823425,"# per 1,000 pop",38001,1826
 North Dakota,Barnes,0.36000359058380127,"# per 1,000 pop",38003,1828
 North Dakota,Benson,0.7478312849998474,"# per 1,000 pop",38005,1831
-North Dakota,Billings,nan,"# per 1,000 pop",38007,1833
+North Dakota,Billings,0,"# per 1,000 pop",38007,1833
 North Dakota,Bottineau,0.46160948276519775,"# per 1,000 pop",38009,1836
 North Dakota,Bowman,1.2730745077133179,"# per 1,000 pop",38011,1838
 North Dakota,Burke,0.4849660396575928,"# per 1,000 pop",38013,1841
@@ -2021,7 +2021,7 @@ North Dakota,Mercer,0.23741690814495087,"# per 1,000 pop",38057,2107
 North Dakota,Morton,0.18039470911026,"# per 1,000 pop",38059,2114
 North Dakota,Mountrail,0.6175889372825623,"# per 1,000 pop",38061,2119
 North Dakota,Nelson,1.9569472074508667,"# per 1,000 pop",38063,2122
-North Dakota,Oliver,nan,"# per 1,000 pop",38065,2127
+North Dakota,Oliver,0,"# per 1,000 pop",38065,2127
 North Dakota,Pembina,0.8158825039863586,"# per 1,000 pop",38067,2131
 North Dakota,Pierce,0.22904260456562042,"# per 1,000 pop",38069,2136
 North Dakota,Ramsey,0.17356590926647186,"# per 1,000 pop",38071,2141
@@ -2032,7 +2032,7 @@ North Dakota,Rolette,0.7045726776123047,"# per 1,000 pop",38079,2161
 North Dakota,Sargent,0.791556715965271,"# per 1,000 pop",38081,2164
 North Dakota,Sheridan,0.759878396987915,"# per 1,000 pop",38083,2169
 North Dakota,Sioux,0.7083825469017029,"# per 1,000 pop",38085,2175
-North Dakota,Slope,nan,"# per 1,000 pop",38087,2180
+North Dakota,Slope,0,"# per 1,000 pop",38087,2180
 North Dakota,Stark,0.15882469713687897,"# per 1,000 pop",38089,2182
 North Dakota,Steele,1.0152283906936646,"# per 1,000 pop",38091,2186
 North Dakota,Stutsman,0.19029495120048523,"# per 1,000 pop",38093,2199
@@ -2234,7 +2234,7 @@ Oregon,Marion,0.1383434683084488,"# per 1,000 pop",41047,2200
 Oregon,Morrow,0.3561253547668457,"# per 1,000 pop",41049,2209
 Oregon,Multnomah,0.11337883770465851,"# per 1,000 pop",41051,2218
 Oregon,Polk,0.1448683738708496,"# per 1,000 pop",41053,2223
-Oregon,Sherman,nan,"# per 1,000 pop",41055,2232
+Oregon,Sherman,0,"# per 1,000 pop",41055,2232
 Oregon,Tillamook,0.2755254805088043,"# per 1,000 pop",41057,2242
 Oregon,Umatilla,0.18229641020298004,"# per 1,000 pop",41059,2251
 Oregon,Union,0.42467764019966125,"# per 1,000 pop",41061,2257
@@ -2370,7 +2370,7 @@ South Dakota,Brown,0.16250914335250854,"# per 1,000 pop",46013,2885
 South Dakota,Brule,0.37764349579811096,"# per 1,000 pop",46015,2888
 South Dakota,Buffalo,0.5058168768882751,"# per 1,000 pop",46017,2891
 South Dakota,Butte,0.38812342286109924,"# per 1,000 pop",46019,2895
-South Dakota,Campbell,nan,"# per 1,000 pop",46021,2897
+South Dakota,Campbell,0,"# per 1,000 pop",46021,2897
 South Dakota,Charles Mix,0.5441880822181702,"# per 1,000 pop",46023,2900
 South Dakota,Clark,0.5563282370567322,"# per 1,000 pop",46025,2901
 South Dakota,Clay,0.21459227800369263,"# per 1,000 pop",46027,2903
@@ -2391,7 +2391,7 @@ South Dakota,Haakon,0.5211047530174255,"# per 1,000 pop",46055,2924
 South Dakota,Hamlin,0.8371002674102783,"# per 1,000 pop",46057,2926
 South Dakota,Hand,0.29120558500289917,"# per 1,000 pop",46059,2928
 South Dakota,Hanson,0.29629629850387573,"# per 1,000 pop",46061,2929
-South Dakota,Harding,nan,"# per 1,000 pop",46063,2931
+South Dakota,Harding,0,"# per 1,000 pop",46063,2931
 South Dakota,Hughes,0.17334026098251343,"# per 1,000 pop",46065,2933
 South Dakota,Hutchinson,0.9660502076148987,"# per 1,000 pop",46067,2934
 South Dakota,Hyde,0.7153075933456421,"# per 1,000 pop",46069,2937
@@ -2416,7 +2416,7 @@ South Dakota,Perkins,0.6646726727485657,"# per 1,000 pop",46105,2502
 South Dakota,Potter,0.8438818454742432,"# per 1,000 pop",46107,2506
 South Dakota,Roberts,0.680272102355957,"# per 1,000 pop",46109,2511
 South Dakota,Sanborn,0.42462843656539917,"# per 1,000 pop",46111,2514
-South Dakota,Shannon,nan,"# per 1,000 pop",46113,2519
+South Dakota,Shannon,0,"# per 1,000 pop",46113,2519
 South Dakota,Spink,0.15236935019493103,"# per 1,000 pop",46115,2523
 South Dakota,Stanley,0.3357958495616913,"# per 1,000 pop",46117,2530
 South Dakota,Sully,0.727802038192749,"# per 1,000 pop",46119,2535
@@ -2538,13 +2538,13 @@ Texas,Bee,0.09284763783216476,"# per 1,000 pop",48025,2196
 Texas,Bell,0.04750142619013786,"# per 1,000 pop",48027,2198
 Texas,Bexar,0.05582964047789574,"# per 1,000 pop",48029,2203
 Texas,Blanco,0.18908953666687012,"# per 1,000 pop",48031,2207
-Texas,Borden,nan,"# per 1,000 pop",48033,2212
+Texas,Borden,0,"# per 1,000 pop",48033,2212
 Texas,Bosque,0.21902206540107727,"# per 1,000 pop",48035,2216
 Texas,Bowie,0.11837885528802872,"# per 1,000 pop",48037,2224
 Texas,Brazoria,0.08773056417703629,"# per 1,000 pop",48039,2240
 Texas,Brazos,0.06078534573316574,"# per 1,000 pop",48041,2253
 Texas,Brewster,0.2138579934835434,"# per 1,000 pop",48043,2262
-Texas,Briscoe,nan,"# per 1,000 pop",48045,2269
+Texas,Briscoe,0,"# per 1,000 pop",48045,2269
 Texas,Brooks,0.27712345123291016,"# per 1,000 pop",48047,2279
 Texas,Brown,0.1052687019109726,"# per 1,000 pop",48049,2296
 Texas,Burleson,0.1154467761516571,"# per 1,000 pop",48051,2304
@@ -2561,8 +2561,8 @@ Texas,Chambers,0.11208563297986984,"# per 1,000 pop",48071,2395
 Texas,Cherokee,0.09786076098680496,"# per 1,000 pop",48073,2400
 Texas,Childress,0.28465700149536133,"# per 1,000 pop",48075,2405
 Texas,Clay,0.09374707192182541,"# per 1,000 pop",48077,2409
-Texas,Cochran,nan,"# per 1,000 pop",48079,2413
-Texas,Coke,nan,"# per 1,000 pop",48081,2418
+Texas,Cochran,0,"# per 1,000 pop",48079,2413
+Texas,Coke,0,"# per 1,000 pop",48081,2418
 Texas,Coleman,0.1143641322851181,"# per 1,000 pop",48083,2423
 Texas,Collin,0.07008156180381775,"# per 1,000 pop",48085,2429
 Texas,Collingsworth,0.32414910197257996,"# per 1,000 pop",48087,2434
@@ -2577,11 +2577,11 @@ Texas,Crane,0.22946305572986603,"# per 1,000 pop",48103,2478
 Texas,Crockett,0.5476451516151428,"# per 1,000 pop",48105,2483
 Texas,Crosby,0.4965243339538574,"# per 1,000 pop",48107,2487
 Texas,Culberson,0.41788551211357117,"# per 1,000 pop",48109,2491
-Texas,Dallam,nan,"# per 1,000 pop",48111,2498
+Texas,Dallam,0,"# per 1,000 pop",48111,2498
 Texas,Dallas,0.08678789436817169,"# per 1,000 pop",48113,2507
 Texas,Dawson,0.14549687504768372,"# per 1,000 pop",48115,2512
 Texas,Deaf Smith,0.15367278456687927,"# per 1,000 pop",48117,2515
-Texas,Delta,nan,"# per 1,000 pop",48119,2524
+Texas,Delta,0,"# per 1,000 pop",48119,2524
 Texas,Denton,0.06708385050296783,"# per 1,000 pop",48121,2532
 Texas,DeWitt,0.09898050129413605,"# per 1,000 pop",48123,2538
 Texas,Dickens,0.4166666567325592,"# per 1,000 pop",48125,2542
@@ -2608,7 +2608,7 @@ Texas,Gaines,0.16748549044132233,"# per 1,000 pop",48165,2032
 Texas,Galveston,0.09134706109762192,"# per 1,000 pop",48167,2059
 Texas,Garza,0.1520681232213974,"# per 1,000 pop",48169,2060
 Texas,Gillespie,0.07983075827360153,"# per 1,000 pop",48171,2066
-Texas,Glasscock,nan,"# per 1,000 pop",48173,2072
+Texas,Glasscock,0,"# per 1,000 pop",48173,2072
 Texas,Goliad,0.13873474299907684,"# per 1,000 pop",48175,2079
 Texas,Gonzales,0.10121457278728485,"# per 1,000 pop",48177,2086
 Texas,Gray,0.13240940868854523,"# per 1,000 pop",48179,2088
@@ -2639,7 +2639,7 @@ Texas,Howard,0.05711674690246582,"# per 1,000 pop",48227,2231
 Texas,Hudspeth,0.2930832505226135,"# per 1,000 pop",48229,2241
 Texas,Hunt,0.10380502790212631,"# per 1,000 pop",48231,2246
 Texas,Hutchinson,0.18164479732513428,"# per 1,000 pop",48233,2249
-Texas,Irion,nan,"# per 1,000 pop",48235,2255
+Texas,Irion,0,"# per 1,000 pop",48235,2255
 Texas,Jack,0.22143489122390747,"# per 1,000 pop",48237,2256
 Texas,Jackson,0.14236901700496674,"# per 1,000 pop",48239,2264
 Texas,Jasper,0.1105002909898758,"# per 1,000 pop",48241,2271
@@ -2652,11 +2652,11 @@ Texas,Jones,0.09868745505809784,"# per 1,000 pop",48253,2301
 Texas,Karnes,0.1337345391511917,"# per 1,000 pop",48255,2307
 Texas,Kaufman,0.0760362297296524,"# per 1,000 pop",48257,2314
 Texas,Kendall,0.08709031343460083,"# per 1,000 pop",48259,2319
-Texas,Kenedy,nan,"# per 1,000 pop",48261,2330
-Texas,Kent,nan,"# per 1,000 pop",48263,2335
+Texas,Kenedy,0,"# per 1,000 pop",48261,2330
+Texas,Kent,0,"# per 1,000 pop",48263,2335
 Texas,Kerr,0.08061753213405609,"# per 1,000 pop",48265,2337
 Texas,Kimble,0.21767522394657135,"# per 1,000 pop",48267,2339
-Texas,King,nan,"# per 1,000 pop",48269,2342
+Texas,King,0,"# per 1,000 pop",48269,2342
 Texas,Kinney,0.2772386968135834,"# per 1,000 pop",48271,2347
 Texas,Kleberg,0.15608903765678406,"# per 1,000 pop",48273,2358
 Texas,Knox,0.5374899506568909,"# per 1,000 pop",48275,2364
@@ -2672,12 +2672,12 @@ Texas,Limestone,0.16954900324344635,"# per 1,000 pop",48293,2408
 Texas,Lipscomb,0.6002401113510132,"# per 1,000 pop",48295,2412
 Texas,Live Oak,0.17380724847316742,"# per 1,000 pop",48297,2416
 Texas,Llano,0.10488227009773254,"# per 1,000 pop",48299,2421
-Texas,Loving,nan,"# per 1,000 pop",48301,2424
+Texas,Loving,0,"# per 1,000 pop",48301,2424
 Texas,Lubbock,0.06351558864116669,"# per 1,000 pop",48303,2428
 Texas,Lynn,0.16989466547966003,"# per 1,000 pop",48305,2438
 Texas,McCulloch,0.24230675399303436,"# per 1,000 pop",48307,2452
 Texas,McLennan,0.06726928800344467,"# per 1,000 pop",48309,2477
-Texas,McMullen,nan,"# per 1,000 pop",48311,2494
+Texas,McMullen,0,"# per 1,000 pop",48311,2494
 Texas,Madison,0.14546512067317963,"# per 1,000 pop",48313,2526
 Texas,Marion,0.09544716775417328,"# per 1,000 pop",48315,2547
 Texas,Martin,0.2047082930803299,"# per 1,000 pop",48317,2564
@@ -2701,7 +2701,7 @@ Texas,Newton,0.13735319674015045,"# per 1,000 pop",48351,2711
 Texas,Nolan,0.13205678761005402,"# per 1,000 pop",48353,2714
 Texas,Nueces,0.06700616329908371,"# per 1,000 pop",48355,2194
 Texas,Ochiltree,0.19151584804058075,"# per 1,000 pop",48357,2204
-Texas,Oldham,nan,"# per 1,000 pop",48359,2210
+Texas,Oldham,0,"# per 1,000 pop",48359,2210
 Texas,Orange,0.10931483656167984,"# per 1,000 pop",48361,2214
 Texas,Palo Pinto,0.10694805532693863,"# per 1,000 pop",48363,2220
 Texas,Panola,0.16661113500595093,"# per 1,000 pop",48365,2227
@@ -2718,7 +2718,7 @@ Texas,Real,0.29146021604537964,"# per 1,000 pop",48385,2283
 Texas,Red River,0.15766653418540955,"# per 1,000 pop",48387,2295
 Texas,Reeves,0.07240080833435059,"# per 1,000 pop",48389,2308
 Texas,Refugio,0.13661202788352966,"# per 1,000 pop",48391,2334
-Texas,Roberts,nan,"# per 1,000 pop",48393,2348
+Texas,Roberts,0,"# per 1,000 pop",48393,2348
 Texas,Robertson,0.2401537001132965,"# per 1,000 pop",48395,2353
 Texas,Rockwall,0.0740484744310379,"# per 1,000 pop",48397,2355
 Texas,Runnels,0.19042178988456726,"# per 1,000 pop",48399,2361
@@ -2737,15 +2737,15 @@ Texas,Smith,0.0846007764339447,"# per 1,000 pop",48423,2465
 Texas,Somervell,0.23733238875865936,"# per 1,000 pop",48425,2470
 Texas,Starr,0.14593805372714996,"# per 1,000 pop",48427,2474
 Texas,Stephens,0.10492078214883804,"# per 1,000 pop",48429,2480
-Texas,Sterling,nan,"# per 1,000 pop",48431,2481
+Texas,Sterling,0,"# per 1,000 pop",48431,2481
 Texas,Stonewall,0.6835269927978516,"# per 1,000 pop",48433,2486
 Texas,Sutton,0.2507522702217102,"# per 1,000 pop",48435,2490
 Texas,Swisher,0.12815584242343903,"# per 1,000 pop",48437,2495
 Texas,Tarrant,0.08226283639669418,"# per 1,000 pop",48439,2500
 Texas,Taylor,0.09786282479763031,"# per 1,000 pop",48441,2508
-Texas,Terrell,nan,"# per 1,000 pop",48443,2518
+Texas,Terrell,0,"# per 1,000 pop",48443,2518
 Texas,Terry,0.0789889395236969,"# per 1,000 pop",48445,2522
-Texas,Throckmorton,nan,"# per 1,000 pop",48447,2525
+Texas,Throckmorton,0,"# per 1,000 pop",48447,2525
 Texas,Titus,0.12325137108564377,"# per 1,000 pop",48449,2531
 Texas,Tom Green,0.0805441215634346,"# per 1,000 pop",48451,2536
 Texas,Travis,0.05651212856173515,"# per 1,000 pop",48453,2543
@@ -2780,7 +2780,7 @@ Utah,Beaver,0.457526296377182,"# per 1,000 pop",49001,2653
 Utah,Box Elder,0.09953615814447403,"# per 1,000 pop",49003,2658
 Utah,Cache,0.11326607316732407,"# per 1,000 pop",49005,2661
 Utah,Carbon,0.2347087264060974,"# per 1,000 pop",49007,2665
-Utah,Daggett,nan,"# per 1,000 pop",49009,2668
+Utah,Daggett,0,"# per 1,000 pop",49009,2668
 Utah,Davis,0.0897902101278305,"# per 1,000 pop",49011,2671
 Utah,Duchesne,0.21389231085777283,"# per 1,000 pop",49013,2672
 Utah,Emery,0.3641660511493683,"# per 1,000 pop",49015,2673
@@ -2827,7 +2827,7 @@ Virginia,Amherst,0.124420665204525,"# per 1,000 pop",51009,2746
 Virginia,Appomattox,0.19857029616832733,"# per 1,000 pop",51011,2749
 Virginia,Arlington,0.0324116088449955,"# per 1,000 pop",51013,2753
 Virginia,Augusta,0.05431978031992912,"# per 1,000 pop",51015,2758
-Virginia,Bath,nan,"# per 1,000 pop",51017,2763
+Virginia,Bath,0,"# per 1,000 pop",51017,2763
 Virginia,Bedford County,0.09264528751373291,"# per 1,000 pop",51019,2769
 Virginia,Bland,0.14762327075004578,"# per 1,000 pop",51021,2772
 Virginia,Botetourt,0.09091184288263321,"# per 1,000 pop",51023,2776
@@ -2837,7 +2837,7 @@ Virginia,Buckingham,0.17432738840579987,"# per 1,000 pop",51029,2785
 Virginia,Campbell,0.1095290258526802,"# per 1,000 pop",51031,2788
 Virginia,Caroline,0.06974473595619202,"# per 1,000 pop",51033,2793
 Virginia,Carroll,0.16615711152553558,"# per 1,000 pop",51035,2797
-Virginia,Charles City,nan,"# per 1,000 pop",51036,2806
+Virginia,Charles City,0,"# per 1,000 pop",51036,2806
 Virginia,Charlotte,0.0800512358546257,"# per 1,000 pop",51037,2810
 Virginia,Chesterfield,0.10303516685962677,"# per 1,000 pop",51041,2816
 Virginia,Clarke,0.07048706710338593,"# per 1,000 pop",51043,2819
@@ -2858,15 +2858,15 @@ Virginia,Gloucester,0.1084451675415039,"# per 1,000 pop",51073,2887
 Virginia,Goochland,0.09357162564992905,"# per 1,000 pop",51075,2892
 Virginia,Grayson,0.0650787428021431,"# per 1,000 pop",51077,2896
 Virginia,Greene,0.10715242475271225,"# per 1,000 pop",51079,2899
-Virginia,Greensville,nan,"# per 1,000 pop",51081,2902
+Virginia,Greensville,0,"# per 1,000 pop",51081,2902
 Virginia,Halifax,0.11117596179246902,"# per 1,000 pop",51083,2904
 Virginia,Hanover,0.08008168637752533,"# per 1,000 pop",51085,2909
 Virginia,Henrico,0.12239901721477509,"# per 1,000 pop",51087,2915
 Virginia,Henry,0.14942099153995514,"# per 1,000 pop",51089,2918
-Virginia,Highland,nan,"# per 1,000 pop",51091,2920
+Virginia,Highland,0,"# per 1,000 pop",51091,2920
 Virginia,Isle of Wight,0.08501473814249039,"# per 1,000 pop",51093,2925
 Virginia,James City,0.07320751249790192,"# per 1,000 pop",51095,2930
-Virginia,King and Queen,nan,"# per 1,000 pop",51097,2936
+Virginia,King and Queen,0,"# per 1,000 pop",51097,2936
 Virginia,King George,0.16479215025901794,"# per 1,000 pop",51099,2938
 Virginia,King William,0.12488292157649994,"# per 1,000 pop",51101,2943
 Virginia,Lancaster,0.2660989761352539,"# per 1,000 pop",51103,2948
@@ -2893,7 +2893,7 @@ Virginia,Prince Edward,0.17929179966449738,"# per 1,000 pop",51147,2990
 Virginia,Prince George,0.0817149206995964,"# per 1,000 pop",51149,2991
 Virginia,Prince William,0.07158605754375458,"# per 1,000 pop",51153,2992
 Virginia,Pulaski,0.20151422917842865,"# per 1,000 pop",51155,2993
-Virginia,Rappahannock,nan,"# per 1,000 pop",51157,2994
+Virginia,Rappahannock,0,"# per 1,000 pop",51157,2994
 Virginia,Richmond County,0.10860121995210648,"# per 1,000 pop",51159,2995
 Virginia,Roanoke County,0.14008620381355286,"# per 1,000 pop",51161,2996
 Virginia,Rockbridge,0.13365410268306732,"# per 1,000 pop",51163,2997
@@ -2905,7 +2905,7 @@ Virginia,Smyth,0.2184496372938156,"# per 1,000 pop",51173,2600
 Virginia,Southampton,0.053665343672037125,"# per 1,000 pop",51175,2608
 Virginia,Spotsylvania,0.09637315571308136,"# per 1,000 pop",51177,2619
 Virginia,Stafford,0.08320914953947067,"# per 1,000 pop",51179,2629
-Virginia,Surry,nan,"# per 1,000 pop",51181,2636
+Virginia,Surry,0,"# per 1,000 pop",51181,2636
 Virginia,Sussex,0.2482621669769287,"# per 1,000 pop",51183,2647
 Virginia,Tazewell,0.17883089184761047,"# per 1,000 pop",51185,2656
 Virginia,Warren,0.07972998172044754,"# per 1,000 pop",51187,2662
@@ -2915,7 +2915,7 @@ Virginia,Wise,0.19294776022434235,"# per 1,000 pop",51195,2695
 Virginia,Wythe,0.20557096600532532,"# per 1,000 pop",51197,2699
 Virginia,York,0.1367490142583847,"# per 1,000 pop",51199,2709
 Virginia,Alexandria,0.06933850795030594,"# per 1,000 pop",51510,2712
-Virginia,Bedford City,nan,"# per 1,000 pop",51515,2713
+Virginia,Bedford City,0,"# per 1,000 pop",51515,2713
 Virginia,Bristol,0.22578459978103638,"# per 1,000 pop",51520,2716
 Virginia,Buena Vista,0.14903129637241364,"# per 1,000 pop",51530,2720
 Virginia,Charlottesville,0.06855889409780502,"# per 1,000 pop",51540,2722
@@ -2935,7 +2935,7 @@ Virginia,Hopewell,0.17779357731342316,"# per 1,000 pop",51670,2756
 Virginia,Lexington,0.14361625909805298,"# per 1,000 pop",51678,2760
 Virginia,Lynchburg,0.16975268721580505,"# per 1,000 pop",51680,2762
 Virginia,Manassas,0.12781186401844025,"# per 1,000 pop",51683,2765
-Virginia,Manassas Park,nan,"# per 1,000 pop",51685,2768
+Virginia,Manassas Park,0,"# per 1,000 pop",51685,2768
 Virginia,Martinsville,0.1471129059791565,"# per 1,000 pop",51690,2771
 Virginia,Newport News,0.09994558244943619,"# per 1,000 pop",51700,2775
 Virginia,Norfolk,0.0944046750664711,"# per 1,000 pop",51710,2778

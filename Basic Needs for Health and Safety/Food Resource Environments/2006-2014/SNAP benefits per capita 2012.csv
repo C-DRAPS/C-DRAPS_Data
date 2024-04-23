@@ -91,7 +91,7 @@ Alaska,Sitka,15.517623901367188,Dollars/capita,2220,679
 Alaska,Skagway,29.529529571533203,Dollars/capita,2230,683
 Alaska,Southeast Fairbanks,25.062744140625,Dollars/capita,2240,690
 Alaska,Valdez-Cordova,15.134394645690918,Dollars/capita,2261,710
-Alaska,Wade Hampton,nan,Dollars/capita,2270,725
+Alaska,Wade Hampton,0,Dollars/capita,2270,725
 Alaska,Wrangell,17.46424674987793,Dollars/capita,2275,733
 Alaska,Yakutat,22.213855743408203,Dollars/capita,2282,744
 Alaska,Yukon-Koyukuk,86.35609436035156,Dollars/capita,2290,753
@@ -547,9 +547,9 @@ Georgia,Wilkinson,39.54817199707031,Dollars/capita,13319,169
 Georgia,Worth,34.77650451660156,Dollars/capita,13321,173
 Hawaii,Hawaii,52.0975456237793,Dollars/capita,15001,198
 Hawaii,Honolulu,23.18594741821289,Dollars/capita,15003,234
-Hawaii,Kalawao,nan,Dollars/capita,15005,247
+Hawaii,Kalawao,0,Dollars/capita,15005,247
 Hawaii,Kauai,29.402971267700195,Dollars/capita,15007,261
-Hawaii,Maui,nan,Dollars/capita,15009,323
+Hawaii,Maui,0,Dollars/capita,15009,323
 Idaho,Ada,15.771207809448242,Dollars/capita,16001,336
 Idaho,Adams,13.970650672912598,Dollars/capita,16003,338
 Idaho,Bannock,23.22711181640625,Dollars/capita,16005,343
@@ -2416,7 +2416,7 @@ South Dakota,Perkins,7.470503807067871,Dollars/capita,46105,2502
 South Dakota,Potter,3.992016077041626,Dollars/capita,46107,2506
 South Dakota,Roberts,26.53495979309082,Dollars/capita,46109,2511
 South Dakota,Sanborn,9.167386054992676,Dollars/capita,46111,2514
-South Dakota,Shannon,nan,Dollars/capita,46113,2519
+South Dakota,Shannon,0,Dollars/capita,46113,2519
 South Dakota,Spink,7.7858147621154785,Dollars/capita,46115,2523
 South Dakota,Stanley,6.664426326751709,Dollars/capita,46117,2530
 South Dakota,Sully,1.3995801210403442,Dollars/capita,46119,2535
@@ -2820,13 +2820,13 @@ Vermont,Washington,16.401723861694336,Dollars/capita,50023,2617
 Vermont,Windham,22.092599868774414,Dollars/capita,50025,2620
 Vermont,Windsor,18.175094604492188,Dollars/capita,50027,2625
 Virginia,Accomack,25.903879165649414,Dollars/capita,51001,2719
-Virginia,Albemarle,nan,Dollars/capita,51003,2728
-Virginia,Alleghany,nan,Dollars/capita,51005,2733
+Virginia,Albemarle,0,Dollars/capita,51003,2728
+Virginia,Alleghany,0,Dollars/capita,51005,2733
 Virginia,Amelia,20.77613067626953,Dollars/capita,51007,2741
 Virginia,Amherst,14.618531227111816,Dollars/capita,51009,2746
 Virginia,Appomattox,20.66793441772461,Dollars/capita,51011,2749
 Virginia,Arlington,4.209718704223633,Dollars/capita,51013,2753
-Virginia,Augusta,nan,Dollars/capita,51015,2758
+Virginia,Augusta,0,Dollars/capita,51015,2758
 Virginia,Bath,9.931753158569336,Dollars/capita,51017,2763
 Virginia,Bedford County,11.097837448120117,Dollars/capita,51019,2769
 Virginia,Bland,10.256410598754883,Dollars/capita,51021,2772
@@ -2834,9 +2834,9 @@ Virginia,Botetourt,5.6892523765563965,Dollars/capita,51023,2776
 Virginia,Brunswick,27.482633590698242,Dollars/capita,51025,2777
 Virginia,Buchanan,22.01528549194336,Dollars/capita,51027,2784
 Virginia,Buckingham,26.096593856811523,Dollars/capita,51029,2785
-Virginia,Campbell,nan,Dollars/capita,51031,2788
+Virginia,Campbell,0,Dollars/capita,51031,2788
 Virginia,Caroline,23.263912200927734,Dollars/capita,51033,2793
-Virginia,Carroll,nan,Dollars/capita,51035,2797
+Virginia,Carroll,0,Dollars/capita,51035,2797
 Virginia,Charles City,20.453269958496094,Dollars/capita,51036,2806
 Virginia,Charlotte,22.367889404296875,Dollars/capita,51037,2810
 Virginia,Chesterfield,12.438809394836426,Dollars/capita,51041,2816
@@ -2845,27 +2845,27 @@ Virginia,Craig,12.6670560836792,Dollars/capita,51045,2820
 Virginia,Culpeper,15.842408180236816,Dollars/capita,51047,2824
 Virginia,Cumberland,27.501100540161133,Dollars/capita,51049,2827
 Virginia,Dickenson,22.997283935546875,Dollars/capita,51051,2832
-Virginia,Dinwiddie,nan,Dollars/capita,51053,2838
+Virginia,Dinwiddie,0,Dollars/capita,51053,2838
 Virginia,Essex,30.55830192565918,Dollars/capita,51057,2842
-Virginia,Fairfax County,nan,Dollars/capita,51059,2849
+Virginia,Fairfax County,0,Dollars/capita,51059,2849
 Virginia,Fauquier,8.597257614135742,Dollars/capita,51061,2853
 Virginia,Floyd,15.812325477600098,Dollars/capita,51063,2856
 Virginia,Fluvanna,8.856480598449707,Dollars/capita,51065,2858
 Virginia,Franklin County,18.709627151489258,Dollars/capita,51067,2862
-Virginia,Frederick,nan,Dollars/capita,51069,2868
+Virginia,Frederick,0,Dollars/capita,51069,2868
 Virginia,Giles,15.871383666992188,Dollars/capita,51071,2873
 Virginia,Gloucester,15.490670204162598,Dollars/capita,51073,2887
 Virginia,Goochland,7.55831241607666,Dollars/capita,51075,2892
 Virginia,Grayson,21.88029670715332,Dollars/capita,51077,2896
 Virginia,Greene,14.367205619812012,Dollars/capita,51079,2899
-Virginia,Greensville,nan,Dollars/capita,51081,2902
+Virginia,Greensville,0,Dollars/capita,51081,2902
 Virginia,Halifax,22.832263946533203,Dollars/capita,51083,2904
 Virginia,Hanover,7.792360782623291,Dollars/capita,51085,2909
 Virginia,Henrico,14.68485164642334,Dollars/capita,51087,2915
-Virginia,Henry,nan,Dollars/capita,51089,2918
+Virginia,Henry,0,Dollars/capita,51089,2918
 Virginia,Highland,8.393016815185547,Dollars/capita,51091,2920
 Virginia,Isle of Wight,15.04947280883789,Dollars/capita,51093,2925
-Virginia,James City,nan,Dollars/capita,51095,2930
+Virginia,James City,0,Dollars/capita,51095,2930
 Virginia,King and Queen,21.46050262451172,Dollars/capita,51097,2936
 Virginia,King George,15.948801040649414,Dollars/capita,51099,2938
 Virginia,King William,15.82483196258545,Dollars/capita,51101,2943
@@ -2878,7 +2878,7 @@ Virginia,Madison,15.292265892028809,Dollars/capita,51113,2955
 Virginia,Mathews,13.832772254943848,Dollars/capita,51115,2962
 Virginia,Mecklenburg,19.103137969970703,Dollars/capita,51117,2964
 Virginia,Middlesex,19.340709686279297,Dollars/capita,51119,2965
-Virginia,Montgomery,nan,Dollars/capita,51121,2966
+Virginia,Montgomery,0,Dollars/capita,51121,2966
 Virginia,Nelson,19.129005432128906,Dollars/capita,51125,2968
 Virginia,New Kent,8.077010154724121,Dollars/capita,51127,2971
 Virginia,Northampton,27.895999908447266,Dollars/capita,51131,2982
@@ -2887,72 +2887,72 @@ Virginia,Nottoway,28.793264389038086,Dollars/capita,51135,2984
 Virginia,Orange,12.679890632629395,Dollars/capita,51137,2985
 Virginia,Page,20.096620559692383,Dollars/capita,51139,2986
 Virginia,Patrick,21.99970817565918,Dollars/capita,51141,2987
-Virginia,Pittsylvania,nan,Dollars/capita,51143,2988
+Virginia,Pittsylvania,0,Dollars/capita,51143,2988
 Virginia,Powhatan,6.871723651885986,Dollars/capita,51145,2989
 Virginia,Prince Edward,18.66240692138672,Dollars/capita,51147,2990
-Virginia,Prince George,nan,Dollars/capita,51149,2991
-Virginia,Prince William,nan,Dollars/capita,51153,2992
+Virginia,Prince George,0,Dollars/capita,51149,2991
+Virginia,Prince William,0,Dollars/capita,51153,2992
 Virginia,Pulaski,20.619224548339844,Dollars/capita,51155,2993
 Virginia,Rappahannock,8.462750434875488,Dollars/capita,51157,2994
 Virginia,Richmond County,20.434192657470703,Dollars/capita,51159,2995
-Virginia,Roanoke County,nan,Dollars/capita,51161,2996
-Virginia,Rockbridge,nan,Dollars/capita,51163,2997
-Virginia,Rockingham,nan,Dollars/capita,51165,2998
+Virginia,Roanoke County,0,Dollars/capita,51161,2996
+Virginia,Rockbridge,0,Dollars/capita,51163,2997
+Virginia,Rockingham,0,Dollars/capita,51165,2998
 Virginia,Russell,23.80575180053711,Dollars/capita,51167,2999
 Virginia,Scott,19.21904182434082,Dollars/capita,51169,2585
 Virginia,Shenandoah,16.450359344482422,Dollars/capita,51171,2594
 Virginia,Smyth,24.74166488647461,Dollars/capita,51173,2600
-Virginia,Southampton,nan,Dollars/capita,51175,2608
-Virginia,Spotsylvania,nan,Dollars/capita,51177,2619
+Virginia,Southampton,0,Dollars/capita,51175,2608
+Virginia,Spotsylvania,0,Dollars/capita,51177,2619
 Virginia,Stafford,9.551318168640137,Dollars/capita,51179,2629
 Virginia,Surry,18.825851440429688,Dollars/capita,51181,2636
 Virginia,Sussex,20.048389434814453,Dollars/capita,51183,2647
 Virginia,Tazewell,20.543020248413086,Dollars/capita,51185,2656
 Virginia,Warren,17.579999923706055,Dollars/capita,51187,2662
-Virginia,Washington,nan,Dollars/capita,51191,2667
+Virginia,Washington,0,Dollars/capita,51191,2667
 Virginia,Westmoreland,24.171283721923828,Dollars/capita,51193,2684
-Virginia,Wise,nan,Dollars/capita,51195,2695
+Virginia,Wise,0,Dollars/capita,51195,2695
 Virginia,Wythe,17.577970504760742,Dollars/capita,51197,2699
-Virginia,York,nan,Dollars/capita,51199,2709
+Virginia,York,0,Dollars/capita,51199,2709
 Virginia,Alexandria,7.791741371154785,Dollars/capita,51510,2712
-Virginia,Bedford City,nan,Dollars/capita,51515,2713
-Virginia,Bristol,nan,Dollars/capita,51520,2716
-Virginia,Buena Vista,nan,Dollars/capita,51530,2720
-Virginia,Charlottesville,nan,Dollars/capita,51540,2722
+Virginia,Bedford City,0,Dollars/capita,51515,2713
+Virginia,Bristol,0,Dollars/capita,51520,2716
+Virginia,Buena Vista,0,Dollars/capita,51530,2720
+Virginia,Charlottesville,0,Dollars/capita,51540,2722
 Virginia,Chesapeake,13.767719268798828,Dollars/capita,51550,2724
-Virginia,Colonial Heights,nan,Dollars/capita,51570,2727
-Virginia,Covington,nan,Dollars/capita,51580,2729
-Virginia,Danville,nan,Dollars/capita,51590,2732
-Virginia,Emporia,nan,Dollars/capita,51595,2736
-Virginia,Fairfax City,nan,Dollars/capita,51600,2737
-Virginia,Falls Church,nan,Dollars/capita,51610,2740
-Virginia,Franklin City,nan,Dollars/capita,51620,2744
-Virginia,Fredericksburg,nan,Dollars/capita,51630,2745
-Virginia,Galax,nan,Dollars/capita,51640,2747
+Virginia,Colonial Heights,0,Dollars/capita,51570,2727
+Virginia,Covington,0,Dollars/capita,51580,2729
+Virginia,Danville,0,Dollars/capita,51590,2732
+Virginia,Emporia,0,Dollars/capita,51595,2736
+Virginia,Fairfax City,0,Dollars/capita,51600,2737
+Virginia,Falls Church,0,Dollars/capita,51610,2740
+Virginia,Franklin City,0,Dollars/capita,51620,2744
+Virginia,Fredericksburg,0,Dollars/capita,51630,2745
+Virginia,Galax,0,Dollars/capita,51640,2747
 Virginia,Hampton,21.64129638671875,Dollars/capita,51650,2751
-Virginia,Harrisonburg,nan,Dollars/capita,51660,2755
-Virginia,Hopewell,nan,Dollars/capita,51670,2756
-Virginia,Lexington,nan,Dollars/capita,51678,2760
-Virginia,Lynchburg,nan,Dollars/capita,51680,2762
-Virginia,Manassas,nan,Dollars/capita,51683,2765
-Virginia,Manassas Park,nan,Dollars/capita,51685,2768
-Virginia,Martinsville,nan,Dollars/capita,51690,2771
+Virginia,Harrisonburg,0,Dollars/capita,51660,2755
+Virginia,Hopewell,0,Dollars/capita,51670,2756
+Virginia,Lexington,0,Dollars/capita,51678,2760
+Virginia,Lynchburg,0,Dollars/capita,51680,2762
+Virginia,Manassas,0,Dollars/capita,51683,2765
+Virginia,Manassas Park,0,Dollars/capita,51685,2768
+Virginia,Martinsville,0,Dollars/capita,51690,2771
 Virginia,Newport News,27.29964828491211,Dollars/capita,51700,2775
 Virginia,Norfolk,27.45030403137207,Dollars/capita,51710,2778
-Virginia,Norton,nan,Dollars/capita,51720,2780
-Virginia,Petersburg,nan,Dollars/capita,51730,2782
-Virginia,Poquoson,nan,Dollars/capita,51735,2791
+Virginia,Norton,0,Dollars/capita,51720,2780
+Virginia,Petersburg,0,Dollars/capita,51730,2782
+Virginia,Poquoson,0,Dollars/capita,51735,2791
 Virginia,Portsmouth,33.880165100097656,Dollars/capita,51740,2795
-Virginia,Radford,nan,Dollars/capita,51750,2799
+Virginia,Radford,0,Dollars/capita,51750,2799
 Virginia,Richmond City,35.87322998046875,Dollars/capita,51760,2802
 Virginia,Roanoke City,31.984172821044922,Dollars/capita,51770,2805
-Virginia,Salem,nan,Dollars/capita,51775,2809
-Virginia,Staunton,nan,Dollars/capita,51790,2812
+Virginia,Salem,0,Dollars/capita,51775,2809
+Virginia,Staunton,0,Dollars/capita,51790,2812
 Virginia,Suffolk,19.702604293823242,Dollars/capita,51800,2815
 Virginia,Virginia Beach,10.152276992797852,Dollars/capita,51810,2826
-Virginia,Waynesboro,nan,Dollars/capita,51820,2831
-Virginia,Williamsburg,nan,Dollars/capita,51830,2835
-Virginia,Winchester,nan,Dollars/capita,51840,2837
+Virginia,Waynesboro,0,Dollars/capita,51820,2831
+Virginia,Williamsburg,0,Dollars/capita,51830,2835
+Virginia,Winchester,0,Dollars/capita,51840,2837
 Washington,Adams,32.331295013427734,Dollars/capita,53001,2840
 Washington,Asotin,27.444313049316406,Dollars/capita,53003,2845
 Washington,Benton,21.30816078186035,Dollars/capita,53005,2847

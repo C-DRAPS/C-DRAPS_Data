@@ -70,11 +70,11 @@ Alaska,Aleutians East,83763.834,Dollars/store,2013,346
 Alaska,Aleutians West,92417.0713846154,Dollars/store,2016,381
 Alaska,Anchorage,534784.1691182798,Dollars/store,2020,400
 Alaska,Bethel,343122.8960352423,Dollars/store,2050,411
-Alaska,Bristol Bay,nan,Dollars/store,2060,423
+Alaska,Bristol Bay,0,Dollars/store,2060,423
 Alaska,Denali,0.0,Dollars/store,2068,426
 Alaska,Dillingham,338984.5011111111,Dollars/store,2070,445
 Alaska,Fairbanks North Star,664184.200535117,Dollars/store,2090,454
-Alaska,Haines,nan,Dollars/store,2100,462
+Alaska,Haines,0,Dollars/store,2100,462
 Alaska,Hoonah-Angoon,98734.2642857143,Dollars/store,2105,476
 Alaska,Juneau,489246.41620253155,Dollars/store,2110,482
 Alaska,Kenai Peninsula,302535.5602941176,Dollars/store,2122,494
@@ -85,15 +85,15 @@ Alaska,Matanuska-Susitna,515512.2136674259,Dollars/store,2170,556
 Alaska,Nome,338898.0671720116,Dollars/store,2180,571
 Alaska,North Slope,291025.3146153846,Dollars/store,2185,614
 Alaska,Northwest Arctic,315458.51315789466,Dollars/store,2188,638
-Alaska,Petersburg,nan,Dollars/store,2195,645
+Alaska,Petersburg,0,Dollars/store,2195,645
 Alaska,Prince of Wales-Hyder,255922.8574468085,Dollars/store,2198,669
-Alaska,Sitka,nan,Dollars/store,2220,679
-Alaska,Skagway,nan,Dollars/store,2230,683
+Alaska,Sitka,0,Dollars/store,2220,679
+Alaska,Skagway,0,Dollars/store,2230,683
 Alaska,Southeast Fairbanks,222884.20714285714,Dollars/store,2240,690
 Alaska,Valdez-Cordova,76042.92979591838,Dollars/store,2261,710
 Alaska,Wade Hampton,493181.8565517242,Dollars/store,2270,725
-Alaska,Wrangell,nan,Dollars/store,2275,733
-Alaska,Yakutat,nan,Dollars/store,2282,744
+Alaska,Wrangell,0,Dollars/store,2275,733
+Alaska,Yakutat,0,Dollars/store,2282,744
 Alaska,Yukon-Koyukuk,90933.92850325379,Dollars/store,2290,753
 Arizona,Apache,386674.568907563,Dollars/store,4001,761
 Arizona,Cochise,344038.721644737,Dollars/store,4003,763
@@ -230,7 +230,7 @@ California,Santa Barbara,273141.92408450705,Dollars/store,6083,391
 California,Santa Clara,261648.4980614002,Dollars/store,6085,406
 California,Santa Cruz,273327.9253495441,Dollars/store,6087,415
 California,Shasta,322938.72541040473,Dollars/store,6089,431
-California,Sierra,nan,Dollars/store,6091,439
+California,Sierra,0,Dollars/store,6091,439
 California,Siskiyou,187341.28800000003,Dollars/store,6093,446
 California,Solano,325855.15528791863,Dollars/store,6095,453
 California,Sonoma,214563.83634017585,Dollars/store,6097,463
@@ -252,29 +252,29 @@ Colorado,Bent,111543.56103896105,Dollars/store,8011,564
 Colorado,Boulder,257452.00402148886,Dollars/store,8013,570
 Colorado,Broomfield,216963.65643835615,Dollars/store,8014,577
 Colorado,Chaffee,176974.79662921347,Dollars/store,8015,582
-Colorado,Cheyenne,nan,Dollars/store,8017,587
+Colorado,Cheyenne,0,Dollars/store,8017,587
 Colorado,Clear Creek,159907.15250000003,Dollars/store,8019,591
 Colorado,Conejos,165330.6305660377,Dollars/store,8021,596
 Colorado,Costilla,42665.303478260874,Dollars/store,8023,599
-Colorado,Crowley,nan,Dollars/store,8025,605
-Colorado,Custer,nan,Dollars/store,8027,610
+Colorado,Crowley,0,Dollars/store,8025,605
+Colorado,Custer,0,Dollars/store,8027,610
 Colorado,Delta,464604.4386754966,Dollars/store,8029,617
 Colorado,Denver,364453.7935644028,Dollars/store,8031,628
-Colorado,Dolores,nan,Dollars/store,8033,636
+Colorado,Dolores,0,Dollars/store,8033,636
 Colorado,Douglas,141513.62498886415,Dollars/store,8035,644
 Colorado,Eagle,215199.97732620322,Dollars/store,8037,648
-Colorado,Elbert,nan,Dollars/store,8039,655
+Colorado,Elbert,0,Dollars/store,8039,655
 Colorado,El Paso,395818.07463213656,Dollars/store,8041,661
 Colorado,Fremont,314313.0893114754,Dollars/store,8043,664
 Colorado,Garfield,269392.4329411765,Dollars/store,8045,667
-Colorado,Gilpin,nan,Dollars/store,8047,672
+Colorado,Gilpin,0,Dollars/store,8047,672
 Colorado,Grand,91511.60108108108,Dollars/store,8049,677
 Colorado,Gunnison,133450.68780487805,Dollars/store,8051,682
 Colorado,Hinsdale,0.0,Dollars/store,8053,688
 Colorado,Huerfano,173015.74835820895,Dollars/store,8055,693
-Colorado,Jackson,nan,Dollars/store,8057,701
+Colorado,Jackson,0,Dollars/store,8057,701
 Colorado,Jefferson,346197.13882069796,Dollars/store,8059,706
-Colorado,Kiowa,nan,Dollars/store,8061,711
+Colorado,Kiowa,0,Dollars/store,8061,711
 Colorado,Kit Carson,67886.246,Dollars/store,8063,716
 Colorado,Lake,111211.05205479453,Dollars/store,8065,721
 Colorado,La Plata,292256.456988417,Dollars/store,8067,727
@@ -283,15 +283,15 @@ Colorado,Las Animas,393918.8146938776,Dollars/store,8071,741
 Colorado,Lincoln,58343.28375,Dollars/store,8073,747
 Colorado,Logan,379574.0522033899,Dollars/store,8075,749
 Colorado,Mesa,462158.6832196451,Dollars/store,8077,751
-Colorado,Mineral,nan,Dollars/store,8079,757
+Colorado,Mineral,0,Dollars/store,8079,757
 Colorado,Moffat,208356.25736842104,Dollars/store,8081,758
 Colorado,Montezuma,601241.1170860927,Dollars/store,8083,766
 Colorado,Montrose,431394.5860240964,Dollars/store,8085,769
 Colorado,Morgan,200761.5104626334,Dollars/store,8087,775
 Colorado,Otero,349659.41773584904,Dollars/store,8089,777
-Colorado,Ouray,nan,Dollars/store,8091,780
+Colorado,Ouray,0,Dollars/store,8091,780
 Colorado,Park,73951.81000000001,Dollars/store,8093,782
-Colorado,Phillips,nan,Dollars/store,8095,785
+Colorado,Phillips,0,Dollars/store,8095,785
 Colorado,Pitkin,60878.057499999995,Dollars/store,8097,789
 Colorado,Prowers,301017.51621301775,Dollars/store,8099,792
 Colorado,Pueblo,487751.8529661016,Dollars/store,8101,795
@@ -299,12 +299,12 @@ Colorado,Rio Blanco,63687.09166666667,Dollars/store,8103,799
 Colorado,Rio Grande,217451.17594405595,Dollars/store,8105,802
 Colorado,Routt,109542.0891891892,Dollars/store,8107,809
 Colorado,Saguache,128905.04186915889,Dollars/store,8109,811
-Colorado,San Juan,nan,Dollars/store,8111,347
+Colorado,San Juan,0,Dollars/store,8111,347
 Colorado,San Miguel,82953.0,Dollars/store,8113,359
-Colorado,Sedgwick,nan,Dollars/store,8115,366
+Colorado,Sedgwick,0,Dollars/store,8115,366
 Colorado,Summit,175519.00717241378,Dollars/store,8117,373
 Colorado,Teller,254319.79622641506,Dollars/store,8119,375
-Colorado,Washington,nan,Dollars/store,8121,377
+Colorado,Washington,0,Dollars/store,8121,377
 Colorado,Weld,305827.23607038136,Dollars/store,8123,382
 Colorado,Yuma,97272.838125,Dollars/store,8125,385
 Connecticut,Fairfield,287740.8719466567,Dollars/store,9001,410
@@ -389,7 +389,7 @@ Florida,Washington,299765.63777777774,Dollars/store,12133,986
 Georgia,Appling,281560.05233898317,Dollars/store,13001,987
 Georgia,Atkinson,195401.11228915662,Dollars/store,13003,988
 Georgia,Bacon,181654.45542857138,Dollars/store,13005,989
-Georgia,Baker,nan,Dollars/store,13007,990
+Georgia,Baker,0,Dollars/store,13007,990
 Georgia,Baldwin,333058.78255506617,Dollars/store,13009,991
 Georgia,Banks,325254.38328358205,Dollars/store,13011,992
 Georgia,Barrow,338368.09982758627,Dollars/store,13013,993
@@ -447,7 +447,7 @@ Georgia,Forsyth,156335.5992837959,Dollars/store,13117,768
 Georgia,Franklin,227686.69013192612,Dollars/store,13119,772
 Georgia,Fulton,388634.3536047759,Dollars/store,13121,779
 Georgia,Gilmer,390363.81012244895,Dollars/store,13123,781
-Georgia,Glascock,nan,Dollars/store,13125,783
+Georgia,Glascock,0,Dollars/store,13125,783
 Georgia,Glynn,311087.9154131535,Dollars/store,13127,793
 Georgia,Gordon,261224.5311239861,Dollars/store,13129,796
 Georgia,Grady,287451.9095064935,Dollars/store,13131,797
@@ -516,7 +516,7 @@ Georgia,Stephens,415826.619661017,Dollars/store,13257,45
 Georgia,Stewart,351800.0961290322,Dollars/store,13259,48
 Georgia,Sumter,427659.4313043478,Dollars/store,13261,52
 Georgia,Talbot,52648.183703703704,Dollars/store,13263,57
-Georgia,Taliaferro,nan,Dollars/store,13265,60
+Georgia,Taliaferro,0,Dollars/store,13265,60
 Georgia,Tattnall,142031.90104783594,Dollars/store,13267,63
 Georgia,Taylor,178762.63267605635,Dollars/store,13269,69
 Georgia,Telfair,219070.11756097566,Dollars/store,13271,75
@@ -537,7 +537,7 @@ Georgia,Ware,348120.4668208092,Dollars/store,13299,132
 Georgia,Warren,168882.61009345797,Dollars/store,13301,135
 Georgia,Washington,398483.3585365853,Dollars/store,13303,143
 Georgia,Wayne,335203.41086859687,Dollars/store,13305,147
-Georgia,Webster,nan,Dollars/store,13307,149
+Georgia,Webster,0,Dollars/store,13307,149
 Georgia,Wheeler,107376.28,Dollars/store,13309,154
 Georgia,White,333606.5959398496,Dollars/store,13311,157
 Georgia,Whitfield,278012.12673040153,Dollars/store,13313,159
@@ -561,16 +561,16 @@ Idaho,Boise,46319.10683544304,Dollars/store,16015,380
 Idaho,Bonner,302448.08849999995,Dollars/store,16017,387
 Idaho,Bonneville,570388.7028892004,Dollars/store,16019,395
 Idaho,Boundary,254262.4101265823,Dollars/store,16021,405
-Idaho,Butte,nan,Dollars/store,16023,414
-Idaho,Camas,nan,Dollars/store,16025,429
+Idaho,Butte,0,Dollars/store,16023,414
+Idaho,Camas,0,Dollars/store,16025,429
 Idaho,Canyon,632828.9590846682,Dollars/store,16027,441
 Idaho,Caribou,103365.26599999999,Dollars/store,16029,449
 Idaho,Cassia,337059.50862385315,Dollars/store,16031,456
-Idaho,Clark,nan,Dollars/store,16033,464
+Idaho,Clark,0,Dollars/store,16033,464
 Idaho,Clearwater,130111.26000000001,Dollars/store,16035,474
 Idaho,Custer,70943.57890909091,Dollars/store,16037,484
 Idaho,Elmore,303212.5187628866,Dollars/store,16039,490
-Idaho,Franklin,nan,Dollars/store,16041,498
+Idaho,Franklin,0,Dollars/store,16041,498
 Idaho,Fremont,186901.68166666667,Dollars/store,16043,502
 Idaho,Gem,138140.56610169495,Dollars/store,16045,510
 Idaho,Gooding,189812.44,Dollars/store,16047,519
@@ -581,16 +581,16 @@ Idaho,Kootenai,426889.62097363075,Dollars/store,16055,552
 Idaho,Latah,310218.6122033899,Dollars/store,16057,559
 Idaho,Lemhi,199546.40547945208,Dollars/store,16059,566
 Idaho,Lewis,218016.05,Dollars/store,16061,574
-Idaho,Lincoln,nan,Dollars/store,16063,578
+Idaho,Lincoln,0,Dollars/store,16063,578
 Idaho,Madison,371131.3961538462,Dollars/store,16065,581
 Idaho,Minidoka,328592.8218181818,Dollars/store,16067,585
 Idaho,Nez Perce,233997.36914956005,Dollars/store,16069,589
-Idaho,Oneida,nan,Dollars/store,16071,593
+Idaho,Oneida,0,Dollars/store,16071,593
 Idaho,Owyhee,218124.02424242426,Dollars/store,16073,601
 Idaho,Payette,121846.52737864076,Dollars/store,16075,606
 Idaho,Power,169347.1975,Dollars/store,16077,613
 Idaho,Shoshone,379772.8010810811,Dollars/store,16079,621
-Idaho,Teton,nan,Dollars/store,16081,627
+Idaho,Teton,0,Dollars/store,16081,627
 Idaho,Twin Falls,551869.1062295082,Dollars/store,16083,634
 Idaho,Valley,177588.37879518073,Dollars/store,16085,643
 Idaho,Washington,203008.83599999995,Dollars/store,16087,649
@@ -669,7 +669,7 @@ Illinois,Peoria,351023.2819471154,Dollars/store,17143,233
 Illinois,Perry,295976.6507462686,Dollars/store,17145,235
 Illinois,Piatt,68479.69258064516,Dollars/store,17147,238
 Illinois,Pike,164370.24117647062,Dollars/store,17149,241
-Illinois,Pope,nan,Dollars/store,17151,245
+Illinois,Pope,0,Dollars/store,17151,245
 Illinois,Pulaski,178060.28048780488,Dollars/store,17153,248
 Illinois,Putnam,39426.80399999999,Dollars/store,17155,253
 Illinois,Randolph,220370.9420307692,Dollars/store,17157,255
@@ -753,7 +753,7 @@ Indiana,Montgomery,280052.874939759,Dollars/store,18107,425
 Indiana,Morgan,249233.14662162165,Dollars/store,18109,430
 Indiana,Newton,50690.92642335767,Dollars/store,18111,433
 Indiana,Noble,198141.07742857147,Dollars/store,18113,436
-Indiana,Ohio,nan,Dollars/store,18115,440
+Indiana,Ohio,0,Dollars/store,18115,440
 Indiana,Orange,275552.5269230769,Dollars/store,18117,444
 Indiana,Owen,203241.07894736843,Dollars/store,18119,448
 Indiana,Parke,205189.61076923073,Dollars/store,18121,452
@@ -781,7 +781,7 @@ Indiana,Vanderburgh,320178.4809923212,Dollars/store,18163,543
 Indiana,Vermillion,199528.87448275863,Dollars/store,18165,548
 Indiana,Vigo,431610.17652777786,Dollars/store,18167,553
 Indiana,Wabash,190647.84666666668,Dollars/store,18169,555
-Indiana,Warren,nan,Dollars/store,18171,567
+Indiana,Warren,0,Dollars/store,18171,567
 Indiana,Warrick,209409.68000000002,Dollars/store,18173,575
 Indiana,Washington,220590.28278688525,Dollars/store,18175,584
 Indiana,Wayne,356440.6653250774,Dollars/store,18177,586
@@ -859,7 +859,7 @@ Iowa,Monroe,117546.66838709677,Dollars/store,19135,580
 Iowa,Montgomery,234408.15212598423,Dollars/store,19137,595
 Iowa,Muscatine,305204.81854945055,Dollars/store,19139,600
 Iowa,O'Brien,97449.83116564415,Dollars/store,19141,604
-Iowa,Osceola,nan,Dollars/store,19143,607
+Iowa,Osceola,0,Dollars/store,19143,607
 Iowa,Page,196611.86231155778,Dollars/store,19145,612
 Iowa,Palo Alto,99165.96516129034,Dollars/store,19147,618
 Iowa,Plymouth,222705.0817699115,Dollars/store,19149,622
@@ -888,60 +888,60 @@ Iowa,Woodbury,326140.7166315789,Dollars/store,19193,702
 Iowa,Worth,46798.113333333335,Dollars/store,19195,703
 Iowa,Wright,105380.99999999999,Dollars/store,19197,705
 Kansas,Allen,214338.0174418605,Dollars/store,20001,709
-Kansas,Anderson,nan,Dollars/store,20003,712
+Kansas,Anderson,0,Dollars/store,20003,712
 Kansas,Atchison,365669.8265625,Dollars/store,20005,715
-Kansas,Barber,nan,Dollars/store,20007,717
+Kansas,Barber,0,Dollars/store,20007,717
 Kansas,Barton,215834.88860215055,Dollars/store,20009,719
 Kansas,Bourbon,366859.406,Dollars/store,20011,722
 Kansas,Brown,233880.27900000004,Dollars/store,20013,723
 Kansas,Butler,241449.1668932039,Dollars/store,20015,726
-Kansas,Chase,nan,Dollars/store,20017,729
+Kansas,Chase,0,Dollars/store,20017,729
 Kansas,Chautauqua,54244.41636363636,Dollars/store,20019,730
 Kansas,Cherokee,195956.704,Dollars/store,20021,732
-Kansas,Cheyenne,nan,Dollars/store,20023,736
-Kansas,Clark,nan,Dollars/store,20025,738
+Kansas,Cheyenne,0,Dollars/store,20023,736
+Kansas,Clark,0,Dollars/store,20025,738
 Kansas,Clay,105436.43400000001,Dollars/store,20027,739
 Kansas,Cloud,202415.74814814812,Dollars/store,20029,740
 Kansas,Coffey,67332.7363106796,Dollars/store,20031,745
-Kansas,Comanche,nan,Dollars/store,20033,748
+Kansas,Comanche,0,Dollars/store,20033,748
 Kansas,Cowley,316470.05491525424,Dollars/store,20035,752
 Kansas,Crawford,367871.717195122,Dollars/store,20037,756
-Kansas,Decatur,nan,Dollars/store,20039,759
+Kansas,Decatur,0,Dollars/store,20039,759
 Kansas,Dickinson,112448.8701369863,Dollars/store,20041,762
 Kansas,Doniphan,34176.295999999995,Dollars/store,20043,765
 Kansas,Douglas,318717.27187855786,Dollars/store,20045,767
-Kansas,Edwards,nan,Dollars/store,20047,770
-Kansas,Elk,nan,Dollars/store,20049,773
+Kansas,Edwards,0,Dollars/store,20047,770
+Kansas,Elk,0,Dollars/store,20049,773
 Kansas,Ellis,221718.2194117647,Dollars/store,20051,774
 Kansas,Ellsworth,71086.1676923077,Dollars/store,20053,776
 Kansas,Finney,495002.93268292694,Dollars/store,20055,778
 Kansas,Ford,366952.0793846155,Dollars/store,20057,784
 Kansas,Franklin,361378.8094915254,Dollars/store,20059,786
 Kansas,Geary,353392.5309090909,Dollars/store,20061,788
-Kansas,Gove,nan,Dollars/store,20063,790
-Kansas,Graham,nan,Dollars/store,20065,791
+Kansas,Gove,0,Dollars/store,20063,790
+Kansas,Graham,0,Dollars/store,20065,791
 Kansas,Grant,168717.13959183675,Dollars/store,20067,794
 Kansas,Gray,29383.480000000003,Dollars/store,20069,798
-Kansas,Greeley,nan,Dollars/store,20071,801
+Kansas,Greeley,0,Dollars/store,20071,801
 Kansas,Greenwood,85752.26816326534,Dollars/store,20073,803
-Kansas,Hamilton,nan,Dollars/store,20075,805
+Kansas,Hamilton,0,Dollars/store,20075,805
 Kansas,Harper,56455.821714285725,Dollars/store,20077,807
 Kansas,Harvey,241023.96258620688,Dollars/store,20079,812
-Kansas,Haskell,nan,Dollars/store,20081,815
-Kansas,Hodgeman,nan,Dollars/store,20083,818
+Kansas,Haskell,0,Dollars/store,20081,815
+Kansas,Hodgeman,0,Dollars/store,20083,818
 Kansas,Jackson,109784.74811881188,Dollars/store,20085,819
 Kansas,Jefferson,93419.55402985077,Dollars/store,20087,821
-Kansas,Jewell,nan,Dollars/store,20089,822
+Kansas,Jewell,0,Dollars/store,20089,822
 Kansas,Johnson,239231.12197474172,Dollars/store,20091,824
-Kansas,Kearny,nan,Dollars/store,20093,826
+Kansas,Kearny,0,Dollars/store,20093,826
 Kansas,Kingman,79489.528,Dollars/store,20095,827
-Kansas,Kiowa,nan,Dollars/store,20097,829
+Kansas,Kiowa,0,Dollars/store,20097,829
 Kansas,Labette,214981.1781818182,Dollars/store,20099,831
-Kansas,Lane,nan,Dollars/store,20101,833
+Kansas,Lane,0,Dollars/store,20101,833
 Kansas,Leavenworth,228018.37722352942,Dollars/store,20103,836
-Kansas,Lincoln,nan,Dollars/store,20105,838
+Kansas,Lincoln,0,Dollars/store,20105,838
 Kansas,Linn,87035.2454676259,Dollars/store,20107,840
-Kansas,Logan,nan,Dollars/store,20109,842
+Kansas,Logan,0,Dollars/store,20109,842
 Kansas,Lyon,309464.93083333335,Dollars/store,20111,844
 Kansas,McPherson,161902.31584158418,Dollars/store,20113,846
 Kansas,Marion,58857.843333333345,Dollars/store,20115,848
@@ -950,45 +950,45 @@ Kansas,Meade,39906.96842105264,Dollars/store,20119,851
 Kansas,Miami,283443.673442623,Dollars/store,20121,853
 Kansas,Mitchell,59921.461999999985,Dollars/store,20123,854
 Kansas,Montgomery,427496.129774436,Dollars/store,20125,856
-Kansas,Morris,nan,Dollars/store,20127,858
-Kansas,Morton,nan,Dollars/store,20129,859
+Kansas,Morris,0,Dollars/store,20127,858
+Kansas,Morton,0,Dollars/store,20129,859
 Kansas,Nemaha,70547.2276923077,Dollars/store,20131,861
 Kansas,Neosho,289018.38216867467,Dollars/store,20133,862
-Kansas,Ness,nan,Dollars/store,20135,864
+Kansas,Ness,0,Dollars/store,20135,864
 Kansas,Norton,62882.69399999998,Dollars/store,20137,866
 Kansas,Osage,86319.615,Dollars/store,20139,867
-Kansas,Osborne,nan,Dollars/store,20141,869
-Kansas,Ottawa,nan,Dollars/store,20143,870
+Kansas,Osborne,0,Dollars/store,20141,869
+Kansas,Ottawa,0,Dollars/store,20143,870
 Kansas,Pawnee,125367.97882352944,Dollars/store,20145,872
 Kansas,Phillips,79981.95999999999,Dollars/store,20147,873
 Kansas,Pottawatomie,233668.25142857144,Dollars/store,20149,876
 Kansas,Pratt,189911.5157142857,Dollars/store,20151,878
-Kansas,Rawlins,nan,Dollars/store,20153,880
+Kansas,Rawlins,0,Dollars/store,20153,880
 Kansas,Reno,287908.6156555773,Dollars/store,20155,882
-Kansas,Republic,nan,Dollars/store,20157,884
+Kansas,Republic,0,Dollars/store,20157,884
 Kansas,Rice,74018.04366412215,Dollars/store,20159,886
 Kansas,Riley,227058.68030075182,Dollars/store,20161,888
 Kansas,Rooks,68212.80249999999,Dollars/store,20163,889
-Kansas,Rush,nan,Dollars/store,20165,891
+Kansas,Rush,0,Dollars/store,20165,891
 Kansas,Russell,157604.49999999997,Dollars/store,20167,893
 Kansas,Saline,321586.7187272728,Dollars/store,20169,895
 Kansas,Scott,55526.294117647056,Dollars/store,20171,897
 Kansas,Sedgwick,421944.9278146803,Dollars/store,20173,898
 Kansas,Seward,414693.99916666676,Dollars/store,20175,900
 Kansas,Shawnee,427766.8142424242,Dollars/store,20177,902
-Kansas,Sheridan,nan,Dollars/store,20179,904
-Kansas,Sherman,nan,Dollars/store,20181,907
+Kansas,Sheridan,0,Dollars/store,20179,904
+Kansas,Sherman,0,Dollars/store,20181,907
 Kansas,Smith,50841.4,Dollars/store,20183,909
-Kansas,Stafford,nan,Dollars/store,20185,911
-Kansas,Stanton,nan,Dollars/store,20187,913
-Kansas,Stevens,nan,Dollars/store,20189,914
+Kansas,Stafford,0,Dollars/store,20185,911
+Kansas,Stanton,0,Dollars/store,20187,913
+Kansas,Stevens,0,Dollars/store,20189,914
 Kansas,Sumner,191294.42614525143,Dollars/store,20191,916
 Kansas,Thomas,145187.30602409638,Dollars/store,20193,917
-Kansas,Trego,nan,Dollars/store,20195,919
-Kansas,Wabaunsee,nan,Dollars/store,20197,920
-Kansas,Wallace,nan,Dollars/store,20199,921
+Kansas,Trego,0,Dollars/store,20195,919
+Kansas,Wabaunsee,0,Dollars/store,20197,920
+Kansas,Wallace,0,Dollars/store,20199,921
 Kansas,Washington,27584.57288135593,Dollars/store,20201,922
-Kansas,Wichita,nan,Dollars/store,20203,923
+Kansas,Wichita,0,Dollars/store,20203,923
 Kansas,Wilson,109791.7209090909,Dollars/store,20205,925
 Kansas,Woodson,66845.15889908257,Dollars/store,20207,926
 Kansas,Wyandotte,318087.30691885296,Dollars/store,20209,927
@@ -1063,7 +1063,7 @@ Kentucky,Lewis,162729.4856916996,Dollars/store,21135,1180
 Kentucky,Lincoln,356432.09346938774,Dollars/store,21137,1184
 Kentucky,Livingston,66320.93421686748,Dollars/store,21139,1187
 Kentucky,Logan,348516.8969649805,Dollars/store,21141,1190
-Kentucky,Lyon,nan,Dollars/store,21143,1193
+Kentucky,Lyon,0,Dollars/store,21143,1193
 Kentucky,McCracken,425312.4537991267,Dollars/store,21145,1196
 Kentucky,McCreary,329453.0924528302,Dollars/store,21147,1198
 Kentucky,McLean,79256.02714285716,Dollars/store,21149,1201
@@ -1092,7 +1092,7 @@ Kentucky,Perry,488917.33867172693,Dollars/store,21193,1265
 Kentucky,Pike,380280.17758200574,Dollars/store,21195,1267
 Kentucky,Powell,314084.7123595505,Dollars/store,21197,1270
 Kentucky,Pulaski,327072.7902080784,Dollars/store,21199,1272
-Kentucky,Robertson,nan,Dollars/store,21201,1273
+Kentucky,Robertson,0,Dollars/store,21201,1273
 Kentucky,Rockcastle,352444.83891891886,Dollars/store,21203,1276
 Kentucky,Rowan,509971.74136807816,Dollars/store,21205,1279
 Kentucky,Russell,279331.4536,Dollars/store,21207,1282
@@ -1225,7 +1225,7 @@ Massachusetts,Franklin,212991.86854460087,Dollars/store,25011,1523
 Massachusetts,Hampden,391558.2032746114,Dollars/store,25013,1526
 Massachusetts,Hampshire,208899.1315248524,Dollars/store,25015,1527
 Massachusetts,Middlesex,208709.56261880064,Dollars/store,25017,1533
-Massachusetts,Nantucket,nan,Dollars/store,25019,1537
+Massachusetts,Nantucket,0,Dollars/store,25019,1537
 Massachusetts,Norfolk,274632.4791785323,Dollars/store,25021,1543
 Massachusetts,Plymouth,267606.6448623088,Dollars/store,25023,1569
 Massachusetts,Suffolk,365679.09487822844,Dollars/store,25025,1585
@@ -1271,7 +1271,7 @@ Michigan,Jackson,373222.2248300971,Dollars/store,26075,1719
 Michigan,Kalamazoo,391232.2627892653,Dollars/store,26077,1720
 Michigan,Kalkaska,289269.7251891892,Dollars/store,26079,1722
 Michigan,Kent,384974.62928200205,Dollars/store,26081,1726
-Michigan,Keweenaw,nan,Dollars/store,26083,1743
+Michigan,Keweenaw,0,Dollars/store,26083,1743
 Michigan,Lake,202646.34,Dollars/store,26085,1749
 Michigan,Lapeer,244202.9926980482,Dollars/store,26087,1752
 Michigan,Leelanau,68260.33304347825,Dollars/store,26089,1765
@@ -1338,7 +1338,7 @@ Minnesota,Faribault,79639.61306122449,Dollars/store,27043,1908
 Minnesota,Fillmore,89806.05677419357,Dollars/store,27045,1909
 Minnesota,Freeborn,209187.51250996013,Dollars/store,27047,1910
 Minnesota,Goodhue,122399.90436548222,Dollars/store,27049,1911
-Minnesota,Grant,nan,Dollars/store,27051,1912
+Minnesota,Grant,0,Dollars/store,27051,1912
 Minnesota,Hennepin,305347.4689883003,Dollars/store,27053,1913
 Minnesota,Houston,65352.132727272736,Dollars/store,27055,1914
 Minnesota,Hubbard,270931.1969032258,Dollars/store,27057,1915
@@ -1347,11 +1347,11 @@ Minnesota,Itasca,228980.89909090908,Dollars/store,27061,1917
 Minnesota,Jackson,66290.464,Dollars/store,27063,1918
 Minnesota,Kanabec,308473.82149253733,Dollars/store,27065,1919
 Minnesota,Kandiyohi,312506.37225,Dollars/store,27067,1920
-Minnesota,Kittson,nan,Dollars/store,27069,1921
+Minnesota,Kittson,0,Dollars/store,27069,1921
 Minnesota,Koochiching,160367.39639097743,Dollars/store,27071,1922
 Minnesota,Lac qui Parle,52974.96206896551,Dollars/store,27073,1923
 Minnesota,Lake,163281.70500000002,Dollars/store,27075,1926
-Minnesota,Lake of the Woods,nan,Dollars/store,27077,1927
+Minnesota,Lake of the Woods,0,Dollars/store,27077,1927
 Minnesota,Le Sueur,61570.756770186345,Dollars/store,27079,1929
 Minnesota,Lincoln,29112.765999999996,Dollars/store,27081,1931
 Minnesota,Lyon,189226.60235294118,Dollars/store,27083,1932
@@ -1363,7 +1363,7 @@ Minnesota,Meeker,194503.50594594594,Dollars/store,27093,1941
 Minnesota,Mille Lacs,270857.2045454546,Dollars/store,27095,1943
 Minnesota,Morrison,141811.6745631068,Dollars/store,27097,1944
 Minnesota,Mower,227178.84687679083,Dollars/store,27099,1945
-Minnesota,Murray,nan,Dollars/store,27101,1947
+Minnesota,Murray,0,Dollars/store,27101,1947
 Minnesota,Nicollet,73504.85093023257,Dollars/store,27103,1948
 Minnesota,Nobles,189854.2675697211,Dollars/store,27105,1950
 Minnesota,Norman,60475.45333333332,Dollars/store,27107,1951
@@ -1375,11 +1375,11 @@ Minnesota,Pipestone,89727.71807999999,Dollars/store,27117,1958
 Minnesota,Polk,246223.7666037736,Dollars/store,27119,1959
 Minnesota,Pope,110453.27547169809,Dollars/store,27121,1961
 Minnesota,Ramsey,315611.51819613425,Dollars/store,27123,1964
-Minnesota,Red Lake,nan,Dollars/store,27125,1966
+Minnesota,Red Lake,0,Dollars/store,27125,1966
 Minnesota,Redwood,169322.74285714288,Dollars/store,27127,1969
 Minnesota,Renville,55468.82642201835,Dollars/store,27129,1971
 Minnesota,Rice,211817.72049504952,Dollars/store,27131,1973
-Minnesota,Rock,nan,Dollars/store,27133,1974
+Minnesota,Rock,0,Dollars/store,27133,1974
 Minnesota,Roseau,107492.95052631579,Dollars/store,27135,1976
 Minnesota,St. Louis,254361.85220207248,Dollars/store,27137,1978
 Minnesota,Scott,202033.657025641,Dollars/store,27139,1979
@@ -1390,13 +1390,13 @@ Minnesota,Steele,218446.88484848486,Dollars/store,27147,1985
 Minnesota,Stevens,114577.9531034483,Dollars/store,27149,1987
 Minnesota,Swift,82023.74714285716,Dollars/store,27151,1988
 Minnesota,Todd,88809.64845070422,Dollars/store,27153,1989
-Minnesota,Traverse,nan,Dollars/store,27155,1990
+Minnesota,Traverse,0,Dollars/store,27155,1990
 Minnesota,Wabasha,109785.19111111114,Dollars/store,27157,1991
 Minnesota,Wadena,340375.30500000005,Dollars/store,27159,1992
 Minnesota,Waseca,201578.52999999997,Dollars/store,27161,1993
 Minnesota,Washington,204684.93873840445,Dollars/store,27163,1994
 Minnesota,Watonwan,58512.19611940299,Dollars/store,27165,1996
-Minnesota,Wilkin,nan,Dollars/store,27167,1997
+Minnesota,Wilkin,0,Dollars/store,27167,1997
 Minnesota,Winona,171564.4855135135,Dollars/store,27169,1998
 Minnesota,Wright,207432.0291282051,Dollars/store,27171,1999
 Minnesota,Yellow Medicine,49952.24857142857,Dollars/store,27173,1531
@@ -1427,7 +1427,7 @@ Mississippi,Harrison,443746.33539622644,Dollars/store,28047,1587
 Mississippi,Hinds,375601.8576044915,Dollars/store,28049,1591
 Mississippi,Holmes,215570.6881841432,Dollars/store,28051,1593
 Mississippi,Humphreys,250252.95183673466,Dollars/store,28053,1596
-Mississippi,Issaquena,nan,Dollars/store,28055,1598
+Mississippi,Issaquena,0,Dollars/store,28055,1598
 Mississippi,Itawamba,304331.03065868263,Dollars/store,28057,1601
 Mississippi,Jackson,307402.7359442507,Dollars/store,28059,1605
 Mississippi,Jasper,195303.72081081077,Dollars/store,28061,1607
@@ -1594,64 +1594,64 @@ Missouri,Warren,441102.8514285714,Dollars/store,29219,1251
 Missouri,Washington,331258.68079470197,Dollars/store,29221,1253
 Missouri,Wayne,170096.0884304933,Dollars/store,29223,1256
 Missouri,Webster,222808.1363688761,Dollars/store,29225,1258
-Missouri,Worth,nan,Dollars/store,29227,1261
+Missouri,Worth,0,Dollars/store,29227,1261
 Missouri,Wright,349962.9363779528,Dollars/store,29229,1263
 Missouri,St. Louis City,417396.0050485436,Dollars/store,29510,1266
 Montana,Beaverhead,151957.79727272727,Dollars/store,30001,1269
 Montana,Big Horn,375541.21368421055,Dollars/store,30003,1274
 Montana,Blaine,238140.765,Dollars/store,30005,1124
-Montana,Broadwater,nan,Dollars/store,30007,1132
+Montana,Broadwater,0,Dollars/store,30007,1132
 Montana,Carbon,69721.13922077922,Dollars/store,30009,1137
-Montana,Carter,nan,Dollars/store,30011,1141
+Montana,Carter,0,Dollars/store,30011,1141
 Montana,Cascade,336445.8385016286,Dollars/store,30013,1144
-Montana,Chouteau,nan,Dollars/store,30015,1150
+Montana,Chouteau,0,Dollars/store,30015,1150
 Montana,Custer,227226.79875000002,Dollars/store,30017,1153
-Montana,Daniels,nan,Dollars/store,30019,1157
+Montana,Daniels,0,Dollars/store,30019,1157
 Montana,Dawson,110968.47571428571,Dollars/store,30021,1160
 Montana,Deer Lodge,185640.35581395344,Dollars/store,30023,1163
-Montana,Fallon,nan,Dollars/store,30025,1165
+Montana,Fallon,0,Dollars/store,30025,1165
 Montana,Fergus,126492.83551401868,Dollars/store,30027,1169
 Montana,Flathead,335198.6854274083,Dollars/store,30029,1173
 Montana,Gallatin,198332.2162566844,Dollars/store,30031,1177
-Montana,Garfield,nan,Dollars/store,30033,1182
+Montana,Garfield,0,Dollars/store,30033,1182
 Montana,Glacier,637523.509090909,Dollars/store,30035,1186
-Montana,Golden Valley,nan,Dollars/store,30037,1189
-Montana,Granite,nan,Dollars/store,30039,1192
+Montana,Golden Valley,0,Dollars/store,30037,1189
+Montana,Granite,0,Dollars/store,30039,1192
 Montana,Hill,387643.17519553076,Dollars/store,30041,1195
 Montana,Jefferson,87130.32250000001,Dollars/store,30043,1199
-Montana,Judith Basin,nan,Dollars/store,30045,1202
+Montana,Judith Basin,0,Dollars/store,30045,1202
 Montana,Lake,339113.56118081184,Dollars/store,30047,1207
 Montana,Lewis and Clark,274636.5595171026,Dollars/store,30049,1211
-Montana,Liberty,nan,Dollars/store,30051,1214
+Montana,Liberty,0,Dollars/store,30051,1214
 Montana,Lincoln,216431.0688412017,Dollars/store,30053,1219
-Montana,McCone,nan,Dollars/store,30055,1223
+Montana,McCone,0,Dollars/store,30055,1223
 Montana,Madison,38130.3080597015,Dollars/store,30057,1226
-Montana,Meagher,nan,Dollars/store,30059,1231
+Montana,Meagher,0,Dollars/store,30059,1231
 Montana,Mineral,82036.43142857144,Dollars/store,30061,1234
 Montana,Missoula,402303.2438002435,Dollars/store,30063,1239
-Montana,Musselshell,nan,Dollars/store,30065,1241
+Montana,Musselshell,0,Dollars/store,30065,1241
 Montana,Park,173226.5275,Dollars/store,30067,1244
-Montana,Petroleum,nan,Dollars/store,30069,1247
+Montana,Petroleum,0,Dollars/store,30069,1247
 Montana,Phillips,97755.645,Dollars/store,30071,1250
 Montana,Pondera,93466.704,Dollars/store,30073,1254
-Montana,Powder River,nan,Dollars/store,30075,1259
+Montana,Powder River,0,Dollars/store,30075,1259
 Montana,Powell,150705.84171428572,Dollars/store,30077,1262
-Montana,Prairie,nan,Dollars/store,30079,1264
+Montana,Prairie,0,Dollars/store,30079,1264
 Montana,Ravalli,297843.440625,Dollars/store,30081,1268
 Montana,Richland,124215.66193548385,Dollars/store,30083,1271
 Montana,Roosevelt,394398.7144000001,Dollars/store,30085,1275
 Montana,Rosebud,257113.27333333332,Dollars/store,30087,1277
 Montana,Sanders,82805.24033472803,Dollars/store,30089,1278
-Montana,Sheridan,nan,Dollars/store,30091,1281
+Montana,Sheridan,0,Dollars/store,30091,1281
 Montana,Silver Bow,305597.4695081968,Dollars/store,30093,1284
 Montana,Stillwater,68900.91,Dollars/store,30095,1286
-Montana,Sweet Grass,nan,Dollars/store,30097,1288
-Montana,Teton,nan,Dollars/store,30099,1290
+Montana,Sweet Grass,0,Dollars/store,30097,1288
+Montana,Teton,0,Dollars/store,30099,1290
 Montana,Toole,105193.26214285713,Dollars/store,30101,1292
 Montana,Treasure,0.0,Dollars/store,30103,1293
 Montana,Valley,192983.45272727273,Dollars/store,30105,1296
-Montana,Wheatland,nan,Dollars/store,30107,1298
-Montana,Wibaux,nan,Dollars/store,30109,1300
+Montana,Wheatland,0,Dollars/store,30107,1298
+Montana,Wibaux,0,Dollars/store,30109,1300
 Montana,Yellowstone,348365.7652735426,Dollars/store,30111,1302
 Nebraska,Adams,359691.93898305076,Dollars/store,31001,1303
 Nebraska,Antelope,37927.636666666665,Dollars/store,31003,1305
@@ -1660,11 +1660,11 @@ Nebraska,Banner,0.0,Dollars/store,31007,1308
 Nebraska,Blaine,0.0,Dollars/store,31009,1309
 Nebraska,Boone,28400.04857142857,Dollars/store,31011,1310
 Nebraska,Box Butte,233913.42857142855,Dollars/store,31013,1315
-Nebraska,Boyd,nan,Dollars/store,31015,1317
+Nebraska,Boyd,0,Dollars/store,31015,1317
 Nebraska,Brown,45620.30470588236,Dollars/store,31017,1319
 Nebraska,Buffalo,267136.6046715328,Dollars/store,31019,1321
 Nebraska,Burt,51371.97417721518,Dollars/store,31021,1323
-Nebraska,Butler,nan,Dollars/store,31023,1325
+Nebraska,Butler,0,Dollars/store,31023,1325
 Nebraska,Cass,102264.1805128205,Dollars/store,31025,1326
 Nebraska,Cedar,28447.505806451612,Dollars/store,31027,1329
 Nebraska,Chase,37693.93000000001,Dollars/store,31029,1330
@@ -1677,91 +1677,91 @@ Nebraska,Custer,71440.449375,Dollars/store,31041,1342
 Nebraska,Dakota,527398.314065934,Dollars/store,31043,1344
 Nebraska,Dawes,882038.2474999998,Dollars/store,31045,1347
 Nebraska,Dawson,217629.2452863436,Dollars/store,31047,1349
-Nebraska,Deuel,nan,Dollars/store,31049,1351
-Nebraska,Dixon,nan,Dollars/store,31051,1353
+Nebraska,Deuel,0,Dollars/store,31049,1351
+Nebraska,Dixon,0,Dollars/store,31051,1353
 Nebraska,Dodge,282731.70909090905,Dollars/store,31053,1354
 Nebraska,Douglas,407732.29092805,Dollars/store,31055,1358
-Nebraska,Dundy,nan,Dollars/store,31057,1360
+Nebraska,Dundy,0,Dollars/store,31057,1360
 Nebraska,Fillmore,24751.50375,Dollars/store,31059,1363
-Nebraska,Franklin,nan,Dollars/store,31061,1369
-Nebraska,Frontier,nan,Dollars/store,31063,1371
+Nebraska,Franklin,0,Dollars/store,31061,1369
+Nebraska,Frontier,0,Dollars/store,31063,1371
 Nebraska,Furnas,58222.54,Dollars/store,31065,1374
 Nebraska,Gage,208363.95978260867,Dollars/store,31067,1378
-Nebraska,Garden,nan,Dollars/store,31069,1381
-Nebraska,Garfield,nan,Dollars/store,31071,1391
-Nebraska,Gosper,nan,Dollars/store,31073,1393
-Nebraska,Grant,nan,Dollars/store,31075,1395
-Nebraska,Greeley,nan,Dollars/store,31077,1397
+Nebraska,Garden,0,Dollars/store,31069,1381
+Nebraska,Garfield,0,Dollars/store,31071,1391
+Nebraska,Gosper,0,Dollars/store,31073,1393
+Nebraska,Grant,0,Dollars/store,31075,1395
+Nebraska,Greeley,0,Dollars/store,31077,1397
 Nebraska,Hall,356448.29031325306,Dollars/store,31079,1402
 Nebraska,Hamilton,63733.45548387097,Dollars/store,31081,1405
-Nebraska,Harlan,nan,Dollars/store,31083,1409
-Nebraska,Hayes,nan,Dollars/store,31085,1411
-Nebraska,Hitchcock,nan,Dollars/store,31087,1414
+Nebraska,Harlan,0,Dollars/store,31083,1409
+Nebraska,Hayes,0,Dollars/store,31085,1411
+Nebraska,Hitchcock,0,Dollars/store,31087,1414
 Nebraska,Holt,80827.90848,Dollars/store,31089,1416
-Nebraska,Hooker,nan,Dollars/store,31091,1418
+Nebraska,Hooker,0,Dollars/store,31091,1418
 Nebraska,Howard,46476.369999999995,Dollars/store,31093,1311
 Nebraska,Jefferson,205158.11154929578,Dollars/store,31095,1312
-Nebraska,Johnson,nan,Dollars/store,31097,1313
+Nebraska,Johnson,0,Dollars/store,31097,1313
 Nebraska,Kearney,53814.3225,Dollars/store,31099,1314
 Nebraska,Keith,154033.24592592593,Dollars/store,31101,1316
-Nebraska,Keya Paha,nan,Dollars/store,31103,1318
-Nebraska,Kimball,nan,Dollars/store,31105,1320
+Nebraska,Keya Paha,0,Dollars/store,31103,1318
+Nebraska,Kimball,0,Dollars/store,31105,1320
 Nebraska,Knox,53697.693750000006,Dollars/store,31107,1322
 Nebraska,Lancaster,326478.034856046,Dollars/store,31109,1324
 Nebraska,Lincoln,280737.5359683795,Dollars/store,31111,1327
-Nebraska,Logan,nan,Dollars/store,31113,1328
+Nebraska,Logan,0,Dollars/store,31113,1328
 Nebraska,Loup,0.0,Dollars/store,31115,1331
 Nebraska,McPherson,0.0,Dollars/store,31117,1332
 Nebraska,Madison,303995.76271698123,Dollars/store,31119,1335
 Nebraska,Merrick,72352.72344827586,Dollars/store,31121,1337
 Nebraska,Morrill,69775.086,Dollars/store,31123,1339
-Nebraska,Nance,nan,Dollars/store,31125,1341
+Nebraska,Nance,0,Dollars/store,31125,1341
 Nebraska,Nemaha,87698.41105263159,Dollars/store,31127,1343
 Nebraska,Nuckolls,66572.61894736842,Dollars/store,31129,1345
 Nebraska,Otoe,187428.95714285717,Dollars/store,31131,1348
-Nebraska,Pawnee,nan,Dollars/store,31133,1350
-Nebraska,Perkins,nan,Dollars/store,31135,1352
+Nebraska,Pawnee,0,Dollars/store,31133,1350
+Nebraska,Perkins,0,Dollars/store,31135,1352
 Nebraska,Phelps,95941.01481481483,Dollars/store,31137,1355
-Nebraska,Pierce,nan,Dollars/store,31139,1356
+Nebraska,Pierce,0,Dollars/store,31139,1356
 Nebraska,Platte,301614.6913636364,Dollars/store,31141,1359
-Nebraska,Polk,nan,Dollars/store,31143,1362
+Nebraska,Polk,0,Dollars/store,31143,1362
 Nebraska,Red Willow,454400.95322033897,Dollars/store,31145,1364
 Nebraska,Richardson,130256.24,Dollars/store,31147,1365
-Nebraska,Rock,nan,Dollars/store,31149,1366
+Nebraska,Rock,0,Dollars/store,31149,1366
 Nebraska,Saline,128078.57042016805,Dollars/store,31151,1367
 Nebraska,Sarpy,423496.14271604933,Dollars/store,31153,1368
 Nebraska,Saunders,67744.92495867769,Dollars/store,31155,1370
 Nebraska,Scotts Bluff,388645.5654961833,Dollars/store,31157,1373
 Nebraska,Seward,133062.95714285714,Dollars/store,31159,1375
 Nebraska,Sheridan,314185.94181818183,Dollars/store,31161,1376
-Nebraska,Sherman,nan,Dollars/store,31163,1377
-Nebraska,Sioux,nan,Dollars/store,31165,1380
-Nebraska,Stanton,nan,Dollars/store,31167,1382
+Nebraska,Sherman,0,Dollars/store,31163,1377
+Nebraska,Sioux,0,Dollars/store,31165,1380
+Nebraska,Stanton,0,Dollars/store,31167,1382
 Nebraska,Thayer,29566.355076923075,Dollars/store,31169,1383
-Nebraska,Thomas,nan,Dollars/store,31171,1384
+Nebraska,Thomas,0,Dollars/store,31171,1384
 Nebraska,Thurston,161758.20954545456,Dollars/store,31173,1385
 Nebraska,Valley,85319.52999999998,Dollars/store,31175,1386
 Nebraska,Washington,229902.6,Dollars/store,31177,1387
-Nebraska,Wayne,nan,Dollars/store,31179,1388
-Nebraska,Webster,nan,Dollars/store,31181,1389
+Nebraska,Wayne,0,Dollars/store,31179,1388
+Nebraska,Webster,0,Dollars/store,31181,1389
 Nebraska,Wheeler,0.0,Dollars/store,31183,1390
 Nebraska,York,267168.59,Dollars/store,31185,1392
 Nevada,Churchill,219477.89472000004,Dollars/store,32001,1396
 Nevada,Clark,385060.15664410125,Dollars/store,32003,1399
 Nevada,Douglas,295069.9471129707,Dollars/store,32005,1400
 Nevada,Elko,181704.92195121953,Dollars/store,32007,1401
-Nevada,Esmeralda,nan,Dollars/store,32009,1404
-Nevada,Eureka,nan,Dollars/store,32011,1406
+Nevada,Esmeralda,0,Dollars/store,32009,1404
+Nevada,Eureka,0,Dollars/store,32011,1406
 Nevada,Humboldt,181747.32585365855,Dollars/store,32013,1407
-Nevada,Lander,nan,Dollars/store,32015,1408
+Nevada,Lander,0,Dollars/store,32015,1408
 Nevada,Lincoln,50146.46666666665,Dollars/store,32017,1410
 Nevada,Lyon,242233.49109243695,Dollars/store,32019,1412
 Nevada,Mineral,116344.98688524593,Dollars/store,32021,1415
 Nevada,Nye,318942.9181326781,Dollars/store,32023,1417
-Nevada,Pershing,nan,Dollars/store,32027,1419
-Nevada,Storey,nan,Dollars/store,32029,1420
+Nevada,Pershing,0,Dollars/store,32027,1419
+Nevada,Storey,0,Dollars/store,32029,1420
 Nevada,Washoe,254549.28227604312,Dollars/store,32031,1423
-Nevada,White Pine,nan,Dollars/store,32033,1425
+Nevada,White Pine,0,Dollars/store,32033,1425
 Nevada,Carson City,295855.9029711752,Dollars/store,32510,1428
 New Hampshire,Belknap,223031.69547486037,Dollars/store,33001,1432
 New Hampshire,Carroll,152918.8056931608,Dollars/store,33003,1435
@@ -1800,19 +1800,19 @@ New Mexico,Chaves,398961.14260089694,Dollars/store,35005,1578
 New Mexico,Cibola,535445.2549806951,Dollars/store,35006,1580
 New Mexico,Colfax,314609.79777777777,Dollars/store,35007,1582
 New Mexico,Curry,380574.41963190184,Dollars/store,35009,1586
-New Mexico,De Baca,nan,Dollars/store,35011,1589
+New Mexico,De Baca,0,Dollars/store,35011,1589
 New Mexico,Doña Ana,517268.4511541026,Dollars/store,35013,1590
 New Mexico,Eddy,351851.93670061097,Dollars/store,35015,1592
 New Mexico,Grant,495334.9721311476,Dollars/store,35017,1594
 New Mexico,Guadalupe,76360.52881889763,Dollars/store,35019,1595
-New Mexico,Harding,nan,Dollars/store,35021,1597
+New Mexico,Harding,0,Dollars/store,35021,1597
 New Mexico,Hidalgo,127222.22285714287,Dollars/store,35023,1600
 New Mexico,Lea,337443.90928961756,Dollars/store,35025,1604
 New Mexico,Lincoln,325967.38698795176,Dollars/store,35027,1613
 New Mexico,Los Alamos,297490.1175,Dollars/store,35028,1618
 New Mexico,Luna,629989.6366386556,Dollars/store,35029,1622
 New Mexico,McKinley,709761.1561837455,Dollars/store,35031,1626
-New Mexico,Mora,nan,Dollars/store,35033,1629
+New Mexico,Mora,0,Dollars/store,35033,1629
 New Mexico,Otero,377991.34879606875,Dollars/store,35035,1633
 New Mexico,Quay,281829.4681818182,Dollars/store,35037,1637
 New Mexico,Rio Arriba,457983.45716012083,Dollars/store,35039,1639
@@ -1847,7 +1847,7 @@ New York,Franklin,173291.92475187968,Dollars/store,36033,1731
 New York,Fulton,285305.12731343287,Dollars/store,36035,1734
 New York,Genesee,217246.24915384615,Dollars/store,36037,1736
 New York,Greene,192518.35021739133,Dollars/store,36039,1739
-New York,Hamilton,nan,Dollars/store,36041,1742
+New York,Hamilton,0,Dollars/store,36041,1742
 New York,Herkimer,235013.25145454545,Dollars/store,36043,1745
 New York,Jefferson,223965.5233307393,Dollars/store,36045,1782
 New York,Kings,323766.00117843045,Dollars/store,36047,1788
@@ -1989,54 +1989,54 @@ North Carolina,Wilkes,264736.17803636374,Dollars/store,37193,1817
 North Carolina,Wilson,276975.08052780386,Dollars/store,37195,1819
 North Carolina,Yadkin,179081.73310344826,Dollars/store,37197,1821
 North Carolina,Yancey,442948.68101694906,Dollars/store,37199,1823
-North Dakota,Adams,nan,Dollars/store,38001,1826
+North Dakota,Adams,0,Dollars/store,38001,1826
 North Dakota,Barnes,129454.59407407406,Dollars/store,38003,1828
 North Dakota,Benson,251005.797,Dollars/store,38005,1831
 North Dakota,Billings,0.0,Dollars/store,38007,1833
 North Dakota,Bottineau,410458.8717241379,Dollars/store,38009,1836
 North Dakota,Bowman,29143.438064516125,Dollars/store,38011,1838
-North Dakota,Burke,nan,Dollars/store,38013,1841
+North Dakota,Burke,0,Dollars/store,38013,1841
 North Dakota,Burleigh,418568.82298342534,Dollars/store,38015,1844
 North Dakota,Cass,295491.40739934705,Dollars/store,38017,1848
 North Dakota,Cavalier,45075.88528301886,Dollars/store,38019,1849
 North Dakota,Dickey,57516.684285714284,Dollars/store,38021,2004
-North Dakota,Divide,nan,Dollars/store,38023,2007
+North Dakota,Divide,0,Dollars/store,38023,2007
 North Dakota,Dunn,0.0,Dollars/store,38025,2013
-North Dakota,Eddy,nan,Dollars/store,38027,2017
+North Dakota,Eddy,0,Dollars/store,38027,2017
 North Dakota,Emmons,30639.552000000003,Dollars/store,38029,2021
-North Dakota,Foster,nan,Dollars/store,38031,2026
-North Dakota,Golden Valley,nan,Dollars/store,38033,2036
+North Dakota,Foster,0,Dollars/store,38031,2026
+North Dakota,Golden Valley,0,Dollars/store,38033,2036
 North Dakota,Grand Forks,295666.4733870967,Dollars/store,38035,2043
 North Dakota,Grant,31289.3,Dollars/store,38037,2051
-North Dakota,Griggs,nan,Dollars/store,38039,2056
-North Dakota,Hettinger,nan,Dollars/store,38041,2063
+North Dakota,Griggs,0,Dollars/store,38039,2056
+North Dakota,Hettinger,0,Dollars/store,38041,2063
 North Dakota,Kidder,22956.145,Dollars/store,38043,2068
 North Dakota,LaMoure,20207.24625,Dollars/store,38045,2074
-North Dakota,Logan,nan,Dollars/store,38047,2078
-North Dakota,McHenry,nan,Dollars/store,38049,2082
-North Dakota,McIntosh,nan,Dollars/store,38051,2090
+North Dakota,Logan,0,Dollars/store,38047,2078
+North Dakota,McHenry,0,Dollars/store,38049,2082
+North Dakota,McIntosh,0,Dollars/store,38051,2090
 North Dakota,McKenzie,59749.316065573774,Dollars/store,38053,2097
 North Dakota,McLean,66164.39470588235,Dollars/store,38055,2103
 North Dakota,Mercer,57952.88117647059,Dollars/store,38057,2107
 North Dakota,Morton,161018.89605095537,Dollars/store,38059,2114
 North Dakota,Mountrail,169403.6842857143,Dollars/store,38061,2119
 North Dakota,Nelson,21665.735999999997,Dollars/store,38063,2122
-North Dakota,Oliver,nan,Dollars/store,38065,2127
+North Dakota,Oliver,0,Dollars/store,38065,2127
 North Dakota,Pembina,65363.770909090905,Dollars/store,38067,2131
-North Dakota,Pierce,nan,Dollars/store,38069,2136
+North Dakota,Pierce,0,Dollars/store,38069,2136
 North Dakota,Ramsey,336678.86828571436,Dollars/store,38071,2141
 North Dakota,Ransom,50779.275,Dollars/store,38073,2147
-North Dakota,Renville,nan,Dollars/store,38075,2150
+North Dakota,Renville,0,Dollars/store,38075,2150
 North Dakota,Richland,269022.6520353982,Dollars/store,38077,2156
 North Dakota,Rolette,433876.3608121828,Dollars/store,38079,2161
-North Dakota,Sargent,nan,Dollars/store,38081,2164
-North Dakota,Sheridan,nan,Dollars/store,38083,2169
+North Dakota,Sargent,0,Dollars/store,38081,2164
+North Dakota,Sheridan,0,Dollars/store,38083,2169
 North Dakota,Sioux,454468.46749999997,Dollars/store,38085,2175
 North Dakota,Slope,0.0,Dollars/store,38087,2180
 North Dakota,Stark,217497.60073170732,Dollars/store,38089,2182
-North Dakota,Steele,nan,Dollars/store,38091,2186
+North Dakota,Steele,0,Dollars/store,38091,2186
 North Dakota,Stutsman,259203.27111111113,Dollars/store,38093,2199
-North Dakota,Towner,nan,Dollars/store,38095,2205
+North Dakota,Towner,0,Dollars/store,38095,2205
 North Dakota,Traill,70998.52,Dollars/store,38097,2217
 North Dakota,Walsh,107248.62537313433,Dollars/store,38099,2225
 North Dakota,Ward,284156.18489164085,Dollars/store,38101,2233
@@ -2133,7 +2133,7 @@ Ohio,Wyandot,133088.74447058822,Dollars/store,39175,2093
 Oklahoma,Adair,356030.64636042406,Dollars/store,40001,2095
 Oklahoma,Alfalfa,78973.834,Dollars/store,40003,2099
 Oklahoma,Atoka,208420.54659217873,Dollars/store,40005,2102
-Oklahoma,Beaver,nan,Dollars/store,40007,2104
+Oklahoma,Beaver,0,Dollars/store,40007,2104
 Oklahoma,Beckham,310478.54540540534,Dollars/store,40009,2106
 Oklahoma,Blaine,147134.05726027398,Dollars/store,40011,2110
 Oklahoma,Bryan,261963.35566878988,Dollars/store,40013,2112
@@ -2151,14 +2151,14 @@ Oklahoma,Craig,277222.5263309353,Dollars/store,40035,2148
 Oklahoma,Creek,236031.83828815975,Dollars/store,40037,2151
 Oklahoma,Custer,183389.17538461537,Dollars/store,40039,2153
 Oklahoma,Delaware,209382.561752988,Dollars/store,40041,2154
-Oklahoma,Dewey,nan,Dollars/store,40043,2158
+Oklahoma,Dewey,0,Dollars/store,40043,2158
 Oklahoma,Ellis,78533.9475,Dollars/store,40045,2165
 Oklahoma,Garfield,270374.8775402635,Dollars/store,40047,2167
 Oklahoma,Garvin,238528.38458598728,Dollars/store,40049,2176
 Oklahoma,Grady,227785.90523437504,Dollars/store,40051,2184
 Oklahoma,Grant,45590.03,Dollars/store,40053,2187
 Oklahoma,Greer,175020.3994029851,Dollars/store,40055,2189
-Oklahoma,Harmon,nan,Dollars/store,40057,2191
+Oklahoma,Harmon,0,Dollars/store,40057,2191
 Oklahoma,Harper,59397.005000000005,Dollars/store,40059,2193
 Oklahoma,Haskell,268985.79369458125,Dollars/store,40061,2195
 Oklahoma,Hughes,311015.85714285716,Dollars/store,40063,2197
@@ -2194,7 +2194,7 @@ Oklahoma,Pittsburg,219146.48478063534,Dollars/store,40121,2344
 Oklahoma,Pontotoc,404451.67178571416,Dollars/store,40123,2351
 Oklahoma,Pottawatomie,332160.03219161683,Dollars/store,40125,2356
 Oklahoma,Pushmataha,173269.12329896903,Dollars/store,40127,2362
-Oklahoma,Roger Mills,nan,Dollars/store,40129,2369
+Oklahoma,Roger Mills,0,Dollars/store,40129,2369
 Oklahoma,Rogers,284301.90274353867,Dollars/store,40131,2374
 Oklahoma,Seminole,272156.8504522613,Dollars/store,40133,2384
 Oklahoma,Sequoyah,311292.6710204082,Dollars/store,40135,2391
@@ -2217,7 +2217,7 @@ Oregon,Crook,231131.3376,Dollars/store,41013,2092
 Oregon,Curry,293027.4907526882,Dollars/store,41015,2098
 Oregon,Deschutes,572452.5349958983,Dollars/store,41017,2109
 Oregon,Douglas,360708.26218415395,Dollars/store,41019,2115
-Oregon,Gilliam,nan,Dollars/store,41021,2121
+Oregon,Gilliam,0,Dollars/store,41021,2121
 Oregon,Grant,109318.4265,Dollars/store,41023,2130
 Oregon,Harney,332127.7183333333,Dollars/store,41025,2134
 Oregon,Hood River,287817.632,Dollars/store,41027,2138
@@ -2234,14 +2234,14 @@ Oregon,Marion,491715.4317087193,Dollars/store,41047,2200
 Oregon,Morrow,121498.65542168674,Dollars/store,41049,2209
 Oregon,Multnomah,345372.6939324725,Dollars/store,41051,2218
 Oregon,Polk,212007.86830769226,Dollars/store,41053,2223
-Oregon,Sherman,nan,Dollars/store,41055,2232
+Oregon,Sherman,0,Dollars/store,41055,2232
 Oregon,Tillamook,190817.46707547168,Dollars/store,41057,2242
 Oregon,Umatilla,426358.58556521736,Dollars/store,41059,2251
 Oregon,Union,330889.5789067524,Dollars/store,41061,2257
 Oregon,Wallowa,172549.75578947365,Dollars/store,41063,2263
 Oregon,Wasco,458364.33100371744,Dollars/store,41065,2267
 Oregon,Washington,361894.21960572526,Dollars/store,41067,2272
-Oregon,Wheeler,nan,Dollars/store,41069,2277
+Oregon,Wheeler,0,Dollars/store,41069,2277
 Oregon,Yamhill,405830.8192017739,Dollars/store,41071,2284
 Pennsylvania,Adams,140616.6128244275,Dollars/store,42001,2292
 Pennsylvania,Allegheny,335627.2622367137,Dollars/store,42003,2302
@@ -2269,7 +2269,7 @@ Pennsylvania,Delaware,284165.27711958834,Dollars/store,42045,2414
 Pennsylvania,Elk,171929.19027027022,Dollars/store,42047,2420
 Pennsylvania,Erie,385026.6962371891,Dollars/store,42049,2425
 Pennsylvania,Fayette,364161.35947521834,Dollars/store,42051,2431
-Pennsylvania,Forest,nan,Dollars/store,42053,2436
+Pennsylvania,Forest,0,Dollars/store,42053,2436
 Pennsylvania,Franklin,253089.71480269483,Dollars/store,42055,2439
 Pennsylvania,Fulton,201468.35666666672,Dollars/store,42057,2446
 Pennsylvania,Greene,219598.61669724772,Dollars/store,42059,2447
@@ -2368,65 +2368,65 @@ South Dakota,Bon Homme,66560.97899999999,Dollars/store,46009,2879
 South Dakota,Brookings,199046.62294117647,Dollars/store,46011,2882
 South Dakota,Brown,392273.157486911,Dollars/store,46013,2885
 South Dakota,Brule,133818.79,Dollars/store,46015,2888
-South Dakota,Buffalo,nan,Dollars/store,46017,2891
+South Dakota,Buffalo,0,Dollars/store,46017,2891
 South Dakota,Butte,119454.00095238093,Dollars/store,46019,2895
-South Dakota,Campbell,nan,Dollars/store,46021,2897
+South Dakota,Campbell,0,Dollars/store,46021,2897
 South Dakota,Charles Mix,211054.17,Dollars/store,46023,2900
-South Dakota,Clark,nan,Dollars/store,46025,2901
+South Dakota,Clark,0,Dollars/store,46025,2901
 South Dakota,Clay,400913.78873239434,Dollars/store,46027,2903
 South Dakota,Codington,491814.62,Dollars/store,46029,2906
 South Dakota,Corson,170010.1167123288,Dollars/store,46031,2907
 South Dakota,Custer,69246.89142857143,Dollars/store,46033,2908
 South Dakota,Davison,287492.1525388602,Dollars/store,46035,2910
 South Dakota,Day,55819.16914285714,Dollars/store,46037,2911
-South Dakota,Deuel,nan,Dollars/store,46039,2912
+South Dakota,Deuel,0,Dollars/store,46039,2912
 South Dakota,Dewey,721580.3649999999,Dollars/store,46041,2914
-South Dakota,Douglas,nan,Dollars/store,46043,2916
+South Dakota,Douglas,0,Dollars/store,46043,2916
 South Dakota,Edmunds,21954.6175,Dollars/store,46045,2917
 South Dakota,Fall River,95633.04842105263,Dollars/store,46047,2919
-South Dakota,Faulk,nan,Dollars/store,46049,2921
+South Dakota,Faulk,0,Dollars/store,46049,2921
 South Dakota,Grant,93772.10999999999,Dollars/store,46051,2922
 South Dakota,Gregory,106058.18666666665,Dollars/store,46053,2923
-South Dakota,Haakon,nan,Dollars/store,46055,2924
+South Dakota,Haakon,0,Dollars/store,46055,2924
 South Dakota,Hamlin,15941.7,Dollars/store,46057,2926
-South Dakota,Hand,nan,Dollars/store,46059,2928
+South Dakota,Hand,0,Dollars/store,46059,2928
 South Dakota,Hanson,0.0,Dollars/store,46061,2929
-South Dakota,Harding,nan,Dollars/store,46063,2931
+South Dakota,Harding,0,Dollars/store,46063,2931
 South Dakota,Hughes,336385.2374025974,Dollars/store,46065,2933
 South Dakota,Hutchinson,39856.49840707965,Dollars/store,46067,2934
-South Dakota,Hyde,nan,Dollars/store,46069,2937
+South Dakota,Hyde,0,Dollars/store,46069,2937
 South Dakota,Jackson,138183.0945882353,Dollars/store,46071,2939
-South Dakota,Jerauld,nan,Dollars/store,46073,2941
-South Dakota,Jones,nan,Dollars/store,46075,2944
+South Dakota,Jerauld,0,Dollars/store,46073,2941
+South Dakota,Jones,0,Dollars/store,46075,2944
 South Dakota,Kingsbury,46416.635,Dollars/store,46077,2945
 South Dakota,Lake,153625.54177215192,Dollars/store,46079,2401
 South Dakota,Lawrence,384769.2733333333,Dollars/store,46081,2406
 South Dakota,Lincoln,60785.4427826087,Dollars/store,46083,2410
 South Dakota,Lyman,275177.892,Dollars/store,46085,2417
 South Dakota,McCook,37586.00833333333,Dollars/store,46087,2422
-South Dakota,McPherson,nan,Dollars/store,46089,2426
-South Dakota,Marshall,nan,Dollars/store,46091,2430
+South Dakota,McPherson,0,Dollars/store,46089,2426
+South Dakota,Marshall,0,Dollars/store,46091,2430
 South Dakota,Meade,141183.37533333333,Dollars/store,46093,2442
-South Dakota,Mellette,nan,Dollars/store,46095,2450
-South Dakota,Miner,nan,Dollars/store,46097,2456
+South Dakota,Mellette,0,Dollars/store,46095,2450
+South Dakota,Miner,0,Dollars/store,46097,2456
 South Dakota,Minnehaha,249433.8341734861,Dollars/store,46099,2467
 South Dakota,Moody,80646.8130612245,Dollars/store,46101,2485
 South Dakota,Pennington,473273.62752000004,Dollars/store,46103,2497
 South Dakota,Perkins,49390.405000000006,Dollars/store,46105,2502
 South Dakota,Potter,27160.03,Dollars/store,46107,2506
 South Dakota,Roberts,166249.6453691275,Dollars/store,46109,2511
-South Dakota,Sanborn,nan,Dollars/store,46111,2514
+South Dakota,Sanborn,0,Dollars/store,46111,2514
 South Dakota,Shannon,770117.7827027027,Dollars/store,46113,2519
 South Dakota,Spink,75461.545,Dollars/store,46115,2523
-South Dakota,Stanley,nan,Dollars/store,46117,2530
-South Dakota,Sully,nan,Dollars/store,46119,2535
+South Dakota,Stanley,0,Dollars/store,46117,2530
+South Dakota,Sully,0,Dollars/store,46119,2535
 South Dakota,Todd,571000.4846153847,Dollars/store,46121,2540
 South Dakota,Tripp,131540.18285714288,Dollars/store,46123,2546
 South Dakota,Turner,72196.026,Dollars/store,46125,2550
 South Dakota,Union,49625.47764705883,Dollars/store,46127,2557
 South Dakota,Walworth,333956.9574999999,Dollars/store,46129,2561
 South Dakota,Yankton,509809.92195121944,Dollars/store,46135,2569
-South Dakota,Ziebach,nan,Dollars/store,46137,2578
+South Dakota,Ziebach,0,Dollars/store,46137,2578
 Tennessee,Anderson,348602.868057554,Dollars/store,47001,2584
 Tennessee,Bedford,454322.34127659583,Dollars/store,47003,2593
 Tennessee,Benton,305428.9805263158,Dollars/store,47005,2598
@@ -2527,7 +2527,7 @@ Texas,Andrews,148624.166,Dollars/store,48003,2117
 Texas,Angelina,509059.77774343116,Dollars/store,48005,2124
 Texas,Aransas,201792.96377622377,Dollars/store,48007,2162
 Texas,Archer,25581.125714285714,Dollars/store,48009,2168
-Texas,Armstrong,nan,Dollars/store,48011,2172
+Texas,Armstrong,0,Dollars/store,48011,2172
 Texas,Atascosa,391544.4806249999,Dollars/store,48013,2173
 Texas,Austin,143124.02434782608,Dollars/store,48015,2177
 Texas,Bailey,245694.70447058824,Dollars/store,48017,2179
@@ -2544,7 +2544,7 @@ Texas,Bowie,401449.3201522843,Dollars/store,48037,2224
 Texas,Brazoria,386656.54361067514,Dollars/store,48039,2240
 Texas,Brazos,387270.20385906036,Dollars/store,48041,2253
 Texas,Brewster,169689.5325714286,Dollars/store,48043,2262
-Texas,Briscoe,nan,Dollars/store,48045,2269
+Texas,Briscoe,0,Dollars/store,48045,2269
 Texas,Brooks,323316.9186754966,Dollars/store,48047,2279
 Texas,Brown,250766.36282460132,Dollars/store,48049,2296
 Texas,Burleson,75767.10367346938,Dollars/store,48051,2304
@@ -2572,9 +2572,9 @@ Texas,Comanche,171829.82442477875,Dollars/store,48093,2455
 Texas,Concho,36495.80571428572,Dollars/store,48095,2458
 Texas,Cooke,406190.67466666666,Dollars/store,48097,2463
 Texas,Coryell,405315.11638356163,Dollars/store,48099,2469
-Texas,Cottle,nan,Dollars/store,48101,2473
+Texas,Cottle,0,Dollars/store,48101,2473
 Texas,Crane,75467.84199999998,Dollars/store,48103,2478
-Texas,Crockett,nan,Dollars/store,48105,2483
+Texas,Crockett,0,Dollars/store,48105,2483
 Texas,Crosby,85193.31700000001,Dollars/store,48107,2487
 Texas,Culberson,135306.2725,Dollars/store,48109,2491
 Texas,Dallam,22282.286,Dollars/store,48111,2498
@@ -2584,13 +2584,13 @@ Texas,Deaf Smith,347497.9609756097,Dollars/store,48117,2515
 Texas,Delta,77219.52342857144,Dollars/store,48119,2524
 Texas,Denton,303992.20676669176,Dollars/store,48121,2532
 Texas,DeWitt,217073.29524861876,Dollars/store,48123,2538
-Texas,Dickens,nan,Dollars/store,48125,2542
+Texas,Dickens,0,Dollars/store,48125,2542
 Texas,Dimmit,200963.85252336448,Dollars/store,48127,2548
-Texas,Donley,nan,Dollars/store,48129,2551
+Texas,Donley,0,Dollars/store,48129,2551
 Texas,Duval,36462.55279620853,Dollars/store,48131,2556
 Texas,Eastland,197776.03210526318,Dollars/store,48133,2562
 Texas,Ector,360842.2286436394,Dollars/store,48135,2568
-Texas,Edwards,nan,Dollars/store,48137,2574
+Texas,Edwards,0,Dollars/store,48137,2574
 Texas,Ellis,445613.92183486227,Dollars/store,48139,2579
 Texas,El Paso,487728.079176849,Dollars/store,48141,2588
 Texas,Erath,328954.7949999999,Dollars/store,48143,2597
@@ -2599,7 +2599,7 @@ Texas,Fannin,191334.637012987,Dollars/store,48147,2621
 Texas,Fayette,139108.86735849056,Dollars/store,48149,2624
 Texas,Fisher,48087.46000000001,Dollars/store,48151,2628
 Texas,Floyd,174382.40999999997,Dollars/store,48153,2630
-Texas,Foard,nan,Dollars/store,48155,2002
+Texas,Foard,0,Dollars/store,48155,2002
 Texas,Fort Bend,288838.3150578036,Dollars/store,48157,2009
 Texas,Franklin,159714.81473684206,Dollars/store,48159,2016
 Texas,Freestone,91208.88363636364,Dollars/store,48161,2022
@@ -2609,7 +2609,7 @@ Texas,Galveston,295131.2169111303,Dollars/store,48167,2059
 Texas,Garza,127023.60857142857,Dollars/store,48169,2060
 Texas,Gillespie,382605.4985714285,Dollars/store,48171,2066
 Texas,Glasscock,0.0,Dollars/store,48173,2072
-Texas,Goliad,nan,Dollars/store,48175,2079
+Texas,Goliad,0,Dollars/store,48175,2079
 Texas,Gonzales,265848.8323152709,Dollars/store,48177,2086
 Texas,Gray,253072.37653846157,Dollars/store,48179,2088
 Texas,Grayson,333439.8563598327,Dollars/store,48181,2094
@@ -2624,10 +2624,10 @@ Texas,Hardeman,169862.84816326536,Dollars/store,48197,2137
 Texas,Hardin,321941.7454014599,Dollars/store,48199,2142
 Texas,Harris,405405.9645565651,Dollars/store,48201,2149
 Texas,Harrison,305822.8251903114,Dollars/store,48203,2157
-Texas,Hartley,nan,Dollars/store,48205,2160
+Texas,Hartley,0,Dollars/store,48205,2160
 Texas,Haskell,281412.52571428573,Dollars/store,48207,2163
 Texas,Hays,352629.52335403714,Dollars/store,48209,2166
-Texas,Hemphill,nan,Dollars/store,48211,2171
+Texas,Hemphill,0,Dollars/store,48211,2171
 Texas,Henderson,371010.56584905664,Dollars/store,48213,2178
 Texas,Hidalgo,446095.31819988566,Dollars/store,48215,2188
 Texas,Hill,184900.84070484588,Dollars/store,48217,2201
@@ -2639,11 +2639,11 @@ Texas,Howard,424487.1447715736,Dollars/store,48227,2231
 Texas,Hudspeth,22408.08666666666,Dollars/store,48229,2241
 Texas,Hunt,359534.3660085837,Dollars/store,48231,2246
 Texas,Hutchinson,210277.60173913042,Dollars/store,48233,2249
-Texas,Irion,nan,Dollars/store,48235,2255
+Texas,Irion,0,Dollars/store,48235,2255
 Texas,Jack,96776.65833333333,Dollars/store,48237,2256
 Texas,Jackson,145622.0665945946,Dollars/store,48239,2264
 Texas,Jasper,411125.6344954128,Dollars/store,48241,2271
-Texas,Jeff Davis,nan,Dollars/store,48243,2275
+Texas,Jeff Davis,0,Dollars/store,48243,2275
 Texas,Jefferson,333229.2005335309,Dollars/store,48245,2285
 Texas,Jim Hogg,133774.22201834864,Dollars/store,48247,2288
 Texas,Jim Wells,270301.21714285715,Dollars/store,48249,2294
@@ -2653,7 +2653,7 @@ Texas,Karnes,254275.04210526313,Dollars/store,48255,2307
 Texas,Kaufman,291275.3089539749,Dollars/store,48257,2314
 Texas,Kendall,247100.28561403503,Dollars/store,48259,2319
 Texas,Kenedy,0.0,Dollars/store,48261,2330
-Texas,Kent,nan,Dollars/store,48263,2335
+Texas,Kent,0,Dollars/store,48263,2335
 Texas,Kerr,269129.6366750629,Dollars/store,48265,2337
 Texas,Kimble,122765.714,Dollars/store,48267,2339
 Texas,King,0.0,Dollars/store,48269,2342
@@ -2680,12 +2680,12 @@ Texas,McLennan,361955.12876555027,Dollars/store,48309,2477
 Texas,McMullen,0.0,Dollars/store,48311,2494
 Texas,Madison,206854.6425688073,Dollars/store,48313,2526
 Texas,Marion,101344.31547169811,Dollars/store,48315,2547
-Texas,Martin,nan,Dollars/store,48317,2564
-Texas,Mason,nan,Dollars/store,48319,2570
+Texas,Martin,0,Dollars/store,48317,2564
+Texas,Mason,0,Dollars/store,48319,2570
 Texas,Matagorda,219707.04042553197,Dollars/store,48321,2637
 Texas,Maverick,477040.80509337864,Dollars/store,48323,2649
 Texas,Medina,162737.05974293064,Dollars/store,48325,2652
-Texas,Menard,nan,Dollars/store,48327,2655
+Texas,Menard,0,Dollars/store,48327,2655
 Texas,Midland,288945.30035502947,Dollars/store,48329,2657
 Texas,Milam,220165.85833333342,Dollars/store,48331,2659
 Texas,Mills,72340.235,Dollars/store,48333,2663
@@ -2694,14 +2694,14 @@ Texas,Montague,283862.49547445256,Dollars/store,48337,2669
 Texas,Montgomery,301671.8338579068,Dollars/store,48339,2682
 Texas,Moore,237429.0863768116,Dollars/store,48341,2683
 Texas,Morris,371630.29466666665,Dollars/store,48343,2688
-Texas,Motley,nan,Dollars/store,48345,2692
+Texas,Motley,0,Dollars/store,48345,2692
 Texas,Nacogdoches,567212.749704142,Dollars/store,48347,2701
 Texas,Navarro,351641.1246741573,Dollars/store,48349,2706
 Texas,Newton,167648.85981308413,Dollars/store,48351,2711
 Texas,Nolan,336480.49021276593,Dollars/store,48353,2714
 Texas,Nueces,333695.38738394325,Dollars/store,48355,2194
 Texas,Ochiltree,164180.015483871,Dollars/store,48357,2204
-Texas,Oldham,nan,Dollars/store,48359,2210
+Texas,Oldham,0,Dollars/store,48359,2210
 Texas,Orange,309683.47513583436,Dollars/store,48361,2214
 Texas,Palo Pinto,198290.76419354838,Dollars/store,48363,2220
 Texas,Panola,330351.35,Dollars/store,48365,2227
@@ -2718,34 +2718,34 @@ Texas,Real,40519.68986301369,Dollars/store,48385,2283
 Texas,Red River,81454.60415094337,Dollars/store,48387,2295
 Texas,Reeves,271507.26,Dollars/store,48389,2308
 Texas,Refugio,124130.30311926601,Dollars/store,48391,2334
-Texas,Roberts,nan,Dollars/store,48393,2348
+Texas,Roberts,0,Dollars/store,48393,2348
 Texas,Robertson,139667.8476106195,Dollars/store,48395,2353
 Texas,Rockwall,271662.844,Dollars/store,48397,2355
 Texas,Runnels,127095.01852941175,Dollars/store,48399,2361
 Texas,Rusk,281322.9343157895,Dollars/store,48401,2367
 Texas,Sabine,153309.19400000002,Dollars/store,48403,2370
-Texas,San Augustine,nan,Dollars/store,48405,2380
+Texas,San Augustine,0,Dollars/store,48405,2380
 Texas,San Jacinto,120581.90434782609,Dollars/store,48407,2387
 Texas,San Patricio,229701.66360801784,Dollars/store,48409,2415
 Texas,San Saba,93614.58739726026,Dollars/store,48411,2435
-Texas,Schleicher,nan,Dollars/store,48413,2437
+Texas,Schleicher,0,Dollars/store,48413,2437
 Texas,Scurry,287307.4959999999,Dollars/store,48415,2443
-Texas,Shackelford,nan,Dollars/store,48417,2445
+Texas,Shackelford,0,Dollars/store,48417,2445
 Texas,Shelby,449515.19441860466,Dollars/store,48419,2448
-Texas,Sherman,nan,Dollars/store,48421,2453
+Texas,Sherman,0,Dollars/store,48421,2453
 Texas,Smith,411082.2727032967,Dollars/store,48423,2465
 Texas,Somervell,151631.98608695655,Dollars/store,48425,2470
 Texas,Starr,281189.8582293178,Dollars/store,48427,2474
 Texas,Stephens,142675.06299212595,Dollars/store,48429,2480
-Texas,Sterling,nan,Dollars/store,48431,2481
-Texas,Stonewall,nan,Dollars/store,48433,2486
+Texas,Sterling,0,Dollars/store,48431,2481
+Texas,Stonewall,0,Dollars/store,48433,2486
 Texas,Sutton,45395.89,Dollars/store,48435,2490
 Texas,Swisher,158677.39000000004,Dollars/store,48437,2495
 Texas,Tarrant,351282.79384615354,Dollars/store,48439,2500
 Texas,Taylor,284996.7484700666,Dollars/store,48441,2508
 Texas,Terrell,0.0,Dollars/store,48443,2518
 Texas,Terry,308313.4425688073,Dollars/store,48445,2522
-Texas,Throckmorton,nan,Dollars/store,48447,2525
+Texas,Throckmorton,0,Dollars/store,48447,2525
 Texas,Titus,456730.1167192429,Dollars/store,48449,2531
 Texas,Tom Green,344743.8951295338,Dollars/store,48451,2536
 Texas,Travis,367423.40545350144,Dollars/store,48453,2543
@@ -2780,7 +2780,7 @@ Utah,Beaver,97876.89904761904,Dollars/store,49001,2653
 Utah,Box Elder,245277.16505576205,Dollars/store,49003,2658
 Utah,Cache,361696.0135897436,Dollars/store,49005,2661
 Utah,Carbon,402271.29306122445,Dollars/store,49007,2665
-Utah,Daggett,nan,Dollars/store,49009,2668
+Utah,Daggett,0,Dollars/store,49009,2668
 Utah,Davis,295797.7400995025,Dollars/store,49011,2671
 Utah,Duchesne,175242.96779220778,Dollars/store,49013,2672
 Utah,Emery,86676.65400000001,Dollars/store,49015,2673
@@ -2788,11 +2788,11 @@ Utah,Garfield,63242.259999999995,Dollars/store,49017,2674
 Utah,Grand,163249.42545454548,Dollars/store,49019,2675
 Utah,Iron,518166.2697345133,Dollars/store,49021,2676
 Utah,Juab,105982.22535211267,Dollars/store,49023,2677
-Utah,Kane,nan,Dollars/store,49025,2678
+Utah,Kane,0,Dollars/store,49025,2678
 Utah,Millard,104592.99891891892,Dollars/store,49027,2680
-Utah,Morgan,nan,Dollars/store,49029,2681
-Utah,Piute,nan,Dollars/store,49031,2685
-Utah,Rich,nan,Dollars/store,49033,2687
+Utah,Morgan,0,Dollars/store,49029,2681
+Utah,Piute,0,Dollars/store,49031,2685
+Utah,Rich,0,Dollars/store,49033,2687
 Utah,Salt Lake,326433.6104879252,Dollars/store,49035,2690
 Utah,San Juan,185493.52599999998,Dollars/store,49037,2694
 Utah,Sanpete,336422.746,Dollars/store,49039,2697
@@ -2803,7 +2803,7 @@ Utah,Uintah,225020.16,Dollars/store,49047,2539
 Utah,Utah,460411.02582010574,Dollars/store,49049,2555
 Utah,Wasatch,193272.10099999997,Dollars/store,49051,2567
 Utah,Washington,441623.201518248,Dollars/store,49053,2577
-Utah,Wayne,nan,Dollars/store,49055,2580
+Utah,Wayne,0,Dollars/store,49055,2580
 Utah,Weber,346509.68191977084,Dollars/store,49057,2587
 Vermont,Addison,160329.372543554,Dollars/store,50001,2590
 Vermont,Bennington,244128.80918918917,Dollars/store,50003,2591
@@ -2827,7 +2827,7 @@ Virginia,Amherst,236058.18434782606,Dollars/store,51009,2746
 Virginia,Appomattox,375425.14393700793,Dollars/store,51011,2749
 Virginia,Arlington,131237.47046808514,Dollars/store,51013,2753
 Virginia,Augusta,101790.25866666666,Dollars/store,51015,2758
-Virginia,Bath,nan,Dollars/store,51017,2763
+Virginia,Bath,0,Dollars/store,51017,2763
 Virginia,Bedford County,168228.05985680193,Dollars/store,51019,2769
 Virginia,Bland,20825.154999999995,Dollars/store,51021,2772
 Virginia,Botetourt,70329.33627376425,Dollars/store,51023,2776
@@ -2837,11 +2837,11 @@ Virginia,Buckingham,227066.85570552148,Dollars/store,51029,2785
 Virginia,Campbell,211113.6980604134,Dollars/store,51031,2788
 Virginia,Caroline,175332.2090625,Dollars/store,51033,2793
 Virginia,Carroll,97057.4281865285,Dollars/store,51035,2797
-Virginia,Charles City,nan,Dollars/store,51036,2806
+Virginia,Charles City,0,Dollars/store,51036,2806
 Virginia,Charlotte,120414.73999999998,Dollars/store,51037,2810
 Virginia,Chesterfield,312422.50430898095,Dollars/store,51041,2816
 Virginia,Clarke,99426.58857142855,Dollars/store,51043,2819
-Virginia,Craig,nan,Dollars/store,51045,2820
+Virginia,Craig,0,Dollars/store,51045,2820
 Virginia,Culpeper,308976.92924623116,Dollars/store,51047,2824
 Virginia,Cumberland,57757.46423076924,Dollars/store,51049,2827
 Virginia,Dickenson,119334.75052264804,Dollars/store,51051,2832
@@ -2863,10 +2863,10 @@ Virginia,Halifax,205286.45050434791,Dollars/store,51083,2904
 Virginia,Hanover,406118.43131914904,Dollars/store,51085,2909
 Virginia,Henrico,326927.5999553073,Dollars/store,51087,2915
 Virginia,Henry,261497.99492361932,Dollars/store,51089,2918
-Virginia,Highland,nan,Dollars/store,51091,2920
+Virginia,Highland,0,Dollars/store,51091,2920
 Virginia,Isle of Wight,190974.42662068966,Dollars/store,51093,2925
 Virginia,James City,138346.25410404627,Dollars/store,51095,2930
-Virginia,King and Queen,nan,Dollars/store,51097,2936
+Virginia,King and Queen,0,Dollars/store,51097,2936
 Virginia,King George,310264.52613496926,Dollars/store,51099,2938
 Virginia,King William,167263.8567032967,Dollars/store,51101,2943
 Virginia,Lancaster,225646.42862559244,Dollars/store,51103,2948
@@ -2893,7 +2893,7 @@ Virginia,Prince Edward,387512.44334600755,Dollars/store,51147,2990
 Virginia,Prince George,242218.9850746269,Dollars/store,51149,2991
 Virginia,Prince William,318612.6475147929,Dollars/store,51153,2992
 Virginia,Pulaski,274057.047319149,Dollars/store,51155,2993
-Virginia,Rappahannock,nan,Dollars/store,51157,2994
+Virginia,Rappahannock,0,Dollars/store,51157,2994
 Virginia,Richmond County,159533.7035897436,Dollars/store,51159,2995
 Virginia,Roanoke County,337287.3576811594,Dollars/store,51161,2996
 Virginia,Rockbridge,256280.8851674641,Dollars/store,51163,2997
@@ -2964,7 +2964,7 @@ Washington,Cowlitz,503008.9806617649,Dollars/store,53015,2871
 Washington,Douglas,494933.78528735624,Dollars/store,53017,2877
 Washington,Ferry,115089.11735294116,Dollars/store,53019,2880
 Washington,Franklin,413372.72147100425,Dollars/store,53021,2884
-Washington,Garfield,nan,Dollars/store,53023,2886
+Washington,Garfield,0,Dollars/store,53023,2886
 Washington,Grant,390406.07891770004,Dollars/store,53025,2889
 Washington,Grays Harbor,274902.7567850467,Dollars/store,53027,2894
 Washington,Island,301227.8591596639,Dollars/store,53029,2898
@@ -3065,7 +3065,7 @@ Wisconsin,Door,167114.21921397382,Dollars/store,55029,3131
 Wisconsin,Douglas,361944.7917318436,Dollars/store,55031,3134
 Wisconsin,Dunn,285059.50123636366,Dollars/store,55033,3135
 Wisconsin,Eau Claire,322649.26098535286,Dollars/store,55035,3137
-Wisconsin,Florence,nan,Dollars/store,55037,3138
+Wisconsin,Florence,0,Dollars/store,55037,3138
 Wisconsin,Fond du Lac,286859.26260296535,Dollars/store,55039,3140
 Wisconsin,Forest,132085.12,Dollars/store,55041,3141
 Wisconsin,Grant,157764.88054054053,Dollars/store,55043,3143
@@ -3126,17 +3126,17 @@ Wyoming,Carbon,150699.80421052632,Dollars/store,56007,3022
 Wyoming,Converse,124822.32779220777,Dollars/store,56009,3024
 Wyoming,Crook,30622.464,Dollars/store,56011,3025
 Wyoming,Fremont,270845.00109215017,Dollars/store,56013,3028
-Wyoming,Goshen,nan,Dollars/store,56015,3030
+Wyoming,Goshen,0,Dollars/store,56015,3030
 Wyoming,Hot Springs,93181.6581818182,Dollars/store,56017,3032
 Wyoming,Johnson,39416.548085106384,Dollars/store,56019,3033
 Wyoming,Laramie,294367.9040707965,Dollars/store,56021,3035
 Wyoming,Lincoln,72388.77040000001,Dollars/store,56023,3036
 Wyoming,Natrona,212408.86450097847,Dollars/store,56025,3038
-Wyoming,Niobrara,nan,Dollars/store,56027,3040
+Wyoming,Niobrara,0,Dollars/store,56027,3040
 Wyoming,Park,169490.5769142857,Dollars/store,56029,3043
 Wyoming,Platte,131589.14953846156,Dollars/store,56031,3045
 Wyoming,Sheridan,220561.9336363636,Dollars/store,56033,3047
-Wyoming,Sublette,nan,Dollars/store,56035,3049
+Wyoming,Sublette,0,Dollars/store,56035,3049
 Wyoming,Sweetwater,175896.93991416303,Dollars/store,56037,3051
 Wyoming,Teton,115388.18095238095,Dollars/store,56039,3053
 Wyoming,Uinta,260305.8968571429,Dollars/store,56041,3055
