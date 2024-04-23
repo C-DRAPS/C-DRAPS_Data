@@ -1,0 +1,3144 @@
+State,County,Students eligible for reduced-price lunch (%) 2015 (PCT_REDUCED_LUNCH15),Units,FIPS,FID
+Alabama,Autauga,nan,Percent,1001,5
+Alabama,Baldwin,6.346383886715593,Percent,1003,20
+Alabama,Barbour,2.317527970165157,Percent,1005,25
+Alabama,Bibb,9.060806742925948,Percent,1007,29
+Alabama,Blount,7.895581469990372,Percent,1009,33
+Alabama,Bullock,nan,Percent,1011,37
+Alabama,Butler,5.295055821371611,Percent,1013,39
+Alabama,Calhoun,6.127518630968811,Percent,1015,43
+Alabama,Chambers,5.83623693379791,Percent,1017,47
+Alabama,Cherokee,9.797130133597229,Percent,1019,51
+Alabama,Chilton,5.165956347668862,Percent,1021,56
+Alabama,Choctaw,0.0,Percent,1023,58
+Alabama,Clarke,3.229783037475345,Percent,1025,61
+Alabama,Clay,9.605662285136502,Percent,1027,65
+Alabama,Cleburne,nan,Percent,1029,67
+Alabama,Coffee,5.396049684382,Percent,1031,70
+Alabama,Colbert,6.038617636207109,Percent,1033,73
+Alabama,Conecuh,0.0,Percent,1035,80
+Alabama,Coosa,nan,Percent,1037,82
+Alabama,Covington,6.496815286624204,Percent,1039,88
+Alabama,Crenshaw,nan,Percent,1041,90
+Alabama,Cullman,8.48618436589782,Percent,1043,98
+Alabama,Dale,nan,Percent,1045,101
+Alabama,Dallas,0.0,Percent,1047,110
+Alabama,DeKalb,5.008183306055646,Percent,1049,112
+Alabama,Elmore,7.397218401344949,Percent,1051,118
+Alabama,Escambia,4.931701259535213,Percent,1053,122
+Alabama,Etowah,8.738669730626835,Percent,1055,131
+Alabama,Fayette,7.990012484394507,Percent,1057,134
+Alabama,Franklin,0.0,Percent,1059,138
+Alabama,Geneva,7.1082390953150245,Percent,1061,140
+Alabama,Greene,nan,Percent,1063,148
+Alabama,Hale,5.880163751395608,Percent,1065,150
+Alabama,Henry,6.2204724409448815,Percent,1067,158
+Alabama,Houston,6.141973340136488,Percent,1069,160
+Alabama,Jackson,9.908234126984127,Percent,1071,164
+Alabama,Jefferson,2.858980414225563,Percent,1073,171
+Alabama,Lamar,11.484474691620587,Percent,1075,174
+Alabama,Lauderdale,4.697624190064794,Percent,1077,176
+Alabama,Lawrence,9.584796529642636,Percent,1079,181
+Alabama,Lee,5.442118752669799,Percent,1081,187
+Alabama,Limestone,5.471567267683772,Percent,1083,197
+Alabama,Lowndes,0.0,Percent,1085,205
+Alabama,Macon,0.0,Percent,1087,210
+Alabama,Madison,3.661420375251977,Percent,1089,217
+Alabama,Marengo,5.080831408775981,Percent,1091,220
+Alabama,Marion,8.220937700706486,Percent,1093,224
+Alabama,Marshall,4.9949146796248165,Percent,1095,231
+Alabama,Mobile,0.7348684633691387,Percent,1097,240
+Alabama,Monroe,nan,Percent,1099,250
+Alabama,Montgomery,0.0,Percent,1101,256
+Alabama,Morgan,5.08761143559791,Percent,1103,262
+Alabama,Perry,0.0,Percent,1105,264
+Alabama,Pickens,5.013292821876187,Percent,1107,273
+Alabama,Pike,nan,Percent,1109,279
+Alabama,Randolph,5.623342175066313,Percent,1111,284
+Alabama,Russell,6.804857621440536,Percent,1113,288
+Alabama,St. Clair,5.818487651961159,Percent,1115,292
+Alabama,Shelby,4.89259792542094,Percent,1117,298
+Alabama,Sumter,0.0,Percent,1119,303
+Alabama,Talladega,9.276729559748427,Percent,1121,306
+Alabama,Tallapoosa,6.220813875917278,Percent,1123,308
+Alabama,Tuscaloosa,3.6392075078206467,Percent,1125,313
+Alabama,Walker,5.514045209495886,Percent,1127,317
+Alabama,Washington,8.991825613079019,Percent,1129,319
+Alabama,Wilcox,0.0,Percent,1131,326
+Alabama,Winston,11.153846153846155,Percent,1133,332
+Alaska,Aleutians East,0.0,Percent,2013,346
+Alaska,Aleutians West,5.454545454545454,Percent,2016,381
+Alaska,Anchorage,3.1376082904950127,Percent,2020,400
+Alaska,Bethel,0.0,Percent,2050,411
+Alaska,Bristol Bay,nan,Percent,2060,423
+Alaska,Denali,0.0,Percent,2068,426
+Alaska,Dillingham,0.0,Percent,2070,445
+Alaska,Fairbanks North Star,5.520192006678493,Percent,2090,454
+Alaska,Haines,6.405693950177936,Percent,2100,462
+Alaska,Hoonah-Angoon,4.966887417218543,Percent,2105,476
+Alaska,Juneau,4.24654710368996,Percent,2110,482
+Alaska,Kenai Peninsula,6.694839857651245,Percent,2122,494
+Alaska,Ketchikan Gateway,4.743589743589744,Percent,2130,514
+Alaska,Kodiak Island,6.737880032867707,Percent,2150,533
+Alaska,Lake and Peninsula,4.229607250755287,Percent,2164,544
+Alaska,Matanuska-Susitna,4.905640145828865,Percent,2170,556
+Alaska,Nome,3.1800766283524906,Percent,2180,571
+Alaska,North Slope,6.25305324865657,Percent,2185,614
+Alaska,Northwest Arctic,0.0,Percent,2188,638
+Alaska,Petersburg,7.18954248366013,Percent,2195,645
+Alaska,Prince of Wales-Hyder,3.761061946902655,Percent,2198,669
+Alaska,Sitka,7.5,Percent,2220,679
+Alaska,Skagway,0.0,Percent,2230,683
+Alaska,Southeast Fairbanks,7.212822796081923,Percent,2240,690
+Alaska,Valdez-Cordova,7.096354166666667,Percent,2261,710
+Alaska,Wade Hampton,nan,Percent,2270,725
+Alaska,Wrangell,0.0,Percent,2275,733
+Alaska,Yakutat,0.0,Percent,2282,744
+Alaska,Yukon-Koyukuk,2.1476510067114094,Percent,2290,753
+Arizona,Apache,nan,Percent,4001,761
+Arizona,Cochise,nan,Percent,4003,763
+Arizona,Coconino,nan,Percent,4005,771
+Arizona,Gila,nan,Percent,4007,787
+Arizona,Graham,nan,Percent,4009,0
+Arizona,Greenlee,nan,Percent,4011,1
+Arizona,La Paz,7.270408163265306,Percent,4012,3
+Arizona,Maricopa,9.187046698579639,Percent,4013,9
+Arizona,Mohave,nan,Percent,4015,15
+Arizona,Navajo,nan,Percent,4017,17
+Arizona,Pima,nan,Percent,4019,21
+Arizona,Pinal,9.378836675503994,Percent,4021,26
+Arizona,Santa Cruz,nan,Percent,4023,32
+Arizona,Yavapai,nan,Percent,4025,35
+Arizona,Yuma,nan,Percent,4027,42
+Arkansas,Arkansas,6.002682763246144,Percent,5001,46
+Arkansas,Ashley,8.828875616722929,Percent,5003,50
+Arkansas,Baxter,8.45653459491425,Percent,5005,54
+Arkansas,Benton,8.345789180145008,Percent,5007,59
+Arkansas,Boone,8.632857377318235,Percent,5009,62
+Arkansas,Bradley,7.105136821891503,Percent,5011,68
+Arkansas,Calhoun,13.250883392226148,Percent,5013,72
+Arkansas,Carroll,11.54041687849517,Percent,5015,74
+Arkansas,Chicot,0.0,Percent,5017,77
+Arkansas,Clark,10.308555399719495,Percent,5019,86
+Arkansas,Clay,14.35739096873794,Percent,5021,93
+Arkansas,Cleburne,10.057211683227942,Percent,5023,97
+Arkansas,Cleveland,6.142668428005284,Percent,5025,103
+Arkansas,Columbia,8.100027181299266,Percent,5027,107
+Arkansas,Conway,10.404984423676012,Percent,5029,109
+Arkansas,Craighead,8.564437194127244,Percent,5031,114
+Arkansas,Crawford,9.76325931363553,Percent,5033,115
+Arkansas,Crittenden,3.6296084595598743,Percent,5035,119
+Arkansas,Cross,7.8331332533013205,Percent,5037,124
+Arkansas,Dallas,7.3961499493414395,Percent,5039,128
+Arkansas,Desha,6.714719271623672,Percent,5041,130
+Arkansas,Drew,4.992050874403815,Percent,5043,136
+Arkansas,Faulkner,8.179937403851255,Percent,5045,141
+Arkansas,Franklin,7.312049433573635,Percent,5047,144
+Arkansas,Fulton,12.203791469194313,Percent,5049,146
+Arkansas,Garland,8.109538298716762,Percent,5051,151
+Arkansas,Grant,9.756735547998954,Percent,5053,155
+Arkansas,Greene,10.949834479246244,Percent,5055,162
+Arkansas,Hempstead,3.337010479867623,Percent,5057,172
+Arkansas,Hot Spring,9.410430839002268,Percent,5059,184
+Arkansas,Howard,8.272425249169435,Percent,5061,191
+Arkansas,Independence,10.119139718397028,Percent,5063,200
+Arkansas,Izard,13.163716814159294,Percent,5065,203
+Arkansas,Jackson,10.144927536231885,Percent,5067,209
+Arkansas,Jefferson,3.5748623372082857,Percent,5069,213
+Arkansas,Johnson,8.846074166148748,Percent,5071,218
+Arkansas,Lafayette,8.527918781725887,Percent,5073,222
+Arkansas,Lawrence,11.855345911949685,Percent,5075,230
+Arkansas,Lee,0.0,Percent,5077,237
+Arkansas,Lincoln,8.14950980392157,Percent,5079,244
+Arkansas,Little River,8.86208704771893,Percent,5081,251
+Arkansas,Logan,7.539582809751194,Percent,5083,258
+Arkansas,Lonoke,8.826318476912977,Percent,5085,268
+Arkansas,Madison,12.299465240641712,Percent,5087,277
+Arkansas,Marion,12.224017232094777,Percent,5089,282
+Arkansas,Miller,7.707910750507099,Percent,5091,287
+Arkansas,Mississippi,5.6870363829035675,Percent,5093,294
+Arkansas,Monroe,4.541406945681211,Percent,5095,300
+Arkansas,Montgomery,14.104595879556259,Percent,5097,304
+Arkansas,Nevada,0.0,Percent,5099,307
+Arkansas,Newton,11.75950486295314,Percent,5101,311
+Arkansas,Ouachita,9.225741578682756,Percent,5103,316
+Arkansas,Perry,9.268292682926829,Percent,5105,318
+Arkansas,Phillips,2.091822874218962,Percent,5107,322
+Arkansas,Pike,11.578947368421053,Percent,5109,327
+Arkansas,Poinsett,6.212191717077711,Percent,5111,333
+Arkansas,Polk,9.478527607361963,Percent,5113,337
+Arkansas,Pope,9.772082558935734,Percent,5115,340
+Arkansas,Prairie,14.710743801652892,Percent,5117,345
+Arkansas,Pulaski,4.26744671959883,Percent,5119,350
+Arkansas,Randolph,10.593047034764826,Percent,5121,353
+Arkansas,St. Francis,0.08196721311475409,Percent,5123,357
+Arkansas,Saline,7.399401396740937,Percent,5125,360
+Arkansas,Scott,12.443345694272764,Percent,5127,364
+Arkansas,Searcy,14.393226716839136,Percent,5129,372
+Arkansas,Sebastian,8.455109720932507,Percent,5131,378
+Arkansas,Sevier,7.822410147991543,Percent,5133,390
+Arkansas,Sharp,12.404712404712406,Percent,5135,394
+Arkansas,Stone,12.565141864504922,Percent,5137,399
+Arkansas,Union,7.414672420557081,Percent,5139,403
+Arkansas,Van Buren,0.0,Percent,5141,407
+Arkansas,Washington,8.579688285570638,Percent,5143,417
+Arkansas,White,8.748751824256855,Percent,5145,428
+Arkansas,Woodruff,5.893536121673003,Percent,5147,435
+Arkansas,Yell,8.584091439234896,Percent,5149,438
+California,Alameda,5.861919043140317,Percent,6001,457
+California,Alpine,nan,Percent,6003,461
+California,Amador,9.287469287469287,Percent,6005,472
+California,Butte,7.893464031212718,Percent,6007,486
+California,Calaveras,7.584618110933901,Percent,6009,489
+California,Colusa,16.86390532544379,Percent,6011,497
+California,Contra Costa,5.990589386603246,Percent,6013,503
+California,Del Norte,6.298076923076923,Percent,6015,511
+California,El Dorado,4.776801405975395,Percent,6017,522
+California,Fresno,13.556221558446765,Percent,6019,527
+California,Glenn,10.256410256410255,Percent,6021,537
+California,Humboldt,8.969434676764946,Percent,6023,551
+California,Imperial,7.755526657997399,Percent,6025,557
+California,Inyo,nan,Percent,6027,562
+California,Kern,8.706262994629812,Percent,6029,84
+California,Kings,9.573391178597253,Percent,6031,94
+California,Lake,9.200260078023408,Percent,6033,100
+California,Lassen,10.500113147770989,Percent,6035,104
+California,Los Angeles,9.499928821381395,Percent,6037,139
+California,Madera,10.944088582740529,Percent,6039,153
+California,Marin,3.5758064998355605,Percent,6041,168
+California,Mariposa,nan,Percent,6043,178
+California,Mendocino,10.084033613445378,Percent,6045,190
+California,Merced,10.79049044519475,Percent,6047,204
+California,Modoc,8.820614469772051,Percent,6049,207
+California,Mono,nan,Percent,6051,214
+California,Monterey,8.607103429898359,Percent,6053,228
+California,Napa,10.527075117822449,Percent,6055,236
+California,Nevada,7.90717359102772,Percent,6057,243
+California,Orange,6.180157792122516,Percent,6059,257
+California,Placer,5.539943797671618,Percent,6061,266
+California,Plumas,nan,Percent,6063,275
+California,Riverside,10.708960787237215,Percent,6065,281
+California,Sacramento,9.260163569139355,Percent,6067,289
+California,San Benito,7.116736990154712,Percent,6069,295
+California,San Bernardino,9.662628540969003,Percent,6071,302
+California,San Diego,9.9729719456398,Percent,6073,315
+California,San Francisco,9.056135459521949,Percent,6075,331
+California,San Joaquin,8.92010596765198,Percent,6077,339
+California,San Luis Obispo,7.813934802571167,Percent,6079,351
+California,San Mateo,6.236690632313564,Percent,6081,368
+California,Santa Barbara,11.047768252172272,Percent,6083,391
+California,Santa Clara,6.97158373418784,Percent,6085,406
+California,Santa Cruz,6.245712107737264,Percent,6087,415
+California,Shasta,8.681327101371544,Percent,6089,431
+California,Sierra,nan,Percent,6091,439
+California,Siskiyou,nan,Percent,6093,446
+California,Solano,7.422594271744008,Percent,6095,453
+California,Sonoma,8.685503157713843,Percent,6097,463
+California,Stanislaus,9.759050732534206,Percent,6099,473
+California,Sutter,10.507526051717484,Percent,6101,483
+California,Tehama,nan,Percent,6103,492
+California,Trinity,nan,Percent,6105,500
+California,Tulare,6.9452693689570895,Percent,6107,501
+California,Tuolumne,nan,Percent,6109,513
+California,Ventura,9.014935413553776,Percent,6111,521
+California,Yolo,8.632644342939766,Percent,6113,525
+California,Yuba,11.833895144516962,Percent,6115,541
+Colorado,Adams,8.733702847653884,Percent,8001,545
+Colorado,Alamosa,11.202830188679245,Percent,8003,549
+Colorado,Arapahoe,6.830574954558499,Percent,8005,558
+Colorado,Archuleta,10.058309037900875,Percent,8007,560
+Colorado,Baca,18.488745980707396,Percent,8009,563
+Colorado,Bent,12.70440251572327,Percent,8011,564
+Colorado,Boulder,4.817978273488681,Percent,8013,570
+Colorado,Broomfield,4.575892857142857,Percent,8014,577
+Colorado,Chaffee,12.029746281714786,Percent,8015,582
+Colorado,Cheyenne,12.540192926045016,Percent,8017,587
+Colorado,Clear Creek,3.3482142857142856,Percent,8019,591
+Colorado,Conejos,13.6741214057508,Percent,8021,596
+Colorado,Costilla,9.05587668593449,Percent,8023,599
+Colorado,Crowley,6.51685393258427,Percent,8025,605
+Colorado,Custer,13.231552162849871,Percent,8027,610
+Colorado,Delta,11.215890850722312,Percent,8029,617
+Colorado,Denver,8.082737722736406,Percent,8031,628
+Colorado,Dolores,12.7208480565371,Percent,8033,636
+Colorado,Douglas,3.0528114090470178,Percent,8035,644
+Colorado,Eagle,9.39119170984456,Percent,8037,648
+Colorado,Elbert,5.907429963459196,Percent,8039,655
+Colorado,El Paso,7.7689293176802305,Percent,8041,661
+Colorado,Fremont,12.526539278131635,Percent,8043,664
+Colorado,Garfield,10.88218767559468,Percent,8045,667
+Colorado,Gilpin,3.9301310043668125,Percent,8047,672
+Colorado,Grand,9.742120343839542,Percent,8049,677
+Colorado,Gunnison,4.680422747861098,Percent,8051,682
+Colorado,Hinsdale,11.926605504587156,Percent,8053,688
+Colorado,Huerfano,9.38722294654498,Percent,8055,693
+Colorado,Jackson,14.213197969543149,Percent,8057,701
+Colorado,Jefferson,6.471073055701824,Percent,8059,706
+Colorado,Kiowa,11.158798283261802,Percent,8061,711
+Colorado,Kit Carson,16.67844522968198,Percent,8063,716
+Colorado,Lake,15.27001862197393,Percent,8065,721
+Colorado,La Plata,8.049242424242424,Percent,8067,727
+Colorado,Larimer,7.025361262649399,Percent,8069,734
+Colorado,Las Animas,10.004466279589103,Percent,8071,741
+Colorado,Lincoln,11.484593837535014,Percent,8073,747
+Colorado,Logan,12.483221476510067,Percent,8075,749
+Colorado,Mesa,6.9378812612767415,Percent,8077,751
+Colorado,Mineral,35.714285714285715,Percent,8079,757
+Colorado,Moffat,9.124087591240876,Percent,8081,758
+Colorado,Montezuma,8.997050147492626,Percent,8083,766
+Colorado,Montrose,8.424965154096329,Percent,8085,769
+Colorado,Morgan,12.686429755109558,Percent,8087,775
+Colorado,Otero,11.097334159950403,Percent,8089,777
+Colorado,Ouray,8.63970588235294,Percent,8091,780
+Colorado,Park,6.160287081339713,Percent,8093,782
+Colorado,Phillips,10.64516129032258,Percent,8095,785
+Colorado,Pitkin,4.935459377372816,Percent,8097,789
+Colorado,Prowers,8.904985087345548,Percent,8099,792
+Colorado,Pueblo,7.775235826882698,Percent,8101,795
+Colorado,Rio Blanco,4.8683160415004,Percent,8103,799
+Colorado,Rio Grande,12.233779098563645,Percent,8105,802
+Colorado,Routt,5.191669182010263,Percent,8107,809
+Colorado,Saguache,7.762096774193548,Percent,8109,811
+Colorado,San Juan,18.91891891891892,Percent,8111,347
+Colorado,San Miguel,9.816971713810316,Percent,8113,359
+Colorado,Sedgwick,16.43489254108723,Percent,8115,366
+Colorado,Summit,10.439247005134057,Percent,8117,373
+Colorado,Teller,8.196147110332749,Percent,8119,375
+Colorado,Washington,15.562913907284766,Percent,8121,377
+Colorado,Weld,8.62029559652598,Percent,8123,382
+Colorado,Yuma,12.686980609418283,Percent,8125,385
+Connecticut,Fairfield,4.338522586455575,Percent,9001,410
+Connecticut,Hartford,4.79169175622162,Percent,9003,432
+Connecticut,Litchfield,5.294484911550469,Percent,9005,443
+Connecticut,Middlesex,3.9263688150275406,Percent,9007,450
+Connecticut,New Haven,5.263448842278169,Percent,9009,466
+Connecticut,New London,6.0877188458860845,Percent,9011,517
+Connecticut,Tolland,3.467827671746064,Percent,9013,524
+Connecticut,Windham,6.474736289993589,Percent,9015,529
+Delaware,Kent,0.0,Percent,10001,532
+Delaware,New Castle,0.0,Percent,10003,536
+Delaware,Sussex,0.0,Percent,10005,609
+District of Columbia,District of Columbia,11.11245655885594,Percent,11001,630
+Florida,Alachua,1.8456486042692941,Percent,12001,639
+Florida,Baker,2.5589764094362257,Percent,12003,641
+Florida,Bay,5.140203736366582,Percent,12005,658
+Florida,Bradford,0.0,Percent,12007,665
+Florida,Brevard,2.8389474987277006,Percent,12009,686
+Florida,Broward,5.979382971861946,Percent,12011,695
+Florida,Calhoun,1.134301270417423,Percent,12013,699
+Florida,Charlotte,6.413050245937364,Percent,12015,743
+Florida,Citrus,3.611856310933717,Percent,12017,843
+Florida,Clay,4.301280825845918,Percent,12019,852
+Florida,Collier,4.644084010957951,Percent,12021,894
+Florida,Columbia,1.2678132678132679,Percent,12023,903
+Florida,DeSoto,0.0,Percent,12027,906
+Florida,Dixie,nan,Percent,12029,918
+Florida,Duval,1.2741794007663543,Percent,12031,924
+Florida,Escambia,2.4080678883286186,Percent,12033,931
+Florida,Flagler,5.249729395391991,Percent,12035,935
+Florida,Franklin,0.2329192546583851,Percent,12037,937
+Florida,Gadsden,0.0,Percent,12039,938
+Florida,Gilchrist,0.0,Percent,12041,939
+Florida,Glades,nan,Percent,12043,940
+Florida,Gulf,4.761904761904762,Percent,12045,941
+Florida,Hamilton,nan,Percent,12047,942
+Florida,Hardee,0.0,Percent,12049,943
+Florida,Hendry,0.0,Percent,12051,944
+Florida,Hernando,5.362704825531531,Percent,12053,945
+Florida,Highlands,4.541781154032649,Percent,12055,946
+Florida,Hillsborough,4.90568889854648,Percent,12057,947
+Florida,Holmes,0.0,Percent,12059,948
+Florida,Indian River,3.604204905723344,Percent,12061,949
+Florida,Jackson,5.562043795620438,Percent,12063,950
+Florida,Jefferson,nan,Percent,12065,951
+Florida,Lafayette,nan,Percent,12067,952
+Florida,Lake,17.695822146860724,Percent,12069,953
+Florida,Lee,1.8782376326539552,Percent,12071,954
+Florida,Leon,0.71486189535757,Percent,12073,955
+Florida,Levy,0.0,Percent,12075,956
+Florida,Liberty,0.0,Percent,12077,957
+Florida,Madison,1.7803030303030303,Percent,12079,958
+Florida,Manatee,4.249555399313454,Percent,12081,959
+Florida,Marion,2.31652125227453,Percent,12083,960
+Florida,Martin,1.8374223438980732,Percent,12085,961
+Florida,Miami-Dade,5.532483730867864,Percent,12086,962
+Florida,Monroe,4.029390850912538,Percent,12087,963
+Florida,Nassau,4.557141590566539,Percent,12089,964
+Florida,Okaloosa,5.728180690645603,Percent,12091,965
+Florida,Okeechobee,3.70201096892139,Percent,12093,966
+Florida,Orange,4.249837764517026,Percent,12095,967
+Florida,Osceola,3.6848155163760583,Percent,12097,968
+Florida,Palm Beach,3.331005183197408,Percent,12099,969
+Florida,Pasco,4.626304208957343,Percent,12101,970
+Florida,Pinellas,3.351863329975982,Percent,12103,971
+Florida,Polk,1.3572187944002305,Percent,12105,972
+Florida,Putnam,0.0,Percent,12107,973
+Florida,St. Johns,2.8943832303144315,Percent,12109,974
+Florida,St. Lucie,5.040152410350399,Percent,12111,975
+Florida,Santa Rosa,5.579655946148092,Percent,12113,976
+Florida,Sarasota,5.23296983430109,Percent,12115,977
+Florida,Seminole,6.007821362469401,Percent,12117,978
+Florida,Sumter,4.839465666744785,Percent,12119,979
+Florida,Suwannee,0.0,Percent,12121,980
+Florida,Taylor,0.0,Percent,12123,981
+Florida,Union,0.0,Percent,12125,982
+Florida,Volusia,4.436816679379609,Percent,12127,983
+Florida,Wakulla,2.9908720139832976,Percent,12129,984
+Florida,Walton,4.065958888637904,Percent,12131,985
+Florida,Washington,nan,Percent,12133,986
+Georgia,Appling,8.44407530454042,Percent,13001,987
+Georgia,Atkinson,10.930232558139535,Percent,13003,988
+Georgia,Bacon,2.5174825174825175,Percent,13005,989
+Georgia,Baker,0.0,Percent,13007,990
+Georgia,Baldwin,7.624309392265194,Percent,13009,991
+Georgia,Banks,9.023941068139964,Percent,13011,992
+Georgia,Barrow,9.90393923598183,Percent,13013,993
+Georgia,Bartow,8.270177573712452,Percent,13015,994
+Georgia,Ben Hill,0.0,Percent,13017,995
+Georgia,Berrien,0.0,Percent,13019,996
+Georgia,Bibb,0.07317965605561653,Percent,13021,997
+Georgia,Bleckley,3.7037037037037033,Percent,13023,998
+Georgia,Brantley,0.0,Percent,13025,999
+Georgia,Brooks,0.0,Percent,13027,565
+Georgia,Bryan,8.108415897961507,Percent,13029,573
+Georgia,Bulloch,5.954766676209562,Percent,13031,579
+Georgia,Burke,0.0,Percent,13033,583
+Georgia,Butts,0.0,Percent,13035,588
+Georgia,Calhoun,3.5042735042735043,Percent,13037,592
+Georgia,Camden,9.088896269235027,Percent,13039,603
+Georgia,Candler,6.831728564878496,Percent,13043,616
+Georgia,Carroll,7.933458057339333,Percent,13045,620
+Georgia,Catoosa,8.869999076041763,Percent,13047,626
+Georgia,Charlton,7.474985285462036,Percent,13049,635
+Georgia,Chatham,6.328915788375247,Percent,13051,646
+Georgia,Chattahoochee,nan,Percent,13053,656
+Georgia,Chattooga,9.045584045584047,Percent,13055,659
+Georgia,Cherokee,4.5430858875361215,Percent,13057,662
+Georgia,Clarke,0.0,Percent,13059,666
+Georgia,Clay,0.0,Percent,13061,670
+Georgia,Clayton,2.6540834845735026,Percent,13063,673
+Georgia,Clinch,3.230437903804738,Percent,13065,676
+Georgia,Cobb,5.597809552783693,Percent,13067,680
+Georgia,Coffee,1.0298661174047374,Percent,13069,684
+Georgia,Colquitt,0.0,Percent,13071,689
+Georgia,Columbia,7.339765678842178,Percent,13073,692
+Georgia,Cook,1.5781487101669194,Percent,13075,697
+Georgia,Coweta,6.580284552845528,Percent,13077,700
+Georgia,Crawford,0.0,Percent,13079,704
+Georgia,Crisp,0.0,Percent,13081,707
+Georgia,Dade,12.732342007434944,Percent,13083,708
+Georgia,Dawson,8.763332372441626,Percent,13085,713
+Georgia,Decatur,0.0,Percent,13087,714
+Georgia,DeKalb,3.885221608514078,Percent,13089,718
+Georgia,Dodge,nan,Percent,13091,720
+Georgia,Dooly,0.0,Percent,13093,724
+Georgia,Dougherty,0.0,Percent,13095,728
+Georgia,Douglas,7.775984009840098,Percent,13097,731
+Georgia,Early,0.0,Percent,13099,735
+Georgia,Echols,0.0,Percent,13101,737
+Georgia,Effingham,7.5396825396825395,Percent,13103,742
+Georgia,Elbert,2.273465410847678,Percent,13105,746
+Georgia,Emanuel,0.0,Percent,13107,750
+Georgia,Evans,nan,Percent,13109,754
+Georgia,Fannin,10.301592680447307,Percent,13111,755
+Georgia,Fayette,5.152329749103942,Percent,13113,760
+Georgia,Floyd,5.324215410917084,Percent,13115,764
+Georgia,Forsyth,2.230953348688073,Percent,13117,768
+Georgia,Franklin,7.6098901098901095,Percent,13119,772
+Georgia,Fulton,3.0074469464789115,Percent,13121,779
+Georgia,Gilmer,11.617961511047755,Percent,13123,781
+Georgia,Glascock,9.46643717728055,Percent,13125,783
+Georgia,Glynn,6.721997906385524,Percent,13127,793
+Georgia,Gordon,9.090077732053041,Percent,13129,796
+Georgia,Grady,0.0,Percent,13131,797
+Georgia,Greene,0.0,Percent,13133,800
+Georgia,Gwinnett,7.851085159996749,Percent,13135,804
+Georgia,Habersham,8.779576587795766,Percent,13137,806
+Georgia,Hall,6.751928312159709,Percent,13139,808
+Georgia,Hancock,0.0,Percent,13141,810
+Georgia,Haralson,2.829861111111111,Percent,13143,813
+Georgia,Harris,6.541879372282095,Percent,13145,814
+Georgia,Hart,9.409751924721984,Percent,13147,816
+Georgia,Heard,9.640924741760944,Percent,13149,817
+Georgia,Henry,7.510760401721664,Percent,13151,820
+Georgia,Houston,5.1559761654398875,Percent,13153,823
+Georgia,Irwin,3.2602585722315904,Percent,13155,825
+Georgia,Jackson,7.318255250403877,Percent,13157,828
+Georgia,Jasper,7.873042044517725,Percent,13159,830
+Georgia,Jeff Davis,2.1626856036152353,Percent,13161,832
+Georgia,Jefferson,0.0,Percent,13163,834
+Georgia,Jenkins,0.0,Percent,13165,835
+Georgia,Johnson,0.0,Percent,13167,837
+Georgia,Jones,6.0,Percent,13169,839
+Georgia,Lamar,7.843852608537031,Percent,13171,841
+Georgia,Lanier,0.0,Percent,13173,845
+Georgia,Laurens,5.673214089761879,Percent,13175,847
+Georgia,Lee,7.23397635345364,Percent,13177,849
+Georgia,Liberty,nan,Percent,13179,855
+Georgia,Lincoln,4.590984974958263,Percent,13181,857
+Georgia,Long,11.865864144454,Percent,13183,860
+Georgia,Lowndes,4.389516300873641,Percent,13185,863
+Georgia,Lumpkin,8.46957920128652,Percent,13187,865
+Georgia,McDuffie,9.541894137194399,Percent,13189,868
+Georgia,McIntosh,3.3692722371967654,Percent,13191,871
+Georgia,Macon,0.0,Percent,13193,874
+Georgia,Madison,7.9126637554585155,Percent,13195,875
+Georgia,Marion,0.0,Percent,13197,877
+Georgia,Meriwether,0.0,Percent,13199,879
+Georgia,Miller,0.0,Percent,13201,881
+Georgia,Mitchell,0.0,Percent,13205,883
+Georgia,Monroe,5.658972449739389,Percent,13207,885
+Georgia,Montgomery,0.0,Percent,13209,887
+Georgia,Morgan,4.137931034482759,Percent,13211,890
+Georgia,Murray,7.085789129011133,Percent,13213,892
+Georgia,Muscogee,4.6178393767794015,Percent,13215,896
+Georgia,Newton,7.702065046425491,Percent,13217,899
+Georgia,Oconee,3.7408884610094892,Percent,13219,901
+Georgia,Oglethorpe,6.770098730606488,Percent,13221,905
+Georgia,Paulding,8.092727717068742,Percent,13223,908
+Georgia,Peach,0.0,Percent,13225,910
+Georgia,Pickens,10.735632183908047,Percent,13227,912
+Georgia,Pierce,8.457300275482094,Percent,13229,915
+Georgia,Pike,6.371109806224311,Percent,13231,7
+Georgia,Polk,0.0,Percent,13233,8
+Georgia,Pulaski,3.6664270309130123,Percent,13235,11
+Georgia,Putnam,6.7062521830248,Percent,13237,13
+Georgia,Quitman,0.0,Percent,13239,16
+Georgia,Rabun,10.670194003527337,Percent,13241,18
+Georgia,Randolph,0.0,Percent,13243,23
+Georgia,Richmond,0.0,Percent,13245,24
+Georgia,Rockdale,8.326810765247757,Percent,13247,28
+Georgia,Schley,10.762331838565023,Percent,13249,31
+Georgia,Screven,15.74074074074074,Percent,13251,34
+Georgia,Seminole,0.0,Percent,13253,38
+Georgia,Spalding,8.127862781405321,Percent,13255,41
+Georgia,Stephens,2.126099706744868,Percent,13257,45
+Georgia,Stewart,0.0,Percent,13259,48
+Georgia,Sumter,0.0,Percent,13261,52
+Georgia,Talbot,0.0,Percent,13263,57
+Georgia,Taliaferro,11.44578313253012,Percent,13265,60
+Georgia,Tattnall,0.0,Percent,13267,63
+Georgia,Taylor,8.476912474155755,Percent,13269,69
+Georgia,Telfair,0.0,Percent,13271,75
+Georgia,Terrell,0.0,Percent,13273,78
+Georgia,Thomas,0.48331415420023016,Percent,13275,83
+Georgia,Tift,0.0,Percent,13277,87
+Georgia,Toombs,5.240174672489083,Percent,13279,91
+Georgia,Towns,7.9923882017126555,Percent,13281,95
+Georgia,Treutlen,0.0,Percent,13283,102
+Georgia,Troup,5.421880012832852,Percent,13285,105
+Georgia,Turner,0.0,Percent,13287,108
+Georgia,Twiggs,11.231884057971014,Percent,13289,116
+Georgia,Union,12.002892263195951,Percent,13291,120
+Georgia,Upson,0.0,Percent,13293,123
+Georgia,Walker,11.676300578034681,Percent,13295,126
+Georgia,Walton,7.076135636596289,Percent,13297,127
+Georgia,Ware,0.0,Percent,13299,132
+Georgia,Warren,0.0,Percent,13301,135
+Georgia,Washington,0.0,Percent,13303,143
+Georgia,Wayne,7.5695067264574,Percent,13305,147
+Georgia,Webster,9.296482412060302,Percent,13307,149
+Georgia,Wheeler,0.0,Percent,13309,154
+Georgia,White,8.429752066115702,Percent,13311,157
+Georgia,Whitfield,9.88752411878206,Percent,13313,159
+Georgia,Wilcox,0.0,Percent,13315,163
+Georgia,Wilkes,0.0,Percent,13317,167
+Georgia,Wilkinson,0.0,Percent,13319,169
+Georgia,Worth,0.0,Percent,13321,173
+Hawaii,Hawaii,8.166623041543582,Percent,15001,198
+Hawaii,Honolulu,9.469822734376898,Percent,15003,234
+Hawaii,Kalawao,nan,Percent,15005,247
+Hawaii,Kauai,10.663000305530094,Percent,15007,261
+Hawaii,Maui,11.218445274765333,Percent,15009,323
+Idaho,Ada,8.251953125,Percent,16001,336
+Idaho,Adams,5.121951219512195,Percent,16003,338
+Idaho,Bannock,9.417700231238175,Percent,16005,343
+Idaho,Bear Lake,12.432432432432433,Percent,16007,349
+Idaho,Benewah,10.15625,Percent,16009,354
+Idaho,Bingham,10.933806146572104,Percent,16011,362
+Idaho,Blaine,8.956075299486594,Percent,16013,371
+Idaho,Boise,9.732360097323602,Percent,16015,380
+Idaho,Bonner,8.369522305566521,Percent,16017,387
+Idaho,Bonneville,8.384615384615385,Percent,16019,395
+Idaho,Boundary,11.398601398601398,Percent,16021,405
+Idaho,Butte,12.385321100917432,Percent,16023,414
+Idaho,Camas,6.993006993006993,Percent,16025,429
+Idaho,Canyon,9.751026951207294,Percent,16027,441
+Idaho,Caribou,12.220670391061454,Percent,16029,449
+Idaho,Cassia,10.486406510079526,Percent,16031,456
+Idaho,Clark,27.333333333333332,Percent,16033,464
+Idaho,Clearwater,11.916110581506196,Percent,16035,474
+Idaho,Custer,7.468123861566485,Percent,16037,484
+Idaho,Elmore,9.731766792285525,Percent,16039,490
+Idaho,Franklin,12.921860747947706,Percent,16041,498
+Idaho,Fremont,11.636363636363637,Percent,16043,502
+Idaho,Gem,8.459696727853153,Percent,16045,510
+Idaho,Gooding,9.981401115933044,Percent,16047,519
+Idaho,Idaho,12.772218952324895,Percent,16049,528
+Idaho,Jefferson,10.95931095931096,Percent,16051,540
+Idaho,Jerome,9.604153147306944,Percent,16053,547
+Idaho,Kootenai,8.128834355828221,Percent,16055,552
+Idaho,Latah,12.710084033613445,Percent,16057,559
+Idaho,Lemhi,nan,Percent,16059,566
+Idaho,Lewis,11.007957559681698,Percent,16061,574
+Idaho,Lincoln,13.217213114754097,Percent,16063,578
+Idaho,Madison,14.022683753130064,Percent,16065,581
+Idaho,Minidoka,10.948730234786776,Percent,16067,585
+Idaho,Nez Perce,7.690850539874976,Percent,16069,589
+Idaho,Oneida,12.781954887218044,Percent,16071,593
+Idaho,Owyhee,8.806096528365792,Percent,16073,601
+Idaho,Payette,7.932749230404926,Percent,16075,606
+Idaho,Power,10.677864427114576,Percent,16077,613
+Idaho,Shoshone,6.280788177339902,Percent,16079,621
+Idaho,Teton,11.048478015783541,Percent,16081,627
+Idaho,Twin Falls,10.086888351734501,Percent,16083,634
+Idaho,Valley,8.333333333333332,Percent,16085,643
+Idaho,Washington,8.511837655016912,Percent,16087,649
+Illinois,Adams,6.209007433318758,Percent,17001,650
+Illinois,Alexander,1.2591815320041972,Percent,17003,651
+Illinois,Bond,5.42299349240781,Percent,17005,652
+Illinois,Boone,12.247794788603873,Percent,17007,653
+Illinois,Brown,1.2032085561497325,Percent,17009,654
+Illinois,Bureau,12.233009708737864,Percent,17011,2
+Illinois,Calhoun,8.94454382826476,Percent,17013,4
+Illinois,Carroll,7.553798858146685,Percent,17015,6
+Illinois,Cass,13.235926085088096,Percent,17017,10
+Illinois,Champaign,3.286780640500843,Percent,17019,12
+Illinois,Christian,9.448209099709585,Percent,17021,14
+Illinois,Clark,4.716981132075472,Percent,17023,19
+Illinois,Clay,10.790144435004247,Percent,17025,22
+Illinois,Clinton,5.759066885365409,Percent,17027,27
+Illinois,Coles,6.4176829268292686,Percent,17029,30
+Illinois,Cook,2.1163072002624244,Percent,17031,36
+Illinois,Crawford,9.815523842673164,Percent,17033,40
+Illinois,Cumberland,15.905044510385757,Percent,17035,44
+Illinois,DeKalb,3.321657204976446,Percent,17037,49
+Illinois,De Witt,8.13627254509018,Percent,17039,53
+Illinois,Douglas,6.769130150425115,Percent,17041,55
+Illinois,DuPage,2.52691895121322,Percent,17043,64
+Illinois,Edgar,5.13595166163142,Percent,17045,66
+Illinois,Edwards,5.779716466739368,Percent,17047,71
+Illinois,Effingham,4.292589027911453,Percent,17049,76
+Illinois,Fayette,2.9742233972240584,Percent,17051,79
+Illinois,Ford,6.409295352323838,Percent,17053,81
+Illinois,Franklin,2.7254000950720965,Percent,17055,85
+Illinois,Fulton,7.4733785091965155,Percent,17057,89
+Illinois,Gallatin,7.731958762886598,Percent,17059,92
+Illinois,Greene,1.3014055179593962,Percent,17061,96
+Illinois,Grundy,2.778248348297476,Percent,17063,99
+Illinois,Hamilton,8.78323932312651,Percent,17065,106
+Illinois,Hancock,9.017223910840933,Percent,17067,111
+Illinois,Hardin,0.0,Percent,17069,113
+Illinois,Henderson,9.495896834701055,Percent,17071,117
+Illinois,Henry,5.961357210179076,Percent,17073,121
+Illinois,Iroquois,7.803468208092486,Percent,17075,125
+Illinois,Jackson,10.263157894736842,Percent,17077,129
+Illinois,Jasper,3.080229226361032,Percent,17079,133
+Illinois,Jefferson,4.979184013322231,Percent,17081,137
+Illinois,Jersey,0.5076142131979695,Percent,17083,142
+Illinois,Jo Daviess,5.422408627920911,Percent,17085,145
+Illinois,Johnson,10.712481051035876,Percent,17087,152
+Illinois,Kane,3.031008572335697,Percent,17089,156
+Illinois,Kankakee,3.538763066202091,Percent,17091,161
+Illinois,Kendall,2.7907777013076394,Percent,17093,165
+Illinois,Knox,6.584992343032159,Percent,17095,166
+Illinois,Lake,1.6292261955851717,Percent,17097,170
+Illinois,LaSalle,4.732055063913472,Percent,17099,175
+Illinois,Lawrence,11.407012871726586,Percent,17101,177
+Illinois,Lee,11.488673139158575,Percent,17103,180
+Illinois,Livingston,6.512325116588941,Percent,17105,182
+Illinois,Logan,4.459279038718291,Percent,17107,186
+Illinois,McDonough,6.22636019784696,Percent,17109,189
+Illinois,McHenry,4.1131573674335575,Percent,17111,192
+Illinois,McLean,3.21353721959171,Percent,17113,193
+Illinois,Macon,3.4884437596302007,Percent,17115,194
+Illinois,Macoupin,8.827667057444314,Percent,17117,196
+Illinois,Madison,3.6015446449680826,Percent,17119,199
+Illinois,Marion,2.888647305482218,Percent,17121,201
+Illinois,Marshall,9.607843137254903,Percent,17123,202
+Illinois,Mason,7.3836276083467105,Percent,17125,206
+Illinois,Massac,8.201380430369468,Percent,17127,208
+Illinois,Menard,6.514657980456026,Percent,17129,212
+Illinois,Mercer,4.222011385199241,Percent,17131,216
+Illinois,Monroe,4.6824026098637495,Percent,17133,219
+Illinois,Montgomery,8.181403828623518,Percent,17135,223
+Illinois,Morgan,4.577093440202489,Percent,17137,225
+Illinois,Moultrie,8.358208955223882,Percent,17139,227
+Illinois,Ogle,6.492040194196681,Percent,17141,229
+Illinois,Peoria,2.182525891429763,Percent,17143,233
+Illinois,Perry,8.862629246676514,Percent,17145,235
+Illinois,Piatt,4.485407066052227,Percent,17147,238
+Illinois,Pike,13.209013209013209,Percent,17149,241
+Illinois,Pope,4.3478260869565215,Percent,17151,245
+Illinois,Pulaski,0.0,Percent,17153,248
+Illinois,Putnam,10.222222222222223,Percent,17155,253
+Illinois,Randolph,7.036669970267592,Percent,17157,255
+Illinois,Richland,14.418212478920742,Percent,17159,259
+Illinois,Rock Island,3.7665638046832455,Percent,17161,265
+Illinois,St. Clair,5.051670049824691,Percent,17163,269
+Illinois,Saline,6.455426814849846,Percent,17165,271
+Illinois,Sangamon,1.4368565098396977,Percent,17167,274
+Illinois,Schuyler,9.732988802756244,Percent,17169,278
+Illinois,Scott,9.269988412514484,Percent,17171,280
+Illinois,Shelby,6.477312088673363,Percent,17173,283
+Illinois,Stark,7.166123778501629,Percent,17175,285
+Illinois,Stephenson,3.7410926365795723,Percent,17177,290
+Illinois,Tazewell,7.108771584591922,Percent,17179,291
+Illinois,Union,5.635787249031349,Percent,17181,293
+Illinois,Vermilion,2.6279811636032204,Percent,17183,296
+Illinois,Wabash,11.95266272189349,Percent,17185,299
+Illinois,Warren,2.5997803002563167,Percent,17187,301
+Illinois,Washington,6.888888888888889,Percent,17189,305
+Illinois,Wayne,10.279637652619142,Percent,17191,310
+Illinois,White,9.341317365269461,Percent,17193,312
+Illinois,Whiteside,6.909520739307973,Percent,17195,314
+Illinois,Will,4.0962116656644625,Percent,17197,320
+Illinois,Williamson,8.354186717998074,Percent,17199,324
+Illinois,Winnebago,2.2327633756205185,Percent,17201,325
+Illinois,Woodford,4.938824231572665,Percent,17203,328
+Indiana,Adams,8.465974625144176,Percent,18001,330
+Indiana,Allen,6.863439737470167,Percent,18003,335
+Indiana,Bartholomew,7.624141785087018,Percent,18005,342
+Indiana,Benton,7.146724417975095,Percent,18007,179
+Indiana,Blackford,7.196749854904237,Percent,18009,183
+Indiana,Boone,4.473244147157191,Percent,18011,185
+Indiana,Brown,10.204081632653061,Percent,18013,188
+Indiana,Carroll,9.62671905697446,Percent,18015,195
+Indiana,Cass,9.920336690214942,Percent,18017,211
+Indiana,Clark,7.578959727603617,Percent,18019,215
+Indiana,Clay,9.251101321585903,Percent,18021,221
+Indiana,Clinton,7.074873096446701,Percent,18023,226
+Indiana,Crawford,10.404984423676012,Percent,18025,232
+Indiana,Daviess,7.819383259911894,Percent,18027,239
+Indiana,Dearborn,5.610028546605436,Percent,18029,242
+Indiana,Decatur,10.056127221702525,Percent,18031,246
+Indiana,DeKalb,11.275594908688435,Percent,18033,249
+Indiana,Delaware,7.724505327245053,Percent,18035,252
+Indiana,Dubois,7.153666253955151,Percent,18037,254
+Indiana,Elkhart,9.061126429877966,Percent,18039,260
+Indiana,Fayette,9.561084707855745,Percent,18041,263
+Indiana,Floyd,6.116131191432396,Percent,18043,267
+Indiana,Fountain,6.74955595026643,Percent,18045,270
+Indiana,Franklin,7.684265551489807,Percent,18047,272
+Indiana,Fulton,7.495682210708117,Percent,18049,276
+Indiana,Gibson,7.927565392354125,Percent,18051,286
+Indiana,Grant,7.5626204238921,Percent,18053,297
+Indiana,Greene,7.403882755995432,Percent,18055,309
+Indiana,Hamilton,3.698643830595448,Percent,18057,321
+Indiana,Hancock,5.345814637165403,Percent,18059,329
+Indiana,Harrison,8.93210283454186,Percent,18061,334
+Indiana,Hendricks,6.375240186659346,Percent,18063,341
+Indiana,Henry,8.25242718446602,Percent,18065,344
+Indiana,Howard,7.270491210301672,Percent,18067,348
+Indiana,Huntington,9.15032679738562,Percent,18069,352
+Indiana,Jackson,8.596516074210452,Percent,18071,355
+Indiana,Jasper,7.415094339622641,Percent,18073,356
+Indiana,Jay,10.68835318036596,Percent,18075,358
+Indiana,Jefferson,8.630479218714513,Percent,18077,363
+Indiana,Jennings,11.748695849398956,Percent,18079,367
+Indiana,Johnson,8.251958778802733,Percent,18081,370
+Indiana,Knox,9.131360030953763,Percent,18083,376
+Indiana,Kosciusko,9.766366713448361,Percent,18085,384
+Indiana,LaGrange,13.747346072186836,Percent,18087,386
+Indiana,Lake,5.500176913410036,Percent,18089,389
+Indiana,LaPorte,6.8794032324906755,Percent,18091,392
+Indiana,Lawrence,10.422577273406002,Percent,18093,396
+Indiana,Madison,6.633881460990727,Percent,18095,401
+Indiana,Marion,6.467858579024299,Percent,18097,409
+Indiana,Marshall,10.24074300378834,Percent,18099,412
+Indiana,Martin,8.635097493036211,Percent,18101,418
+Indiana,Miami,9.353011841427836,Percent,18103,420
+Indiana,Monroe,5.73100239672917,Percent,18105,422
+Indiana,Montgomery,7.529411764705881,Percent,18107,425
+Indiana,Morgan,8.302992629429003,Percent,18109,430
+Indiana,Newton,8.165997322623829,Percent,18111,433
+Indiana,Noble,10.508288806685847,Percent,18113,436
+Indiana,Ohio,7.5297225891677675,Percent,18115,440
+Indiana,Orange,8.673630895853119,Percent,18117,444
+Indiana,Owen,8.422664624808576,Percent,18119,448
+Indiana,Parke,7.402422611036339,Percent,18121,452
+Indiana,Perry,7.433808553971486,Percent,18123,459
+Indiana,Pike,8.895866038723181,Percent,18125,465
+Indiana,Porter,6.714322185345928,Percent,18127,468
+Indiana,Posey,6.458036984352773,Percent,18129,471
+Indiana,Pulaski,7.081339712918661,Percent,18131,477
+Indiana,Putnam,8.33623390184476,Percent,18133,480
+Indiana,Randolph,11.254396248534585,Percent,18135,485
+Indiana,Ripley,8.265373594886489,Percent,18137,488
+Indiana,Rush,8.158906450234943,Percent,18139,493
+Indiana,St. Joseph,7.662923652771368,Percent,18141,496
+Indiana,Scott,6.948405496499871,Percent,18143,504
+Indiana,Shelby,7.099391480730223,Percent,18145,506
+Indiana,Spencer,5.9393939393939394,Percent,18147,509
+Indiana,Starke,7.208976157082748,Percent,18149,512
+Indiana,Steuben,10.683530678148546,Percent,18151,515
+Indiana,Sullivan,8.274534958306607,Percent,18153,518
+Indiana,Switzerland,9.294871794871796,Percent,18155,526
+Indiana,Tippecanoe,6.432748538011696,Percent,18157,530
+Indiana,Tipton,7.677008750994431,Percent,18159,534
+Indiana,Union,10.330288123682362,Percent,18161,538
+Indiana,Vanderburgh,8.130081300813007,Percent,18163,543
+Indiana,Vermillion,7.238172260412455,Percent,18165,548
+Indiana,Vigo,8.692206076618229,Percent,18167,553
+Indiana,Wabash,9.440897659121687,Percent,18169,555
+Indiana,Warren,8.710801393728223,Percent,18171,567
+Indiana,Warrick,7.13863143364228,Percent,18173,575
+Indiana,Washington,8.89890840056953,Percent,18175,584
+Indiana,Wayne,8.308298911002629,Percent,18177,586
+Indiana,Wells,6.153529532825684,Percent,18179,590
+Indiana,White,10.18134149005899,Percent,18181,594
+Indiana,Whitley,7.685810810810811,Percent,18183,597
+Iowa,Adair,10.68075117370892,Percent,19001,598
+Iowa,Adams,11.6331096196868,Percent,19003,602
+Iowa,Allamakee,9.647919524462734,Percent,19005,608
+Iowa,Appanoose,7.510080645161291,Percent,19007,611
+Iowa,Audubon,9.115646258503402,Percent,19009,615
+Iowa,Benton,4.265402843601896,Percent,19011,619
+Iowa,Black Hawk,7.260146081607996,Percent,19013,623
+Iowa,Boone,7.555993108540488,Percent,19015,625
+Iowa,Bremer,5.9787234042553195,Percent,19017,631
+Iowa,Buchanan,6.472684085510688,Percent,19019,632
+Iowa,Buena Vista,11.009389671361502,Percent,19021,633
+Iowa,Butler,8.395677472984206,Percent,19023,361
+Iowa,Calhoun,9.620418848167539,Percent,19025,365
+Iowa,Carroll,9.440211990725405,Percent,19027,369
+Iowa,Cass,9.818569903948772,Percent,19029,374
+Iowa,Cedar,4.477611940298507,Percent,19031,379
+Iowa,Cerro Gordo,9.074136195907414,Percent,19033,383
+Iowa,Cherokee,8.058058058058059,Percent,19035,388
+Iowa,Chickasaw,6.014644351464435,Percent,19037,393
+Iowa,Clarke,11.200000000000001,Percent,19039,397
+Iowa,Clay,10.976138828633406,Percent,19041,398
+Iowa,Clayton,9.559434746467165,Percent,19043,402
+Iowa,Clinton,7.232049947970863,Percent,19045,404
+Iowa,Crawford,11.577287066246058,Percent,19047,408
+Iowa,Dallas,4.120267260579064,Percent,19049,413
+Iowa,Davis,nan,Percent,19051,416
+Iowa,Decatur,12.892561983471074,Percent,19053,419
+Iowa,Delaware,9.362549800796813,Percent,19055,421
+Iowa,Des Moines,7.065959059893859,Percent,19057,424
+Iowa,Dickinson,6.284722222222222,Percent,19059,427
+Iowa,Dubuque,6.520806520806522,Percent,19061,434
+Iowa,Emmet,7.839388145315487,Percent,19063,437
+Iowa,Fayette,10.413611029627457,Percent,19065,442
+Iowa,Floyd,6.701868399675061,Percent,19067,447
+Iowa,Franklin,8.58695652173913,Percent,19069,451
+Iowa,Fremont,7.395751376868607,Percent,19071,455
+Iowa,Greene,10.2287166454892,Percent,19073,458
+Iowa,Grundy,6.47571606475716,Percent,19075,460
+Iowa,Guthrie,7.55082284607938,Percent,19077,467
+Iowa,Hamilton,6.105100463678516,Percent,19079,469
+Iowa,Hancock,8.96358543417367,Percent,19081,470
+Iowa,Hardin,7.900826446280992,Percent,19083,475
+Iowa,Harrison,7.581648522550544,Percent,19085,478
+Iowa,Henry,6.923777710294564,Percent,19087,479
+Iowa,Howard,14.529331514324692,Percent,19089,481
+Iowa,Humboldt,7.030223390275952,Percent,19091,487
+Iowa,Ida,9.082397003745319,Percent,19093,491
+Iowa,Iowa,5.611150822015726,Percent,19095,495
+Iowa,Jackson,6.54848046309696,Percent,19097,499
+Iowa,Jasper,7.084421235857268,Percent,19099,505
+Iowa,Jefferson,7.064107799101674,Percent,19101,507
+Iowa,Johnson,4.3213391027100885,Percent,19103,508
+Iowa,Jones,7.887700534759358,Percent,19105,516
+Iowa,Keokuk,7.560137457044673,Percent,19107,520
+Iowa,Kossuth,9.311348205625606,Percent,19109,523
+Iowa,Lee,7.508116883116883,Percent,19111,531
+Iowa,Linn,5.035441657579062,Percent,19113,535
+Iowa,Louisa,7.034142328259975,Percent,19115,539
+Iowa,Lucas,7.450980392156863,Percent,19117,542
+Iowa,Lyon,6.935630099728014,Percent,19119,546
+Iowa,Madison,5.094569859670531,Percent,19121,550
+Iowa,Mahaska,7.0284406668846025,Percent,19123,554
+Iowa,Marion,5.698364191982743,Percent,19125,561
+Iowa,Marshall,7.800138792505204,Percent,19127,568
+Iowa,Mills,6.051080550098232,Percent,19129,569
+Iowa,Mitchell,10.532761788120025,Percent,19131,572
+Iowa,Monona,10.896445131375579,Percent,19133,576
+Iowa,Monroe,7.8861788617886175,Percent,19135,580
+Iowa,Montgomery,8.666666666666668,Percent,19137,595
+Iowa,Muscatine,6.764343420512119,Percent,19139,600
+Iowa,O'Brien,8.682634730538922,Percent,19141,604
+Iowa,Osceola,7.169344870210136,Percent,19143,607
+Iowa,Page,7.1915215745647245,Percent,19145,612
+Iowa,Palo Alto,9.514563106796116,Percent,19147,618
+Iowa,Plymouth,7.063645130183222,Percent,19149,622
+Iowa,Pocahontas,11.041009463722396,Percent,19151,624
+Iowa,Polk,6.635188220297095,Percent,19153,629
+Iowa,Pottawattamie,9.19691555388377,Percent,19155,637
+Iowa,Poweshiek,7.7308518253400145,Percent,19157,640
+Iowa,Ringgold,8.5219707057257,Percent,19159,642
+Iowa,Sac,11.78838412880966,Percent,19161,647
+Iowa,Scott,5.102223495291632,Percent,19163,657
+Iowa,Shelby,6.820461384152457,Percent,19165,660
+Iowa,Sioux,9.729289639731325,Percent,19167,663
+Iowa,Story,4.822267529474337,Percent,19169,668
+Iowa,Tama,9.947447447447448,Percent,19171,671
+Iowa,Taylor,10.258964143426295,Percent,19173,674
+Iowa,Union,8.787255909558068,Percent,19175,675
+Iowa,Van Buren,13.77049180327869,Percent,19177,678
+Iowa,Wapello,5.965362411802437,Percent,19179,681
+Iowa,Warren,5.422880383773073,Percent,19181,685
+Iowa,Washington,7.791205965543842,Percent,19183,687
+Iowa,Wayne,11.339198435972628,Percent,19185,691
+Iowa,Webster,9.790483649892305,Percent,19187,694
+Iowa,Winnebago,9.67741935483871,Percent,19189,696
+Iowa,Winneshiek,10.324263883712263,Percent,19191,698
+Iowa,Woodbury,9.531387181738367,Percent,19193,702
+Iowa,Worth,8.906882591093117,Percent,19195,703
+Iowa,Wright,7.70410118819471,Percent,19197,705
+Kansas,Allen,13.455377574370708,Percent,20001,709
+Kansas,Anderson,12.409347300564061,Percent,20003,712
+Kansas,Atchison,11.688311688311687,Percent,20005,715
+Kansas,Barber,15.0,Percent,20007,717
+Kansas,Barton,10.953817591088418,Percent,20009,719
+Kansas,Bourbon,11.26164267569856,Percent,20011,722
+Kansas,Brown,10.408163265306122,Percent,20013,723
+Kansas,Butler,6.8431891732862615,Percent,20015,726
+Kansas,Chase,7.062146892655368,Percent,20017,729
+Kansas,Chautauqua,9.63855421686747,Percent,20019,730
+Kansas,Cherokee,12.928552734886157,Percent,20021,732
+Kansas,Cheyenne,13.397129186602871,Percent,20023,736
+Kansas,Clark,10.986547085201794,Percent,20025,738
+Kansas,Clay,12.54506128334535,Percent,20027,739
+Kansas,Cloud,16.69024045261669,Percent,20029,740
+Kansas,Coffey,10.784313725490197,Percent,20031,745
+Kansas,Comanche,9.243697478991598,Percent,20033,748
+Kansas,Cowley,12.888301387970918,Percent,20035,752
+Kansas,Crawford,8.062067802327542,Percent,20037,756
+Kansas,Decatur,11.976047904191617,Percent,20039,759
+Kansas,Dickinson,12.610205717339031,Percent,20041,762
+Kansas,Doniphan,10.07591442374051,Percent,20043,765
+Kansas,Douglas,7.969689051476352,Percent,20045,767
+Kansas,Edwards,13.77672209026128,Percent,20047,770
+Kansas,Elk,13.692946058091287,Percent,20049,773
+Kansas,Ellis,10.177108115252445,Percent,20051,774
+Kansas,Ellsworth,13.034410844629823,Percent,20053,776
+Kansas,Finney,12.359166951177876,Percent,20055,778
+Kansas,Ford,10.126582278481013,Percent,20057,784
+Kansas,Franklin,9.562471808750564,Percent,20059,786
+Kansas,Geary,19.446030839520272,Percent,20061,788
+Kansas,Gove,10.9375,Percent,20063,790
+Kansas,Graham,14.499999999999998,Percent,20065,791
+Kansas,Grant,12.216694306246545,Percent,20067,794
+Kansas,Gray,10.884353741496598,Percent,20069,798
+Kansas,Greeley,20.0,Percent,20071,801
+Kansas,Greenwood,9.25925925925926,Percent,20073,803
+Kansas,Hamilton,12.867647058823529,Percent,20075,805
+Kansas,Harper,11.848341232227488,Percent,20077,807
+Kansas,Harvey,11.15796872254437,Percent,20079,812
+Kansas,Haskell,10.780669144981413,Percent,20081,815
+Kansas,Hodgeman,18.243243243243242,Percent,20083,818
+Kansas,Jackson,7.801724137931035,Percent,20085,819
+Kansas,Jefferson,11.661631419939578,Percent,20087,821
+Kansas,Jewell,14.56953642384106,Percent,20089,822
+Kansas,Johnson,6.165662840234202,Percent,20091,824
+Kansas,Kearny,13.105076741440378,Percent,20093,826
+Kansas,Kingman,10.582959641255606,Percent,20095,827
+Kansas,Kiowa,14.174757281553399,Percent,20097,829
+Kansas,Labette,13.63011816433086,Percent,20099,831
+Kansas,Lane,13.750000000000002,Percent,20101,833
+Kansas,Leavenworth,8.439429747655714,Percent,20103,836
+Kansas,Lincoln,17.536534446764094,Percent,20105,838
+Kansas,Linn,12.103281334050566,Percent,20107,840
+Kansas,Logan,11.220472440944881,Percent,20109,842
+Kansas,Lyon,11.235356762513312,Percent,20111,844
+Kansas,McPherson,9.972144846796658,Percent,20113,846
+Kansas,Marion,12.636062470421203,Percent,20115,848
+Kansas,Marshall,14.020857473928158,Percent,20117,850
+Kansas,Meade,12.760416666666666,Percent,20119,851
+Kansas,Miami,9.11066835718167,Percent,20121,853
+Kansas,Mitchell,12.376237623762377,Percent,20123,854
+Kansas,Montgomery,10.4436735439109,Percent,20125,856
+Kansas,Morris,18.377088305489263,Percent,20127,858
+Kansas,Morton,14.788732394366196,Percent,20129,859
+Kansas,Nemaha,9.790922998470169,Percent,20131,861
+Kansas,Neosho,13.024118738404452,Percent,20133,862
+Kansas,Ness,11.032863849765258,Percent,20135,864
+Kansas,Norton,16.36798088410992,Percent,20137,866
+Kansas,Osage,11.50278293135436,Percent,20139,867
+Kansas,Osborne,14.414414414414415,Percent,20141,869
+Kansas,Ottawa,11.641067097817299,Percent,20143,870
+Kansas,Pawnee,13.556338028169016,Percent,20145,872
+Kansas,Phillips,12.777191129883844,Percent,20147,873
+Kansas,Pottawatomie,10.8085579327591,Percent,20149,876
+Kansas,Pratt,6.976744186046512,Percent,20151,878
+Kansas,Rawlins,13.736263736263737,Percent,20153,880
+Kansas,Reno,12.274481176347898,Percent,20155,882
+Kansas,Republic,16.27906976744186,Percent,20157,884
+Kansas,Rice,11.705120990433313,Percent,20159,886
+Kansas,Riley,11.567357512953368,Percent,20161,888
+Kansas,Rooks,13.291925465838508,Percent,20163,889
+Kansas,Rush,8.151093439363818,Percent,20165,891
+Kansas,Russell,14.03688524590164,Percent,20167,893
+Kansas,Saline,12.577696526508229,Percent,20169,895
+Kansas,Scott,14.15478615071283,Percent,20171,897
+Kansas,Sedgwick,8.371056726552553,Percent,20173,898
+Kansas,Seward,9.742944454431063,Percent,20175,900
+Kansas,Shawnee,7.43203666057954,Percent,20177,902
+Kansas,Sheridan,9.090909090909092,Percent,20179,904
+Kansas,Sherman,14.333333333333334,Percent,20181,907
+Kansas,Smith,14.39539347408829,Percent,20183,909
+Kansas,Stafford,14.880952380952381,Percent,20185,911
+Kansas,Stanton,17.073170731707318,Percent,20187,913
+Kansas,Stevens,13.12828207051763,Percent,20189,914
+Kansas,Sumner,11.552631578947368,Percent,20191,916
+Kansas,Thomas,9.930313588850174,Percent,20193,917
+Kansas,Trego,5.555555555555555,Percent,20195,919
+Kansas,Wabaunsee,12.649402390438247,Percent,20197,920
+Kansas,Wallace,13.090909090909092,Percent,20199,921
+Kansas,Washington,13.275193798449614,Percent,20201,922
+Kansas,Wichita,12.322274881516588,Percent,20203,923
+Kansas,Wilson,11.395490554539915,Percent,20205,925
+Kansas,Woodson,13.034623217922606,Percent,20207,926
+Kansas,Wyandotte,7.731458228695798,Percent,20209,927
+Kentucky,Adair,5.132019338043882,Percent,21001,928
+Kentucky,Allen,6.15434711820254,Percent,21003,929
+Kentucky,Anderson,5.851482550511677,Percent,21005,930
+Kentucky,Ballard,4.741064916119621,Percent,21007,932
+Kentucky,Barren,6.1255742725880555,Percent,21009,933
+Kentucky,Bath,7.02576112412178,Percent,21011,934
+Kentucky,Bell,5.20016508460586,Percent,21013,936
+Kentucky,Boone,4.487034949267192,Percent,21015,1002
+Kentucky,Bourbon,4.782847718526663,Percent,21017,1005
+Kentucky,Boyd,5.953827460510328,Percent,21019,1008
+Kentucky,Boyle,5.412316215640316,Percent,21021,1010
+Kentucky,Bracken,7.858048162230672,Percent,21023,1013
+Kentucky,Breathitt,3.41079460269865,Percent,21025,1017
+Kentucky,Breckinridge,4.069767441860465,Percent,21027,1020
+Kentucky,Bullitt,4.237351468500112,Percent,21029,1024
+Kentucky,Butler,7.039711191335741,Percent,21031,1026
+Kentucky,Caldwell,5.873786407766991,Percent,21033,1031
+Kentucky,Calloway,6.3132335087009315,Percent,21035,1033
+Kentucky,Campbell,4.824968367777309,Percent,21037,1035
+Kentucky,Carlisle,6.565656565656567,Percent,21039,1039
+Kentucky,Carroll,4.318618042226487,Percent,21041,1041
+Kentucky,Carter,6.061255086742343,Percent,21043,1044
+Kentucky,Casey,6.926036767849508,Percent,21045,1048
+Kentucky,Christian,7.363737486095662,Percent,21047,1050
+Kentucky,Clark,4.9387166546503245,Percent,21049,1053
+Kentucky,Clay,4.537366548042705,Percent,21051,1056
+Kentucky,Clinton,4.737732656514383,Percent,21053,1059
+Kentucky,Crittenden,nan,Percent,21055,1064
+Kentucky,Cumberland,7.626208378088077,Percent,21057,1067
+Kentucky,Daviess,6.6965338363593485,Percent,21059,1071
+Kentucky,Edmonson,7.248596222562533,Percent,21061,1073
+Kentucky,Elliott,3.477443609022556,Percent,21063,1075
+Kentucky,Estill,5.480540111199365,Percent,21065,1077
+Kentucky,Fayette,3.4037759874623505,Percent,21067,1080
+Kentucky,Fleming,5.457670820799312,Percent,21069,1083
+Kentucky,Floyd,5.006609385327165,Percent,21071,1085
+Kentucky,Franklin,4.509913432002234,Percent,21073,1086
+Kentucky,Fulton,5.687693898655636,Percent,21075,1088
+Kentucky,Gallatin,5.083766608896592,Percent,21077,1090
+Kentucky,Garrard,3.9985190670122175,Percent,21079,1092
+Kentucky,Grant,7.044567673033478,Percent,21081,1094
+Kentucky,Graves,5.080506487415977,Percent,21083,1097
+Kentucky,Grayson,6.785795068988916,Percent,21085,1100
+Kentucky,Green,9.019843656043296,Percent,21087,1102
+Kentucky,Greenup,4.473304473304474,Percent,21089,1105
+Kentucky,Hancock,6.61547548730065,Percent,21091,1107
+Kentucky,Hardin,6.32436178814832,Percent,21093,1110
+Kentucky,Harlan,3.0719482619240095,Percent,21095,1114
+Kentucky,Harrison,5.331556147950684,Percent,21097,1119
+Kentucky,Hart,4.862888482632541,Percent,21099,1121
+Kentucky,Henderson,3.809147225517332,Percent,21101,1126
+Kentucky,Henry,5.3355704697986575,Percent,21103,1129
+Kentucky,Hickman,6.569343065693431,Percent,21105,1130
+Kentucky,Hopkins,4.580645161290323,Percent,21107,1136
+Kentucky,Jackson,nan,Percent,21109,1140
+Kentucky,Jefferson,4.334678418814011,Percent,21111,1143
+Kentucky,Jessamine,5.097560975609756,Percent,21113,1145
+Kentucky,Johnson,4.483814523184602,Percent,21115,1148
+Kentucky,Kenton,4.40411165111178,Percent,21117,1151
+Kentucky,Knott,3.47970173985087,Percent,21119,1154
+Kentucky,Knox,0.6981740064446832,Percent,21121,1159
+Kentucky,Larue,6.546370121695342,Percent,21123,1162
+Kentucky,Laurel,5.402112103980504,Percent,21125,1166
+Kentucky,Lawrence,3.9044730856709626,Percent,21127,1167
+Kentucky,Lee,3.6998972250770814,Percent,21129,1171
+Kentucky,Leslie,5.714285714285714,Percent,21131,1175
+Kentucky,Letcher,4.499590946277611,Percent,21133,1178
+Kentucky,Lewis,5.519053876478318,Percent,21135,1180
+Kentucky,Lincoln,2.281947261663286,Percent,21137,1184
+Kentucky,Livingston,5.961844197138315,Percent,21139,1187
+Kentucky,Logan,6.705729166666667,Percent,21141,1190
+Kentucky,Lyon,6.986899563318777,Percent,21143,1193
+Kentucky,McCracken,4.898797301261367,Percent,21145,1196
+Kentucky,McCreary,5.273833671399594,Percent,21147,1198
+Kentucky,McLean,4.838709677419355,Percent,21149,1201
+Kentucky,Madison,5.533718689788054,Percent,21151,1204
+Kentucky,Magoffin,1.5567765567765568,Percent,21153,1206
+Kentucky,Marion,7.342549923195084,Percent,21155,1210
+Kentucky,Marshall,4.712362301101591,Percent,21157,1213
+Kentucky,Martin,2.3422562141491396,Percent,21159,1215
+Kentucky,Mason,6.553911205073996,Percent,21161,1217
+Kentucky,Meade,8.610999598554796,Percent,21163,1220
+Kentucky,Menifee,7.121661721068249,Percent,21165,1222
+Kentucky,Mercer,5.638766519823789,Percent,21167,1225
+Kentucky,Metcalfe,4.9397590361445785,Percent,21169,1228
+Kentucky,Monroe,4.695089044792229,Percent,21171,1230
+Kentucky,Montgomery,5.930470347648262,Percent,21173,1233
+Kentucky,Morgan,5.714285714285714,Percent,21175,1235
+Kentucky,Muhlenberg,5.036830579335059,Percent,21177,1238
+Kentucky,Nelson,6.675514266755142,Percent,21179,1243
+Kentucky,Nicholas,4.8141891891891895,Percent,21181,1246
+Kentucky,Ohio,5.93376264949402,Percent,21183,1249
+Kentucky,Oldham,3.156011062306816,Percent,21185,1252
+Kentucky,Owen,3.8364462392730947,Percent,21187,1255
+Kentucky,Owsley,2.1505376344086025,Percent,21189,1257
+Kentucky,Pendleton,6.561360874848117,Percent,21191,1260
+Kentucky,Perry,5.046047582501919,Percent,21193,1265
+Kentucky,Pike,5.522663301950888,Percent,21195,1267
+Kentucky,Powell,5.469387755102041,Percent,21197,1270
+Kentucky,Pulaski,6.443665308443097,Percent,21199,1272
+Kentucky,Robertson,6.434316353887399,Percent,21201,1273
+Kentucky,Rockcastle,7.310248338579924,Percent,21203,1276
+Kentucky,Rowan,4.361179361179361,Percent,21205,1279
+Kentucky,Russell,5.408095554080956,Percent,21207,1282
+Kentucky,Scott,4.576028228029552,Percent,21209,1283
+Kentucky,Shelby,5.686526646663809,Percent,21211,1285
+Kentucky,Simpson,6.256173855778729,Percent,21213,1287
+Kentucky,Spencer,3.850050658561297,Percent,21215,1000
+Kentucky,Taylor,4.929577464788732,Percent,21217,1003
+Kentucky,Todd,7.349454717875771,Percent,21219,1006
+Kentucky,Trigg,5.612493899463153,Percent,21221,1009
+Kentucky,Trimble,4.636233951497861,Percent,21223,1012
+Kentucky,Union,7.164971251658558,Percent,21225,1016
+Kentucky,Warren,5.739330063654388,Percent,21227,1019
+Kentucky,Washington,6.5857885615251295,Percent,21229,1023
+Kentucky,Wayne,6.134429116524802,Percent,21231,1027
+Kentucky,Webster,6.436285097192225,Percent,21233,1029
+Kentucky,Whitley,4.198935140367861,Percent,21235,1034
+Kentucky,Wolfe,2.7149321266968327,Percent,21237,1037
+Kentucky,Woodford,3.5345034864150033,Percent,21239,1042
+Louisiana,Acadia,1.8387834211311003,Percent,22001,1046
+Louisiana,Allen,6.482564942663234,Percent,22003,1051
+Louisiana,Ascension,5.612128407689849,Percent,22005,1055
+Louisiana,Assumption,5.411314566821536,Percent,22007,1060
+Louisiana,Avoyelles,1.3273653341565055,Percent,22009,1062
+Louisiana,Beauregard,7.153627073211593,Percent,22011,1066
+Louisiana,Bienville,0.0,Percent,22013,1069
+Louisiana,Bossier,4.195956861546522,Percent,22015,1076
+Louisiana,Caddo,2.969706014027757,Percent,22017,1079
+Louisiana,Calcasieu,3.7641191139797567,Percent,22019,1081
+Louisiana,Caldwell,8.469055374592834,Percent,22021,1084
+Louisiana,Cameron,6.69710806697108,Percent,22023,1089
+Louisiana,Catahoula,6.263048016701461,Percent,22025,1093
+Louisiana,Claiborne,0.0,Percent,22027,1095
+Louisiana,Concordia,4.151530877010898,Percent,22029,1098
+Louisiana,De Soto,1.2697792537605002,Percent,22031,1103
+Louisiana,East Baton Rouge,1.8984505058266103,Percent,22033,1108
+Louisiana,East Carroll,0.0,Percent,22035,1111
+Louisiana,East Feliciana,7.395038167938932,Percent,22037,1115
+Louisiana,Evangeline,3.9582643259357404,Percent,22039,1118
+Louisiana,Franklin,0.0,Percent,22041,1123
+Louisiana,Grant,7.145145786606857,Percent,22043,1127
+Louisiana,Iberia,0.0,Percent,22045,1133
+Louisiana,Iberville,0.0,Percent,22047,1134
+Louisiana,Jackson,4.916553901668922,Percent,22049,1138
+Louisiana,Jefferson,6.938884440886042,Percent,22051,1147
+Louisiana,Jefferson Davis,5.09053638537752,Percent,22053,1155
+Louisiana,Lafayette,4.6260119401118995,Percent,22055,1161
+Louisiana,Lafourche,7.224693354899582,Percent,22057,1280
+Louisiana,La Salle,6.313799621928166,Percent,22059,1289
+Louisiana,Lincoln,nan,Percent,22061,1291
+Louisiana,Livingston,9.600279959561396,Percent,22063,1295
+Louisiana,Madison,1.1217049915872126,Percent,22065,1297
+Louisiana,Morehouse,0.0,Percent,22067,1299
+Louisiana,Natchitoches,2.524357838795394,Percent,22069,1301
+Louisiana,Orleans,nan,Percent,22071,1304
+Louisiana,Ouachita,2.7725465578572925,Percent,22073,1306
+Louisiana,Plaquemines,11.979899497487438,Percent,22075,1427
+Louisiana,Pointe Coupee,0.0,Percent,22077,1431
+Louisiana,Rapides,6.428183829360938,Percent,22079,1434
+Louisiana,Red River,0.0,Percent,22081,1436
+Louisiana,Richland,1.5716096324461342,Percent,22083,1439
+Louisiana,Sabine,4.782509678888635,Percent,22085,1441
+Louisiana,St. Bernard,6.3563829787234045,Percent,22087,1463
+Louisiana,St. Charles,6.045923741310301,Percent,22089,1466
+Louisiana,St. Helena,nan,Percent,22091,1467
+Louisiana,St. James,4.334038054968287,Percent,22093,1468
+Louisiana,St. John the Baptist,4.3181060353451155,Percent,22095,1469
+Louisiana,St. Landry,4.5221317643839365,Percent,22097,1471
+Louisiana,St. Martin,6.07978977544195,Percent,22099,1473
+Louisiana,St. Mary,5.985247629083245,Percent,22101,1474
+Louisiana,St. Tammany,5.505718182772007,Percent,22103,1475
+Louisiana,Tangipahoa,7.268689112109435,Percent,22105,1476
+Louisiana,Tensas,0.0,Percent,22107,1479
+Louisiana,Terrebonne,6.388934628684341,Percent,22109,1501
+Louisiana,Union,4.380516508662962,Percent,22111,1507
+Louisiana,Vermilion,5.1454138702460845,Percent,22113,1510
+Louisiana,Vernon,12.218963831867057,Percent,22115,1513
+Louisiana,Washington,5.694760820045558,Percent,22117,1516
+Louisiana,Webster,6.94488188976378,Percent,22119,1518
+Louisiana,West Baton Rouge,7.359081419624217,Percent,22121,1520
+Louisiana,West Carroll,6.857142857142858,Percent,22123,1522
+Louisiana,West Feliciana,5.161895823557015,Percent,22125,1524
+Louisiana,Winn,3.887510339123242,Percent,22127,1529
+Maine,Androscoggin,5.053946621237933,Percent,23001,1532
+Maine,Aroostook,8.112390408788423,Percent,23003,1535
+Maine,Cumberland,4.824002852631043,Percent,23005,1608
+Maine,Franklin,8.696629213483147,Percent,23007,1619
+Maine,Hancock,7.521421770866392,Percent,23009,1748
+Maine,Kennebec,6.887002588646078,Percent,23011,1755
+Maine,Knox,6.28696604600219,Percent,23013,1774
+Maine,Lincoln,8.160517102073793,Percent,23015,1835
+Maine,Oxford,9.420203227734609,Percent,23017,1842
+Maine,Penobscot,6.9012246536839985,Percent,23019,1846
+Maine,Piscataquis,7.07482993197279,Percent,23021,1851
+Maine,Sagadahoc,7.090314671025746,Percent,23023,1855
+Maine,Somerset,4.944043065590027,Percent,23025,1860
+Maine,Waldo,6.926595512960139,Percent,23027,1865
+Maine,Washington,9.553478712357217,Percent,23029,1884
+Maine,York,5.98348021973679,Percent,23031,1901
+Maryland,Allegany,7.818883340898775,Percent,24001,1905
+Maryland,Anne Arundel,5.585536296038398,Percent,24003,1925
+Maryland,Baltimore County,6.763756678328316,Percent,24005,1939
+Maryland,Calvert,3.296497471436598,Percent,24009,1946
+Maryland,Caroline,7.104605498036416,Percent,24011,1949
+Maryland,Carroll,2.696567649015694,Percent,24013,1955
+Maryland,Cecil,5.422788322088404,Percent,24015,1963
+Maryland,Charles,5.378796518037024,Percent,24017,1294
+Maryland,Dorchester,5.591897024688753,Percent,24019,1346
+Maryland,Frederick,4.1052761038002705,Percent,24021,1357
+Maryland,Garrett,9.076763485477178,Percent,24023,1361
+Maryland,Harford,5.231254005554368,Percent,24025,1372
+Maryland,Howard,3.4390377255330784,Percent,24027,1379
+Maryland,Kent,5.224248398225726,Percent,24029,1394
+Maryland,Montgomery,5.913160250671441,Percent,24031,1398
+Maryland,Prince George's,7.47351111524798,Percent,24033,1403
+Maryland,Queen Anne's,3.524685758714526,Percent,24035,1413
+Maryland,St. Mary's,3.8905300707875816,Percent,24037,1421
+Maryland,Somerset,0.0,Percent,24039,1430
+Maryland,Talbot,4.735135135135135,Percent,24041,1438
+Maryland,Washington,4.716854234856297,Percent,24043,1445
+Maryland,Wicomico,4.5368492224476,Percent,24045,1446
+Maryland,Worcester,5.06006006006006,Percent,24047,1456
+Maryland,Baltimore City,0.08511644402411632,Percent,24510,1460
+Massachusetts,Barnstable,nan,Percent,25001,1478
+Massachusetts,Berkshire,nan,Percent,25003,1480
+Massachusetts,Bristol,nan,Percent,25005,1486
+Massachusetts,Dukes,nan,Percent,25007,1491
+Massachusetts,Essex,nan,Percent,25009,1519
+Massachusetts,Franklin,nan,Percent,25011,1523
+Massachusetts,Hampden,nan,Percent,25013,1526
+Massachusetts,Hampshire,nan,Percent,25015,1527
+Massachusetts,Middlesex,nan,Percent,25017,1533
+Massachusetts,Nantucket,nan,Percent,25019,1537
+Massachusetts,Norfolk,nan,Percent,25021,1543
+Massachusetts,Plymouth,nan,Percent,25023,1569
+Massachusetts,Suffolk,nan,Percent,25025,1585
+Massachusetts,Worcester,nan,Percent,25027,1599
+Michigan,Alcona,12.704918032786885,Percent,26001,1603
+Michigan,Alger,11.34020618556701,Percent,26003,1609
+Michigan,Allegan,8.423811306626732,Percent,26005,1611
+Michigan,Alpena,11.994949494949495,Percent,26007,1614
+Michigan,Antrim,9.57510472770796,Percent,26009,1617
+Michigan,Arenac,8.691631992602867,Percent,26011,1621
+Michigan,Baraga,11.850501367365544,Percent,26013,1624
+Michigan,Barry,9.142724206118412,Percent,26015,1627
+Michigan,Bay,6.588434893256044,Percent,26017,1631
+Michigan,Benzie,8.034744842562432,Percent,26019,1634
+Michigan,Berrien,6.21617050067659,Percent,26021,1635
+Michigan,Branch,6.757173711817341,Percent,26023,1640
+Michigan,Calhoun,5.595022291901426,Percent,26025,1641
+Michigan,Cass,7.619309586026682,Percent,26027,1644
+Michigan,Charlevoix,7.282838983050848,Percent,26029,1648
+Michigan,Cheboygan,10.417385305277682,Percent,26031,1649
+Michigan,Chippewa,9.363770872965546,Percent,26033,1660
+Michigan,Clare,4.9031053000233475,Percent,26035,1665
+Michigan,Clinton,5.902513328255902,Percent,26037,1669
+Michigan,Crawford,8.423052564914503,Percent,26039,1672
+Michigan,Delta,8.658362262609762,Percent,26041,1675
+Michigan,Dickinson,9.339042012309339,Percent,26043,1677
+Michigan,Eaton,7.656666280551374,Percent,26045,1678
+Michigan,Emmet,9.186241610738255,Percent,26047,1686
+Michigan,Genesee,5.329593267882188,Percent,26049,1688
+Michigan,Gladwin,8.424008424008424,Percent,26051,1691
+Michigan,Gogebic,9.046153846153846,Percent,26053,1693
+Michigan,Grand Traverse,6.8873056002451545,Percent,26055,1697
+Michigan,Gratiot,5.7566302652106085,Percent,26057,1700
+Michigan,Hillsdale,8.690575479566306,Percent,26059,1701
+Michigan,Houghton,12.20537182532432,Percent,26061,1705
+Michigan,Huron,10.538844405972734,Percent,26063,1708
+Michigan,Ingham,5.582417582417582,Percent,26065,1710
+Michigan,Ionia,8.577802565532627,Percent,26067,1713
+Michigan,Iosco,8.42501447596989,Percent,26069,1715
+Michigan,Iron,14.085603112840467,Percent,26071,1716
+Michigan,Isabella,5.821917808219178,Percent,26073,1717
+Michigan,Jackson,6.033337618374255,Percent,26075,1719
+Michigan,Kalamazoo,5.404089581304771,Percent,26077,1720
+Michigan,Kalkaska,6.1421319796954315,Percent,26079,1722
+Michigan,Kent,6.76026991378816,Percent,26081,1726
+Michigan,Keweenaw,nan,Percent,26083,1743
+Michigan,Lake,4.1876046901172534,Percent,26085,1749
+Michigan,Lapeer,7.941666006182135,Percent,26087,1752
+Michigan,Leelanau,7.0843373493975905,Percent,26089,1765
+Michigan,Lenawee,6.8763048016701465,Percent,26091,1768
+Michigan,Livingston,4.330419451994417,Percent,26093,1770
+Michigan,Luce,9.497206703910614,Percent,26095,1773
+Michigan,Mackinac,nan,Percent,26097,1779
+Michigan,Macomb,5.552571975622855,Percent,26099,1785
+Michigan,Manistee,8.69403678246331,Percent,26101,1787
+Michigan,Marquette,6.167833886226809,Percent,26103,1793
+Michigan,Mason,7.6923076923076925,Percent,26105,1797
+Michigan,Mecosta,8.044333214158026,Percent,26107,1800
+Michigan,Menominee,10.306714562033712,Percent,26109,1802
+Michigan,Midland,4.9141260580162704,Percent,26111,1806
+Michigan,Missaukee,9.623430962343097,Percent,26113,1810
+Michigan,Monroe,5.955697042048017,Percent,26115,1812
+Michigan,Montcalm,9.808819290998175,Percent,26117,1815
+Michigan,Montmorency,10.91703056768559,Percent,26119,1816
+Michigan,Muskegon,8.429104750750312,Percent,26121,1818
+Michigan,Newaygo,7.624671916010499,Percent,26123,1820
+Michigan,Oakland,3.735599437815076,Percent,26125,1824
+Michigan,Oceana,8.237844533911428,Percent,26127,1825
+Michigan,Ogemaw,7.488114104595879,Percent,26129,1827
+Michigan,Ontonagon,11.29032258064516,Percent,26131,1829
+Michigan,Osceola,9.306882194464853,Percent,26133,1830
+Michigan,Oscoda,11.491442542787286,Percent,26135,1832
+Michigan,Otsego,6.918068366793271,Percent,26137,1834
+Michigan,Ottawa,8.116372338304048,Percent,26139,1837
+Michigan,Presque Isle,13.17449194113525,Percent,26141,1840
+Michigan,Roscommon,7.540643375994466,Percent,26143,1843
+Michigan,Saginaw,4.007572239882844,Percent,26145,1845
+Michigan,St. Clair,4.678196767791324,Percent,26147,1854
+Michigan,St. Joseph,9.603301134765076,Percent,26149,1857
+Michigan,Sanilac,10.553152039555007,Percent,26151,1858
+Michigan,Schoolcraft,8.669108669108669,Percent,26153,1861
+Michigan,Shiawassee,7.171450472702495,Percent,26155,1863
+Michigan,Tuscola,8.32293486398802,Percent,26157,1866
+Michigan,Van Buren,6.0881782297450995,Percent,26159,1867
+Michigan,Washtenaw,3.2490263860324684,Percent,26161,1869
+Michigan,Wayne,4.07555747997402,Percent,26163,1871
+Michigan,Wexford,8.312439729990356,Percent,26165,1873
+Minnesota,Aitkin,12.382934443288242,Percent,27001,1875
+Minnesota,Anoka,7.606000386894818,Percent,27003,1877
+Minnesota,Becker,10.616438356164384,Percent,27005,1878
+Minnesota,Beltrami,9.827227055507903,Percent,27007,1880
+Minnesota,Benton,9.08954326923077,Percent,27009,1881
+Minnesota,Big Stone,15.853658536585366,Percent,27011,1882
+Minnesota,Blue Earth,8.131609870740306,Percent,27013,1886
+Minnesota,Brown,9.707064905226881,Percent,27015,1892
+Minnesota,Carlton,8.029310882444653,Percent,27017,1893
+Minnesota,Carver,4.013639666834368,Percent,27019,1894
+Minnesota,Cass,9.509416414787259,Percent,27021,1895
+Minnesota,Chippewa,11.945031712473574,Percent,27023,1896
+Minnesota,Chisago,7.628839807057629,Percent,27025,1897
+Minnesota,Clay,5.698871996076508,Percent,27027,1898
+Minnesota,Clearwater,12.65474552957359,Percent,27029,1899
+Minnesota,Cook,8.665511265164644,Percent,27031,1900
+Minnesota,Cottonwood,14.766839378238341,Percent,27033,1902
+Minnesota,Crow Wing,11.536466438427222,Percent,27035,1903
+Minnesota,Dakota,6.020090058884656,Percent,27037,1904
+Minnesota,Dodge,5.034856700232377,Percent,27039,1906
+Minnesota,Douglas,9.808871258564732,Percent,27041,1907
+Minnesota,Faribault,10.568341944574918,Percent,27043,1908
+Minnesota,Fillmore,10.957983193277311,Percent,27045,1909
+Minnesota,Freeborn,11.352657004830919,Percent,27047,1910
+Minnesota,Goodhue,6.21857634294787,Percent,27049,1911
+Minnesota,Grant,10.032017075773746,Percent,27051,1912
+Minnesota,Hennepin,5.933098591549295,Percent,27053,1913
+Minnesota,Houston,5.71633580483138,Percent,27055,1914
+Minnesota,Hubbard,11.728896103896105,Percent,27057,1915
+Minnesota,Isanti,10.581222056631892,Percent,27059,1916
+Minnesota,Itasca,9.559471365638766,Percent,27061,1917
+Minnesota,Jackson,11.260957518543494,Percent,27063,1918
+Minnesota,Kanabec,8.001871782873186,Percent,27065,1919
+Minnesota,Kandiyohi,7.914593032589501,Percent,27067,1920
+Minnesota,Kittson,11.707317073170733,Percent,27069,1921
+Minnesota,Koochiching,8.770917484131564,Percent,27071,1922
+Minnesota,Lac qui Parle,9.464285714285714,Percent,27073,1923
+Minnesota,Lake,10.857142857142858,Percent,27075,1926
+Minnesota,Lake of the Woods,21.767241379310345,Percent,27077,1927
+Minnesota,Le Sueur,10.011123470522804,Percent,27079,1929
+Minnesota,Lincoln,10.76923076923077,Percent,27081,1931
+Minnesota,Lyon,11.702127659574469,Percent,27083,1932
+Minnesota,McLeod,9.468317552804079,Percent,27085,1934
+Minnesota,Mahnomen,6.208842897460019,Percent,27087,1936
+Minnesota,Marshall,15.601882985877605,Percent,27089,1937
+Minnesota,Martin,9.608900876601483,Percent,27091,1940
+Minnesota,Meeker,11.283260357022566,Percent,27093,1941
+Minnesota,Mille Lacs,9.095260890378173,Percent,27095,1943
+Minnesota,Morrison,12.471773493138787,Percent,27097,1944
+Minnesota,Mower,9.440074039796391,Percent,27099,1945
+Minnesota,Murray,10.608856088560886,Percent,27101,1947
+Minnesota,Nicollet,7.846410684474124,Percent,27103,1948
+Minnesota,Nobles,12.442396313364055,Percent,27105,1950
+Minnesota,Norman,14.124293785310735,Percent,27107,1951
+Minnesota,Olmsted,6.6672307301802185,Percent,27109,1953
+Minnesota,Otter Tail,11.001016260162602,Percent,27111,1954
+Minnesota,Pennington,9.797752808988765,Percent,27113,1956
+Minnesota,Pine,9.555320275277925,Percent,27115,1957
+Minnesota,Pipestone,13.596491228070176,Percent,27117,1958
+Minnesota,Polk,8.552123552123552,Percent,27119,1959
+Minnesota,Pope,8.78533231474408,Percent,27121,1961
+Minnesota,Ramsey,7.808411921346094,Percent,27123,1964
+Minnesota,Red Lake,15.994623655913978,Percent,27125,1966
+Minnesota,Redwood,13.036020583190394,Percent,27127,1969
+Minnesota,Renville,13.20669380370873,Percent,27129,1971
+Minnesota,Rice,6.803538276728186,Percent,27131,1973
+Minnesota,Rock,10.037641154328734,Percent,27133,1974
+Minnesota,Roseau,13.293724470850352,Percent,27135,1976
+Minnesota,St. Louis,8.003679852805888,Percent,27137,1978
+Minnesota,Scott,5.883230184177168,Percent,27139,1979
+Minnesota,Sherburne,6.679058240396531,Percent,27141,1980
+Minnesota,Sibley,10.408432147562582,Percent,27143,1982
+Minnesota,Stearns,8.047576869543212,Percent,27145,1984
+Minnesota,Steele,8.15340909090909,Percent,27147,1985
+Minnesota,Stevens,8.565866320571057,Percent,27149,1987
+Minnesota,Swift,14.550724637681158,Percent,27151,1988
+Minnesota,Todd,14.661383285302593,Percent,27153,1989
+Minnesota,Traverse,10.297029702970297,Percent,27155,1990
+Minnesota,Wabasha,8.59691808596918,Percent,27157,1991
+Minnesota,Wadena,14.887365328109697,Percent,27159,1992
+Minnesota,Waseca,8.172315489388659,Percent,27161,1993
+Minnesota,Washington,5.143248487615569,Percent,27163,1994
+Minnesota,Watonwan,11.346704871060172,Percent,27165,1996
+Minnesota,Wilkin,9.927140255009109,Percent,27167,1997
+Minnesota,Winona,8.715251690458302,Percent,27169,1998
+Minnesota,Wright,7.166785862159822,Percent,27171,1999
+Minnesota,Yellow Medicine,12.792297111416781,Percent,27173,1531
+Mississippi,Adams,0.0,Percent,28001,1534
+Mississippi,Alcorn,8.008008008008009,Percent,28003,1538
+Mississippi,Amite,nan,Percent,28005,1539
+Mississippi,Attala,7.4254587155963305,Percent,28007,1541
+Mississippi,Benton,4.849498327759197,Percent,28009,1544
+Mississippi,Bolivar,0.8295380611581002,Percent,28011,1547
+Mississippi,Calhoun,9.251274010192082,Percent,28013,1548
+Mississippi,Carroll,7.729468599033816,Percent,28015,1549
+Mississippi,Chickasaw,nan,Percent,28017,1550
+Mississippi,Choctaw,5.965909090909091,Percent,28019,1552
+Mississippi,Claiborne,nan,Percent,28021,1555
+Mississippi,Clarke,nan,Percent,28023,1557
+Mississippi,Clay,nan,Percent,28025,1559
+Mississippi,Coahoma,0.0,Percent,28027,1562
+Mississippi,Copiah,0.0,Percent,28029,1564
+Mississippi,Covington,6.950596252129472,Percent,28031,1567
+Mississippi,DeSoto,7.984308992154496,Percent,28033,1571
+Mississippi,Forrest,4.489867225716282,Percent,28035,1572
+Mississippi,Franklin,7.512764405543399,Percent,28037,1575
+Mississippi,George,8.643778914049184,Percent,28039,1577
+Mississippi,Greene,9.891732283464567,Percent,28041,1579
+Mississippi,Grenada,nan,Percent,28043,1581
+Mississippi,Hancock,7.253805529667598,Percent,28045,1583
+Mississippi,Harrison,6.84050223769269,Percent,28047,1587
+Mississippi,Hinds,2.801486092981223,Percent,28049,1591
+Mississippi,Holmes,nan,Percent,28051,1593
+Mississippi,Humphreys,0.0,Percent,28053,1596
+Mississippi,Issaquena,nan,Percent,28055,1598
+Mississippi,Itawamba,nan,Percent,28057,1601
+Mississippi,Jackson,7.327532885241846,Percent,28059,1605
+Mississippi,Jasper,5.236907730673317,Percent,28061,1607
+Mississippi,Jefferson,nan,Percent,28063,1610
+Mississippi,Jefferson Davis,0.0,Percent,28065,1612
+Mississippi,Jones,nan,Percent,28067,1615
+Mississippi,Kemper,nan,Percent,28069,1616
+Mississippi,Lafayette,nan,Percent,28071,1620
+Mississippi,Lamar,7.740289197618372,Percent,28073,1623
+Mississippi,Lauderdale,3.8334274876926804,Percent,28075,1628
+Mississippi,Lawrence,9.168539325842696,Percent,28077,1632
+Mississippi,Leake,nan,Percent,28079,1636
+Mississippi,Lee,6.915124125549434,Percent,28081,1638
+Mississippi,Leflore,nan,Percent,28083,1643
+Mississippi,Lincoln,7.7924139025551495,Percent,28085,1645
+Mississippi,Lowndes,3.8626161394717613,Percent,28087,1647
+Mississippi,Madison,5.413208228076507,Percent,28089,1651
+Mississippi,Marion,6.72050013024225,Percent,28091,1653
+Mississippi,Marshall,4.051172707889126,Percent,28093,1655
+Mississippi,Monroe,nan,Percent,28095,1656
+Mississippi,Montgomery,8.3810888252149,Percent,28097,1658
+Mississippi,Neshoba,nan,Percent,28099,1661
+Mississippi,Newton,nan,Percent,28101,1663
+Mississippi,Noxubee,0.0,Percent,28103,1666
+Mississippi,Oktibbeha,nan,Percent,28105,1668
+Mississippi,Panola,5.3157271034366005,Percent,28107,1671
+Mississippi,Pearl River,4.997680890538033,Percent,28109,1676
+Mississippi,Perry,nan,Percent,28111,1679
+Mississippi,Pike,nan,Percent,28113,1680
+Mississippi,Pontotoc,nan,Percent,28115,1682
+Mississippi,Prentiss,nan,Percent,28117,1684
+Mississippi,Quitman,nan,Percent,28119,1685
+Mississippi,Rankin,5.759318423855165,Percent,28121,1690
+Mississippi,Scott,5.884407193993365,Percent,28123,1692
+Mississippi,Sharkey,nan,Percent,28125,1695
+Mississippi,Simpson,nan,Percent,28127,1698
+Mississippi,Smith,nan,Percent,28129,1709
+Mississippi,Stone,7.622298065984073,Percent,28131,1712
+Mississippi,Sunflower,0.0,Percent,28133,1721
+Mississippi,Tallahatchie,nan,Percent,28135,1725
+Mississippi,Tate,7.982551799345693,Percent,28137,1727
+Mississippi,Tippah,9.713603818615752,Percent,28139,1730
+Mississippi,Tishomingo,nan,Percent,28141,1732
+Mississippi,Tunica,nan,Percent,28143,1735
+Mississippi,Union,nan,Percent,28145,1737
+Mississippi,Walthall,5.760485093481557,Percent,28147,1740
+Mississippi,Warren,1.4054054054054055,Percent,28149,1746
+Mississippi,Washington,0.0,Percent,28151,1750
+Mississippi,Wayne,nan,Percent,28153,1753
+Mississippi,Webster,7.835616438356165,Percent,28155,1756
+Mississippi,Wilkinson,0.0,Percent,28157,1757
+Mississippi,Winston,2.494802494802495,Percent,28159,1758
+Mississippi,Yalobusha,3.728813559322034,Percent,28161,1759
+Mississippi,Yazoo,1.836228287841191,Percent,28163,1760
+Missouri,Adair,7.459677419354839,Percent,29001,1761
+Missouri,Andrew,8.250355618776672,Percent,29003,1762
+Missouri,Atchison,11.519607843137255,Percent,29005,1763
+Missouri,Audrain,4.637769020915429,Percent,29007,1766
+Missouri,Barry,8.471553415373641,Percent,29009,1767
+Missouri,Barton,10.106951871657754,Percent,29011,1771
+Missouri,Bates,8.698777857656362,Percent,29013,1776
+Missouri,Benton,6.239999999999999,Percent,29015,1778
+Missouri,Bollinger,10.124526258798051,Percent,29017,1781
+Missouri,Boone,6.016677357280307,Percent,29019,1783
+Missouri,Buchanan,6.915873503223826,Percent,29021,1789
+Missouri,Butler,7.305034550839092,Percent,29023,1792
+Missouri,Caldwell,8.173076923076923,Percent,29025,1795
+Missouri,Callaway,8.147888557911337,Percent,29027,1799
+Missouri,Camden,9.22038980509745,Percent,29029,1803
+Missouri,Cape Girardeau,7.779074290159471,Percent,29031,1808
+Missouri,Carroll,10.731707317073171,Percent,29033,1822
+Missouri,Carter,10.382513661202186,Percent,29035,1001
+Missouri,Cass,5.189929328621909,Percent,29037,1004
+Missouri,Cedar,4.269141531322506,Percent,29039,1007
+Missouri,Chariton,9.090909090909092,Percent,29041,1011
+Missouri,Christian,7.392142524762348,Percent,29043,1014
+Missouri,Clark,8.716026241799439,Percent,29045,1015
+Missouri,Clay,6.893875075803517,Percent,29047,1018
+Missouri,Clinton,8.102136017677388,Percent,29049,1021
+Missouri,Cole,6.1699758767860455,Percent,29051,1022
+Missouri,Cooper,5.779194898365883,Percent,29053,1025
+Missouri,Crawford,9.33176332057698,Percent,29055,1028
+Missouri,Dade,10.673665791776028,Percent,29057,1030
+Missouri,Dallas,7.655786350148368,Percent,29059,1032
+Missouri,Daviess,10.8003108003108,Percent,29061,1036
+Missouri,DeKalb,13.918017159199236,Percent,29063,1038
+Missouri,Dent,6.581272084805653,Percent,29065,1040
+Missouri,Douglas,15.026246719160104,Percent,29067,1043
+Missouri,Dunklin,3.3588583362339017,Percent,29069,1045
+Missouri,Franklin,7.136288394335111,Percent,29071,1047
+Missouri,Gasconade,7.7269577269577265,Percent,29073,1049
+Missouri,Gentry,14.490161001788909,Percent,29075,1052
+Missouri,Greene,7.54899768984276,Percent,29077,1054
+Missouri,Grundy,11.297915265635508,Percent,29079,1057
+Missouri,Harrison,11.096774193548386,Percent,29081,1058
+Missouri,Henry,8.077321366931308,Percent,29083,1061
+Missouri,Hickory,10.573248407643312,Percent,29085,1063
+Missouri,Holt,8.243243243243244,Percent,29087,1065
+Missouri,Howard,7.560137457044673,Percent,29089,1068
+Missouri,Howell,9.380178985747431,Percent,29091,1070
+Missouri,Iron,9.417528579205225,Percent,29093,1072
+Missouri,Jackson,4.819077280308126,Percent,29095,1074
+Missouri,Jasper,6.823130897653036,Percent,29097,1078
+Missouri,Jefferson,6.33750500028573,Percent,29099,1082
+Missouri,Johnson,8.517728605705145,Percent,29101,1087
+Missouri,Knox,13.664596273291925,Percent,29103,1091
+Missouri,Laclede,9.270746018440905,Percent,29105,1096
+Missouri,Lafayette,7.854190154077415,Percent,29107,1099
+Missouri,Lawrence,9.755753211915854,Percent,29109,1101
+Missouri,Lewis,10.687542545949626,Percent,29111,1104
+Missouri,Lincoln,7.236768176199574,Percent,29113,1106
+Missouri,Linn,8.427947598253276,Percent,29115,1109
+Missouri,Livingston,9.1324200913242,Percent,29117,1112
+Missouri,McDonald,8.88464294244089,Percent,29119,1113
+Missouri,Macon,10.859136502398604,Percent,29121,1116
+Missouri,Madison,7.063197026022305,Percent,29123,1117
+Missouri,Maries,7.969639468690702,Percent,29125,1120
+Missouri,Marion,8.984761527805265,Percent,29127,1122
+Missouri,Mercer,20.42139384116694,Percent,29129,1125
+Missouri,Miller,7.544204322200393,Percent,29131,1128
+Missouri,Mississippi,4.2715827338129495,Percent,29133,1131
+Missouri,Moniteau,8.978071990070335,Percent,29135,1135
+Missouri,Monroe,10.825439783491204,Percent,29137,1139
+Missouri,Montgomery,10.778443113772456,Percent,29139,1142
+Missouri,Morgan,6.61764705882353,Percent,29141,1146
+Missouri,New Madrid,5.422587883320867,Percent,29143,1149
+Missouri,Newton,9.308283518360376,Percent,29145,1152
+Missouri,Nodaway,9.82108869432813,Percent,29147,1156
+Missouri,Oregon,7.970634504457262,Percent,29149,1158
+Missouri,Osage,8.087367178276269,Percent,29151,1164
+Missouri,Ozark,10.92217135382603,Percent,29153,1168
+Missouri,Pemiscot,1.0136113524471473,Percent,29155,1170
+Missouri,Perry,10.774968918358889,Percent,29157,1172
+Missouri,Pettis,6.4256440281030445,Percent,29159,1174
+Missouri,Phelps,8.179059180576632,Percent,29161,1176
+Missouri,Pike,9.066564651874522,Percent,29163,1179
+Missouri,Platte,5.409112595419847,Percent,29165,1181
+Missouri,Polk,6.132075471698113,Percent,29167,1183
+Missouri,Pulaski,12.445175438596491,Percent,29169,1185
+Missouri,Putnam,11.72316384180791,Percent,29171,1188
+Missouri,Ralls,14.586070959264127,Percent,29173,1191
+Missouri,Randolph,7.17524673246199,Percent,29175,1194
+Missouri,Ray,7.639484978540772,Percent,29177,1197
+Missouri,Reynolds,11.09040074557316,Percent,29179,1200
+Missouri,Ripley,8.74595094863489,Percent,29181,1203
+Missouri,St. Charles,3.304090618802729,Percent,29183,1205
+Missouri,St. Clair,9.393939393939393,Percent,29185,1208
+Missouri,Ste. Genevieve,11.746031746031745,Percent,29186,1209
+Missouri,St. Francois,8.381181700314873,Percent,29187,1212
+Missouri,St. Louis County,3.3880503582110317,Percent,29189,1216
+Missouri,Saline,7.087912087912088,Percent,29195,1218
+Missouri,Schuyler,12.721417069243158,Percent,29197,1221
+Missouri,Scotland,8.166409861325114,Percent,29199,1224
+Missouri,Scott,6.349435927104426,Percent,29201,1227
+Missouri,Shannon,9.994155464640562,Percent,29203,1229
+Missouri,Shelby,15.22359657469077,Percent,29205,1232
+Missouri,Stoddard,8.840749414519907,Percent,29207,1236
+Missouri,Stone,10.744653439835094,Percent,29209,1237
+Missouri,Sullivan,11.844484629294756,Percent,29211,1240
+Missouri,Taney,9.631728045325778,Percent,29213,1242
+Missouri,Texas,8.979698073919835,Percent,29215,1245
+Missouri,Vernon,6.79516497876511,Percent,29217,1248
+Missouri,Warren,8.286604361370717,Percent,29219,1251
+Missouri,Washington,1.2368916375369723,Percent,29221,1253
+Missouri,Wayne,7.358594179022515,Percent,29223,1256
+Missouri,Webster,9.55585464333782,Percent,29225,1258
+Missouri,Worth,16.822429906542055,Percent,29227,1261
+Missouri,Wright,10.359964881474978,Percent,29229,1263
+Missouri,St. Louis City,0.9979983648614361,Percent,29510,1266
+Montana,Beaverhead,nan,Percent,30001,1269
+Montana,Big Horn,0.0,Percent,30003,1274
+Montana,Blaine,nan,Percent,30005,1124
+Montana,Broadwater,10.746268656716417,Percent,30007,1132
+Montana,Carbon,4.213694507148231,Percent,30009,1137
+Montana,Carter,nan,Percent,30011,1141
+Montana,Cascade,7.825788162528992,Percent,30013,1144
+Montana,Chouteau,11.802232854864434,Percent,30015,1150
+Montana,Custer,8.256880733944955,Percent,30017,1153
+Montana,Daniels,4.593639575971731,Percent,30019,1157
+Montana,Dawson,4.408677396780965,Percent,30021,1160
+Montana,Deer Lodge,8.186046511627906,Percent,30023,1163
+Montana,Fallon,6.797853309481217,Percent,30025,1165
+Montana,Fergus,9.299442033477991,Percent,30027,1169
+Montana,Flathead,5.108703451244888,Percent,30029,1173
+Montana,Gallatin,3.3325436310510934,Percent,30031,1177
+Montana,Garfield,nan,Percent,30033,1182
+Montana,Glacier,1.9819193324061197,Percent,30035,1186
+Montana,Golden Valley,0.0,Percent,30037,1189
+Montana,Granite,8.900523560209423,Percent,30039,1192
+Montana,Hill,4.86867392696989,Percent,30041,1195
+Montana,Jefferson,nan,Percent,30043,1199
+Montana,Judith Basin,11.24031007751938,Percent,30045,1202
+Montana,Lake,5.107464756182113,Percent,30047,1207
+Montana,Lewis and Clark,6.304691618344754,Percent,30049,1211
+Montana,Liberty,18.565400843881857,Percent,30051,1214
+Montana,Lincoln,nan,Percent,30053,1219
+Montana,McCone,9.090909090909092,Percent,30055,1223
+Montana,Madison,12.857142857142856,Percent,30057,1226
+Montana,Meagher,12.962962962962962,Percent,30059,1231
+Montana,Mineral,0.0,Percent,30061,1234
+Montana,Missoula,3.546977421704297,Percent,30063,1239
+Montana,Musselshell,4.512372634643377,Percent,30065,1241
+Montana,Park,7.349214394323365,Percent,30067,1244
+Montana,Petroleum,15.476190476190476,Percent,30069,1247
+Montana,Phillips,nan,Percent,30071,1250
+Montana,Pondera,6.7669172932330826,Percent,30073,1254
+Montana,Powder River,nan,Percent,30075,1259
+Montana,Powell,7.810320781032078,Percent,30077,1262
+Montana,Prairie,0.0,Percent,30079,1264
+Montana,Ravalli,5.409330186966781,Percent,30081,1268
+Montana,Richland,4.804358593363052,Percent,30083,1271
+Montana,Roosevelt,1.52,Percent,30085,1275
+Montana,Rosebud,5.951679434295816,Percent,30087,1277
+Montana,Sanders,6.563421828908554,Percent,30089,1278
+Montana,Sheridan,5.786618444846293,Percent,30091,1281
+Montana,Silver Bow,5.523590333716916,Percent,30093,1284
+Montana,Stillwater,6.1571125265392785,Percent,30095,1286
+Montana,Sweet Grass,5.772811918063315,Percent,30097,1288
+Montana,Teton,6.541129831516352,Percent,30099,1290
+Montana,Toole,8.227848101265822,Percent,30101,1292
+Montana,Treasure,nan,Percent,30103,1293
+Montana,Valley,7.736156351791531,Percent,30105,1296
+Montana,Wheatland,nan,Percent,30107,1298
+Montana,Wibaux,12.578616352201259,Percent,30109,1300
+Montana,Yellowstone,6.696371192322522,Percent,30111,1302
+Nebraska,Adams,10.281890083147434,Percent,31001,1303
+Nebraska,Antelope,18.13125695216908,Percent,31003,1305
+Nebraska,Arthur,0.0,Percent,31005,1307
+Nebraska,Banner,10.365853658536585,Percent,31007,1308
+Nebraska,Blaine,23.404255319148938,Percent,31009,1309
+Nebraska,Boone,14.382022471910114,Percent,31011,1310
+Nebraska,Box Butte,11.580594679186229,Percent,31013,1315
+Nebraska,Boyd,19.03409090909091,Percent,31015,1317
+Nebraska,Brown,10.973084886128365,Percent,31017,1319
+Nebraska,Buffalo,10.251572327044025,Percent,31019,1321
+Nebraska,Burt,9.5,Percent,31021,1323
+Nebraska,Butler,12.109744560075686,Percent,31023,1325
+Nebraska,Cass,8.538710480458054,Percent,31025,1326
+Nebraska,Cedar,10.55694098088113,Percent,31027,1329
+Nebraska,Chase,8.764940239043826,Percent,31029,1330
+Nebraska,Cherry,13.190954773869345,Percent,31031,1333
+Nebraska,Cheyenne,9.870276367738297,Percent,31033,1334
+Nebraska,Clay,11.581676750216076,Percent,31035,1336
+Nebraska,Colfax,13.857251328777526,Percent,31037,1338
+Nebraska,Cuming,13.043478260869565,Percent,31039,1340
+Nebraska,Custer,10.508849557522124,Percent,31041,1342
+Nebraska,Dakota,10.040522287257991,Percent,31043,1344
+Nebraska,Dawes,8.968253968253968,Percent,31045,1347
+Nebraska,Dawson,11.98522622345337,Percent,31047,1349
+Nebraska,Deuel,13.08139534883721,Percent,31049,1351
+Nebraska,Dixon,11.216216216216218,Percent,31051,1353
+Nebraska,Dodge,10.843373493975903,Percent,31053,1354
+Nebraska,Douglas,6.702872659711305,Percent,31055,1358
+Nebraska,Dundy,9.03010033444816,Percent,31057,1360
+Nebraska,Fillmore,8.972972972972974,Percent,31059,1363
+Nebraska,Franklin,17.20116618075802,Percent,31061,1369
+Nebraska,Frontier,13.005272407732866,Percent,31063,1371
+Nebraska,Furnas,15.459363957597173,Percent,31065,1374
+Nebraska,Gage,10.091145833333332,Percent,31067,1378
+Nebraska,Garden,16.842105263157894,Percent,31069,1381
+Nebraska,Garfield,10.335195530726256,Percent,31071,1391
+Nebraska,Gosper,12.612612612612612,Percent,31073,1393
+Nebraska,Grant,10.56338028169014,Percent,31075,1395
+Nebraska,Greeley,23.39901477832512,Percent,31077,1397
+Nebraska,Hall,11.443367858336117,Percent,31079,1402
+Nebraska,Hamilton,11.602209944751381,Percent,31081,1405
+Nebraska,Harlan,12.286689419795222,Percent,31083,1409
+Nebraska,Hayes,11.11111111111111,Percent,31085,1411
+Nebraska,Hitchcock,18.561484918793504,Percent,31087,1414
+Nebraska,Holt,15.474722564734893,Percent,31089,1416
+Nebraska,Hooker,20.73170731707317,Percent,31091,1418
+Nebraska,Howard,11.679884643114635,Percent,31093,1311
+Nebraska,Jefferson,11.48036253776435,Percent,31095,1312
+Nebraska,Johnson,11.87335092348285,Percent,31097,1313
+Nebraska,Kearney,11.658456486042693,Percent,31099,1314
+Nebraska,Keith,11.359404096834265,Percent,31101,1316
+Nebraska,Keya Paha,17.441860465116278,Percent,31103,1318
+Nebraska,Kimball,18.739635157545607,Percent,31105,1320
+Nebraska,Knox,10.27479091995221,Percent,31107,1322
+Nebraska,Lancaster,6.94120521534395,Percent,31109,1324
+Nebraska,Lincoln,9.330143540669857,Percent,31111,1327
+Nebraska,Logan,13.131313131313133,Percent,31113,1328
+Nebraska,Loup,10.606060606060606,Percent,31115,1331
+Nebraska,McPherson,0.0,Percent,31117,1332
+Nebraska,Madison,10.839224216059453,Percent,31119,1335
+Nebraska,Merrick,15.658914728682172,Percent,31121,1337
+Nebraska,Morrill,14.33370660694289,Percent,31123,1339
+Nebraska,Nance,13.25136612021858,Percent,31125,1341
+Nebraska,Nemaha,8.816120906801007,Percent,31127,1343
+Nebraska,Nuckolls,14.26448736998514,Percent,31129,1345
+Nebraska,Otoe,7.08955223880597,Percent,31131,1348
+Nebraska,Pawnee,13.658536585365855,Percent,31133,1350
+Nebraska,Perkins,12.590799031477,Percent,31135,1352
+Nebraska,Phelps,11.164465786314526,Percent,31137,1355
+Nebraska,Pierce,7.5250836120401345,Percent,31139,1356
+Nebraska,Platte,13.367037411526795,Percent,31141,1359
+Nebraska,Polk,8.803827751196172,Percent,31143,1362
+Nebraska,Red Willow,11.864406779661017,Percent,31145,1364
+Nebraska,Richardson,11.41396933560477,Percent,31147,1365
+Nebraska,Rock,nan,Percent,31149,1366
+Nebraska,Saline,8.799171842650104,Percent,31151,1367
+Nebraska,Sarpy,7.591904425539756,Percent,31153,1368
+Nebraska,Saunders,9.02948402948403,Percent,31155,1370
+Nebraska,Scotts Bluff,11.388972582103044,Percent,31157,1373
+Nebraska,Seward,7.899882675009777,Percent,31159,1375
+Nebraska,Sheridan,12.135922330097088,Percent,31161,1376
+Nebraska,Sherman,17.48878923766816,Percent,31163,1377
+Nebraska,Sioux,13.095238095238097,Percent,31165,1380
+Nebraska,Stanton,12.0,Percent,31167,1382
+Nebraska,Thayer,11.187214611872145,Percent,31169,1383
+Nebraska,Thomas,15.476190476190476,Percent,31171,1384
+Nebraska,Thurston,3.0792529025744573,Percent,31173,1385
+Nebraska,Valley,12.137203166226913,Percent,31175,1386
+Nebraska,Washington,5.691056910569105,Percent,31177,1387
+Nebraska,Wayne,10.956301456618114,Percent,31179,1388
+Nebraska,Webster,12.907801418439716,Percent,31181,1389
+Nebraska,Wheeler,8.60215053763441,Percent,31183,1390
+Nebraska,York,11.913175164058556,Percent,31185,1392
+Nevada,Churchill,7.520595269731597,Percent,32001,1396
+Nevada,Clark,8.724401379461227,Percent,32003,1399
+Nevada,Douglas,6.98559841085913,Percent,32005,1400
+Nevada,Elko,7.378715987217972,Percent,32007,1401
+Nevada,Esmeralda,10.256410256410255,Percent,32009,1404
+Nevada,Eureka,nan,Percent,32011,1406
+Nevada,Humboldt,6.854029251505592,Percent,32013,1407
+Nevada,Lander,6.093906093906094,Percent,32015,1408
+Nevada,Lincoln,12.326043737574553,Percent,32017,1410
+Nevada,Lyon,10.874646327961619,Percent,32019,1412
+Nevada,Mineral,4.9504950495049505,Percent,32021,1415
+Nevada,Nye,5.206073752711497,Percent,32023,1417
+Nevada,Pershing,9.70724191063174,Percent,32027,1419
+Nevada,Storey,nan,Percent,32029,1420
+Nevada,Washoe,4.8613498338489745,Percent,32031,1423
+Nevada,White Pine,nan,Percent,32033,1425
+Nevada,Carson City,5.0665364424368216,Percent,32510,1428
+New Hampshire,Belknap,5.40828402366864,Percent,33001,1432
+New Hampshire,Carroll,6.813417190775681,Percent,33003,1435
+New Hampshire,Cheshire,6.389920125998424,Percent,33005,1437
+New Hampshire,Coos,7.087428867046043,Percent,33007,1440
+New Hampshire,Grafton,5.5819044144472825,Percent,33009,1442
+New Hampshire,Hillsborough,4.033466323249668,Percent,33011,1443
+New Hampshire,Merrimack,4.311024656958099,Percent,33013,1444
+New Hampshire,Rockingham,2.8410625844214317,Percent,33015,1448
+New Hampshire,Strafford,4.136392606755895,Percent,33017,1453
+New Hampshire,Sullivan,5.75029539188657,Percent,33019,1454
+New Jersey,Atlantic,6.3728117184708815,Percent,34001,1461
+New Jersey,Bergen,4.19394208365694,Percent,34003,1465
+New Jersey,Burlington,5.161262627707982,Percent,34005,1470
+New Jersey,Camden,5.588026705142941,Percent,34007,1472
+New Jersey,Cape May,5.802861685214626,Percent,34009,1477
+New Jersey,Cumberland,6.411496971651793,Percent,34011,1482
+New Jersey,Essex,5.225259189443921,Percent,34013,1483
+New Jersey,Gloucester,4.921676985083309,Percent,34015,1484
+New Jersey,Hudson,7.68630421558838,Percent,34017,1487
+New Jersey,Hunterdon,1.706023614168501,Percent,34019,1488
+New Jersey,Mercer,5.4801823663504665,Percent,34021,1493
+New Jersey,Middlesex,4.852680951681825,Percent,34023,1497
+New Jersey,Monmouth,3.503562945368171,Percent,34025,1504
+New Jersey,Morris,2.5768736728969515,Percent,34027,1511
+New Jersey,Ocean,5.3954333233996055,Percent,34029,1546
+New Jersey,Passaic,4.137831429706211,Percent,34031,1551
+New Jersey,Salem,5.386565272496831,Percent,34033,1553
+New Jersey,Somerset,3.627780772018511,Percent,34035,1558
+New Jersey,Sussex,4.426922528855745,Percent,34037,1561
+New Jersey,Union,6.337892917351316,Percent,34039,1566
+New Jersey,Warren,4.774331297076093,Percent,34041,1570
+New Mexico,Bernalillo,4.12170369106295,Percent,35001,1574
+New Mexico,Catron,6.343283582089552,Percent,35003,1576
+New Mexico,Chaves,2.4171888988361685,Percent,35005,1578
+New Mexico,Cibola,nan,Percent,35006,1580
+New Mexico,Colfax,1.8419489007724301,Percent,35007,1582
+New Mexico,Curry,4.708453362471441,Percent,35009,1586
+New Mexico,De Baca,9.206349206349207,Percent,35011,1589
+New Mexico,Doña Ana,1.3957944893308474,Percent,35013,1590
+New Mexico,Eddy,8.535054688900843,Percent,35015,1592
+New Mexico,Grant,1.2856474988312296,Percent,35017,1594
+New Mexico,Guadalupe,0.0,Percent,35019,1595
+New Mexico,Harding,18.681318681318682,Percent,35021,1597
+New Mexico,Hidalgo,5.022156573116692,Percent,35023,1600
+New Mexico,Lea,9.008004198924025,Percent,35025,1604
+New Mexico,Lincoln,4.093154551870148,Percent,35027,1613
+New Mexico,Los Alamos,1.6769144773616547,Percent,35028,1618
+New Mexico,Luna,0.0,Percent,35029,1622
+New Mexico,McKinley,2.0422107500759186,Percent,35031,1626
+New Mexico,Mora,0.0,Percent,35033,1629
+New Mexico,Otero,7.616500070392791,Percent,35035,1633
+New Mexico,Quay,3.5788024776324847,Percent,35037,1637
+New Mexico,Rio Arriba,1.7483846446218168,Percent,35039,1639
+New Mexico,Roosevelt,8.087591240875911,Percent,35041,1642
+New Mexico,Sandoval,7.008086253369273,Percent,35043,1646
+New Mexico,San Juan,5.504321574790125,Percent,35045,1650
+New Mexico,San Miguel,1.2204828867073494,Percent,35047,1652
+New Mexico,Santa Fe,4.32532548891431,Percent,35049,1654
+New Mexico,Sierra,0.0,Percent,35051,1657
+New Mexico,Socorro,5.912717034256218,Percent,35053,1659
+New Mexico,Taos,4.261904761904762,Percent,35055,1662
+New Mexico,Torrance,3.237282106012095,Percent,35057,1664
+New Mexico,Union,12.199312714776632,Percent,35059,1667
+New Mexico,Valencia,4.2594460392582825,Percent,35061,1670
+New York,Albany,2.5235044308613794,Percent,36001,1673
+New York,Allegany,8.587299204323676,Percent,36003,1674
+New York,Bronx,3.388293047329385,Percent,36005,1681
+New York,Broome,4.974600188146754,Percent,36007,1683
+New York,Cattaraugus,6.526936563595792,Percent,36009,1687
+New York,Cayuga,4.8946716232961585,Percent,36011,1689
+New York,Chautauqua,4.734554486184415,Percent,36013,1694
+New York,Chemung,3.904627398853535,Percent,36015,1696
+New York,Chenango,7.622971928920938,Percent,36017,1699
+New York,Clinton,5.553999813310931,Percent,36019,1702
+New York,Columbia,5.533488563210518,Percent,36021,1704
+New York,Cortland,8.039559738395278,Percent,36023,1706
+New York,Delaware,7.741522712731926,Percent,36025,1707
+New York,Dutchess,4.669970658579283,Percent,36027,1711
+New York,Erie,3.3693840307787113,Percent,36029,1723
+New York,Essex,7.538535645472062,Percent,36031,1728
+New York,Franklin,7.507139942880457,Percent,36033,1731
+New York,Fulton,6.068376068376068,Percent,36035,1734
+New York,Genesee,6.805604615565761,Percent,36037,1736
+New York,Greene,5.1654964894684054,Percent,36039,1739
+New York,Hamilton,8.597285067873303,Percent,36041,1742
+New York,Herkimer,7.229551451187335,Percent,36043,1745
+New York,Jefferson,10.502207505518763,Percent,36045,1782
+New York,Kings,4.479237827957387,Percent,36047,1788
+New York,Lewis,10.689495603887089,Percent,36049,1790
+New York,Livingston,5.1045816733067735,Percent,36051,1791
+New York,Madison,6.536086863955716,Percent,36053,1796
+New York,Monroe,3.4910883440322253,Percent,36055,1804
+New York,Montgomery,3.024699511293092,Percent,36057,1807
+New York,Nassau,3.3924075386834196,Percent,36059,1839
+New York,New York,3.9790781225671394,Percent,36061,1847
+New York,Niagara,6.11775368633876,Percent,36063,1850
+New York,Oneida,5.278017862287525,Percent,36065,1852
+New York,Onondaga,4.0000556916908,Percent,36067,1853
+New York,Ontario,4.775530967823985,Percent,36069,1856
+New York,Orange,6.008832139726436,Percent,36071,1859
+New York,Orleans,7.459207459207459,Percent,36073,1862
+New York,Oswego,6.763309946347502,Percent,36075,1864
+New York,Otsego,8.338100686498857,Percent,36077,1868
+New York,Putnam,2.96419419627398,Percent,36079,1870
+New York,Queens,7.675703767864876,Percent,36081,1872
+New York,Rensselaer,4.70165419456479,Percent,36083,1874
+New York,Richmond,7.022542661041496,Percent,36085,1876
+New York,Rockland,3.3684158268381075,Percent,36087,1879
+New York,St. Lawrence,6.912442396313365,Percent,36089,1883
+New York,Saratoga,3.2903186349458746,Percent,36091,1885
+New York,Schenectady,3.3554044380816035,Percent,36093,1887
+New York,Schoharie,8.888373172429798,Percent,36095,1888
+New York,Schuyler,7.783018867924528,Percent,36097,1889
+New York,Seneca,nan,Percent,36099,1890
+New York,Steuben,8.656597245325703,Percent,36101,1891
+New York,Suffolk,4.51970423068689,Percent,36103,1924
+New York,Sullivan,nan,Percent,36105,1928
+New York,Tioga,6.185432195632274,Percent,36107,1930
+New York,Tompkins,5.771967271433653,Percent,36109,1933
+New York,Ulster,5.8999553372041085,Percent,36111,1935
+New York,Warren,4.417850352309586,Percent,36113,1938
+New York,Washington,6.147311948139041,Percent,36115,1942
+New York,Wayne,7.757740728138823,Percent,36117,1952
+New York,Westchester,3.974234889697293,Percent,36119,1960
+New York,Wyoming,6.53452406883032,Percent,36121,1962
+New York,Yates,5.531237564663749,Percent,36123,1965
+North Carolina,Alamance,4.929947107037591,Percent,37001,1967
+North Carolina,Alexander,8.123524783634933,Percent,37003,1968
+North Carolina,Alleghany,1.876675603217158,Percent,37005,1970
+North Carolina,Anson,0.0,Percent,37007,1972
+North Carolina,Ashe,11.086614173228346,Percent,37009,1975
+North Carolina,Avery,10.74688796680498,Percent,37011,1977
+North Carolina,Beaufort,5.549568965517242,Percent,37013,1981
+North Carolina,Bertie,0.0,Percent,37015,1983
+North Carolina,Bladen,0.0,Percent,37017,1986
+North Carolina,Brunswick,8.905013192612138,Percent,37019,1995
+North Carolina,Buncombe,7.715104854556583,Percent,37021,1422
+North Carolina,Burke,9.15669993143902,Percent,37023,1424
+North Carolina,Cabarrus,4.3490649121898155,Percent,37025,1426
+North Carolina,Caldwell,7.54902765241651,Percent,37027,1429
+North Carolina,Camden,6.774193548387098,Percent,37029,1433
+North Carolina,Carteret,6.579857109933164,Percent,37031,1447
+North Carolina,Caswell,3.7224430791470904,Percent,37033,1449
+North Carolina,Catawba,7.6022666170327176,Percent,37035,1450
+North Carolina,Chatham,4.425764634393356,Percent,37037,1451
+North Carolina,Cherokee,3.5395838962442583,Percent,37039,1452
+North Carolina,Chowan,7.6850984067478905,Percent,37041,1455
+North Carolina,Clay,7.9330422125181945,Percent,37043,1457
+North Carolina,Cleveland,5.507518796992481,Percent,37045,1458
+North Carolina,Columbus,1.6657824933687004,Percent,37047,1459
+North Carolina,Craven,8.175836483270334,Percent,37049,1462
+North Carolina,Cumberland,5.899343879717658,Percent,37051,1464
+North Carolina,Currituck,6.312945222304102,Percent,37053,1481
+North Carolina,Dare,7.462686567164178,Percent,37055,1485
+North Carolina,Davidson,5.133306804615997,Percent,37057,1489
+North Carolina,Davie,5.076704096156887,Percent,37059,1490
+North Carolina,Duplin,6.466030989272944,Percent,37061,1492
+North Carolina,Durham,5.033214103219213,Percent,37063,1494
+North Carolina,Edgecombe,1.0797631487286659,Percent,37065,1495
+North Carolina,Forsyth,3.5606538974251034,Percent,37067,1496
+North Carolina,Franklin,3.9516766399458056,Percent,37069,1498
+North Carolina,Gaston,4.309424159330351,Percent,37071,1499
+North Carolina,Gates,8.6404833836858,Percent,37073,1500
+North Carolina,Graham,10.53061224489796,Percent,37075,1502
+North Carolina,Granville,7.388995593718224,Percent,37077,1503
+North Carolina,Greene,5.419029615626969,Percent,37079,1505
+North Carolina,Guilford,3.4314974270138077,Percent,37081,1506
+North Carolina,Halifax,2.0127425427164782,Percent,37083,1508
+North Carolina,Harnett,8.733269598470363,Percent,37085,1509
+North Carolina,Haywood,7.186258471605515,Percent,37087,1512
+North Carolina,Henderson,8.40832193506587,Percent,37089,1514
+North Carolina,Hertford,0.0,Percent,37091,1515
+North Carolina,Hoke,5.38122088747242,Percent,37093,1517
+North Carolina,Hyde,0.0,Percent,37095,1521
+North Carolina,Iredell,6.47010647010647,Percent,37097,1525
+North Carolina,Jackson,6.931702344546381,Percent,37099,1528
+North Carolina,Johnston,5.096985473171551,Percent,37101,1530
+North Carolina,Jones,0.0,Percent,37103,1536
+North Carolina,Lee,6.646466621053661,Percent,37105,1540
+North Carolina,Lenoir,0.03238691568606283,Percent,37107,1542
+North Carolina,Lincoln,6.613522291113079,Percent,37109,1545
+North Carolina,McDowell,2.401921537229784,Percent,37111,1554
+North Carolina,Macon,10.689265536723164,Percent,37113,1556
+North Carolina,Madison,7.405875051717005,Percent,37115,1560
+North Carolina,Martin,1.0919248349415946,Percent,37117,1563
+North Carolina,Mecklenburg,2.723327282890646,Percent,37119,1565
+North Carolina,Mitchell,8.98876404494382,Percent,37121,1568
+North Carolina,Montgomery,8.80503144654088,Percent,37123,1573
+North Carolina,Moore,5.0290847507547305,Percent,37125,1584
+North Carolina,Nash,6.343763394770681,Percent,37127,1588
+North Carolina,New Hanover,3.8577968103957474,Percent,37129,1602
+North Carolina,Northampton,5.446153846153846,Percent,37131,1606
+North Carolina,Onslow,7.413747194644148,Percent,37133,1625
+North Carolina,Orange,3.570719110051649,Percent,37135,1630
+North Carolina,Pamlico,4.2076502732240435,Percent,37137,1703
+North Carolina,Pasquotank,8.331952956766605,Percent,37139,1714
+North Carolina,Pender,6.495484713306496,Percent,37141,1718
+North Carolina,Perquimans,7.626146788990826,Percent,37143,1724
+North Carolina,Person,3.213479242661108,Percent,37145,1729
+North Carolina,Pitt,4.093567251461988,Percent,37147,1733
+North Carolina,Polk,1.834862385321101,Percent,37149,1738
+North Carolina,Randolph,7.627408993576017,Percent,37151,1741
+North Carolina,Richmond,1.7610724142462872,Percent,37153,1744
+North Carolina,Robeson,0.2501714885203567,Percent,37155,1747
+North Carolina,Rockingham,0.3516013146831766,Percent,37157,1751
+North Carolina,Rowan,4.528301886792453,Percent,37159,1754
+North Carolina,Rutherford,1.2969283276450512,Percent,37161,1764
+North Carolina,Sampson,7.618080243778567,Percent,37163,1769
+North Carolina,Scotland,0.0,Percent,37165,1772
+North Carolina,Stanly,5.787497238789485,Percent,37167,1775
+North Carolina,Stokes,8.975377283558378,Percent,37169,1777
+North Carolina,Surry,6.878884596002016,Percent,37171,1780
+North Carolina,Swain,nan,Percent,37173,1784
+North Carolina,Transylvania,8.434690639873082,Percent,37175,1786
+North Carolina,Tyrrell,11.260504201680673,Percent,37177,1794
+North Carolina,Union,4.812147346208541,Percent,37179,1798
+North Carolina,Vance,0.48241716389488387,Percent,37181,1801
+North Carolina,Wake,4.382934443288241,Percent,37183,1805
+North Carolina,Warren,0.0,Percent,37185,1809
+North Carolina,Washington,0.0,Percent,37187,1811
+North Carolina,Watauga,7.5266478137916035,Percent,37189,1813
+North Carolina,Wayne,5.150779194495041,Percent,37191,1814
+North Carolina,Wilkes,0.0,Percent,37193,1817
+North Carolina,Wilson,3.329242098803314,Percent,37195,1819
+North Carolina,Yadkin,7.372367011781507,Percent,37197,1821
+North Carolina,Yancey,10.471441523118767,Percent,37199,1823
+North Dakota,Adams,7.6923076923076925,Percent,38001,1826
+North Dakota,Barnes,10.497237569060774,Percent,38003,1828
+North Dakota,Benson,3.275529865125241,Percent,38005,1831
+North Dakota,Billings,11.235955056179774,Percent,38007,1833
+North Dakota,Bottineau,8.089097303634233,Percent,38009,1836
+North Dakota,Bowman,6.9692058346839545,Percent,38011,1838
+North Dakota,Burke,7.349081364829396,Percent,38013,1841
+North Dakota,Burleigh,3.8604940189529287,Percent,38015,1844
+North Dakota,Cass,4.954607742377527,Percent,38017,1848
+North Dakota,Cavalier,9.465020576131687,Percent,38019,1849
+North Dakota,Dickey,7.1849234393404,Percent,38021,2004
+North Dakota,Divide,4.069767441860465,Percent,38023,2007
+North Dakota,Dunn,nan,Percent,38025,2013
+North Dakota,Eddy,8.598726114649681,Percent,38027,2017
+North Dakota,Emmons,11.397058823529411,Percent,38029,2021
+North Dakota,Foster,6.937394247038917,Percent,38031,2026
+North Dakota,Golden Valley,7.042253521126761,Percent,38033,2036
+North Dakota,Grand Forks,7.622259696458684,Percent,38035,2043
+North Dakota,Grant,9.170305676855897,Percent,38037,2051
+North Dakota,Griggs,12.990936555891238,Percent,38039,2056
+North Dakota,Hettinger,11.306042884990253,Percent,38041,2063
+North Dakota,Kidder,12.672176308539946,Percent,38043,2068
+North Dakota,LaMoure,6.619718309859154,Percent,38045,2074
+North Dakota,Logan,6.837606837606838,Percent,38047,2078
+North Dakota,McHenry,12.614445574771107,Percent,38049,2082
+North Dakota,McIntosh,13.573407202216067,Percent,38051,2090
+North Dakota,McKenzie,nan,Percent,38053,2097
+North Dakota,McLean,8.270238788584741,Percent,38055,2103
+North Dakota,Mercer,4.256965944272446,Percent,38057,2107
+North Dakota,Morton,6.4449493906217725,Percent,38059,2114
+North Dakota,Mountrail,4.986876640419948,Percent,38061,2119
+North Dakota,Nelson,12.589073634204276,Percent,38063,2122
+North Dakota,Oliver,2.6785714285714284,Percent,38065,2127
+North Dakota,Pembina,9.248554913294797,Percent,38067,2131
+North Dakota,Pierce,5.853658536585367,Percent,38069,2136
+North Dakota,Ramsey,9.234972677595628,Percent,38071,2141
+North Dakota,Ransom,7.4074074074074066,Percent,38073,2147
+North Dakota,Renville,8.841463414634147,Percent,38075,2150
+North Dakota,Richland,8.31500219973603,Percent,38077,2156
+North Dakota,Rolette,nan,Percent,38079,2161
+North Dakota,Sargent,7.876712328767123,Percent,38081,2164
+North Dakota,Sheridan,5.128205128205128,Percent,38083,2169
+North Dakota,Sioux,0.0,Percent,38085,2175
+North Dakota,Slope,nan,Percent,38087,2180
+North Dakota,Stark,5.169258920402562,Percent,38089,2182
+North Dakota,Steele,5.232558139534884,Percent,38091,2186
+North Dakota,Stutsman,8.620689655172415,Percent,38093,2199
+North Dakota,Towner,8.754208754208754,Percent,38095,2205
+North Dakota,Traill,9.878419452887538,Percent,38097,2217
+North Dakota,Walsh,8.10071154898741,Percent,38099,2225
+North Dakota,Ward,7.088755098077297,Percent,38101,2233
+North Dakota,Wells,9.65391621129326,Percent,38103,2237
+North Dakota,Williams,5.072056896874415,Percent,38105,2244
+Ohio,Adams,7.68755152514427,Percent,39001,2248
+Ohio,Allen,6.886013394889135,Percent,39003,2250
+Ohio,Ashland,7.270393278095461,Percent,39005,2254
+Ohio,Ashtabula,6.409786828803751,Percent,39007,2259
+Ohio,Athens,4.030605273944528,Percent,39009,2266
+Ohio,Auglaize,7.880888204338339,Percent,39011,2273
+Ohio,Belmont,6.279069767441861,Percent,39013,2278
+Ohio,Brown,9.795689896445564,Percent,39015,2282
+Ohio,Butler,4.218284459777324,Percent,39017,2286
+Ohio,Carroll,9.144158802473152,Percent,39019,2289
+Ohio,Champaign,7.778900274209842,Percent,39021,2291
+Ohio,Clark,3.5951936425870072,Percent,39023,2300
+Ohio,Clermont,5.68956668377447,Percent,39025,2306
+Ohio,Clinton,6.584678452472457,Percent,39027,2310
+Ohio,Columbiana,5.723727693324521,Percent,39029,2315
+Ohio,Coshocton,6.911581569115816,Percent,39031,2317
+Ohio,Crawford,8.76058506543495,Percent,39033,2323
+Ohio,Cuyahoga,2.981372273705888,Percent,39035,2332
+Ohio,Darke,8.780317164179104,Percent,39037,2345
+Ohio,Defiance,11.034371988435593,Percent,39039,2350
+Ohio,Delaware,2.4265286875844314,Percent,39041,2352
+Ohio,Erie,4.420343439322981,Percent,39043,2357
+Ohio,Fairfield,4.9580411075526,Percent,39045,2365
+Ohio,Fayette,7.458048477315103,Percent,39047,2368
+Ohio,Franklin,2.918961408034828,Percent,39049,2375
+Ohio,Fulton,7.677242459851155,Percent,39051,2378
+Ohio,Gallia,2.6084949215143123,Percent,39053,2383
+Ohio,Geauga,4.724990771502399,Percent,39055,2390
+Ohio,Greene,3.992640294388224,Percent,39057,2393
+Ohio,Guernsey,8.400509121764955,Percent,39059,2399
+Ohio,Hamilton,2.73008085763605,Percent,39061,2411
+Ohio,Hancock,5.692269450658713,Percent,39063,2427
+Ohio,Hardin,8.468595624558928,Percent,39065,2432
+Ohio,Harrison,9.338747099767982,Percent,39067,2440
+Ohio,Henry,8.236389018147976,Percent,39069,2451
+Ohio,Highland,6.394115150657802,Percent,39071,2457
+Ohio,Hocking,10.31434184675835,Percent,39073,2461
+Ohio,Holmes,13.174095050480178,Percent,39075,2464
+Ohio,Huron,8.340526542943461,Percent,39077,2468
+Ohio,Jackson,6.40355968272393,Percent,39079,2472
+Ohio,Jefferson,5.1284928739759845,Percent,39081,2476
+Ohio,Knox,6.903301579016051,Percent,39083,2479
+Ohio,Lake,4.8122436099716,Percent,39085,2493
+Ohio,Lawrence,2.825879103367683,Percent,39087,2499
+Ohio,Licking,5.420445922017851,Percent,39089,2504
+Ohio,Logan,8.409926470588236,Percent,39091,2510
+Ohio,Lorain,4.110312521527475,Percent,39093,2516
+Ohio,Lucas,2.4490930571964697,Percent,39095,2520
+Ohio,Madison,5.856515373352855,Percent,39097,2529
+Ohio,Mahoning,5.034493823199101,Percent,39099,2534
+Ohio,Marion,4.1050617498695425,Percent,39101,2541
+Ohio,Medina,3.8077214231642698,Percent,39103,2545
+Ohio,Meigs,5.889387144992527,Percent,39105,2549
+Ohio,Mercer,6.294058408862034,Percent,39107,2552
+Ohio,Miami,5.519713261648746,Percent,39109,2558
+Ohio,Monroe,8.842523596621957,Percent,39111,2565
+Ohio,Montgomery,4.753978032348546,Percent,39113,2573
+Ohio,Morgan,11.924257932446263,Percent,39115,2000
+Ohio,Morrow,8.194289951798295,Percent,39117,2006
+Ohio,Muskingum,3.972402257997073,Percent,39119,2010
+Ohio,Noble,7.834928229665072,Percent,39121,2012
+Ohio,Ottawa,6.912109727486013,Percent,39123,2019
+Ohio,Paulding,8.784866944533503,Percent,39125,2024
+Ohio,Perry,4.463827603899436,Percent,39127,2027
+Ohio,Pickaway,4.544466188301804,Percent,39129,2031
+Ohio,Pike,2.2427164116537415,Percent,39131,2034
+Ohio,Portage,4.768463547850867,Percent,39133,2038
+Ohio,Preble,6.9306930693069315,Percent,39135,2039
+Ohio,Putnam,5.456365760053396,Percent,39137,2040
+Ohio,Richland,7.2140342502535955,Percent,39139,2042
+Ohio,Ross,2.7289048473967683,Percent,39141,2045
+Ohio,Sandusky,7.890946502057614,Percent,39143,2047
+Ohio,Scioto,5.507945752558449,Percent,39145,2048
+Ohio,Seneca,8.330698703762252,Percent,39147,2049
+Ohio,Shelby,5.984919886899152,Percent,39149,2052
+Ohio,Stark,4.067742956631846,Percent,39151,2054
+Ohio,Summit,3.020261828453474,Percent,39153,2057
+Ohio,Trumbull,6.1138211382113825,Percent,39155,2061
+Ohio,Tuscarawas,7.587904803989646,Percent,39157,2065
+Ohio,Union,4.335288853534851,Percent,39159,2067
+Ohio,Van Wert,10.185614849187935,Percent,39161,2071
+Ohio,Vinton,3.2333645735707592,Percent,39163,2075
+Ohio,Warren,3.1138474950281965,Percent,39165,2076
+Ohio,Washington,8.073582013285641,Percent,39167,2080
+Ohio,Wayne,8.51630505391711,Percent,39169,2084
+Ohio,Williams,7.224128589488893,Percent,39171,2087
+Ohio,Wood,5.95337917155794,Percent,39173,2091
+Ohio,Wyandot,10.47180667433832,Percent,39175,2093
+Oklahoma,Adair,6.071658442394336,Percent,40001,2095
+Oklahoma,Alfalfa,11.304347826086957,Percent,40003,2099
+Oklahoma,Atoka,5.941422594142259,Percent,40005,2102
+Oklahoma,Beaver,9.457092819614711,Percent,40007,2104
+Oklahoma,Beckham,9.758477677482313,Percent,40009,2106
+Oklahoma,Blaine,8.156329651656755,Percent,40011,2110
+Oklahoma,Bryan,11.29408713692946,Percent,40013,2112
+Oklahoma,Caddo,6.709090909090909,Percent,40015,2118
+Oklahoma,Canadian,7.242100545305147,Percent,40017,2123
+Oklahoma,Carter,5.850720585072058,Percent,40019,2126
+Oklahoma,Cherokee,8.72318428534505,Percent,40021,2129
+Oklahoma,Choctaw,3.4443168771526977,Percent,40023,2133
+Oklahoma,Cimarron,14.498933901918976,Percent,40025,2135
+Oklahoma,Cleveland,7.697762020828717,Percent,40027,2140
+Oklahoma,Coal,8.873720136518772,Percent,40029,2144
+Oklahoma,Comanche,11.178345420111784,Percent,40031,2145
+Oklahoma,Cotton,11.244239631336406,Percent,40033,2146
+Oklahoma,Craig,11.697165410836025,Percent,40035,2148
+Oklahoma,Creek,11.943055021161985,Percent,40037,2151
+Oklahoma,Custer,10.501367365542388,Percent,40039,2153
+Oklahoma,Delaware,10.297482837528605,Percent,40041,2154
+Oklahoma,Dewey,11.775200713648529,Percent,40043,2158
+Oklahoma,Ellis,9.069493521790342,Percent,40045,2165
+Oklahoma,Garfield,7.716182429519786,Percent,40047,2167
+Oklahoma,Garvin,9.287646528403966,Percent,40049,2176
+Oklahoma,Grady,7.473158286382481,Percent,40051,2184
+Oklahoma,Grant,14.738124238733253,Percent,40053,2187
+Oklahoma,Greer,12.221144519883609,Percent,40055,2189
+Oklahoma,Harmon,13.182674199623351,Percent,40057,2191
+Oklahoma,Harper,17.10182767624021,Percent,40059,2193
+Oklahoma,Haskell,9.170854271356783,Percent,40061,2195
+Oklahoma,Hughes,5.473684210526316,Percent,40063,2197
+Oklahoma,Jackson,9.008629762155335,Percent,40065,2202
+Oklahoma,Jefferson,8.846487424111015,Percent,40067,2206
+Oklahoma,Johnston,11.06060606060606,Percent,40069,2211
+Oklahoma,Kay,9.565217391304348,Percent,40071,2215
+Oklahoma,Kingfisher,9.88562091503268,Percent,40073,2219
+Oklahoma,Kiowa,10.662650602409638,Percent,40075,2222
+Oklahoma,Latimer,8.922670191672175,Percent,40077,2226
+Oklahoma,Le Flore,6.618617399248808,Percent,40079,2230
+Oklahoma,Lincoln,8.929213079410708,Percent,40081,2234
+Oklahoma,Logan,9.07563025210084,Percent,40083,2236
+Oklahoma,Love,11.614278103356419,Percent,40085,2238
+Oklahoma,McClain,6.890275611024441,Percent,40087,2245
+Oklahoma,McCurtain,8.005327019828352,Percent,40089,2252
+Oklahoma,McIntosh,12.834932186569633,Percent,40091,2258
+Oklahoma,Major,14.32,Percent,40093,2260
+Oklahoma,Marshall,6.895380434782608,Percent,40095,2265
+Oklahoma,Mayes,5.452562704471101,Percent,40097,2270
+Oklahoma,Murray,nan,Percent,40099,2276
+Oklahoma,Muskogee,8.580882352941178,Percent,40101,2281
+Oklahoma,Noble,10.927743086529883,Percent,40103,2287
+Oklahoma,Nowata,9.129511677282377,Percent,40105,2290
+Oklahoma,Okfuskee,9.266409266409266,Percent,40107,2297
+Oklahoma,Oklahoma,5.679348217241727,Percent,40109,2303
+Oklahoma,Okmulgee,8.915129151291513,Percent,40111,2311
+Oklahoma,Osage,9.763101220387654,Percent,40113,2318
+Oklahoma,Ottawa,9.978380176284716,Percent,40115,2325
+Oklahoma,Pawnee,11.225658648339062,Percent,40117,2329
+Oklahoma,Payne,9.390862944162437,Percent,40119,2340
+Oklahoma,Pittsburg,9.294993063438012,Percent,40121,2344
+Oklahoma,Pontotoc,9.980753368160572,Percent,40123,2351
+Oklahoma,Pottawatomie,6.4700571772494735,Percent,40125,2356
+Oklahoma,Pushmataha,3.3628318584070795,Percent,40127,2362
+Oklahoma,Roger Mills,7.547169811320755,Percent,40129,2369
+Oklahoma,Rogers,9.559164733178655,Percent,40131,2374
+Oklahoma,Seminole,7.098357560883518,Percent,40133,2384
+Oklahoma,Sequoyah,6.25380216571359,Percent,40135,2391
+Oklahoma,Stephens,7.3859432799013565,Percent,40137,2396
+Oklahoma,Texas,10.966931770615322,Percent,40139,2003
+Oklahoma,Tillman,9.472981987991995,Percent,40141,2005
+Oklahoma,Tulsa,8.958519531044635,Percent,40143,2008
+Oklahoma,Wagoner,6.053399632472165,Percent,40145,2014
+Oklahoma,Washington,7.070600632244468,Percent,40147,2018
+Oklahoma,Washita,10.569852941176471,Percent,40149,2023
+Oklahoma,Woods,9.565857247976453,Percent,40151,2029
+Oklahoma,Woodward,9.441624365482234,Percent,40153,2035
+Oregon,Baker,nan,Percent,41001,2044
+Oregon,Benton,5.445099410530522,Percent,41003,2053
+Oregon,Clackamas,5.718927162417532,Percent,41005,2058
+Oregon,Clatsop,9.381158849034293,Percent,41007,2064
+Oregon,Columbia,6.888618216267424,Percent,41009,2070
+Oregon,Coos,nan,Percent,41011,2083
+Oregon,Crook,12.508638562543192,Percent,41013,2092
+Oregon,Curry,11.546655304644226,Percent,41015,2098
+Oregon,Deschutes,8.14736512410931,Percent,41017,2109
+Oregon,Douglas,9.159809441316586,Percent,41019,2115
+Oregon,Gilliam,16.02787456445993,Percent,41021,2121
+Oregon,Grant,13.666666666666666,Percent,41023,2130
+Oregon,Harney,nan,Percent,41025,2134
+Oregon,Hood River,8.663908493550743,Percent,41027,2138
+Oregon,Jackson,6.576919124447642,Percent,41029,2139
+Oregon,Jefferson,nan,Percent,41031,2143
+Oregon,Josephine,8.537608351197688,Percent,41033,2152
+Oregon,Klamath,7.8113248092833345,Percent,41035,2155
+Oregon,Lake,nan,Percent,41037,2159
+Oregon,Lane,8.070721672411876,Percent,41039,2170
+Oregon,Lincoln,6.728280961182994,Percent,41041,2174
+Oregon,Linn,7.4800290486565,Percent,41043,2181
+Oregon,Malheur,7.9831932773109235,Percent,41045,2185
+Oregon,Marion,7.432930487700351,Percent,41047,2200
+Oregon,Morrow,11.367521367521368,Percent,41049,2209
+Oregon,Multnomah,6.723880268999165,Percent,41051,2218
+Oregon,Polk,7.273173525321116,Percent,41053,2223
+Oregon,Sherman,11.885245901639344,Percent,41055,2232
+Oregon,Tillamook,8.68789050877715,Percent,41057,2242
+Oregon,Umatilla,10.11440647088829,Percent,41059,2251
+Oregon,Union,8.070918232336597,Percent,41061,2257
+Oregon,Wallowa,nan,Percent,41063,2263
+Oregon,Wasco,7.579122709605775,Percent,41065,2267
+Oregon,Washington,5.608184918529746,Percent,41067,2272
+Oregon,Wheeler,nan,Percent,41069,2277
+Oregon,Yamhill,6.819405395704971,Percent,41071,2284
+Pennsylvania,Adams,5.113890129522108,Percent,42001,2292
+Pennsylvania,Allegheny,2.6556386848788525,Percent,42003,2302
+Pennsylvania,Armstrong,6.017119838872105,Percent,42005,2309
+Pennsylvania,Beaver,2.723022491786707,Percent,42007,2321
+Pennsylvania,Bedford,7.19264422363933,Percent,42009,2324
+Pennsylvania,Berks,3.324291834910458,Percent,42011,2326
+Pennsylvania,Blair,5.743699369936993,Percent,42013,2328
+Pennsylvania,Bradford,8.13096270598439,Percent,42015,2333
+Pennsylvania,Bucks,3.3253577401969894,Percent,42017,2336
+Pennsylvania,Butler,3.4997086812973395,Percent,42019,2338
+Pennsylvania,Cambria,5.681103037931232,Percent,42021,2341
+Pennsylvania,Cameron,7.534246575342466,Percent,42023,2343
+Pennsylvania,Carbon,5.788982259570495,Percent,42025,2349
+Pennsylvania,Centre,3.611942375948222,Percent,42027,2354
+Pennsylvania,Chester,2.1407107557056646,Percent,42029,2360
+Pennsylvania,Clarion,6.672597864768683,Percent,42031,2366
+Pennsylvania,Clearfield,6.266888380794014,Percent,42033,2372
+Pennsylvania,Clinton,5.558055805580557,Percent,42035,2379
+Pennsylvania,Columbia,4.758454106280193,Percent,42037,2385
+Pennsylvania,Crawford,5.782026051916409,Percent,42039,2389
+Pennsylvania,Cumberland,3.3177928215608636,Percent,42041,2397
+Pennsylvania,Dauphin,3.215247934804391,Percent,42043,2403
+Pennsylvania,Delaware,3.458705031978801,Percent,42045,2414
+Pennsylvania,Elk,5.323085681753487,Percent,42047,2420
+Pennsylvania,Erie,3.807413895257477,Percent,42049,2425
+Pennsylvania,Fayette,2.0699908508691673,Percent,42051,2431
+Pennsylvania,Forest,9.555555555555555,Percent,42053,2436
+Pennsylvania,Franklin,5.646230512504,Percent,42055,2439
+Pennsylvania,Fulton,7.417974322396577,Percent,42057,2446
+Pennsylvania,Greene,5.259938837920489,Percent,42059,2447
+Pennsylvania,Huntingdon,7.624633431085044,Percent,42061,2454
+Pennsylvania,Indiana,5.923307626392459,Percent,42063,2459
+Pennsylvania,Jefferson,7.319841119727634,Percent,42065,2462
+Pennsylvania,Juniata,6.906173700732474,Percent,42067,2466
+Pennsylvania,Lackawanna,3.7638084271886587,Percent,42069,2471
+Pennsylvania,Lancaster,4.108458502768483,Percent,42071,2482
+Pennsylvania,Lawrence,3.3620404107320305,Percent,42073,2488
+Pennsylvania,Lebanon,2.9486580491096923,Percent,42075,2492
+Pennsylvania,Lehigh,4.596386919734736,Percent,42077,2496
+Pennsylvania,Luzerne,2.7812143129044538,Percent,42079,2501
+Pennsylvania,Lycoming,5.105610988726189,Percent,42081,2505
+Pennsylvania,McKean,4.572296271300827,Percent,42083,2509
+Pennsylvania,Mercer,3.7160807378692686,Percent,42085,2513
+Pennsylvania,Mifflin,5.646220221346839,Percent,42087,2517
+Pennsylvania,Monroe,6.216285640893912,Percent,42089,2521
+Pennsylvania,Montgomery,2.3101438407526076,Percent,42091,2528
+Pennsylvania,Montour,0.5130397605814451,Percent,42093,2533
+Pennsylvania,Northampton,4.393405127227676,Percent,42095,2537
+Pennsylvania,Northumberland,7.526495419435962,Percent,42097,2544
+Pennsylvania,Perry,5.55011426705844,Percent,42099,2554
+Pennsylvania,Philadelphia,0.8749922885520985,Percent,42101,2563
+Pennsylvania,Pike,6.188584570353335,Percent,42103,2571
+Pennsylvania,Potter,6.7888999008919715,Percent,42105,2575
+Pennsylvania,Schuylkill,4.584262330741204,Percent,42107,2581
+Pennsylvania,Snyder,6.110531803962461,Percent,42109,2583
+Pennsylvania,Somerset,6.804862166268721,Percent,42111,2589
+Pennsylvania,Sullivan,7.246376811594203,Percent,42113,2293
+Pennsylvania,Susquehanna,6.38677257254012,Percent,42115,2298
+Pennsylvania,Tioga,6.861831064702592,Percent,42117,2305
+Pennsylvania,Union,4.702495201535509,Percent,42119,2313
+Pennsylvania,Venango,5.694578119987167,Percent,42121,2316
+Pennsylvania,Warren,4.8666948793906055,Percent,42123,2322
+Pennsylvania,Washington,3.7810321295510714,Percent,42125,2346
+Pennsylvania,Wayne,6.672297297297297,Percent,42127,2363
+Pennsylvania,Westmoreland,3.3366002395731247,Percent,42129,2394
+Pennsylvania,Wyoming,4.750935790382954,Percent,42131,2407
+Pennsylvania,York,4.054860805630617,Percent,42133,2419
+Rhode Island,Bristol,3.536196691455456,Percent,44001,2433
+Rhode Island,Kent,4.557809921366857,Percent,44003,2444
+Rhode Island,Newport,4.876227059325651,Percent,44005,2460
+Rhode Island,Providence,6.389888827063059,Percent,44007,2475
+Rhode Island,Washington,2.7589698158577485,Percent,44009,2484
+South Carolina,Abbeville,8.28935113318845,Percent,45001,2489
+South Carolina,Aiken,5.586408326134353,Percent,45003,2503
+South Carolina,Allendale,0.0,Percent,45005,2527
+South Carolina,Anderson,5.489951705873189,Percent,45007,2559
+South Carolina,Bamberg,0.0,Percent,45009,2592
+South Carolina,Barnwell,5.2590873936581595,Percent,45011,2605
+South Carolina,Beaufort,5.75609756097561,Percent,45013,2626
+South Carolina,Berkeley,9.533389382656738,Percent,45015,2631
+South Carolina,Calhoun,0.0,Percent,45017,2635
+South Carolina,Charleston,3.253173828125,Percent,45019,2691
+South Carolina,Cherokee,4.789888014192261,Percent,45021,2700
+South Carolina,Chester,5.325898865602769,Percent,45023,2704
+South Carolina,Chesterfield,0.0,Percent,45025,2708
+South Carolina,Clarendon,1.399003449597547,Percent,45027,2715
+South Carolina,Colleton,0.0,Percent,45029,2718
+South Carolina,Darlington,0.0,Percent,45031,2721
+South Carolina,Dillon,1.5698852126941256,Percent,45033,2725
+South Carolina,Dorchester,5.011838989739542,Percent,45035,2730
+South Carolina,Edgefield,4.690935743953091,Percent,45037,2735
+South Carolina,Fairfield,0.3618421052631579,Percent,45039,2738
+South Carolina,Florence,4.248310088132112,Percent,45041,2742
+South Carolina,Georgetown,1.186545604622369,Percent,45043,2752
+South Carolina,Greenville,5.278835015720668,Percent,45045,2759
+South Carolina,Greenwood,2.76623950508175,Percent,45047,2764
+South Carolina,Hampton,4.123386842933585,Percent,45049,2767
+South Carolina,Horry,5.314165724438701,Percent,45051,2774
+South Carolina,Jasper,1.3290017720023628,Percent,45053,2783
+South Carolina,Kershaw,6.716839134524929,Percent,45055,2787
+South Carolina,Lancaster,6.43909393315381,Percent,45057,2790
+South Carolina,Laurens,4.3842209898503715,Percent,45059,2794
+South Carolina,Lee,1.1130136986301369,Percent,45061,2800
+South Carolina,Lexington,5.481337543518743,Percent,45063,2803
+South Carolina,McCormick,0.0,Percent,45065,2807
+South Carolina,Marion,0.0,Percent,45067,2811
+South Carolina,Marlboro,0.0,Percent,45069,2813
+South Carolina,Newberry,5.94365738479075,Percent,45071,2818
+South Carolina,Oconee,6.548300878197785,Percent,45073,2822
+South Carolina,Orangeburg,0.04451368795904741,Percent,45075,2829
+South Carolina,Pickens,5.680047932893949,Percent,45077,2834
+South Carolina,Richland,5.212586383506702,Percent,45079,2843
+South Carolina,Saluda,4.100480236424086,Percent,45081,2846
+South Carolina,Spartanburg,6.729469588367806,Percent,45083,2851
+South Carolina,Sumter,0.0,Percent,45085,2855
+South Carolina,Union,6.498900561935011,Percent,45087,2860
+South Carolina,Williamsburg,0.0,Percent,45089,2864
+South Carolina,York,5.084297520661157,Percent,45091,2867
+South Dakota,Aurora,19.218241042345277,Percent,46003,2870
+South Dakota,Beadle,7.322033898305085,Percent,46005,2874
+South Dakota,Bennett,nan,Percent,46007,2876
+South Dakota,Bon Homme,10.951008645533141,Percent,46009,2879
+South Dakota,Brookings,7.016769638128862,Percent,46011,2882
+South Dakota,Brown,7.833603457590492,Percent,46013,2885
+South Dakota,Brule,9.069212410501192,Percent,46015,2888
+South Dakota,Buffalo,nan,Percent,46017,2891
+South Dakota,Butte,13.620071684587815,Percent,46019,2895
+South Dakota,Campbell,16.666666666666664,Percent,46021,2897
+South Dakota,Charles Mix,1.3722126929674099,Percent,46023,2900
+South Dakota,Clark,9.703947368421053,Percent,46025,2901
+South Dakota,Clay,6.73758865248227,Percent,46027,2903
+South Dakota,Codington,11.243611584327088,Percent,46029,2906
+South Dakota,Corson,0.0,Percent,46031,2907
+South Dakota,Custer,nan,Percent,46033,2908
+South Dakota,Davison,7.673190431811122,Percent,46035,2910
+South Dakota,Day,6.302521008403361,Percent,46037,2911
+South Dakota,Deuel,9.70464135021097,Percent,46039,2912
+South Dakota,Dewey,nan,Percent,46041,2914
+South Dakota,Douglas,12.056737588652481,Percent,46043,2916
+South Dakota,Edmunds,9.049079754601227,Percent,46045,2917
+South Dakota,Fall River,9.140767824497258,Percent,46047,2919
+South Dakota,Faulk,6.896551724137931,Percent,46049,2921
+South Dakota,Grant,9.814814814814815,Percent,46051,2922
+South Dakota,Gregory,15.074024226110364,Percent,46053,2923
+South Dakota,Haakon,16.98717948717949,Percent,46055,2924
+South Dakota,Hamlin,16.602316602316602,Percent,46057,2926
+South Dakota,Hand,10.722100656455142,Percent,46059,2928
+South Dakota,Hanson,9.200603318250378,Percent,46061,2929
+South Dakota,Harding,11.170212765957446,Percent,46063,2931
+South Dakota,Hughes,5.7965594614809275,Percent,46065,2933
+South Dakota,Hutchinson,8.64,Percent,46067,2934
+South Dakota,Hyde,nan,Percent,46069,2937
+South Dakota,Jackson,10.434782608695652,Percent,46071,2939
+South Dakota,Jerauld,7.901907356948229,Percent,46073,2941
+South Dakota,Jones,12.021857923497267,Percent,46075,2944
+South Dakota,Kingsbury,10.714285714285714,Percent,46077,2945
+South Dakota,Lake,9.629272989889264,Percent,46079,2401
+South Dakota,Lawrence,nan,Percent,46081,2406
+South Dakota,Lincoln,4.7805536799459825,Percent,46083,2410
+South Dakota,Lyman,12.592592592592592,Percent,46085,2417
+South Dakota,McCook,7.879377431906614,Percent,46087,2422
+South Dakota,McPherson,13.395638629283487,Percent,46089,2426
+South Dakota,Marshall,10.33434650455927,Percent,46091,2430
+South Dakota,Meade,11.217257318952234,Percent,46093,2442
+South Dakota,Mellette,0.0,Percent,46095,2450
+South Dakota,Miner,7.563025210084033,Percent,46097,2456
+South Dakota,Minnehaha,6.958875132209295,Percent,46099,2467
+South Dakota,Moody,11.617806731813246,Percent,46101,2485
+South Dakota,Pennington,7.2478250646602405,Percent,46103,2497
+South Dakota,Perkins,16.548463356973993,Percent,46105,2502
+South Dakota,Potter,13.513513513513514,Percent,46107,2506
+South Dakota,Roberts,10.978835978835978,Percent,46109,2511
+South Dakota,Sanborn,11.519607843137255,Percent,46111,2514
+South Dakota,Shannon,nan,Percent,46113,2519
+South Dakota,Spink,7.899305555555555,Percent,46115,2523
+South Dakota,Stanley,nan,Percent,46117,2530
+South Dakota,Sully,11.914893617021278,Percent,46119,2535
+South Dakota,Todd,0.0,Percent,46121,2540
+South Dakota,Tripp,13.432835820895523,Percent,46123,2546
+South Dakota,Turner,9.198813056379821,Percent,46125,2550
+South Dakota,Union,4.676985195154778,Percent,46127,2557
+South Dakota,Walworth,7.75462962962963,Percent,46129,2561
+South Dakota,Yankton,8.288,Percent,46135,2569
+South Dakota,Ziebach,0.0,Percent,46137,2578
+Tennessee,Anderson,nan,Percent,47001,2584
+Tennessee,Bedford,nan,Percent,47003,2593
+Tennessee,Benton,nan,Percent,47005,2598
+Tennessee,Bledsoe,nan,Percent,47007,2602
+Tennessee,Blount,nan,Percent,47009,2622
+Tennessee,Bradley,nan,Percent,47011,2627
+Tennessee,Campbell,nan,Percent,47013,2633
+Tennessee,Cannon,nan,Percent,47015,2638
+Tennessee,Carroll,nan,Percent,47017,2648
+Tennessee,Carter,nan,Percent,47019,2654
+Tennessee,Cheatham,nan,Percent,47021,2660
+Tennessee,Chester,nan,Percent,47023,2664
+Tennessee,Claiborne,nan,Percent,47025,2670
+Tennessee,Clay,nan,Percent,47027,2679
+Tennessee,Cocke,nan,Percent,47029,2686
+Tennessee,Coffee,nan,Percent,47031,2689
+Tennessee,Crockett,nan,Percent,47033,2693
+Tennessee,Cumberland,nan,Percent,47035,2696
+Tennessee,Davidson,nan,Percent,47037,2698
+Tennessee,Decatur,nan,Percent,47039,2705
+Tennessee,DeKalb,nan,Percent,47041,2710
+Tennessee,Dickson,nan,Percent,47043,2717
+Tennessee,Dyer,nan,Percent,47045,2723
+Tennessee,Fayette,nan,Percent,47047,2726
+Tennessee,Fentress,nan,Percent,47049,2731
+Tennessee,Franklin,nan,Percent,47051,2734
+Tennessee,Gibson,nan,Percent,47053,2739
+Tennessee,Giles,nan,Percent,47055,2743
+Tennessee,Grainger,nan,Percent,47057,2748
+Tennessee,Greene,nan,Percent,47059,2750
+Tennessee,Grundy,nan,Percent,47061,2754
+Tennessee,Hamblen,nan,Percent,47063,2757
+Tennessee,Hamilton,nan,Percent,47065,2761
+Tennessee,Hancock,nan,Percent,47067,2766
+Tennessee,Hardeman,nan,Percent,47069,2770
+Tennessee,Hardin,nan,Percent,47071,2773
+Tennessee,Hawkins,nan,Percent,47073,2779
+Tennessee,Haywood,nan,Percent,47075,2781
+Tennessee,Henderson,nan,Percent,47077,2786
+Tennessee,Henry,nan,Percent,47079,2789
+Tennessee,Hickman,nan,Percent,47081,2792
+Tennessee,Houston,nan,Percent,47083,2796
+Tennessee,Humphreys,nan,Percent,47085,2798
+Tennessee,Jackson,nan,Percent,47087,2801
+Tennessee,Jefferson,nan,Percent,47089,2804
+Tennessee,Johnson,nan,Percent,47091,2808
+Tennessee,Knox,nan,Percent,47093,2814
+Tennessee,Lake,nan,Percent,47095,2817
+Tennessee,Lauderdale,nan,Percent,47097,2821
+Tennessee,Lawrence,nan,Percent,47099,2823
+Tennessee,Lewis,nan,Percent,47101,2825
+Tennessee,Lincoln,nan,Percent,47103,2828
+Tennessee,Loudon,nan,Percent,47105,2830
+Tennessee,McMinn,nan,Percent,47107,2833
+Tennessee,McNairy,nan,Percent,47109,2836
+Tennessee,Macon,nan,Percent,47111,2839
+Tennessee,Madison,nan,Percent,47113,2841
+Tennessee,Marion,nan,Percent,47115,2844
+Tennessee,Marshall,nan,Percent,47117,2848
+Tennessee,Maury,nan,Percent,47119,2850
+Tennessee,Meigs,nan,Percent,47121,2854
+Tennessee,Monroe,nan,Percent,47123,2857
+Tennessee,Montgomery,nan,Percent,47125,2859
+Tennessee,Moore,nan,Percent,47127,2863
+Tennessee,Morgan,nan,Percent,47129,2866
+Tennessee,Obion,nan,Percent,47131,2872
+Tennessee,Overton,nan,Percent,47133,2875
+Tennessee,Perry,nan,Percent,47135,2878
+Tennessee,Pickett,nan,Percent,47137,2881
+Tennessee,Polk,nan,Percent,47139,2883
+Tennessee,Putnam,nan,Percent,47141,2890
+Tennessee,Rhea,nan,Percent,47143,2893
+Tennessee,Roane,nan,Percent,47145,2001
+Tennessee,Robertson,nan,Percent,47147,2011
+Tennessee,Rutherford,nan,Percent,47149,2015
+Tennessee,Scott,nan,Percent,47151,2020
+Tennessee,Sequatchie,nan,Percent,47153,2025
+Tennessee,Sevier,nan,Percent,47155,2030
+Tennessee,Shelby,nan,Percent,47157,2033
+Tennessee,Smith,nan,Percent,47159,2037
+Tennessee,Stewart,nan,Percent,47161,2041
+Tennessee,Sullivan,nan,Percent,47163,2046
+Tennessee,Sumner,nan,Percent,47165,2050
+Tennessee,Tipton,nan,Percent,47167,2055
+Tennessee,Trousdale,nan,Percent,47169,2062
+Tennessee,Unicoi,nan,Percent,47171,2069
+Tennessee,Union,nan,Percent,47173,2073
+Tennessee,Van Buren,nan,Percent,47175,2077
+Tennessee,Warren,nan,Percent,47177,2081
+Tennessee,Washington,nan,Percent,47179,2085
+Tennessee,Wayne,nan,Percent,47181,2089
+Tennessee,Weakley,nan,Percent,47183,2096
+Tennessee,White,nan,Percent,47185,2100
+Tennessee,Williamson,nan,Percent,47187,2105
+Tennessee,Wilson,nan,Percent,47189,2111
+Texas,Anderson,7.001044932079415,Percent,48001,2113
+Texas,Andrews,4.652917505030181,Percent,48003,2117
+Texas,Angelina,7.213449960240827,Percent,48005,2124
+Texas,Aransas,5.491923641703377,Percent,48007,2162
+Texas,Archer,5.942733657482442,Percent,48009,2168
+Texas,Armstrong,8.21529745042493,Percent,48011,2172
+Texas,Atascosa,nan,Percent,48013,2173
+Texas,Austin,7.683963116977038,Percent,48015,2177
+Texas,Bailey,10.149863760217984,Percent,48017,2179
+Texas,Bandera,5.795363709032774,Percent,48019,2183
+Texas,Bastrop,7.675675675675675,Percent,48021,2190
+Texas,Baylor,9.395973154362416,Percent,48023,2192
+Texas,Bee,9.529906713005303,Percent,48025,2196
+Texas,Bell,7.489872468117029,Percent,48027,2198
+Texas,Bexar,5.340733992419386,Percent,48029,2203
+Texas,Blanco,9.63356973995272,Percent,48031,2207
+Texas,Borden,0.0,Percent,48033,2212
+Texas,Bosque,9.764197940883427,Percent,48035,2216
+Texas,Bowie,5.56367314825222,Percent,48037,2224
+Texas,Brazoria,6.034771710459203,Percent,48039,2240
+Texas,Brazos,6.20069157686239,Percent,48041,2253
+Texas,Brewster,10.614525139664805,Percent,48043,2262
+Texas,Briscoe,8.266666666666666,Percent,48045,2269
+Texas,Brooks,0.0,Percent,48047,2279
+Texas,Brown,9.71355643788996,Percent,48049,2296
+Texas,Burleson,8.157319737800437,Percent,48051,2304
+Texas,Burnet,10.62346185397867,Percent,48053,2312
+Texas,Caldwell,9.780634343998882,Percent,48055,2320
+Texas,Calhoun,8.303421871261067,Percent,48057,2327
+Texas,Callahan,10.670851314240878,Percent,48059,2331
+Texas,Cameron,0.8990719257540603,Percent,48061,2359
+Texas,Camp,7.7140549273021,Percent,48063,2373
+Texas,Carson,6.9694596711041505,Percent,48065,2377
+Texas,Cass,7.928714311693034,Percent,48067,2382
+Texas,Castro,4.191263282172373,Percent,48069,2386
+Texas,Chambers,3.5852827083578234,Percent,48071,2395
+Texas,Cherokee,7.382066978754051,Percent,48073,2400
+Texas,Childress,9.162995594713657,Percent,48075,2405
+Texas,Clay,8.140877598152425,Percent,48077,2409
+Texas,Cochran,3.149606299212598,Percent,48079,2413
+Texas,Coke,9.851301115241636,Percent,48081,2418
+Texas,Coleman,9.214501510574017,Percent,48083,2423
+Texas,Collin,4.135114907105749,Percent,48085,2429
+Texas,Collingsworth,5.396290050590219,Percent,48087,2434
+Texas,Colorado,8.314415437003406,Percent,48089,2441
+Texas,Comal,4.945389581387795,Percent,48091,2449
+Texas,Comanche,10.072556551429791,Percent,48093,2455
+Texas,Concho,nan,Percent,48095,2458
+Texas,Cooke,7.05157119230191,Percent,48097,2463
+Texas,Coryell,13.529729000943776,Percent,48099,2469
+Texas,Cottle,0.0,Percent,48101,2473
+Texas,Crane,8.710801393728223,Percent,48103,2478
+Texas,Crockett,10.990338164251208,Percent,48105,2483
+Texas,Crosby,nan,Percent,48107,2487
+Texas,Culberson,9.862385321100918,Percent,48109,2491
+Texas,Dallam,16.28440366972477,Percent,48111,2498
+Texas,Dallas,6.155927271538389,Percent,48113,2507
+Texas,Dawson,8.689302665206279,Percent,48115,2512
+Texas,Deaf Smith,8.74801181549648,Percent,48117,2515
+Texas,Delta,2.6755852842809364,Percent,48119,2524
+Texas,Denton,6.0043320172500145,Percent,48121,2532
+Texas,DeWitt,2.729421878358049,Percent,48123,2538
+Texas,Dickens,4.922279792746114,Percent,48125,2542
+Texas,Dimmit,7.994814174589456,Percent,48127,2548
+Texas,Donley,7.269789983844912,Percent,48129,2551
+Texas,Duval,2.869329197363319,Percent,48131,2556
+Texas,Eastland,9.384775808133472,Percent,48133,2562
+Texas,Ector,7.093441016657264,Percent,48135,2568
+Texas,Edwards,14.248704663212436,Percent,48137,2574
+Texas,Ellis,6.598915246808744,Percent,48139,2579
+Texas,El Paso,6.991563453598995,Percent,48141,2588
+Texas,Erath,8.890022097569267,Percent,48143,2597
+Texas,Falls,nan,Percent,48145,2601
+Texas,Fannin,8.809257185516985,Percent,48147,2621
+Texas,Fayette,10.0418410041841,Percent,48149,2624
+Texas,Fisher,13.392857142857142,Percent,48151,2628
+Texas,Floyd,nan,Percent,48153,2630
+Texas,Foard,7.729468599033816,Percent,48155,2002
+Texas,Fort Bend,3.9845518710880277,Percent,48157,2009
+Texas,Franklin,9.06344410876133,Percent,48159,2016
+Texas,Freestone,6.721354855781953,Percent,48161,2022
+Texas,Frio,6.973203410475031,Percent,48163,2028
+Texas,Gaines,9.159663865546218,Percent,48165,2032
+Texas,Galveston,4.587185568840053,Percent,48167,2059
+Texas,Garza,8.625592417061611,Percent,48169,2060
+Texas,Gillespie,9.655172413793103,Percent,48171,2066
+Texas,Glasscock,10.256410256410255,Percent,48173,2072
+Texas,Goliad,5.33625730994152,Percent,48175,2079
+Texas,Gonzales,6.900584795321637,Percent,48177,2086
+Texas,Gray,8.110065170166546,Percent,48179,2088
+Texas,Grayson,8.02538596570194,Percent,48181,2094
+Texas,Gregg,6.1402676283572175,Percent,48183,2101
+Texas,Grimes,8.905626938413825,Percent,48185,2108
+Texas,Guadalupe,6.719574738891176,Percent,48187,2116
+Texas,Hale,7.425278112853505,Percent,48189,2120
+Texas,Hall,8.269230769230768,Percent,48191,2125
+Texas,Hamilton,9.414758269720101,Percent,48193,2128
+Texas,Hansford,9.690721649484537,Percent,48195,2132
+Texas,Hardeman,11.11111111111111,Percent,48197,2137
+Texas,Hardin,5.573994533385396,Percent,48199,2142
+Texas,Harris,6.719455789672987,Percent,48201,2149
+Texas,Harrison,5.612092187967675,Percent,48203,2157
+Texas,Hartley,10.784837159636947,Percent,48205,2160
+Texas,Haskell,12.916666666666668,Percent,48207,2163
+Texas,Hays,7.438465941614196,Percent,48209,2166
+Texas,Hemphill,6.730769230769231,Percent,48211,2171
+Texas,Henderson,7.347050254916241,Percent,48213,2178
+Texas,Hidalgo,1.7405579984701343,Percent,48215,2188
+Texas,Hill,8.553654743390357,Percent,48217,2201
+Texas,Hockley,8.833499501495513,Percent,48219,2208
+Texas,Hood,5.74616122840691,Percent,48221,2213
+Texas,Hopkins,8.23686553873553,Percent,48223,2221
+Texas,Houston,6.292412091301666,Percent,48225,2228
+Texas,Howard,8.843890619591555,Percent,48227,2231
+Texas,Hudspeth,8.4375,Percent,48229,2241
+Texas,Hunt,8.172043010752688,Percent,48231,2246
+Texas,Hutchinson,8.882521489971348,Percent,48233,2249
+Texas,Irion,16.56441717791411,Percent,48235,2255
+Texas,Jack,8.72865275142315,Percent,48237,2256
+Texas,Jackson,7.884441769485405,Percent,48239,2264
+Texas,Jasper,7.516497666183808,Percent,48241,2271
+Texas,Jeff Davis,12.363636363636363,Percent,48243,2275
+Texas,Jefferson,5.953206639848338,Percent,48245,2285
+Texas,Jim Hogg,11.85121107266436,Percent,48247,2288
+Texas,Jim Wells,4.215618521078093,Percent,48249,2294
+Texas,Johnson,8.335450273085227,Percent,48251,2299
+Texas,Jones,12.46714232069095,Percent,48253,2301
+Texas,Karnes,6.0303514376996805,Percent,48255,2307
+Texas,Kaufman,6.373019222652802,Percent,48257,2314
+Texas,Kendall,4.638392335553219,Percent,48259,2319
+Texas,Kenedy,19.736842105263158,Percent,48261,2330
+Texas,Kent,7.03125,Percent,48263,2335
+Texas,Kerr,7.78511921861534,Percent,48265,2337
+Texas,Kimble,8.90937019969278,Percent,48267,2339
+Texas,King,0.0,Percent,48269,2342
+Texas,Kinney,10.08130081300813,Percent,48271,2347
+Texas,Kleberg,4.019554589896796,Percent,48273,2358
+Texas,Knox,4.3478260869565215,Percent,48275,2364
+Texas,Lamar,5.518917042693509,Percent,48277,2371
+Texas,Lamb,7.709824333116461,Percent,48279,2376
+Texas,Lampasas,9.673024523160763,Percent,48281,2381
+Texas,La Salle,5.216752387950037,Percent,48283,2388
+Texas,Lavaca,7.506361323155216,Percent,48285,2392
+Texas,Lee,7.71121351766513,Percent,48287,2398
+Texas,Leon,7.36372330251833,Percent,48289,2402
+Texas,Liberty,6.211656441717792,Percent,48291,2404
+Texas,Limestone,5.350598582946494,Percent,48293,2408
+Texas,Lipscomb,10.676156583629894,Percent,48295,2412
+Texas,Live Oak,9.116331096196868,Percent,48297,2416
+Texas,Llano,9.610104338275672,Percent,48299,2421
+Texas,Loving,nan,Percent,48301,2424
+Texas,Lubbock,5.959365279363704,Percent,48303,2428
+Texas,Lynn,7.091172214182344,Percent,48305,2438
+Texas,McCulloch,11.395646606914212,Percent,48307,2452
+Texas,McLennan,7.316208249296305,Percent,48309,2477
+Texas,McMullen,9.090909090909092,Percent,48311,2494
+Texas,Madison,7.21457791000372,Percent,48313,2526
+Texas,Marion,0.0,Percent,48315,2547
+Texas,Martin,10.573770491803279,Percent,48317,2564
+Texas,Mason,8.805970149253731,Percent,48319,2570
+Texas,Matagorda,5.715466189230133,Percent,48321,2637
+Texas,Maverick,5.850394222487246,Percent,48323,2649
+Texas,Medina,9.376443418013857,Percent,48325,2652
+Texas,Menard,7.534246575342466,Percent,48327,2655
+Texas,Midland,7.662684970582992,Percent,48329,2657
+Texas,Milam,8.938071930197914,Percent,48331,2659
+Texas,Mills,10.435779816513762,Percent,48333,2663
+Texas,Mitchell,7.59493670886076,Percent,48335,2666
+Texas,Montague,7.428400954653938,Percent,48337,2669
+Texas,Montgomery,5.351227707172619,Percent,48339,2682
+Texas,Moore,12.186028257456828,Percent,48341,2683
+Texas,Morris,9.890656063618291,Percent,48343,2688
+Texas,Motley,7.59493670886076,Percent,48345,2692
+Texas,Nacogdoches,6.001071619932131,Percent,48347,2701
+Texas,Navarro,7.945561893325327,Percent,48349,2706
+Texas,Newton,2.4114930733709596,Percent,48351,2711
+Texas,Nolan,7.076059850374065,Percent,48353,2714
+Texas,Nueces,4.722718011088121,Percent,48355,2194
+Texas,Ochiltree,11.82931981411069,Percent,48357,2204
+Texas,Oldham,8.323831242873432,Percent,48359,2210
+Texas,Orange,5.405756611006432,Percent,48361,2214
+Texas,Palo Pinto,5.620454044522813,Percent,48363,2220
+Texas,Panola,5.093292990418558,Percent,48365,2227
+Texas,Parker,5.90812655659072,Percent,48367,2229
+Texas,Parmer,6.42620232172471,Percent,48369,2235
+Texas,Pecos,8.954289292423294,Percent,48371,2239
+Texas,Polk,7.23458904109589,Percent,48373,2243
+Texas,Potter,8.165661943161357,Percent,48375,2247
+Texas,Presidio,9.675550405561992,Percent,48377,2261
+Texas,Rains,7.3405535499398304,Percent,48379,2268
+Texas,Randall,6.375975109347522,Percent,48381,2274
+Texas,Reagan,11.025358324145534,Percent,48383,2280
+Texas,Real,6.394316163410302,Percent,48385,2283
+Texas,Red River,8.121095627102354,Percent,48387,2295
+Texas,Reeves,12.888551933282791,Percent,48389,2308
+Texas,Refugio,6.9424964936886395,Percent,48391,2334
+Texas,Roberts,8.92018779342723,Percent,48393,2348
+Texas,Robertson,6.518474016221088,Percent,48395,2353
+Texas,Rockwall,4.626618746077928,Percent,48397,2355
+Texas,Runnels,8.254127063531765,Percent,48399,2361
+Texas,Rusk,6.2873984102884695,Percent,48401,2367
+Texas,Sabine,7.023575638506877,Percent,48403,2370
+Texas,San Augustine,0.0,Percent,48405,2380
+Texas,San Jacinto,7.780052646972798,Percent,48407,2387
+Texas,San Patricio,6.922712185870081,Percent,48409,2415
+Texas,San Saba,9.134157944814463,Percent,48411,2435
+Texas,Schleicher,13.448275862068964,Percent,48413,2437
+Texas,Scurry,7.451782583284629,Percent,48415,2443
+Texas,Shackelford,8.755760368663594,Percent,48417,2445
+Texas,Shelby,4.364797728885734,Percent,48419,2448
+Texas,Sherman,14.32258064516129,Percent,48421,2453
+Texas,Smith,7.633049269146114,Percent,48423,2465
+Texas,Somervell,6.21840242669363,Percent,48425,2470
+Texas,Starr,0.16953941791466515,Percent,48427,2474
+Texas,Stephens,10.107816711590296,Percent,48429,2480
+Texas,Sterling,7.951070336391437,Percent,48431,2481
+Texas,Stonewall,12.396694214876034,Percent,48433,2486
+Texas,Sutton,12.074643249176729,Percent,48435,2490
+Texas,Swisher,8.989460632362057,Percent,48437,2495
+Texas,Tarrant,6.671469624860397,Percent,48439,2500
+Texas,Taylor,7.9801641871900655,Percent,48441,2508
+Texas,Terrell,3.79746835443038,Percent,48443,2518
+Texas,Terry,1.9168026101141926,Percent,48445,2522
+Texas,Throckmorton,11.147540983606557,Percent,48447,2525
+Texas,Titus,7.5364782547103,Percent,48449,2531
+Texas,Tom Green,nan,Percent,48451,2536
+Texas,Travis,6.117037206440477,Percent,48453,2543
+Texas,Trinity,6.5961945031712474,Percent,48455,2553
+Texas,Tyler,7.607192254495159,Percent,48457,2560
+Texas,Upshur,8.422962291045744,Percent,48459,2566
+Texas,Upton,8.584686774941995,Percent,48461,2572
+Texas,Uvalde,7.245873153779322,Percent,48463,2576
+Texas,Val Verde,7.655545536519387,Percent,48465,2582
+Texas,Van Zandt,7.865620599476967,Percent,48467,2586
+Texas,Victoria,8.759911195686648,Percent,48469,2595
+Texas,Walker,8.869814020028613,Percent,48471,2603
+Texas,Waller,7.676861291319123,Percent,48473,2606
+Texas,Ward,7.963875205254515,Percent,48475,2610
+Texas,Washington,5.470785262374395,Percent,48477,2613
+Texas,Webb,0.274328823100773,Percent,48479,2616
+Texas,Wharton,7.091275008878892,Percent,48481,2618
+Texas,Wheeler,8.207705192629817,Percent,48483,2623
+Texas,Wichita,8.18256380566411,Percent,48485,2632
+Texas,Wilbarger,9.84974958263773,Percent,48487,2634
+Texas,Willacy,0.06773538044705352,Percent,48489,2639
+Texas,Williamson,6.176435501829172,Percent,48491,2640
+Texas,Wilson,nan,Percent,48493,2641
+Texas,Winkler,10.421052631578947,Percent,48495,2642
+Texas,Wise,7.5475146198830405,Percent,48497,2643
+Texas,Wood,7.665113289410252,Percent,48499,2644
+Texas,Yoakum,6.358381502890173,Percent,48501,2645
+Texas,Young,7.936979785969084,Percent,48503,2646
+Texas,Zapata,0.0,Percent,48505,2650
+Texas,Zavala,1.0922787193973633,Percent,48507,2651
+Utah,Beaver,15.481434864694776,Percent,49001,2653
+Utah,Box Elder,9.230641409106015,Percent,49003,2658
+Utah,Cache,10.797174571140262,Percent,49005,2661
+Utah,Carbon,9.3562874251497,Percent,49007,2665
+Utah,Daggett,9.004739336492891,Percent,49009,2668
+Utah,Davis,4.905427884911589,Percent,49011,2671
+Utah,Duchesne,10.047505938242281,Percent,49013,2672
+Utah,Emery,12.238675958188153,Percent,49015,2673
+Utah,Garfield,15.694164989939638,Percent,49017,2674
+Utah,Grand,8.65265760197775,Percent,49019,2675
+Utah,Iron,10.531515510768623,Percent,49021,2676
+Utah,Juab,11.090641120117906,Percent,49023,2677
+Utah,Kane,13.333333333333334,Percent,49025,2678
+Utah,Millard,13.30603889457523,Percent,49027,2680
+Utah,Morgan,6.03956959389101,Percent,49029,2681
+Utah,Piute,24.761904761904763,Percent,49031,2685
+Utah,Rich,10.080645161290322,Percent,49033,2687
+Utah,Salt Lake,7.393753010485754,Percent,49035,2690
+Utah,San Juan,0.0,Percent,49037,2694
+Utah,Sanpete,15.65068493150685,Percent,49039,2697
+Utah,Sevier,0.0,Percent,49041,2702
+Utah,Summit,3.1627793381365246,Percent,49043,2703
+Utah,Tooele,8.847046685581635,Percent,49045,2707
+Utah,Uintah,8.77443443883154,Percent,49047,2539
+Utah,Utah,6.659315336712118,Percent,49049,2555
+Utah,Wasatch,6.447309915518009,Percent,49051,2567
+Utah,Washington,9.17049412780124,Percent,49053,2577
+Utah,Wayne,11.811023622047244,Percent,49055,2580
+Utah,Weber,8.38883634827052,Percent,49057,2587
+Vermont,Addison,8.952629291612341,Percent,50001,2590
+Vermont,Bennington,6.5835880554902415,Percent,50003,2591
+Vermont,Caledonia,9.86362194735173,Percent,50005,2596
+Vermont,Chittenden,3.779030439684329,Percent,50007,2599
+Vermont,Essex,7.312925170068027,Percent,50009,2604
+Vermont,Franklin,6.900741100716802,Percent,50011,2607
+Vermont,Grand Isle,6.583072100313479,Percent,50013,2609
+Vermont,Lamoille,8.256880733944955,Percent,50015,2611
+Vermont,Orange,10.148952284776572,Percent,50017,2612
+Vermont,Orleans,12.456140350877194,Percent,50019,2614
+Vermont,Rutland,7.016645326504481,Percent,50021,2615
+Vermont,Washington,6.400685350630278,Percent,50023,2617
+Vermont,Windham,8.31079862989003,Percent,50025,2620
+Vermont,Windsor,6.763745236799129,Percent,50027,2625
+Virginia,Accomack,6.146616541353383,Percent,51001,2719
+Virginia,Albemarle,5.208732286480275,Percent,51003,2728
+Virginia,Alleghany,7.998212689901697,Percent,51005,2733
+Virginia,Amelia,6.896551724137931,Percent,51007,2741
+Virginia,Amherst,7.719714964370546,Percent,51009,2746
+Virginia,Appomattox,6.2772449869224065,Percent,51011,2749
+Virginia,Arlington,5.937549282447564,Percent,51013,2753
+Virginia,Augusta,7.505729564553095,Percent,51015,2758
+Virginia,Bath,10.975609756097562,Percent,51017,2763
+Virginia,Bedford County,7.758533373847867,Percent,51019,2769
+Virginia,Bland,8.88888888888889,Percent,51021,2772
+Virginia,Botetourt,3.9941139373554764,Percent,51023,2776
+Virginia,Brunswick,0.0,Percent,51025,2777
+Virginia,Buchanan,10.286284953395473,Percent,51027,2784
+Virginia,Buckingham,8.874878758486906,Percent,51029,2785
+Virginia,Campbell,6.512155183272453,Percent,51031,2788
+Virginia,Caroline,7.182448036951501,Percent,51033,2793
+Virginia,Carroll,8.892875448487954,Percent,51035,2797
+Virginia,Charles City,8.762169680111267,Percent,51036,2806
+Virginia,Charlotte,7.470376094796497,Percent,51037,2810
+Virginia,Chesterfield,4.668197589634422,Percent,51041,2816
+Virginia,Clarke,3.74251497005988,Percent,51043,2819
+Virginia,Craig,10.754414125200643,Percent,51045,2820
+Virginia,Culpeper,8.080186938875906,Percent,51047,2824
+Virginia,Cumberland,6.647605432451751,Percent,51049,2827
+Virginia,Dickenson,8.498705780845556,Percent,51051,2832
+Virginia,Dinwiddie,7.288365776369397,Percent,51053,2838
+Virginia,Essex,7.991940899932841,Percent,51057,2842
+Virginia,Fairfax County,5.956024529031545,Percent,51059,2849
+Virginia,Fauquier,4.6358858858858865,Percent,51061,2853
+Virginia,Floyd,11.516414799374674,Percent,51063,2856
+Virginia,Fluvanna,6.612267867191897,Percent,51065,2858
+Virginia,Franklin County,5.16278436180357,Percent,51067,2862
+Virginia,Frederick,6.142759094028826,Percent,51069,2868
+Virginia,Giles,8.181063122923588,Percent,51071,2873
+Virginia,Gloucester,7.252114450242937,Percent,51073,2887
+Virginia,Goochland,5.453837164004675,Percent,51075,2892
+Virginia,Grayson,10.035629453681711,Percent,51077,2896
+Virginia,Greene,6.547619047619048,Percent,51079,2899
+Virginia,Greensville,2.0185488270594654,Percent,51081,2902
+Virginia,Halifax,8.25876211782252,Percent,51083,2904
+Virginia,Hanover,2.602292231880848,Percent,51085,2909
+Virginia,Henrico,5.416317513521749,Percent,51087,2915
+Virginia,Henry,3.5333782872555632,Percent,51089,2918
+Virginia,Highland,10.144927536231885,Percent,51091,2920
+Virginia,Isle of Wight,5.872697428415101,Percent,51093,2925
+Virginia,James City,5.173934345908869,Percent,51095,2930
+Virginia,King and Queen,7.403189066059225,Percent,51097,2936
+Virginia,King George,3.7425832952989504,Percent,51099,2938
+Virginia,King William,5.415282392026579,Percent,51101,2943
+Virginia,Lancaster,7.401448109412712,Percent,51103,2948
+Virginia,Lee,2.8510767364270553,Percent,51105,2950
+Virginia,Loudoun,3.783365266003517,Percent,51107,2952
+Virginia,Louisa,8.42904019688269,Percent,51109,2953
+Virginia,Lunenburg,7.886435331230284,Percent,51111,2954
+Virginia,Madison,7.768052516411379,Percent,51113,2955
+Virginia,Mathews,6.50994575045208,Percent,51115,2962
+Virginia,Mecklenburg,9.428129829984544,Percent,51117,2964
+Virginia,Middlesex,7.142857142857142,Percent,51119,2965
+Virginia,Montgomery,6.4136125654450264,Percent,51121,2966
+Virginia,Nelson,6.738131699846861,Percent,51125,2968
+Virginia,New Kent,3.0243261012491782,Percent,51127,2971
+Virginia,Northampton,7.882352941176471,Percent,51131,2982
+Virginia,Northumberland,4.502541757443718,Percent,51133,2983
+Virginia,Nottoway,7.320319432120674,Percent,51135,2984
+Virginia,Orange,7.8839789760560635,Percent,51137,2985
+Virginia,Page,8.817577334489737,Percent,51139,2986
+Virginia,Patrick,6.377899045020465,Percent,51141,2987
+Virginia,Pittsylvania,8.604827362268644,Percent,51143,2988
+Virginia,Powhatan,3.0679156908665104,Percent,51145,2989
+Virginia,Prince Edward,5.94106463878327,Percent,51147,2990
+Virginia,Prince George,14.144074360960495,Percent,51149,2991
+Virginia,Prince William,7.500085578338411,Percent,51153,2992
+Virginia,Pulaski,5.177174413253566,Percent,51155,2993
+Virginia,Rappahannock,4.809843400447427,Percent,51157,2994
+Virginia,Richmond County,6.4742589703588145,Percent,51159,2995
+Virginia,Roanoke County,5.3734590282813635,Percent,51161,2996
+Virginia,Rockbridge,7.621247113163972,Percent,51163,2997
+Virginia,Rockingham,8.87706043956044,Percent,51165,2998
+Virginia,Russell,7.188577055637617,Percent,51167,2999
+Virginia,Scott,9.850668063924548,Percent,51169,2585
+Virginia,Shenandoah,6.851119894598155,Percent,51171,2594
+Virginia,Smyth,8.336961253809317,Percent,51173,2600
+Virginia,Southampton,7.375581811672037,Percent,51175,2608
+Virginia,Spotsylvania,6.885508406725379,Percent,51177,2619
+Virginia,Stafford,5.535002334686254,Percent,51179,2629
+Virginia,Surry,8.72162485065711,Percent,51181,2636
+Virginia,Sussex,0.0,Percent,51183,2647
+Virginia,Tazewell,7.242339832869081,Percent,51185,2656
+Virginia,Warren,7.693723541321554,Percent,51187,2662
+Virginia,Washington,6.438878301116254,Percent,51191,2667
+Virginia,Westmoreland,7.387862796833773,Percent,51193,2684
+Virginia,Wise,6.573705179282868,Percent,51195,2695
+Virginia,Wythe,8.144475920679886,Percent,51197,2699
+Virginia,York,7.717143082132451,Percent,51199,2709
+Virginia,Alexandria,7.2442120985810305,Percent,51510,2712
+Virginia,Bedford City,nan,Percent,51515,2713
+Virginia,Bristol,1.310615989515072,Percent,51520,2716
+Virginia,Buena Vista,10.375494071146244,Percent,51530,2720
+Virginia,Charlottesville,5.816466889369227,Percent,51540,2722
+Virginia,Chesapeake,4.724232030643667,Percent,51550,2724
+Virginia,Colonial Heights,8.08586762075134,Percent,51570,2727
+Virginia,Covington,6.660137120470128,Percent,51580,2729
+Virginia,Danville,0.0,Percent,51590,2732
+Virginia,Emporia,4.72972972972973,Percent,51595,2736
+Virginia,Fairfax City,6.977648202137998,Percent,51600,2737
+Virginia,Falls Church,nan,Percent,51610,2740
+Virginia,Franklin City,0.0,Percent,51620,2744
+Virginia,Fredericksburg,3.2559456398640996,Percent,51630,2745
+Virginia,Galax,5.827338129496403,Percent,51640,2747
+Virginia,Hampton,4.845280822582209,Percent,51650,2751
+Virginia,Harrisonburg,7.560975609756097,Percent,51660,2755
+Virginia,Hopewell,1.9652650822669104,Percent,51670,2756
+Virginia,Lexington,5.263157894736842,Percent,51678,2760
+Virginia,Lynchburg,2.264767686201261,Percent,51680,2762
+Virginia,Manassas,8.796801163213377,Percent,51683,2765
+Virginia,Manassas Park,8.626198083067091,Percent,51685,2768
+Virginia,Martinsville,3.385178408051235,Percent,51690,2771
+Virginia,Newport News,7.034969346165703,Percent,51700,2775
+Virginia,Norfolk,4.538384969515988,Percent,51710,2778
+Virginia,Norton,6.107784431137724,Percent,51720,2780
+Virginia,Petersburg,0.0,Percent,51730,2782
+Virginia,Poquoson,2.5202092249167856,Percent,51735,2791
+Virginia,Portsmouth,3.309439271119448,Percent,51740,2795
+Virginia,Radford,7.104154124021673,Percent,51750,2799
+Virginia,Richmond City,0.0,Percent,51760,2802
+Virginia,Roanoke City,2.0741363604512646,Percent,51770,2805
+Virginia,Salem,6.197478991596639,Percent,51775,2809
+Virginia,Staunton,nan,Percent,51790,2812
+Virginia,Suffolk,5.701174998261837,Percent,51800,2815
+Virginia,Virginia Beach,7.697378792438769,Percent,51810,2826
+Virginia,Waynesboro,9.60766141489033,Percent,51820,2831
+Virginia,Williamsburg,5.316091954022988,Percent,51830,2835
+Virginia,Winchester,7.364536151652408,Percent,51840,2837
+Washington,Adams,12.973194188663802,Percent,53001,2840
+Washington,Asotin,9.84735109248728,Percent,53003,2845
+Washington,Benton,6.641000962463909,Percent,53005,2847
+Washington,Chelan,7.870579382994733,Percent,53007,2852
+Washington,Clallam,10.40638055450057,Percent,53009,2861
+Washington,Clark,8.042494342469197,Percent,53011,2865
+Washington,Columbia,12.412177985948478,Percent,53013,2869
+Washington,Cowlitz,7.0427490764088425,Percent,53015,2871
+Washington,Douglas,8.074952817471017,Percent,53017,2877
+Washington,Ferry,14.527845036319611,Percent,53019,2880
+Washington,Franklin,8.1319916228227,Percent,53021,2884
+Washington,Garfield,10.909090909090908,Percent,53023,2886
+Washington,Grant,7.8714981729598055,Percent,53025,2889
+Washington,Grays Harbor,4.933255948926291,Percent,53027,2894
+Washington,Island,10.834186866962558,Percent,53029,2898
+Washington,Jefferson,9.879789631855749,Percent,53031,2905
+Washington,King,5.879634605051048,Percent,53033,2913
+Washington,Kitsap,8.344345336416694,Percent,53035,2927
+Washington,Kittitas,7.302709069493522,Percent,53037,2932
+Washington,Klickitat,8.442596738087623,Percent,53039,2935
+Washington,Lewis,5.9045226130653266,Percent,53041,2940
+Washington,Lincoln,10.18380526577248,Percent,53043,2942
+Washington,Mason,8.082310648320318,Percent,53045,2946
+Washington,Okanogan,8.50018201674554,Percent,53047,2947
+Washington,Pacific,7.517822423849643,Percent,53049,2949
+Washington,Pend Oreille,7.395701643489254,Percent,53051,2951
+Washington,Pierce,8.397632781481759,Percent,53053,2956
+Washington,San Juan,10.131233595800525,Percent,53055,2957
+Washington,Skagit,7.902545681711698,Percent,53057,2958
+Washington,Skamania,6.457242582897033,Percent,53059,2959
+Washington,Snohomish,7.055499252795575,Percent,53061,2960
+Washington,Spokane,7.974219297772504,Percent,53063,2961
+Washington,Stevens,9.201510278282758,Percent,53065,2963
+Washington,Thurston,7.566403445800431,Percent,53067,2967
+Washington,Wahkiakum,5.240174672489083,Percent,53069,2969
+Washington,Walla Walla,9.475465313028765,Percent,53071,2970
+Washington,Whatcom,7.477786903606362,Percent,53073,2972
+Washington,Whitman,7.943439384487419,Percent,53075,2973
+Washington,Yakima,3.1015684596349566,Percent,53077,2974
+West Virginia,Barbour,nan,Percent,54001,2975
+West Virginia,Berkeley,nan,Percent,54003,2976
+West Virginia,Boone,nan,Percent,54005,2977
+West Virginia,Braxton,nan,Percent,54007,2978
+West Virginia,Brooke,nan,Percent,54009,2979
+West Virginia,Cabell,nan,Percent,54011,2980
+West Virginia,Calhoun,nan,Percent,54013,2981
+West Virginia,Clay,nan,Percent,54015,3000
+West Virginia,Doddridge,nan,Percent,54017,3002
+West Virginia,Fayette,nan,Percent,54019,3006
+West Virginia,Gilmer,nan,Percent,54021,3008
+West Virginia,Grant,nan,Percent,54023,3011
+West Virginia,Greenbrier,nan,Percent,54025,3013
+West Virginia,Hampshire,6.702950443998853,Percent,54027,3016
+West Virginia,Hancock,5.998080614203455,Percent,54029,3017
+West Virginia,Hardy,nan,Percent,54031,3019
+West Virginia,Harrison,nan,Percent,54033,3021
+West Virginia,Jackson,nan,Percent,54035,3023
+West Virginia,Jefferson,nan,Percent,54037,3026
+West Virginia,Kanawha,nan,Percent,54039,3027
+West Virginia,Lewis,nan,Percent,54041,3029
+West Virginia,Lincoln,nan,Percent,54043,3031
+West Virginia,Logan,nan,Percent,54045,3034
+West Virginia,McDowell,nan,Percent,54047,3037
+West Virginia,Marion,5.626223091976517,Percent,54049,3039
+West Virginia,Marshall,nan,Percent,54051,3041
+West Virginia,Mason,nan,Percent,54053,3042
+West Virginia,Mercer,nan,Percent,54055,3044
+West Virginia,Mineral,nan,Percent,54057,3046
+West Virginia,Mingo,nan,Percent,54059,3048
+West Virginia,Monongalia,4.03013842649378,Percent,54061,3050
+West Virginia,Monroe,9.757442116868798,Percent,54063,3052
+West Virginia,Morgan,nan,Percent,54065,3054
+West Virginia,Nicholas,nan,Percent,54067,3057
+West Virginia,Ohio,nan,Percent,54069,3059
+West Virginia,Pendleton,nan,Percent,54071,3061
+West Virginia,Pleasants,9.114359415305245,Percent,54073,3064
+West Virginia,Pocahontas,10.590440487347703,Percent,54075,3066
+West Virginia,Preston,nan,Percent,54077,3068
+West Virginia,Putnam,7.181641225284295,Percent,54079,3070
+West Virginia,Raleigh,nan,Percent,54081,3073
+West Virginia,Randolph,nan,Percent,54083,3075
+West Virginia,Ritchie,nan,Percent,54085,3077
+West Virginia,Roane,5.569837189374464,Percent,54087,3079
+West Virginia,Summers,nan,Percent,54089,3080
+West Virginia,Taylor,nan,Percent,54091,3082
+West Virginia,Tucker,11.142587346553352,Percent,54093,3084
+West Virginia,Tyler,nan,Percent,54095,3085
+West Virginia,Upshur,nan,Percent,54097,3087
+West Virginia,Wayne,nan,Percent,54099,3089
+West Virginia,Webster,nan,Percent,54101,3091
+West Virginia,Wetzel,nan,Percent,54103,3093
+West Virginia,Wirt,nan,Percent,54105,3095
+West Virginia,Wood,4.406959957450042,Percent,54107,3097
+West Virginia,Wyoming,nan,Percent,54109,3099
+Wisconsin,Adams,23.852040816326532,Percent,55001,3101
+Wisconsin,Ashland,11.134751773049645,Percent,55003,3104
+Wisconsin,Barron,8.184176394293125,Percent,55005,3106
+Wisconsin,Bayfield,12.302839116719243,Percent,55007,3108
+Wisconsin,Brown,5.743643488562836,Percent,55009,3111
+Wisconsin,Buffalo,8.507306889352819,Percent,55011,3113
+Wisconsin,Burnett,7.749803304484658,Percent,55013,3115
+Wisconsin,Calumet,5.186751233262861,Percent,55015,3116
+Wisconsin,Chippewa,9.155953046394634,Percent,55017,3117
+Wisconsin,Clark,11.454918032786885,Percent,55019,3119
+Wisconsin,Columbia,5.857902368293861,Percent,55021,3120
+Wisconsin,Crawford,13.171806167400883,Percent,55023,3122
+Wisconsin,Dane,3.2821036908926535,Percent,55025,3124
+Wisconsin,Dodge,7.117468573905505,Percent,55027,3126
+Wisconsin,Door,8.90642615558061,Percent,55029,3131
+Wisconsin,Douglas,5.627705627705628,Percent,55031,3134
+Wisconsin,Dunn,8.079663212435232,Percent,55033,3135
+Wisconsin,Eau Claire,6.441760377620436,Percent,55035,3137
+Wisconsin,Florence,12.468827930174564,Percent,55037,3138
+Wisconsin,Fond du Lac,7.08963321999566,Percent,55039,3140
+Wisconsin,Forest,3.555268261150614,Percent,55041,3141
+Wisconsin,Grant,9.937268320501854,Percent,55043,3143
+Wisconsin,Green,5.247863247863248,Percent,55045,3145
+Wisconsin,Green Lake,8.718452966240577,Percent,55047,3147
+Wisconsin,Iowa,6.302521008403361,Percent,55049,3148
+Wisconsin,Iron,11.022576361221779,Percent,55051,3151
+Wisconsin,Jackson,7.967589466576637,Percent,55053,3153
+Wisconsin,Jefferson,4.981228825199158,Percent,55055,3154
+Wisconsin,Juneau,10.263299301450832,Percent,55057,3156
+Wisconsin,Kenosha,7.324262261370257,Percent,55059,3158
+Wisconsin,Kewaunee,3.4710743801652892,Percent,55061,3160
+Wisconsin,La Crosse,6.597412064880627,Percent,55063,3161
+Wisconsin,Lafayette,8.415660446395902,Percent,55065,3163
+Wisconsin,Langlade,8.546059933407326,Percent,55067,3165
+Wisconsin,Lincoln,6.020833333333334,Percent,55069,3166
+Wisconsin,Manitowoc,6.240044973297105,Percent,55071,3169
+Wisconsin,Marathon,6.791958482390285,Percent,55073,3170
+Wisconsin,Marinette,8.488063660477453,Percent,55075,3172
+Wisconsin,Marquette,7.481162540365985,Percent,55077,3174
+Wisconsin,Menominee,nan,Percent,55078,3175
+Wisconsin,Milwaukee,3.4107123456343027,Percent,55079,3177
+Wisconsin,Monroe,10.901408450704226,Percent,55081,3179
+Wisconsin,Oconto,8.460732984293195,Percent,55083,3181
+Wisconsin,Oneida,7.609475951184494,Percent,55085,3183
+Wisconsin,Outagamie,4.771384136858476,Percent,55087,3185
+Wisconsin,Ozaukee,2.2199399589192605,Percent,55089,3186
+Wisconsin,Pepin,6.856187290969899,Percent,55091,3188
+Wisconsin,Pierce,6.559917355371901,Percent,55093,3189
+Wisconsin,Polk,9.448171984116115,Percent,55095,3191
+Wisconsin,Portage,6.042703150912106,Percent,55097,3192
+Wisconsin,Price,11.497005988023952,Percent,55099,3194
+Wisconsin,Racine,5.136869410881289,Percent,55101,3195
+Wisconsin,Richland,9.246392303580974,Percent,55103,3196
+Wisconsin,Rock,3.639229171144065,Percent,55105,3198
+Wisconsin,Rusk,11.93151417870519,Percent,55107,3199
+Wisconsin,St. Croix,5.359495250641337,Percent,55109,3200
+Wisconsin,Sauk,6.106343099536352,Percent,55111,3202
+Wisconsin,Sawyer,7.3021425448185395,Percent,55113,3203
+Wisconsin,Shawano,10.802633920626446,Percent,55115,3205
+Wisconsin,Sheboygan,7.195629552549428,Percent,55117,3207
+Wisconsin,Taylor,9.205665024630543,Percent,55119,3208
+Wisconsin,Trempealeau,8.829075947196982,Percent,55121,3210
+Wisconsin,Vernon,10.299901671583088,Percent,55123,3213
+Wisconsin,Vilas,7.112320248736884,Percent,55125,3001
+Wisconsin,Walworth,5.87281795511222,Percent,55127,3003
+Wisconsin,Washburn,9.323367427222658,Percent,55129,3004
+Wisconsin,Washington,4.45962233828847,Percent,55131,3005
+Wisconsin,Waukesha,2.927366341763544,Percent,55133,3007
+Wisconsin,Waupaca,9.340208601898512,Percent,55135,3009
+Wisconsin,Waushara,12.081031307550646,Percent,55137,3010
+Wisconsin,Winnebago,6.406782623896512,Percent,55139,3012
+Wisconsin,Wood,7.058333333333334,Percent,55141,3014
+Wyoming,Albany,5.901639344262295,Percent,56001,3015
+Wyoming,Big Horn,14.960937499999998,Percent,56003,3018
+Wyoming,Campbell,10.199411572409284,Percent,56005,3020
+Wyoming,Carbon,8.936338473705021,Percent,56007,3022
+Wyoming,Converse,8.122668876916702,Percent,56009,3024
+Wyoming,Crook,17.294520547945204,Percent,56011,3025
+Wyoming,Fremont,7.144906743185079,Percent,56013,3028
+Wyoming,Goshen,13.159387407827566,Percent,56015,3030
+Wyoming,Hot Springs,13.663663663663664,Percent,56017,3032
+Wyoming,Johnson,10.526315789473683,Percent,56019,3033
+Wyoming,Laramie,10.200680045336357,Percent,56021,3035
+Wyoming,Lincoln,12.373810210556677,Percent,56023,3036
+Wyoming,Natrona,9.964969814414548,Percent,56025,3038
+Wyoming,Niobrara,nan,Percent,56027,3040
+Wyoming,Park,10.064935064935066,Percent,56029,3043
+Wyoming,Platte,8.89967637540453,Percent,56031,3045
+Wyoming,Sheridan,11.285682673157778,Percent,56033,3047
+Wyoming,Sublette,5.541561712846348,Percent,56035,3049
+Wyoming,Sweetwater,6.053440529676046,Percent,56037,3051
+Wyoming,Teton,8.916967509025271,Percent,56039,3053
+Wyoming,Uinta,10.928455661032647,Percent,56041,3055
+Wyoming,Washakie,14.617486338797814,Percent,56043,3056
+Wyoming,Weston,10.871602624179943,Percent,56045,3058

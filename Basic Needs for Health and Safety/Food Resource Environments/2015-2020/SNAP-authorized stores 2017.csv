@@ -1,0 +1,3144 @@
+State,County,SNAP-authorized stores 2017 (SNAPS17),Units,FIPS,FID
+Alabama,Autauga,44.666666666666664,Count,1001,5
+Alabama,Baldwin,189.41666666666669,Count,1003,20
+Alabama,Barbour,36.0,Count,1005,25
+Alabama,Bibb,18.166666666666664,Count,1007,29
+Alabama,Blount,40.16666666666667,Count,1009,33
+Alabama,Bullock,10.166666666666666,Count,1011,37
+Alabama,Butler,24.916666666666664,Count,1013,39
+Alabama,Calhoun,136.00000000000003,Count,1015,43
+Alabama,Chambers,35.666666666666664,Count,1017,47
+Alabama,Cherokee,27.41666666666667,Count,1019,51
+Alabama,Chilton,42.50000000000001,Count,1021,56
+Alabama,Choctaw,14.416666666666666,Count,1023,58
+Alabama,Clarke,36.166666666666664,Count,1025,61
+Alabama,Clay,11.166666666666668,Count,1027,65
+Alabama,Cleburne,12.166666666666666,Count,1029,67
+Alabama,Coffee,42.666666666666664,Count,1031,70
+Alabama,Colbert,63.00000000000001,Count,1033,73
+Alabama,Conecuh,15.833333333333334,Count,1035,80
+Alabama,Coosa,7.0,Count,1037,82
+Alabama,Covington,54.083333333333336,Count,1039,88
+Alabama,Crenshaw,19.833333333333336,Count,1041,90
+Alabama,Cullman,74.08333333333334,Count,1043,98
+Alabama,Dale,51.333333333333336,Count,1045,101
+Alabama,Dallas,43.66666666666668,Count,1047,110
+Alabama,DeKalb,81.91666666666666,Count,1049,112
+Alabama,Elmore,66.83333333333334,Count,1051,118
+Alabama,Escambia,42.08333333333333,Count,1053,122
+Alabama,Etowah,108.50000000000003,Count,1055,131
+Alabama,Fayette,14.0,Count,1057,134
+Alabama,Franklin,33.08333333333333,Count,1059,138
+Alabama,Geneva,31.583333333333336,Count,1061,140
+Alabama,Greene,14.833333333333334,Count,1063,148
+Alabama,Hale,14.25,Count,1065,150
+Alabama,Henry,12.583333333333332,Count,1067,158
+Alabama,Houston,136.66666666666666,Count,1069,160
+Alabama,Jackson,49.25000000000001,Count,1071,164
+Alabama,Jefferson,569.416666666667,Count,1073,171
+Alabama,Lamar,13.333333333333332,Count,1075,174
+Alabama,Lauderdale,93.08333333333333,Count,1077,176
+Alabama,Lawrence,27.25,Count,1079,181
+Alabama,Lee,100.5,Count,1081,187
+Alabama,Limestone,67.83333333333334,Count,1083,197
+Alabama,Lowndes,13.25,Count,1085,205
+Alabama,Macon,18.0,Count,1087,210
+Alabama,Madison,263.16666666666663,Count,1089,217
+Alabama,Marengo,22.833333333333336,Count,1091,220
+Alabama,Marion,22.666666666666664,Count,1093,224
+Alabama,Marshall,100.66666666666664,Count,1095,231
+Alabama,Mobile,484.24999999999994,Count,1097,240
+Alabama,Monroe,26.666666666666664,Count,1099,250
+Alabama,Montgomery,213.58333333333331,Count,1101,256
+Alabama,Morgan,118.0,Count,1103,262
+Alabama,Perry,11.083333333333332,Count,1105,264
+Alabama,Pickens,24.666666666666668,Count,1107,273
+Alabama,Pike,37.583333333333336,Count,1109,279
+Alabama,Randolph,20.583333333333336,Count,1111,284
+Alabama,Russell,62.08333333333334,Count,1113,288
+Alabama,St. Clair,74.08333333333333,Count,1115,292
+Alabama,Shelby,124.75,Count,1117,298
+Alabama,Sumter,19.916666666666664,Count,1119,303
+Alabama,Talladega,95.58333333333334,Count,1121,306
+Alabama,Tallapoosa,41.75,Count,1123,308
+Alabama,Tuscaloosa,163.33333333333334,Count,1125,313
+Alabama,Walker,72.83333333333334,Count,1127,317
+Alabama,Washington,16.666666666666664,Count,1129,319
+Alabama,Wilcox,19.083333333333332,Count,1131,326
+Alabama,Winston,25.0,Count,1133,332
+Alaska,Aleutians East,5.0,Count,2013,346
+Alaska,Aleutians West,3.833333333333333,Count,2016,381
+Alaska,Anchorage,117.41666666666664,Count,2020,400
+Alaska,Bethel,51.583333333333336,Count,2050,411
+Alaska,Bristol Bay,2.0,Count,2060,423
+Alaska,Denali,0.08333333333333333,Count,2068,426
+Alaska,Dillingham,8.0,Count,2070,445
+Alaska,Fairbanks North Star,25.833333333333336,Count,2090,454
+Alaska,Haines,3.0,Count,2100,462
+Alaska,Hoonah-Angoon,nan,Count,2105,476
+Alaska,Juneau,12.0,Count,2110,482
+Alaska,Kenai Peninsula,36.583333333333336,Count,2122,494
+Alaska,Ketchikan Gateway,11.0,Count,2130,514
+Alaska,Kodiak Island,8.583333333333332,Count,2150,533
+Alaska,Lake and Peninsula,9.0,Count,2164,544
+Alaska,Matanuska-Susitna,39.0,Count,2170,556
+Alaska,Nome,24.916666666666668,Count,2180,571
+Alaska,North Slope,11.916666666666668,Count,2185,614
+Alaska,Northwest Arctic,20.5,Count,2188,638
+Alaska,Petersburg,1.0,Count,2195,645
+Alaska,Prince of Wales-Hyder,2.0,Count,2198,669
+Alaska,Sitka,3.083333333333333,Count,2220,679
+Alaska,Skagway,nan,Count,2230,683
+Alaska,Southeast Fairbanks,5.916666666666666,Count,2240,690
+Alaska,Valdez-Cordova,14.25,Count,2261,710
+Alaska,Wade Hampton,nan,Count,2270,725
+Alaska,Wrangell,nan,Count,2275,733
+Alaska,Yakutat,2.0,Count,2282,744
+Alaska,Yukon-Koyukuk,31.666666666666668,Count,2290,753
+Arizona,Apache,45.99999999999999,Count,4001,761
+Arizona,Cochise,93.50000000000001,Count,4003,763
+Arizona,Coconino,93.08333333333334,Count,4005,771
+Arizona,Gila,44.75,Count,4007,787
+Arizona,Graham,24.416666666666664,Count,4009,0
+Arizona,Greenlee,10.083333333333332,Count,4011,1
+Arizona,La Paz,35.08333333333333,Count,4012,3
+Arizona,Maricopa,2072.500000000001,Count,4013,9
+Arizona,Mohave,150.75,Count,4015,15
+Arizona,Navajo,93.33333333333334,Count,4017,17
+Arizona,Pima,603.5833333333333,Count,4019,21
+Arizona,Pinal,164.08333333333334,Count,4021,26
+Arizona,Santa Cruz,27.25,Count,4023,32
+Arizona,Yavapai,146.16666666666663,Count,4025,35
+Arizona,Yuma,110.75,Count,4027,42
+Arkansas,Arkansas,19.0,Count,5001,46
+Arkansas,Ashley,19.666666666666668,Count,5003,50
+Arkansas,Baxter,33.833333333333336,Count,5005,54
+Arkansas,Benton,137.33333333333334,Count,5007,59
+Arkansas,Boone,29.666666666666664,Count,5009,62
+Arkansas,Bradley,10.25,Count,5011,68
+Arkansas,Calhoun,4.0,Count,5013,72
+Arkansas,Carroll,19.25,Count,5015,74
+Arkansas,Chicot,13.333333333333334,Count,5017,77
+Arkansas,Clark,17.0,Count,5019,86
+Arkansas,Clay,12.416666666666666,Count,5021,93
+Arkansas,Cleburne,22.416666666666664,Count,5023,97
+Arkansas,Cleveland,4.0,Count,5025,103
+Arkansas,Columbia,19.333333333333336,Count,5027,107
+Arkansas,Conway,22.083333333333332,Count,5029,109
+Arkansas,Craighead,97.41666666666667,Count,5031,114
+Arkansas,Crawford,44.0,Count,5033,115
+Arkansas,Crittenden,65.83333333333334,Count,5035,119
+Arkansas,Cross,18.75,Count,5037,124
+Arkansas,Dallas,11.833333333333332,Count,5039,128
+Arkansas,Desha,15.166666666666668,Count,5041,130
+Arkansas,Drew,19.0,Count,5043,136
+Arkansas,Faulkner,73.5,Count,5045,141
+Arkansas,Franklin,15.333333333333334,Count,5047,144
+Arkansas,Fulton,7.583333333333334,Count,5049,146
+Arkansas,Garland,79.5,Count,5051,151
+Arkansas,Grant,11.583333333333332,Count,5053,155
+Arkansas,Greene,38.66666666666667,Count,5055,162
+Arkansas,Hempstead,18.666666666666664,Count,5057,172
+Arkansas,Hot Spring,28.666666666666668,Count,5059,184
+Arkansas,Howard,17.166666666666664,Count,5061,191
+Arkansas,Independence,28.0,Count,5063,200
+Arkansas,Izard,12.666666666666668,Count,5065,203
+Arkansas,Jackson,19.166666666666664,Count,5067,209
+Arkansas,Jefferson,78.25,Count,5069,213
+Arkansas,Johnson,22.416666666666668,Count,5071,218
+Arkansas,Lafayette,7.0,Count,5073,222
+Arkansas,Lawrence,18.416666666666664,Count,5075,230
+Arkansas,Lee,12.083333333333334,Count,5077,237
+Arkansas,Lincoln,9.666666666666666,Count,5079,244
+Arkansas,Little River,13.0,Count,5081,251
+Arkansas,Logan,18.666666666666668,Count,5083,258
+Arkansas,Lonoke,51.33333333333333,Count,5085,268
+Arkansas,Madison,10.333333333333334,Count,5087,277
+Arkansas,Marion,10.083333333333332,Count,5089,282
+Arkansas,Miller,47.0,Count,5091,287
+Arkansas,Mississippi,46.833333333333336,Count,5093,294
+Arkansas,Monroe,18.333333333333336,Count,5095,300
+Arkansas,Montgomery,6.0,Count,5097,304
+Arkansas,Nevada,7.5,Count,5099,307
+Arkansas,Newton,6.5,Count,5101,311
+Arkansas,Ouachita,31.25,Count,5103,316
+Arkansas,Perry,4.083333333333333,Count,5105,318
+Arkansas,Phillips,29.250000000000004,Count,5107,322
+Arkansas,Pike,15.0,Count,5109,327
+Arkansas,Poinsett,28.083333333333332,Count,5111,333
+Arkansas,Polk,16.666666666666664,Count,5113,337
+Arkansas,Pope,41.166666666666664,Count,5115,340
+Arkansas,Prairie,7.916666666666667,Count,5117,345
+Arkansas,Pulaski,318.33333333333326,Count,5119,350
+Arkansas,Randolph,13.666666666666666,Count,5121,353
+Arkansas,St. Francis,32.33333333333333,Count,5123,357
+Arkansas,Saline,71.5,Count,5125,360
+Arkansas,Scott,10.5,Count,5127,364
+Arkansas,Searcy,8.166666666666666,Count,5129,372
+Arkansas,Sebastian,117.83333333333334,Count,5131,378
+Arkansas,Sevier,19.5,Count,5133,390
+Arkansas,Sharp,16.416666666666664,Count,5135,394
+Arkansas,Stone,8.666666666666666,Count,5137,399
+Arkansas,Union,32.75,Count,5139,403
+Arkansas,Van Buren,13.75,Count,5141,407
+Arkansas,Washington,161.0,Count,5143,417
+Arkansas,White,73.83333333333334,Count,5145,428
+Arkansas,Woodruff,10.0,Count,5147,435
+Arkansas,Yell,25.0,Count,5149,438
+California,Alameda,840.9999999999994,Count,6001,457
+California,Alpine,nan,Count,6003,461
+California,Amador,30.08333333333334,Count,6005,472
+California,Butte,186.83333333333337,Count,6007,486
+California,Calaveras,42.75,Count,6009,489
+California,Colusa,22.666666666666668,Count,6011,497
+California,Contra Costa,509.7500000000001,Count,6013,503
+California,Del Norte,26.916666666666668,Count,6015,511
+California,El Dorado,108.33333333333333,Count,6017,522
+California,Fresno,888.2499999999997,Count,6019,527
+California,Glenn,32.0,Count,6021,537
+California,Humboldt,128.5,Count,6023,551
+California,Imperial,115.83333333333331,Count,6025,557
+California,Inyo,16.416666666666664,Count,6027,562
+California,Kern,704.5833333333331,Count,6029,84
+California,Kings,111.08333333333334,Count,6031,94
+California,Lake,61.0,Count,6033,100
+California,Lassen,23.416666666666668,Count,6035,104
+California,Los Angeles,6112.833333333331,Count,6037,139
+California,Madera,133.75,Count,6039,153
+California,Marin,108.58333333333333,Count,6041,168
+California,Mariposa,9.0,Count,6043,178
+California,Mendocino,92.0,Count,6045,190
+California,Merced,229.58333333333326,Count,6047,204
+California,Modoc,10.75,Count,6049,207
+California,Mono,9.0,Count,6051,214
+California,Monterey,270.33333333333337,Count,6053,228
+California,Napa,63.833333333333336,Count,6055,236
+California,Nevada,57.333333333333336,Count,6057,243
+California,Orange,1392.4999999999998,Count,6059,257
+California,Placer,210.50000000000006,Count,6061,266
+California,Plumas,24.833333333333336,Count,6063,275
+California,Riverside,1176.0000000000002,Count,6065,281
+California,Sacramento,939.5000000000001,Count,6067,289
+California,San Benito,25.833333333333332,Count,6069,295
+California,San Bernardino,1360.5833333333328,Count,6071,302
+California,San Diego,1637.7499999999993,Count,6073,315
+California,San Francisco,436.3333333333333,Count,6075,331
+California,San Joaquin,514.0,Count,6077,339
+California,San Luis Obispo,150.5,Count,6079,351
+California,San Mateo,260.5,Count,6081,368
+California,Santa Barbara,238.08333333333331,Count,6083,391
+California,Santa Clara,750.6666666666663,Count,6085,406
+California,Santa Cruz,156.58333333333337,Count,6087,415
+California,Shasta,165.83333333333337,Count,6089,431
+California,Sierra,3.0,Count,6091,439
+California,Siskiyou,51.666666666666664,Count,6093,446
+California,Solano,229.74999999999997,Count,6095,453
+California,Sonoma,301.9166666666668,Count,6097,463
+California,Stanislaus,451.4999999999999,Count,6099,473
+California,Sutter,86.33333333333334,Count,6101,483
+California,Tehama,59.75,Count,6103,492
+California,Trinity,20.916666666666664,Count,6105,500
+California,Tulare,445.9166666666667,Count,6107,501
+California,Tuolumne,40.08333333333333,Count,6109,513
+California,Ventura,433.3333333333334,Count,6111,521
+California,Yolo,147.91666666666669,Count,6113,525
+California,Yuba,67.91666666666666,Count,6115,541
+Colorado,Adams,235.58333333333323,Count,8001,545
+Colorado,Alamosa,15.666666666666666,Count,8003,549
+Colorado,Arapahoe,277.50000000000006,Count,8005,558
+Colorado,Archuleta,11.166666666666668,Count,8007,560
+Colorado,Baca,4.0,Count,8009,563
+Colorado,Bent,4.0,Count,8011,564
+Colorado,Boulder,122.16666666666667,Count,8013,570
+Colorado,Broomfield,21.666666666666664,Count,8014,577
+Colorado,Chaffee,15.333333333333334,Count,8015,582
+Colorado,Cheyenne,1.5833333333333335,Count,8017,587
+Colorado,Clear Creek,6.416666666666667,Count,8019,591
+Colorado,Conejos,7.833333333333333,Count,8021,596
+Colorado,Costilla,9.0,Count,8023,599
+Colorado,Crowley,3.0,Count,8025,605
+Colorado,Custer,3.75,Count,8027,610
+Colorado,Delta,12.5,Count,8029,617
+Colorado,Denver,341.1666666666666,Count,8031,628
+Colorado,Dolores,2.0,Count,8033,636
+Colorado,Douglas,89.25,Count,8035,644
+Colorado,Eagle,18.0,Count,8037,648
+Colorado,Elbert,3.6666666666666665,Count,8039,655
+Colorado,El Paso,301.25,Count,8041,661
+Colorado,Fremont,15.333333333333334,Count,8043,664
+Colorado,Garfield,37.0,Count,8045,667
+Colorado,Gilpin,1.0,Count,8047,672
+Colorado,Grand,8.083333333333332,Count,8049,677
+Colorado,Gunnison,9.333333333333334,Count,8051,682
+Colorado,Hinsdale,1.9166666666666665,Count,8053,688
+Colorado,Huerfano,9.416666666666668,Count,8055,693
+Colorado,Jackson,2.0,Count,8057,701
+Colorado,Jefferson,233.33333333333334,Count,8059,706
+Colorado,Kiowa,2.0,Count,8061,711
+Colorado,Kit Carson,9.0,Count,8063,716
+Colorado,Lake,7.0,Count,8065,721
+Colorado,La Plata,24.166666666666664,Count,8067,727
+Colorado,Larimer,104.75000000000001,Count,8069,734
+Colorado,Las Animas,11.583333333333334,Count,8071,741
+Colorado,Lincoln,7.666666666666667,Count,8073,747
+Colorado,Logan,7.166666666666667,Count,8075,749
+Colorado,Mesa,77.25,Count,8077,751
+Colorado,Mineral,1.0833333333333333,Count,8079,757
+Colorado,Moffat,11.0,Count,8081,758
+Colorado,Montezuma,20.75,Count,8083,766
+Colorado,Montrose,22.25,Count,8085,769
+Colorado,Morgan,25.166666666666664,Count,8087,775
+Colorado,Otero,15.416666666666668,Count,8089,777
+Colorado,Ouray,3.0,Count,8091,780
+Colorado,Park,5.0,Count,8093,782
+Colorado,Phillips,2.4166666666666665,Count,8095,785
+Colorado,Pitkin,4.0,Count,8097,789
+Colorado,Prowers,13.0,Count,8099,792
+Colorado,Pueblo,114.08333333333331,Count,8101,795
+Colorado,Rio Blanco,9.0,Count,8103,799
+Colorado,Rio Grande,18.5,Count,8105,802
+Colorado,Routt,13.083333333333332,Count,8107,809
+Colorado,Saguache,4.0,Count,8109,811
+Colorado,San Juan,1.0,Count,8111,347
+Colorado,San Miguel,4.833333333333334,Count,8113,359
+Colorado,Sedgwick,1.4166666666666667,Count,8115,366
+Colorado,Summit,16.0,Count,8117,373
+Colorado,Teller,17.25,Count,8119,375
+Colorado,Washington,2.0,Count,8121,377
+Colorado,Weld,117.33333333333331,Count,8123,382
+Colorado,Yuma,10.0,Count,8125,385
+Connecticut,Fairfield,420.49999999999994,Count,9001,410
+Connecticut,Hartford,639.5833333333333,Count,9003,432
+Connecticut,Litchfield,96.25,Count,9005,443
+Connecticut,Middlesex,97.25,Count,9007,450
+Connecticut,New Haven,609.2499999999999,Count,9009,466
+Connecticut,New London,181.66666666666666,Count,9011,517
+Connecticut,Tolland,74.58333333333333,Count,9013,524
+Connecticut,Windham,89.08333333333337,Count,9015,529
+Delaware,Kent,128.66666666666666,Count,10001,532
+Delaware,New Castle,401.83333333333326,Count,10003,536
+Delaware,Sussex,193.33333333333334,Count,10005,609
+District of Columbia,District of Columbia,365.91666666666674,Count,11001,630
+Florida,Alachua,206.83333333333326,Count,12001,639
+Florida,Baker,31.75,Count,12003,641
+Florida,Bay,203.49999999999997,Count,12005,658
+Florida,Bradford,30.166666666666668,Count,12007,665
+Florida,Brevard,467.1666666666667,Count,12009,686
+Florida,Broward,1024.4166666666665,Count,12011,695
+Florida,Calhoun,10.083333333333334,Count,12013,699
+Florida,Charlotte,111.33333333333334,Count,12015,743
+Florida,Citrus,128.66666666666669,Count,12017,843
+Florida,Clay,130.83333333333337,Count,12019,852
+Florida,Collier,213.16666666666663,Count,12021,894
+Florida,Columbia,87.91666666666666,Count,12023,903
+Florida,DeSoto,28.916666666666668,Count,12027,906
+Florida,Dixie,17.083333333333332,Count,12029,918
+Florida,Duval,896.5000000000002,Count,12031,924
+Florida,Escambia,300.25,Count,12033,931
+Florida,Flagler,62.75,Count,12035,935
+Florida,Franklin,17.0,Count,12037,937
+Florida,Gadsden,52.5,Count,12039,938
+Florida,Gilchrist,15.166666666666666,Count,12041,939
+Florida,Glades,6.583333333333333,Count,12043,940
+Florida,Gulf,18.75,Count,12045,941
+Florida,Hamilton,21.916666666666664,Count,12047,942
+Florida,Hardee,29.083333333333332,Count,12049,943
+Florida,Hendry,37.5,Count,12051,944
+Florida,Hernando,119.83333333333331,Count,12053,945
+Florida,Highlands,87.16666666666666,Count,12055,946
+Florida,Hillsborough,1024.5833333333335,Count,12057,947
+Florida,Holmes,22.0,Count,12059,948
+Florida,Indian River,112.33333333333336,Count,12061,949
+Florida,Jackson,49.5,Count,12063,950
+Florida,Jefferson,17.25,Count,12065,951
+Florida,Lafayette,7.0,Count,12067,952
+Florida,Lake,250.66666666666669,Count,12069,953
+Florida,Lee,489.58333333333326,Count,12071,954
+Florida,Leon,224.08333333333331,Count,12073,955
+Florida,Levy,48.49999999999999,Count,12075,956
+Florida,Liberty,9.083333333333334,Count,12077,957
+Florida,Madison,26.0,Count,12079,958
+Florida,Manatee,254.25,Count,12081,959
+Florida,Marion,320.6666666666667,Count,12083,960
+Florida,Martin,112.08333333333333,Count,12085,961
+Florida,Miami-Dade,1389.3333333333337,Count,12086,962
+Florida,Monroe,72.5,Count,12087,963
+Florida,Nassau,61.833333333333336,Count,12089,964
+Florida,Okaloosa,157.66666666666669,Count,12091,965
+Florida,Okeechobee,46.58333333333334,Count,12093,966
+Florida,Orange,919.0833333333334,Count,12095,967
+Florida,Osceola,235.16666666666666,Count,12097,968
+Florida,Palm Beach,758.9166666666666,Count,12099,969
+Florida,Pasco,334.0,Count,12101,970
+Florida,Pinellas,766.0000000000001,Count,12103,971
+Florida,Polk,544.8333333333335,Count,12105,972
+Florida,Putnam,94.08333333333333,Count,12107,973
+Florida,St. Johns,126.16666666666666,Count,12109,974
+Florida,St. Lucie,196.58333333333331,Count,12111,975
+Florida,Santa Rosa,112.33333333333334,Count,12113,976
+Florida,Sarasota,248.25000000000006,Count,12115,977
+Florida,Seminole,280.91666666666663,Count,12117,978
+Florida,Sumter,67.16666666666667,Count,12119,979
+Florida,Suwannee,54.166666666666664,Count,12121,980
+Florida,Taylor,30.0,Count,12123,981
+Florida,Union,12.0,Count,12125,982
+Florida,Volusia,441.2499999999999,Count,12127,983
+Florida,Wakulla,29.583333333333336,Count,12129,984
+Florida,Walton,44.75,Count,12131,985
+Florida,Washington,22.25,Count,12133,986
+Georgia,Appling,22.916666666666668,Count,13001,987
+Georgia,Atkinson,11.166666666666668,Count,13003,988
+Georgia,Bacon,16.833333333333336,Count,13005,989
+Georgia,Baker,4.0,Count,13007,990
+Georgia,Baldwin,55.66666666666667,Count,13009,991
+Georgia,Banks,18.25,Count,13011,992
+Georgia,Barrow,52.75000000000001,Count,13013,993
+Georgia,Bartow,109.49999999999999,Count,13015,994
+Georgia,Ben Hill,27.0,Count,13017,995
+Georgia,Berrien,25.916666666666664,Count,13019,996
+Georgia,Bibb,213.83333333333337,Count,13021,997
+Georgia,Bleckley,12.833333333333332,Count,13023,998
+Georgia,Brantley,23.25,Count,13025,999
+Georgia,Brooks,21.333333333333332,Count,13027,565
+Georgia,Bryan,32.916666666666664,Count,13029,573
+Georgia,Bulloch,85.58333333333333,Count,13031,579
+Georgia,Burke,27.083333333333332,Count,13033,583
+Georgia,Butts,28.749999999999996,Count,13035,588
+Georgia,Calhoun,5.0,Count,13037,592
+Georgia,Camden,45.75,Count,13039,603
+Georgia,Candler,20.25,Count,13043,616
+Georgia,Carroll,125.08333333333334,Count,13045,620
+Georgia,Catoosa,68.25,Count,13047,626
+Georgia,Charlton,16.0,Count,13049,635
+Georgia,Chatham,283.16666666666663,Count,13051,646
+Georgia,Chattahoochee,4.0,Count,13053,656
+Georgia,Chattooga,30.416666666666664,Count,13055,659
+Georgia,Cherokee,117.58333333333334,Count,13057,662
+Georgia,Clarke,112.08333333333334,Count,13059,666
+Georgia,Clay,4.333333333333334,Count,13061,670
+Georgia,Clayton,256.1666666666667,Count,13063,673
+Georgia,Clinch,10.5,Count,13065,676
+Georgia,Cobb,409.75,Count,13067,680
+Georgia,Coffee,59.41666666666666,Count,13069,684
+Georgia,Colquitt,62.49999999999999,Count,13071,689
+Georgia,Columbia,82.83333333333331,Count,13073,692
+Georgia,Cook,23.58333333333334,Count,13075,697
+Georgia,Coweta,96.08333333333336,Count,13077,700
+Georgia,Crawford,8.416666666666668,Count,13079,704
+Georgia,Crisp,41.916666666666664,Count,13081,707
+Georgia,Dade,27.500000000000007,Count,13083,708
+Georgia,Dawson,28.000000000000004,Count,13085,713
+Georgia,Decatur,45.083333333333336,Count,13087,714
+Georgia,DeKalb,545.1666666666665,Count,13089,718
+Georgia,Dodge,23.0,Count,13091,720
+Georgia,Dooly,18.916666666666664,Count,13093,724
+Georgia,Dougherty,128.91666666666669,Count,13095,728
+Georgia,Douglas,113.16666666666667,Count,13097,731
+Georgia,Early,16.0,Count,13099,735
+Georgia,Echols,3.9166666666666665,Count,13101,737
+Georgia,Effingham,34.91666666666667,Count,13103,742
+Georgia,Elbert,21.333333333333336,Count,13105,746
+Georgia,Emanuel,32.83333333333333,Count,13107,750
+Georgia,Evans,20.916666666666668,Count,13109,754
+Georgia,Fannin,19.25,Count,13111,755
+Georgia,Fayette,65.41666666666667,Count,13113,760
+Georgia,Floyd,106.25000000000001,Count,13115,764
+Georgia,Forsyth,94.91666666666666,Count,13117,768
+Georgia,Franklin,31.500000000000004,Count,13119,772
+Georgia,Fulton,638.916666666667,Count,13121,779
+Georgia,Gilmer,23.333333333333332,Count,13123,781
+Georgia,Glascock,4.0,Count,13125,783
+Georgia,Glynn,103.91666666666669,Count,13127,793
+Georgia,Gordon,68.0,Count,13129,796
+Georgia,Grady,26.5,Count,13131,797
+Georgia,Greene,25.750000000000004,Count,13133,800
+Georgia,Gwinnett,514.8333333333336,Count,13135,804
+Georgia,Habersham,54.5,Count,13137,806
+Georgia,Hall,173.58333333333331,Count,13139,808
+Georgia,Hancock,13.499999999999998,Count,13141,810
+Georgia,Haralson,34.91666666666667,Count,13143,813
+Georgia,Harris,23.333333333333332,Count,13145,814
+Georgia,Hart,24.916666666666668,Count,13147,816
+Georgia,Heard,7.75,Count,13149,817
+Georgia,Henry,154.75,Count,13151,820
+Georgia,Houston,138.58333333333334,Count,13153,823
+Georgia,Irwin,8.583333333333332,Count,13155,825
+Georgia,Jackson,56.99999999999999,Count,13157,828
+Georgia,Jasper,10.0,Count,13159,830
+Georgia,Jeff Davis,19.0,Count,13161,832
+Georgia,Jefferson,26.75,Count,13163,834
+Georgia,Jenkins,12.666666666666666,Count,13165,835
+Georgia,Johnson,11.083333333333332,Count,13167,837
+Georgia,Jones,16.666666666666668,Count,13169,839
+Georgia,Lamar,16.0,Count,13171,841
+Georgia,Lanier,10.083333333333334,Count,13173,845
+Georgia,Laurens,70.83333333333333,Count,13175,847
+Georgia,Lee,25.25,Count,13177,849
+Georgia,Liberty,63.41666666666667,Count,13179,855
+Georgia,Lincoln,7.666666666666667,Count,13181,857
+Georgia,Long,8.25,Count,13183,860
+Georgia,Lowndes,126.66666666666669,Count,13185,863
+Georgia,Lumpkin,20.583333333333336,Count,13187,865
+Georgia,McDuffie,31.416666666666668,Count,13189,868
+Georgia,McIntosh,16.833333333333336,Count,13191,871
+Georgia,Macon,19.833333333333332,Count,13193,874
+Georgia,Madison,32.0,Count,13195,875
+Georgia,Marion,8.0,Count,13197,877
+Georgia,Meriwether,26.0,Count,13199,879
+Georgia,Miller,10.0,Count,13201,881
+Georgia,Mitchell,31.416666666666664,Count,13205,883
+Georgia,Monroe,24.5,Count,13207,885
+Georgia,Montgomery,14.416666666666668,Count,13209,887
+Georgia,Morgan,22.666666666666668,Count,13211,890
+Georgia,Murray,47.5,Count,13213,892
+Georgia,Muscogee,192.33333333333331,Count,13215,896
+Georgia,Newton,81.66666666666667,Count,13217,899
+Georgia,Oconee,21.583333333333332,Count,13219,901
+Georgia,Oglethorpe,8.583333333333334,Count,13221,905
+Georgia,Paulding,72.16666666666666,Count,13223,908
+Georgia,Peach,36.0,Count,13225,910
+Georgia,Pickens,24.333333333333332,Count,13227,912
+Georgia,Pierce,23.416666666666664,Count,13229,915
+Georgia,Pike,11.75,Count,13231,7
+Georgia,Polk,59.749999999999986,Count,13233,8
+Georgia,Pulaski,15.75,Count,13235,11
+Georgia,Putnam,28.416666666666668,Count,13237,13
+Georgia,Quitman,2.0,Count,13239,16
+Georgia,Rabun,15.25,Count,13241,18
+Georgia,Randolph,13.916666666666666,Count,13243,23
+Georgia,Richmond,206.66666666666666,Count,13245,24
+Georgia,Rockdale,75.16666666666666,Count,13247,28
+Georgia,Schley,2.6666666666666665,Count,13249,31
+Georgia,Screven,22.833333333333332,Count,13251,34
+Georgia,Seminole,12.583333333333334,Count,13253,38
+Georgia,Spalding,65.75,Count,13255,41
+Georgia,Stephens,31.249999999999996,Count,13257,45
+Georgia,Stewart,6.333333333333333,Count,13259,48
+Georgia,Sumter,43.833333333333336,Count,13261,52
+Georgia,Talbot,4.916666666666667,Count,13263,57
+Georgia,Taliaferro,3.25,Count,13265,60
+Georgia,Tattnall,27.250000000000004,Count,13267,63
+Georgia,Taylor,11.416666666666668,Count,13269,69
+Georgia,Telfair,22.333333333333336,Count,13271,75
+Georgia,Terrell,10.333333333333332,Count,13273,78
+Georgia,Thomas,70.0,Count,13275,83
+Georgia,Tift,74.58333333333334,Count,13277,87
+Georgia,Toombs,40.5,Count,13279,91
+Georgia,Towns,17.0,Count,13281,95
+Georgia,Treutlen,11.416666666666666,Count,13283,102
+Georgia,Troup,83.49999999999999,Count,13285,105
+Georgia,Turner,17.41666666666667,Count,13287,108
+Georgia,Twiggs,10.416666666666666,Count,13289,116
+Georgia,Union,22.666666666666664,Count,13291,120
+Georgia,Upson,34.08333333333333,Count,13293,123
+Georgia,Walker,65.41666666666666,Count,13295,126
+Georgia,Walton,77.58333333333333,Count,13297,127
+Georgia,Ware,56.33333333333334,Count,13299,132
+Georgia,Warren,6.0,Count,13301,135
+Georgia,Washington,24.16666666666667,Count,13303,143
+Georgia,Wayne,35.25,Count,13305,147
+Georgia,Webster,1.75,Count,13307,149
+Georgia,Wheeler,5.166666666666667,Count,13309,154
+Georgia,White,21.999999999999996,Count,13311,157
+Georgia,Whitfield,124.08333333333336,Count,13313,159
+Georgia,Wilcox,8.75,Count,13315,163
+Georgia,Wilkes,16.083333333333336,Count,13317,167
+Georgia,Wilkinson,14.833333333333334,Count,13319,169
+Georgia,Worth,20.416666666666664,Count,13321,173
+Hawaii,Hawaii,162.41666666666669,Count,15001,198
+Hawaii,Honolulu,558.1666666666667,Count,15003,234
+Hawaii,Kalawao,nan,Count,15005,247
+Hawaii,Kauai,41.99999999999999,Count,15007,261
+Hawaii,Maui,114.24999999999999,Count,15009,323
+Idaho,Ada,230.0,Count,16001,336
+Idaho,Adams,4.5,Count,16003,338
+Idaho,Bannock,56.83333333333333,Count,16005,343
+Idaho,Bear Lake,4.0,Count,16007,349
+Idaho,Benewah,4.333333333333333,Count,16009,354
+Idaho,Bingham,24.833333333333336,Count,16011,362
+Idaho,Blaine,9.333333333333334,Count,16013,371
+Idaho,Boise,7.75,Count,16015,380
+Idaho,Bonner,26.0,Count,16017,387
+Idaho,Bonneville,69.83333333333334,Count,16019,395
+Idaho,Boundary,8.0,Count,16021,405
+Idaho,Butte,3.0,Count,16023,414
+Idaho,Camas,1.0,Count,16025,429
+Idaho,Canyon,108.91666666666664,Count,16027,441
+Idaho,Caribou,6.0,Count,16029,449
+Idaho,Cassia,16.0,Count,16031,456
+Idaho,Clark,nan,Count,16033,464
+Idaho,Clearwater,7.0,Count,16035,474
+Idaho,Custer,6.0,Count,16037,484
+Idaho,Elmore,16.666666666666664,Count,16039,490
+Idaho,Franklin,2.5,Count,16041,498
+Idaho,Fremont,7.75,Count,16043,502
+Idaho,Gem,13.75,Count,16045,510
+Idaho,Gooding,10.0,Count,16047,519
+Idaho,Idaho,15.416666666666668,Count,16049,528
+Idaho,Jefferson,7.750000000000001,Count,16051,540
+Idaho,Jerome,18.0,Count,16053,547
+Idaho,Kootenai,94.00000000000001,Count,16055,552
+Idaho,Latah,22.666666666666668,Count,16057,559
+Idaho,Lemhi,7.333333333333333,Count,16059,566
+Idaho,Lewis,5.0,Count,16061,574
+Idaho,Lincoln,2.75,Count,16063,578
+Idaho,Madison,8.333333333333332,Count,16065,581
+Idaho,Minidoka,6.0,Count,16067,585
+Idaho,Nez Perce,33.833333333333336,Count,16069,589
+Idaho,Oneida,4.666666666666666,Count,16071,593
+Idaho,Owyhee,10.333333333333332,Count,16073,601
+Idaho,Payette,19.083333333333336,Count,16075,606
+Idaho,Power,5.0,Count,16077,613
+Idaho,Shoshone,10.833333333333334,Count,16079,621
+Idaho,Teton,4.0,Count,16081,627
+Idaho,Twin Falls,58.0,Count,16083,634
+Idaho,Valley,9.333333333333332,Count,16085,643
+Idaho,Washington,8.25,Count,16087,649
+Illinois,Adams,51.33333333333333,Count,17001,650
+Illinois,Alexander,7.0,Count,17003,651
+Illinois,Bond,14.0,Count,17005,652
+Illinois,Boone,34.416666666666664,Count,17007,653
+Illinois,Brown,4.0,Count,17009,654
+Illinois,Bureau,22.166666666666664,Count,17011,2
+Illinois,Calhoun,2.5,Count,17013,4
+Illinois,Carroll,12.25,Count,17015,6
+Illinois,Cass,15.083333333333332,Count,17017,10
+Illinois,Champaign,147.75,Count,17019,12
+Illinois,Christian,34.416666666666664,Count,17021,14
+Illinois,Clark,11.916666666666668,Count,17023,19
+Illinois,Clay,14.0,Count,17025,22
+Illinois,Clinton,38.08333333333333,Count,17027,27
+Illinois,Coles,38.333333333333336,Count,17029,30
+Illinois,Cook,3200.833333333335,Count,17031,36
+Illinois,Crawford,15.25,Count,17033,40
+Illinois,Cumberland,9.583333333333334,Count,17035,44
+Illinois,DeKalb,62.75,Count,17037,49
+Illinois,De Witt,15.416666666666666,Count,17039,53
+Illinois,Douglas,21.416666666666664,Count,17041,55
+Illinois,DuPage,428.58333333333337,Count,17043,64
+Illinois,Edgar,12.0,Count,17045,66
+Illinois,Edwards,9.833333333333334,Count,17047,71
+Illinois,Effingham,30.75,Count,17049,76
+Illinois,Fayette,16.583333333333336,Count,17051,79
+Illinois,Ford,11.333333333333332,Count,17053,81
+Illinois,Franklin,43.25,Count,17055,85
+Illinois,Fulton,29.0,Count,17057,89
+Illinois,Gallatin,2.0,Count,17059,92
+Illinois,Greene,13.0,Count,17061,96
+Illinois,Grundy,29.833333333333336,Count,17063,99
+Illinois,Hamilton,8.0,Count,17065,106
+Illinois,Hancock,19.0,Count,17067,111
+Illinois,Hardin,3.8333333333333335,Count,17069,113
+Illinois,Henderson,5.0,Count,17071,117
+Illinois,Henry,40.66666666666667,Count,17073,121
+Illinois,Iroquois,25.416666666666664,Count,17075,125
+Illinois,Jackson,49.83333333333333,Count,17077,129
+Illinois,Jasper,7.0,Count,17079,133
+Illinois,Jefferson,34.08333333333333,Count,17081,137
+Illinois,Jersey,13.0,Count,17083,142
+Illinois,Jo Daviess,13.0,Count,17085,145
+Illinois,Johnson,10.333333333333334,Count,17087,152
+Illinois,Kane,253.99999999999991,Count,17089,156
+Illinois,Kankakee,102.08333333333333,Count,17091,161
+Illinois,Kendall,47.0,Count,17093,165
+Illinois,Knox,42.58333333333333,Count,17095,166
+Illinois,Lake,341.9166666666666,Count,17097,170
+Illinois,LaSalle,96.08333333333333,Count,17099,175
+Illinois,Lawrence,11.0,Count,17101,177
+Illinois,Lee,29.500000000000004,Count,17103,180
+Illinois,Livingston,38.25,Count,17105,182
+Illinois,Logan,21.583333333333336,Count,17107,186
+Illinois,McDonough,28.0,Count,17109,189
+Illinois,McHenry,120.83333333333331,Count,17111,192
+Illinois,McLean,119.91666666666669,Count,17113,193
+Illinois,Macon,99.1666666666667,Count,17115,194
+Illinois,Macoupin,38.75,Count,17117,196
+Illinois,Madison,216.16666666666663,Count,17119,199
+Illinois,Marion,39.58333333333333,Count,17121,201
+Illinois,Marshall,16.0,Count,17123,202
+Illinois,Mason,12.583333333333334,Count,17125,206
+Illinois,Massac,13.0,Count,17127,208
+Illinois,Menard,9.0,Count,17129,212
+Illinois,Mercer,15.25,Count,17131,216
+Illinois,Monroe,14.5,Count,17133,219
+Illinois,Montgomery,32.16666666666667,Count,17135,223
+Illinois,Morgan,32.41666666666667,Count,17137,225
+Illinois,Moultrie,9.666666666666666,Count,17139,227
+Illinois,Ogle,41.91666666666667,Count,17141,229
+Illinois,Peoria,151.58333333333337,Count,17143,233
+Illinois,Perry,15.25,Count,17145,235
+Illinois,Piatt,11.5,Count,17147,238
+Illinois,Pike,21.0,Count,17149,241
+Illinois,Pope,4.0,Count,17151,245
+Illinois,Pulaski,10.0,Count,17153,248
+Illinois,Putnam,5.083333333333333,Count,17155,253
+Illinois,Randolph,31.833333333333332,Count,17157,255
+Illinois,Richland,12.0,Count,17159,259
+Illinois,Rock Island,126.33333333333333,Count,17161,265
+Illinois,St. Clair,215.66666666666669,Count,17163,269
+Illinois,Saline,31.0,Count,17165,271
+Illinois,Sangamon,174.5,Count,17167,274
+Illinois,Schuyler,6.0,Count,17169,278
+Illinois,Scott,3.0,Count,17171,280
+Illinois,Shelby,16.333333333333332,Count,17173,283
+Illinois,Stark,6.0,Count,17175,285
+Illinois,Stephenson,45.75000000000001,Count,17177,290
+Illinois,Tazewell,103.24999999999999,Count,17179,291
+Illinois,Union,16.75,Count,17181,293
+Illinois,Vermilion,74.0,Count,17183,296
+Illinois,Wabash,10.5,Count,17185,299
+Illinois,Warren,18.25,Count,17187,301
+Illinois,Washington,13.416666666666668,Count,17189,305
+Illinois,Wayne,14.0,Count,17191,310
+Illinois,White,16.25,Count,17193,312
+Illinois,Whiteside,44.75,Count,17195,314
+Illinois,Will,340.9166666666667,Count,17197,320
+Illinois,Williamson,58.74999999999999,Count,17199,324
+Illinois,Winnebago,252.41666666666666,Count,17201,325
+Illinois,Woodford,29.25,Count,17203,328
+Indiana,Adams,17.333333333333336,Count,18001,330
+Indiana,Allen,266.74999999999994,Count,18003,335
+Indiana,Bartholomew,57.916666666666664,Count,18005,342
+Indiana,Benton,6.916666666666666,Count,18007,179
+Indiana,Blackford,9.583333333333332,Count,18009,183
+Indiana,Boone,31.0,Count,18011,185
+Indiana,Brown,6.083333333333334,Count,18013,188
+Indiana,Carroll,11.166666666666666,Count,18015,195
+Indiana,Cass,32.333333333333336,Count,18017,211
+Indiana,Clark,95.16666666666667,Count,18019,215
+Indiana,Clay,24.833333333333332,Count,18021,221
+Indiana,Clinton,28.166666666666664,Count,18023,226
+Indiana,Crawford,11.166666666666668,Count,18025,232
+Indiana,Daviess,27.0,Count,18027,239
+Indiana,Dearborn,29.0,Count,18029,242
+Indiana,Decatur,24.58333333333333,Count,18031,246
+Indiana,DeKalb,31.333333333333336,Count,18033,249
+Indiana,Delaware,98.83333333333333,Count,18035,252
+Indiana,Dubois,34.166666666666664,Count,18037,254
+Indiana,Elkhart,146.41666666666663,Count,18039,260
+Indiana,Fayette,18.083333333333336,Count,18041,263
+Indiana,Floyd,52.666666666666664,Count,18043,267
+Indiana,Fountain,16.166666666666664,Count,18045,270
+Indiana,Franklin,17.666666666666664,Count,18047,272
+Indiana,Fulton,20.75,Count,18049,276
+Indiana,Gibson,35.333333333333336,Count,18051,286
+Indiana,Grant,68.66666666666667,Count,18053,297
+Indiana,Greene,24.166666666666664,Count,18055,309
+Indiana,Hamilton,128.0,Count,18057,321
+Indiana,Hancock,41.25,Count,18059,329
+Indiana,Harrison,29.749999999999996,Count,18061,334
+Indiana,Hendricks,74.41666666666666,Count,18063,341
+Indiana,Henry,43.75,Count,18065,344
+Indiana,Howard,83.41666666666666,Count,18067,348
+Indiana,Huntington,26.666666666666664,Count,18069,352
+Indiana,Jackson,37.25,Count,18071,355
+Indiana,Jasper,42.41666666666667,Count,18073,356
+Indiana,Jay,12.916666666666666,Count,18075,358
+Indiana,Jefferson,30.0,Count,18077,363
+Indiana,Jennings,19.666666666666668,Count,18079,367
+Indiana,Johnson,87.66666666666666,Count,18081,370
+Indiana,Knox,27.166666666666664,Count,18083,376
+Indiana,Kosciusko,51.66666666666667,Count,18085,384
+Indiana,LaGrange,20.416666666666668,Count,18087,386
+Indiana,Lake,373.5833333333333,Count,18089,389
+Indiana,LaPorte,89.16666666666667,Count,18091,392
+Indiana,Lawrence,37.08333333333333,Count,18093,396
+Indiana,Madison,102.3333333333333,Count,18095,401
+Indiana,Marion,743.0833333333334,Count,18097,409
+Indiana,Marshall,37.08333333333333,Count,18099,412
+Indiana,Martin,7.666666666666666,Count,18101,418
+Indiana,Miami,30.666666666666664,Count,18103,420
+Indiana,Monroe,71.66666666666669,Count,18105,422
+Indiana,Montgomery,33.41666666666667,Count,18107,425
+Indiana,Morgan,49.25,Count,18109,430
+Indiana,Newton,13.583333333333332,Count,18111,433
+Indiana,Noble,35.91666666666667,Count,18113,436
+Indiana,Ohio,4.0,Count,18115,440
+Indiana,Orange,17.416666666666668,Count,18117,444
+Indiana,Owen,17.833333333333332,Count,18119,448
+Indiana,Parke,12.0,Count,18121,452
+Indiana,Perry,11.333333333333332,Count,18123,459
+Indiana,Pike,8.916666666666666,Count,18125,465
+Indiana,Porter,95.91666666666666,Count,18127,468
+Indiana,Posey,14.666666666666668,Count,18129,471
+Indiana,Pulaski,13.0,Count,18131,477
+Indiana,Putnam,29.583333333333336,Count,18133,480
+Indiana,Randolph,22.416666666666664,Count,18135,485
+Indiana,Ripley,22.083333333333336,Count,18137,488
+Indiana,Rush,12.416666666666668,Count,18139,493
+Indiana,St. Joseph,199.41666666666669,Count,18141,496
+Indiana,Scott,21.75,Count,18143,504
+Indiana,Shelby,25.083333333333332,Count,18145,506
+Indiana,Spencer,7.5,Count,18147,509
+Indiana,Starke,19.5,Count,18149,512
+Indiana,Steuben,29.0,Count,18151,515
+Indiana,Sullivan,17.0,Count,18153,518
+Indiana,Switzerland,11.0,Count,18155,526
+Indiana,Tippecanoe,103.33333333333333,Count,18157,530
+Indiana,Tipton,8.583333333333332,Count,18159,534
+Indiana,Union,7.0,Count,18161,538
+Indiana,Vanderburgh,140.66666666666666,Count,18163,543
+Indiana,Vermillion,16.75,Count,18165,548
+Indiana,Vigo,90.83333333333333,Count,18167,553
+Indiana,Wabash,27.583333333333336,Count,18169,555
+Indiana,Warren,3.0,Count,18171,567
+Indiana,Warrick,27.0,Count,18173,575
+Indiana,Washington,18.0,Count,18175,584
+Indiana,Wayne,64.0,Count,18177,586
+Indiana,Wells,15.0,Count,18179,590
+Indiana,White,19.666666666666668,Count,18181,594
+Indiana,Whitley,21.333333333333336,Count,18183,597
+Iowa,Adair,7.0,Count,19001,598
+Iowa,Adams,3.333333333333333,Count,19003,602
+Iowa,Allamakee,16.25,Count,19005,608
+Iowa,Appanoose,14.5,Count,19007,611
+Iowa,Audubon,6.083333333333333,Count,19009,615
+Iowa,Benton,17.833333333333336,Count,19011,619
+Iowa,Black Hawk,125.83333333333339,Count,19013,623
+Iowa,Boone,20.0,Count,19015,625
+Iowa,Bremer,20.75,Count,19017,631
+Iowa,Buchanan,17.0,Count,19019,632
+Iowa,Buena Vista,18.166666666666664,Count,19021,633
+Iowa,Butler,15.416666666666668,Count,19023,361
+Iowa,Calhoun,10.0,Count,19025,365
+Iowa,Carroll,16.416666666666668,Count,19027,369
+Iowa,Cass,11.75,Count,19029,374
+Iowa,Cedar,18.166666666666664,Count,19031,379
+Iowa,Cerro Gordo,40.0,Count,19033,383
+Iowa,Cherokee,10.25,Count,19035,388
+Iowa,Chickasaw,11.166666666666666,Count,19037,393
+Iowa,Clarke,12.666666666666666,Count,19039,397
+Iowa,Clay,12.0,Count,19041,398
+Iowa,Clayton,18.666666666666668,Count,19043,402
+Iowa,Clinton,38.5,Count,19045,404
+Iowa,Crawford,11.25,Count,19047,408
+Iowa,Dallas,49.5,Count,19049,413
+Iowa,Davis,7.333333333333334,Count,19051,416
+Iowa,Decatur,8.833333333333332,Count,19053,419
+Iowa,Delaware,7.0,Count,19055,421
+Iowa,Des Moines,38.583333333333336,Count,19057,424
+Iowa,Dickinson,14.5,Count,19059,427
+Iowa,Dubuque,69.58333333333333,Count,19061,434
+Iowa,Emmet,9.0,Count,19063,437
+Iowa,Fayette,17.75,Count,19065,442
+Iowa,Floyd,14.916666666666668,Count,19067,447
+Iowa,Franklin,12.416666666666668,Count,19069,451
+Iowa,Fremont,6.666666666666666,Count,19071,455
+Iowa,Greene,8.0,Count,19073,458
+Iowa,Grundy,10.916666666666668,Count,19075,460
+Iowa,Guthrie,9.5,Count,19077,467
+Iowa,Hamilton,14.666666666666668,Count,19079,469
+Iowa,Hancock,8.0,Count,19081,470
+Iowa,Hardin,21.5,Count,19083,475
+Iowa,Harrison,12.583333333333332,Count,19085,478
+Iowa,Henry,15.166666666666668,Count,19087,479
+Iowa,Howard,10.916666666666666,Count,19089,481
+Iowa,Humboldt,10.5,Count,19091,487
+Iowa,Ida,9.5,Count,19093,491
+Iowa,Iowa,14.916666666666668,Count,19095,495
+Iowa,Jackson,14.666666666666668,Count,19097,499
+Iowa,Jasper,27.083333333333336,Count,19099,505
+Iowa,Jefferson,13.166666666666668,Count,19101,507
+Iowa,Johnson,79.0,Count,19103,508
+Iowa,Jones,15.0,Count,19105,516
+Iowa,Keokuk,10.333333333333332,Count,19107,520
+Iowa,Kossuth,14.0,Count,19109,523
+Iowa,Lee,30.083333333333332,Count,19111,531
+Iowa,Linn,160.33333333333331,Count,19113,535
+Iowa,Louisa,12.416666666666668,Count,19115,539
+Iowa,Lucas,10.0,Count,19117,542
+Iowa,Lyon,7.0,Count,19119,546
+Iowa,Madison,11.0,Count,19121,550
+Iowa,Mahaska,20.0,Count,19123,554
+Iowa,Marion,28.166666666666664,Count,19125,561
+Iowa,Marshall,38.166666666666664,Count,19127,568
+Iowa,Mills,10.166666666666668,Count,19129,569
+Iowa,Mitchell,12.25,Count,19131,572
+Iowa,Monona,8.0,Count,19133,576
+Iowa,Monroe,7.0,Count,19135,580
+Iowa,Montgomery,11.166666666666668,Count,19137,595
+Iowa,Muscatine,34.333333333333336,Count,19139,600
+Iowa,O'Brien,15.583333333333334,Count,19141,604
+Iowa,Osceola,3.5833333333333335,Count,19143,607
+Iowa,Page,14.0,Count,19145,612
+Iowa,Palo Alto,5.833333333333334,Count,19147,618
+Iowa,Plymouth,11.25,Count,19149,622
+Iowa,Pocahontas,8.5,Count,19151,624
+Iowa,Polk,375.99999999999994,Count,19153,629
+Iowa,Pottawattamie,65.08333333333333,Count,19155,637
+Iowa,Poweshiek,19.833333333333332,Count,19157,640
+Iowa,Ringgold,5.666666666666667,Count,19159,642
+Iowa,Sac,7.416666666666666,Count,19161,647
+Iowa,Scott,148.5,Count,19163,657
+Iowa,Shelby,11.0,Count,19165,660
+Iowa,Sioux,16.833333333333336,Count,19167,663
+Iowa,Story,55.916666666666664,Count,19169,668
+Iowa,Tama,17.25,Count,19171,671
+Iowa,Taylor,6.416666666666666,Count,19173,674
+Iowa,Union,12.0,Count,19175,675
+Iowa,Van Buren,11.0,Count,19177,678
+Iowa,Wapello,36.333333333333336,Count,19179,681
+Iowa,Warren,35.083333333333336,Count,19181,685
+Iowa,Washington,18.0,Count,19183,687
+Iowa,Wayne,7.583333333333334,Count,19185,691
+Iowa,Webster,32.75,Count,19187,694
+Iowa,Winnebago,11.5,Count,19189,696
+Iowa,Winneshiek,12.166666666666666,Count,19191,698
+Iowa,Woodbury,83.83333333333333,Count,19193,702
+Iowa,Worth,6.833333333333334,Count,19195,703
+Iowa,Wright,19.833333333333336,Count,19197,705
+Kansas,Allen,15.416666666666668,Count,20001,709
+Kansas,Anderson,5.0,Count,20003,712
+Kansas,Atchison,10.25,Count,20005,715
+Kansas,Barber,4.166666666666667,Count,20007,717
+Kansas,Barton,25.416666666666664,Count,20009,719
+Kansas,Bourbon,10.083333333333334,Count,20011,722
+Kansas,Brown,7.833333333333334,Count,20013,723
+Kansas,Butler,36.25,Count,20015,726
+Kansas,Chase,2.0,Count,20017,729
+Kansas,Chautauqua,5.583333333333334,Count,20019,730
+Kansas,Cherokee,14.583333333333334,Count,20021,732
+Kansas,Cheyenne,3.0,Count,20023,736
+Kansas,Clark,2.0,Count,20025,738
+Kansas,Clay,9.0,Count,20027,739
+Kansas,Cloud,9.0,Count,20029,740
+Kansas,Coffey,10.0,Count,20031,745
+Kansas,Comanche,3.0,Count,20033,748
+Kansas,Cowley,25.0,Count,20035,752
+Kansas,Crawford,30.41666666666667,Count,20037,756
+Kansas,Decatur,2.0,Count,20039,759
+Kansas,Dickinson,16.166666666666664,Count,20041,762
+Kansas,Doniphan,5.583333333333334,Count,20043,765
+Kansas,Douglas,51.5,Count,20045,767
+Kansas,Edwards,2.0,Count,20047,770
+Kansas,Elk,3.0,Count,20049,773
+Kansas,Ellis,19.0,Count,20051,774
+Kansas,Ellsworth,5.583333333333334,Count,20053,776
+Kansas,Finney,25.833333333333336,Count,20055,778
+Kansas,Ford,23.166666666666668,Count,20057,784
+Kansas,Franklin,18.333333333333336,Count,20059,786
+Kansas,Geary,22.25,Count,20061,788
+Kansas,Gove,3.0,Count,20063,790
+Kansas,Graham,3.0,Count,20065,791
+Kansas,Grant,5.0,Count,20067,794
+Kansas,Gray,5.0,Count,20069,798
+Kansas,Greeley,1.0,Count,20071,801
+Kansas,Greenwood,7.0,Count,20073,803
+Kansas,Hamilton,4.0,Count,20075,805
+Kansas,Harper,8.0,Count,20077,807
+Kansas,Harvey,23.916666666666664,Count,20079,812
+Kansas,Haskell,5.0,Count,20081,815
+Kansas,Hodgeman,2.0,Count,20083,818
+Kansas,Jackson,8.75,Count,20085,819
+Kansas,Jefferson,13.083333333333334,Count,20087,821
+Kansas,Jewell,3.0,Count,20089,822
+Kansas,Johnson,250.50000000000003,Count,20091,824
+Kansas,Kearny,5.0,Count,20093,826
+Kansas,Kingman,5.916666666666667,Count,20095,827
+Kansas,Kiowa,3.0,Count,20097,829
+Kansas,Labette,22.25,Count,20099,831
+Kansas,Lane,4.0,Count,20101,833
+Kansas,Leavenworth,32.75,Count,20103,836
+Kansas,Lincoln,2.0,Count,20105,838
+Kansas,Linn,8.75,Count,20107,840
+Kansas,Logan,2.0,Count,20109,842
+Kansas,Lyon,25.0,Count,20111,844
+Kansas,McPherson,22.583333333333336,Count,20113,846
+Kansas,Marion,9.416666666666668,Count,20115,848
+Kansas,Marshall,8.333333333333332,Count,20117,850
+Kansas,Meade,5.500000000000001,Count,20119,851
+Kansas,Miami,13.916666666666666,Count,20121,853
+Kansas,Mitchell,6.75,Count,20123,854
+Kansas,Montgomery,29.166666666666668,Count,20125,856
+Kansas,Morris,3.0,Count,20127,858
+Kansas,Morton,3.0,Count,20129,859
+Kansas,Nemaha,7.75,Count,20131,861
+Kansas,Neosho,15.916666666666666,Count,20133,862
+Kansas,Ness,4.0,Count,20135,864
+Kansas,Norton,7.0,Count,20137,866
+Kansas,Osage,15.166666666666666,Count,20139,867
+Kansas,Osborne,5.0,Count,20141,869
+Kansas,Ottawa,3.0,Count,20143,870
+Kansas,Pawnee,6.0,Count,20145,872
+Kansas,Phillips,6.0,Count,20147,873
+Kansas,Pottawatomie,8.0,Count,20149,876
+Kansas,Pratt,6.75,Count,20151,878
+Kansas,Rawlins,3.0,Count,20153,880
+Kansas,Reno,39.41666666666667,Count,20155,882
+Kansas,Republic,5.0,Count,20157,884
+Kansas,Rice,9.083333333333332,Count,20159,886
+Kansas,Riley,29.5,Count,20161,888
+Kansas,Rooks,6.0,Count,20163,889
+Kansas,Rush,4.0,Count,20165,891
+Kansas,Russell,6.5,Count,20167,893
+Kansas,Saline,43.75,Count,20169,895
+Kansas,Scott,6.583333333333333,Count,20171,897
+Kansas,Sedgwick,308.75,Count,20173,898
+Kansas,Seward,17.166666666666664,Count,20175,900
+Kansas,Shawnee,102.50000000000003,Count,20177,902
+Kansas,Sheridan,2.75,Count,20179,904
+Kansas,Sherman,6.0,Count,20181,907
+Kansas,Smith,5.666666666666666,Count,20183,909
+Kansas,Stafford,2.083333333333333,Count,20185,911
+Kansas,Stanton,2.0,Count,20187,913
+Kansas,Stevens,2.5,Count,20189,914
+Kansas,Sumner,16.666666666666664,Count,20191,916
+Kansas,Thomas,10.0,Count,20193,917
+Kansas,Trego,3.8333333333333335,Count,20195,919
+Kansas,Wabaunsee,4.666666666666667,Count,20197,920
+Kansas,Wallace,1.0,Count,20199,921
+Kansas,Washington,8.0,Count,20201,922
+Kansas,Wichita,3.0,Count,20203,923
+Kansas,Wilson,12.0,Count,20205,925
+Kansas,Woodson,6.0,Count,20207,926
+Kansas,Wyandotte,129.74999999999997,Count,20209,927
+Kentucky,Adair,18.25,Count,21001,928
+Kentucky,Allen,14.0,Count,21003,929
+Kentucky,Anderson,15.083333333333334,Count,21005,930
+Kentucky,Ballard,9.083333333333332,Count,21007,932
+Kentucky,Barren,44.0,Count,21009,933
+Kentucky,Bath,11.999999999999998,Count,21011,934
+Kentucky,Bell,32.916666666666664,Count,21013,936
+Kentucky,Boone,88.75,Count,21015,1002
+Kentucky,Bourbon,20.833333333333336,Count,21017,1005
+Kentucky,Boyd,52.416666666666664,Count,21019,1008
+Kentucky,Boyle,28.499999999999996,Count,21021,1010
+Kentucky,Bracken,9.083333333333332,Count,21023,1013
+Kentucky,Breathitt,18.916666666666668,Count,21025,1017
+Kentucky,Breckinridge,19.583333333333336,Count,21027,1020
+Kentucky,Bullitt,54.75000000000001,Count,21029,1024
+Kentucky,Butler,9.75,Count,21031,1026
+Kentucky,Caldwell,15.0,Count,21033,1031
+Kentucky,Calloway,29.0,Count,21035,1033
+Kentucky,Campbell,65.91666666666666,Count,21037,1035
+Kentucky,Carlisle,8.0,Count,21039,1039
+Kentucky,Carroll,16.0,Count,21041,1041
+Kentucky,Carter,35.916666666666664,Count,21043,1044
+Kentucky,Casey,18.25,Count,21045,1048
+Kentucky,Christian,67.66666666666667,Count,21047,1050
+Kentucky,Clark,32.58333333333333,Count,21049,1053
+Kentucky,Clay,32.75,Count,21051,1056
+Kentucky,Clinton,14.666666666666666,Count,21053,1059
+Kentucky,Crittenden,6.916666666666666,Count,21055,1064
+Kentucky,Cumberland,10.0,Count,21057,1067
+Kentucky,Daviess,98.16666666666669,Count,21059,1071
+Kentucky,Edmonson,11.0,Count,21061,1073
+Kentucky,Elliott,10.166666666666668,Count,21063,1075
+Kentucky,Estill,15.0,Count,21065,1077
+Kentucky,Fayette,217.83333333333326,Count,21067,1080
+Kentucky,Fleming,18.166666666666668,Count,21069,1083
+Kentucky,Floyd,59.83333333333333,Count,21071,1085
+Kentucky,Franklin,47.33333333333333,Count,21073,1086
+Kentucky,Fulton,7.5,Count,21075,1088
+Kentucky,Gallatin,8.0,Count,21077,1090
+Kentucky,Garrard,12.583333333333334,Count,21079,1092
+Kentucky,Grant,21.333333333333332,Count,21081,1094
+Kentucky,Graves,41.833333333333336,Count,21083,1097
+Kentucky,Grayson,28.416666666666668,Count,21085,1100
+Kentucky,Green,7.0,Count,21087,1102
+Kentucky,Greenup,33.583333333333336,Count,21089,1105
+Kentucky,Hancock,8.0,Count,21091,1107
+Kentucky,Hardin,82.75,Count,21093,1110
+Kentucky,Harlan,35.333333333333336,Count,21095,1114
+Kentucky,Harrison,15.166666666666668,Count,21097,1119
+Kentucky,Hart,23.25,Count,21099,1121
+Kentucky,Henderson,43.08333333333333,Count,21101,1126
+Kentucky,Henry,20.5,Count,21103,1129
+Kentucky,Hickman,4.25,Count,21105,1130
+Kentucky,Hopkins,43.75,Count,21107,1136
+Kentucky,Jackson,14.166666666666668,Count,21109,1140
+Kentucky,Jefferson,595.4166666666664,Count,21111,1143
+Kentucky,Jessamine,37.66666666666667,Count,21113,1145
+Kentucky,Johnson,31.166666666666664,Count,21115,1148
+Kentucky,Kenton,116.33333333333337,Count,21117,1151
+Kentucky,Knott,16.916666666666668,Count,21119,1154
+Kentucky,Knox,35.25,Count,21121,1159
+Kentucky,Larue,11.916666666666666,Count,21123,1162
+Kentucky,Laurel,68.08333333333334,Count,21125,1166
+Kentucky,Lawrence,18.666666666666668,Count,21127,1167
+Kentucky,Lee,10.916666666666668,Count,21129,1171
+Kentucky,Leslie,17.0,Count,21131,1175
+Kentucky,Letcher,31.583333333333332,Count,21133,1178
+Kentucky,Lewis,16.333333333333332,Count,21135,1180
+Kentucky,Lincoln,23.666666666666664,Count,21137,1184
+Kentucky,Livingston,13.916666666666666,Count,21139,1187
+Kentucky,Logan,21.25,Count,21141,1190
+Kentucky,Lyon,5.25,Count,21143,1193
+Kentucky,McCracken,63.74999999999999,Count,21145,1196
+Kentucky,McCreary,18.25,Count,21147,1198
+Kentucky,McLean,11.0,Count,21149,1201
+Kentucky,Madison,84.58333333333331,Count,21151,1204
+Kentucky,Magoffin,19.666666666666664,Count,21153,1206
+Kentucky,Marion,16.416666666666668,Count,21155,1210
+Kentucky,Marshall,27.416666666666664,Count,21157,1213
+Kentucky,Martin,18.666666666666664,Count,21159,1215
+Kentucky,Mason,26.0,Count,21161,1217
+Kentucky,Meade,21.416666666666664,Count,21163,1220
+Kentucky,Menifee,7.083333333333334,Count,21165,1222
+Kentucky,Mercer,16.666666666666664,Count,21167,1225
+Kentucky,Metcalfe,8.25,Count,21169,1228
+Kentucky,Monroe,17.916666666666668,Count,21171,1230
+Kentucky,Montgomery,34.25,Count,21173,1233
+Kentucky,Morgan,19.166666666666664,Count,21175,1235
+Kentucky,Muhlenberg,26.166666666666668,Count,21177,1238
+Kentucky,Nelson,35.916666666666664,Count,21179,1243
+Kentucky,Nicholas,6.083333333333333,Count,21181,1246
+Kentucky,Ohio,17.916666666666664,Count,21183,1249
+Kentucky,Oldham,19.416666666666664,Count,21185,1252
+Kentucky,Owen,8.5,Count,21187,1255
+Kentucky,Owsley,6.25,Count,21189,1257
+Kentucky,Pendleton,7.333333333333334,Count,21191,1260
+Kentucky,Perry,47.666666666666664,Count,21193,1265
+Kentucky,Pike,82.66666666666666,Count,21195,1267
+Kentucky,Powell,17.416666666666664,Count,21197,1270
+Kentucky,Pulaski,73.83333333333333,Count,21199,1272
+Kentucky,Robertson,3.0,Count,21201,1273
+Kentucky,Rockcastle,18.25,Count,21203,1276
+Kentucky,Rowan,26.833333333333332,Count,21205,1279
+Kentucky,Russell,24.416666666666668,Count,21207,1282
+Kentucky,Scott,34.41666666666667,Count,21209,1283
+Kentucky,Shelby,29.583333333333332,Count,21211,1285
+Kentucky,Simpson,14.916666666666668,Count,21213,1287
+Kentucky,Spencer,6.25,Count,21215,1000
+Kentucky,Taylor,24.083333333333336,Count,21217,1003
+Kentucky,Todd,8.5,Count,21219,1006
+Kentucky,Trigg,12.0,Count,21221,1009
+Kentucky,Trimble,5.166666666666667,Count,21223,1012
+Kentucky,Union,18.833333333333332,Count,21225,1016
+Kentucky,Warren,104.16666666666667,Count,21227,1019
+Kentucky,Washington,10.583333333333336,Count,21229,1023
+Kentucky,Wayne,20.416666666666668,Count,21231,1027
+Kentucky,Webster,18.75,Count,21233,1029
+Kentucky,Whitley,53.66666666666667,Count,21235,1034
+Kentucky,Wolfe,13.5,Count,21237,1037
+Kentucky,Woodford,17.666666666666664,Count,21239,1042
+Louisiana,Acadia,73.66666666666669,Count,22001,1046
+Louisiana,Allen,27.583333333333332,Count,22003,1051
+Louisiana,Ascension,94.49999999999999,Count,22005,1055
+Louisiana,Assumption,16.666666666666668,Count,22007,1060
+Louisiana,Avoyelles,63.333333333333336,Count,22009,1062
+Louisiana,Beauregard,26.499999999999996,Count,22011,1066
+Louisiana,Bienville,21.583333333333336,Count,22013,1069
+Louisiana,Bossier,88.16666666666667,Count,22015,1076
+Louisiana,Caddo,216.91666666666663,Count,22017,1079
+Louisiana,Calcasieu,209.58333333333337,Count,22019,1081
+Louisiana,Caldwell,10.416666666666668,Count,22021,1084
+Louisiana,Cameron,7.916666666666667,Count,22023,1089
+Louisiana,Catahoula,12.0,Count,22025,1093
+Louisiana,Claiborne,11.833333333333334,Count,22027,1095
+Louisiana,Concordia,23.0,Count,22029,1098
+Louisiana,De Soto,23.583333333333332,Count,22031,1103
+Louisiana,East Baton Rouge,429.6666666666667,Count,22033,1108
+Louisiana,East Carroll,12.833333333333334,Count,22035,1111
+Louisiana,East Feliciana,17.166666666666668,Count,22037,1115
+Louisiana,Evangeline,47.25,Count,22039,1118
+Louisiana,Franklin,25.833333333333332,Count,22041,1123
+Louisiana,Grant,14.0,Count,22043,1127
+Louisiana,Iberia,79.83333333333334,Count,22045,1133
+Louisiana,Iberville,28.583333333333332,Count,22047,1134
+Louisiana,Jackson,14.0,Count,22049,1138
+Louisiana,Jefferson,385.4999999999999,Count,22051,1147
+Louisiana,Jefferson Davis,30.833333333333332,Count,22053,1155
+Louisiana,Lafayette,214.25000000000014,Count,22055,1161
+Louisiana,Lafourche,70.0,Count,22057,1280
+Louisiana,La Salle,13.0,Count,22059,1289
+Louisiana,Lincoln,35.5,Count,22061,1291
+Louisiana,Livingston,105.5833333333333,Count,22063,1295
+Louisiana,Madison,11.583333333333334,Count,22065,1297
+Louisiana,Morehouse,25.75,Count,22067,1299
+Louisiana,Natchitoches,33.33333333333333,Count,22069,1301
+Louisiana,Orleans,320.58333333333337,Count,22071,1304
+Louisiana,Ouachita,139.0,Count,22073,1306
+Louisiana,Plaquemines,17.416666666666668,Count,22075,1427
+Louisiana,Pointe Coupee,24.416666666666668,Count,22077,1431
+Louisiana,Rapides,129.99999999999997,Count,22079,1434
+Louisiana,Red River,8.666666666666666,Count,22081,1436
+Louisiana,Richland,20.75,Count,22083,1439
+Louisiana,Sabine,21.333333333333332,Count,22085,1441
+Louisiana,St. Bernard,56.0,Count,22087,1463
+Louisiana,St. Charles,41.75000000000001,Count,22089,1466
+Louisiana,St. Helena,9.5,Count,22091,1467
+Louisiana,St. James,19.5,Count,22093,1468
+Louisiana,St. John the Baptist,39.666666666666664,Count,22095,1469
+Louisiana,St. Landry,111.49999999999999,Count,22097,1471
+Louisiana,St. Martin,57.416666666666664,Count,22099,1473
+Louisiana,St. Mary,61.08333333333333,Count,22101,1474
+Louisiana,St. Tammany,181.41666666666669,Count,22103,1475
+Louisiana,Tangipahoa,143.0,Count,22105,1476
+Louisiana,Tensas,6.0,Count,22107,1479
+Louisiana,Terrebonne,107.08333333333331,Count,22109,1501
+Louisiana,Union,17.5,Count,22111,1507
+Louisiana,Vermilion,52.75,Count,22113,1510
+Louisiana,Vernon,33.5,Count,22115,1513
+Louisiana,Washington,57.083333333333336,Count,22117,1516
+Louisiana,Webster,51.333333333333336,Count,22119,1518
+Louisiana,West Baton Rouge,26.916666666666668,Count,22121,1520
+Louisiana,West Carroll,11.75,Count,22123,1522
+Louisiana,West Feliciana,8.25,Count,22125,1524
+Louisiana,Winn,11.0,Count,22127,1529
+Maine,Androscoggin,126.16666666666666,Count,23001,1532
+Maine,Aroostook,92.08333333333334,Count,23003,1535
+Maine,Cumberland,226.33333333333326,Count,23005,1608
+Maine,Franklin,39.166666666666664,Count,23007,1619
+Maine,Hancock,50.833333333333336,Count,23009,1748
+Maine,Kennebec,139.41666666666666,Count,23011,1755
+Maine,Knox,48.41666666666667,Count,23013,1774
+Maine,Lincoln,32.66666666666667,Count,23015,1835
+Maine,Oxford,65.25,Count,23017,1842
+Maine,Penobscot,169.83333333333334,Count,23019,1846
+Maine,Piscataquis,28.083333333333336,Count,23021,1851
+Maine,Sagadahoc,26.083333333333332,Count,23023,1855
+Maine,Somerset,60.91666666666667,Count,23025,1860
+Maine,Waldo,41.33333333333333,Count,23027,1865
+Maine,Washington,52.083333333333336,Count,23029,1884
+Maine,York,142.33333333333331,Count,23031,1901
+Maryland,Allegany,64.58333333333333,Count,24001,1905
+Maryland,Anne Arundel,263.6666666666666,Count,24003,1925
+Maryland,Baltimore County,482.0833333333332,Count,24005,1939
+Maryland,Calvert,42.58333333333333,Count,24009,1946
+Maryland,Caroline,33.333333333333336,Count,24011,1949
+Maryland,Carroll,78.33333333333334,Count,24013,1955
+Maryland,Cecil,68.91666666666666,Count,24015,1963
+Maryland,Charles,78.83333333333333,Count,24017,1294
+Maryland,Dorchester,31.416666666666668,Count,24019,1346
+Maryland,Frederick,118.0,Count,24021,1357
+Maryland,Garrett,35.583333333333336,Count,24023,1361
+Maryland,Harford,135.83333333333334,Count,24025,1372
+Maryland,Howard,98.33333333333333,Count,24027,1379
+Maryland,Kent,23.33333333333333,Count,24029,1394
+Maryland,Montgomery,328.24999999999994,Count,24031,1398
+Maryland,Prince George's,451.25000000000006,Count,24033,1403
+Maryland,Queen Anne's,34.333333333333336,Count,24035,1413
+Maryland,St. Mary's,52.16666666666667,Count,24037,1421
+Maryland,Somerset,18.5,Count,24039,1430
+Maryland,Talbot,30.499999999999996,Count,24041,1438
+Maryland,Washington,101.16666666666667,Count,24043,1445
+Maryland,Wicomico,94.00000000000001,Count,24045,1446
+Maryland,Worcester,53.41666666666667,Count,24047,1456
+Maryland,Baltimore City,700.3333333333337,Count,24510,1460
+Massachusetts,Barnstable,180.08333333333331,Count,25001,1478
+Massachusetts,Berkshire,92.41666666666667,Count,25003,1480
+Massachusetts,Bristol,483.75000000000017,Count,25005,1486
+Massachusetts,Dukes,9.25,Count,25007,1491
+Massachusetts,Essex,509.3333333333333,Count,25009,1519
+Massachusetts,Franklin,63.58333333333333,Count,25011,1523
+Massachusetts,Hampden,457.58333333333326,Count,25013,1526
+Massachusetts,Hampshire,102.58333333333331,Count,25015,1527
+Massachusetts,Middlesex,819.8333333333333,Count,25017,1533
+Massachusetts,Nantucket,3.416666666666667,Count,25019,1537
+Massachusetts,Norfolk,337.5,Count,25021,1543
+Massachusetts,Plymouth,314.66666666666674,Count,25023,1569
+Massachusetts,Suffolk,636.4166666666666,Count,25025,1585
+Massachusetts,Worcester,561.9166666666673,Count,25027,1599
+Michigan,Alcona,11.5,Count,26001,1603
+Michigan,Alger,12.25,Count,26003,1609
+Michigan,Allegan,71.33333333333334,Count,26005,1611
+Michigan,Alpena,33.99999999999999,Count,26007,1614
+Michigan,Antrim,15.916666666666666,Count,26009,1617
+Michigan,Arenac,25.58333333333333,Count,26011,1621
+Michigan,Baraga,7.416666666666666,Count,26013,1624
+Michigan,Barry,39.5,Count,26015,1627
+Michigan,Bay,115.83333333333333,Count,26017,1631
+Michigan,Benzie,16.416666666666664,Count,26019,1634
+Michigan,Berrien,136.5,Count,26021,1635
+Michigan,Branch,43.333333333333336,Count,26023,1640
+Michigan,Calhoun,153.83333333333337,Count,26025,1641
+Michigan,Cass,39.25,Count,26027,1644
+Michigan,Charlevoix,27.583333333333332,Count,26029,1648
+Michigan,Cheboygan,21.666666666666668,Count,26031,1649
+Michigan,Chippewa,34.33333333333333,Count,26033,1660
+Michigan,Clare,49.416666666666664,Count,26035,1665
+Michigan,Clinton,42.166666666666664,Count,26037,1669
+Michigan,Crawford,16.583333333333336,Count,26039,1672
+Michigan,Delta,30.666666666666668,Count,26041,1675
+Michigan,Dickinson,20.666666666666668,Count,26043,1677
+Michigan,Eaton,83.41666666666666,Count,26045,1678
+Michigan,Emmet,35.33333333333333,Count,26047,1686
+Michigan,Genesee,423.2499999999999,Count,26049,1688
+Michigan,Gladwin,38.916666666666664,Count,26051,1691
+Michigan,Gogebic,18.0,Count,26053,1693
+Michigan,Grand Traverse,71.00000000000001,Count,26055,1697
+Michigan,Gratiot,40.83333333333333,Count,26057,1700
+Michigan,Hillsdale,32.25,Count,26059,1701
+Michigan,Houghton,28.583333333333332,Count,26061,1705
+Michigan,Huron,35.91666666666667,Count,26063,1708
+Michigan,Ingham,211.3333333333334,Count,26065,1710
+Michigan,Ionia,48.916666666666664,Count,26067,1713
+Michigan,Iosco,36.83333333333333,Count,26069,1715
+Michigan,Iron,14.083333333333334,Count,26071,1716
+Michigan,Isabella,51.75000000000001,Count,26073,1717
+Michigan,Jackson,132.83333333333334,Count,26075,1719
+Michigan,Kalamazoo,189.41666666666663,Count,26077,1720
+Michigan,Kalkaska,20.75,Count,26079,1722
+Michigan,Kent,448.4999999999996,Count,26081,1726
+Michigan,Keweenaw,1.0,Count,26083,1743
+Michigan,Lake,14.5,Count,26085,1749
+Michigan,Lapeer,70.91666666666666,Count,26087,1752
+Michigan,Leelanau,13.416666666666668,Count,26089,1765
+Michigan,Lenawee,72.16666666666666,Count,26091,1768
+Michigan,Livingston,72.0,Count,26093,1770
+Michigan,Luce,9.0,Count,26095,1773
+Michigan,Mackinac,15.583333333333334,Count,26097,1779
+Michigan,Macomb,772.2499999999995,Count,26099,1785
+Michigan,Manistee,28.666666666666664,Count,26101,1787
+Michigan,Marquette,46.416666666666664,Count,26103,1793
+Michigan,Mason,31.666666666666668,Count,26105,1797
+Michigan,Mecosta,44.666666666666664,Count,26107,1800
+Michigan,Menominee,19.666666666666668,Count,26109,1802
+Michigan,Midland,57.24999999999999,Count,26111,1806
+Michigan,Missaukee,16.916666666666664,Count,26113,1810
+Michigan,Monroe,95.5,Count,26115,1812
+Michigan,Montcalm,75.08333333333333,Count,26117,1815
+Michigan,Montmorency,10.916666666666668,Count,26119,1816
+Michigan,Muskegon,165.08333333333331,Count,26121,1818
+Michigan,Newaygo,48.16666666666668,Count,26123,1820
+Michigan,Oakland,894.4166666666667,Count,26125,1824
+Michigan,Oceana,30.75,Count,26127,1825
+Michigan,Ogemaw,31.5,Count,26129,1827
+Michigan,Ontonagon,8.916666666666668,Count,26131,1829
+Michigan,Osceola,27.999999999999996,Count,26133,1830
+Michigan,Oscoda,12.0,Count,26135,1832
+Michigan,Otsego,31.583333333333332,Count,26137,1834
+Michigan,Ottawa,132.91666666666666,Count,26139,1837
+Michigan,Presque Isle,16.083333333333336,Count,26141,1840
+Michigan,Roscommon,37.08333333333333,Count,26143,1843
+Michigan,Saginaw,183.58333333333334,Count,26145,1845
+Michigan,St. Clair,154.58333333333331,Count,26147,1854
+Michigan,St. Joseph,65.50000000000001,Count,26149,1857
+Michigan,Sanilac,52.74999999999999,Count,26151,1858
+Michigan,Schoolcraft,10.583333333333332,Count,26153,1861
+Michigan,Shiawassee,50.16666666666668,Count,26155,1863
+Michigan,Tuscola,53.91666666666667,Count,26157,1866
+Michigan,Van Buren,86.50000000000001,Count,26159,1867
+Michigan,Washtenaw,213.83333333333331,Count,26161,1869
+Michigan,Wayne,2140.7499999999986,Count,26163,1871
+Michigan,Wexford,35.66666666666666,Count,26165,1873
+Minnesota,Aitkin,11.250000000000002,Count,27001,1875
+Minnesota,Anoka,164.83333333333334,Count,27003,1877
+Minnesota,Becker,27.916666666666668,Count,27005,1878
+Minnesota,Beltrami,34.25,Count,27007,1880
+Minnesota,Benton,25.333333333333336,Count,27009,1881
+Minnesota,Big Stone,6.0,Count,27011,1882
+Minnesota,Blue Earth,41.333333333333336,Count,27013,1886
+Minnesota,Brown,16.916666666666664,Count,27015,1892
+Minnesota,Carlton,29.250000000000004,Count,27017,1893
+Minnesota,Carver,37.25,Count,27019,1894
+Minnesota,Cass,30.500000000000004,Count,27021,1895
+Minnesota,Chippewa,9.0,Count,27023,1896
+Minnesota,Chisago,18.16666666666667,Count,27025,1897
+Minnesota,Clay,31.666666666666668,Count,27027,1898
+Minnesota,Clearwater,8.583333333333334,Count,27029,1899
+Minnesota,Cook,4.0,Count,27031,1900
+Minnesota,Cottonwood,10.0,Count,27033,1902
+Minnesota,Crow Wing,50.25,Count,27035,1903
+Minnesota,Dakota,216.16666666666663,Count,27037,1904
+Minnesota,Dodge,11.166666666666666,Count,27039,1906
+Minnesota,Douglas,24.583333333333336,Count,27041,1907
+Minnesota,Faribault,15.0,Count,27043,1908
+Minnesota,Fillmore,15.416666666666668,Count,27045,1909
+Minnesota,Freeborn,27.333333333333332,Count,27047,1910
+Minnesota,Goodhue,32.416666666666664,Count,27049,1911
+Minnesota,Grant,6.0,Count,27051,1912
+Minnesota,Hennepin,589.4166666666665,Count,27053,1913
+Minnesota,Houston,11.583333333333334,Count,27055,1914
+Minnesota,Hubbard,16.666666666666664,Count,27057,1915
+Minnesota,Isanti,17.833333333333332,Count,27059,1916
+Minnesota,Itasca,32.25,Count,27061,1917
+Minnesota,Jackson,6.916666666666667,Count,27063,1918
+Minnesota,Kanabec,8.416666666666668,Count,27065,1919
+Minnesota,Kandiyohi,27.583333333333332,Count,27067,1920
+Minnesota,Kittson,4.75,Count,27069,1921
+Minnesota,Koochiching,13.333333333333334,Count,27071,1922
+Minnesota,Lac qui Parle,6.0,Count,27073,1923
+Minnesota,Lake,10.0,Count,27075,1926
+Minnesota,Lake of the Woods,3.0,Count,27077,1927
+Minnesota,Le Sueur,14.166666666666666,Count,27079,1929
+Minnesota,Lincoln,6.0,Count,27081,1931
+Minnesota,Lyon,21.833333333333336,Count,27083,1932
+Minnesota,McLeod,30.000000000000004,Count,27085,1934
+Minnesota,Mahnomen,6.25,Count,27087,1936
+Minnesota,Marshall,8.5,Count,27089,1937
+Minnesota,Martin,20.25,Count,27091,1940
+Minnesota,Meeker,14.166666666666666,Count,27093,1941
+Minnesota,Mille Lacs,18.166666666666664,Count,27095,1943
+Minnesota,Morrison,31.250000000000004,Count,27097,1944
+Minnesota,Mower,27.083333333333332,Count,27099,1945
+Minnesota,Murray,5.75,Count,27101,1947
+Minnesota,Nicollet,17.833333333333336,Count,27103,1948
+Minnesota,Nobles,23.666666666666664,Count,27105,1950
+Minnesota,Norman,5.583333333333334,Count,27107,1951
+Minnesota,Olmsted,80.5,Count,27109,1953
+Minnesota,Otter Tail,37.25,Count,27111,1954
+Minnesota,Pennington,9.0,Count,27113,1956
+Minnesota,Pine,23.916666666666668,Count,27115,1957
+Minnesota,Pipestone,10.416666666666668,Count,27117,1958
+Minnesota,Polk,19.583333333333332,Count,27119,1959
+Minnesota,Pope,8.0,Count,27121,1961
+Minnesota,Ramsey,310.5833333333333,Count,27123,1964
+Minnesota,Red Lake,3.0,Count,27125,1966
+Minnesota,Redwood,9.5,Count,27127,1969
+Minnesota,Renville,11.25,Count,27129,1971
+Minnesota,Rice,35.5,Count,27131,1973
+Minnesota,Rock,4.583333333333333,Count,27133,1974
+Minnesota,Roseau,12.0,Count,27135,1976
+Minnesota,St. Louis,153.66666666666669,Count,27137,1978
+Minnesota,Scott,55.99999999999999,Count,27139,1979
+Minnesota,Sherburne,30.416666666666668,Count,27141,1980
+Minnesota,Sibley,9.583333333333334,Count,27143,1982
+Minnesota,Stearns,95.91666666666667,Count,27145,1984
+Minnesota,Steele,26.333333333333336,Count,27147,1985
+Minnesota,Stevens,5.333333333333333,Count,27149,1987
+Minnesota,Swift,10.416666666666668,Count,27151,1988
+Minnesota,Todd,24.666666666666668,Count,27153,1989
+Minnesota,Traverse,3.0,Count,27155,1990
+Minnesota,Wabasha,12.666666666666668,Count,27157,1991
+Minnesota,Wadena,12.916666666666668,Count,27159,1992
+Minnesota,Waseca,12.25,Count,27161,1993
+Minnesota,Washington,104.08333333333333,Count,27163,1994
+Minnesota,Watonwan,14.0,Count,27165,1996
+Minnesota,Wilkin,4.0,Count,27167,1997
+Minnesota,Winona,29.583333333333336,Count,27169,1998
+Minnesota,Wright,59.0,Count,27171,1999
+Minnesota,Yellow Medicine,8.666666666666668,Count,27173,1531
+Mississippi,Adams,35.833333333333336,Count,28001,1534
+Mississippi,Alcorn,32.33333333333333,Count,28003,1538
+Mississippi,Amite,12.416666666666666,Count,28005,1539
+Mississippi,Attala,17.833333333333332,Count,28007,1541
+Mississippi,Benton,6.166666666666667,Count,28009,1544
+Mississippi,Bolivar,46.416666666666664,Count,28011,1547
+Mississippi,Calhoun,17.416666666666664,Count,28013,1548
+Mississippi,Carroll,8.0,Count,28015,1549
+Mississippi,Chickasaw,21.25,Count,28017,1550
+Mississippi,Choctaw,10.0,Count,28019,1552
+Mississippi,Claiborne,9.083333333333332,Count,28021,1555
+Mississippi,Clarke,14.25,Count,28023,1557
+Mississippi,Clay,29.583333333333332,Count,28025,1559
+Mississippi,Coahoma,37.25,Count,28027,1562
+Mississippi,Copiah,41.5,Count,28029,1564
+Mississippi,Covington,20.916666666666668,Count,28031,1567
+Mississippi,DeSoto,139.83333333333331,Count,28033,1571
+Mississippi,Forrest,97.58333333333331,Count,28035,1572
+Mississippi,Franklin,10.416666666666666,Count,28037,1575
+Mississippi,George,17.333333333333336,Count,28039,1577
+Mississippi,Greene,16.583333333333336,Count,28041,1579
+Mississippi,Grenada,28.333333333333332,Count,28043,1581
+Mississippi,Hancock,37.58333333333333,Count,28045,1583
+Mississippi,Harrison,202.00000000000003,Count,28047,1587
+Mississippi,Hinds,262.5833333333333,Count,28049,1591
+Mississippi,Holmes,29.0,Count,28051,1593
+Mississippi,Humphreys,14.833333333333332,Count,28053,1596
+Mississippi,Issaquena,1.9166666666666665,Count,28055,1598
+Mississippi,Itawamba,17.666666666666664,Count,28057,1601
+Mississippi,Jackson,132.66666666666669,Count,28059,1605
+Mississippi,Jasper,15.083333333333334,Count,28061,1607
+Mississippi,Jefferson,12.083333333333334,Count,28063,1610
+Mississippi,Jefferson Davis,13.416666666666666,Count,28065,1612
+Mississippi,Jones,75.58333333333333,Count,28067,1615
+Mississippi,Kemper,9.333333333333332,Count,28069,1616
+Mississippi,Lafayette,25.416666666666668,Count,28071,1620
+Mississippi,Lamar,35.33333333333333,Count,28073,1623
+Mississippi,Lauderdale,96.16666666666667,Count,28075,1628
+Mississippi,Lawrence,17.083333333333336,Count,28077,1632
+Mississippi,Leake,22.833333333333336,Count,28079,1636
+Mississippi,Lee,90.99999999999999,Count,28081,1638
+Mississippi,Leflore,49.25,Count,28083,1643
+Mississippi,Lincoln,35.916666666666664,Count,28085,1645
+Mississippi,Lowndes,80.25,Count,28087,1647
+Mississippi,Madison,74.83333333333334,Count,28089,1651
+Mississippi,Marion,32.25,Count,28091,1653
+Mississippi,Marshall,36.08333333333333,Count,28093,1655
+Mississippi,Monroe,28.333333333333332,Count,28095,1656
+Mississippi,Montgomery,13.0,Count,28097,1658
+Mississippi,Neshoba,33.416666666666664,Count,28099,1661
+Mississippi,Newton,18.333333333333332,Count,28101,1663
+Mississippi,Noxubee,16.833333333333336,Count,28103,1666
+Mississippi,Oktibbeha,34.58333333333333,Count,28105,1668
+Mississippi,Panola,42.91666666666667,Count,28107,1671
+Mississippi,Pearl River,59.58333333333333,Count,28109,1676
+Mississippi,Perry,16.833333333333332,Count,28111,1679
+Mississippi,Pike,58.250000000000014,Count,28113,1680
+Mississippi,Pontotoc,26.833333333333332,Count,28115,1682
+Mississippi,Prentiss,23.583333333333332,Count,28117,1684
+Mississippi,Quitman,8.916666666666668,Count,28119,1685
+Mississippi,Rankin,118.66666666666664,Count,28121,1690
+Mississippi,Scott,36.33333333333333,Count,28123,1692
+Mississippi,Sharkey,8.0,Count,28125,1695
+Mississippi,Simpson,31.25,Count,28127,1698
+Mississippi,Smith,12.666666666666668,Count,28129,1709
+Mississippi,Stone,15.583333333333334,Count,28131,1712
+Mississippi,Sunflower,41.25,Count,28133,1721
+Mississippi,Tallahatchie,13.833333333333334,Count,28135,1725
+Mississippi,Tate,26.83333333333334,Count,28137,1727
+Mississippi,Tippah,18.416666666666668,Count,28139,1730
+Mississippi,Tishomingo,23.333333333333332,Count,28141,1732
+Mississippi,Tunica,19.833333333333336,Count,28143,1735
+Mississippi,Union,28.0,Count,28145,1737
+Mississippi,Walthall,12.416666666666666,Count,28147,1740
+Mississippi,Warren,59.91666666666667,Count,28149,1746
+Mississippi,Washington,76.0,Count,28151,1750
+Mississippi,Wayne,24.0,Count,28153,1753
+Mississippi,Webster,12.416666666666666,Count,28155,1756
+Mississippi,Wilkinson,14.583333333333334,Count,28157,1757
+Mississippi,Winston,20.999999999999996,Count,28159,1758
+Mississippi,Yalobusha,15.0,Count,28161,1759
+Mississippi,Yazoo,34.25,Count,28163,1760
+Missouri,Adair,16.833333333333336,Count,29001,1761
+Missouri,Andrew,7.916666666666666,Count,29003,1762
+Missouri,Atchison,5.083333333333334,Count,29005,1763
+Missouri,Audrain,17.0,Count,29007,1766
+Missouri,Barry,42.5,Count,29009,1767
+Missouri,Barton,13.583333333333332,Count,29011,1771
+Missouri,Bates,16.833333333333336,Count,29013,1776
+Missouri,Benton,17.166666666666664,Count,29015,1778
+Missouri,Bollinger,12.0,Count,29017,1781
+Missouri,Boone,102.83333333333333,Count,29019,1783
+Missouri,Buchanan,69.16666666666667,Count,29021,1789
+Missouri,Butler,50.33333333333333,Count,29023,1792
+Missouri,Caldwell,9.0,Count,29025,1795
+Missouri,Callaway,30.75,Count,29027,1799
+Missouri,Camden,41.5,Count,29029,1803
+Missouri,Cape Girardeau,45.08333333333333,Count,29031,1808
+Missouri,Carroll,9.416666666666668,Count,29033,1822
+Missouri,Carter,7.916666666666667,Count,29035,1001
+Missouri,Cass,68.91666666666666,Count,29037,1004
+Missouri,Cedar,13.083333333333332,Count,29039,1007
+Missouri,Chariton,6.0,Count,29041,1011
+Missouri,Christian,51.166666666666664,Count,29043,1014
+Missouri,Clark,10.75,Count,29045,1015
+Missouri,Clay,129.83333333333334,Count,29047,1018
+Missouri,Clinton,11.833333333333334,Count,29049,1021
+Missouri,Cole,57.25,Count,29051,1022
+Missouri,Cooper,12.75,Count,29053,1025
+Missouri,Crawford,21.166666666666664,Count,29055,1028
+Missouri,Dade,8.0,Count,29057,1030
+Missouri,Dallas,13.166666666666666,Count,29059,1032
+Missouri,Daviess,7.0,Count,29061,1036
+Missouri,DeKalb,7.0,Count,29063,1038
+Missouri,Dent,6.416666666666667,Count,29065,1040
+Missouri,Douglas,9.583333333333334,Count,29067,1043
+Missouri,Dunklin,35.16666666666667,Count,29069,1045
+Missouri,Franklin,71.33333333333334,Count,29071,1047
+Missouri,Gasconade,12.0,Count,29073,1049
+Missouri,Gentry,9.583333333333334,Count,29075,1052
+Missouri,Greene,208.08333333333337,Count,29077,1054
+Missouri,Grundy,7.416666666666666,Count,29079,1057
+Missouri,Harrison,8.0,Count,29081,1058
+Missouri,Henry,26.33333333333333,Count,29083,1061
+Missouri,Hickory,10.5,Count,29085,1063
+Missouri,Holt,3.0,Count,29087,1065
+Missouri,Howard,8.583333333333334,Count,29089,1068
+Missouri,Howell,54.25,Count,29091,1070
+Missouri,Iron,10.166666666666666,Count,29093,1072
+Missouri,Jackson,502.16666666666686,Count,29095,1074
+Missouri,Jasper,116.08333333333334,Count,29097,1078
+Missouri,Jefferson,129.83333333333331,Count,29099,1082
+Missouri,Johnson,31.916666666666668,Count,29101,1087
+Missouri,Knox,4.0,Count,29103,1091
+Missouri,Laclede,37.33333333333333,Count,29105,1096
+Missouri,Lafayette,28.333333333333332,Count,29107,1099
+Missouri,Lawrence,29.333333333333332,Count,29109,1101
+Missouri,Lewis,9.583333333333334,Count,29111,1104
+Missouri,Lincoln,36.5,Count,29113,1106
+Missouri,Linn,13.083333333333332,Count,29115,1109
+Missouri,Livingston,12.833333333333332,Count,29117,1112
+Missouri,McDonald,28.0,Count,29119,1113
+Missouri,Macon,15.416666666666668,Count,29121,1116
+Missouri,Madison,10.0,Count,29123,1117
+Missouri,Maries,6.0,Count,29125,1120
+Missouri,Marion,29.0,Count,29127,1122
+Missouri,Mercer,5.666666666666666,Count,29129,1125
+Missouri,Miller,21.25,Count,29131,1128
+Missouri,Mississippi,15.583333333333332,Count,29133,1131
+Missouri,Moniteau,11.0,Count,29135,1135
+Missouri,Monroe,7.833333333333334,Count,29137,1139
+Missouri,Montgomery,12.0,Count,29139,1142
+Missouri,Morgan,23.166666666666664,Count,29141,1146
+Missouri,New Madrid,22.666666666666664,Count,29143,1149
+Missouri,Newton,48.666666666666664,Count,29145,1152
+Missouri,Nodaway,16.0,Count,29147,1156
+Missouri,Oregon,14.0,Count,29149,1158
+Missouri,Osage,11.25,Count,29151,1164
+Missouri,Ozark,11.416666666666668,Count,29153,1168
+Missouri,Pemiscot,17.416666666666664,Count,29155,1170
+Missouri,Perry,12.666666666666668,Count,29157,1172
+Missouri,Pettis,41.0,Count,29159,1174
+Missouri,Phelps,38.416666666666664,Count,29161,1176
+Missouri,Pike,15.916666666666666,Count,29163,1179
+Missouri,Platte,45.75,Count,29165,1181
+Missouri,Polk,23.166666666666664,Count,29167,1183
+Missouri,Pulaski,36.416666666666664,Count,29169,1185
+Missouri,Putnam,4.75,Count,29171,1188
+Missouri,Ralls,10.0,Count,29173,1191
+Missouri,Randolph,22.749999999999996,Count,29175,1194
+Missouri,Ray,11.5,Count,29177,1197
+Missouri,Reynolds,7.0,Count,29179,1200
+Missouri,Ripley,11.666666666666666,Count,29181,1203
+Missouri,St. Charles,198.3333333333334,Count,29183,1205
+Missouri,St. Clair,13.916666666666668,Count,29185,1208
+Missouri,Ste. Genevieve,12.083333333333332,Count,29186,1209
+Missouri,St. Francois,57.0,Count,29187,1212
+Missouri,St. Louis County,634.0,Count,29189,1216
+Missouri,Saline,19.583333333333336,Count,29195,1218
+Missouri,Schuyler,4.0,Count,29197,1221
+Missouri,Scotland,6.333333333333334,Count,29199,1224
+Missouri,Scott,34.66666666666667,Count,29201,1227
+Missouri,Shannon,8.416666666666668,Count,29203,1229
+Missouri,Shelby,7.583333333333334,Count,29205,1232
+Missouri,Stoddard,21.75,Count,29207,1236
+Missouri,Stone,26.0,Count,29209,1237
+Missouri,Sullivan,6.0,Count,29211,1240
+Missouri,Taney,49.583333333333336,Count,29213,1242
+Missouri,Texas,20.416666666666668,Count,29215,1245
+Missouri,Vernon,15.083333333333332,Count,29217,1248
+Missouri,Warren,17.916666666666664,Count,29219,1251
+Missouri,Washington,22.5,Count,29221,1253
+Missouri,Wayne,16.0,Count,29223,1256
+Missouri,Webster,30.333333333333336,Count,29225,1258
+Missouri,Worth,4.0,Count,29227,1261
+Missouri,Wright,18.0,Count,29229,1263
+Missouri,St. Louis City,321.7499999999999,Count,29510,1266
+Montana,Beaverhead,8.0,Count,30001,1269
+Montana,Big Horn,10.583333333333334,Count,30003,1274
+Montana,Blaine,4.833333333333334,Count,30005,1124
+Montana,Broadwater,4.083333333333334,Count,30007,1132
+Montana,Carbon,9.25,Count,30009,1137
+Montana,Carter,1.0,Count,30011,1141
+Montana,Cascade,54.916666666666664,Count,30013,1144
+Montana,Chouteau,3.4166666666666665,Count,30015,1150
+Montana,Custer,10.75,Count,30017,1153
+Montana,Daniels,1.0,Count,30019,1157
+Montana,Dawson,7.25,Count,30021,1160
+Montana,Deer Lodge,8.25,Count,30023,1163
+Montana,Fallon,1.0,Count,30025,1165
+Montana,Fergus,6.333333333333333,Count,30027,1169
+Montana,Flathead,67.83333333333334,Count,30029,1173
+Montana,Gallatin,46.66666666666667,Count,30031,1177
+Montana,Garfield,1.0,Count,30033,1182
+Montana,Glacier,11.0,Count,30035,1186
+Montana,Golden Valley,nan,Count,30037,1189
+Montana,Granite,2.0,Count,30039,1192
+Montana,Hill,13.166666666666668,Count,30041,1195
+Montana,Jefferson,5.583333333333334,Count,30043,1199
+Montana,Judith Basin,1.9166666666666665,Count,30045,1202
+Montana,Lake,19.583333333333332,Count,30047,1207
+Montana,Lewis and Clark,47.416666666666664,Count,30049,1211
+Montana,Liberty,1.4166666666666667,Count,30051,1214
+Montana,Lincoln,20.5,Count,30053,1219
+Montana,McCone,1.0,Count,30055,1223
+Montana,Madison,6.0,Count,30057,1226
+Montana,Meagher,3.0,Count,30059,1231
+Montana,Mineral,6.833333333333333,Count,30061,1234
+Montana,Missoula,67.66666666666667,Count,30063,1239
+Montana,Musselshell,1.6666666666666665,Count,30065,1241
+Montana,Park,11.916666666666666,Count,30067,1244
+Montana,Petroleum,0.3333333333333333,Count,30069,1247
+Montana,Phillips,3.0,Count,30071,1250
+Montana,Pondera,7.166666666666666,Count,30073,1254
+Montana,Powder River,1.0,Count,30075,1259
+Montana,Powell,3.0,Count,30077,1262
+Montana,Prairie,1.0,Count,30079,1264
+Montana,Ravalli,23.083333333333336,Count,30081,1268
+Montana,Richland,7.666666666666666,Count,30083,1271
+Montana,Roosevelt,10.0,Count,30085,1275
+Montana,Rosebud,9.0,Count,30087,1277
+Montana,Sanders,15.166666666666666,Count,30089,1278
+Montana,Sheridan,4.0,Count,30091,1281
+Montana,Silver Bow,31.0,Count,30093,1284
+Montana,Stillwater,6.0,Count,30095,1286
+Montana,Sweet Grass,4.0,Count,30097,1288
+Montana,Teton,2.0,Count,30099,1290
+Montana,Toole,5.0,Count,30101,1292
+Montana,Treasure,nan,Count,30103,1293
+Montana,Valley,6.0,Count,30105,1296
+Montana,Wheatland,1.0,Count,30107,1298
+Montana,Wibaux,1.0,Count,30109,1300
+Montana,Yellowstone,101.91666666666667,Count,30111,1302
+Nebraska,Adams,15.5,Count,31001,1303
+Nebraska,Antelope,5.0,Count,31003,1305
+Nebraska,Arthur,nan,Count,31005,1307
+Nebraska,Banner,nan,Count,31007,1308
+Nebraska,Blaine,nan,Count,31009,1309
+Nebraska,Boone,7.833333333333334,Count,31011,1310
+Nebraska,Box Butte,9.0,Count,31013,1315
+Nebraska,Boyd,3.0,Count,31015,1317
+Nebraska,Brown,5.0,Count,31017,1319
+Nebraska,Buffalo,28.416666666666668,Count,31019,1321
+Nebraska,Burt,6.583333333333334,Count,31021,1323
+Nebraska,Butler,3.0,Count,31023,1325
+Nebraska,Cass,12.916666666666666,Count,31025,1326
+Nebraska,Cedar,6.0,Count,31027,1329
+Nebraska,Chase,4.0,Count,31029,1330
+Nebraska,Cherry,5.0,Count,31031,1333
+Nebraska,Cheyenne,6.0,Count,31033,1334
+Nebraska,Clay,4.833333333333334,Count,31035,1336
+Nebraska,Colfax,10.0,Count,31037,1338
+Nebraska,Cuming,8.333333333333334,Count,31039,1340
+Nebraska,Custer,9.0,Count,31041,1342
+Nebraska,Dakota,19.0,Count,31043,1344
+Nebraska,Dawes,7.0,Count,31045,1347
+Nebraska,Dawson,19.083333333333336,Count,31047,1349
+Nebraska,Deuel,2.6666666666666665,Count,31049,1351
+Nebraska,Dixon,1.7499999999999998,Count,31051,1353
+Nebraska,Dodge,28.25,Count,31053,1354
+Nebraska,Douglas,302.5833333333333,Count,31055,1358
+Nebraska,Dundy,1.0,Count,31057,1360
+Nebraska,Fillmore,8.416666666666668,Count,31059,1363
+Nebraska,Franklin,3.9166666666666665,Count,31061,1369
+Nebraska,Frontier,3.0,Count,31063,1371
+Nebraska,Furnas,7.0,Count,31065,1374
+Nebraska,Gage,17.666666666666668,Count,31067,1378
+Nebraska,Garden,1.0,Count,31069,1381
+Nebraska,Garfield,2.0,Count,31071,1391
+Nebraska,Gosper,1.0,Count,31073,1393
+Nebraska,Grant,1.0,Count,31075,1395
+Nebraska,Greeley,2.0,Count,31077,1397
+Nebraska,Hall,37.416666666666664,Count,31079,1402
+Nebraska,Hamilton,4.0,Count,31081,1405
+Nebraska,Harlan,2.0,Count,31083,1409
+Nebraska,Hayes,1.0,Count,31085,1411
+Nebraska,Hitchcock,2.3333333333333335,Count,31087,1414
+Nebraska,Holt,11.0,Count,31089,1416
+Nebraska,Hooker,1.0,Count,31091,1418
+Nebraska,Howard,5.0,Count,31093,1311
+Nebraska,Jefferson,5.0,Count,31095,1312
+Nebraska,Johnson,3.0,Count,31097,1313
+Nebraska,Kearney,4.0,Count,31099,1314
+Nebraska,Keith,8.333333333333334,Count,31101,1316
+Nebraska,Keya Paha,1.0,Count,31103,1318
+Nebraska,Kimball,3.0,Count,31105,1320
+Nebraska,Knox,9.166666666666668,Count,31107,1322
+Nebraska,Lancaster,151.41666666666666,Count,31109,1324
+Nebraska,Lincoln,20.25,Count,31111,1327
+Nebraska,Logan,0.75,Count,31113,1328
+Nebraska,Loup,nan,Count,31115,1331
+Nebraska,McPherson,nan,Count,31117,1332
+Nebraska,Madison,27.0,Count,31119,1335
+Nebraska,Merrick,3.0,Count,31121,1337
+Nebraska,Morrill,4.583333333333334,Count,31123,1339
+Nebraska,Nance,3.0,Count,31125,1341
+Nebraska,Nemaha,7.833333333333334,Count,31127,1343
+Nebraska,Nuckolls,5.0,Count,31129,1345
+Nebraska,Otoe,12.916666666666668,Count,31131,1348
+Nebraska,Pawnee,3.0,Count,31133,1350
+Nebraska,Perkins,2.0,Count,31135,1352
+Nebraska,Phelps,9.0,Count,31137,1355
+Nebraska,Pierce,6.583333333333334,Count,31139,1356
+Nebraska,Platte,20.0,Count,31141,1359
+Nebraska,Polk,6.0,Count,31143,1362
+Nebraska,Red Willow,6.0,Count,31145,1364
+Nebraska,Richardson,6.0,Count,31147,1365
+Nebraska,Rock,1.0,Count,31149,1366
+Nebraska,Saline,14.083333333333334,Count,31151,1367
+Nebraska,Sarpy,60.33333333333333,Count,31153,1368
+Nebraska,Saunders,12.0,Count,31155,1370
+Nebraska,Scotts Bluff,20.916666666666664,Count,31157,1373
+Nebraska,Seward,8.0,Count,31159,1375
+Nebraska,Sheridan,9.75,Count,31161,1376
+Nebraska,Sherman,3.0,Count,31163,1377
+Nebraska,Sioux,nan,Count,31165,1380
+Nebraska,Stanton,2.0,Count,31167,1382
+Nebraska,Thayer,5.0,Count,31169,1383
+Nebraska,Thomas,1.0,Count,31171,1384
+Nebraska,Thurston,6.0,Count,31173,1385
+Nebraska,Valley,5.916666666666666,Count,31175,1386
+Nebraska,Washington,7.666666666666667,Count,31177,1387
+Nebraska,Wayne,5.0,Count,31179,1388
+Nebraska,Webster,3.75,Count,31181,1389
+Nebraska,Wheeler,nan,Count,31183,1390
+Nebraska,York,9.0,Count,31185,1392
+Nevada,Churchill,15.916666666666666,Count,32001,1396
+Nevada,Clark,1165.4166666666667,Count,32003,1399
+Nevada,Douglas,28.5,Count,32005,1400
+Nevada,Elko,36.5,Count,32007,1401
+Nevada,Esmeralda,nan,Count,32009,1404
+Nevada,Eureka,1.0,Count,32011,1406
+Nevada,Humboldt,13.333333333333332,Count,32013,1407
+Nevada,Lander,3.75,Count,32015,1408
+Nevada,Lincoln,4.0,Count,32017,1410
+Nevada,Lyon,40.083333333333336,Count,32019,1412
+Nevada,Mineral,8.0,Count,32021,1415
+Nevada,Nye,40.0,Count,32023,1417
+Nevada,Pershing,5.0,Count,32027,1419
+Nevada,Storey,0.8333333333333334,Count,32029,1420
+Nevada,Washoe,297.5,Count,32031,1423
+Nevada,White Pine,6.5,Count,32033,1425
+Nevada,Carson City,41.666666666666664,Count,32510,1428
+New Hampshire,Belknap,54.0,Count,33001,1432
+New Hampshire,Carroll,41.083333333333336,Count,33003,1435
+New Hampshire,Cheshire,54.33333333333333,Count,33005,1437
+New Hampshire,Coos,37.08333333333333,Count,33007,1440
+New Hampshire,Grafton,89.75,Count,33009,1442
+New Hampshire,Hillsborough,273.58333333333337,Count,33011,1443
+New Hampshire,Merrimack,104.75000000000003,Count,33013,1444
+New Hampshire,Rockingham,173.00000000000006,Count,33015,1448
+New Hampshire,Strafford,82.83333333333336,Count,33017,1453
+New Hampshire,Sullivan,34.66666666666667,Count,33019,1454
+New Jersey,Atlantic,216.58333333333331,Count,34001,1461
+New Jersey,Bergen,357.24999999999994,Count,34003,1465
+New Jersey,Burlington,251.91666666666663,Count,34005,1470
+New Jersey,Camden,404.49999999999994,Count,34007,1472
+New Jersey,Cape May,79.08333333333333,Count,34009,1477
+New Jersey,Cumberland,147.66666666666666,Count,34011,1482
+New Jersey,Essex,542.0833333333331,Count,34013,1483
+New Jersey,Gloucester,176.33333333333331,Count,34015,1484
+New Jersey,Hudson,590.5833333333334,Count,34017,1487
+New Jersey,Hunterdon,38.75,Count,34019,1488
+New Jersey,Mercer,256.33333333333326,Count,34021,1493
+New Jersey,Middlesex,423.74999999999983,Count,34023,1497
+New Jersey,Monmouth,321.66666666666663,Count,34025,1504
+New Jersey,Morris,168.91666666666669,Count,34027,1511
+New Jersey,Ocean,322.9999999999999,Count,34029,1546
+New Jersey,Passaic,467.4166666666666,Count,34031,1551
+New Jersey,Salem,49.50000000000001,Count,34033,1553
+New Jersey,Somerset,118.91666666666669,Count,34035,1558
+New Jersey,Sussex,61.916666666666664,Count,34037,1561
+New Jersey,Union,336.9166666666666,Count,34039,1566
+New Jersey,Warren,51.41666666666667,Count,34041,1570
+New Mexico,Bernalillo,390.75,Count,35001,1574
+New Mexico,Catron,10.0,Count,35003,1576
+New Mexico,Chaves,60.25,Count,35005,1578
+New Mexico,Cibola,24.833333333333336,Count,35006,1580
+New Mexico,Colfax,15.416666666666666,Count,35007,1582
+New Mexico,Curry,45.16666666666667,Count,35009,1586
+New Mexico,De Baca,4.5,Count,35011,1589
+New Mexico,Doña Ana,133.58333333333331,Count,35013,1590
+New Mexico,Eddy,47.833333333333336,Count,35015,1592
+New Mexico,Grant,27.166666666666664,Count,35017,1594
+New Mexico,Guadalupe,11.0,Count,35019,1595
+New Mexico,Harding,2.0,Count,35021,1597
+New Mexico,Hidalgo,8.25,Count,35023,1600
+New Mexico,Lea,62.5,Count,35025,1604
+New Mexico,Lincoln,23.833333333333332,Count,35027,1613
+New Mexico,Los Alamos,4.666666666666666,Count,35028,1618
+New Mexico,Luna,22.500000000000004,Count,35029,1622
+New Mexico,McKinley,72.58333333333334,Count,35031,1626
+New Mexico,Mora,2.833333333333333,Count,35033,1629
+New Mexico,Otero,40.75,Count,35035,1633
+New Mexico,Quay,12.666666666666668,Count,35037,1637
+New Mexico,Rio Arriba,42.66666666666667,Count,35039,1639
+New Mexico,Roosevelt,15.333333333333332,Count,35041,1642
+New Mexico,Sandoval,65.83333333333334,Count,35043,1646
+New Mexico,San Juan,76.66666666666666,Count,35045,1650
+New Mexico,San Miguel,24.5,Count,35047,1652
+New Mexico,Santa Fe,67.25000000000001,Count,35049,1654
+New Mexico,Sierra,14.416666666666668,Count,35051,1657
+New Mexico,Socorro,14.583333333333334,Count,35053,1659
+New Mexico,Taos,33.0,Count,35055,1662
+New Mexico,Torrance,15.08333333333333,Count,35057,1664
+New Mexico,Union,5.0,Count,35059,1667
+New Mexico,Valencia,56.75000000000001,Count,35061,1670
+New York,Albany,248.83333333333337,Count,36001,1673
+New York,Allegany,42.41666666666667,Count,36003,1674
+New York,Bronx,1722.0000000000016,Count,36005,1681
+New York,Broome,185.33333333333334,Count,36007,1683
+New York,Cattaraugus,52.416666666666664,Count,36009,1687
+New York,Cayuga,52.24999999999999,Count,36011,1689
+New York,Chautauqua,102.66666666666666,Count,36013,1694
+New York,Chemung,81.08333333333334,Count,36015,1696
+New York,Chenango,53.083333333333336,Count,36017,1699
+New York,Clinton,91.91666666666667,Count,36019,1702
+New York,Columbia,60.83333333333331,Count,36021,1704
+New York,Cortland,43.916666666666664,Count,36023,1706
+New York,Delaware,53.083333333333336,Count,36025,1707
+New York,Dutchess,167.41666666666669,Count,36027,1711
+New York,Erie,791.4166666666666,Count,36029,1723
+New York,Essex,38.833333333333336,Count,36031,1728
+New York,Franklin,54.0,Count,36033,1731
+New York,Fulton,47.083333333333336,Count,36035,1734
+New York,Genesee,39.083333333333336,Count,36037,1736
+New York,Greene,49.33333333333333,Count,36039,1739
+New York,Hamilton,4.0,Count,36041,1742
+New York,Herkimer,52.333333333333336,Count,36043,1745
+New York,Jefferson,111.83333333333334,Count,36045,1782
+New York,Kings,2910.0833333333353,Count,36047,1788
+New York,Lewis,23.583333333333332,Count,36049,1790
+New York,Livingston,49.08333333333333,Count,36051,1791
+New York,Madison,47.916666666666664,Count,36053,1796
+New York,Monroe,538.5833333333336,Count,36055,1804
+New York,Montgomery,61.41666666666668,Count,36057,1807
+New York,Nassau,587.0833333333335,Count,36059,1839
+New York,New York,1219.5,Count,36061,1847
+New York,Niagara,168.1666666666666,Count,36063,1850
+New York,Oneida,233.00000000000003,Count,36065,1852
+New York,Onondaga,404.0833333333335,Count,36067,1853
+New York,Ontario,72.5,Count,36069,1856
+New York,Orange,240.58333333333323,Count,36071,1859
+New York,Orleans,25.166666666666664,Count,36073,1862
+New York,Oswego,91.83333333333331,Count,36075,1864
+New York,Otsego,59.75000000000001,Count,36077,1868
+New York,Putnam,24.583333333333336,Count,36079,1870
+New York,Queens,1710.0000000000005,Count,36081,1872
+New York,Rensselaer,129.5,Count,36083,1874
+New York,Richmond,332.1666666666665,Count,36085,1876
+New York,Rockland,145.58333333333337,Count,36087,1879
+New York,St. Lawrence,112.91666666666667,Count,36089,1883
+New York,Saratoga,150.41666666666666,Count,36091,1885
+New York,Schenectady,147.0,Count,36093,1887
+New York,Schoharie,27.666666666666668,Count,36095,1888
+New York,Schuyler,15.083333333333336,Count,36097,1889
+New York,Seneca,28.25,Count,36099,1890
+New York,Steuben,79.83333333333333,Count,36101,1891
+New York,Suffolk,673.2499999999995,Count,36103,1924
+New York,Sullivan,87.83333333333333,Count,36105,1928
+New York,Tioga,37.416666666666664,Count,36107,1930
+New York,Tompkins,61.33333333333333,Count,36109,1933
+New York,Ulster,141.08333333333331,Count,36111,1935
+New York,Warren,71.41666666666666,Count,36113,1938
+New York,Washington,52.0,Count,36115,1942
+New York,Wayne,71.83333333333333,Count,36117,1952
+New York,Westchester,500.0,Count,36119,1960
+New York,Wyoming,24.166666666666664,Count,36121,1962
+New York,Yates,19.666666666666664,Count,36123,1965
+North Carolina,Alamance,142.58333333333337,Count,37001,1967
+North Carolina,Alexander,29.666666666666668,Count,37003,1968
+North Carolina,Alleghany,10.416666666666666,Count,37005,1970
+North Carolina,Anson,30.25,Count,37007,1972
+North Carolina,Ashe,19.583333333333336,Count,37009,1975
+North Carolina,Avery,15.5,Count,37011,1977
+North Carolina,Beaufort,54.666666666666664,Count,37013,1981
+North Carolina,Bertie,23.666666666666668,Count,37015,1983
+North Carolina,Bladen,39.16666666666667,Count,37017,1986
+North Carolina,Brunswick,110.24999999999999,Count,37019,1995
+North Carolina,Buncombe,206.83333333333326,Count,37021,1422
+North Carolina,Burke,100.24999999999999,Count,37023,1424
+North Carolina,Cabarrus,151.16666666666666,Count,37025,1426
+North Carolina,Caldwell,79.66666666666667,Count,37027,1429
+North Carolina,Camden,6.916666666666666,Count,37029,1433
+North Carolina,Carteret,63.083333333333336,Count,37031,1447
+North Carolina,Caswell,20.083333333333332,Count,37033,1449
+North Carolina,Catawba,181.5833333333333,Count,37035,1450
+North Carolina,Chatham,44.41666666666667,Count,37037,1451
+North Carolina,Cherokee,23.75,Count,37039,1452
+North Carolina,Chowan,19.583333333333332,Count,37041,1455
+North Carolina,Clay,7.833333333333333,Count,37043,1457
+North Carolina,Cleveland,125.49999999999999,Count,37045,1458
+North Carolina,Columbus,64.5,Count,37047,1459
+North Carolina,Craven,102.83333333333333,Count,37049,1462
+North Carolina,Cumberland,291.6666666666666,Count,37051,1464
+North Carolina,Currituck,21.25,Count,37053,1481
+North Carolina,Dare,42.16666666666667,Count,37055,1485
+North Carolina,Davidson,140.16666666666669,Count,37057,1489
+North Carolina,Davie,34.666666666666664,Count,37059,1490
+North Carolina,Duplin,59.583333333333336,Count,37061,1492
+North Carolina,Durham,221.25000000000003,Count,37063,1494
+North Carolina,Edgecombe,58.91666666666667,Count,37065,1495
+North Carolina,Forsyth,326.1666666666667,Count,37067,1496
+North Carolina,Franklin,58.0,Count,37069,1498
+North Carolina,Gaston,214.5,Count,37071,1499
+North Carolina,Gates,8.083333333333332,Count,37073,1500
+North Carolina,Graham,6.0,Count,37075,1502
+North Carolina,Granville,53.5,Count,37077,1503
+North Carolina,Greene,16.333333333333332,Count,37079,1505
+North Carolina,Guilford,449.08333333333314,Count,37081,1506
+North Carolina,Halifax,78.83333333333334,Count,37083,1508
+North Carolina,Harnett,90.5,Count,37085,1509
+North Carolina,Haywood,45.0,Count,37087,1512
+North Carolina,Henderson,71.33333333333334,Count,37089,1514
+North Carolina,Hertford,35.08333333333333,Count,37091,1515
+North Carolina,Hoke,40.49999999999999,Count,37093,1517
+North Carolina,Hyde,7.0,Count,37095,1521
+North Carolina,Iredell,136.58333333333331,Count,37097,1525
+North Carolina,Jackson,29.500000000000004,Count,37099,1528
+North Carolina,Johnston,132.91666666666669,Count,37101,1530
+North Carolina,Jones,9.0,Count,37103,1536
+North Carolina,Lee,72.08333333333334,Count,37105,1540
+North Carolina,Lenoir,67.41666666666666,Count,37107,1542
+North Carolina,Lincoln,68.0,Count,37109,1545
+North Carolina,McDowell,49.833333333333336,Count,37111,1554
+North Carolina,Macon,30.333333333333332,Count,37113,1556
+North Carolina,Madison,12.583333333333334,Count,37115,1560
+North Carolina,Martin,28.000000000000004,Count,37117,1563
+North Carolina,Mecklenburg,718.6666666666671,Count,37119,1565
+North Carolina,Mitchell,17.75,Count,37121,1568
+North Carolina,Montgomery,31.333333333333332,Count,37123,1573
+North Carolina,Moore,74.5,Count,37125,1584
+North Carolina,Nash,123.58333333333334,Count,37127,1588
+North Carolina,New Hanover,199.3333333333333,Count,37129,1602
+North Carolina,Northampton,25.083333333333332,Count,37131,1606
+North Carolina,Onslow,132.58333333333334,Count,37133,1625
+North Carolina,Orange,83.58333333333333,Count,37135,1630
+North Carolina,Pamlico,15.166666666666666,Count,37137,1703
+North Carolina,Pasquotank,38.91666666666667,Count,37139,1714
+North Carolina,Pender,53.41666666666668,Count,37141,1718
+North Carolina,Perquimans,12.0,Count,37143,1724
+North Carolina,Person,37.16666666666667,Count,37145,1729
+North Carolina,Pitt,165.6666666666666,Count,37147,1733
+North Carolina,Polk,17.75,Count,37149,1738
+North Carolina,Randolph,96.50000000000001,Count,37151,1741
+North Carolina,Richmond,55.58333333333333,Count,37153,1744
+North Carolina,Robeson,188.41666666666669,Count,37155,1747
+North Carolina,Rockingham,104.08333333333333,Count,37157,1751
+North Carolina,Rowan,112.58333333333333,Count,37159,1754
+North Carolina,Rutherford,67.16666666666667,Count,37161,1764
+North Carolina,Sampson,43.666666666666664,Count,37163,1769
+North Carolina,Scotland,50.833333333333336,Count,37165,1772
+North Carolina,Stanly,53.75,Count,37167,1775
+North Carolina,Stokes,42.666666666666664,Count,37169,1777
+North Carolina,Surry,101.5,Count,37171,1780
+North Carolina,Swain,16.25,Count,37173,1784
+North Carolina,Transylvania,27.0,Count,37175,1786
+North Carolina,Tyrrell,5.5,Count,37177,1794
+North Carolina,Union,139.91666666666669,Count,37179,1798
+North Carolina,Vance,70.16666666666667,Count,37181,1801
+North Carolina,Wake,634.1666666666669,Count,37183,1805
+North Carolina,Warren,18.166666666666664,Count,37185,1809
+North Carolina,Washington,18.0,Count,37187,1811
+North Carolina,Watauga,38.5,Count,37189,1813
+North Carolina,Wayne,133.33333333333334,Count,37191,1814
+North Carolina,Wilkes,79.0,Count,37193,1817
+North Carolina,Wilson,100.08333333333333,Count,37195,1819
+North Carolina,Yadkin,36.41666666666667,Count,37197,1821
+North Carolina,Yancey,11.833333333333334,Count,37199,1823
+North Dakota,Adams,4.0,Count,38001,1826
+North Dakota,Barnes,6.5,Count,38003,1828
+North Dakota,Benson,6.0,Count,38005,1831
+North Dakota,Billings,nan,Count,38007,1833
+North Dakota,Bottineau,5.75,Count,38009,1836
+North Dakota,Bowman,5.0,Count,38011,1838
+North Dakota,Burke,1.0833333333333333,Count,38013,1841
+North Dakota,Burleigh,38.91666666666667,Count,38015,1844
+North Dakota,Cass,89.08333333333334,Count,38017,1848
+North Dakota,Cavalier,2.166666666666667,Count,38019,1849
+North Dakota,Dickey,9.583333333333332,Count,38021,2004
+North Dakota,Divide,0.3333333333333333,Count,38023,2007
+North Dakota,Dunn,1.0,Count,38025,2013
+North Dakota,Eddy,1.0,Count,38027,2017
+North Dakota,Emmons,6.916666666666667,Count,38029,2021
+North Dakota,Foster,3.0,Count,38031,2026
+North Dakota,Golden Valley,1.6666666666666665,Count,38033,2036
+North Dakota,Grand Forks,47.58333333333333,Count,38035,2043
+North Dakota,Grant,4.0,Count,38037,2051
+North Dakota,Griggs,3.0,Count,38039,2056
+North Dakota,Hettinger,2.8333333333333335,Count,38041,2063
+North Dakota,Kidder,2.166666666666667,Count,38043,2068
+North Dakota,LaMoure,3.3333333333333335,Count,38045,2074
+North Dakota,Logan,1.0,Count,38047,2078
+North Dakota,McHenry,3.0,Count,38049,2082
+North Dakota,McIntosh,3.0,Count,38051,2090
+North Dakota,McKenzie,5.333333333333333,Count,38053,2097
+North Dakota,McLean,4.0,Count,38055,2103
+North Dakota,Mercer,6.0,Count,38057,2107
+North Dakota,Morton,12.5,Count,38059,2114
+North Dakota,Mountrail,7.75,Count,38061,2119
+North Dakota,Nelson,3.9166666666666665,Count,38063,2122
+North Dakota,Oliver,0.3333333333333333,Count,38065,2127
+North Dakota,Pembina,5.0,Count,38067,2131
+North Dakota,Pierce,3.0,Count,38069,2136
+North Dakota,Ramsey,11.0,Count,38071,2141
+North Dakota,Ransom,5.416666666666666,Count,38073,2147
+North Dakota,Renville,1.0,Count,38075,2150
+North Dakota,Richland,9.916666666666668,Count,38077,2156
+North Dakota,Rolette,17.666666666666664,Count,38079,2161
+North Dakota,Sargent,3.9166666666666665,Count,38081,2164
+North Dakota,Sheridan,1.0,Count,38083,2169
+North Dakota,Sioux,4.0,Count,38085,2175
+North Dakota,Slope,nan,Count,38087,2180
+North Dakota,Stark,11.666666666666668,Count,38089,2182
+North Dakota,Steele,1.5,Count,38091,2186
+North Dakota,Stutsman,12.416666666666668,Count,38093,2199
+North Dakota,Towner,1.4166666666666667,Count,38095,2205
+North Dakota,Traill,6.916666666666666,Count,38097,2217
+North Dakota,Walsh,10.0,Count,38099,2225
+North Dakota,Ward,27.666666666666664,Count,38101,2233
+North Dakota,Wells,4.0,Count,38103,2237
+North Dakota,Williams,18.083333333333336,Count,38105,2244
+Ohio,Adams,31.0,Count,39001,2248
+Ohio,Allen,96.0,Count,39003,2250
+Ohio,Ashland,36.08333333333334,Count,39005,2254
+Ohio,Ashtabula,100.58333333333331,Count,39007,2259
+Ohio,Athens,52.583333333333336,Count,39009,2266
+Ohio,Auglaize,27.416666666666664,Count,39011,2273
+Ohio,Belmont,60.25000000000001,Count,39013,2278
+Ohio,Brown,38.75,Count,39015,2282
+Ohio,Butler,250.8333333333335,Count,39017,2286
+Ohio,Carroll,20.75,Count,39019,2289
+Ohio,Champaign,24.0,Count,39021,2291
+Ohio,Clark,106.25000000000001,Count,39023,2300
+Ohio,Clermont,128.16666666666669,Count,39025,2306
+Ohio,Clinton,35.166666666666664,Count,39027,2310
+Ohio,Columbiana,93.58333333333334,Count,39029,2315
+Ohio,Coshocton,21.166666666666664,Count,39031,2317
+Ohio,Crawford,36.083333333333336,Count,39033,2323
+Ohio,Cuyahoga,1104.416666666667,Count,39035,2332
+Ohio,Darke,21.916666666666668,Count,39037,2345
+Ohio,Defiance,24.916666666666664,Count,39039,2350
+Ohio,Delaware,70.66666666666667,Count,39041,2352
+Ohio,Erie,67.41666666666667,Count,39043,2357
+Ohio,Fairfield,71.41666666666666,Count,39045,2365
+Ohio,Fayette,32.916666666666664,Count,39047,2368
+Ohio,Franklin,947.6666666666666,Count,39049,2375
+Ohio,Fulton,27.749999999999996,Count,39051,2378
+Ohio,Gallia,37.25,Count,39053,2383
+Ohio,Geauga,50.66666666666667,Count,39055,2390
+Ohio,Greene,88.33333333333334,Count,39057,2393
+Ohio,Guernsey,39.91666666666667,Count,39059,2399
+Ohio,Hamilton,635.6666666666665,Count,39061,2411
+Ohio,Hancock,51.666666666666664,Count,39063,2427
+Ohio,Hardin,25.083333333333332,Count,39065,2432
+Ohio,Harrison,17.0,Count,39067,2440
+Ohio,Henry,17.0,Count,39069,2451
+Ohio,Highland,43.66666666666667,Count,39071,2457
+Ohio,Hocking,20.666666666666664,Count,39073,2461
+Ohio,Holmes,17.333333333333332,Count,39075,2464
+Ohio,Huron,48.583333333333336,Count,39077,2468
+Ohio,Jackson,43.08333333333333,Count,39079,2472
+Ohio,Jefferson,64.5,Count,39081,2476
+Ohio,Knox,35.08333333333333,Count,39083,2479
+Ohio,Lake,158.5,Count,39085,2493
+Ohio,Lawrence,50.41666666666667,Count,39087,2499
+Ohio,Licking,115.0,Count,39089,2504
+Ohio,Logan,38.83333333333333,Count,39091,2510
+Ohio,Lorain,216.41666666666666,Count,39093,2516
+Ohio,Lucas,399.1666666666665,Count,39095,2520
+Ohio,Madison,27.583333333333332,Count,39097,2529
+Ohio,Mahoning,196.91666666666663,Count,39099,2534
+Ohio,Marion,49.666666666666664,Count,39101,2541
+Ohio,Medina,99.75000000000003,Count,39103,2545
+Ohio,Meigs,25.0,Count,39105,2549
+Ohio,Mercer,20.75,Count,39107,2552
+Ohio,Miami,55.91666666666667,Count,39109,2558
+Ohio,Monroe,16.583333333333336,Count,39111,2565
+Ohio,Montgomery,403.83333333333354,Count,39113,2573
+Ohio,Morgan,10.0,Count,39115,2000
+Ohio,Morrow,23.666666666666668,Count,39117,2006
+Ohio,Muskingum,88.66666666666669,Count,39119,2010
+Ohio,Noble,9.583333333333332,Count,39121,2012
+Ohio,Ottawa,28.0,Count,39123,2019
+Ohio,Paulding,13.5,Count,39125,2024
+Ohio,Perry,33.41666666666667,Count,39127,2027
+Ohio,Pickaway,38.75,Count,39129,2031
+Ohio,Pike,36.5,Count,39131,2034
+Ohio,Portage,101.25000000000001,Count,39133,2038
+Ohio,Preble,27.75,Count,39135,2039
+Ohio,Putnam,14.0,Count,39137,2040
+Ohio,Richland,105.83333333333334,Count,39139,2042
+Ohio,Ross,66.08333333333334,Count,39141,2045
+Ohio,Sandusky,50.0,Count,39143,2047
+Ohio,Scioto,70.08333333333334,Count,39145,2048
+Ohio,Seneca,40.5,Count,39147,2049
+Ohio,Shelby,32.916666666666664,Count,39149,2052
+Ohio,Stark,278.0,Count,39151,2054
+Ohio,Summit,417.16666666666663,Count,39153,2057
+Ohio,Trumbull,187.83333333333331,Count,39155,2061
+Ohio,Tuscarawas,81.66666666666666,Count,39157,2065
+Ohio,Union,22.916666666666664,Count,39159,2067
+Ohio,Van Wert,16.083333333333336,Count,39161,2071
+Ohio,Vinton,12.249999999999998,Count,39163,2075
+Ohio,Warren,99.4166666666667,Count,39165,2076
+Ohio,Washington,60.5,Count,39167,2080
+Ohio,Wayne,61.66666666666665,Count,39169,2084
+Ohio,Williams,29.5,Count,39171,2087
+Ohio,Wood,85.25,Count,39173,2091
+Ohio,Wyandot,15.416666666666666,Count,39175,2093
+Oklahoma,Adair,25.166666666666668,Count,40001,2095
+Oklahoma,Alfalfa,6.0,Count,40003,2099
+Oklahoma,Atoka,17.25,Count,40005,2102
+Oklahoma,Beaver,3.0,Count,40007,2104
+Oklahoma,Beckham,21.583333333333332,Count,40009,2106
+Oklahoma,Blaine,10.25,Count,40011,2110
+Oklahoma,Bryan,42.91666666666667,Count,40013,2112
+Oklahoma,Caddo,35.83333333333333,Count,40015,2118
+Oklahoma,Canadian,76.0,Count,40017,2123
+Oklahoma,Carter,60.75,Count,40019,2126
+Oklahoma,Cherokee,48.416666666666664,Count,40021,2129
+Oklahoma,Choctaw,18.416666666666668,Count,40023,2133
+Oklahoma,Cimarron,3.9166666666666665,Count,40025,2135
+Oklahoma,Cleveland,175.66666666666669,Count,40027,2140
+Oklahoma,Coal,6.083333333333333,Count,40029,2144
+Oklahoma,Comanche,97.08333333333333,Count,40031,2145
+Oklahoma,Cotton,5.0,Count,40033,2146
+Oklahoma,Craig,10.916666666666668,Count,40035,2148
+Oklahoma,Creek,54.166666666666664,Count,40037,2151
+Oklahoma,Custer,24.5,Count,40039,2153
+Oklahoma,Delaware,38.5,Count,40041,2154
+Oklahoma,Dewey,7.0,Count,40043,2158
+Oklahoma,Ellis,3.0,Count,40045,2165
+Oklahoma,Garfield,66.16666666666667,Count,40047,2167
+Oklahoma,Garvin,28.583333333333332,Count,40049,2176
+Oklahoma,Grady,43.75,Count,40051,2184
+Oklahoma,Grant,5.916666666666666,Count,40053,2187
+Oklahoma,Greer,5.0,Count,40055,2189
+Oklahoma,Harmon,3.0,Count,40057,2191
+Oklahoma,Harper,4.666666666666666,Count,40059,2193
+Oklahoma,Haskell,16.25,Count,40061,2195
+Oklahoma,Hughes,15.666666666666666,Count,40063,2197
+Oklahoma,Jackson,20.166666666666668,Count,40065,2202
+Oklahoma,Jefferson,7.666666666666666,Count,40067,2206
+Oklahoma,Johnston,13.916666666666668,Count,40069,2211
+Oklahoma,Kay,39.333333333333336,Count,40071,2215
+Oklahoma,Kingfisher,11.0,Count,40073,2219
+Oklahoma,Kiowa,12.166666666666668,Count,40075,2222
+Oklahoma,Latimer,9.583333333333332,Count,40077,2226
+Oklahoma,Le Flore,62.25000000000001,Count,40079,2230
+Oklahoma,Lincoln,29.916666666666668,Count,40081,2234
+Oklahoma,Logan,29.416666666666664,Count,40083,2236
+Oklahoma,Love,9.0,Count,40085,2238
+Oklahoma,McClain,29.333333333333332,Count,40087,2245
+Oklahoma,McCurtain,49.916666666666664,Count,40089,2252
+Oklahoma,McIntosh,24.333333333333336,Count,40091,2258
+Oklahoma,Major,9.5,Count,40093,2260
+Oklahoma,Marshall,16.166666666666664,Count,40095,2265
+Oklahoma,Mayes,44.5,Count,40097,2270
+Oklahoma,Murray,13.0,Count,40099,2276
+Oklahoma,Muskogee,83.49999999999999,Count,40101,2281
+Oklahoma,Noble,9.5,Count,40103,2287
+Oklahoma,Nowata,11.833333333333334,Count,40105,2290
+Oklahoma,Okfuskee,13.0,Count,40107,2297
+Oklahoma,Oklahoma,672.4166666666667,Count,40109,2303
+Oklahoma,Okmulgee,34.083333333333336,Count,40111,2311
+Oklahoma,Osage,30.416666666666668,Count,40113,2318
+Oklahoma,Ottawa,25.916666666666668,Count,40115,2325
+Oklahoma,Pawnee,11.916666666666666,Count,40117,2329
+Oklahoma,Payne,58.16666666666667,Count,40119,2340
+Oklahoma,Pittsburg,57.083333333333336,Count,40121,2344
+Oklahoma,Pontotoc,29.416666666666668,Count,40123,2351
+Oklahoma,Pottawatomie,74.41666666666666,Count,40125,2356
+Oklahoma,Pushmataha,11.833333333333332,Count,40127,2362
+Oklahoma,Roger Mills,2.583333333333333,Count,40129,2369
+Oklahoma,Rogers,54.83333333333333,Count,40131,2374
+Oklahoma,Seminole,24.416666666666664,Count,40133,2384
+Oklahoma,Sequoyah,42.08333333333333,Count,40135,2391
+Oklahoma,Stephens,36.0,Count,40137,2396
+Oklahoma,Texas,15.916666666666666,Count,40139,2003
+Oklahoma,Tillman,9.75,Count,40141,2005
+Oklahoma,Tulsa,454.0000000000001,Count,40143,2008
+Oklahoma,Wagoner,39.833333333333336,Count,40145,2014
+Oklahoma,Washington,39.25,Count,40147,2018
+Oklahoma,Washita,10.5,Count,40149,2023
+Oklahoma,Woods,8.25,Count,40151,2029
+Oklahoma,Woodward,17.916666666666668,Count,40153,2035
+Oregon,Baker,20.333333333333336,Count,41001,2044
+Oregon,Benton,54.833333333333336,Count,41003,2053
+Oregon,Clackamas,231.0,Count,41005,2058
+Oregon,Clatsop,44.166666666666664,Count,41007,2064
+Oregon,Columbia,33.166666666666664,Count,41009,2070
+Oregon,Coos,61.74999999999998,Count,41011,2083
+Oregon,Crook,20.916666666666664,Count,41013,2092
+Oregon,Curry,22.75,Count,41015,2098
+Oregon,Deschutes,103.41666666666667,Count,41017,2109
+Oregon,Douglas,124.25000000000001,Count,41019,2115
+Oregon,Gilliam,4.0,Count,41021,2121
+Oregon,Grant,16.0,Count,41023,2130
+Oregon,Harney,8.75,Count,41025,2134
+Oregon,Hood River,18.25,Count,41027,2138
+Oregon,Jackson,156.75000000000003,Count,41029,2139
+Oregon,Jefferson,20.75,Count,41031,2143
+Oregon,Josephine,79.08333333333331,Count,41033,2152
+Oregon,Klamath,63.666666666666664,Count,41035,2155
+Oregon,Lake,12.083333333333334,Count,41037,2159
+Oregon,Lane,302.5,Count,41039,2170
+Oregon,Lincoln,51.74999999999999,Count,41041,2174
+Oregon,Linn,101.41666666666666,Count,41043,2181
+Oregon,Malheur,30.583333333333332,Count,41045,2185
+Oregon,Marion,243.83333333333331,Count,41047,2200
+Oregon,Morrow,7.0,Count,41049,2209
+Oregon,Multnomah,619.5833333333333,Count,41051,2218
+Oregon,Polk,44.083333333333336,Count,41053,2223
+Oregon,Sherman,5.666666666666667,Count,41055,2232
+Oregon,Tillamook,32.25,Count,41057,2242
+Oregon,Umatilla,67.41666666666666,Count,41059,2251
+Oregon,Union,25.5,Count,41061,2257
+Oregon,Wallowa,6.416666666666667,Count,41063,2263
+Oregon,Wasco,21.25,Count,41065,2267
+Oregon,Washington,292.1666666666666,Count,41067,2272
+Oregon,Wheeler,2.0,Count,41069,2277
+Oregon,Yamhill,70.16666666666667,Count,41071,2284
+Pennsylvania,Adams,52.91666666666666,Count,42001,2292
+Pennsylvania,Allegheny,820.5833333333336,Count,42003,2302
+Pennsylvania,Armstrong,45.833333333333336,Count,42005,2309
+Pennsylvania,Beaver,125.91666666666667,Count,42007,2321
+Pennsylvania,Bedford,37.833333333333336,Count,42009,2324
+Pennsylvania,Berks,321.08333333333337,Count,42011,2326
+Pennsylvania,Blair,119.33333333333334,Count,42013,2328
+Pennsylvania,Bradford,61.91666666666667,Count,42015,2333
+Pennsylvania,Bucks,297.00000000000006,Count,42017,2336
+Pennsylvania,Butler,113.0,Count,42019,2338
+Pennsylvania,Cambria,110.0,Count,42021,2341
+Pennsylvania,Cameron,4.0,Count,42023,2343
+Pennsylvania,Carbon,36.66666666666667,Count,42025,2349
+Pennsylvania,Centre,62.333333333333336,Count,42027,2354
+Pennsylvania,Chester,214.41666666666669,Count,42029,2360
+Pennsylvania,Clarion,40.16666666666667,Count,42031,2366
+Pennsylvania,Clearfield,65.91666666666666,Count,42033,2372
+Pennsylvania,Clinton,32.5,Count,42035,2379
+Pennsylvania,Columbia,52.50000000000001,Count,42037,2385
+Pennsylvania,Crawford,70.75,Count,42039,2389
+Pennsylvania,Cumberland,149.91666666666663,Count,42041,2397
+Pennsylvania,Dauphin,230.8333333333333,Count,42043,2403
+Pennsylvania,Delaware,381.5833333333332,Count,42045,2414
+Pennsylvania,Elk,26.0,Count,42047,2420
+Pennsylvania,Erie,223.5,Count,42049,2425
+Pennsylvania,Fayette,128.16666666666669,Count,42051,2431
+Pennsylvania,Forest,4.666666666666667,Count,42053,2436
+Pennsylvania,Franklin,95.08333333333333,Count,42055,2439
+Pennsylvania,Fulton,8.5,Count,42057,2446
+Pennsylvania,Greene,32.91666666666667,Count,42059,2447
+Pennsylvania,Huntingdon,33.75,Count,42061,2454
+Pennsylvania,Indiana,55.666666666666664,Count,42063,2459
+Pennsylvania,Jefferson,38.74999999999999,Count,42065,2462
+Pennsylvania,Juniata,22.166666666666668,Count,42067,2466
+Pennsylvania,Lackawanna,176.83333333333331,Count,42069,2471
+Pennsylvania,Lancaster,326.41666666666663,Count,42071,2482
+Pennsylvania,Lawrence,77.5,Count,42073,2488
+Pennsylvania,Lebanon,89.58333333333331,Count,42075,2492
+Pennsylvania,Lehigh,263.33333333333337,Count,42077,2496
+Pennsylvania,Luzerne,283.99999999999994,Count,42079,2501
+Pennsylvania,Lycoming,81.75,Count,42081,2505
+Pennsylvania,McKean,43.33333333333333,Count,42083,2509
+Pennsylvania,Mercer,94.08333333333336,Count,42085,2513
+Pennsylvania,Mifflin,40.75,Count,42087,2517
+Pennsylvania,Monroe,102.0,Count,42089,2521
+Pennsylvania,Montgomery,394.16666666666663,Count,42091,2528
+Pennsylvania,Montour,12.416666666666666,Count,42093,2533
+Pennsylvania,Northampton,176.25000000000003,Count,42095,2537
+Pennsylvania,Northumberland,73.75,Count,42097,2544
+Pennsylvania,Perry,33.91666666666667,Count,42099,2554
+Pennsylvania,Philadelphia,1757.5,Count,42101,2563
+Pennsylvania,Pike,23.916666666666668,Count,42103,2571
+Pennsylvania,Potter,19.583333333333336,Count,42105,2575
+Pennsylvania,Schuylkill,121.91666666666666,Count,42107,2581
+Pennsylvania,Snyder,32.166666666666664,Count,42109,2583
+Pennsylvania,Somerset,59.583333333333336,Count,42111,2589
+Pennsylvania,Sullivan,9.166666666666668,Count,42113,2293
+Pennsylvania,Susquehanna,17.916666666666664,Count,42115,2298
+Pennsylvania,Tioga,31.75,Count,42117,2305
+Pennsylvania,Union,27.333333333333332,Count,42119,2313
+Pennsylvania,Venango,40.5,Count,42121,2316
+Pennsylvania,Warren,28.25,Count,42123,2322
+Pennsylvania,Washington,129.83333333333334,Count,42125,2346
+Pennsylvania,Wayne,42.83333333333333,Count,42127,2363
+Pennsylvania,Westmoreland,236.75000000000003,Count,42129,2394
+Pennsylvania,Wyoming,19.0,Count,42131,2407
+Pennsylvania,York,277.83333333333337,Count,42133,2419
+Rhode Island,Bristol,26.833333333333336,Count,44001,2433
+Rhode Island,Kent,120.00000000000001,Count,44003,2444
+Rhode Island,Newport,50.416666666666664,Count,44005,2460
+Rhode Island,Providence,567.3333333333334,Count,44007,2475
+Rhode Island,Washington,76.08333333333334,Count,44009,2484
+South Carolina,Abbeville,20.25,Count,45001,2489
+South Carolina,Aiken,171.5,Count,45003,2503
+South Carolina,Allendale,13.833333333333334,Count,45005,2527
+South Carolina,Anderson,214.8333333333334,Count,45007,2559
+South Carolina,Bamberg,22.916666666666668,Count,45009,2592
+South Carolina,Barnwell,28.5,Count,45011,2605
+South Carolina,Beaufort,119.83333333333337,Count,45013,2626
+South Carolina,Berkeley,133.58333333333337,Count,45015,2631
+South Carolina,Calhoun,13.833333333333334,Count,45017,2635
+South Carolina,Charleston,335.75000000000006,Count,45019,2691
+South Carolina,Cherokee,70.5,Count,45021,2700
+South Carolina,Chester,40.99999999999999,Count,45023,2704
+South Carolina,Chesterfield,50.166666666666664,Count,45025,2708
+South Carolina,Clarendon,40.83333333333333,Count,45027,2715
+South Carolina,Colleton,60.083333333333336,Count,45029,2718
+South Carolina,Darlington,76.41666666666669,Count,45031,2721
+South Carolina,Dillon,42.25000000000001,Count,45033,2725
+South Carolina,Dorchester,104.99999999999999,Count,45035,2730
+South Carolina,Edgefield,13.333333333333334,Count,45037,2735
+South Carolina,Fairfield,22.916666666666664,Count,45039,2738
+South Carolina,Florence,159.33333333333337,Count,45041,2742
+South Carolina,Georgetown,69.41666666666666,Count,45043,2752
+South Carolina,Greenville,428.4166666666667,Count,45045,2759
+South Carolina,Greenwood,86.66666666666666,Count,45047,2764
+South Carolina,Hampton,34.58333333333333,Count,45049,2767
+South Carolina,Horry,356.58333333333326,Count,45051,2774
+South Carolina,Jasper,38.333333333333336,Count,45053,2783
+South Carolina,Kershaw,67.33333333333334,Count,45055,2787
+South Carolina,Lancaster,85.66666666666669,Count,45057,2790
+South Carolina,Laurens,75.16666666666667,Count,45059,2794
+South Carolina,Lee,21.083333333333332,Count,45061,2800
+South Carolina,Lexington,277.33333333333314,Count,45063,2803
+South Carolina,McCormick,10.083333333333334,Count,45065,2807
+South Carolina,Marion,39.25,Count,45067,2811
+South Carolina,Marlboro,40.083333333333336,Count,45069,2813
+South Carolina,Newberry,40.333333333333336,Count,45071,2818
+South Carolina,Oconee,76.83333333333333,Count,45073,2822
+South Carolina,Orangeburg,131.75,Count,45075,2829
+South Carolina,Pickens,104.66666666666666,Count,45077,2834
+South Carolina,Richland,326.6666666666669,Count,45079,2843
+South Carolina,Saluda,18.416666666666664,Count,45081,2846
+South Carolina,Spartanburg,316.3333333333334,Count,45083,2851
+South Carolina,Sumter,132.41666666666666,Count,45085,2855
+South Carolina,Union,34.916666666666664,Count,45087,2860
+South Carolina,Williamsburg,45.66666666666667,Count,45089,2864
+South Carolina,York,197.33333333333331,Count,45091,2867
+South Dakota,Aurora,2.166666666666667,Count,46003,2870
+South Dakota,Beadle,18.5,Count,46005,2874
+South Dakota,Bennett,8.666666666666666,Count,46007,2876
+South Dakota,Bon Homme,5.75,Count,46009,2879
+South Dakota,Brookings,19.166666666666668,Count,46011,2882
+South Dakota,Brown,16.083333333333336,Count,46013,2885
+South Dakota,Brule,5.333333333333334,Count,46015,2888
+South Dakota,Buffalo,2.166666666666667,Count,46017,2891
+South Dakota,Butte,9.916666666666668,Count,46019,2895
+South Dakota,Campbell,2.0,Count,46021,2897
+South Dakota,Charles Mix,13.583333333333334,Count,46023,2900
+South Dakota,Clark,3.0,Count,46025,2901
+South Dakota,Clay,6.916666666666666,Count,46027,2903
+South Dakota,Codington,14.0,Count,46029,2906
+South Dakota,Corson,7.0,Count,46031,2907
+South Dakota,Custer,7.25,Count,46033,2908
+South Dakota,Davison,16.75,Count,46035,2910
+South Dakota,Day,7.0,Count,46037,2911
+South Dakota,Deuel,3.0,Count,46039,2912
+South Dakota,Dewey,7.083333333333334,Count,46041,2914
+South Dakota,Douglas,3.0,Count,46043,2916
+South Dakota,Edmunds,4.0,Count,46045,2917
+South Dakota,Fall River,7.333333333333333,Count,46047,2919
+South Dakota,Faulk,1.0,Count,46049,2921
+South Dakota,Grant,6.0,Count,46051,2922
+South Dakota,Gregory,7.0,Count,46053,2923
+South Dakota,Haakon,2.0,Count,46055,2924
+South Dakota,Hamlin,5.0,Count,46057,2926
+South Dakota,Hand,1.0,Count,46059,2928
+South Dakota,Hanson,1.0,Count,46061,2929
+South Dakota,Harding,1.0,Count,46063,2931
+South Dakota,Hughes,9.0,Count,46065,2933
+South Dakota,Hutchinson,8.666666666666668,Count,46067,2934
+South Dakota,Hyde,2.0,Count,46069,2937
+South Dakota,Jackson,7.0,Count,46071,2939
+South Dakota,Jerauld,1.1666666666666667,Count,46073,2941
+South Dakota,Jones,2.5833333333333335,Count,46075,2944
+South Dakota,Kingsbury,5.083333333333334,Count,46077,2945
+South Dakota,Lake,6.0,Count,46079,2401
+South Dakota,Lawrence,18.25,Count,46081,2406
+South Dakota,Lincoln,24.333333333333336,Count,46083,2410
+South Dakota,Lyman,5.0,Count,46085,2417
+South Dakota,McCook,4.666666666666666,Count,46087,2422
+South Dakota,McPherson,2.083333333333333,Count,46089,2426
+South Dakota,Marshall,3.0,Count,46091,2430
+South Dakota,Meade,17.083333333333336,Count,46093,2442
+South Dakota,Mellette,2.0,Count,46095,2450
+South Dakota,Miner,1.3333333333333333,Count,46097,2456
+South Dakota,Minnehaha,158.16666666666669,Count,46099,2467
+South Dakota,Moody,3.0,Count,46101,2485
+South Dakota,Pennington,75.0,Count,46103,2497
+South Dakota,Perkins,4.0,Count,46105,2502
+South Dakota,Potter,4.666666666666666,Count,46107,2506
+South Dakota,Roberts,11.750000000000002,Count,46109,2511
+South Dakota,Sanborn,1.0,Count,46111,2514
+South Dakota,Shannon,nan,Count,46113,2519
+South Dakota,Spink,5.666666666666666,Count,46115,2523
+South Dakota,Stanley,2.25,Count,46117,2530
+South Dakota,Sully,2.0,Count,46119,2535
+South Dakota,Todd,11.916666666666668,Count,46121,2540
+South Dakota,Tripp,11.0,Count,46123,2546
+South Dakota,Turner,4.0,Count,46125,2550
+South Dakota,Union,7.333333333333333,Count,46127,2557
+South Dakota,Walworth,9.333333333333332,Count,46129,2561
+South Dakota,Yankton,14.416666666666666,Count,46135,2569
+South Dakota,Ziebach,1.0,Count,46137,2578
+Tennessee,Anderson,79.75,Count,47001,2584
+Tennessee,Bedford,44.41666666666667,Count,47003,2593
+Tennessee,Benton,17.916666666666668,Count,47005,2598
+Tennessee,Bledsoe,14.083333333333334,Count,47007,2602
+Tennessee,Blount,97.66666666666666,Count,47009,2622
+Tennessee,Bradley,115.99999999999999,Count,47011,2627
+Tennessee,Campbell,44.66666666666667,Count,47013,2633
+Tennessee,Cannon,11.0,Count,47015,2638
+Tennessee,Carroll,35.08333333333333,Count,47017,2648
+Tennessee,Carter,53.99999999999999,Count,47019,2654
+Tennessee,Cheatham,39.41666666666667,Count,47021,2660
+Tennessee,Chester,17.5,Count,47023,2664
+Tennessee,Claiborne,33.0,Count,47025,2670
+Tennessee,Clay,9.916666666666668,Count,47027,2679
+Tennessee,Cocke,50.25,Count,47029,2686
+Tennessee,Coffee,76.58333333333334,Count,47031,2689
+Tennessee,Crockett,15.666666666666668,Count,47033,2693
+Tennessee,Cumberland,65.08333333333333,Count,47035,2696
+Tennessee,Davidson,589.5833333333335,Count,47037,2698
+Tennessee,Decatur,13.833333333333332,Count,47039,2705
+Tennessee,DeKalb,18.75,Count,47041,2710
+Tennessee,Dickson,62.0,Count,47043,2717
+Tennessee,Dyer,46.583333333333336,Count,47045,2723
+Tennessee,Fayette,30.416666666666668,Count,47047,2726
+Tennessee,Fentress,19.833333333333336,Count,47049,2731
+Tennessee,Franklin,36.833333333333336,Count,47051,2734
+Tennessee,Gibson,58.583333333333336,Count,47053,2739
+Tennessee,Giles,34.16666666666667,Count,47055,2743
+Tennessee,Grainger,25.5,Count,47057,2748
+Tennessee,Greene,87.0,Count,47059,2750
+Tennessee,Grundy,25.333333333333336,Count,47061,2754
+Tennessee,Hamblen,79.75,Count,47063,2757
+Tennessee,Hamilton,361.25,Count,47065,2761
+Tennessee,Hancock,7.75,Count,47067,2766
+Tennessee,Hardeman,25.41666666666667,Count,47069,2770
+Tennessee,Hardin,30.000000000000004,Count,47071,2773
+Tennessee,Hawkins,53.00000000000001,Count,47073,2779
+Tennessee,Haywood,28.25,Count,47075,2781
+Tennessee,Henderson,23.833333333333336,Count,47077,2786
+Tennessee,Henry,31.166666666666668,Count,47079,2789
+Tennessee,Hickman,20.166666666666668,Count,47081,2792
+Tennessee,Houston,7.833333333333334,Count,47083,2796
+Tennessee,Humphreys,16.0,Count,47085,2798
+Tennessee,Jackson,8.5,Count,47087,2801
+Tennessee,Jefferson,47.41666666666667,Count,47089,2804
+Tennessee,Johnson,19.25,Count,47091,2808
+Tennessee,Knox,376.91666666666663,Count,47093,2814
+Tennessee,Lake,8.0,Count,47095,2817
+Tennessee,Lauderdale,25.08333333333333,Count,47097,2821
+Tennessee,Lawrence,46.58333333333333,Count,47099,2823
+Tennessee,Lewis,15.333333333333334,Count,47101,2825
+Tennessee,Lincoln,30.500000000000004,Count,47103,2828
+Tennessee,Loudon,45.833333333333336,Count,47105,2830
+Tennessee,McMinn,61.916666666666664,Count,47107,2833
+Tennessee,McNairy,28.75,Count,47109,2836
+Tennessee,Macon,22.25,Count,47111,2839
+Tennessee,Madison,108.08333333333333,Count,47113,2841
+Tennessee,Marion,33.0,Count,47115,2844
+Tennessee,Marshall,31.916666666666664,Count,47117,2848
+Tennessee,Maury,92.91666666666669,Count,47119,2850
+Tennessee,Meigs,16.666666666666664,Count,47121,2854
+Tennessee,Monroe,58.91666666666667,Count,47123,2857
+Tennessee,Montgomery,118.83333333333331,Count,47125,2859
+Tennessee,Moore,4.916666666666666,Count,47127,2863
+Tennessee,Morgan,22.416666666666668,Count,47129,2866
+Tennessee,Obion,27.5,Count,47131,2872
+Tennessee,Overton,24.833333333333332,Count,47133,2875
+Tennessee,Perry,7.25,Count,47135,2878
+Tennessee,Pickett,5.75,Count,47137,2881
+Tennessee,Polk,19.0,Count,47139,2883
+Tennessee,Putnam,91.58333333333333,Count,47141,2890
+Tennessee,Rhea,36.5,Count,47143,2893
+Tennessee,Roane,52.00000000000001,Count,47145,2001
+Tennessee,Robertson,60.50000000000001,Count,47147,2011
+Tennessee,Rutherford,213.50000000000006,Count,47149,2015
+Tennessee,Scott,24.083333333333332,Count,47151,2020
+Tennessee,Sequatchie,19.083333333333332,Count,47153,2025
+Tennessee,Sevier,114.83333333333334,Count,47155,2030
+Tennessee,Shelby,876.4166666666664,Count,47157,2033
+Tennessee,Smith,16.333333333333332,Count,47159,2037
+Tennessee,Stewart,12.916666666666666,Count,47161,2041
+Tennessee,Sullivan,138.75,Count,47163,2046
+Tennessee,Sumner,129.16666666666666,Count,47165,2050
+Tennessee,Tipton,45.08333333333333,Count,47167,2055
+Tennessee,Trousdale,9.0,Count,47169,2062
+Tennessee,Unicoi,16.0,Count,47171,2069
+Tennessee,Union,16.416666666666664,Count,47173,2073
+Tennessee,Van Buren,5.0,Count,47175,2077
+Tennessee,Warren,41.5,Count,47177,2081
+Tennessee,Washington,111.75,Count,47179,2085
+Tennessee,Wayne,14.0,Count,47181,2089
+Tennessee,Weakley,34.583333333333336,Count,47183,2096
+Tennessee,White,27.583333333333332,Count,47185,2100
+Tennessee,Williamson,100.00000000000001,Count,47187,2105
+Tennessee,Wilson,88.08333333333334,Count,47189,2111
+Texas,Anderson,37.33333333333333,Count,48001,2113
+Texas,Andrews,9.833333333333334,Count,48003,2117
+Texas,Angelina,67.58333333333333,Count,48005,2124
+Texas,Aransas,14.999999999999998,Count,48007,2162
+Texas,Archer,5.75,Count,48009,2168
+Texas,Armstrong,1.0,Count,48011,2172
+Texas,Atascosa,40.91666666666667,Count,48013,2173
+Texas,Austin,27.666666666666668,Count,48015,2177
+Texas,Bailey,7.0,Count,48017,2179
+Texas,Bandera,13.5,Count,48019,2183
+Texas,Bastrop,68.25,Count,48021,2190
+Texas,Baylor,5.25,Count,48023,2192
+Texas,Bee,24.666666666666664,Count,48025,2196
+Texas,Bell,260.16666666666674,Count,48027,2198
+Texas,Bexar,1208.2499999999993,Count,48029,2203
+Texas,Blanco,7.833333333333333,Count,48031,2207
+Texas,Borden,nan,Count,48033,2212
+Texas,Bosque,23.5,Count,48035,2216
+Texas,Bowie,80.58333333333334,Count,48037,2224
+Texas,Brazoria,184.0,Count,48039,2240
+Texas,Brazos,116.0,Count,48041,2253
+Texas,Brewster,9.0,Count,48043,2262
+Texas,Briscoe,3.6666666666666665,Count,48045,2269
+Texas,Brooks,9.333333333333332,Count,48047,2279
+Texas,Brown,42.41666666666667,Count,48049,2296
+Texas,Burleson,20.333333333333336,Count,48051,2304
+Texas,Burnet,33.16666666666667,Count,48053,2312
+Texas,Caldwell,26.25,Count,48055,2320
+Texas,Calhoun,25.000000000000004,Count,48057,2327
+Texas,Callahan,13.416666666666666,Count,48059,2331
+Texas,Cameron,383.0,Count,48061,2359
+Texas,Camp,12.583333333333334,Count,48063,2373
+Texas,Carson,8.916666666666668,Count,48065,2377
+Texas,Cass,29.166666666666664,Count,48067,2382
+Texas,Castro,5.666666666666666,Count,48069,2386
+Texas,Chambers,23.333333333333332,Count,48071,2395
+Texas,Cherokee,33.833333333333336,Count,48073,2400
+Texas,Childress,5.666666666666666,Count,48075,2405
+Texas,Clay,3.0,Count,48077,2409
+Texas,Cochran,3.8333333333333335,Count,48079,2413
+Texas,Coke,6.0,Count,48081,2418
+Texas,Coleman,10.666666666666666,Count,48083,2423
+Texas,Collin,404.08333333333337,Count,48085,2429
+Texas,Collingsworth,4.0,Count,48087,2434
+Texas,Colorado,19.916666666666664,Count,48089,2441
+Texas,Comal,80.16666666666667,Count,48091,2449
+Texas,Comanche,13.0,Count,48093,2455
+Texas,Concho,3.8333333333333335,Count,48095,2458
+Texas,Cooke,22.916666666666668,Count,48097,2463
+Texas,Coryell,37.25,Count,48099,2469
+Texas,Cottle,2.25,Count,48101,2473
+Texas,Crane,5.416666666666666,Count,48103,2478
+Texas,Crockett,3.0,Count,48105,2483
+Texas,Crosby,10.25,Count,48107,2487
+Texas,Culberson,4.666666666666666,Count,48109,2491
+Texas,Dallam,9.0,Count,48111,2498
+Texas,Dallas,1590.0000000000002,Count,48113,2507
+Texas,Dawson,11.583333333333334,Count,48115,2512
+Texas,Deaf Smith,16.75,Count,48117,2515
+Texas,Delta,4.333333333333334,Count,48119,2524
+Texas,Denton,291.0,Count,48121,2532
+Texas,DeWitt,14.5,Count,48123,2538
+Texas,Dickens,2.0,Count,48125,2542
+Texas,Dimmit,15.666666666666666,Count,48127,2548
+Texas,Donley,5.0,Count,48129,2551
+Texas,Duval,15.666666666666666,Count,48131,2556
+Texas,Eastland,26.5,Count,48133,2562
+Texas,Ector,110.58333333333333,Count,48135,2568
+Texas,Edwards,2.8333333333333335,Count,48137,2574
+Texas,Ellis,82.91666666666667,Count,48139,2579
+Texas,El Paso,628.5833333333333,Count,48141,2588
+Texas,Erath,30.166666666666664,Count,48143,2597
+Texas,Falls,17.083333333333336,Count,48145,2601
+Texas,Fannin,26.416666666666664,Count,48147,2621
+Texas,Fayette,13.333333333333334,Count,48149,2624
+Texas,Fisher,5.333333333333333,Count,48151,2628
+Texas,Floyd,6.0,Count,48153,2630
+Texas,Foard,1.0,Count,48155,2002
+Texas,Fort Bend,277.16666666666663,Count,48157,2009
+Texas,Franklin,8.5,Count,48159,2016
+Texas,Freestone,15.083333333333332,Count,48161,2022
+Texas,Frio,15.333333333333334,Count,48163,2028
+Texas,Gaines,12.833333333333332,Count,48165,2032
+Texas,Galveston,229.41666666666666,Count,48167,2059
+Texas,Garza,6.0,Count,48169,2060
+Texas,Gillespie,9.5,Count,48171,2066
+Texas,Glasscock,nan,Count,48173,2072
+Texas,Goliad,4.0,Count,48175,2079
+Texas,Gonzales,17.083333333333332,Count,48177,2086
+Texas,Gray,21.0,Count,48179,2088
+Texas,Grayson,104.5,Count,48181,2094
+Texas,Gregg,113.58333333333336,Count,48183,2101
+Texas,Grimes,23.166666666666668,Count,48185,2108
+Texas,Guadalupe,76.75000000000001,Count,48187,2116
+Texas,Hale,29.0,Count,48189,2120
+Texas,Hall,5.0,Count,48191,2125
+Texas,Hamilton,9.0,Count,48193,2128
+Texas,Hansford,5.0,Count,48195,2132
+Texas,Hardeman,5.416666666666667,Count,48197,2137
+Texas,Hardin,38.16666666666667,Count,48199,2142
+Texas,Harris,2765.7500000000014,Count,48201,2149
+Texas,Harrison,44.66666666666667,Count,48203,2157
+Texas,Hartley,2.0,Count,48205,2160
+Texas,Haskell,6.416666666666666,Count,48207,2163
+Texas,Hays,93.16666666666666,Count,48209,2166
+Texas,Hemphill,5.0,Count,48211,2171
+Texas,Henderson,59.5,Count,48213,2178
+Texas,Hidalgo,831.6666666666664,Count,48215,2188
+Texas,Hill,43.416666666666664,Count,48217,2201
+Texas,Hockley,14.0,Count,48219,2208
+Texas,Hood,46.5,Count,48221,2213
+Texas,Hopkins,26.0,Count,48223,2221
+Texas,Houston,20.166666666666668,Count,48225,2228
+Texas,Howard,22.583333333333332,Count,48227,2231
+Texas,Hudspeth,6.333333333333333,Count,48229,2241
+Texas,Hunt,73.5,Count,48231,2246
+Texas,Hutchinson,24.916666666666664,Count,48233,2249
+Texas,Irion,1.6666666666666665,Count,48235,2255
+Texas,Jack,8.0,Count,48237,2256
+Texas,Jackson,12.0,Count,48239,2264
+Texas,Jasper,35.75,Count,48241,2271
+Texas,Jeff Davis,2.0,Count,48243,2275
+Texas,Jefferson,228.1666666666666,Count,48245,2285
+Texas,Jim Hogg,7.0,Count,48247,2288
+Texas,Jim Wells,41.58333333333333,Count,48249,2294
+Texas,Johnson,109.41666666666667,Count,48251,2299
+Texas,Jones,14.833333333333334,Count,48253,2301
+Texas,Karnes,12.083333333333334,Count,48255,2307
+Texas,Kaufman,77.08333333333334,Count,48257,2314
+Texas,Kendall,17.75,Count,48259,2319
+Texas,Kenedy,nan,Count,48261,2330
+Texas,Kent,1.0,Count,48263,2335
+Texas,Kerr,40.0,Count,48265,2337
+Texas,Kimble,5.666666666666667,Count,48267,2339
+Texas,King,nan,Count,48269,2342
+Texas,Kinney,3.0,Count,48271,2347
+Texas,Kleberg,32.08333333333333,Count,48273,2358
+Texas,Knox,5.666666666666666,Count,48275,2364
+Texas,Lamar,50.416666666666664,Count,48277,2371
+Texas,Lamb,15.0,Count,48279,2376
+Texas,Lampasas,14.0,Count,48281,2381
+Texas,La Salle,13.083333333333334,Count,48283,2388
+Texas,Lavaca,16.25,Count,48285,2392
+Texas,Lee,13.333333333333332,Count,48287,2398
+Texas,Leon,18.0,Count,48289,2402
+Texas,Liberty,68.33333333333333,Count,48291,2404
+Texas,Limestone,22.0,Count,48293,2408
+Texas,Lipscomb,4.0,Count,48295,2412
+Texas,Live Oak,12.416666666666668,Count,48297,2416
+Texas,Llano,15.0,Count,48299,2421
+Texas,Loving,nan,Count,48301,2424
+Texas,Lubbock,172.91666666666669,Count,48303,2428
+Texas,Lynn,5.0,Count,48305,2438
+Texas,McCulloch,8.75,Count,48307,2452
+Texas,McLennan,192.4999999999999,Count,48309,2477
+Texas,McMullen,0.6666666666666666,Count,48311,2494
+Texas,Madison,10.416666666666668,Count,48313,2526
+Texas,Marion,8.916666666666666,Count,48315,2547
+Texas,Martin,2.0,Count,48317,2564
+Texas,Mason,3.0,Count,48319,2570
+Texas,Matagorda,41.5,Count,48321,2637
+Texas,Maverick,48.66666666666667,Count,48323,2649
+Texas,Medina,39.166666666666664,Count,48325,2652
+Texas,Menard,2.0,Count,48327,2655
+Texas,Midland,78.66666666666666,Count,48329,2657
+Texas,Milam,25.833333333333332,Count,48331,2659
+Texas,Mills,3.0,Count,48333,2663
+Texas,Mitchell,7.0,Count,48335,2666
+Texas,Montague,11.666666666666668,Count,48337,2669
+Texas,Montgomery,272.5833333333333,Count,48339,2682
+Texas,Moore,25.916666666666664,Count,48341,2683
+Texas,Morris,9.333333333333334,Count,48343,2688
+Texas,Motley,2.166666666666667,Count,48345,2692
+Texas,Nacogdoches,40.25,Count,48347,2701
+Texas,Navarro,41.666666666666664,Count,48349,2706
+Texas,Newton,9.75,Count,48351,2711
+Texas,Nolan,15.166666666666668,Count,48353,2714
+Texas,Nueces,280.08333333333337,Count,48355,2194
+Texas,Ochiltree,9.0,Count,48357,2204
+Texas,Oldham,2.75,Count,48359,2210
+Texas,Orange,84.41666666666664,Count,48361,2214
+Texas,Palo Pinto,31.833333333333332,Count,48363,2220
+Texas,Panola,20.916666666666668,Count,48365,2227
+Texas,Parker,57.24999999999999,Count,48367,2229
+Texas,Parmer,9.0,Count,48369,2235
+Texas,Pecos,15.166666666666666,Count,48371,2239
+Texas,Polk,45.333333333333336,Count,48373,2243
+Texas,Potter,123.50000000000001,Count,48375,2247
+Texas,Presidio,9.916666666666668,Count,48377,2261
+Texas,Rains,10.25,Count,48379,2268
+Texas,Randall,68.0,Count,48381,2274
+Texas,Reagan,4.75,Count,48383,2280
+Texas,Real,6.916666666666666,Count,48385,2283
+Texas,Red River,14.5,Count,48387,2295
+Texas,Reeves,10.916666666666668,Count,48389,2308
+Texas,Refugio,8.583333333333332,Count,48391,2334
+Texas,Roberts,nan,Count,48393,2348
+Texas,Robertson,19.666666666666664,Count,48395,2353
+Texas,Rockwall,40.583333333333336,Count,48397,2355
+Texas,Runnels,14.416666666666668,Count,48399,2361
+Texas,Rusk,22.583333333333332,Count,48401,2367
+Texas,Sabine,10.666666666666668,Count,48403,2370
+Texas,San Augustine,8.083333333333332,Count,48405,2380
+Texas,San Jacinto,24.333333333333332,Count,48407,2387
+Texas,San Patricio,59.33333333333333,Count,48409,2415
+Texas,San Saba,4.0,Count,48411,2435
+Texas,Schleicher,3.0,Count,48413,2437
+Texas,Scurry,12.5,Count,48415,2443
+Texas,Shackelford,3.0,Count,48417,2445
+Texas,Shelby,23.25,Count,48419,2448
+Texas,Sherman,4.666666666666667,Count,48421,2453
+Texas,Smith,148.83333333333337,Count,48423,2465
+Texas,Somervell,6.5,Count,48425,2470
+Texas,Starr,101.91666666666667,Count,48427,2474
+Texas,Stephens,11.0,Count,48429,2480
+Texas,Sterling,3.0,Count,48431,2481
+Texas,Stonewall,2.0,Count,48433,2486
+Texas,Sutton,9.916666666666666,Count,48435,2490
+Texas,Swisher,7.166666666666667,Count,48437,2495
+Texas,Tarrant,1237.9166666666663,Count,48439,2500
+Texas,Taylor,123.41666666666667,Count,48441,2508
+Texas,Terrell,1.0,Count,48443,2518
+Texas,Terry,9.0,Count,48445,2522
+Texas,Throckmorton,2.0,Count,48447,2525
+Texas,Titus,28.583333333333332,Count,48449,2531
+Texas,Tom Green,76.0,Count,48451,2536
+Texas,Travis,619.2500000000001,Count,48453,2543
+Texas,Trinity,16.083333333333336,Count,48455,2553
+Texas,Tyler,23.333333333333332,Count,48457,2560
+Texas,Upshur,21.75,Count,48459,2566
+Texas,Upton,5.0,Count,48461,2572
+Texas,Uvalde,26.75,Count,48463,2576
+Texas,Val Verde,34.0,Count,48465,2582
+Texas,Van Zandt,29.999999999999996,Count,48467,2586
+Texas,Victoria,74.91666666666666,Count,48469,2595
+Texas,Walker,44.24999999999999,Count,48471,2603
+Texas,Waller,28.916666666666668,Count,48473,2606
+Texas,Ward,10.5,Count,48475,2610
+Texas,Washington,25.416666666666664,Count,48477,2613
+Texas,Webb,182.33333333333334,Count,48479,2616
+Texas,Wharton,42.08333333333333,Count,48481,2618
+Texas,Wheeler,7.833333333333334,Count,48483,2623
+Texas,Wichita,98.58333333333333,Count,48485,2632
+Texas,Wilbarger,11.0,Count,48487,2634
+Texas,Willacy,24.666666666666668,Count,48489,2639
+Texas,Williamson,223.66666666666669,Count,48491,2640
+Texas,Wilson,25.333333333333332,Count,48493,2641
+Texas,Winkler,8.833333333333332,Count,48495,2642
+Texas,Wise,41.166666666666664,Count,48497,2643
+Texas,Wood,32.25,Count,48499,2644
+Texas,Yoakum,10.083333333333332,Count,48501,2645
+Texas,Young,12.5,Count,48503,2646
+Texas,Zapata,25.083333333333336,Count,48505,2650
+Texas,Zavala,10.083333333333332,Count,48507,2651
+Utah,Beaver,5.166666666666667,Count,49001,2653
+Utah,Box Elder,26.583333333333336,Count,49003,2658
+Utah,Cache,42.833333333333336,Count,49005,2661
+Utah,Carbon,15.0,Count,49007,2665
+Utah,Daggett,0.9166666666666666,Count,49009,2668
+Utah,Davis,111.83333333333333,Count,49011,2671
+Utah,Duchesne,15.666666666666666,Count,49013,2672
+Utah,Emery,12.5,Count,49015,2673
+Utah,Garfield,5.916666666666666,Count,49017,2674
+Utah,Grand,15.5,Count,49019,2675
+Utah,Iron,19.0,Count,49021,2676
+Utah,Juab,8.333333333333334,Count,49023,2677
+Utah,Kane,5.5,Count,49025,2678
+Utah,Millard,11.416666666666666,Count,49027,2680
+Utah,Morgan,3.5,Count,49029,2681
+Utah,Piute,3.0,Count,49031,2685
+Utah,Rich,3.0,Count,49033,2687
+Utah,Salt Lake,549.5833333333333,Count,49035,2690
+Utah,San Juan,15.916666666666668,Count,49037,2694
+Utah,Sanpete,14.0,Count,49039,2697
+Utah,Sevier,15.666666666666668,Count,49041,2702
+Utah,Summit,20.166666666666668,Count,49043,2703
+Utah,Tooele,30.833333333333332,Count,49045,2707
+Utah,Uintah,18.333333333333332,Count,49047,2539
+Utah,Utah,181.08333333333331,Count,49049,2555
+Utah,Wasatch,12.166666666666666,Count,49051,2567
+Utah,Washington,61.916666666666664,Count,49053,2577
+Utah,Wayne,3.0,Count,49055,2580
+Utah,Weber,118.66666666666666,Count,49057,2587
+Vermont,Addison,27.499999999999996,Count,50001,2590
+Vermont,Bennington,39.25,Count,50003,2591
+Vermont,Caledonia,38.58333333333333,Count,50005,2596
+Vermont,Chittenden,145.0,Count,50007,2599
+Vermont,Essex,3.0,Count,50009,2604
+Vermont,Franklin,47.166666666666664,Count,50011,2607
+Vermont,Grand Isle,11.666666666666666,Count,50013,2609
+Vermont,Lamoille,26.333333333333332,Count,50015,2611
+Vermont,Orange,25.166666666666664,Count,50017,2612
+Vermont,Orleans,38.833333333333336,Count,50019,2614
+Vermont,Rutland,72.91666666666666,Count,50021,2615
+Vermont,Washington,59.416666666666664,Count,50023,2617
+Vermont,Windham,46.08333333333333,Count,50025,2620
+Vermont,Windsor,45.166666666666664,Count,50027,2625
+Virginia,Accomack,47.08333333333333,Count,51001,2719
+Virginia,Albemarle,52.75,Count,51003,2728
+Virginia,Alleghany,11.5,Count,51005,2733
+Virginia,Amelia,8.0,Count,51007,2741
+Virginia,Amherst,32.33333333333333,Count,51009,2746
+Virginia,Appomattox,13.25,Count,51011,2749
+Virginia,Arlington,88.66666666666669,Count,51013,2753
+Virginia,Augusta,38.33333333333333,Count,51015,2758
+Virginia,Bath,3.0,Count,51017,2763
+Virginia,Bedford County,48.0,Count,51019,2769
+Virginia,Bland,4.0,Count,51021,2772
+Virginia,Botetourt,21.0,Count,51023,2776
+Virginia,Brunswick,14.833333333333334,Count,51025,2777
+Virginia,Buchanan,26.249999999999996,Count,51027,2784
+Virginia,Buckingham,15.416666666666668,Count,51029,2785
+Virginia,Campbell,52.333333333333336,Count,51031,2788
+Virginia,Caroline,26.249999999999996,Count,51033,2793
+Virginia,Carroll,37.33333333333333,Count,51035,2797
+Virginia,Charles City,2.25,Count,51036,2806
+Virginia,Charlotte,13.250000000000002,Count,51037,2810
+Virginia,Chesterfield,188.74999999999997,Count,51041,2816
+Virginia,Clarke,9.916666666666668,Count,51043,2819
+Virginia,Craig,5.0,Count,51045,2820
+Virginia,Culpeper,33.083333333333336,Count,51047,2824
+Virginia,Cumberland,5.0,Count,51049,2827
+Virginia,Dickenson,20.0,Count,51051,2832
+Virginia,Dinwiddie,24.249999999999996,Count,51053,2838
+Virginia,Essex,14.416666666666666,Count,51057,2842
+Virginia,Fairfax County,368.66666666666674,Count,51059,2849
+Virginia,Fauquier,33.25,Count,51061,2853
+Virginia,Floyd,12.166666666666668,Count,51063,2856
+Virginia,Fluvanna,12.416666666666666,Count,51065,2858
+Virginia,Franklin County,47.0,Count,51067,2862
+Virginia,Frederick,47.91666666666667,Count,51069,2868
+Virginia,Giles,22.916666666666668,Count,51071,2873
+Virginia,Gloucester,28.333333333333332,Count,51073,2887
+Virginia,Goochland,13.416666666666666,Count,51075,2892
+Virginia,Grayson,11.583333333333332,Count,51077,2896
+Virginia,Greene,10.0,Count,51079,2899
+Virginia,Greensville,22.25,Count,51081,2902
+Virginia,Halifax,42.75,Count,51083,2904
+Virginia,Hanover,69.25,Count,51085,2909
+Virginia,Henrico,242.58333333333331,Count,51087,2915
+Virginia,Henry,72.66666666666666,Count,51089,2918
+Virginia,Highland,2.416666666666667,Count,51091,2920
+Virginia,Isle of Wight,27.583333333333332,Count,51093,2925
+Virginia,James City,47.5,Count,51095,2930
+Virginia,King and Queen,3.6666666666666665,Count,51097,2936
+Virginia,King George,19.5,Count,51099,2938
+Virginia,King William,10.583333333333332,Count,51101,2943
+Virginia,Lancaster,16.583333333333332,Count,51103,2948
+Virginia,Lee,32.166666666666664,Count,51105,2950
+Virginia,Loudoun,109.74999999999999,Count,51107,2952
+Virginia,Louisa,24.083333333333336,Count,51109,2953
+Virginia,Lunenburg,8.25,Count,51111,2954
+Virginia,Madison,10.0,Count,51113,2955
+Virginia,Mathews,5.0,Count,51115,2962
+Virginia,Mecklenburg,49.08333333333333,Count,51117,2964
+Virginia,Middlesex,11.75,Count,51119,2965
+Virginia,Montgomery,62.83333333333333,Count,51121,2966
+Virginia,Nelson,9.583333333333332,Count,51125,2968
+Virginia,New Kent,13.416666666666668,Count,51127,2971
+Virginia,Northampton,16.5,Count,51131,2982
+Virginia,Northumberland,11.25,Count,51133,2983
+Virginia,Nottoway,21.833333333333336,Count,51135,2984
+Virginia,Orange,28.5,Count,51137,2985
+Virginia,Page,19.333333333333336,Count,51139,2986
+Virginia,Patrick,15.666666666666666,Count,51141,2987
+Virginia,Pittsylvania,47.74999999999999,Count,51143,2988
+Virginia,Powhatan,7.0,Count,51145,2989
+Virginia,Prince Edward,22.833333333333336,Count,51147,2990
+Virginia,Prince George,14.916666666666664,Count,51149,2991
+Virginia,Prince William,187.91666666666669,Count,51153,2992
+Virginia,Pulaski,33.0,Count,51155,2993
+Virginia,Rappahannock,1.0,Count,51157,2994
+Virginia,Richmond County,6.916666666666666,Count,51159,2995
+Virginia,Roanoke County,45.75,Count,51161,2996
+Virginia,Rockbridge,18.083333333333336,Count,51163,2997
+Virginia,Rockingham,37.75,Count,51165,2998
+Virginia,Russell,22.916666666666664,Count,51167,2999
+Virginia,Scott,31.5,Count,51169,2585
+Virginia,Shenandoah,40.25,Count,51171,2594
+Virginia,Smyth,42.583333333333336,Count,51173,2600
+Virginia,Southampton,14.666666666666666,Count,51175,2608
+Virginia,Spotsylvania,86.08333333333333,Count,51177,2619
+Virginia,Stafford,68.33333333333333,Count,51179,2629
+Virginia,Surry,7.416666666666667,Count,51181,2636
+Virginia,Sussex,16.0,Count,51183,2647
+Virginia,Tazewell,51.0,Count,51185,2656
+Virginia,Warren,31.583333333333336,Count,51187,2662
+Virginia,Washington,62.49999999999999,Count,51191,2667
+Virginia,Westmoreland,18.583333333333336,Count,51193,2684
+Virginia,Wise,59.08333333333333,Count,51195,2695
+Virginia,Wythe,37.41666666666667,Count,51197,2699
+Virginia,York,39.83333333333333,Count,51199,2709
+Virginia,Alexandria,67.49999999999999,Count,51510,2712
+Virginia,Bedford City,3.0,Count,51515,2713
+Virginia,Bristol,29.5,Count,51520,2716
+Virginia,Buena Vista,7.5,Count,51530,2720
+Virginia,Charlottesville,46.083333333333336,Count,51540,2722
+Virginia,Chesapeake,163.33333333333334,Count,51550,2724
+Virginia,Colonial Heights,26.166666666666664,Count,51570,2727
+Virginia,Covington,11.833333333333334,Count,51580,2729
+Virginia,Danville,92.66666666666664,Count,51590,2732
+Virginia,Emporia,2.5,Count,51595,2736
+Virginia,Fairfax City,24.0,Count,51600,2737
+Virginia,Falls Church,14.166666666666666,Count,51610,2740
+Virginia,Franklin City,14.75,Count,51620,2744
+Virginia,Fredericksburg,32.08333333333333,Count,51630,2745
+Virginia,Galax,16.75,Count,51640,2747
+Virginia,Hampton,126.25,Count,51650,2751
+Virginia,Harrisonburg,54.083333333333336,Count,51660,2755
+Virginia,Hopewell,33.0,Count,51670,2756
+Virginia,Lexington,7.0,Count,51678,2760
+Virginia,Lynchburg,78.16666666666669,Count,51680,2762
+Virginia,Manassas,29.0,Count,51683,2765
+Virginia,Manassas Park,2.0,Count,51685,2768
+Virginia,Martinsville,22.583333333333332,Count,51690,2771
+Virginia,Newport News,166.66666666666666,Count,51700,2775
+Virginia,Norfolk,197.5833333333333,Count,51710,2778
+Virginia,Norton,9.25,Count,51720,2780
+Virginia,Petersburg,57.66666666666667,Count,51730,2782
+Virginia,Poquoson,8.916666666666666,Count,51735,2791
+Virginia,Portsmouth,97.41666666666667,Count,51740,2795
+Virginia,Radford,14.916666666666666,Count,51750,2799
+Virginia,Richmond City,230.5,Count,51760,2802
+Virginia,Roanoke City,131.75,Count,51770,2805
+Virginia,Salem,28.5,Count,51775,2809
+Virginia,Staunton,26.833333333333332,Count,51790,2812
+Virginia,Suffolk,70.83333333333334,Count,51800,2815
+Virginia,Virginia Beach,289.74999999999994,Count,51810,2826
+Virginia,Waynesboro,30.916666666666668,Count,51820,2831
+Virginia,Williamsburg,15.416666666666668,Count,51830,2835
+Virginia,Winchester,32.83333333333333,Count,51840,2837
+Washington,Adams,16.916666666666668,Count,53001,2840
+Washington,Asotin,11.083333333333332,Count,53003,2845
+Washington,Benton,113.58333333333331,Count,53005,2847
+Washington,Chelan,57.00000000000001,Count,53007,2852
+Washington,Clallam,58.583333333333336,Count,53009,2861
+Washington,Clark,250.33333333333331,Count,53011,2865
+Washington,Columbia,4.583333333333334,Count,53013,2869
+Washington,Cowlitz,83.91666666666667,Count,53015,2871
+Washington,Douglas,26.333333333333332,Count,53017,2877
+Washington,Ferry,10.0,Count,53019,2880
+Washington,Franklin,62.50000000000001,Count,53021,2884
+Washington,Garfield,4.0,Count,53023,2886
+Washington,Grant,81.5,Count,53025,2889
+Washington,Grays Harbor,83.5,Count,53027,2894
+Washington,Island,30.999999999999996,Count,53029,2898
+Washington,Jefferson,20.083333333333336,Count,53031,2905
+Washington,King,1141.2500000000007,Count,53033,2913
+Washington,Kitsap,134.08333333333334,Count,53035,2927
+Washington,Kittitas,28.08333333333333,Count,53037,2932
+Washington,Klickitat,17.75,Count,53039,2935
+Washington,Lewis,82.50000000000001,Count,53041,2940
+Washington,Lincoln,10.0,Count,53043,2942
+Washington,Mason,45.416666666666664,Count,53045,2946
+Washington,Okanogan,42.91666666666667,Count,53047,2947
+Washington,Pacific,23.0,Count,53049,2949
+Washington,Pend Oreille,13.0,Count,53051,2951
+Washington,Pierce,491.66666666666663,Count,53053,2956
+Washington,San Juan,10.75,Count,53055,2957
+Washington,Skagit,99.41666666666667,Count,53057,2958
+Washington,Skamania,7.916666666666666,Count,53059,2959
+Washington,Snohomish,435.75,Count,53061,2960
+Washington,Spokane,317.24999999999994,Count,53063,2961
+Washington,Stevens,37.5,Count,53065,2963
+Washington,Thurston,168.58333333333334,Count,53067,2967
+Washington,Wahkiakum,4.0,Count,53069,2969
+Washington,Walla Walla,39.416666666666664,Count,53071,2970
+Washington,Whatcom,144.83333333333337,Count,53073,2972
+Washington,Whitman,18.5,Count,53075,2973
+Washington,Yakima,209.66666666666669,Count,53077,2974
+West Virginia,Barbour,14.75,Count,54001,2975
+West Virginia,Berkeley,74.16666666666669,Count,54003,2976
+West Virginia,Boone,31.333333333333332,Count,54005,2977
+West Virginia,Braxton,24.833333333333336,Count,54007,2978
+West Virginia,Brooke,19.833333333333336,Count,54009,2979
+West Virginia,Cabell,100.16666666666667,Count,54011,2980
+West Virginia,Calhoun,10.75,Count,54013,2981
+West Virginia,Clay,12.083333333333332,Count,54015,3000
+West Virginia,Doddridge,4.0,Count,54017,3002
+West Virginia,Fayette,62.66666666666667,Count,54019,3006
+West Virginia,Gilmer,10.0,Count,54021,3008
+West Virginia,Grant,9.75,Count,54023,3011
+West Virginia,Greenbrier,50.833333333333336,Count,54025,3013
+West Virginia,Hampshire,26.166666666666668,Count,54027,3016
+West Virginia,Hancock,28.166666666666664,Count,54029,3017
+West Virginia,Hardy,16.333333333333332,Count,54031,3019
+West Virginia,Harrison,87.25,Count,54033,3021
+West Virginia,Jackson,35.91666666666666,Count,54035,3023
+West Virginia,Jefferson,41.58333333333333,Count,54037,3026
+West Virginia,Kanawha,202.0,Count,54039,3027
+West Virginia,Lewis,21.666666666666668,Count,54041,3029
+West Virginia,Lincoln,26.333333333333332,Count,54043,3031
+West Virginia,Logan,52.416666666666664,Count,54045,3034
+West Virginia,McDowell,34.25,Count,54047,3037
+West Virginia,Marion,62.58333333333333,Count,54049,3039
+West Virginia,Marshall,24.916666666666664,Count,54051,3041
+West Virginia,Mason,27.333333333333332,Count,54053,3042
+West Virginia,Mercer,69.33333333333333,Count,54055,3044
+West Virginia,Mineral,32.75,Count,54057,3046
+West Virginia,Mingo,26.416666666666668,Count,54059,3048
+West Virginia,Monongalia,72.91666666666666,Count,54061,3050
+West Virginia,Monroe,10.416666666666666,Count,54063,3052
+West Virginia,Morgan,15.833333333333334,Count,54065,3054
+West Virginia,Nicholas,43.91666666666667,Count,54067,3057
+West Virginia,Ohio,40.33333333333333,Count,54069,3059
+West Virginia,Pendleton,10.916666666666668,Count,54071,3061
+West Virginia,Pleasants,6.0,Count,54073,3064
+West Virginia,Pocahontas,13.0,Count,54075,3066
+West Virginia,Preston,35.74999999999999,Count,54077,3068
+West Virginia,Putnam,60.58333333333332,Count,54079,3070
+West Virginia,Raleigh,98.33333333333333,Count,54081,3073
+West Virginia,Randolph,36.666666666666664,Count,54083,3075
+West Virginia,Ritchie,18.416666666666664,Count,54085,3077
+West Virginia,Roane,16.083333333333336,Count,54087,3079
+West Virginia,Summers,14.5,Count,54089,3080
+West Virginia,Taylor,17.583333333333336,Count,54091,3082
+West Virginia,Tucker,11.166666666666666,Count,54093,3084
+West Virginia,Tyler,9.75,Count,54095,3085
+West Virginia,Upshur,27.0,Count,54097,3087
+West Virginia,Wayne,41.0,Count,54099,3089
+West Virginia,Webster,11.333333333333332,Count,54101,3091
+West Virginia,Wetzel,23.666666666666664,Count,54103,3093
+West Virginia,Wirt,6.0,Count,54105,3095
+West Virginia,Wood,83.41666666666666,Count,54107,3097
+West Virginia,Wyoming,36.083333333333336,Count,54109,3099
+Wisconsin,Adams,8.583333333333332,Count,55001,3101
+Wisconsin,Ashland,17.166666666666668,Count,55003,3104
+Wisconsin,Barron,38.08333333333333,Count,55005,3106
+Wisconsin,Bayfield,13.25,Count,55007,3108
+Wisconsin,Brown,161.00000000000003,Count,55009,3111
+Wisconsin,Buffalo,8.416666666666668,Count,55011,3113
+Wisconsin,Burnett,12.75,Count,55013,3115
+Wisconsin,Calumet,16.0,Count,55015,3116
+Wisconsin,Chippewa,38.25,Count,55017,3117
+Wisconsin,Clark,29.0,Count,55019,3119
+Wisconsin,Columbia,38.25,Count,55021,3120
+Wisconsin,Crawford,15.083333333333334,Count,55023,3122
+Wisconsin,Dane,261.5833333333334,Count,55025,3124
+Wisconsin,Dodge,41.5,Count,55027,3126
+Wisconsin,Door,22.916666666666668,Count,55029,3131
+Wisconsin,Douglas,30.583333333333332,Count,55031,3134
+Wisconsin,Dunn,27.41666666666667,Count,55033,3135
+Wisconsin,Eau Claire,70.0,Count,55035,3137
+Wisconsin,Florence,4.0,Count,55037,3138
+Wisconsin,Fond du Lac,60.83333333333333,Count,55039,3140
+Wisconsin,Forest,9.0,Count,55041,3141
+Wisconsin,Grant,42.75,Count,55043,3143
+Wisconsin,Green,22.416666666666668,Count,55045,3145
+Wisconsin,Green Lake,9.25,Count,55047,3147
+Wisconsin,Iowa,13.083333333333332,Count,55049,3148
+Wisconsin,Iron,8.0,Count,55051,3151
+Wisconsin,Jackson,6.416666666666667,Count,55053,3153
+Wisconsin,Jefferson,50.33333333333333,Count,55055,3154
+Wisconsin,Juneau,25.5,Count,55057,3156
+Wisconsin,Kenosha,106.66666666666664,Count,55059,3158
+Wisconsin,Kewaunee,11.916666666666668,Count,55061,3160
+Wisconsin,La Crosse,65.25,Count,55063,3161
+Wisconsin,Lafayette,5.75,Count,55065,3163
+Wisconsin,Langlade,18.0,Count,55067,3165
+Wisconsin,Lincoln,25.666666666666668,Count,55069,3166
+Wisconsin,Manitowoc,40.83333333333333,Count,55071,3169
+Wisconsin,Marathon,98.91666666666667,Count,55073,3170
+Wisconsin,Marinette,37.66666666666667,Count,55075,3172
+Wisconsin,Marquette,8.916666666666668,Count,55077,3174
+Wisconsin,Menominee,6.0,Count,55078,3175
+Wisconsin,Milwaukee,773.1666666666663,Count,55079,3177
+Wisconsin,Monroe,36.41666666666667,Count,55081,3179
+Wisconsin,Oconto,26.666666666666668,Count,55083,3181
+Wisconsin,Oneida,33.66666666666667,Count,55085,3183
+Wisconsin,Outagamie,114.58333333333333,Count,55087,3185
+Wisconsin,Ozaukee,29.249999999999996,Count,55089,3186
+Wisconsin,Pepin,6.916666666666667,Count,55091,3188
+Wisconsin,Pierce,21.0,Count,55093,3189
+Wisconsin,Polk,42.66666666666668,Count,55095,3191
+Wisconsin,Portage,43.41666666666667,Count,55097,3192
+Wisconsin,Price,14.916666666666666,Count,55099,3194
+Wisconsin,Racine,141.91666666666669,Count,55101,3195
+Wisconsin,Richland,9.833333333333332,Count,55103,3196
+Wisconsin,Rock,109.25000000000001,Count,55105,3198
+Wisconsin,Rusk,17.083333333333336,Count,55107,3199
+Wisconsin,St. Croix,46.0,Count,55109,3200
+Wisconsin,Sauk,46.583333333333336,Count,55111,3202
+Wisconsin,Sawyer,14.083333333333334,Count,55113,3203
+Wisconsin,Shawano,26.666666666666668,Count,55115,3205
+Wisconsin,Sheboygan,66.41666666666667,Count,55117,3207
+Wisconsin,Taylor,12.833333333333332,Count,55119,3208
+Wisconsin,Trempealeau,25.75,Count,55121,3210
+Wisconsin,Vernon,17.416666666666664,Count,55123,3213
+Wisconsin,Vilas,20.000000000000004,Count,55125,3001
+Wisconsin,Walworth,54.33333333333334,Count,55127,3003
+Wisconsin,Washburn,15.583333333333332,Count,55129,3004
+Wisconsin,Washington,49.333333333333336,Count,55131,3005
+Wisconsin,Waukesha,178.08333333333337,Count,55133,3007
+Wisconsin,Waupaca,38.83333333333333,Count,55135,3009
+Wisconsin,Waushara,17.833333333333332,Count,55137,3010
+Wisconsin,Winnebago,100.41666666666667,Count,55139,3012
+Wisconsin,Wood,52.916666666666664,Count,55141,3014
+Wyoming,Albany,13.25,Count,56001,3015
+Wyoming,Big Horn,7.083333333333334,Count,56003,3018
+Wyoming,Campbell,27.416666666666664,Count,56005,3020
+Wyoming,Carbon,11.666666666666668,Count,56007,3022
+Wyoming,Converse,7.166666666666667,Count,56009,3024
+Wyoming,Crook,5.0,Count,56011,3025
+Wyoming,Fremont,26.499999999999996,Count,56013,3028
+Wyoming,Goshen,6.083333333333333,Count,56015,3030
+Wyoming,Hot Springs,3.8333333333333335,Count,56017,3032
+Wyoming,Johnson,8.416666666666668,Count,56019,3033
+Wyoming,Laramie,48.916666666666664,Count,56021,3035
+Wyoming,Lincoln,13.333333333333334,Count,56023,3036
+Wyoming,Natrona,45.333333333333336,Count,56025,3038
+Wyoming,Niobrara,2.9166666666666665,Count,56027,3040
+Wyoming,Park,13.916666666666666,Count,56029,3043
+Wyoming,Platte,8.416666666666668,Count,56031,3045
+Wyoming,Sheridan,17.5,Count,56033,3047
+Wyoming,Sublette,6.0,Count,56035,3049
+Wyoming,Sweetwater,27.250000000000004,Count,56037,3051
+Wyoming,Teton,8.0,Count,56039,3053
+Wyoming,Uinta,15.25,Count,56041,3055
+Wyoming,Washakie,6.083333333333333,Count,56043,3056
+Wyoming,Weston,8.583333333333332,Count,56045,3058
