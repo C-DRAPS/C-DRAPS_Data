@@ -75,7 +75,7 @@ Alaska,Denali,0.08333333333333333,Count,2068,426
 Alaska,Dillingham,8.0,Count,2070,445
 Alaska,Fairbanks North Star,25.833333333333336,Count,2090,454
 Alaska,Haines,3.0,Count,2100,462
-Alaska,Hoonah-Angoon,nan,Count,2105,476
+Alaska,Hoonah-Angoon,0,Count,2105,476
 Alaska,Juneau,12.0,Count,2110,482
 Alaska,Kenai Peninsula,36.583333333333336,Count,2122,494
 Alaska,Ketchikan Gateway,11.0,Count,2130,514
@@ -88,11 +88,11 @@ Alaska,Northwest Arctic,20.5,Count,2188,638
 Alaska,Petersburg,1.0,Count,2195,645
 Alaska,Prince of Wales-Hyder,2.0,Count,2198,669
 Alaska,Sitka,3.083333333333333,Count,2220,679
-Alaska,Skagway,nan,Count,2230,683
+Alaska,Skagway,0,Count,2230,683
 Alaska,Southeast Fairbanks,5.916666666666666,Count,2240,690
 Alaska,Valdez-Cordova,14.25,Count,2261,710
-Alaska,Wade Hampton,nan,Count,2270,725
-Alaska,Wrangell,nan,Count,2275,733
+Alaska,Wade Hampton,0,Count,2270,725
+Alaska,Wrangell,0,Count,2275,733
 Alaska,Yakutat,2.0,Count,2282,744
 Alaska,Yukon-Koyukuk,31.666666666666668,Count,2290,753
 Arizona,Apache,45.99999999999999,Count,4001,761
@@ -186,7 +186,7 @@ Arkansas,White,73.83333333333334,Count,5145,428
 Arkansas,Woodruff,10.0,Count,5147,435
 Arkansas,Yell,25.0,Count,5149,438
 California,Alameda,840.9999999999994,Count,6001,457
-California,Alpine,nan,Count,6003,461
+California,Alpine,0,Count,6003,461
 California,Amador,30.08333333333334,Count,6005,472
 California,Butte,186.83333333333337,Count,6007,486
 California,Calaveras,42.75,Count,6009,489
@@ -547,7 +547,7 @@ Georgia,Wilkinson,14.833333333333334,Count,13319,169
 Georgia,Worth,20.416666666666664,Count,13321,173
 Hawaii,Hawaii,162.41666666666669,Count,15001,198
 Hawaii,Honolulu,558.1666666666667,Count,15003,234
-Hawaii,Kalawao,nan,Count,15005,247
+Hawaii,Kalawao,0,Count,15005,247
 Hawaii,Kauai,41.99999999999999,Count,15007,261
 Hawaii,Maui,114.24999999999999,Count,15009,323
 Idaho,Ada,230.0,Count,16001,336
@@ -566,7 +566,7 @@ Idaho,Camas,1.0,Count,16025,429
 Idaho,Canyon,108.91666666666664,Count,16027,441
 Idaho,Caribou,6.0,Count,16029,449
 Idaho,Cassia,16.0,Count,16031,456
-Idaho,Clark,nan,Count,16033,464
+Idaho,Clark,0,Count,16033,464
 Idaho,Clearwater,7.0,Count,16035,474
 Idaho,Custer,6.0,Count,16037,484
 Idaho,Elmore,16.666666666666664,Count,16039,490
@@ -1615,7 +1615,7 @@ Montana,Flathead,67.83333333333334,Count,30029,1173
 Montana,Gallatin,46.66666666666667,Count,30031,1177
 Montana,Garfield,1.0,Count,30033,1182
 Montana,Glacier,11.0,Count,30035,1186
-Montana,Golden Valley,nan,Count,30037,1189
+Montana,Golden Valley,0,Count,30037,1189
 Montana,Granite,2.0,Count,30039,1192
 Montana,Hill,13.166666666666668,Count,30041,1195
 Montana,Jefferson,5.583333333333334,Count,30043,1199
@@ -1648,16 +1648,16 @@ Montana,Stillwater,6.0,Count,30095,1286
 Montana,Sweet Grass,4.0,Count,30097,1288
 Montana,Teton,2.0,Count,30099,1290
 Montana,Toole,5.0,Count,30101,1292
-Montana,Treasure,nan,Count,30103,1293
+Montana,Treasure,0,Count,30103,1293
 Montana,Valley,6.0,Count,30105,1296
 Montana,Wheatland,1.0,Count,30107,1298
 Montana,Wibaux,1.0,Count,30109,1300
 Montana,Yellowstone,101.91666666666667,Count,30111,1302
 Nebraska,Adams,15.5,Count,31001,1303
 Nebraska,Antelope,5.0,Count,31003,1305
-Nebraska,Arthur,nan,Count,31005,1307
-Nebraska,Banner,nan,Count,31007,1308
-Nebraska,Blaine,nan,Count,31009,1309
+Nebraska,Arthur,0,Count,31005,1307
+Nebraska,Banner,0,Count,31007,1308
+Nebraska,Blaine,0,Count,31009,1309
 Nebraska,Boone,7.833333333333334,Count,31011,1310
 Nebraska,Box Butte,9.0,Count,31013,1315
 Nebraska,Boyd,3.0,Count,31015,1317
@@ -1710,8 +1710,8 @@ Nebraska,Knox,9.166666666666668,Count,31107,1322
 Nebraska,Lancaster,151.41666666666666,Count,31109,1324
 Nebraska,Lincoln,20.25,Count,31111,1327
 Nebraska,Logan,0.75,Count,31113,1328
-Nebraska,Loup,nan,Count,31115,1331
-Nebraska,McPherson,nan,Count,31117,1332
+Nebraska,Loup,0,Count,31115,1331
+Nebraska,McPherson,0,Count,31117,1332
 Nebraska,Madison,27.0,Count,31119,1335
 Nebraska,Merrick,3.0,Count,31121,1337
 Nebraska,Morrill,4.583333333333334,Count,31123,1339
@@ -1735,7 +1735,7 @@ Nebraska,Scotts Bluff,20.916666666666664,Count,31157,1373
 Nebraska,Seward,8.0,Count,31159,1375
 Nebraska,Sheridan,9.75,Count,31161,1376
 Nebraska,Sherman,3.0,Count,31163,1377
-Nebraska,Sioux,nan,Count,31165,1380
+Nebraska,Sioux,0,Count,31165,1380
 Nebraska,Stanton,2.0,Count,31167,1382
 Nebraska,Thayer,5.0,Count,31169,1383
 Nebraska,Thomas,1.0,Count,31171,1384
@@ -1744,13 +1744,13 @@ Nebraska,Valley,5.916666666666666,Count,31175,1386
 Nebraska,Washington,7.666666666666667,Count,31177,1387
 Nebraska,Wayne,5.0,Count,31179,1388
 Nebraska,Webster,3.75,Count,31181,1389
-Nebraska,Wheeler,nan,Count,31183,1390
+Nebraska,Wheeler,0,Count,31183,1390
 Nebraska,York,9.0,Count,31185,1392
 Nevada,Churchill,15.916666666666666,Count,32001,1396
 Nevada,Clark,1165.4166666666667,Count,32003,1399
 Nevada,Douglas,28.5,Count,32005,1400
 Nevada,Elko,36.5,Count,32007,1401
-Nevada,Esmeralda,nan,Count,32009,1404
+Nevada,Esmeralda,0,Count,32009,1404
 Nevada,Eureka,1.0,Count,32011,1406
 Nevada,Humboldt,13.333333333333332,Count,32013,1407
 Nevada,Lander,3.75,Count,32015,1408
@@ -1992,7 +1992,7 @@ North Carolina,Yancey,11.833333333333334,Count,37199,1823
 North Dakota,Adams,4.0,Count,38001,1826
 North Dakota,Barnes,6.5,Count,38003,1828
 North Dakota,Benson,6.0,Count,38005,1831
-North Dakota,Billings,nan,Count,38007,1833
+North Dakota,Billings,0,Count,38007,1833
 North Dakota,Bottineau,5.75,Count,38009,1836
 North Dakota,Bowman,5.0,Count,38011,1838
 North Dakota,Burke,1.0833333333333333,Count,38013,1841
@@ -2032,7 +2032,7 @@ North Dakota,Rolette,17.666666666666664,Count,38079,2161
 North Dakota,Sargent,3.9166666666666665,Count,38081,2164
 North Dakota,Sheridan,1.0,Count,38083,2169
 North Dakota,Sioux,4.0,Count,38085,2175
-North Dakota,Slope,nan,Count,38087,2180
+North Dakota,Slope,0,Count,38087,2180
 North Dakota,Stark,11.666666666666668,Count,38089,2182
 North Dakota,Steele,1.5,Count,38091,2186
 North Dakota,Stutsman,12.416666666666668,Count,38093,2199
@@ -2416,7 +2416,7 @@ South Dakota,Perkins,4.0,Count,46105,2502
 South Dakota,Potter,4.666666666666666,Count,46107,2506
 South Dakota,Roberts,11.750000000000002,Count,46109,2511
 South Dakota,Sanborn,1.0,Count,46111,2514
-South Dakota,Shannon,nan,Count,46113,2519
+South Dakota,Shannon,0,Count,46113,2519
 South Dakota,Spink,5.666666666666666,Count,46115,2523
 South Dakota,Stanley,2.25,Count,46117,2530
 South Dakota,Sully,2.0,Count,46119,2535
@@ -2538,7 +2538,7 @@ Texas,Bee,24.666666666666664,Count,48025,2196
 Texas,Bell,260.16666666666674,Count,48027,2198
 Texas,Bexar,1208.2499999999993,Count,48029,2203
 Texas,Blanco,7.833333333333333,Count,48031,2207
-Texas,Borden,nan,Count,48033,2212
+Texas,Borden,0,Count,48033,2212
 Texas,Bosque,23.5,Count,48035,2216
 Texas,Bowie,80.58333333333334,Count,48037,2224
 Texas,Brazoria,184.0,Count,48039,2240
@@ -2608,7 +2608,7 @@ Texas,Gaines,12.833333333333332,Count,48165,2032
 Texas,Galveston,229.41666666666666,Count,48167,2059
 Texas,Garza,6.0,Count,48169,2060
 Texas,Gillespie,9.5,Count,48171,2066
-Texas,Glasscock,nan,Count,48173,2072
+Texas,Glasscock,0,Count,48173,2072
 Texas,Goliad,4.0,Count,48175,2079
 Texas,Gonzales,17.083333333333332,Count,48177,2086
 Texas,Gray,21.0,Count,48179,2088
@@ -2652,11 +2652,11 @@ Texas,Jones,14.833333333333334,Count,48253,2301
 Texas,Karnes,12.083333333333334,Count,48255,2307
 Texas,Kaufman,77.08333333333334,Count,48257,2314
 Texas,Kendall,17.75,Count,48259,2319
-Texas,Kenedy,nan,Count,48261,2330
+Texas,Kenedy,0,Count,48261,2330
 Texas,Kent,1.0,Count,48263,2335
 Texas,Kerr,40.0,Count,48265,2337
 Texas,Kimble,5.666666666666667,Count,48267,2339
-Texas,King,nan,Count,48269,2342
+Texas,King,0,Count,48269,2342
 Texas,Kinney,3.0,Count,48271,2347
 Texas,Kleberg,32.08333333333333,Count,48273,2358
 Texas,Knox,5.666666666666666,Count,48275,2364
@@ -2672,7 +2672,7 @@ Texas,Limestone,22.0,Count,48293,2408
 Texas,Lipscomb,4.0,Count,48295,2412
 Texas,Live Oak,12.416666666666668,Count,48297,2416
 Texas,Llano,15.0,Count,48299,2421
-Texas,Loving,nan,Count,48301,2424
+Texas,Loving,0,Count,48301,2424
 Texas,Lubbock,172.91666666666669,Count,48303,2428
 Texas,Lynn,5.0,Count,48305,2438
 Texas,McCulloch,8.75,Count,48307,2452
@@ -2718,7 +2718,7 @@ Texas,Real,6.916666666666666,Count,48385,2283
 Texas,Red River,14.5,Count,48387,2295
 Texas,Reeves,10.916666666666668,Count,48389,2308
 Texas,Refugio,8.583333333333332,Count,48391,2334
-Texas,Roberts,nan,Count,48393,2348
+Texas,Roberts,0,Count,48393,2348
 Texas,Robertson,19.666666666666664,Count,48395,2353
 Texas,Rockwall,40.583333333333336,Count,48397,2355
 Texas,Runnels,14.416666666666668,Count,48399,2361

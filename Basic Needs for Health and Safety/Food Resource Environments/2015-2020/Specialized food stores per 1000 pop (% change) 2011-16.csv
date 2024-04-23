@@ -19,7 +19,7 @@ Alabama,Colbert,0.381026009,% change,1033,73
 Alabama,Conecuh,-100.0,% change,1035,80
 Alabama,Coosa,0.0,% change,1037,82
 Alabama,Covington,-23.734151822,% change,1039,88
-Alabama,Crenshaw,nan,% change,1041,90
+Alabama,Crenshaw,0,% change,1041,90
 Alabama,Cullman,-21.857097738,% change,1043,98
 Alabama,Dale,-49.107215406,% change,1045,101
 Alabama,Dallas,0.0,% change,1047,110
@@ -44,7 +44,7 @@ Alabama,Limestone,-7.953077916,% change,1083,197
 Alabama,Lowndes,0.0,% change,1085,205
 Alabama,Macon,0.0,% change,1087,210
 Alabama,Madison,46.106726689,% change,1089,217
-Alabama,Marengo,nan,% change,1091,220
+Alabama,Marengo,0,% change,1091,220
 Alabama,Marion,104.865984894,% change,1093,224
 Alabama,Marshall,-20.970508086,% change,1095,231
 Alabama,Mobile,-16.992083924,% change,1097,240
@@ -67,7 +67,7 @@ Alabama,Washington,0.0,% change,1129,319
 Alabama,Wilcox,0.0,% change,1131,326
 Alabama,Winston,0.0,% change,1133,332
 Alaska,Aleutians East,0.0,% change,2013,346
-Alaska,Aleutians West,nan,% change,2016,381
+Alaska,Aleutians West,0,% change,2016,381
 Alaska,Anchorage,-26.19619108,% change,2020,400
 Alaska,Bethel,0.0,% change,2050,411
 Alaska,Bristol Bay,0.0,% change,2060,423
@@ -79,7 +79,7 @@ Alaska,Hoonah-Angoon,0.0,% change,2105,476
 Alaska,Juneau,197.750347169,% change,2110,482
 Alaska,Kenai Peninsula,-21.310986641,% change,2122,494
 Alaska,Ketchikan Gateway,98.790704451,% change,2130,514
-Alaska,Kodiak Island,nan,% change,2150,533
+Alaska,Kodiak Island,0,% change,2150,533
 Alaska,Lake and Peninsula,0.0,% change,2164,544
 Alaska,Matanuska-Susitna,10.111358682,% change,2170,556
 Alaska,Nome,0.0,% change,2180,571
@@ -128,8 +128,8 @@ Arkansas,Conway,-100.0,% change,5029,109
 Arkansas,Craighead,-7.062705023,% change,5031,114
 Arkansas,Crawford,148.152877496,% change,5033,115
 Arkansas,Crittenden,2.400648824,% change,5035,119
-Arkansas,Cross,nan,% change,5037,124
-Arkansas,Dallas,nan,% change,5039,128
+Arkansas,Cross,0,% change,5037,124
+Arkansas,Dallas,0,% change,5039,128
 Arkansas,Desha,0.0,% change,5041,130
 Arkansas,Drew,0.520721495,% change,5043,136
 Arkansas,Faulkner,90.399973788,% change,5045,141
@@ -137,12 +137,12 @@ Arkansas,Franklin,1.822194556,% change,5047,144
 Arkansas,Fulton,0.0,% change,5049,146
 Arkansas,Garland,15.007482363,% change,5051,151
 Arkansas,Grant,0.0,% change,5053,155
-Arkansas,Greene,nan,% change,5055,162
-Arkansas,Hempstead,nan,% change,5057,172
+Arkansas,Greene,0,% change,5055,162
+Arkansas,Hempstead,0,% change,5057,172
 Arkansas,Hot Spring,0.0,% change,5059,184
-Arkansas,Howard,nan,% change,5061,191
+Arkansas,Howard,0,% change,5061,191
 Arkansas,Independence,-0.668571737,% change,5063,200
-Arkansas,Izard,nan,% change,5065,203
+Arkansas,Izard,0,% change,5065,203
 Arkansas,Jackson,-100.0,% change,5067,209
 Arkansas,Jefferson,-69.127162394,% change,5069,213
 Arkansas,Johnson,0.0,% change,5071,218
@@ -172,7 +172,7 @@ Arkansas,Prairie,-100.0,% change,5117,345
 Arkansas,Pulaski,45.198331318,% change,5119,350
 Arkansas,Randolph,0.0,% change,5121,353
 Arkansas,St. Francis,-100.0,% change,5123,357
-Arkansas,Saline,nan,% change,5125,360
+Arkansas,Saline,0,% change,5125,360
 Arkansas,Scott,0.0,% change,5127,364
 Arkansas,Searcy,1.31826742,% change,5129,372
 Arkansas,Sebastian,-25.376860787,% change,5131,378
@@ -180,7 +180,7 @@ Arkansas,Sevier,0.0,% change,5133,390
 Arkansas,Sharp,-100.0,% change,5135,394
 Arkansas,Stone,-100.0,% change,5137,399
 Arkansas,Union,-48.093661424,% change,5139,403
-Arkansas,Van Buren,nan,% change,5141,407
+Arkansas,Van Buren,0,% change,5141,407
 Arkansas,Washington,7.866352452,% change,5143,417
 Arkansas,White,-100.0,% change,5145,428
 Arkansas,Woodruff,0.0,% change,5147,435
@@ -237,7 +237,7 @@ California,Sonoma,9.52014968,% change,6097,463
 California,Stanislaus,38.908408877,% change,6099,473
 California,Sutter,40.629322165,% change,6101,483
 California,Tehama,-28.680636242,% change,6103,492
-California,Trinity,nan,% change,6105,500
+California,Trinity,0,% change,6105,500
 California,Tulare,10.018929407,% change,6107,501
 California,Tuolumne,205.828545931,% change,6109,513
 California,Ventura,-13.682671128,% change,6111,521
@@ -248,7 +248,7 @@ Colorado,Alamosa,-2.060038892,% change,8003,549
 Colorado,Arapahoe,13.445734366,% change,8005,558
 Colorado,Archuleta,-37.602576088,% change,8007,560
 Colorado,Baca,0.0,% change,8009,563
-Colorado,Bent,nan,% change,8011,564
+Colorado,Bent,0,% change,8011,564
 Colorado,Boulder,6.328280171,% change,8013,570
 Colorado,Broomfield,-25.967054942,% change,8014,577
 Colorado,Chaffee,-5.570694896,% change,8015,582
@@ -279,7 +279,7 @@ Colorado,Kit Carson,0.0,% change,8063,716
 Colorado,Lake,0.0,% change,8065,721
 Colorado,La Plata,-6.240944654,% change,8067,727
 Colorado,Larimer,5.120309021,% change,8069,734
-Colorado,Las Animas,nan,% change,8071,741
+Colorado,Las Animas,0,% change,8071,741
 Colorado,Lincoln,0.0,% change,8073,747
 Colorado,Logan,0.725199544,% change,8075,749
 Colorado,Mesa,26.410174735,% change,8077,751
@@ -304,9 +304,9 @@ Colorado,San Miguel,-37.476979742,% change,8113,359
 Colorado,Sedgwick,0.0,% change,8115,366
 Colorado,Summit,222.95265726,% change,8117,373
 Colorado,Teller,-2.816139767,% change,8119,375
-Colorado,Washington,nan,% change,8121,377
+Colorado,Washington,0,% change,8121,377
 Colorado,Weld,251.448292738,% change,8123,382
-Colorado,Yuma,nan,% change,8125,385
+Colorado,Yuma,0,% change,8125,385
 Connecticut,Fairfield,-11.5001293,% change,9001,410
 Connecticut,Hartford,19.947610098,% change,9003,432
 Connecticut,Litchfield,-16.096795688,% change,9005,443
@@ -320,7 +320,7 @@ Delaware,New Castle,-20.288528657,% change,10003,536
 Delaware,Sussex,-19.963076215,% change,10005,609
 District of Columbia,District of Columbia,6.040903222,% change,11001,630
 Florida,Alachua,-5.488743706,% change,12001,639
-Florida,Baker,nan,% change,12003,641
+Florida,Baker,0,% change,12003,641
 Florida,Bay,11.166171199,% change,12005,658
 Florida,Bradford,-46.812331637,% change,12007,665
 Florida,Brevard,-10.882374798,% change,12009,686
@@ -340,10 +340,10 @@ Florida,Franklin,94.406305619,% change,12037,937
 Florida,Gadsden,-48.700032499,% change,12039,938
 Florida,Gilchrist,0.0,% change,12041,939
 Florida,Glades,0.0,% change,12043,940
-Florida,Gulf,nan,% change,12045,941
+Florida,Gulf,0,% change,12045,941
 Florida,Hamilton,0.0,% change,12047,942
 Florida,Hardee,-100.0,% change,12049,943
-Florida,Hendry,nan,% change,12051,944
+Florida,Hendry,0,% change,12051,944
 Florida,Hernando,42.266683495,% change,12053,945
 Florida,Highlands,45.410996672,% change,12055,946
 Florida,Hillsborough,-1.045537903,% change,12057,947
@@ -390,14 +390,14 @@ Georgia,Appling,0.0,% change,13001,987
 Georgia,Atkinson,-49.681490385,% change,13003,988
 Georgia,Bacon,0.0,% change,13005,989
 Georgia,Baker,0.0,% change,13007,990
-Georgia,Baldwin,nan,% change,13009,991
+Georgia,Baldwin,0,% change,13009,991
 Georgia,Banks,0.0,% change,13011,992
 Georgia,Barrow,81.328559754,% change,13013,993
 Georgia,Bartow,-67.703750971,% change,13015,994
 Georgia,Ben Hill,53.254799302,% change,13017,995
-Georgia,Berrien,nan,% change,13019,996
+Georgia,Berrien,0,% change,13019,996
 Georgia,Bibb,31.098295002,% change,13021,997
-Georgia,Bleckley,nan,% change,13023,998
+Georgia,Bleckley,0,% change,13023,998
 Georgia,Brantley,0.0,% change,13025,999
 Georgia,Brooks,-100.0,% change,13027,565
 Georgia,Bryan,0.0,% change,13029,573
@@ -417,7 +417,7 @@ Georgia,Cherokee,57.775248344,% change,13057,662
 Georgia,Clarke,-43.16034491,% change,13059,666
 Georgia,Clay,0.0,% change,13061,670
 Georgia,Clayton,-21.918339845,% change,13063,673
-Georgia,Clinch,nan,% change,13065,676
+Georgia,Clinch,0,% change,13065,676
 Georgia,Cobb,10.803493081,% change,13067,680
 Georgia,Coffee,0.0395211,% change,13069,684
 Georgia,Colquitt,0.396312759,% change,13071,689
@@ -438,9 +438,9 @@ Georgia,Early,-100.0,% change,13099,735
 Georgia,Echols,0.0,% change,13101,737
 Georgia,Effingham,-100.0,% change,13103,742
 Georgia,Elbert,0.0,% change,13105,746
-Georgia,Emanuel,nan,% change,13107,750
+Georgia,Emanuel,0,% change,13107,750
 Georgia,Evans,-48.509561305,% change,13109,754
-Georgia,Fannin,nan,% change,13111,755
+Georgia,Fannin,0,% change,13111,755
 Georgia,Fayette,140.930174026,% change,13113,760
 Georgia,Floyd,-0.41295798,% change,13115,764
 Georgia,Forsyth,24.076304035,% change,13117,768
@@ -469,14 +469,14 @@ Georgia,Jeff Davis,0.0,% change,13161,832
 Georgia,Jefferson,0.0,% change,13163,834
 Georgia,Jenkins,0.0,% change,13165,835
 Georgia,Johnson,-100.0,% change,13167,837
-Georgia,Jones,nan,% change,13169,839
+Georgia,Jones,0,% change,13169,839
 Georgia,Lamar,-1.683811586,% change,13171,841
 Georgia,Lanier,-49.889994261,% change,13173,845
 Georgia,Laurens,-18.89472792,% change,13175,847
 Georgia,Lee,0.0,% change,13177,849
 Georgia,Liberty,-29.316392463,% change,13179,855
 Georgia,Lincoln,0.0,% change,13181,857
-Georgia,Long,nan,% change,13183,860
+Georgia,Long,0,% change,13183,860
 Georgia,Lowndes,81.155344926,% change,13185,863
 Georgia,Lumpkin,93.510530322,% change,13187,865
 Georgia,McDuffie,0.731730052,% change,13189,868
@@ -492,13 +492,13 @@ Georgia,Montgomery,0.0,% change,13209,887
 Georgia,Morgan,97.593951769,% change,13211,890
 Georgia,Murray,0.0,% change,13213,892
 Georgia,Muscogee,-0.496671031,% change,13215,896
-Georgia,Newton,nan,% change,13217,899
+Georgia,Newton,0,% change,13217,899
 Georgia,Oconee,-9.813920686,% change,13219,901
 Georgia,Oglethorpe,0.0,% change,13221,905
 Georgia,Paulding,269.673175692,% change,13223,908
 Georgia,Peach,2.936912153,% change,13225,910
-Georgia,Pickens,nan,% change,13227,912
-Georgia,Pierce,nan,% change,13229,915
+Georgia,Pickens,0,% change,13227,912
+Georgia,Pierce,0,% change,13229,915
 Georgia,Pike,0.0,% change,13231,7
 Georgia,Polk,-100.0,% change,13233,8
 Georgia,Pulaski,4.731582206,% change,13235,11
@@ -527,14 +527,14 @@ Georgia,Toombs,-100.0,% change,13279,91
 Georgia,Towns,-6.793550093,% change,13281,95
 Georgia,Treutlen,0.0,% change,13283,102
 Georgia,Troup,-51.532761981,% change,13285,105
-Georgia,Turner,nan,% change,13287,108
+Georgia,Turner,0,% change,13287,108
 Georgia,Twiggs,0.0,% change,13289,116
-Georgia,Union,nan,% change,13291,120
+Georgia,Union,0,% change,13291,120
 Georgia,Upson,2.727654217,% change,13293,123
 Georgia,Walker,0.0,% change,13295,126
 Georgia,Walton,-100.0,% change,13297,127
 Georgia,Ware,1.453488372,% change,13299,132
-Georgia,Warren,nan,% change,13301,135
+Georgia,Warren,0,% change,13301,135
 Georgia,Washington,3.096888365,% change,13303,143
 Georgia,Wayne,1.050525263,% change,13305,147
 Georgia,Webster,0.0,% change,13307,149
@@ -560,12 +560,12 @@ Idaho,Blaine,-100.0,% change,16013,371
 Idaho,Boise,0.0,% change,16015,380
 Idaho,Bonner,-61.487849231,% change,16017,387
 Idaho,Bonneville,-26.55389422,% change,16019,395
-Idaho,Boundary,nan,% change,16021,405
+Idaho,Boundary,0,% change,16021,405
 Idaho,Butte,0.0,% change,16023,414
 Idaho,Camas,0.0,% change,16025,429
 Idaho,Canyon,1.950810237,% change,16027,441
 Idaho,Caribou,-50.46336519,% change,16029,449
-Idaho,Cassia,nan,% change,16031,456
+Idaho,Cassia,0,% change,16031,456
 Idaho,Clark,0.0,% change,16033,464
 Idaho,Clearwater,-100.0,% change,16035,474
 Idaho,Custer,0.0,% change,16037,484
@@ -605,8 +605,8 @@ Illinois,Carroll,-47.915953733,% change,17015,6
 Illinois,Cass,0.0,% change,17017,10
 Illinois,Champaign,4.382292625,% change,17019,12
 Illinois,Christian,0.0,% change,17021,14
-Illinois,Clark,nan,% change,17023,19
-Illinois,Clay,nan,% change,17025,22
+Illinois,Clark,0,% change,17023,19
+Illinois,Clay,0,% change,17025,22
 Illinois,Clinton,51.820843871,% change,17027,27
 Illinois,Coles,-48.862855835,% change,17029,30
 Illinois,Cook,-8.294966012,% change,17031,36
@@ -645,18 +645,18 @@ Illinois,Knox,-48.301109039,% change,17095,166
 Illinois,Lake,-19.689313149,% change,17097,170
 Illinois,LaSalle,-31.524699793,% change,17099,175
 Illinois,Lawrence,0.0,% change,17101,177
-Illinois,Lee,nan,% change,17103,180
+Illinois,Lee,0,% change,17103,180
 Illinois,Livingston,-100.0,% change,17105,182
 Illinois,Logan,3.115413457,% change,17107,186
-Illinois,McDonough,nan,% change,17109,189
+Illinois,McDonough,0,% change,17109,189
 Illinois,McHenry,-17.279987057,% change,17111,192
 Illinois,McLean,-54.35716882,% change,17113,193
 Illinois,Macon,-30.834216276,% change,17115,194
 Illinois,Macoupin,213.668324097,% change,17117,196
 Illinois,Madison,-14.040862506,% change,17119,199
-Illinois,Marion,nan,% change,17121,201
+Illinois,Marion,0,% change,17121,201
 Illinois,Marshall,-47.558413179,% change,17123,202
-Illinois,Mason,nan,% change,17125,206
+Illinois,Mason,0,% change,17125,206
 Illinois,Massac,0.0,% change,17127,208
 Illinois,Menard,2.395354464,% change,17129,212
 Illinois,Mercer,4.382597569,% change,17131,216
@@ -678,16 +678,16 @@ Illinois,Rock Island,-32.453438921,% change,17161,265
 Illinois,St. Clair,-24.16103745,% change,17163,269
 Illinois,Saline,-100.0,% change,17165,271
 Illinois,Sangamon,-27.273734352,% change,17167,274
-Illinois,Schuyler,nan,% change,17169,278
+Illinois,Schuyler,0,% change,17169,278
 Illinois,Scott,0.0,% change,17171,280
 Illinois,Shelby,-48.722787315,% change,17173,283
-Illinois,Stark,nan,% change,17175,285
+Illinois,Stark,0,% change,17175,285
 Illinois,Stephenson,-74.025032938,% change,17177,290
 Illinois,Tazewell,-23.956459427,% change,17179,291
 Illinois,Union,55.04820333,% change,17181,293
 Illinois,Vermilion,3.613798371,% change,17183,296
-Illinois,Wabash,nan,% change,17185,299
-Illinois,Warren,nan,% change,17187,301
+Illinois,Wabash,0,% change,17185,299
+Illinois,Warren,0,% change,17187,301
 Illinois,Washington,0.0,% change,17189,305
 Illinois,Wayne,-49.749592711,% change,17191,310
 Illinois,White,0.0,% change,17193,312
@@ -701,7 +701,7 @@ Indiana,Allen,1.017498171,% change,18003,335
 Indiana,Bartholomew,13.706350079,% change,18005,342
 Indiana,Benton,0.0,% change,18007,179
 Indiana,Blackford,0.0,% change,18009,183
-Indiana,Boone,nan,% change,18011,185
+Indiana,Boone,0,% change,18011,185
 Indiana,Brown,25.549706823,% change,18013,188
 Indiana,Carroll,0.3856363,% change,18015,195
 Indiana,Cass,2.396548549,% change,18017,211
@@ -716,7 +716,7 @@ Indiana,DeKalb,-50.199436884,% change,18033,249
 Indiana,Delaware,-12.533322777,% change,18035,252
 Indiana,Dubois,48.918880724,% change,18037,254
 Indiana,Elkhart,12.127331194,% change,18039,260
-Indiana,Fayette,nan,% change,18041,263
+Indiana,Fayette,0,% change,18041,263
 Indiana,Floyd,30.295565432,% change,18043,267
 Indiana,Fountain,0.0,% change,18045,270
 Indiana,Franklin,1.346534653,% change,18047,272
@@ -765,7 +765,7 @@ Indiana,Pulaski,0.0,% change,18131,477
 Indiana,Putnam,103.408023615,% change,18133,480
 Indiana,Randolph,55.758410152,% change,18135,485
 Indiana,Ripley,0.795550549,% change,18137,488
-Indiana,Rush,nan,% change,18139,493
+Indiana,Rush,0,% change,18139,493
 Indiana,St. Joseph,-1.092677282,% change,18141,496
 Indiana,Scott,-100.0,% change,18143,504
 Indiana,Shelby,-100.0,% change,18145,506
@@ -795,15 +795,15 @@ Iowa,Appanoose,2.792670241,% change,19007,611
 Iowa,Audubon,0.0,% change,19009,615
 Iowa,Benton,-100.0,% change,19011,619
 Iowa,Black Hawk,8.887684188,% change,19013,623
-Iowa,Boone,nan,% change,19015,625
+Iowa,Boone,0,% change,19015,625
 Iowa,Bremer,96.70755326,% change,19017,631
 Iowa,Buchanan,-0.584767519,% change,19019,632
 Iowa,Buena Vista,-49.965462799,% change,19021,633
 Iowa,Butler,52.880098046,% change,19023,361
-Iowa,Calhoun,nan,% change,19025,365
+Iowa,Calhoun,0,% change,19025,365
 Iowa,Carroll,104.782480605,% change,19027,369
 Iowa,Cass,4.430955994,% change,19029,374
-Iowa,Cedar,nan,% change,19031,379
+Iowa,Cedar,0,% change,19031,379
 Iowa,Cerro Gordo,36.107498916,% change,19033,383
 Iowa,Cherokee,0.0,% change,19035,388
 Iowa,Chickasaw,0.0,% change,19037,393
@@ -829,23 +829,23 @@ Iowa,Grundy,1.480035781,% change,19075,460
 Iowa,Guthrie,0.0,% change,19077,467
 Iowa,Hamilton,2.397350993,% change,19079,469
 Iowa,Hancock,0.0,% change,19081,470
-Iowa,Hardin,nan,% change,19083,475
+Iowa,Hardin,0,% change,19083,475
 Iowa,Harrison,4.917566799,% change,19085,478
-Iowa,Henry,nan,% change,19087,479
+Iowa,Henry,0,% change,19087,479
 Iowa,Howard,2.922778257,% change,19089,481
 Iowa,Humboldt,-100.0,% change,19091,487
 Iowa,Ida,0.0,% change,19093,491
 Iowa,Iowa,0.834157192,% change,19095,495
 Iowa,Jackson,-49.136152656,% change,19097,499
 Iowa,Jasper,0.0,% change,19099,505
-Iowa,Jefferson,nan,% change,19101,507
+Iowa,Jefferson,0,% change,19101,507
 Iowa,Johnson,4.185473743,% change,19103,508
 Iowa,Jones,-100.0,% change,19105,516
 Iowa,Keokuk,0.0,% change,19107,520
 Iowa,Kossuth,0.0,% change,19109,523
 Iowa,Lee,3.186672858,% change,19111,531
 Iowa,Linn,8.486198738,% change,19113,535
-Iowa,Louisa,nan,% change,19115,539
+Iowa,Louisa,0,% change,19115,539
 Iowa,Lucas,0.0,% change,19117,542
 Iowa,Lyon,-100.0,% change,19119,546
 Iowa,Madison,0.0,% change,19121,550
@@ -877,7 +877,7 @@ Iowa,Tama,-48.745561441,% change,19171,671
 Iowa,Taylor,0.0,% change,19173,674
 Iowa,Union,-100.0,% change,19175,675
 Iowa,Van Buren,0.0,% change,19177,678
-Iowa,Wapello,nan,% change,19179,681
+Iowa,Wapello,0,% change,19179,681
 Iowa,Warren,-37.001533483,% change,19181,685
 Iowa,Washington,-50.655841513,% change,19183,687
 Iowa,Wayne,0.0,% change,19185,691
@@ -888,7 +888,7 @@ Iowa,Woodbury,-0.082759695,% change,19193,702
 Iowa,Worth,0.0,% change,19195,703
 Iowa,Wright,35.55971702,% change,19197,705
 Kansas,Allen,5.471653357,% change,20001,709
-Kansas,Anderson,nan,% change,20003,712
+Kansas,Anderson,0,% change,20003,712
 Kansas,Atchison,0.0,% change,20005,715
 Kansas,Barber,0.0,% change,20007,717
 Kansas,Barton,-65.685655184,% change,20009,719
@@ -908,14 +908,14 @@ Kansas,Cowley,103.447404621,% change,20035,752
 Kansas,Crawford,0.492408699,% change,20037,756
 Kansas,Decatur,0.0,% change,20039,759
 Kansas,Dickinson,3.677361572,% change,20041,762
-Kansas,Doniphan,nan,% change,20043,765
+Kansas,Doniphan,0,% change,20043,765
 Kansas,Douglas,276.19589596,% change,20045,767
 Kansas,Edwards,4.24137931,% change,20047,770
 Kansas,Elk,0.0,% change,20049,773
 Kansas,Ellis,-40.147798633,% change,20051,774
 Kansas,Ellsworth,0.0,% change,20053,776
 Kansas,Finney,0.31623331,% change,20055,778
-Kansas,Ford,nan,% change,20057,784
+Kansas,Ford,0,% change,20057,784
 Kansas,Franklin,1.170391827,% change,20059,786
 Kansas,Geary,100.380595319,% change,20061,788
 Kansas,Gove,0.0,% change,20063,790
@@ -936,19 +936,19 @@ Kansas,Johnson,-17.904004499,% change,20091,824
 Kansas,Kearny,0.0,% change,20093,826
 Kansas,Kingman,0.0,% change,20095,827
 Kansas,Kiowa,0.0,% change,20097,829
-Kansas,Labette,nan,% change,20099,831
+Kansas,Labette,0,% change,20099,831
 Kansas,Lane,0.0,% change,20101,833
 Kansas,Leavenworth,-3.822005867,% change,20103,836
 Kansas,Lincoln,0.0,% change,20105,838
 Kansas,Linn,99.70912113,% change,20107,840
-Kansas,Logan,nan,% change,20109,842
+Kansas,Logan,0,% change,20109,842
 Kansas,Lyon,0.694610778,% change,20111,844
 Kansas,McPherson,-48.746567143,% change,20113,846
 Kansas,Marion,0.0,% change,20115,848
 Kansas,Marshall,1.826344251,% change,20117,850
 Kansas,Meade,0.0,% change,20119,851
 Kansas,Miami,98.616630768,% change,20121,853
-Kansas,Mitchell,nan,% change,20123,854
+Kansas,Mitchell,0,% change,20123,854
 Kansas,Montgomery,-64.728552449,% change,20125,856
 Kansas,Morris,5.579553636,% change,20127,858
 Kansas,Morton,0.0,% change,20129,859
@@ -957,10 +957,10 @@ Kansas,Neosho,0.0,% change,20133,862
 Kansas,Ness,0.0,% change,20135,864
 Kansas,Norton,-100.0,% change,20137,866
 Kansas,Osage,0.0,% change,20139,867
-Kansas,Osborne,nan,% change,20141,869
+Kansas,Osborne,0,% change,20141,869
 Kansas,Ottawa,0.0,% change,20143,870
 Kansas,Pawnee,3.500444972,% change,20145,872
-Kansas,Phillips,nan,% change,20147,873
+Kansas,Phillips,0,% change,20147,873
 Kansas,Pottawatomie,-6.633323443,% change,20149,876
 Kansas,Pratt,0.752193899,% change,20151,878
 Kansas,Rawlins,0.0,% change,20153,880
@@ -970,20 +970,20 @@ Kansas,Rice,0.0,% change,20159,886
 Kansas,Riley,-60.642807319,% change,20161,888
 Kansas,Rooks,0.0,% change,20163,889
 Kansas,Rush,0.0,% change,20165,891
-Kansas,Russell,nan,% change,20167,893
+Kansas,Russell,0,% change,20167,893
 Kansas,Saline,1.367350645,% change,20169,895
-Kansas,Scott,nan,% change,20171,897
+Kansas,Scott,0,% change,20171,897
 Kansas,Sedgwick,-13.454010005,% change,20173,898
-Kansas,Seward,nan,% change,20175,900
+Kansas,Seward,0,% change,20175,900
 Kansas,Shawnee,14.762348466,% change,20177,902
 Kansas,Sheridan,0.0,% change,20179,904
 Kansas,Sherman,1.833473507,% change,20181,907
-Kansas,Smith,nan,% change,20183,909
+Kansas,Smith,0,% change,20183,909
 Kansas,Stafford,0.0,% change,20185,911
 Kansas,Stanton,0.0,% change,20187,913
 Kansas,Stevens,0.0,% change,20189,914
 Kansas,Sumner,2.508296341,% change,20191,916
-Kansas,Thomas,nan,% change,20193,917
+Kansas,Thomas,0,% change,20193,917
 Kansas,Trego,0.0,% change,20195,919
 Kansas,Wabaunsee,0.0,% change,20197,920
 Kansas,Wallace,0.0,% change,20199,921
@@ -992,7 +992,7 @@ Kansas,Wichita,0.0,% change,20203,923
 Kansas,Wilson,0.0,% change,20205,925
 Kansas,Woodson,0.0,% change,20207,926
 Kansas,Wyandotte,-42.334051016,% change,20209,927
-Kentucky,Adair,nan,% change,21001,928
+Kentucky,Adair,0,% change,21001,928
 Kentucky,Allen,0.0,% change,21003,929
 Kentucky,Anderson,0.0,% change,21005,930
 Kentucky,Ballard,0.0,% change,21007,932
@@ -1000,7 +1000,7 @@ Kentucky,Barren,-3.345589075,% change,21009,933
 Kentucky,Bath,0.0,% change,21011,934
 Kentucky,Bell,5.383936452,% change,21013,936
 Kentucky,Boone,12.897780944,% change,21015,1002
-Kentucky,Bourbon,nan,% change,21017,1005
+Kentucky,Bourbon,0,% change,21017,1005
 Kentucky,Boyd,-17.973275791,% change,21019,1008
 Kentucky,Boyle,-100.0,% change,21021,1010
 Kentucky,Bracken,0.0,% change,21023,1013
@@ -1008,18 +1008,18 @@ Kentucky,Breathitt,0.0,% change,21025,1017
 Kentucky,Breckinridge,0.0,% change,21027,1020
 Kentucky,Bullitt,-5.049931195,% change,21029,1024
 Kentucky,Butler,0.0,% change,21031,1026
-Kentucky,Caldwell,nan,% change,21033,1031
+Kentucky,Caldwell,0,% change,21033,1031
 Kentucky,Calloway,-2.880945012,% change,21035,1033
 Kentucky,Campbell,31.926606834,% change,21037,1035
 Kentucky,Carlisle,0.0,% change,21039,1039
 Kentucky,Carroll,0.0,% change,21041,1041
 Kentucky,Carter,0.0,% change,21043,1044
-Kentucky,Casey,nan,% change,21045,1048
+Kentucky,Casey,0,% change,21045,1048
 Kentucky,Christian,104.828884087,% change,21047,1050
 Kentucky,Clark,-50.628326228,% change,21049,1053
 Kentucky,Clay,0.0,% change,21051,1056
 Kentucky,Clinton,0.0,% change,21053,1059
-Kentucky,Crittenden,nan,% change,21055,1064
+Kentucky,Crittenden,0,% change,21055,1064
 Kentucky,Cumberland,0.0,% change,21057,1067
 Kentucky,Daviess,29.782460639,% change,21059,1071
 Kentucky,Edmonson,0.0,% change,21061,1073
@@ -1031,17 +1031,17 @@ Kentucky,Floyd,0.0,% change,21071,1085
 Kentucky,Franklin,-67.29497157,% change,21073,1086
 Kentucky,Fulton,0.0,% change,21075,1088
 Kentucky,Gallatin,-50.687442713,% change,21077,1090
-Kentucky,Garrard,nan,% change,21079,1092
+Kentucky,Garrard,0,% change,21079,1092
 Kentucky,Grant,0.0,% change,21081,1094
 Kentucky,Graves,203.391838053,% change,21083,1097
-Kentucky,Grayson,nan,% change,21085,1100
+Kentucky,Grayson,0,% change,21085,1100
 Kentucky,Green,-100.0,% change,21087,1102
 Kentucky,Greenup,-48.555664199,% change,21089,1105
 Kentucky,Hancock,0.0,% change,21091,1107
 Kentucky,Hardin,20.657854116,% change,21093,1110
 Kentucky,Harlan,0.0,% change,21095,1114
 Kentucky,Harrison,0.0,% change,21097,1119
-Kentucky,Hart,nan,% change,21099,1121
+Kentucky,Hart,0,% change,21099,1121
 Kentucky,Henderson,-100.0,% change,21101,1126
 Kentucky,Henry,0.0,% change,21103,1129
 Kentucky,Hickman,0.0,% change,21105,1130
@@ -1054,7 +1054,7 @@ Kentucky,Kenton,-31.78108824,% change,21117,1151
 Kentucky,Knott,0.0,% change,21119,1154
 Kentucky,Knox,-100.0,% change,21121,1159
 Kentucky,Larue,-100.0,% change,21123,1162
-Kentucky,Laurel,nan,% change,21125,1166
+Kentucky,Laurel,0,% change,21125,1166
 Kentucky,Lawrence,0.0,% change,21127,1167
 Kentucky,Lee,0.0,% change,21129,1171
 Kentucky,Leslie,0.0,% change,21131,1175
@@ -1068,15 +1068,15 @@ Kentucky,McCracken,-32.83646047,% change,21145,1196
 Kentucky,McCreary,0.0,% change,21147,1198
 Kentucky,McLean,0.0,% change,21149,1201
 Kentucky,Madison,89.351888046,% change,21151,1204
-Kentucky,Magoffin,nan,% change,21153,1206
+Kentucky,Magoffin,0,% change,21153,1206
 Kentucky,Marion,0.0,% change,21155,1210
-Kentucky,Marshall,nan,% change,21157,1213
+Kentucky,Marshall,0,% change,21157,1213
 Kentucky,Martin,0.0,% change,21159,1215
 Kentucky,Mason,-100.0,% change,21161,1217
 Kentucky,Meade,0.0,% change,21163,1220
 Kentucky,Menifee,0.0,% change,21165,1222
 Kentucky,Mercer,0.0,% change,21167,1225
-Kentucky,Metcalfe,nan,% change,21169,1228
+Kentucky,Metcalfe,0,% change,21169,1228
 Kentucky,Monroe,3.157198223,% change,21171,1230
 Kentucky,Montgomery,-3.286215249,% change,21173,1233
 Kentucky,Morgan,-100.0,% change,21175,1235
@@ -1094,7 +1094,7 @@ Kentucky,Powell,0.0,% change,21197,1270
 Kentucky,Pulaski,-0.804511513,% change,21199,1272
 Kentucky,Robertson,0.0,% change,21201,1273
 Kentucky,Rockcastle,-100.0,% change,21203,1276
-Kentucky,Rowan,nan,% change,21205,1279
+Kentucky,Rowan,0,% change,21205,1279
 Kentucky,Russell,-50.241980867,% change,21207,1282
 Kentucky,Scott,0.0,% change,21209,1283
 Kentucky,Shelby,-53.995321085,% change,21211,1285
@@ -1104,16 +1104,16 @@ Kentucky,Taylor,-1.745488855,% change,21217,1003
 Kentucky,Todd,-100.0,% change,21219,1006
 Kentucky,Trigg,0.0,% change,21221,1009
 Kentucky,Trimble,-100.0,% change,21223,1012
-Kentucky,Union,nan,% change,21225,1016
+Kentucky,Union,0,% change,21225,1016
 Kentucky,Warren,14.579788034,% change,21227,1019
 Kentucky,Washington,0.0,% change,21229,1023
 Kentucky,Wayne,0.655326941,% change,21231,1027
-Kentucky,Webster,nan,% change,21233,1029
+Kentucky,Webster,0,% change,21233,1029
 Kentucky,Whitley,-0.670304407,% change,21235,1034
 Kentucky,Wolfe,0.0,% change,21237,1037
 Kentucky,Woodford,0.0,% change,21239,1042
 Louisiana,Acadia,37.82866242,% change,22001,1046
-Louisiana,Allen,nan,% change,22003,1051
+Louisiana,Allen,0,% change,22003,1051
 Louisiana,Ascension,-9.459370473,% change,22005,1055
 Louisiana,Assumption,-49.074928587,% change,22007,1060
 Louisiana,Avoyelles,1.839668616,% change,22009,1062
@@ -1127,12 +1127,12 @@ Louisiana,Cameron,0.0,% change,22023,1089
 Louisiana,Catahoula,-100.0,% change,22025,1093
 Louisiana,Claiborne,0.0,% change,22027,1095
 Louisiana,Concordia,4.206261879,% change,22029,1098
-Louisiana,De Soto,nan,% change,22031,1103
+Louisiana,De Soto,0,% change,22031,1103
 Louisiana,East Baton Rouge,-1.468068997,% change,22033,1108
 Louisiana,East Carroll,5.628362533,% change,22035,1111
-Louisiana,East Feliciana,nan,% change,22037,1115
+Louisiana,East Feliciana,0,% change,22037,1115
 Louisiana,Evangeline,50.498368437,% change,22039,1118
-Louisiana,Franklin,nan,% change,22041,1123
+Louisiana,Franklin,0,% change,22041,1123
 Louisiana,Grant,0.0,% change,22043,1127
 Louisiana,Iberia,0.584315174,% change,22045,1133
 Louisiana,Iberville,51.986815323,% change,22047,1134
@@ -1141,7 +1141,7 @@ Louisiana,Jefferson,-8.629310186,% change,22051,1147
 Louisiana,Jefferson Davis,0.701306981,% change,22053,1155
 Louisiana,Lafayette,-0.998017203,% change,22055,1161
 Louisiana,Lafourche,9.301641705,% change,22057,1280
-Louisiana,La Salle,nan,% change,22059,1289
+Louisiana,La Salle,0,% change,22059,1289
 Louisiana,Lincoln,-50.623334103,% change,22061,1291
 Louisiana,Livingston,30.085665334,% change,22063,1295
 Louisiana,Madison,0.0,% change,22065,1297
@@ -1153,8 +1153,8 @@ Louisiana,Plaquemines,-49.440562438,% change,22075,1427
 Louisiana,Pointe Coupee,-100.0,% change,22077,1431
 Louisiana,Rapides,-33.38026854,% change,22079,1434
 Louisiana,Red River,0.0,% change,22081,1436
-Louisiana,Richland,nan,% change,22083,1439
-Louisiana,Sabine,nan,% change,22085,1441
+Louisiana,Richland,0,% change,22083,1439
+Louisiana,Sabine,0,% change,22085,1441
 Louisiana,St. Bernard,-48.262539835,% change,22087,1463
 Louisiana,St. Charles,98.153753027,% change,22089,1466
 Louisiana,St. Helena,0.0,% change,22091,1467
@@ -1177,7 +1177,7 @@ Louisiana,West Carroll,0.0,% change,22123,1522
 Louisiana,West Feliciana,1.168026101,% change,22125,1524
 Louisiana,Winn,0.0,% change,22127,1529
 Maine,Androscoggin,-33.255025528,% change,23001,1532
-Maine,Aroostook,nan,% change,23003,1535
+Maine,Aroostook,0,% change,23003,1535
 Maine,Cumberland,19.349291742,% change,23005,1608
 Maine,Franklin,-65.935064791,% change,23007,1619
 Maine,Hancock,62.873405272,% change,23009,1748
@@ -1210,7 +1210,7 @@ Maryland,Montgomery,-18.051461106,% change,24031,1398
 Maryland,Prince George's,1.987308128,% change,24033,1403
 Maryland,Queen Anne's,-15.868303481,% change,24035,1413
 Maryland,St. Mary's,-27.85018107,% change,24037,1421
-Maryland,Somerset,nan,% change,24039,1430
+Maryland,Somerset,0,% change,24039,1430
 Maryland,Talbot,40.253400172,% change,24041,1438
 Maryland,Washington,-0.704225352,% change,24043,1445
 Maryland,Wicomico,-21.930106741,% change,24045,1446
@@ -1264,7 +1264,7 @@ Michigan,Houghton,1.218067076,% change,26061,1705
 Michigan,Huron,-21.883246956,% change,26063,1708
 Michigan,Ingham,-29.981478826,% change,26065,1710
 Michigan,Ionia,24.359244025,% change,26067,1713
-Michigan,Iosco,nan,% change,26069,1715
+Michigan,Iosco,0,% change,26069,1715
 Michigan,Iron,5.177964586,% change,26071,1716
 Michigan,Isabella,48.783265151,% change,26073,1717
 Michigan,Jackson,0.891192365,% change,26075,1719
@@ -1272,7 +1272,7 @@ Michigan,Kalamazoo,30.823632162,% change,26077,1720
 Michigan,Kalkaska,-0.797687861,% change,26079,1722
 Michigan,Kent,-2.77508602,% change,26081,1726
 Michigan,Keweenaw,0.0,% change,26083,1743
-Michigan,Lake,nan,% change,26085,1749
+Michigan,Lake,0,% change,26085,1749
 Michigan,Lapeer,199.697076276,% change,26087,1752
 Michigan,Leelanau,-11.413018192,% change,26089,1765
 Michigan,Lenawee,-11.777865191,% change,26091,1768
@@ -1283,7 +1283,7 @@ Michigan,Macomb,-4.809969715,% change,26099,1785
 Michigan,Manistee,1.366723954,% change,26101,1787
 Michigan,Marquette,-23.888445855,% change,26103,1793
 Michigan,Mason,-0.738403938,% change,26105,1797
-Michigan,Mecosta,nan,% change,26107,1800
+Michigan,Mecosta,0,% change,26107,1800
 Michigan,Menominee,2.760432367,% change,26109,1802
 Michigan,Midland,-16.341056097,% change,26111,1806
 Michigan,Missaukee,-0.931346461,% change,26113,1810
@@ -1313,7 +1313,7 @@ Michigan,Van Buren,-15.867696795,% change,26159,1867
 Michigan,Washtenaw,-7.281505653,% change,26161,1869
 Michigan,Wayne,4.765292744,% change,26163,1871
 Michigan,Wexford,64.390047346,% change,26165,1873
-Minnesota,Aitkin,nan,% change,27001,1875
+Minnesota,Aitkin,0,% change,27001,1875
 Minnesota,Anoka,30.153477949,% change,27003,1877
 Minnesota,Becker,191.182744726,% change,27005,1878
 Minnesota,Beltrami,-18.430737577,% change,27007,1880
@@ -1324,10 +1324,10 @@ Minnesota,Brown,-32.301480485,% change,27015,1892
 Minnesota,Carlton,49.523126266,% change,27017,1893
 Minnesota,Carver,-33.927485693,% change,27019,1894
 Minnesota,Cass,-51.068965517,% change,27021,1895
-Minnesota,Chippewa,nan,% change,27023,1896
+Minnesota,Chippewa,0,% change,27023,1896
 Minnesota,Chisago,-1.564102564,% change,27025,1897
 Minnesota,Clay,-4.707435808,% change,27027,1898
-Minnesota,Clearwater,nan,% change,27029,1899
+Minnesota,Clearwater,0,% change,27029,1899
 Minnesota,Cook,96.121257767,% change,27031,1900
 Minnesota,Cottonwood,0.0,% change,27033,1902
 Minnesota,Crow Wing,-29.825917289,% change,27035,1903
@@ -1338,20 +1338,20 @@ Minnesota,Faribault,4.373872248,% change,27043,1908
 Minnesota,Fillmore,-50.219895789,% change,27045,1909
 Minnesota,Freeborn,-31.866372836,% change,27047,1910
 Minnesota,Goodhue,-0.296280277,% change,27049,1911
-Minnesota,Grant,nan,% change,27051,1912
+Minnesota,Grant,0,% change,27051,1912
 Minnesota,Hennepin,0.210058471,% change,27053,1913
 Minnesota,Houston,-49.575297826,% change,27055,1914
 Minnesota,Hubbard,-25.74569236,% change,27057,1915
 Minnesota,Isanti,195.55773398,% change,27059,1916
 Minnesota,Itasca,33.182720917,% change,27061,1917
 Minnesota,Jackson,2.534701267,% change,27063,1918
-Minnesota,Kanabec,nan,% change,27065,1919
+Minnesota,Kanabec,0,% change,27065,1919
 Minnesota,Kandiyohi,23.756510722,% change,27067,1920
 Minnesota,Kittson,-47.429365447,% change,27069,1921
-Minnesota,Koochiching,nan,% change,27071,1922
+Minnesota,Koochiching,0,% change,27071,1922
 Minnesota,Lac qui Parle,7.059172475,% change,27073,1923
 Minnesota,Lake,-74.370007607,% change,27075,1926
-Minnesota,Lake of the Woods,nan,% change,27077,1927
+Minnesota,Lake of the Woods,0,% change,27077,1927
 Minnesota,Le Sueur,0.238146785,% change,27079,1929
 Minnesota,Lincoln,1.75192712,% change,27081,1931
 Minnesota,Lyon,-0.158539886,% change,27083,1932
@@ -1360,7 +1360,7 @@ Minnesota,Mahnomen,0.0,% change,27087,1936
 Minnesota,Marshall,0.0,% change,27089,1937
 Minnesota,Martin,-48.172448467,% change,27091,1940
 Minnesota,Meeker,-49.792198796,% change,27093,1941
-Minnesota,Mille Lacs,nan,% change,27095,1943
+Minnesota,Mille Lacs,0,% change,27095,1943
 Minnesota,Morrison,-39.39854192,% change,27097,1944
 Minnesota,Mower,-49.947875613,% change,27099,1945
 Minnesota,Murray,0.0,% change,27101,1947
@@ -1377,10 +1377,10 @@ Minnesota,Pope,-0.447039504,% change,27121,1961
 Minnesota,Ramsey,-0.326902024,% change,27123,1964
 Minnesota,Red Lake,0.0,% change,27125,1966
 Minnesota,Redwood,0.0,% change,27127,1969
-Minnesota,Renville,nan,% change,27129,1971
+Minnesota,Renville,0,% change,27129,1971
 Minnesota,Rice,12.314970509,% change,27131,1973
 Minnesota,Rock,0.0,% change,27133,1974
-Minnesota,Roseau,nan,% change,27135,1976
+Minnesota,Roseau,0,% change,27135,1976
 Minnesota,St. Louis,18.960168585,% change,27137,1978
 Minnesota,Scott,-15.978268723,% change,27139,1979
 Minnesota,Sherburne,-4.270882492,% change,27141,1980
@@ -1391,7 +1391,7 @@ Minnesota,Stevens,0.0,% change,27149,1987
 Minnesota,Swift,-100.0,% change,27151,1988
 Minnesota,Todd,103.991148992,% change,27153,1989
 Minnesota,Traverse,0.0,% change,27155,1990
-Minnesota,Wabasha,nan,% change,27157,1991
+Minnesota,Wabasha,0,% change,27157,1991
 Minnesota,Wadena,0.611823677,% change,27159,1992
 Minnesota,Waseca,-32.076340203,% change,27161,1993
 Minnesota,Washington,61.487559781,% change,27163,1994
@@ -1420,8 +1420,8 @@ Mississippi,DeSoto,24.546982255,% change,28033,1571
 Mississippi,Forrest,16.915001917,% change,28035,1572
 Mississippi,Franklin,0.0,% change,28037,1575
 Mississippi,George,-100.0,% change,28039,1577
-Mississippi,Greene,nan,% change,28041,1579
-Mississippi,Grenada,nan,% change,28043,1581
+Mississippi,Greene,0,% change,28041,1579
+Mississippi,Grenada,0,% change,28043,1581
 Mississippi,Hancock,-4.158895535,% change,28045,1583
 Mississippi,Harrison,-27.522494531,% change,28047,1587
 Mississippi,Hinds,36.772283287,% change,28049,1591
@@ -1450,11 +1450,11 @@ Mississippi,Marshall,0.0,% change,28093,1655
 Mississippi,Monroe,-100.0,% change,28095,1656
 Mississippi,Montgomery,0.0,% change,28097,1658
 Mississippi,Neshoba,0.0,% change,28099,1661
-Mississippi,Newton,nan,% change,28101,1663
-Mississippi,Noxubee,nan,% change,28103,1666
+Mississippi,Newton,0,% change,28101,1663
+Mississippi,Noxubee,0,% change,28103,1666
 Mississippi,Oktibbeha,92.504891184,% change,28105,1668
 Mississippi,Panola,101.826697892,% change,28107,1671
-Mississippi,Pearl River,nan,% change,28109,1676
+Mississippi,Pearl River,0,% change,28109,1676
 Mississippi,Perry,0.0,% change,28111,1679
 Mississippi,Pike,-48.962330842,% change,28113,1680
 Mississippi,Pontotoc,-5.289944969,% change,28115,1682
@@ -1463,38 +1463,38 @@ Mississippi,Quitman,0.0,% change,28119,1685
 Mississippi,Rankin,472.488978911,% change,28121,1690
 Mississippi,Scott,-0.119811121,% change,28123,1692
 Mississippi,Sharkey,0.0,% change,28125,1695
-Mississippi,Simpson,nan,% change,28127,1698
+Mississippi,Simpson,0,% change,28127,1698
 Mississippi,Smith,0.0,% change,28129,1709
 Mississippi,Stone,-100.0,% change,28131,1712
 Mississippi,Sunflower,8.056387131,% change,28133,1721
 Mississippi,Tallahatchie,0.0,% change,28135,1725
 Mississippi,Tate,-100.0,% change,28137,1727
 Mississippi,Tippah,0.0,% change,28139,1730
-Mississippi,Tishomingo,nan,% change,28141,1732
-Mississippi,Tunica,nan,% change,28143,1735
+Mississippi,Tishomingo,0,% change,28141,1732
+Mississippi,Tunica,0,% change,28143,1735
 Mississippi,Union,92.691968226,% change,28145,1737
 Mississippi,Walthall,0.0,% change,28147,1740
 Mississippi,Warren,-65.770285496,% change,28149,1746
 Mississippi,Washington,-100.0,% change,28151,1750
 Mississippi,Wayne,-100.0,% change,28153,1753
 Mississippi,Webster,0.0,% change,28155,1756
-Mississippi,Wilkinson,nan,% change,28157,1757
-Mississippi,Winston,nan,% change,28159,1758
+Mississippi,Wilkinson,0,% change,28157,1757
+Mississippi,Winston,0,% change,28159,1758
 Mississippi,Yalobusha,0.0,% change,28161,1759
-Mississippi,Yazoo,nan,% change,28163,1760
+Mississippi,Yazoo,0,% change,28163,1760
 Missouri,Adair,1.633429806,% change,29001,1761
 Missouri,Andrew,-100.0,% change,29003,1762
 Missouri,Atchison,-100.0,% change,29005,1763
-Missouri,Audrain,nan,% change,29007,1766
-Missouri,Barry,nan,% change,29009,1767
-Missouri,Barton,nan,% change,29011,1771
+Missouri,Audrain,0,% change,29007,1766
+Missouri,Barry,0,% change,29009,1767
+Missouri,Barton,0,% change,29011,1771
 Missouri,Bates,-48.17970802,% change,29013,1776
 Missouri,Benton,0.565509223,% change,29015,1778
 Missouri,Bollinger,-100.0,% change,29017,1781
 Missouri,Boone,-40.161165333,% change,29019,1783
 Missouri,Buchanan,-19.717975692,% change,29021,1789
 Missouri,Butler,100.916123303,% change,29023,1792
-Missouri,Caldwell,nan,% change,29025,1795
+Missouri,Caldwell,0,% change,29025,1795
 Missouri,Callaway,0.0,% change,29027,1799
 Missouri,Camden,-35.12852985,% change,29029,1803
 Missouri,Cape Girardeau,22.091465748,% change,29031,1808
@@ -1509,7 +1509,7 @@ Missouri,Clay,-55.620684541,% change,29047,1018
 Missouri,Clinton,-66.429615197,% change,29049,1021
 Missouri,Cole,-25.295017909,% change,29051,1022
 Missouri,Cooper,-0.757789968,% change,29053,1025
-Missouri,Crawford,nan,% change,29055,1028
+Missouri,Crawford,0,% change,29055,1028
 Missouri,Dade,-100.0,% change,29057,1030
 Missouri,Dallas,205.732600733,% change,29059,1032
 Missouri,Daviess,-100.0,% change,29061,1036
@@ -1518,8 +1518,8 @@ Missouri,Dent,1.011345219,% change,29065,1040
 Missouri,Douglas,-100.0,% change,29067,1043
 Missouri,Dunklin,0.0,% change,29069,1045
 Missouri,Franklin,-17.579850906,% change,29071,1047
-Missouri,Gasconade,nan,% change,29073,1049
-Missouri,Gentry,nan,% change,29075,1052
+Missouri,Gasconade,0,% change,29073,1049
+Missouri,Gentry,0,% change,29075,1052
 Missouri,Greene,16.965913991,% change,29077,1054
 Missouri,Grundy,0.0,% change,29079,1057
 Missouri,Harrison,-48.306169965,% change,29081,1058
@@ -1539,15 +1539,15 @@ Missouri,Lafayette,-48.965951693,% change,29107,1099
 Missouri,Lawrence,0.0,% change,29109,1101
 Missouri,Lewis,0.0,% change,29111,1104
 Missouri,Lincoln,-3.843366071,% change,29113,1106
-Missouri,Linn,nan,% change,29115,1109
+Missouri,Linn,0,% change,29115,1109
 Missouri,Livingston,199.564011098,% change,29117,1112
 Missouri,McDonald,-100.0,% change,29119,1113
 Missouri,Macon,2.251865548,% change,29121,1116
-Missouri,Madison,nan,% change,29123,1117
+Missouri,Madison,0,% change,29123,1117
 Missouri,Maries,0.0,% change,29125,1120
 Missouri,Marion,0.390693131,% change,29127,1122
 Missouri,Mercer,0.0,% change,29129,1125
-Missouri,Miller,nan,% change,29131,1128
+Missouri,Miller,0,% change,29131,1128
 Missouri,Mississippi,106.98842542,% change,29133,1131
 Missouri,Moniteau,0.0,% change,29135,1135
 Missouri,Monroe,0.0,% change,29137,1139
@@ -1562,7 +1562,7 @@ Missouri,Ozark,0.0,% change,29153,1168
 Missouri,Pemiscot,-46.804467314,% change,29155,1170
 Missouri,Perry,-1.031196292,% change,29157,1172
 Missouri,Pettis,49.471381268,% change,29159,1174
-Missouri,Phelps,nan,% change,29161,1176
+Missouri,Phelps,0,% change,29161,1176
 Missouri,Pike,0.0,% change,29163,1179
 Missouri,Platte,-7.950087681,% change,29165,1181
 Missouri,Polk,0.0,% change,29167,1183
@@ -1572,16 +1572,16 @@ Missouri,Ralls,0.0,% change,29173,1191
 Missouri,Randolph,0.0,% change,29175,1194
 Missouri,Ray,0.0,% change,29177,1197
 Missouri,Reynolds,0.0,% change,29179,1200
-Missouri,Ripley,nan,% change,29181,1203
+Missouri,Ripley,0,% change,29181,1203
 Missouri,St. Charles,-23.812380556,% change,29183,1205
 Missouri,St. Clair,4.304315076,% change,29185,1208
 Missouri,Ste. Genevieve,-49.155480984,% change,29186,1209
 Missouri,St. Francois,97.538897173,% change,29187,1212
 Missouri,St. Louis County,4.339369604,% change,29189,1216
-Missouri,Saline,nan,% change,29195,1218
+Missouri,Saline,0,% change,29195,1218
 Missouri,Schuyler,-100.0,% change,29197,1221
 Missouri,Scotland,0.0,% change,29199,1224
-Missouri,Scott,nan,% change,29201,1227
+Missouri,Scott,0,% change,29201,1227
 Missouri,Shannon,0.0,% change,29203,1229
 Missouri,Shelby,0.0,% change,29205,1232
 Missouri,Stoddard,0.0,% change,29207,1236
@@ -1601,11 +1601,11 @@ Montana,Beaverhead,-100.0,% change,30001,1269
 Montana,Big Horn,0.0,% change,30003,1274
 Montana,Blaine,-100.0,% change,30005,1124
 Montana,Broadwater,0.0,% change,30007,1132
-Montana,Carbon,nan,% change,30009,1137
+Montana,Carbon,0,% change,30009,1137
 Montana,Carter,0.0,% change,30011,1141
 Montana,Cascade,-33.181163689,% change,30013,1144
 Montana,Chouteau,-100.0,% change,30015,1150
-Montana,Custer,nan,% change,30017,1153
+Montana,Custer,0,% change,30017,1153
 Montana,Daniels,0.0,% change,30019,1157
 Montana,Dawson,0.0,% change,30021,1160
 Montana,Deer Lodge,0.0,% change,30023,1163
@@ -1618,7 +1618,7 @@ Montana,Glacier,-0.738898237,% change,30035,1186
 Montana,Golden Valley,0.0,% change,30037,1189
 Montana,Granite,-6.318347509,% change,30039,1192
 Montana,Hill,-50.18545543,% change,30041,1195
-Montana,Jefferson,nan,% change,30043,1199
+Montana,Jefferson,0,% change,30043,1199
 Montana,Judith Basin,0.0,% change,30045,1202
 Montana,Lake,94.998485409,% change,30047,1207
 Montana,Lewis and Clark,92.364355013,% change,30049,1211
@@ -1658,23 +1658,23 @@ Nebraska,Antelope,0.0,% change,31003,1305
 Nebraska,Arthur,0.0,% change,31005,1307
 Nebraska,Banner,0.0,% change,31007,1308
 Nebraska,Blaine,0.0,% change,31009,1309
-Nebraska,Boone,nan,% change,31011,1310
-Nebraska,Box Butte,nan,% change,31013,1315
+Nebraska,Boone,0,% change,31011,1310
+Nebraska,Box Butte,0,% change,31013,1315
 Nebraska,Boyd,0.0,% change,31015,1317
-Nebraska,Brown,nan,% change,31017,1319
+Nebraska,Brown,0,% change,31017,1319
 Nebraska,Buffalo,-28.856162164,% change,31019,1321
 Nebraska,Burt,0.0,% change,31021,1323
 Nebraska,Butler,-100.0,% change,31023,1325
-Nebraska,Cass,nan,% change,31025,1326
+Nebraska,Cass,0,% change,31025,1326
 Nebraska,Cedar,1.803374055,% change,31027,1329
 Nebraska,Chase,0.0,% change,31029,1330
 Nebraska,Cherry,0.0,% change,31031,1333
 Nebraska,Cheyenne,-0.774885754,% change,31033,1334
-Nebraska,Clay,nan,% change,31035,1336
+Nebraska,Clay,0,% change,31035,1336
 Nebraska,Colfax,-0.759921193,% change,31037,1338
 Nebraska,Cuming,0.0,% change,31039,1340
 Nebraska,Custer,0.636707576,% change,31041,1342
-Nebraska,Dakota,nan,% change,31043,1344
+Nebraska,Dakota,0,% change,31043,1344
 Nebraska,Dawes,0.0,% change,31045,1347
 Nebraska,Dawson,-49.11849893,% change,31047,1349
 Nebraska,Deuel,0.0,% change,31049,1351
@@ -1683,7 +1683,7 @@ Nebraska,Dodge,-32.673357581,% change,31053,1354
 Nebraska,Douglas,-3.510831202,% change,31055,1358
 Nebraska,Dundy,0.0,% change,31057,1360
 Nebraska,Fillmore,3.29787234,% change,31059,1363
-Nebraska,Franklin,nan,% change,31061,1369
+Nebraska,Franklin,0,% change,31061,1369
 Nebraska,Frontier,0.0,% change,31063,1371
 Nebraska,Furnas,0.0,% change,31065,1374
 Nebraska,Gage,-49.312786339,% change,31067,1378
@@ -1697,13 +1697,13 @@ Nebraska,Hamilton,-1.025081788,% change,31081,1405
 Nebraska,Harlan,0.0,% change,31083,1409
 Nebraska,Hayes,0.0,% change,31085,1411
 Nebraska,Hitchcock,0.0,% change,31087,1414
-Nebraska,Holt,nan,% change,31089,1416
+Nebraska,Holt,0,% change,31089,1416
 Nebraska,Hooker,0.0,% change,31091,1418
 Nebraska,Howard,0.0,% change,31093,1311
-Nebraska,Jefferson,nan,% change,31095,1312
+Nebraska,Jefferson,0,% change,31095,1312
 Nebraska,Johnson,0.0,% change,31097,1313
 Nebraska,Kearney,0.0,% change,31099,1314
-Nebraska,Keith,nan,% change,31101,1316
+Nebraska,Keith,0,% change,31101,1316
 Nebraska,Keya Paha,0.0,% change,31103,1318
 Nebraska,Kimball,0.0,% change,31105,1320
 Nebraska,Knox,0.0,% change,31107,1322
@@ -1714,7 +1714,7 @@ Nebraska,Loup,0.0,% change,31115,1331
 Nebraska,McPherson,0.0,% change,31117,1332
 Nebraska,Madison,25.282667812,% change,31119,1335
 Nebraska,Merrick,0.0,% change,31121,1337
-Nebraska,Morrill,nan,% change,31123,1339
+Nebraska,Morrill,0,% change,31123,1339
 Nebraska,Nance,0.0,% change,31125,1341
 Nebraska,Nemaha,3.667096405,% change,31127,1343
 Nebraska,Nuckolls,0.0,% change,31129,1345
@@ -1724,7 +1724,7 @@ Nebraska,Perkins,0.0,% change,31135,1352
 Nebraska,Phelps,0.0,% change,31137,1355
 Nebraska,Pierce,0.0,% change,31139,1356
 Nebraska,Platte,-1.28695441,% change,31141,1359
-Nebraska,Polk,nan,% change,31143,1362
+Nebraska,Polk,0,% change,31143,1362
 Nebraska,Red Willow,2.457572104,% change,31145,1364
 Nebraska,Richardson,0.0,% change,31147,1365
 Nebraska,Rock,0.0,% change,31149,1366
@@ -1749,10 +1749,10 @@ Nebraska,York,0.188939757,% change,31185,1392
 Nevada,Churchill,2.506662225,% change,32001,1396
 Nevada,Clark,-2.681892056,% change,32003,1399
 Nevada,Douglas,95.983064634,% change,32005,1400
-Nevada,Elko,nan,% change,32007,1401
+Nevada,Elko,0,% change,32007,1401
 Nevada,Esmeralda,0.0,% change,32009,1404
 Nevada,Eureka,0.0,% change,32011,1406
-Nevada,Humboldt,nan,% change,32013,1407
+Nevada,Humboldt,0,% change,32013,1407
 Nevada,Lander,0.0,% change,32015,1408
 Nevada,Lincoln,0.0,% change,32017,1410
 Nevada,Lyon,-100.0,% change,32019,1412
@@ -1798,7 +1798,7 @@ New Mexico,Bernalillo,-10.098988667,% change,35001,1574
 New Mexico,Catron,0.0,% change,35003,1576
 New Mexico,Chaves,-16.289333191,% change,35005,1578
 New Mexico,Cibola,0.0,% change,35006,1580
-New Mexico,Colfax,nan,% change,35007,1582
+New Mexico,Colfax,0,% change,35007,1582
 New Mexico,Curry,-0.912932547,% change,35009,1586
 New Mexico,De Baca,0.0,% change,35011,1589
 New Mexico,Doña Ana,-22.590975164,% change,35013,1590
@@ -1852,7 +1852,7 @@ New York,Herkimer,-38.171545639,% change,36043,1745
 New York,Jefferson,-48.368745836,% change,36045,1782
 New York,Kings,-7.698112123,% change,36047,1788
 New York,Lewis,-59.456578849,% change,36049,1790
-New York,Livingston,nan,% change,36051,1791
+New York,Livingston,0,% change,36051,1791
 New York,Madison,2.102564821,% change,36053,1796
 New York,Monroe,-12.711507428,% change,36055,1804
 New York,Montgomery,1.299070353,% change,36057,1807
@@ -1863,7 +1863,7 @@ New York,Oneida,-30.913701753,% change,36065,1852
 New York,Onondaga,-5.804939361,% change,36067,1853
 New York,Ontario,-17.417979182,% change,36069,1856
 New York,Orange,-8.036025602,% change,36071,1859
-New York,Orleans,nan,% change,36073,1862
+New York,Orleans,0,% change,36073,1862
 New York,Oswego,-23.064874229,% change,36075,1864
 New York,Otsego,-26.643166091,% change,36077,1868
 New York,Putnam,0.758775869,% change,36079,1870
@@ -1891,12 +1891,12 @@ New York,Wyoming,-48.250451297,% change,36121,1962
 New York,Yates,1.714491248,% change,36123,1965
 North Carolina,Alamance,-4.05962655,% change,37001,1967
 North Carolina,Alexander,-0.619801449,% change,37003,1968
-North Carolina,Alleghany,nan,% change,37005,1970
+North Carolina,Alleghany,0,% change,37005,1970
 North Carolina,Anson,5.565508181,% change,37007,1972
 North Carolina,Ashe,0.949390745,% change,37009,1975
 North Carolina,Avery,-100.0,% change,37011,1977
 North Carolina,Beaufort,34.183540607,% change,37013,1981
-North Carolina,Bertie,nan,% change,37015,1983
+North Carolina,Bertie,0,% change,37015,1983
 North Carolina,Bladen,0.0,% change,37017,1986
 North Carolina,Brunswick,-18.571093154,% change,37019,1995
 North Carolina,Buncombe,53.520095248,% change,37021,1422
@@ -1908,8 +1908,8 @@ North Carolina,Carteret,-2.07537579,% change,37031,1447
 North Carolina,Caswell,-100.0,% change,37033,1449
 North Carolina,Catawba,122.003772814,% change,37035,1450
 North Carolina,Chatham,-8.113256187,% change,37037,1451
-North Carolina,Cherokee,nan,% change,37039,1452
-North Carolina,Chowan,nan,% change,37041,1455
+North Carolina,Cherokee,0,% change,37039,1452
+North Carolina,Chowan,0,% change,37041,1455
 North Carolina,Clay,-100.0,% change,37043,1457
 North Carolina,Cleveland,67.238230589,% change,37045,1458
 North Carolina,Columbus,-65.863140144,% change,37047,1459
@@ -1927,11 +1927,11 @@ North Carolina,Franklin,0.0,% change,37069,1498
 North Carolina,Gaston,27.215698569,% change,37071,1499
 North Carolina,Gates,-48.059173639,% change,37073,1500
 North Carolina,Graham,0.0,% change,37075,1502
-North Carolina,Granville,nan,% change,37077,1503
-North Carolina,Greene,nan,% change,37079,1505
+North Carolina,Granville,0,% change,37077,1503
+North Carolina,Greene,0,% change,37079,1505
 North Carolina,Guilford,21.4393367,% change,37081,1506
 North Carolina,Halifax,30.424514661,% change,37083,1508
-North Carolina,Harnett,nan,% change,37085,1509
+North Carolina,Harnett,0,% change,37085,1509
 North Carolina,Haywood,-51.364509505,% change,37087,1512
 North Carolina,Henderson,32.191318413,% change,37089,1514
 North Carolina,Hertford,53.386454183,% change,37091,1515
@@ -1961,7 +1961,7 @@ North Carolina,Pamlico,-100.0,% change,37137,1703
 North Carolina,Pasquotank,1.671084185,% change,37139,1714
 North Carolina,Pender,170.956075861,% change,37141,1718
 North Carolina,Perquimans,0.0,% change,37143,1724
-North Carolina,Person,nan,% change,37145,1729
+North Carolina,Person,0,% change,37145,1729
 North Carolina,Pitt,-3.840069359,% change,37147,1733
 North Carolina,Polk,-0.621908819,% change,37149,1738
 North Carolina,Randolph,-18.937674689,% change,37151,1741
@@ -1981,7 +1981,7 @@ North Carolina,Tyrrell,0.0,% change,37177,1794
 North Carolina,Union,35.736293811,% change,37179,1798
 North Carolina,Vance,1.967316436,% change,37181,1801
 North Carolina,Wake,31.807237932,% change,37183,1805
-North Carolina,Warren,nan,% change,37185,1809
+North Carolina,Warren,0,% change,37185,1809
 North Carolina,Washington,6.569403231,% change,37187,1811
 North Carolina,Watauga,66.958261705,% change,37189,1813
 North Carolina,Wayne,-22.469659479,% change,37191,1814
@@ -2001,7 +2001,7 @@ North Dakota,Cass,-34.370651396,% change,38017,1848
 North Dakota,Cavalier,3.517060367,% change,38019,1849
 North Dakota,Dickey,0.0,% change,38021,2004
 North Dakota,Divide,0.0,% change,38023,2007
-North Dakota,Dunn,nan,% change,38025,2013
+North Dakota,Dunn,0,% change,38025,2013
 North Dakota,Eddy,0.0,% change,38027,2017
 North Dakota,Emmons,5.307346327,% change,38029,2021
 North Dakota,Foster,0.996978852,% change,38031,2026
@@ -2013,11 +2013,11 @@ North Dakota,Hettinger,0.0,% change,38041,2063
 North Dakota,Kidder,0.0,% change,38043,2068
 North Dakota,LaMoure,-100.0,% change,38045,2074
 North Dakota,Logan,2.173913043,% change,38047,2078
-North Dakota,McHenry,nan,% change,38049,2082
+North Dakota,McHenry,0,% change,38049,2082
 North Dakota,McIntosh,0.0,% change,38051,2090
 North Dakota,McKenzie,0.0,% change,38053,2097
 North Dakota,McLean,0.0,% change,38055,2103
-North Dakota,Mercer,nan,% change,38057,2107
+North Dakota,Mercer,0,% change,38057,2107
 North Dakota,Morton,-9.475747183,% change,38059,2114
 North Dakota,Mountrail,0.0,% change,38061,2119
 North Dakota,Nelson,0.0,% change,38063,2122
@@ -2027,7 +2027,7 @@ North Dakota,Pierce,0.0,% change,38069,2136
 North Dakota,Ramsey,-100.0,% change,38071,2141
 North Dakota,Ransom,0.0,% change,38073,2147
 North Dakota,Renville,0.0,% change,38075,2150
-North Dakota,Richland,nan,% change,38077,2156
+North Dakota,Richland,0,% change,38077,2156
 North Dakota,Rolette,0.0,% change,38079,2161
 North Dakota,Sargent,0.0,% change,38081,2164
 North Dakota,Sheridan,0.0,% change,38083,2169
@@ -2036,7 +2036,7 @@ North Dakota,Slope,0.0,% change,38087,2180
 North Dakota,Stark,22.31494685,% change,38089,2182
 North Dakota,Steele,0.0,% change,38091,2186
 North Dakota,Stutsman,0.0428388,% change,38093,2199
-North Dakota,Towner,nan,% change,38095,2205
+North Dakota,Towner,0,% change,38095,2205
 North Dakota,Traill,0.0,% change,38097,2217
 North Dakota,Walsh,1.463818818,% change,38099,2225
 North Dakota,Ward,6.987821856,% change,38101,2233
@@ -2105,16 +2105,16 @@ Ohio,Muskingum,-39.782843976,% change,39119,2010
 Ohio,Noble,0.0,% change,39121,2012
 Ohio,Ottawa,2.020002469,% change,39123,2019
 Ohio,Paulding,105.658474441,% change,39125,2024
-Ohio,Perry,nan,% change,39127,2027
+Ohio,Perry,0,% change,39127,2027
 Ohio,Pickaway,-67.590242772,% change,39129,2031
 Ohio,Pike,0.0,% change,39131,2034
 Ohio,Portage,79.663669664,% change,39133,2038
-Ohio,Preble,nan,% change,39135,2039
+Ohio,Preble,0,% change,39135,2039
 Ohio,Putnam,-24.208460724,% change,39137,2040
 Ohio,Richland,-56.448537968,% change,39139,2042
 Ohio,Ross,-66.385385516,% change,39141,2045
 Ohio,Sandusky,-23.33631349,% change,39143,2047
-Ohio,Scioto,nan,% change,39145,2048
+Ohio,Scioto,0,% change,39145,2048
 Ohio,Seneca,0.0,% change,39147,2049
 Ohio,Shelby,-49.499240652,% change,39149,2052
 Ohio,Stark,-30.127261564,% change,39151,2054
@@ -2122,14 +2122,14 @@ Ohio,Summit,-6.51139724,% change,39153,2057
 Ohio,Trumbull,-17.182760621,% change,39155,2061
 Ohio,Tuscarawas,-25.002432827,% change,39157,2065
 Ohio,Union,-76.095913878,% change,39159,2067
-Ohio,Van Wert,nan,% change,39161,2071
+Ohio,Van Wert,0,% change,39161,2071
 Ohio,Vinton,0.0,% change,39163,2075
 Ohio,Warren,30.759053939,% change,39165,2076
 Ohio,Washington,78.044106715,% change,39167,2080
 Ohio,Wayne,-12.48694882,% change,39169,2084
-Ohio,Williams,nan,% change,39171,2087
+Ohio,Williams,0,% change,39171,2087
 Ohio,Wood,-30.003810875,% change,39173,2091
-Ohio,Wyandot,nan,% change,39175,2093
+Ohio,Wyandot,0,% change,39175,2093
 Oklahoma,Adair,0.0,% change,40001,2095
 Oklahoma,Alfalfa,0.0,% change,40003,2099
 Oklahoma,Atoka,-100.0,% change,40005,2102
@@ -2137,7 +2137,7 @@ Oklahoma,Beaver,-100.0,% change,40007,2104
 Oklahoma,Beckham,198.234664765,% change,40009,2106
 Oklahoma,Blaine,1.003029986,% change,40011,2110
 Oklahoma,Bryan,0.0,% change,40013,2112
-Oklahoma,Caddo,nan,% change,40015,2118
+Oklahoma,Caddo,0,% change,40015,2118
 Oklahoma,Canadian,162.713219812,% change,40017,2123
 Oklahoma,Carter,-25.508695382,% change,40019,2126
 Oklahoma,Cherokee,-100.0,% change,40021,2129
@@ -2147,10 +2147,10 @@ Oklahoma,Cleveland,-5.698851154,% change,40027,2140
 Oklahoma,Coal,0.0,% change,40029,2144
 Oklahoma,Comanche,55.657836208,% change,40031,2145
 Oklahoma,Cotton,0.0,% change,40033,2146
-Oklahoma,Craig,nan,% change,40035,2148
+Oklahoma,Craig,0,% change,40035,2148
 Oklahoma,Creek,-0.63346378,% change,40037,2151
 Oklahoma,Custer,42.955758306,% change,40039,2153
-Oklahoma,Delaware,nan,% change,40041,2154
+Oklahoma,Delaware,0,% change,40041,2154
 Oklahoma,Dewey,0.0,% change,40043,2158
 Oklahoma,Ellis,0.0,% change,40045,2165
 Oklahoma,Garfield,94.485765581,% change,40047,2167
@@ -2202,7 +2202,7 @@ Oklahoma,Stephens,53.805150819,% change,40137,2396
 Oklahoma,Texas,-100.0,% change,40139,2003
 Oklahoma,Tillman,0.0,% change,40141,2005
 Oklahoma,Tulsa,-22.5533396,% change,40143,2008
-Oklahoma,Wagoner,nan,% change,40145,2014
+Oklahoma,Wagoner,0,% change,40145,2014
 Oklahoma,Washington,-25.861039411,% change,40147,2018
 Oklahoma,Washita,1.202719191,% change,40149,2023
 Oklahoma,Woods,-3.908473834,% change,40151,2029
@@ -2222,10 +2222,10 @@ Oregon,Grant,3.131959911,% change,41023,2130
 Oregon,Harney,0.0,% change,41025,2134
 Oregon,Hood River,-2.714186611,% change,41027,2138
 Oregon,Jackson,5.884843046,% change,41029,2139
-Oregon,Jefferson,nan,% change,41031,2143
+Oregon,Jefferson,0,% change,41031,2143
 Oregon,Josephine,-3.131078769,% change,41033,2152
 Oregon,Klamath,-16.661637725,% change,41035,2155
-Oregon,Lake,nan,% change,41037,2159
+Oregon,Lake,0,% change,41037,2159
 Oregon,Lane,-6.944025835,% change,41039,2170
 Oregon,Lincoln,-20.242047171,% change,41041,2174
 Oregon,Linn,-27.804400978,% change,41043,2181
@@ -2317,13 +2317,13 @@ Rhode Island,Providence,6.018076479,% change,44007,2475
 Rhode Island,Washington,33.851930053,% change,44009,2484
 South Carolina,Abbeville,-100.0,% change,45001,2489
 South Carolina,Aiken,-15.294493835,% change,45003,2503
-South Carolina,Allendale,nan,% change,45005,2527
+South Carolina,Allendale,0,% change,45005,2527
 South Carolina,Anderson,15.344954278,% change,45007,2559
-South Carolina,Bamberg,nan,% change,45009,2592
+South Carolina,Bamberg,0,% change,45009,2592
 South Carolina,Barnwell,-100.0,% change,45011,2605
 South Carolina,Beaufort,25.059047287,% change,45013,2626
 South Carolina,Berkeley,-25.900227978,% change,45015,2631
-South Carolina,Calhoun,nan,% change,45017,2635
+South Carolina,Calhoun,0,% change,45017,2635
 South Carolina,Charleston,2.438638599,% change,45019,2691
 South Carolina,Cherokee,47.247245483,% change,45021,2700
 South Carolina,Chester,-100.0,% change,45023,2704
@@ -2333,8 +2333,8 @@ South Carolina,Colleton,104.553312588,% change,45029,2718
 South Carolina,Darlington,305.236752264,% change,45031,2721
 South Carolina,Dillon,-31.301986999,% change,45033,2725
 South Carolina,Dorchester,-54.188739241,% change,45035,2730
-South Carolina,Edgefield,nan,% change,45037,2735
-South Carolina,Fairfield,nan,% change,45039,2738
+South Carolina,Edgefield,0,% change,45037,2735
+South Carolina,Fairfield,0,% change,45039,2738
 South Carolina,Florence,49.048740321,% change,45041,2742
 South Carolina,Georgetown,-31.536318311,% change,45043,2752
 South Carolina,Greenville,-11.522715733,% change,45045,2759
@@ -2342,7 +2342,7 @@ South Carolina,Greenwood,397.648634783,% change,45047,2764
 South Carolina,Hampton,0.0,% change,45049,2767
 South Carolina,Horry,-18.129850333,% change,45051,2774
 South Carolina,Jasper,-39.921389809,% change,45053,2783
-South Carolina,Kershaw,nan,% change,45055,2787
+South Carolina,Kershaw,0,% change,45055,2787
 South Carolina,Lancaster,-13.361526904,% change,45057,2790
 South Carolina,Laurens,-0.135194003,% change,45059,2794
 South Carolina,Lee,0.0,% change,45061,2800
@@ -2351,7 +2351,7 @@ South Carolina,McCormick,0.0,% change,45065,2807
 South Carolina,Marion,-48.384404623,% change,45067,2811
 South Carolina,Marlboro,5.603639592,% change,45069,2813
 South Carolina,Newberry,-100.0,% change,45071,2818
-South Carolina,Oconee,nan,% change,45073,2822
+South Carolina,Oconee,0,% change,45073,2822
 South Carolina,Orangeburg,55.67844771,% change,45075,2829
 South Carolina,Pickens,-35.148325592,% change,45077,2834
 South Carolina,Richland,-0.263083645,% change,45079,2843
@@ -2364,7 +2364,7 @@ South Carolina,York,-10.802021721,% change,45091,2867
 South Dakota,Aurora,-100.0,% change,46003,2870
 South Dakota,Beadle,0.0,% change,46005,2874
 South Dakota,Bennett,0.0580215,% change,46007,2876
-South Dakota,Bon Homme,nan,% change,46009,2879
+South Dakota,Bon Homme,0,% change,46009,2879
 South Dakota,Brookings,-5.634671286,% change,46011,2882
 South Dakota,Brown,-5.015673981,% change,46013,2885
 South Dakota,Brule,0.0,% change,46015,2888
@@ -2372,13 +2372,13 @@ South Dakota,Buffalo,0.0,% change,46017,2891
 South Dakota,Butte,-49.111286659,% change,46019,2895
 South Dakota,Campbell,0.0,% change,46021,2897
 South Dakota,Charles Mix,-2.057130676,% change,46023,2900
-South Dakota,Clark,nan,% change,46025,2901
+South Dakota,Clark,0,% change,46025,2901
 South Dakota,Clay,0.0,% change,46027,2903
 South Dakota,Codington,128.255984019,% change,46029,2906
 South Dakota,Corson,0.0,% change,46031,2907
 South Dakota,Custer,-100.0,% change,46033,2908
 South Dakota,Davison,18.444859059,% change,46035,2910
-South Dakota,Day,nan,% change,46037,2911
+South Dakota,Day,0,% change,46037,2911
 South Dakota,Deuel,0.0,% change,46039,2912
 South Dakota,Dewey,0.0,% change,46041,2914
 South Dakota,Douglas,2.199312715,% change,46043,2916
@@ -2386,7 +2386,7 @@ South Dakota,Edmunds,0.0,% change,46045,2917
 South Dakota,Fall River,0.0,% change,46047,2919
 South Dakota,Faulk,0.0,% change,46049,2921
 South Dakota,Grant,0.0,% change,46051,2922
-South Dakota,Gregory,nan,% change,46053,2923
+South Dakota,Gregory,0,% change,46053,2923
 South Dakota,Haakon,0.0,% change,46055,2924
 South Dakota,Hamlin,1.00374277,% change,46057,2926
 South Dakota,Hand,0.0,% change,46059,2928
@@ -2402,9 +2402,9 @@ South Dakota,Kingsbury,0.0,% change,46077,2945
 South Dakota,Lake,0.0,% change,46079,2401
 South Dakota,Lawrence,-3.391176587,% change,46081,2406
 South Dakota,Lincoln,-67.837902221,% change,46083,2410
-South Dakota,Lyman,nan,% change,46085,2417
-South Dakota,McCook,nan,% change,46087,2422
-South Dakota,McPherson,nan,% change,46089,2426
+South Dakota,Lyman,0,% change,46085,2417
+South Dakota,McCook,0,% change,46087,2422
+South Dakota,McPherson,0,% change,46089,2426
 South Dakota,Marshall,0.0,% change,46091,2430
 South Dakota,Meade,-53.399122807,% change,46093,2442
 South Dakota,Mellette,0.0,% change,46095,2450
@@ -2429,7 +2429,7 @@ South Dakota,Yankton,297.754795368,% change,46135,2569
 South Dakota,Ziebach,0.0,% change,46137,2578
 Tennessee,Anderson,-0.545081696,% change,47001,2584
 Tennessee,Bedford,90.750738085,% change,47003,2593
-Tennessee,Benton,nan,% change,47005,2598
+Tennessee,Benton,0,% change,47005,2598
 Tennessee,Bledsoe,0.0,% change,47007,2602
 Tennessee,Blount,37.743007749,% change,47009,2622
 Tennessee,Bradley,-4.376143362,% change,47011,2627
@@ -2444,12 +2444,12 @@ Tennessee,Clay,0.0,% change,47027,2679
 Tennessee,Cocke,0.685437998,% change,47029,2686
 Tennessee,Coffee,-2.790842948,% change,47031,2689
 Tennessee,Crockett,0.0,% change,47033,2693
-Tennessee,Cumberland,nan,% change,47035,2696
+Tennessee,Cumberland,0,% change,47035,2696
 Tennessee,Davidson,27.977965465,% change,47037,2698
 Tennessee,Decatur,0.0,% change,47039,2705
 Tennessee,DeKalb,-3.518156568,% change,47041,2710
-Tennessee,Dickson,nan,% change,47043,2717
-Tennessee,Dyer,nan,% change,47045,2723
+Tennessee,Dickson,0,% change,47043,2717
+Tennessee,Dyer,0,% change,47045,2723
 Tennessee,Fayette,-2.549589387,% change,47047,2726
 Tennessee,Fentress,0.0,% change,47049,2731
 Tennessee,Franklin,0.0,% change,47051,2734
@@ -2462,23 +2462,23 @@ Tennessee,Hamblen,-1.437606918,% change,47063,2757
 Tennessee,Hamilton,0.536330091,% change,47065,2761
 Tennessee,Hancock,0.0,% change,47067,2766
 Tennessee,Hardeman,0.0,% change,47069,2770
-Tennessee,Hardin,nan,% change,47071,2773
+Tennessee,Hardin,0,% change,47071,2773
 Tennessee,Hawkins,100.574814605,% change,47073,2779
 Tennessee,Haywood,-100.0,% change,47075,2781
 Tennessee,Henderson,-100.0,% change,47077,2786
-Tennessee,Henry,nan,% change,47079,2789
+Tennessee,Henry,0,% change,47079,2789
 Tennessee,Hickman,0.0,% change,47081,2792
 Tennessee,Houston,0.0,% change,47083,2796
 Tennessee,Humphreys,-100.0,% change,47085,2798
 Tennessee,Jackson,0.0,% change,47087,2801
-Tennessee,Jefferson,nan,% change,47089,2804
+Tennessee,Jefferson,0,% change,47089,2804
 Tennessee,Johnson,0.0,% change,47091,2808
 Tennessee,Knox,-0.10437894,% change,47093,2814
 Tennessee,Lake,0.0,% change,47095,2817
 Tennessee,Lauderdale,0.0,% change,47097,2821
 Tennessee,Lawrence,46.806579958,% change,47099,2823
 Tennessee,Lewis,0.0,% change,47101,2825
-Tennessee,Lincoln,nan,% change,47103,2828
+Tennessee,Lincoln,0,% change,47103,2828
 Tennessee,Loudon,-4.239882984,% change,47105,2830
 Tennessee,McMinn,-50.333276363,% change,47107,2833
 Tennessee,McNairy,-49.531189461,% change,47109,2836
@@ -2492,8 +2492,8 @@ Tennessee,Monroe,-100.0,% change,47123,2857
 Tennessee,Montgomery,26.833337611,% change,47125,2859
 Tennessee,Moore,0.0,% change,47127,2863
 Tennessee,Morgan,0.0,% change,47129,2866
-Tennessee,Obion,nan,% change,47131,2872
-Tennessee,Overton,nan,% change,47133,2875
+Tennessee,Obion,0,% change,47131,2872
+Tennessee,Overton,0,% change,47133,2875
 Tennessee,Perry,-100.0,% change,47135,2878
 Tennessee,Pickett,0.0,% change,47137,2881
 Tennessee,Polk,0.0,% change,47139,2883
@@ -2506,11 +2506,11 @@ Tennessee,Scott,0.0,% change,47151,2020
 Tennessee,Sequatchie,0.0,% change,47153,2025
 Tennessee,Sevier,21.249129407,% change,47155,2030
 Tennessee,Shelby,14.742569705,% change,47157,2033
-Tennessee,Smith,nan,% change,47159,2037
+Tennessee,Smith,0,% change,47159,2037
 Tennessee,Stewart,0.0,% change,47161,2041
 Tennessee,Sullivan,100.698500016,% change,47163,2046
 Tennessee,Sumner,-39.111597472,% change,47165,2050
-Tennessee,Tipton,nan,% change,47167,2055
+Tennessee,Tipton,0,% change,47167,2055
 Tennessee,Trousdale,0.0,% change,47169,2062
 Tennessee,Unicoi,0.0,% change,47171,2069
 Tennessee,Union,0.0,% change,47173,2073
@@ -2528,7 +2528,7 @@ Texas,Angelina,-43.21367577,% change,48005,2124
 Texas,Aransas,-77.024727992,% change,48007,2162
 Texas,Archer,0.683838614,% change,48009,2168
 Texas,Armstrong,0.0,% change,48011,2172
-Texas,Atascosa,nan,% change,48013,2173
+Texas,Atascosa,0,% change,48013,2173
 Texas,Austin,92.799541114,% change,48015,2177
 Texas,Bailey,0.0,% change,48017,2179
 Texas,Bandera,89.203132197,% change,48019,2183
@@ -2537,7 +2537,7 @@ Texas,Baylor,0.0,% change,48023,2192
 Texas,Bee,-1.592812548,% change,48025,2196
 Texas,Bell,-25.953992198,% change,48027,2198
 Texas,Bexar,-6.649704604,% change,48029,2203
-Texas,Blanco,nan,% change,48031,2207
+Texas,Blanco,0,% change,48031,2207
 Texas,Borden,0.0,% change,48033,2212
 Texas,Bosque,-100.0,% change,48035,2216
 Texas,Bowie,-20.829986898,% change,48037,2224
@@ -2549,7 +2549,7 @@ Texas,Brooks,-100.0,% change,48047,2279
 Texas,Brown,99.558649678,% change,48049,2296
 Texas,Burleson,0.0,% change,48051,2304
 Texas,Burnet,-100.0,% change,48053,2312
-Texas,Caldwell,nan,% change,48055,2320
+Texas,Caldwell,0,% change,48055,2320
 Texas,Calhoun,-2.67067724,% change,48057,2327
 Texas,Callahan,-50.976264789,% change,48059,2331
 Texas,Cameron,-7.537078222,% change,48061,2359
@@ -2588,7 +2588,7 @@ Texas,Dickens,0.0,% change,48125,2542
 Texas,Dimmit,0.0,% change,48127,2548
 Texas,Donley,0.0,% change,48129,2551
 Texas,Duval,-100.0,% change,48131,2556
-Texas,Eastland,nan,% change,48133,2562
+Texas,Eastland,0,% change,48133,2562
 Texas,Ector,-36.716497743,% change,48135,2568
 Texas,Edwards,0.0,% change,48137,2574
 Texas,Ellis,-54.746675694,% change,48139,2579
@@ -2616,7 +2616,7 @@ Texas,Grayson,-68.443494584,% change,48181,2094
 Texas,Gregg,-29.144156328,% change,48183,2101
 Texas,Grimes,0.0,% change,48185,2108
 Texas,Guadalupe,-12.16525654,% change,48187,2116
-Texas,Hale,nan,% change,48189,2120
+Texas,Hale,0,% change,48189,2120
 Texas,Hall,0.0,% change,48191,2125
 Texas,Hamilton,1.858826388,% change,48193,2128
 Texas,Hansford,0.0,% change,48195,2132
@@ -2627,15 +2627,15 @@ Texas,Harrison,-0.608421999,% change,48203,2157
 Texas,Hartley,0.0,% change,48205,2160
 Texas,Haskell,0.0,% change,48207,2163
 Texas,Hays,-8.706773908,% change,48209,2166
-Texas,Hemphill,nan,% change,48211,2171
+Texas,Hemphill,0,% change,48211,2171
 Texas,Henderson,-1.551840468,% change,48213,2178
 Texas,Hidalgo,1.096287028,% change,48215,2188
 Texas,Hill,-100.0,% change,48217,2201
 Texas,Hockley,0.0,% change,48219,2208
 Texas,Hood,-48.10750404,% change,48221,2213
 Texas,Hopkins,-2.624091926,% change,48223,2221
-Texas,Houston,nan,% change,48225,2228
-Texas,Howard,nan,% change,48227,2231
+Texas,Houston,0,% change,48225,2228
+Texas,Howard,0,% change,48227,2231
 Texas,Hudspeth,0.0,% change,48229,2241
 Texas,Hunt,88.616365199,% change,48231,2246
 Texas,Hutchinson,104.107556792,% change,48233,2249
@@ -2645,7 +2645,7 @@ Texas,Jackson,0.0,% change,48239,2264
 Texas,Jasper,-31.843733228,% change,48241,2271
 Texas,Jeff Davis,0.0,% change,48243,2275
 Texas,Jefferson,4.501047497,% change,48245,2285
-Texas,Jim Hogg,nan,% change,48247,2288
+Texas,Jim Hogg,0,% change,48247,2288
 Texas,Jim Wells,50.331995622,% change,48249,2294
 Texas,Johnson,460.014731609,% change,48251,2299
 Texas,Jones,-100.0,% change,48253,2301
@@ -2658,7 +2658,7 @@ Texas,Kerr,-3.292654398,% change,48265,2337
 Texas,Kimble,-100.0,% change,48267,2339
 Texas,King,0.0,% change,48269,2342
 Texas,Kinney,0.0,% change,48271,2347
-Texas,Kleberg,nan,% change,48273,2358
+Texas,Kleberg,0,% change,48273,2358
 Texas,Knox,0.0,% change,48275,2364
 Texas,Lamar,-49.699384646,% change,48277,2371
 Texas,Lamb,6.261816532,% change,48279,2376
@@ -2671,14 +2671,14 @@ Texas,Liberty,30.697863033,% change,48291,2404
 Texas,Limestone,0.0,% change,48293,2408
 Texas,Lipscomb,0.0,% change,48295,2412
 Texas,Live Oak,0.0,% change,48297,2416
-Texas,Llano,nan,% change,48299,2421
+Texas,Llano,0,% change,48299,2421
 Texas,Loving,0.0,% change,48301,2424
 Texas,Lubbock,1.55562392,% change,48303,2428
 Texas,Lynn,1.587575496,% change,48305,2438
 Texas,McCulloch,1.637729344,% change,48307,2452
 Texas,McLennan,-3.900144659,% change,48309,2477
 Texas,McMullen,0.0,% change,48311,2494
-Texas,Madison,nan,% change,48313,2526
+Texas,Madison,0,% change,48313,2526
 Texas,Marion,3.886190146,% change,48315,2547
 Texas,Martin,0.0,% change,48317,2564
 Texas,Mason,0.0,% change,48319,2570
@@ -2687,7 +2687,7 @@ Texas,Maverick,-52.384072841,% change,48323,2649
 Texas,Medina,-29.075026425,% change,48325,2652
 Texas,Menard,0.0,% change,48327,2655
 Texas,Midland,-35.69029748,% change,48329,2657
-Texas,Milam,nan,% change,48331,2659
+Texas,Milam,0,% change,48331,2659
 Texas,Mills,0.0,% change,48333,2663
 Texas,Mitchell,0.0,% change,48335,2666
 Texas,Montague,0.0,% change,48337,2669
@@ -2715,19 +2715,19 @@ Texas,Rains,0.0,% change,48379,2268
 Texas,Randall,-30.107317847,% change,48381,2274
 Texas,Reagan,0.0,% change,48383,2280
 Texas,Real,0.0,% change,48385,2283
-Texas,Red River,nan,% change,48387,2295
+Texas,Red River,0,% change,48387,2295
 Texas,Reeves,0.0,% change,48389,2308
 Texas,Refugio,0.0,% change,48391,2334
 Texas,Roberts,0.0,% change,48393,2348
 Texas,Robertson,0.0,% change,48395,2353
 Texas,Rockwall,73.485051221,% change,48397,2355
 Texas,Runnels,2.330570453,% change,48399,2361
-Texas,Rusk,nan,% change,48401,2367
+Texas,Rusk,0,% change,48401,2367
 Texas,Sabine,0.0,% change,48403,2370
 Texas,San Augustine,-100.0,% change,48405,2380
 Texas,San Jacinto,-3.51623014,% change,48407,2387
 Texas,San Patricio,43.740150456,% change,48409,2415
-Texas,San Saba,nan,% change,48411,2435
+Texas,San Saba,0,% change,48411,2435
 Texas,Schleicher,-100.0,% change,48413,2437
 Texas,Scurry,0.0,% change,48415,2443
 Texas,Shackelford,0.0,% change,48417,2445
@@ -2755,7 +2755,7 @@ Texas,Upshur,-2.767717306,% change,48459,2566
 Texas,Upton,0.0,% change,48461,2572
 Texas,Uvalde,96.008263853,% change,48463,2576
 Texas,Val Verde,-28.575805948,% change,48465,2582
-Texas,Van Zandt,nan,% change,48467,2586
+Texas,Van Zandt,0,% change,48467,2586
 Texas,Victoria,-52.624514229,% change,48469,2595
 Texas,Walker,-4.592683505,% change,48471,2603
 Texas,Waller,-11.926165648,% change,48473,2606
@@ -2765,7 +2765,7 @@ Texas,Webb,-17.207481963,% change,48479,2616
 Texas,Wharton,65.169492882,% change,48481,2618
 Texas,Wheeler,0.0,% change,48483,2623
 Texas,Wichita,13.820947159,% change,48485,2632
-Texas,Wilbarger,nan,% change,48487,2634
+Texas,Wilbarger,0,% change,48487,2634
 Texas,Willacy,52.798713235,% change,48489,2639
 Texas,Williamson,-21.454094973,% change,48491,2640
 Texas,Wilson,-9.383689562,% change,48493,2641
@@ -2773,7 +2773,7 @@ Texas,Winkler,-100.0,% change,48495,2642
 Texas,Wise,-53.499573412,% change,48497,2643
 Texas,Wood,188.478652762,% change,48499,2644
 Texas,Yoakum,-100.0,% change,48501,2645
-Texas,Young,nan,% change,48503,2646
+Texas,Young,0,% change,48503,2646
 Texas,Zapata,0.0,% change,48505,2650
 Texas,Zavala,0.0,% change,48507,2651
 Utah,Beaver,0.0,% change,49001,2653
@@ -2782,15 +2782,15 @@ Utah,Cache,17.304359909,% change,49005,2661
 Utah,Carbon,4.589858132,% change,49007,2665
 Utah,Daggett,0.0,% change,49009,2668
 Utah,Davis,-3.545634206,% change,49011,2671
-Utah,Duchesne,nan,% change,49013,2672
+Utah,Duchesne,0,% change,49013,2672
 Utah,Emery,7.454509881,% change,49015,2673
 Utah,Garfield,0.0,% change,49017,2674
 Utah,Grand,-3.728251864,% change,49019,2675
 Utah,Iron,87.243955338,% change,49021,2676
 Utah,Juab,-6.289193856,% change,49023,2677
-Utah,Kane,nan,% change,49025,2678
+Utah,Kane,0,% change,49025,2678
 Utah,Millard,-0.985648951,% change,49027,2680
-Utah,Morgan,nan,% change,49029,2681
+Utah,Morgan,0,% change,49029,2681
 Utah,Piute,0.0,% change,49031,2685
 Utah,Rich,0.0,% change,49033,2687
 Utah,Salt Lake,-13.597869366,% change,49035,2690
@@ -2801,7 +2801,7 @@ Utah,Summit,270.765040852,% change,49043,2703
 Utah,Tooele,-69.460827567,% change,49045,2707
 Utah,Uintah,175.565010775,% change,49047,2539
 Utah,Utah,16.125859125,% change,49049,2555
-Utah,Wasatch,nan,% change,49051,2567
+Utah,Wasatch,0,% change,49051,2567
 Utah,Washington,-3.213905859,% change,49053,2577
 Utah,Wayne,0.0,% change,49055,2580
 Utah,Weber,2.451018051,% change,49057,2587
@@ -2849,7 +2849,7 @@ Virginia,Dinwiddie,0.0,% change,51053,2838
 Virginia,Essex,0.0,% change,51057,2842
 Virginia,Fairfax County,-3.399858121,% change,51059,2849
 Virginia,Fauquier,-3.955861828,% change,51061,2853
-Virginia,Floyd,nan,% change,51063,2856
+Virginia,Floyd,0,% change,51063,2856
 Virginia,Fluvanna,-100.0,% change,51065,2858
 Virginia,Franklin County,0.327641162,% change,51067,2862
 Virginia,Frederick,25.215310251,% change,51069,2868
@@ -2857,7 +2857,7 @@ Virginia,Giles,0.0,% change,51071,2873
 Virginia,Gloucester,-66.860731517,% change,51073,2887
 Virginia,Goochland,0.0,% change,51075,2892
 Virginia,Grayson,0.0,% change,51077,2896
-Virginia,Greene,nan,% change,51079,2899
+Virginia,Greene,0,% change,51079,2899
 Virginia,Greensville,0.0,% change,51081,2902
 Virginia,Halifax,2.894405674,% change,51083,2904
 Virginia,Hanover,-31.611422876,% change,51085,2909
@@ -2870,7 +2870,7 @@ Virginia,King and Queen,0.0,% change,51097,2936
 Virginia,King George,0.0,% change,51099,2938
 Virginia,King William,-2.418961735,% change,51101,2943
 Virginia,Lancaster,213.861569865,% change,51103,2948
-Virginia,Lee,nan,% change,51105,2950
+Virginia,Lee,0,% change,51105,2950
 Virginia,Loudoun,5.783643429,% change,51107,2952
 Virginia,Louisa,-100.0,% change,51109,2953
 Virginia,Lunenburg,0.0,% change,51111,2954
@@ -2880,15 +2880,15 @@ Virginia,Mecklenburg,-29.476601919,% change,51117,2964
 Virginia,Middlesex,101.541604755,% change,51119,2965
 Virginia,Montgomery,20.429957334,% change,51121,2966
 Virginia,Nelson,0.825780463,% change,51125,2968
-Virginia,New Kent,nan,% change,51127,2971
+Virginia,New Kent,0,% change,51127,2971
 Virginia,Northampton,-74.167083125,% change,51131,2982
 Virginia,Northumberland,104.231242312,% change,51133,2983
-Virginia,Nottoway,nan,% change,51135,2984
+Virginia,Nottoway,0,% change,51135,2984
 Virginia,Orange,-4.179701812,% change,51137,2985
 Virginia,Page,-100.0,% change,51139,2986
 Virginia,Patrick,3.151556081,% change,51141,2987
 Virginia,Pittsylvania,105.143255558,% change,51143,2988
-Virginia,Powhatan,nan,% change,51145,2989
+Virginia,Powhatan,0,% change,51145,2989
 Virginia,Prince Edward,-100.0,% change,51147,2990
 Virginia,Prince George,-100.0,% change,51149,2991
 Virginia,Prince William,41.38878031,% change,51153,2992
@@ -2911,7 +2911,7 @@ Virginia,Tazewell,-100.0,% change,51185,2656
 Virginia,Warren,-3.69374904,% change,51187,2662
 Virginia,Washington,102.083448568,% change,51191,2667
 Virginia,Westmoreland,33.084168601,% change,51193,2684
-Virginia,Wise,nan,% change,51195,2695
+Virginia,Wise,0,% change,51195,2695
 Virginia,Wythe,0.849975814,% change,51197,2699
 Virginia,York,-75.69417791,% change,51199,2709
 Virginia,Alexandria,2.146663728,% change,51510,2712
@@ -2926,12 +2926,12 @@ Virginia,Danville,2.398962611,% change,51590,2732
 Virginia,Emporia,0.0,% change,51595,2736
 Virginia,Fairfax City,25.806857766,% change,51600,2737
 Virginia,Falls Church,37.52884338,% change,51610,2740
-Virginia,Franklin City,nan,% change,51620,2744
+Virginia,Franklin City,0,% change,51620,2744
 Virginia,Fredericksburg,127.804110219,% change,51630,2745
 Virginia,Galax,0.0,% change,51640,2747
 Virginia,Hampton,11.003827624,% change,51650,2751
 Virginia,Harrisonburg,39.030087314,% change,51660,2755
-Virginia,Hopewell,nan,% change,51670,2756
+Virginia,Hopewell,0,% change,51670,2756
 Virginia,Lexington,-100.0,% change,51678,2760
 Virginia,Lynchburg,-4.122034238,% change,51680,2762
 Virginia,Manassas,-81.101382155,% change,51683,2765
@@ -2943,7 +2943,7 @@ Virginia,Norton,2.708124373,% change,51720,2780
 Virginia,Petersburg,-32.85400314,% change,51730,2782
 Virginia,Poquoson,0.770067799,% change,51735,2791
 Virginia,Portsmouth,-16.01664614,% change,51740,2795
-Virginia,Radford,nan,% change,51750,2799
+Virginia,Radford,0,% change,51750,2799
 Virginia,Richmond City,13.17826907,% change,51760,2802
 Virginia,Roanoke City,-2.904464474,% change,51770,2805
 Virginia,Salem,95.788155165,% change,51775,2809
@@ -2953,7 +2953,7 @@ Virginia,Virginia Beach,-4.956895597,% change,51810,2826
 Virginia,Waynesboro,0.0,% change,51820,2831
 Virginia,Williamsburg,277.635098983,% change,51830,2835
 Virginia,Winchester,-51.639701081,% change,51840,2837
-Washington,Adams,nan,% change,53001,2840
+Washington,Adams,0,% change,53001,2840
 Washington,Asotin,-1.532944868,% change,53003,2845
 Washington,Benton,-6.756114201,% change,53005,2847
 Washington,Chelan,-24.257300066,% change,53007,2852
@@ -2978,9 +2978,9 @@ Washington,Lincoln,0.0,% change,53043,2942
 Washington,Mason,-2.036282858,% change,53045,2946
 Washington,Okanogan,49.490103426,% change,53047,2947
 Washington,Pacific,-1.555943232,% change,53049,2949
-Washington,Pend Oreille,nan,% change,53051,2951
+Washington,Pend Oreille,0,% change,53051,2951
 Washington,Pierce,-13.916215083,% change,53053,2956
-Washington,San Juan,nan,% change,53055,2957
+Washington,San Juan,0,% change,53055,2957
 Washington,Skagit,-22.860693349,% change,53057,2958
 Washington,Skamania,-100.0,% change,53059,2959
 Washington,Snohomish,-22.171564812,% change,53061,2960
@@ -2990,9 +2990,9 @@ Washington,Thurston,13.033422409,% change,53067,2967
 Washington,Wahkiakum,0.0,% change,53069,2969
 Washington,Walla Walla,15.583466684,% change,53071,2970
 Washington,Whatcom,-5.930902466,% change,53073,2972
-Washington,Whitman,nan,% change,53075,2973
+Washington,Whitman,0,% change,53075,2973
 Washington,Yakima,-6.247117193,% change,53077,2974
-West Virginia,Barbour,nan,% change,54001,2975
+West Virginia,Barbour,0,% change,54001,2975
 West Virginia,Berkeley,55.392719461,% change,54003,2976
 West Virginia,Boone,0.0,% change,54005,2977
 West Virginia,Braxton,0.0,% change,54007,2978
@@ -3071,8 +3071,8 @@ Wisconsin,Forest,0.0,% change,55041,3141
 Wisconsin,Grant,23.043005789,% change,55043,3143
 Wisconsin,Green,-8.999535725,% change,55045,3145
 Wisconsin,Green Lake,-100.0,% change,55047,3147
-Wisconsin,Iowa,nan,% change,55049,3148
-Wisconsin,Iron,nan,% change,55051,3151
+Wisconsin,Iowa,0,% change,55049,3148
+Wisconsin,Iron,0,% change,55051,3151
 Wisconsin,Jackson,-100.0,% change,55053,3153
 Wisconsin,Jefferson,-0.836241055,% change,55055,3154
 Wisconsin,Juneau,51.923441709,% change,55057,3156
@@ -3085,7 +3085,7 @@ Wisconsin,Lincoln,-31.870946124,% change,55069,3166
 Wisconsin,Manitowoc,-12.442442785,% change,55071,3169
 Wisconsin,Marathon,7.658628894,% change,55073,3170
 Wisconsin,Marinette,43.884931371,% change,55075,3172
-Wisconsin,Marquette,nan,% change,55077,3174
+Wisconsin,Marquette,0,% change,55077,3174
 Wisconsin,Menominee,0.0,% change,55078,3175
 Wisconsin,Milwaukee,4.955837557,% change,55079,3177
 Wisconsin,Monroe,-0.687891348,% change,55081,3179
@@ -3124,7 +3124,7 @@ Wyoming,Big Horn,0.0,% change,56003,3018
 Wyoming,Campbell,-52.295081967,% change,56005,3020
 Wyoming,Carbon,0.769377504,% change,56007,3022
 Wyoming,Converse,0.0,% change,56009,3024
-Wyoming,Crook,nan,% change,56011,3025
+Wyoming,Crook,0,% change,56011,3025
 Wyoming,Fremont,0.683314697,% change,56013,3028
 Wyoming,Goshen,103.369524523,% change,56015,3030
 Wyoming,Hot Springs,0.0,% change,56017,3032

@@ -2914,8 +2914,8 @@ Virginia,Westmoreland,2.7813516871227084,Percent,51193,2684
 Virginia,Wise,6.882988835871054,Percent,51195,2695
 Virginia,Wythe,3.5163572102548266,Percent,51197,2699
 Virginia,York,1.2817834819883405,Percent,51199,2709
-Virginia,Alexandria,nan,Percent,51510,2712
-Virginia,Bedford City,nan,Percent,51515,2713
+Virginia,Alexandria,0,Percent,51510,2712
+Virginia,Bedford City,0,Percent,51515,2713
 Virginia,Bristol,3.530122170383666,Percent,51520,2716
 Virginia,Buena Vista,10.803902714386515,Percent,51530,2720
 Virginia,Charlottesville,0.2451270249302183,Percent,51540,2722
@@ -2925,7 +2925,7 @@ Virginia,Covington,1.0721107720713754,Percent,51580,2729
 Virginia,Danville,1.7028626966243323,Percent,51590,2732
 Virginia,Emporia,1.0188892183190459,Percent,51595,2736
 Virginia,Fairfax City,0.021378502983439678,Percent,51600,2737
-Virginia,Falls Church,nan,Percent,51610,2740
+Virginia,Falls Church,0,Percent,51610,2740
 Virginia,Franklin City,8.313406337918101,Percent,51620,2744
 Virginia,Fredericksburg,0.3566542304720368,Percent,51630,2745
 Virginia,Galax,0.17277265304934122,Percent,51640,2747

@@ -539,7 +539,7 @@ Georgia,Washington,3.761525190100676,Percent,13303,143
 Georgia,Wayne,5.535961796165187,Percent,13305,147
 Georgia,Webster,0.32367771554537084,Percent,13307,149
 Georgia,Wheeler,1.959831940534015,Percent,13309,154
-Georgia,White,nan,Percent,13311,157
+Georgia,White,0,Percent,13311,157
 Georgia,Whitfield,3.3020980169114553,Percent,13313,159
 Georgia,Wilcox,0.21853218479040057,Percent,13315,163
 Georgia,Wilkes,4.817262214527352,Percent,13317,167
@@ -611,7 +611,7 @@ Illinois,Clinton,0.8050082418214567,Percent,17027,27
 Illinois,Coles,2.5731264082732284,Percent,17029,30
 Illinois,Cook,0.6676551775398352,Percent,17031,36
 Illinois,Crawford,1.248209813622427,Percent,17033,40
-Illinois,Cumberland,nan,Percent,17035,44
+Illinois,Cumberland,0,Percent,17035,44
 Illinois,DeKalb,2.784957936683245,Percent,17037,49
 Illinois,De Witt,0.5157827192862429,Percent,17039,53
 Illinois,Douglas,1.1636441799219845,Percent,17041,55
@@ -753,7 +753,7 @@ Indiana,Montgomery,2.655246320441338,Percent,18107,425
 Indiana,Morgan,1.5431880742500135,Percent,18109,430
 Indiana,Newton,1.615622373660656,Percent,18111,433
 Indiana,Noble,1.0095416343660675,Percent,18113,436
-Indiana,Ohio,nan,Percent,18115,440
+Indiana,Ohio,0,Percent,18115,440
 Indiana,Orange,2.3902044732570884,Percent,18117,444
 Indiana,Owen,0.129893549826889,Percent,18119,448
 Indiana,Parke,2.2851422084693667,Percent,18121,452
@@ -776,7 +776,7 @@ Indiana,Sullivan,0.87422525110678,Percent,18153,518
 Indiana,Switzerland,0.4953940000806942,Percent,18155,526
 Indiana,Tippecanoe,1.5550099645482511,Percent,18157,530
 Indiana,Tipton,1.3044436923594087,Percent,18159,534
-Indiana,Union,nan,Percent,18161,538
+Indiana,Union,0,Percent,18161,538
 Indiana,Vanderburgh,0.9590967283397092,Percent,18163,543
 Indiana,Vermillion,1.8245173887708417,Percent,18165,548
 Indiana,Vigo,4.673150838585576,Percent,18167,553
@@ -1030,7 +1030,7 @@ Kentucky,Fleming,1.2590394283626776,Percent,21069,1083
 Kentucky,Floyd,1.215598994190741,Percent,21071,1085
 Kentucky,Franklin,2.031762955153315,Percent,21073,1086
 Kentucky,Fulton,0.029788372688477095,Percent,21075,1088
-Kentucky,Gallatin,nan,Percent,21077,1090
+Kentucky,Gallatin,0,Percent,21077,1090
 Kentucky,Garrard,0.250720159364985,Percent,21079,1092
 Kentucky,Grant,3.584102520265138,Percent,21081,1094
 Kentucky,Graves,1.5068371198021298,Percent,21083,1097
@@ -1058,7 +1058,7 @@ Kentucky,Laurel,2.1344754694992134,Percent,21125,1166
 Kentucky,Lawrence,3.973611396954848,Percent,21127,1167
 Kentucky,Lee,0.00854685211104512,Percent,21129,1171
 Kentucky,Leslie,0.6485806074735697,Percent,21131,1175
-Kentucky,Letcher,nan,Percent,21133,1178
+Kentucky,Letcher,0,Percent,21133,1178
 Kentucky,Lewis,0.26479421308725304,Percent,21135,1180
 Kentucky,Lincoln,4.758129743347673,Percent,21137,1184
 Kentucky,Livingston,2.589772963701656,Percent,21139,1187
@@ -1099,7 +1099,7 @@ Kentucky,Russell,0.12748431064968707,Percent,21207,1282
 Kentucky,Scott,4.867995180799133,Percent,21209,1283
 Kentucky,Shelby,1.454755566030272,Percent,21211,1285
 Kentucky,Simpson,2.026774340896979,Percent,21213,1287
-Kentucky,Spencer,nan,Percent,21215,1000
+Kentucky,Spencer,0,Percent,21215,1000
 Kentucky,Taylor,3.6677933741883955,Percent,21217,1003
 Kentucky,Todd,0.07799681191905897,Percent,21219,1006
 Kentucky,Trigg,1.5928896601389682,Percent,21221,1009
@@ -1239,7 +1239,7 @@ Michigan,Arenac,5.9413841133305185,Percent,26011,1621
 Michigan,Baraga,2.4471923776689084,Percent,26013,1624
 Michigan,Barry,0.41295217961034675,Percent,26015,1627
 Michigan,Bay,4.129194602255655,Percent,26017,1631
-Michigan,Benzie,nan,Percent,26019,1634
+Michigan,Benzie,0,Percent,26019,1634
 Michigan,Berrien,4.93949005070243,Percent,26021,1635
 Michigan,Branch,0.34391995680779763,Percent,26023,1640
 Michigan,Calhoun,4.071483037530195,Percent,26025,1641
@@ -1415,7 +1415,7 @@ Mississippi,Clarke,3.331029139811674,Percent,28023,1557
 Mississippi,Clay,7.033283239291431,Percent,28025,1559
 Mississippi,Coahoma,10.090978021832566,Percent,28027,1562
 Mississippi,Copiah,4.7474122029607955,Percent,28029,1564
-Mississippi,Covington,nan,Percent,28031,1567
+Mississippi,Covington,0,Percent,28031,1567
 Mississippi,DeSoto,2.436794104715072,Percent,28033,1571
 Mississippi,Forrest,2.686995384068472,Percent,28035,1572
 Mississippi,Franklin,5.470414469740703,Percent,28037,1575
@@ -1928,7 +1928,7 @@ North Carolina,Gaston,4.8722929985296055,Percent,37071,1499
 North Carolina,Gates,0.007773598498747888,Percent,37073,1500
 North Carolina,Graham,0.23288988100211186,Percent,37075,1502
 North Carolina,Granville,1.443611962401944,Percent,37077,1503
-North Carolina,Greene,nan,Percent,37079,1505
+North Carolina,Greene,0,Percent,37079,1505
 North Carolina,Guilford,2.925415972350708,Percent,37081,1506
 North Carolina,Halifax,6.069718886430859,Percent,37083,1508
 North Carolina,Harnett,1.2908667449363227,Percent,37085,1509
@@ -1949,7 +1949,7 @@ North Carolina,Macon,1.3869983453971764,Percent,37113,1556
 North Carolina,Madison,3.172964206863927,Percent,37115,1560
 North Carolina,Martin,0.7632486043224161,Percent,37117,1563
 North Carolina,Mecklenburg,1.7948210605428436,Percent,37119,1565
-North Carolina,Mitchell,nan,Percent,37121,1568
+North Carolina,Mitchell,0,Percent,37121,1568
 North Carolina,Montgomery,0.32214907803980275,Percent,37123,1573
 North Carolina,Moore,1.7152019534946081,Percent,37125,1584
 North Carolina,Nash,2.8781731520636544,Percent,37127,1588
@@ -2511,7 +2511,7 @@ Tennessee,Stewart,0.33281147118948756,Percent,47161,2041
 Tennessee,Sullivan,5.535297274985776,Percent,47163,2046
 Tennessee,Sumner,2.916808814260008,Percent,47165,2050
 Tennessee,Tipton,2.494531472533608,Percent,47167,2055
-Tennessee,Trousdale,nan,Percent,47169,2062
+Tennessee,Trousdale,0,Percent,47169,2062
 Tennessee,Unicoi,2.642389553373609,Percent,47171,2069
 Tennessee,Union,0.37668535169395756,Percent,47173,2073
 Tennessee,Van Buren,0.12435447532477559,Percent,47175,2077
@@ -2711,7 +2711,7 @@ Texas,Pecos,1.2234332254997426,Percent,48371,2239
 Texas,Polk,2.7217841737835724,Percent,48373,2243
 Texas,Potter,3.383335678373605,Percent,48375,2247
 Texas,Presidio,24.800109073871475,Percent,48377,2261
-Texas,Rains,nan,Percent,48379,2268
+Texas,Rains,0,Percent,48379,2268
 Texas,Randall,1.13652308352647,Percent,48381,2274
 Texas,Reagan,0.610862691843468,Percent,48383,2280
 Texas,Real,11.009933769114264,Percent,48385,2283
@@ -2832,7 +2832,7 @@ Virginia,Bedford County,0.43785327917958494,Percent,51019,2769
 Virginia,Bland,1.8049736604553939,Percent,51021,2772
 Virginia,Botetourt,1.99824383578749,Percent,51023,2776
 Virginia,Brunswick,2.4866469777208766,Percent,51025,2777
-Virginia,Buchanan,nan,Percent,51027,2784
+Virginia,Buchanan,0,Percent,51027,2784
 Virginia,Buckingham,1.8670938494609892,Percent,51029,2785
 Virginia,Campbell,1.2168471181759635,Percent,51031,2788
 Virginia,Caroline,0.7497886733377372,Percent,51033,2793
@@ -2844,7 +2844,7 @@ Virginia,Clarke,0.07335437089921347,Percent,51043,2819
 Virginia,Craig,1.3918472023600275,Percent,51045,2820
 Virginia,Culpeper,0.5712831473366077,Percent,51047,2824
 Virginia,Cumberland,12.521421483806861,Percent,51049,2827
-Virginia,Dickenson,nan,Percent,51051,2832
+Virginia,Dickenson,0,Percent,51051,2832
 Virginia,Dinwiddie,4.818409068913195,Percent,51053,2838
 Virginia,Essex,3.48331676810518,Percent,51057,2842
 Virginia,Fairfax County,0.37631266509233274,Percent,51059,2849
@@ -2867,7 +2867,7 @@ Virginia,Highland,7.685098409166299,Percent,51091,2920
 Virginia,Isle of Wight,0.6886606832317175,Percent,51093,2925
 Virginia,James City,1.8666232558939986,Percent,51095,2930
 Virginia,King and Queen,0.7020669287126093,Percent,51097,2936
-Virginia,King George,nan,Percent,51099,2938
+Virginia,King George,0,Percent,51099,2938
 Virginia,King William,0.8089016676294867,Percent,51101,2943
 Virginia,Lancaster,0.24435948004275973,Percent,51103,2948
 Virginia,Lee,0.020291360344337928,Percent,51105,2950
@@ -2914,8 +2914,8 @@ Virginia,Westmoreland,0.8570090936545307,Percent,51193,2684
 Virginia,Wise,1.2268394614849387,Percent,51195,2695
 Virginia,Wythe,0.7092529342684774,Percent,51197,2699
 Virginia,York,1.5212404073741896,Percent,51199,2709
-Virginia,Alexandria,nan,Percent,51510,2712
-Virginia,Bedford City,nan,Percent,51515,2713
+Virginia,Alexandria,0,Percent,51510,2712
+Virginia,Bedford City,0,Percent,51515,2713
 Virginia,Bristol,6.47704757484564,Percent,51520,2716
 Virginia,Buena Vista,15.568400020735536,Percent,51530,2720
 Virginia,Charlottesville,0.17728017809602092,Percent,51540,2722
@@ -2925,7 +2925,7 @@ Virginia,Covington,2.724011849259274,Percent,51580,2729
 Virginia,Danville,3.2450732643172167,Percent,51590,2732
 Virginia,Emporia,0.3425607921005531,Percent,51595,2736
 Virginia,Fairfax City,0.07728170786497904,Percent,51600,2737
-Virginia,Falls Church,nan,Percent,51610,2740
+Virginia,Falls Church,0,Percent,51610,2740
 Virginia,Franklin City,17.71290643141085,Percent,51620,2744
 Virginia,Fredericksburg,1.1514385937194318,Percent,51630,2745
 Virginia,Galax,0.5703187922434805,Percent,51640,2747
@@ -3093,7 +3093,7 @@ Wisconsin,Oconto,1.3055074117481869,Percent,55083,3181
 Wisconsin,Oneida,1.098150265138043,Percent,55085,3183
 Wisconsin,Outagamie,0.6980315670228722,Percent,55087,3185
 Wisconsin,Ozaukee,1.7403393676353685,Percent,55089,3186
-Wisconsin,Pepin,nan,Percent,55091,3188
+Wisconsin,Pepin,0,Percent,55091,3188
 Wisconsin,Pierce,1.6271493412383882,Percent,55093,3189
 Wisconsin,Polk,0.2672104504538869,Percent,55095,3191
 Wisconsin,Portage,1.783223796208323,Percent,55097,3192

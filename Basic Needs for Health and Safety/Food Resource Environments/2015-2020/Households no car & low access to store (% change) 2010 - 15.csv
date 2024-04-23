@@ -270,7 +270,7 @@ Colorado,Garfield,76.07872897845533,% change,8045,667
 Colorado,Gilpin,54.58560828213576,% change,8047,672
 Colorado,Grand,-42.724322694617136,% change,8049,677
 Colorado,Gunnison,-3.6424169361746603,% change,8051,682
-Colorado,Hinsdale,nan,% change,8053,688
+Colorado,Hinsdale,0,% change,8053,688
 Colorado,Huerfano,-20.990612753664305,% change,8055,693
 Colorado,Jackson,58.17669676896965,% change,8057,701
 Colorado,Jefferson,-12.32653249950342,% change,8059,706
@@ -283,7 +283,7 @@ Colorado,Las Animas,-30.529081921040714,% change,8071,741
 Colorado,Lincoln,-7.755986011301766,% change,8073,747
 Colorado,Logan,79.79827857521734,% change,8075,749
 Colorado,Mesa,13.748760537141477,% change,8077,751
-Colorado,Mineral,nan,% change,8079,757
+Colorado,Mineral,0,% change,8079,757
 Colorado,Moffat,-36.17964909100621,% change,8081,758
 Colorado,Montezuma,-10.702636666092365,% change,8083,766
 Colorado,Montrose,54.48517549251547,% change,8085,769
@@ -547,7 +547,7 @@ Georgia,Wilkinson,2.4981919676350226,% change,13319,169
 Georgia,Worth,19.54935414721696,% change,13321,173
 Hawaii,Hawaii,15.056269071234803,% change,15001,198
 Hawaii,Honolulu,11.353691319101856,% change,15003,234
-Hawaii,Kalawao,nan,% change,15005,247
+Hawaii,Kalawao,0,% change,15005,247
 Hawaii,Kauai,-13.03032817870494,% change,15007,261
 Hawaii,Maui,-22.869259014133448,% change,15009,323
 Idaho,Ada,17.644332363697885,% change,16001,336
@@ -566,7 +566,7 @@ Idaho,Camas,-23.476701159738123,% change,16025,429
 Idaho,Canyon,33.63259853950999,% change,16027,441
 Idaho,Caribou,121.17686226714541,% change,16029,449
 Idaho,Cassia,144.74591946855207,% change,16031,456
-Idaho,Clark,nan,% change,16033,464
+Idaho,Clark,0,% change,16033,464
 Idaho,Clearwater,-23.791488873597917,% change,16035,474
 Idaho,Custer,146.92869642812173,% change,16037,484
 Idaho,Elmore,40.56681981674659,% change,16039,490
@@ -1657,7 +1657,7 @@ Nebraska,Adams,54.63842023891679,% change,31001,1303
 Nebraska,Antelope,-39.62132673988975,% change,31003,1305
 Nebraska,Arthur,0.0,% change,31005,1307
 Nebraska,Banner,3.2258061623384306,% change,31007,1308
-Nebraska,Blaine,nan,% change,31009,1309
+Nebraska,Blaine,0,% change,31009,1309
 Nebraska,Boone,2.564796154212976,% change,31011,1310
 Nebraska,Box Butte,-26.652902647914967,% change,31013,1315
 Nebraska,Boyd,102.69521465128584,% change,31015,1317
@@ -1710,7 +1710,7 @@ Nebraska,Knox,-29.51690841891533,% change,31107,1322
 Nebraska,Lancaster,1.199354509758269,% change,31109,1324
 Nebraska,Lincoln,27.83922145500602,% change,31111,1327
 Nebraska,Logan,-77.7673140089302,% change,31113,1328
-Nebraska,Loup,nan,% change,31115,1331
+Nebraska,Loup,0,% change,31115,1331
 Nebraska,McPherson,-56.59574518739272,% change,31117,1332
 Nebraska,Madison,16.050728032794677,% change,31119,1335
 Nebraska,Merrick,22.203545322006594,% change,31121,1337
@@ -1738,7 +1738,7 @@ Nebraska,Sherman,57.972803296954275,% change,31163,1377
 Nebraska,Sioux,104.71123556411295,% change,31165,1380
 Nebraska,Stanton,-26.311218331383163,% change,31167,1382
 Nebraska,Thayer,-22.146181346733815,% change,31169,1383
-Nebraska,Thomas,nan,% change,31171,1384
+Nebraska,Thomas,0,% change,31171,1384
 Nebraska,Thurston,35.59724557794852,% change,31173,1385
 Nebraska,Valley,-66.71595086462705,% change,31175,1386
 Nebraska,Washington,35.06862072769235,% change,31177,1387
@@ -1992,7 +1992,7 @@ North Carolina,Yancey,-10.125763363813974,% change,37199,1823
 North Dakota,Adams,56.84525048181993,% change,38001,1826
 North Dakota,Barnes,69.1827046364407,% change,38003,1828
 North Dakota,Benson,-13.71007919750491,% change,38005,1831
-North Dakota,Billings,nan,% change,38007,1833
+North Dakota,Billings,0,% change,38007,1833
 North Dakota,Bottineau,-48.21992125605985,% change,38009,1836
 North Dakota,Bowman,81.40684209855773,% change,38011,1838
 North Dakota,Burke,85.96256453293385,% change,38013,1841
@@ -2572,7 +2572,7 @@ Texas,Comanche,-22.141610464870805,% change,48093,2455
 Texas,Concho,-20.536945358629648,% change,48095,2458
 Texas,Cooke,-5.074831174921475,% change,48097,2463
 Texas,Coryell,-3.691957847396865,% change,48099,2469
-Texas,Cottle,nan,% change,48101,2473
+Texas,Cottle,0,% change,48101,2473
 Texas,Crane,-49.750700162594114,% change,48103,2478
 Texas,Crockett,136.31189623476544,% change,48105,2483
 Texas,Crosby,-9.51566361789609,% change,48107,2487
@@ -2672,7 +2672,7 @@ Texas,Limestone,100.79584204648823,% change,48293,2408
 Texas,Lipscomb,48.50077999770425,% change,48295,2412
 Texas,Live Oak,-31.905206616175434,% change,48297,2416
 Texas,Llano,11.080411475808944,% change,48299,2421
-Texas,Loving,nan,% change,48301,2424
+Texas,Loving,0,% change,48301,2424
 Texas,Lubbock,-1.4606514373730153,% change,48303,2428
 Texas,Lynn,143.1377331681717,% change,48305,2438
 Texas,McCulloch,124.39234091991156,% change,48307,2452
@@ -2914,8 +2914,8 @@ Virginia,Westmoreland,2.1446441170711585,% change,51193,2684
 Virginia,Wise,24.98719566578955,% change,51195,2695
 Virginia,Wythe,13.34000045865666,% change,51197,2699
 Virginia,York,29.158203152443797,% change,51199,2709
-Virginia,Alexandria,nan,% change,51510,2712
-Virginia,Bedford City,nan,% change,51515,2713
+Virginia,Alexandria,0,% change,51510,2712
+Virginia,Bedford City,0,% change,51515,2713
 Virginia,Bristol,11.129450934349983,% change,51520,2716
 Virginia,Buena Vista,66.5331891170534,% change,51530,2720
 Virginia,Charlottesville,75.34761722665412,% change,51540,2722
@@ -2924,8 +2924,8 @@ Virginia,Colonial Heights,-65.41401269263861,% change,51570,2727
 Virginia,Covington,-20.07704409574437,% change,51580,2729
 Virginia,Danville,-28.675458126617563,% change,51590,2732
 Virginia,Emporia,11.668221876929502,% change,51595,2736
-Virginia,Fairfax City,nan,% change,51600,2737
-Virginia,Falls Church,nan,% change,51610,2740
+Virginia,Fairfax City,0,% change,51600,2737
+Virginia,Falls Church,0,% change,51610,2740
 Virginia,Franklin City,-21.62150938235667,% change,51620,2744
 Virginia,Fredericksburg,-86.68729768522999,% change,51630,2745
 Virginia,Galax,-34.087374221886094,% change,51640,2747

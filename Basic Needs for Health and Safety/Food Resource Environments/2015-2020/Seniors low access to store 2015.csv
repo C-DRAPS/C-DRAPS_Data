@@ -539,7 +539,7 @@ Georgia,Washington,720.783578757615,Count,13303,143
 Georgia,Wayne,1140.10895251891,Count,13305,147
 Georgia,Webster,4.27609263921144,Count,13307,149
 Georgia,Wheeler,58.4492561549509,Count,13309,154
-Georgia,White,nan,Count,13311,157
+Georgia,White,0,Count,13311,157
 Georgia,Whitfield,2239.11378168916,Count,13313,159
 Georgia,Wilcox,17.2567365683608,Count,13315,163
 Georgia,Wilkes,370.741412044272,Count,13317,167
@@ -611,7 +611,7 @@ Illinois,Clinton,600.818398330909,Count,17027,27
 Illinois,Coles,1500.07745044437,Count,17029,30
 Illinois,Cook,51870.3243228097,Count,17031,36
 Illinois,Crawford,248.656382803752,Count,17033,40
-Illinois,Cumberland,nan,Count,17035,44
+Illinois,Cumberland,0,Count,17035,44
 Illinois,DeKalb,2197.05866757188,Count,17037,49
 Illinois,De Witt,85.7065974532889,Count,17039,53
 Illinois,Douglas,384.322235924432,Count,17041,55
@@ -753,7 +753,7 @@ Indiana,Montgomery,921.24167104357,Count,18107,425
 Indiana,Morgan,1288.09092451656,Count,18109,430
 Indiana,Newton,408.209239979481,Count,18111,433
 Indiana,Noble,222.560102757154,Count,18113,436
-Indiana,Ohio,nan,Count,18115,440
+Indiana,Ohio,0,Count,18115,440
 Indiana,Orange,386.895002842612,Count,18117,444
 Indiana,Owen,19.9697342532481,Count,18119,448
 Indiana,Parke,435.246295828836,Count,18121,452
@@ -776,7 +776,7 @@ Indiana,Sullivan,177.568863606966,Count,18153,518
 Indiana,Switzerland,70.0600747567732,Count,18155,526
 Indiana,Tippecanoe,2722.22962551907,Count,18157,530
 Indiana,Tipton,520.650514133042,Count,18159,534
-Indiana,Union,nan,Count,18161,538
+Indiana,Union,0,Count,18161,538
 Indiana,Vanderburgh,5176.36668249696,Count,18163,543
 Indiana,Vermillion,440.150634889402,Count,18165,548
 Indiana,Vigo,5035.28501492637,Count,18167,553
@@ -1030,7 +1030,7 @@ Kentucky,Fleming,114.674799975111,Count,21069,1083
 Kentucky,Floyd,377.679303551426,Count,21071,1085
 Kentucky,Franklin,779.751416821798,Count,21073,1086
 Kentucky,Fulton,1.42580641130917,Count,21075,1088
-Kentucky,Gallatin,nan,Count,21077,1090
+Kentucky,Gallatin,0,Count,21077,1090
 Kentucky,Garrard,24.9535469985567,Count,21079,1092
 Kentucky,Grant,334.015025995965,Count,21081,1094
 Kentucky,Graves,756.622950076646,Count,21083,1097
@@ -1058,7 +1058,7 @@ Kentucky,Laurel,830.117794147665,Count,21125,1166
 Kentucky,Lawrence,368.768752771119,Count,21127,1167
 Kentucky,Lee,0.000132101282361,Count,21129,1171
 Kentucky,Leslie,46.4678321606436,Count,21131,1175
-Kentucky,Letcher,nan,Count,21133,1178
+Kentucky,Letcher,0,Count,21133,1178
 Kentucky,Lewis,17.8043823196931,Count,21135,1180
 Kentucky,Lincoln,673.765789824916,Count,21137,1184
 Kentucky,Livingston,231.133348589756,Count,21139,1187
@@ -1099,7 +1099,7 @@ Kentucky,Russell,25.4068337413009,Count,21207,1282
 Kentucky,Scott,1137.48092721005,Count,21209,1283
 Kentucky,Shelby,618.834696910573,Count,21211,1285
 Kentucky,Simpson,283.66523132869,Count,21213,1287
-Kentucky,Spencer,nan,Count,21215,1000
+Kentucky,Spencer,0,Count,21215,1000
 Kentucky,Taylor,609.583786951605,Count,21217,1003
 Kentucky,Todd,5.50572673038187,Count,21219,1006
 Kentucky,Trigg,284.008145659618,Count,21221,1009
@@ -1239,7 +1239,7 @@ Michigan,Arenac,1142.56954478793,Count,26011,1621
 Michigan,Baraga,390.816237909345,Count,26013,1624
 Michigan,Barry,275.886106024285,Count,26015,1627
 Michigan,Bay,4050.56077440448,Count,26017,1631
-Michigan,Benzie,nan,Count,26019,1634
+Michigan,Benzie,0,Count,26019,1634
 Michigan,Berrien,6339.91555894328,Count,26021,1635
 Michigan,Branch,261.59243412895,Count,26023,1640
 Michigan,Calhoun,4803.22055569748,Count,26025,1641
@@ -1415,7 +1415,7 @@ Mississippi,Clarke,391.265513782891,Count,28023,1557
 Mississippi,Clay,829.506864260356,Count,28025,1559
 Mississippi,Coahoma,890.265823611332,Count,28027,1562
 Mississippi,Copiah,906.578576233925,Count,28029,1564
-Mississippi,Covington,nan,Count,28031,1567
+Mississippi,Covington,0,Count,28031,1567
 Mississippi,DeSoto,4345.63615295252,Count,28033,1571
 Mississippi,Forrest,990.735809775154,Count,28035,1572
 Mississippi,Franklin,378.099016611144,Count,28037,1575
@@ -1928,7 +1928,7 @@ North Carolina,Gaston,7097.87893116614,Count,37071,1499
 North Carolina,Gates,1.00665456885406,Count,37073,1500
 North Carolina,Graham,73.8125644641027,Count,37075,1502
 North Carolina,Granville,1235.40220153561,Count,37077,1503
-North Carolina,Greene,nan,Count,37079,1505
+North Carolina,Greene,0,Count,37079,1505
 North Carolina,Guilford,11874.4151204498,Count,37081,1506
 North Carolina,Halifax,1291.13613240588,Count,37083,1508
 North Carolina,Harnett,868.179648461388,Count,37085,1509
@@ -1949,7 +1949,7 @@ North Carolina,Macon,463.036157911879,Count,37113,1556
 North Carolina,Madison,520.01997494606,Count,37115,1560
 North Carolina,Martin,177.24674779874,Count,37117,1563
 North Carolina,Mecklenburg,16387.9197241662,Count,37119,1565
-North Carolina,Mitchell,nan,Count,37121,1568
+North Carolina,Mitchell,0,Count,37121,1568
 North Carolina,Montgomery,87.8458151016858,Count,37123,1573
 North Carolina,Moore,5986.46054795181,Count,37125,1584
 North Carolina,Nash,1540.65199468997,Count,37127,1588
@@ -2511,7 +2511,7 @@ Tennessee,Stewart,33.6565816093518,Count,47161,2041
 Tennessee,Sullivan,9348.68669979392,Count,47163,2046
 Tennessee,Sumner,5688.27034261302,Count,47165,2050
 Tennessee,Tipton,899.939272713415,Count,47167,2055
-Tennessee,Trousdale,nan,Count,47169,2062
+Tennessee,Trousdale,0,Count,47169,2062
 Tennessee,Unicoi,437.608565434101,Count,47171,2069
 Tennessee,Union,63.9143144016572,Count,47173,2073
 Tennessee,Van Buren,5.62736986902019,Count,47175,2077
@@ -2711,7 +2711,7 @@ Texas,Pecos,249.064891489803,Count,48371,2239
 Texas,Polk,1149.73673011292,Count,48373,2243
 Texas,Potter,2309.17664146504,Count,48375,2247
 Texas,Presidio,904.481929981287,Count,48377,2261
-Texas,Rains,nan,Count,48379,2268
+Texas,Rains,0,Count,48379,2268
 Texas,Randall,1464.25069421243,Count,48381,2274
 Texas,Reagan,29.8726211621143,Count,48383,2280
 Texas,Real,853.00000069086,Count,48385,2283
@@ -2832,7 +2832,7 @@ Virginia,Bedford County,873.272504385474,Count,51019,2769
 Virginia,Bland,131.99342288459,Count,51021,2772
 Virginia,Botetourt,1876.35013963131,Count,51023,2776
 Virginia,Brunswick,302.77774102024,Count,51025,2777
-Virginia,Buchanan,nan,Count,51027,2784
+Virginia,Buchanan,0,Count,51027,2784
 Virginia,Buckingham,245.568608755838,Count,51029,2785
 Virginia,Campbell,1385.20533564455,Count,51031,2788
 Virginia,Caroline,192.535613254127,Count,51033,2793
@@ -2844,7 +2844,7 @@ Virginia,Clarke,26.8760347531934,Count,51043,2819
 Virginia,Craig,116.675327675805,Count,51045,2820
 Virginia,Culpeper,248.34448002786,Count,51047,2824
 Virginia,Cumberland,826.04182830572,Count,51049,2827
-Virginia,Dickenson,nan,Count,51051,2832
+Virginia,Dickenson,0,Count,51051,2832
 Virginia,Dinwiddie,1004.27448227849,Count,51053,2838
 Virginia,Essex,475.317389069975,Count,51057,2842
 Virginia,Fairfax County,23839.4270073674,Count,51059,2849
@@ -2867,7 +2867,7 @@ Virginia,Highland,579.000003451454,Count,51091,2920
 Virginia,Isle of Wight,958.438188165834,Count,51093,2925
 Virginia,James City,5071.41317863445,Count,51095,2930
 Virginia,King and Queen,85.2789102991912,Count,51097,2936
-Virginia,King George,nan,Count,51099,2938
+Virginia,King George,0,Count,51099,2938
 Virginia,King William,259.63330160862,Count,51101,2943
 Virginia,Lancaster,101.427929010591,Count,51103,2948
 Virginia,Lee,2.38748512556776,Count,51105,2950
@@ -2914,7 +2914,7 @@ Virginia,Westmoreland,210.206152541701,Count,51193,2684
 Virginia,Wise,345.373984565704,Count,51195,2695
 Virginia,Wythe,271.612417997596,Count,51197,2699
 Virginia,York,3458.62940736123,Count,51199,2709
-Virginia,Alexandria,nan,Count,51510,2712
+Virginia,Alexandria,0,Count,51510,2712
 Virginia,Bedford City,200.792828828709,Count,51515,2713
 Virginia,Bristol,829.248634670571,Count,51520,2716
 Virginia,Buena Vista,991.604397518156,Count,51530,2720
@@ -2925,7 +2925,7 @@ Virginia,Covington,226.641481629078,Count,51580,2729
 Virginia,Danville,926.547501539811,Count,51590,2732
 Virginia,Emporia,8.86458952631801,Count,51595,2736
 Virginia,Fairfax City,103.15583383292,Count,51600,2737
-Virginia,Falls Church,nan,Count,51610,2740
+Virginia,Falls Church,0,Count,51610,2740
 Virginia,Franklin City,930.903969097883,Count,51620,2744
 Virginia,Fredericksburg,129.909614931792,Count,51630,2745
 Virginia,Galax,43.4693831171208,Count,51640,2747
@@ -3093,7 +3093,7 @@ Wisconsin,Oconto,854.269717249425,Count,55083,3181
 Wisconsin,Oneida,863.891524686571,Count,55085,3183
 Wisconsin,Outagamie,2150.01332078197,Count,55087,3185
 Wisconsin,Ozaukee,4044.81719774418,Count,55089,3186
-Wisconsin,Pepin,nan,Count,55091,3188
+Wisconsin,Pepin,0,Count,55091,3188
 Wisconsin,Pierce,1145.82113635362,Count,55093,3189
 Wisconsin,Polk,144.562866239318,Count,55095,3191
 Wisconsin,Portage,1760.76478751265,Count,55097,3192

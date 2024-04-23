@@ -91,7 +91,7 @@ Alaska,Sitka,-29.604082107543945,% change,2220,679
 Alaska,Skagway,-92.19489288330078,% change,2230,683
 Alaska,Southeast Fairbanks,-15.571941375732422,% change,2240,690
 Alaska,Valdez-Cordova,3.67934513092041,% change,2261,710
-Alaska,Wade Hampton,nan,% change,2270,725
+Alaska,Wade Hampton,0,% change,2270,725
 Alaska,Wrangell,-17.8541202545166,% change,2275,733
 Alaska,Yakutat,-44.19386672973633,% change,2282,744
 Alaska,Yukon-Koyukuk,-13.41112232208252,% change,2290,753
@@ -547,9 +547,9 @@ Georgia,Wilkinson,-22.102567672729492,% change,13319,169
 Georgia,Worth,-15.495672225952148,% change,13321,173
 Hawaii,Hawaii,-0.7825330495834351,% change,15001,198
 Hawaii,Honolulu,-4.401167869567871,% change,15003,234
-Hawaii,Kalawao,nan,% change,15005,247
+Hawaii,Kalawao,0,% change,15005,247
 Hawaii,Kauai,-6.43460750579834,% change,15007,261
-Hawaii,Maui,nan,% change,15009,323
+Hawaii,Maui,0,% change,15009,323
 Idaho,Ada,-46.93544387817383,% change,16001,336
 Idaho,Adams,-39.588809967041016,% change,16003,338
 Idaho,Bannock,-37.53426742553711,% change,16005,343
@@ -2416,7 +2416,7 @@ South Dakota,Perkins,-15.606223106384277,% change,46105,2502
 South Dakota,Potter,-12.981851577758789,% change,46107,2506
 South Dakota,Roberts,-16.30803871154785,% change,46109,2511
 South Dakota,Sanborn,-20.9709529876709,% change,46111,2514
-South Dakota,Shannon,nan,% change,46113,2519
+South Dakota,Shannon,0,% change,46113,2519
 South Dakota,Spink,-13.672892570495605,% change,46115,2523
 South Dakota,Stanley,-17.773761749267578,% change,46117,2530
 South Dakota,Sully,-15.36366081237793,% change,46119,2535
@@ -2820,13 +2820,13 @@ Vermont,Washington,-20.715984344482422,% change,50023,2617
 Vermont,Windham,-20.16754913330078,% change,50025,2620
 Vermont,Windsor,-20.74806785583496,% change,50027,2625
 Virginia,Accomack,-28.680871963500977,% change,51001,2719
-Virginia,Albemarle,nan,% change,51003,2728
-Virginia,Alleghany,nan,% change,51005,2733
+Virginia,Albemarle,0,% change,51003,2728
+Virginia,Alleghany,0,% change,51005,2733
 Virginia,Amelia,-37.03140640258789,% change,51007,2741
 Virginia,Amherst,-17.164274215698242,% change,51009,2746
 Virginia,Appomattox,-13.733839988708496,% change,51011,2749
 Virginia,Arlington,-20.612579345703125,% change,51013,2753
-Virginia,Augusta,nan,% change,51015,2758
+Virginia,Augusta,0,% change,51015,2758
 Virginia,Bath,-39.662689208984375,% change,51017,2763
 Virginia,Bedford County,-27.841699600219727,% change,51019,2769
 Virginia,Bland,-24.635831832885742,% change,51021,2772
@@ -2834,9 +2834,9 @@ Virginia,Botetourt,-4.41525411605835,% change,51023,2776
 Virginia,Brunswick,-17.39987564086914,% change,51025,2777
 Virginia,Buchanan,8.979410171508789,% change,51027,2784
 Virginia,Buckingham,-27.639291763305664,% change,51029,2785
-Virginia,Campbell,nan,% change,51031,2788
+Virginia,Campbell,0,% change,51031,2788
 Virginia,Caroline,-32.50000762939453,% change,51033,2793
-Virginia,Carroll,nan,% change,51035,2797
+Virginia,Carroll,0,% change,51035,2797
 Virginia,Charles City,-23.03917694091797,% change,51036,2806
 Virginia,Charlotte,-20.994001388549805,% change,51037,2810
 Virginia,Chesterfield,-21.988866806030273,% change,51041,2816
@@ -2845,27 +2845,27 @@ Virginia,Craig,-0.5780293345451355,% change,51045,2820
 Virginia,Culpeper,-29.378564834594727,% change,51047,2824
 Virginia,Cumberland,-20.43880844116211,% change,51049,2827
 Virginia,Dickenson,-2.8276631832122803,% change,51051,2832
-Virginia,Dinwiddie,nan,% change,51053,2838
+Virginia,Dinwiddie,0,% change,51053,2838
 Virginia,Essex,-27.818340301513672,% change,51057,2842
-Virginia,Fairfax County,nan,% change,51059,2849
+Virginia,Fairfax County,0,% change,51059,2849
 Virginia,Fauquier,-39.74745559692383,% change,51061,2853
 Virginia,Floyd,-16.942026138305664,% change,51063,2856
 Virginia,Fluvanna,-20.711694717407227,% change,51065,2858
 Virginia,Franklin County,-29.336727142333984,% change,51067,2862
-Virginia,Frederick,nan,% change,51069,2868
+Virginia,Frederick,0,% change,51069,2868
 Virginia,Giles,-18.20296859741211,% change,51071,2873
 Virginia,Gloucester,-30.613025665283203,% change,51073,2887
 Virginia,Goochland,-23.694684982299805,% change,51075,2892
 Virginia,Grayson,-25.991806030273438,% change,51077,2896
 Virginia,Greene,-17.544933319091797,% change,51079,2899
-Virginia,Greensville,nan,% change,51081,2902
+Virginia,Greensville,0,% change,51081,2902
 Virginia,Halifax,-9.501964569091797,% change,51083,2904
 Virginia,Hanover,-27.700862884521484,% change,51085,2909
 Virginia,Henrico,-19.349763870239258,% change,51087,2915
-Virginia,Henry,nan,% change,51089,2918
+Virginia,Henry,0,% change,51089,2918
 Virginia,Highland,-44.34076690673828,% change,51091,2920
 Virginia,Isle of Wight,-28.662973403930664,% change,51093,2925
-Virginia,James City,nan,% change,51095,2930
+Virginia,James City,0,% change,51095,2930
 Virginia,King and Queen,-16.382709503173828,% change,51097,2936
 Virginia,King George,-34.788509368896484,% change,51099,2938
 Virginia,King William,-34.4745979309082,% change,51101,2943
@@ -2878,7 +2878,7 @@ Virginia,Madison,-39.00899887084961,% change,51113,2955
 Virginia,Mathews,-30.69160270690918,% change,51115,2962
 Virginia,Mecklenburg,-14.022351264953613,% change,51117,2964
 Virginia,Middlesex,-13.53548526763916,% change,51119,2965
-Virginia,Montgomery,nan,% change,51121,2966
+Virginia,Montgomery,0,% change,51121,2966
 Virginia,Nelson,-32.45167541503906,% change,51125,2968
 Virginia,New Kent,-27.337919235229492,% change,51127,2971
 Virginia,Northampton,-24.700014114379883,% change,51131,2982
@@ -2887,72 +2887,72 @@ Virginia,Nottoway,-23.04147720336914,% change,51135,2984
 Virginia,Orange,-31.64286994934082,% change,51137,2985
 Virginia,Page,-32.49990463256836,% change,51139,2986
 Virginia,Patrick,-24.327194213867188,% change,51141,2987
-Virginia,Pittsylvania,nan,% change,51143,2988
+Virginia,Pittsylvania,0,% change,51143,2988
 Virginia,Powhatan,-34.06708908081055,% change,51145,2989
 Virginia,Prince Edward,-15.465447425842285,% change,51147,2990
-Virginia,Prince George,nan,% change,51149,2991
-Virginia,Prince William,nan,% change,51153,2992
+Virginia,Prince George,0,% change,51149,2991
+Virginia,Prince William,0,% change,51153,2992
 Virginia,Pulaski,-9.968713760375977,% change,51155,2993
 Virginia,Rappahannock,-35.034324645996094,% change,51157,2994
 Virginia,Richmond County,-8.482683181762695,% change,51159,2995
-Virginia,Roanoke County,nan,% change,51161,2996
-Virginia,Rockbridge,nan,% change,51163,2997
-Virginia,Rockingham,nan,% change,51165,2998
+Virginia,Roanoke County,0,% change,51161,2996
+Virginia,Rockbridge,0,% change,51163,2997
+Virginia,Rockingham,0,% change,51165,2998
 Virginia,Russell,-7.348160266876221,% change,51167,2999
 Virginia,Scott,-12.308748245239258,% change,51169,2585
 Virginia,Shenandoah,-27.831439971923828,% change,51171,2594
 Virginia,Smyth,-14.214449882507324,% change,51173,2600
-Virginia,Southampton,nan,% change,51175,2608
-Virginia,Spotsylvania,nan,% change,51177,2619
+Virginia,Southampton,0,% change,51175,2608
+Virginia,Spotsylvania,0,% change,51177,2619
 Virginia,Stafford,-24.894229888916016,% change,51179,2629
 Virginia,Surry,-13.296724319458008,% change,51181,2636
 Virginia,Sussex,-12.028840065002441,% change,51183,2647
 Virginia,Tazewell,9.84557819366455,% change,51185,2656
 Virginia,Warren,-26.984827041625977,% change,51187,2662
-Virginia,Washington,nan,% change,51191,2667
+Virginia,Washington,0,% change,51191,2667
 Virginia,Westmoreland,-13.266636848449707,% change,51193,2684
-Virginia,Wise,nan,% change,51195,2695
+Virginia,Wise,0,% change,51195,2695
 Virginia,Wythe,-13.923332214355469,% change,51197,2699
-Virginia,York,nan,% change,51199,2709
+Virginia,York,0,% change,51199,2709
 Virginia,Alexandria,-6.792670249938965,% change,51510,2712
-Virginia,Bedford City,nan,% change,51515,2713
-Virginia,Bristol,nan,% change,51520,2716
-Virginia,Buena Vista,nan,% change,51530,2720
-Virginia,Charlottesville,nan,% change,51540,2722
+Virginia,Bedford City,0,% change,51515,2713
+Virginia,Bristol,0,% change,51520,2716
+Virginia,Buena Vista,0,% change,51530,2720
+Virginia,Charlottesville,0,% change,51540,2722
 Virginia,Chesapeake,-23.961305618286133,% change,51550,2724
-Virginia,Colonial Heights,nan,% change,51570,2727
-Virginia,Covington,nan,% change,51580,2729
-Virginia,Danville,nan,% change,51590,2732
-Virginia,Emporia,nan,% change,51595,2736
-Virginia,Fairfax City,nan,% change,51600,2737
-Virginia,Falls Church,nan,% change,51610,2740
-Virginia,Franklin City,nan,% change,51620,2744
-Virginia,Fredericksburg,nan,% change,51630,2745
-Virginia,Galax,nan,% change,51640,2747
+Virginia,Colonial Heights,0,% change,51570,2727
+Virginia,Covington,0,% change,51580,2729
+Virginia,Danville,0,% change,51590,2732
+Virginia,Emporia,0,% change,51595,2736
+Virginia,Fairfax City,0,% change,51600,2737
+Virginia,Falls Church,0,% change,51610,2740
+Virginia,Franklin City,0,% change,51620,2744
+Virginia,Fredericksburg,0,% change,51630,2745
+Virginia,Galax,0,% change,51640,2747
 Virginia,Hampton,-14.654020309448242,% change,51650,2751
-Virginia,Harrisonburg,nan,% change,51660,2755
-Virginia,Hopewell,nan,% change,51670,2756
-Virginia,Lexington,nan,% change,51678,2760
-Virginia,Lynchburg,nan,% change,51680,2762
-Virginia,Manassas,nan,% change,51683,2765
-Virginia,Manassas Park,nan,% change,51685,2768
-Virginia,Martinsville,nan,% change,51690,2771
+Virginia,Harrisonburg,0,% change,51660,2755
+Virginia,Hopewell,0,% change,51670,2756
+Virginia,Lexington,0,% change,51678,2760
+Virginia,Lynchburg,0,% change,51680,2762
+Virginia,Manassas,0,% change,51683,2765
+Virginia,Manassas Park,0,% change,51685,2768
+Virginia,Martinsville,0,% change,51690,2771
 Virginia,Newport News,-19.74033546447754,% change,51700,2775
 Virginia,Norfolk,-24.693004608154297,% change,51710,2778
-Virginia,Norton,nan,% change,51720,2780
-Virginia,Petersburg,nan,% change,51730,2782
-Virginia,Poquoson,nan,% change,51735,2791
+Virginia,Norton,0,% change,51720,2780
+Virginia,Petersburg,0,% change,51730,2782
+Virginia,Poquoson,0,% change,51735,2791
 Virginia,Portsmouth,-11.912753105163574,% change,51740,2795
-Virginia,Radford,nan,% change,51750,2799
+Virginia,Radford,0,% change,51750,2799
 Virginia,Richmond City,-33.285213470458984,% change,51760,2802
 Virginia,Roanoke City,-20.06460952758789,% change,51770,2805
-Virginia,Salem,nan,% change,51775,2809
-Virginia,Staunton,nan,% change,51790,2812
+Virginia,Salem,0,% change,51775,2809
+Virginia,Staunton,0,% change,51790,2812
 Virginia,Suffolk,-23.763221740722656,% change,51800,2815
 Virginia,Virginia Beach,-19.537559509277344,% change,51810,2826
-Virginia,Waynesboro,nan,% change,51820,2831
-Virginia,Williamsburg,nan,% change,51830,2835
-Virginia,Winchester,nan,% change,51840,2837
+Virginia,Waynesboro,0,% change,51820,2831
+Virginia,Williamsburg,0,% change,51830,2835
+Virginia,Winchester,0,% change,51840,2837
 Washington,Adams,-16.75311851501465,% change,53001,2840
 Washington,Asotin,-16.82264518737793,% change,53003,2845
 Washington,Benton,-21.25223159790039,% change,53005,2847
