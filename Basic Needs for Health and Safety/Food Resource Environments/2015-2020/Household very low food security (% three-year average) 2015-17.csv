@@ -1,0 +1,3144 @@
+State,County,Household very low food security (% three-year average) 2015-17 (VLFOODSEC_15_17),Units,FIPS,FID
+Alabama,Autauga,7.1,Percent,1001,5
+Alabama,Baldwin,7.1,Percent,1003,20
+Alabama,Barbour,7.1,Percent,1005,25
+Alabama,Bibb,7.1,Percent,1007,29
+Alabama,Blount,7.1,Percent,1009,33
+Alabama,Bullock,7.1,Percent,1011,37
+Alabama,Butler,7.1,Percent,1013,39
+Alabama,Calhoun,7.1,Percent,1015,43
+Alabama,Chambers,7.1,Percent,1017,47
+Alabama,Cherokee,7.1,Percent,1019,51
+Alabama,Chilton,7.1,Percent,1021,56
+Alabama,Choctaw,7.1,Percent,1023,58
+Alabama,Clarke,7.1,Percent,1025,61
+Alabama,Clay,7.1,Percent,1027,65
+Alabama,Cleburne,7.1,Percent,1029,67
+Alabama,Coffee,7.1,Percent,1031,70
+Alabama,Colbert,7.1,Percent,1033,73
+Alabama,Conecuh,7.1,Percent,1035,80
+Alabama,Coosa,7.1,Percent,1037,82
+Alabama,Covington,7.1,Percent,1039,88
+Alabama,Crenshaw,7.1,Percent,1041,90
+Alabama,Cullman,7.1,Percent,1043,98
+Alabama,Dale,7.1,Percent,1045,101
+Alabama,Dallas,7.1,Percent,1047,110
+Alabama,DeKalb,7.1,Percent,1049,112
+Alabama,Elmore,7.1,Percent,1051,118
+Alabama,Escambia,7.1,Percent,1053,122
+Alabama,Etowah,7.1,Percent,1055,131
+Alabama,Fayette,7.1,Percent,1057,134
+Alabama,Franklin,7.1,Percent,1059,138
+Alabama,Geneva,7.1,Percent,1061,140
+Alabama,Greene,7.1,Percent,1063,148
+Alabama,Hale,7.1,Percent,1065,150
+Alabama,Henry,7.1,Percent,1067,158
+Alabama,Houston,7.1,Percent,1069,160
+Alabama,Jackson,7.1,Percent,1071,164
+Alabama,Jefferson,7.1,Percent,1073,171
+Alabama,Lamar,7.1,Percent,1075,174
+Alabama,Lauderdale,7.1,Percent,1077,176
+Alabama,Lawrence,7.1,Percent,1079,181
+Alabama,Lee,7.1,Percent,1081,187
+Alabama,Limestone,7.1,Percent,1083,197
+Alabama,Lowndes,7.1,Percent,1085,205
+Alabama,Macon,7.1,Percent,1087,210
+Alabama,Madison,7.1,Percent,1089,217
+Alabama,Marengo,7.1,Percent,1091,220
+Alabama,Marion,7.1,Percent,1093,224
+Alabama,Marshall,7.1,Percent,1095,231
+Alabama,Mobile,7.1,Percent,1097,240
+Alabama,Monroe,7.1,Percent,1099,250
+Alabama,Montgomery,7.1,Percent,1101,256
+Alabama,Morgan,7.1,Percent,1103,262
+Alabama,Perry,7.1,Percent,1105,264
+Alabama,Pickens,7.1,Percent,1107,273
+Alabama,Pike,7.1,Percent,1109,279
+Alabama,Randolph,7.1,Percent,1111,284
+Alabama,Russell,7.1,Percent,1113,288
+Alabama,St. Clair,7.1,Percent,1115,292
+Alabama,Shelby,7.1,Percent,1117,298
+Alabama,Sumter,7.1,Percent,1119,303
+Alabama,Talladega,7.1,Percent,1121,306
+Alabama,Tallapoosa,7.1,Percent,1123,308
+Alabama,Tuscaloosa,7.1,Percent,1125,313
+Alabama,Walker,7.1,Percent,1127,317
+Alabama,Washington,7.1,Percent,1129,319
+Alabama,Wilcox,7.1,Percent,1131,326
+Alabama,Winston,7.1,Percent,1133,332
+Alaska,Aleutians East,3.7,Percent,2013,346
+Alaska,Aleutians West,3.7,Percent,2016,381
+Alaska,Anchorage,3.7,Percent,2020,400
+Alaska,Bethel,3.7,Percent,2050,411
+Alaska,Bristol Bay,3.7,Percent,2060,423
+Alaska,Denali,3.7,Percent,2068,426
+Alaska,Dillingham,3.7,Percent,2070,445
+Alaska,Fairbanks North Star,3.7,Percent,2090,454
+Alaska,Haines,3.7,Percent,2100,462
+Alaska,Hoonah-Angoon,3.7,Percent,2105,476
+Alaska,Juneau,3.7,Percent,2110,482
+Alaska,Kenai Peninsula,3.7,Percent,2122,494
+Alaska,Ketchikan Gateway,3.7,Percent,2130,514
+Alaska,Kodiak Island,3.7,Percent,2150,533
+Alaska,Lake and Peninsula,3.7,Percent,2164,544
+Alaska,Matanuska-Susitna,3.7,Percent,2170,556
+Alaska,Nome,3.7,Percent,2180,571
+Alaska,North Slope,3.7,Percent,2185,614
+Alaska,Northwest Arctic,3.7,Percent,2188,638
+Alaska,Petersburg,3.7,Percent,2195,645
+Alaska,Prince of Wales-Hyder,3.7,Percent,2198,669
+Alaska,Sitka,3.7,Percent,2220,679
+Alaska,Skagway,3.7,Percent,2230,683
+Alaska,Southeast Fairbanks,3.7,Percent,2240,690
+Alaska,Valdez-Cordova,3.7,Percent,2261,710
+Alaska,Wade Hampton,3.7,Percent,2270,725
+Alaska,Wrangell,3.7,Percent,2275,733
+Alaska,Yakutat,3.7,Percent,2282,744
+Alaska,Yukon-Koyukuk,3.7,Percent,2290,753
+Arizona,Apache,6.5,Percent,4001,761
+Arizona,Cochise,6.5,Percent,4003,763
+Arizona,Coconino,6.5,Percent,4005,771
+Arizona,Gila,6.5,Percent,4007,787
+Arizona,Graham,6.5,Percent,4009,0
+Arizona,Greenlee,6.5,Percent,4011,1
+Arizona,La Paz,6.5,Percent,4012,3
+Arizona,Maricopa,6.5,Percent,4013,9
+Arizona,Mohave,6.5,Percent,4015,15
+Arizona,Navajo,6.5,Percent,4017,17
+Arizona,Pima,6.5,Percent,4019,21
+Arizona,Pinal,6.5,Percent,4021,26
+Arizona,Santa Cruz,6.5,Percent,4023,32
+Arizona,Yavapai,6.5,Percent,4025,35
+Arizona,Yuma,6.5,Percent,4027,42
+Arkansas,Arkansas,5.7,Percent,5001,46
+Arkansas,Ashley,5.7,Percent,5003,50
+Arkansas,Baxter,5.7,Percent,5005,54
+Arkansas,Benton,5.7,Percent,5007,59
+Arkansas,Boone,5.7,Percent,5009,62
+Arkansas,Bradley,5.7,Percent,5011,68
+Arkansas,Calhoun,5.7,Percent,5013,72
+Arkansas,Carroll,5.7,Percent,5015,74
+Arkansas,Chicot,5.7,Percent,5017,77
+Arkansas,Clark,5.7,Percent,5019,86
+Arkansas,Clay,5.7,Percent,5021,93
+Arkansas,Cleburne,5.7,Percent,5023,97
+Arkansas,Cleveland,5.7,Percent,5025,103
+Arkansas,Columbia,5.7,Percent,5027,107
+Arkansas,Conway,5.7,Percent,5029,109
+Arkansas,Craighead,5.7,Percent,5031,114
+Arkansas,Crawford,5.7,Percent,5033,115
+Arkansas,Crittenden,5.7,Percent,5035,119
+Arkansas,Cross,5.7,Percent,5037,124
+Arkansas,Dallas,5.7,Percent,5039,128
+Arkansas,Desha,5.7,Percent,5041,130
+Arkansas,Drew,5.7,Percent,5043,136
+Arkansas,Faulkner,5.7,Percent,5045,141
+Arkansas,Franklin,5.7,Percent,5047,144
+Arkansas,Fulton,5.7,Percent,5049,146
+Arkansas,Garland,5.7,Percent,5051,151
+Arkansas,Grant,5.7,Percent,5053,155
+Arkansas,Greene,5.7,Percent,5055,162
+Arkansas,Hempstead,5.7,Percent,5057,172
+Arkansas,Hot Spring,5.7,Percent,5059,184
+Arkansas,Howard,5.7,Percent,5061,191
+Arkansas,Independence,5.7,Percent,5063,200
+Arkansas,Izard,5.7,Percent,5065,203
+Arkansas,Jackson,5.7,Percent,5067,209
+Arkansas,Jefferson,5.7,Percent,5069,213
+Arkansas,Johnson,5.7,Percent,5071,218
+Arkansas,Lafayette,5.7,Percent,5073,222
+Arkansas,Lawrence,5.7,Percent,5075,230
+Arkansas,Lee,5.7,Percent,5077,237
+Arkansas,Lincoln,5.7,Percent,5079,244
+Arkansas,Little River,5.7,Percent,5081,251
+Arkansas,Logan,5.7,Percent,5083,258
+Arkansas,Lonoke,5.7,Percent,5085,268
+Arkansas,Madison,5.7,Percent,5087,277
+Arkansas,Marion,5.7,Percent,5089,282
+Arkansas,Miller,5.7,Percent,5091,287
+Arkansas,Mississippi,5.7,Percent,5093,294
+Arkansas,Monroe,5.7,Percent,5095,300
+Arkansas,Montgomery,5.7,Percent,5097,304
+Arkansas,Nevada,5.7,Percent,5099,307
+Arkansas,Newton,5.7,Percent,5101,311
+Arkansas,Ouachita,5.7,Percent,5103,316
+Arkansas,Perry,5.7,Percent,5105,318
+Arkansas,Phillips,5.7,Percent,5107,322
+Arkansas,Pike,5.7,Percent,5109,327
+Arkansas,Poinsett,5.7,Percent,5111,333
+Arkansas,Polk,5.7,Percent,5113,337
+Arkansas,Pope,5.7,Percent,5115,340
+Arkansas,Prairie,5.7,Percent,5117,345
+Arkansas,Pulaski,5.7,Percent,5119,350
+Arkansas,Randolph,5.7,Percent,5121,353
+Arkansas,St. Francis,5.7,Percent,5123,357
+Arkansas,Saline,5.7,Percent,5125,360
+Arkansas,Scott,5.7,Percent,5127,364
+Arkansas,Searcy,5.7,Percent,5129,372
+Arkansas,Sebastian,5.7,Percent,5131,378
+Arkansas,Sevier,5.7,Percent,5133,390
+Arkansas,Sharp,5.7,Percent,5135,394
+Arkansas,Stone,5.7,Percent,5137,399
+Arkansas,Union,5.7,Percent,5139,403
+Arkansas,Van Buren,5.7,Percent,5141,407
+Arkansas,Washington,5.7,Percent,5143,417
+Arkansas,White,5.7,Percent,5145,428
+Arkansas,Woodruff,5.7,Percent,5147,435
+Arkansas,Yell,5.7,Percent,5149,438
+California,Alameda,4.1,Percent,6001,457
+California,Alpine,4.1,Percent,6003,461
+California,Amador,4.1,Percent,6005,472
+California,Butte,4.1,Percent,6007,486
+California,Calaveras,4.1,Percent,6009,489
+California,Colusa,4.1,Percent,6011,497
+California,Contra Costa,4.1,Percent,6013,503
+California,Del Norte,4.1,Percent,6015,511
+California,El Dorado,4.1,Percent,6017,522
+California,Fresno,4.1,Percent,6019,527
+California,Glenn,4.1,Percent,6021,537
+California,Humboldt,4.1,Percent,6023,551
+California,Imperial,4.1,Percent,6025,557
+California,Inyo,4.1,Percent,6027,562
+California,Kern,4.1,Percent,6029,84
+California,Kings,4.1,Percent,6031,94
+California,Lake,4.1,Percent,6033,100
+California,Lassen,4.1,Percent,6035,104
+California,Los Angeles,4.1,Percent,6037,139
+California,Madera,4.1,Percent,6039,153
+California,Marin,4.1,Percent,6041,168
+California,Mariposa,4.1,Percent,6043,178
+California,Mendocino,4.1,Percent,6045,190
+California,Merced,4.1,Percent,6047,204
+California,Modoc,4.1,Percent,6049,207
+California,Mono,4.1,Percent,6051,214
+California,Monterey,4.1,Percent,6053,228
+California,Napa,4.1,Percent,6055,236
+California,Nevada,4.1,Percent,6057,243
+California,Orange,4.1,Percent,6059,257
+California,Placer,4.1,Percent,6061,266
+California,Plumas,4.1,Percent,6063,275
+California,Riverside,4.1,Percent,6065,281
+California,Sacramento,4.1,Percent,6067,289
+California,San Benito,4.1,Percent,6069,295
+California,San Bernardino,4.1,Percent,6071,302
+California,San Diego,4.1,Percent,6073,315
+California,San Francisco,4.1,Percent,6075,331
+California,San Joaquin,4.1,Percent,6077,339
+California,San Luis Obispo,4.1,Percent,6079,351
+California,San Mateo,4.1,Percent,6081,368
+California,Santa Barbara,4.1,Percent,6083,391
+California,Santa Clara,4.1,Percent,6085,406
+California,Santa Cruz,4.1,Percent,6087,415
+California,Shasta,4.1,Percent,6089,431
+California,Sierra,4.1,Percent,6091,439
+California,Siskiyou,4.1,Percent,6093,446
+California,Solano,4.1,Percent,6095,453
+California,Sonoma,4.1,Percent,6097,463
+California,Stanislaus,4.1,Percent,6099,473
+California,Sutter,4.1,Percent,6101,483
+California,Tehama,4.1,Percent,6103,492
+California,Trinity,4.1,Percent,6105,500
+California,Tulare,4.1,Percent,6107,501
+California,Tuolumne,4.1,Percent,6109,513
+California,Ventura,4.1,Percent,6111,521
+California,Yolo,4.1,Percent,6113,525
+California,Yuba,4.1,Percent,6115,541
+Colorado,Adams,3.8,Percent,8001,545
+Colorado,Alamosa,3.8,Percent,8003,549
+Colorado,Arapahoe,3.8,Percent,8005,558
+Colorado,Archuleta,3.8,Percent,8007,560
+Colorado,Baca,3.8,Percent,8009,563
+Colorado,Bent,3.8,Percent,8011,564
+Colorado,Boulder,3.8,Percent,8013,570
+Colorado,Broomfield,3.8,Percent,8014,577
+Colorado,Chaffee,3.8,Percent,8015,582
+Colorado,Cheyenne,3.8,Percent,8017,587
+Colorado,Clear Creek,3.8,Percent,8019,591
+Colorado,Conejos,3.8,Percent,8021,596
+Colorado,Costilla,3.8,Percent,8023,599
+Colorado,Crowley,3.8,Percent,8025,605
+Colorado,Custer,3.8,Percent,8027,610
+Colorado,Delta,3.8,Percent,8029,617
+Colorado,Denver,3.8,Percent,8031,628
+Colorado,Dolores,3.8,Percent,8033,636
+Colorado,Douglas,3.8,Percent,8035,644
+Colorado,Eagle,3.8,Percent,8037,648
+Colorado,Elbert,3.8,Percent,8039,655
+Colorado,El Paso,3.8,Percent,8041,661
+Colorado,Fremont,3.8,Percent,8043,664
+Colorado,Garfield,3.8,Percent,8045,667
+Colorado,Gilpin,3.8,Percent,8047,672
+Colorado,Grand,3.8,Percent,8049,677
+Colorado,Gunnison,3.8,Percent,8051,682
+Colorado,Hinsdale,3.8,Percent,8053,688
+Colorado,Huerfano,3.8,Percent,8055,693
+Colorado,Jackson,3.8,Percent,8057,701
+Colorado,Jefferson,3.8,Percent,8059,706
+Colorado,Kiowa,3.8,Percent,8061,711
+Colorado,Kit Carson,3.8,Percent,8063,716
+Colorado,Lake,3.8,Percent,8065,721
+Colorado,La Plata,3.8,Percent,8067,727
+Colorado,Larimer,3.8,Percent,8069,734
+Colorado,Las Animas,3.8,Percent,8071,741
+Colorado,Lincoln,3.8,Percent,8073,747
+Colorado,Logan,3.8,Percent,8075,749
+Colorado,Mesa,3.8,Percent,8077,751
+Colorado,Mineral,3.8,Percent,8079,757
+Colorado,Moffat,3.8,Percent,8081,758
+Colorado,Montezuma,3.8,Percent,8083,766
+Colorado,Montrose,3.8,Percent,8085,769
+Colorado,Morgan,3.8,Percent,8087,775
+Colorado,Otero,3.8,Percent,8089,777
+Colorado,Ouray,3.8,Percent,8091,780
+Colorado,Park,3.8,Percent,8093,782
+Colorado,Phillips,3.8,Percent,8095,785
+Colorado,Pitkin,3.8,Percent,8097,789
+Colorado,Prowers,3.8,Percent,8099,792
+Colorado,Pueblo,3.8,Percent,8101,795
+Colorado,Rio Blanco,3.8,Percent,8103,799
+Colorado,Rio Grande,3.8,Percent,8105,802
+Colorado,Routt,3.8,Percent,8107,809
+Colorado,Saguache,3.8,Percent,8109,811
+Colorado,San Juan,3.8,Percent,8111,347
+Colorado,San Miguel,3.8,Percent,8113,359
+Colorado,Sedgwick,3.8,Percent,8115,366
+Colorado,Summit,3.8,Percent,8117,373
+Colorado,Teller,3.8,Percent,8119,375
+Colorado,Washington,3.8,Percent,8121,377
+Colorado,Weld,3.8,Percent,8123,382
+Colorado,Yuma,3.8,Percent,8125,385
+Connecticut,Fairfield,4.7,Percent,9001,410
+Connecticut,Hartford,4.7,Percent,9003,432
+Connecticut,Litchfield,4.7,Percent,9005,443
+Connecticut,Middlesex,4.7,Percent,9007,450
+Connecticut,New Haven,4.7,Percent,9009,466
+Connecticut,New London,4.7,Percent,9011,517
+Connecticut,Tolland,4.7,Percent,9013,524
+Connecticut,Windham,4.7,Percent,9015,529
+Delaware,Kent,4.5,Percent,10001,532
+Delaware,New Castle,4.5,Percent,10003,536
+Delaware,Sussex,4.5,Percent,10005,609
+District of Columbia,District of Columbia,3.5,Percent,11001,630
+Florida,Alachua,4.2,Percent,12001,639
+Florida,Baker,4.2,Percent,12003,641
+Florida,Bay,4.2,Percent,12005,658
+Florida,Bradford,4.2,Percent,12007,665
+Florida,Brevard,4.2,Percent,12009,686
+Florida,Broward,4.2,Percent,12011,695
+Florida,Calhoun,4.2,Percent,12013,699
+Florida,Charlotte,4.2,Percent,12015,743
+Florida,Citrus,4.2,Percent,12017,843
+Florida,Clay,4.2,Percent,12019,852
+Florida,Collier,4.2,Percent,12021,894
+Florida,Columbia,4.2,Percent,12023,903
+Florida,DeSoto,4.2,Percent,12027,906
+Florida,Dixie,4.2,Percent,12029,918
+Florida,Duval,4.2,Percent,12031,924
+Florida,Escambia,4.2,Percent,12033,931
+Florida,Flagler,4.2,Percent,12035,935
+Florida,Franklin,4.2,Percent,12037,937
+Florida,Gadsden,4.2,Percent,12039,938
+Florida,Gilchrist,4.2,Percent,12041,939
+Florida,Glades,4.2,Percent,12043,940
+Florida,Gulf,4.2,Percent,12045,941
+Florida,Hamilton,4.2,Percent,12047,942
+Florida,Hardee,4.2,Percent,12049,943
+Florida,Hendry,4.2,Percent,12051,944
+Florida,Hernando,4.2,Percent,12053,945
+Florida,Highlands,4.2,Percent,12055,946
+Florida,Hillsborough,4.2,Percent,12057,947
+Florida,Holmes,4.2,Percent,12059,948
+Florida,Indian River,4.2,Percent,12061,949
+Florida,Jackson,4.2,Percent,12063,950
+Florida,Jefferson,4.2,Percent,12065,951
+Florida,Lafayette,4.2,Percent,12067,952
+Florida,Lake,4.2,Percent,12069,953
+Florida,Lee,4.2,Percent,12071,954
+Florida,Leon,4.2,Percent,12073,955
+Florida,Levy,4.2,Percent,12075,956
+Florida,Liberty,4.2,Percent,12077,957
+Florida,Madison,4.2,Percent,12079,958
+Florida,Manatee,4.2,Percent,12081,959
+Florida,Marion,4.2,Percent,12083,960
+Florida,Martin,4.2,Percent,12085,961
+Florida,Miami-Dade,4.2,Percent,12086,962
+Florida,Monroe,4.2,Percent,12087,963
+Florida,Nassau,4.2,Percent,12089,964
+Florida,Okaloosa,4.2,Percent,12091,965
+Florida,Okeechobee,4.2,Percent,12093,966
+Florida,Orange,4.2,Percent,12095,967
+Florida,Osceola,4.2,Percent,12097,968
+Florida,Palm Beach,4.2,Percent,12099,969
+Florida,Pasco,4.2,Percent,12101,970
+Florida,Pinellas,4.2,Percent,12103,971
+Florida,Polk,4.2,Percent,12105,972
+Florida,Putnam,4.2,Percent,12107,973
+Florida,St. Johns,4.2,Percent,12109,974
+Florida,St. Lucie,4.2,Percent,12111,975
+Florida,Santa Rosa,4.2,Percent,12113,976
+Florida,Sarasota,4.2,Percent,12115,977
+Florida,Seminole,4.2,Percent,12117,978
+Florida,Sumter,4.2,Percent,12119,979
+Florida,Suwannee,4.2,Percent,12121,980
+Florida,Taylor,4.2,Percent,12123,981
+Florida,Union,4.2,Percent,12125,982
+Florida,Volusia,4.2,Percent,12127,983
+Florida,Wakulla,4.2,Percent,12129,984
+Florida,Walton,4.2,Percent,12131,985
+Florida,Washington,4.2,Percent,12133,986
+Georgia,Appling,4.4,Percent,13001,987
+Georgia,Atkinson,4.4,Percent,13003,988
+Georgia,Bacon,4.4,Percent,13005,989
+Georgia,Baker,4.4,Percent,13007,990
+Georgia,Baldwin,4.4,Percent,13009,991
+Georgia,Banks,4.4,Percent,13011,992
+Georgia,Barrow,4.4,Percent,13013,993
+Georgia,Bartow,4.4,Percent,13015,994
+Georgia,Ben Hill,4.4,Percent,13017,995
+Georgia,Berrien,4.4,Percent,13019,996
+Georgia,Bibb,4.4,Percent,13021,997
+Georgia,Bleckley,4.4,Percent,13023,998
+Georgia,Brantley,4.4,Percent,13025,999
+Georgia,Brooks,4.4,Percent,13027,565
+Georgia,Bryan,4.4,Percent,13029,573
+Georgia,Bulloch,4.4,Percent,13031,579
+Georgia,Burke,4.4,Percent,13033,583
+Georgia,Butts,4.4,Percent,13035,588
+Georgia,Calhoun,4.4,Percent,13037,592
+Georgia,Camden,4.4,Percent,13039,603
+Georgia,Candler,4.4,Percent,13043,616
+Georgia,Carroll,4.4,Percent,13045,620
+Georgia,Catoosa,4.4,Percent,13047,626
+Georgia,Charlton,4.4,Percent,13049,635
+Georgia,Chatham,4.4,Percent,13051,646
+Georgia,Chattahoochee,4.4,Percent,13053,656
+Georgia,Chattooga,4.4,Percent,13055,659
+Georgia,Cherokee,4.4,Percent,13057,662
+Georgia,Clarke,4.4,Percent,13059,666
+Georgia,Clay,4.4,Percent,13061,670
+Georgia,Clayton,4.4,Percent,13063,673
+Georgia,Clinch,4.4,Percent,13065,676
+Georgia,Cobb,4.4,Percent,13067,680
+Georgia,Coffee,4.4,Percent,13069,684
+Georgia,Colquitt,4.4,Percent,13071,689
+Georgia,Columbia,4.4,Percent,13073,692
+Georgia,Cook,4.4,Percent,13075,697
+Georgia,Coweta,4.4,Percent,13077,700
+Georgia,Crawford,4.4,Percent,13079,704
+Georgia,Crisp,4.4,Percent,13081,707
+Georgia,Dade,4.4,Percent,13083,708
+Georgia,Dawson,4.4,Percent,13085,713
+Georgia,Decatur,4.4,Percent,13087,714
+Georgia,DeKalb,4.4,Percent,13089,718
+Georgia,Dodge,4.4,Percent,13091,720
+Georgia,Dooly,4.4,Percent,13093,724
+Georgia,Dougherty,4.4,Percent,13095,728
+Georgia,Douglas,4.4,Percent,13097,731
+Georgia,Early,4.4,Percent,13099,735
+Georgia,Echols,4.4,Percent,13101,737
+Georgia,Effingham,4.4,Percent,13103,742
+Georgia,Elbert,4.4,Percent,13105,746
+Georgia,Emanuel,4.4,Percent,13107,750
+Georgia,Evans,4.4,Percent,13109,754
+Georgia,Fannin,4.4,Percent,13111,755
+Georgia,Fayette,4.4,Percent,13113,760
+Georgia,Floyd,4.4,Percent,13115,764
+Georgia,Forsyth,4.4,Percent,13117,768
+Georgia,Franklin,4.4,Percent,13119,772
+Georgia,Fulton,4.4,Percent,13121,779
+Georgia,Gilmer,4.4,Percent,13123,781
+Georgia,Glascock,4.4,Percent,13125,783
+Georgia,Glynn,4.4,Percent,13127,793
+Georgia,Gordon,4.4,Percent,13129,796
+Georgia,Grady,4.4,Percent,13131,797
+Georgia,Greene,4.4,Percent,13133,800
+Georgia,Gwinnett,4.4,Percent,13135,804
+Georgia,Habersham,4.4,Percent,13137,806
+Georgia,Hall,4.4,Percent,13139,808
+Georgia,Hancock,4.4,Percent,13141,810
+Georgia,Haralson,4.4,Percent,13143,813
+Georgia,Harris,4.4,Percent,13145,814
+Georgia,Hart,4.4,Percent,13147,816
+Georgia,Heard,4.4,Percent,13149,817
+Georgia,Henry,4.4,Percent,13151,820
+Georgia,Houston,4.4,Percent,13153,823
+Georgia,Irwin,4.4,Percent,13155,825
+Georgia,Jackson,4.4,Percent,13157,828
+Georgia,Jasper,4.4,Percent,13159,830
+Georgia,Jeff Davis,4.4,Percent,13161,832
+Georgia,Jefferson,4.4,Percent,13163,834
+Georgia,Jenkins,4.4,Percent,13165,835
+Georgia,Johnson,4.4,Percent,13167,837
+Georgia,Jones,4.4,Percent,13169,839
+Georgia,Lamar,4.4,Percent,13171,841
+Georgia,Lanier,4.4,Percent,13173,845
+Georgia,Laurens,4.4,Percent,13175,847
+Georgia,Lee,4.4,Percent,13177,849
+Georgia,Liberty,4.4,Percent,13179,855
+Georgia,Lincoln,4.4,Percent,13181,857
+Georgia,Long,4.4,Percent,13183,860
+Georgia,Lowndes,4.4,Percent,13185,863
+Georgia,Lumpkin,4.4,Percent,13187,865
+Georgia,McDuffie,4.4,Percent,13189,868
+Georgia,McIntosh,4.4,Percent,13191,871
+Georgia,Macon,4.4,Percent,13193,874
+Georgia,Madison,4.4,Percent,13195,875
+Georgia,Marion,4.4,Percent,13197,877
+Georgia,Meriwether,4.4,Percent,13199,879
+Georgia,Miller,4.4,Percent,13201,881
+Georgia,Mitchell,4.4,Percent,13205,883
+Georgia,Monroe,4.4,Percent,13207,885
+Georgia,Montgomery,4.4,Percent,13209,887
+Georgia,Morgan,4.4,Percent,13211,890
+Georgia,Murray,4.4,Percent,13213,892
+Georgia,Muscogee,4.4,Percent,13215,896
+Georgia,Newton,4.4,Percent,13217,899
+Georgia,Oconee,4.4,Percent,13219,901
+Georgia,Oglethorpe,4.4,Percent,13221,905
+Georgia,Paulding,4.4,Percent,13223,908
+Georgia,Peach,4.4,Percent,13225,910
+Georgia,Pickens,4.4,Percent,13227,912
+Georgia,Pierce,4.4,Percent,13229,915
+Georgia,Pike,4.4,Percent,13231,7
+Georgia,Polk,4.4,Percent,13233,8
+Georgia,Pulaski,4.4,Percent,13235,11
+Georgia,Putnam,4.4,Percent,13237,13
+Georgia,Quitman,4.4,Percent,13239,16
+Georgia,Rabun,4.4,Percent,13241,18
+Georgia,Randolph,4.4,Percent,13243,23
+Georgia,Richmond,4.4,Percent,13245,24
+Georgia,Rockdale,4.4,Percent,13247,28
+Georgia,Schley,4.4,Percent,13249,31
+Georgia,Screven,4.4,Percent,13251,34
+Georgia,Seminole,4.4,Percent,13253,38
+Georgia,Spalding,4.4,Percent,13255,41
+Georgia,Stephens,4.4,Percent,13257,45
+Georgia,Stewart,4.4,Percent,13259,48
+Georgia,Sumter,4.4,Percent,13261,52
+Georgia,Talbot,4.4,Percent,13263,57
+Georgia,Taliaferro,4.4,Percent,13265,60
+Georgia,Tattnall,4.4,Percent,13267,63
+Georgia,Taylor,4.4,Percent,13269,69
+Georgia,Telfair,4.4,Percent,13271,75
+Georgia,Terrell,4.4,Percent,13273,78
+Georgia,Thomas,4.4,Percent,13275,83
+Georgia,Tift,4.4,Percent,13277,87
+Georgia,Toombs,4.4,Percent,13279,91
+Georgia,Towns,4.4,Percent,13281,95
+Georgia,Treutlen,4.4,Percent,13283,102
+Georgia,Troup,4.4,Percent,13285,105
+Georgia,Turner,4.4,Percent,13287,108
+Georgia,Twiggs,4.4,Percent,13289,116
+Georgia,Union,4.4,Percent,13291,120
+Georgia,Upson,4.4,Percent,13293,123
+Georgia,Walker,4.4,Percent,13295,126
+Georgia,Walton,4.4,Percent,13297,127
+Georgia,Ware,4.4,Percent,13299,132
+Georgia,Warren,4.4,Percent,13301,135
+Georgia,Washington,4.4,Percent,13303,143
+Georgia,Wayne,4.4,Percent,13305,147
+Georgia,Webster,4.4,Percent,13307,149
+Georgia,Wheeler,4.4,Percent,13309,154
+Georgia,White,4.4,Percent,13311,157
+Georgia,Whitfield,4.4,Percent,13313,159
+Georgia,Wilcox,4.4,Percent,13315,163
+Georgia,Wilkes,4.4,Percent,13317,167
+Georgia,Wilkinson,4.4,Percent,13319,169
+Georgia,Worth,4.4,Percent,13321,173
+Hawaii,Hawaii,2.9,Percent,15001,198
+Hawaii,Honolulu,2.9,Percent,15003,234
+Hawaii,Kalawao,2.9,Percent,15005,247
+Hawaii,Kauai,2.9,Percent,15007,261
+Hawaii,Maui,2.9,Percent,15009,323
+Idaho,Ada,4.3,Percent,16001,336
+Idaho,Adams,4.3,Percent,16003,338
+Idaho,Bannock,4.3,Percent,16005,343
+Idaho,Bear Lake,4.3,Percent,16007,349
+Idaho,Benewah,4.3,Percent,16009,354
+Idaho,Bingham,4.3,Percent,16011,362
+Idaho,Blaine,4.3,Percent,16013,371
+Idaho,Boise,4.3,Percent,16015,380
+Idaho,Bonner,4.3,Percent,16017,387
+Idaho,Bonneville,4.3,Percent,16019,395
+Idaho,Boundary,4.3,Percent,16021,405
+Idaho,Butte,4.3,Percent,16023,414
+Idaho,Camas,4.3,Percent,16025,429
+Idaho,Canyon,4.3,Percent,16027,441
+Idaho,Caribou,4.3,Percent,16029,449
+Idaho,Cassia,4.3,Percent,16031,456
+Idaho,Clark,4.3,Percent,16033,464
+Idaho,Clearwater,4.3,Percent,16035,474
+Idaho,Custer,4.3,Percent,16037,484
+Idaho,Elmore,4.3,Percent,16039,490
+Idaho,Franklin,4.3,Percent,16041,498
+Idaho,Fremont,4.3,Percent,16043,502
+Idaho,Gem,4.3,Percent,16045,510
+Idaho,Gooding,4.3,Percent,16047,519
+Idaho,Idaho,4.3,Percent,16049,528
+Idaho,Jefferson,4.3,Percent,16051,540
+Idaho,Jerome,4.3,Percent,16053,547
+Idaho,Kootenai,4.3,Percent,16055,552
+Idaho,Latah,4.3,Percent,16057,559
+Idaho,Lemhi,4.3,Percent,16059,566
+Idaho,Lewis,4.3,Percent,16061,574
+Idaho,Lincoln,4.3,Percent,16063,578
+Idaho,Madison,4.3,Percent,16065,581
+Idaho,Minidoka,4.3,Percent,16067,585
+Idaho,Nez Perce,4.3,Percent,16069,589
+Idaho,Oneida,4.3,Percent,16071,593
+Idaho,Owyhee,4.3,Percent,16073,601
+Idaho,Payette,4.3,Percent,16075,606
+Idaho,Power,4.3,Percent,16077,613
+Idaho,Shoshone,4.3,Percent,16079,621
+Idaho,Teton,4.3,Percent,16081,627
+Idaho,Twin Falls,4.3,Percent,16083,634
+Idaho,Valley,4.3,Percent,16085,643
+Idaho,Washington,4.3,Percent,16087,649
+Illinois,Adams,4.0,Percent,17001,650
+Illinois,Alexander,4.0,Percent,17003,651
+Illinois,Bond,4.0,Percent,17005,652
+Illinois,Boone,4.0,Percent,17007,653
+Illinois,Brown,4.0,Percent,17009,654
+Illinois,Bureau,4.0,Percent,17011,2
+Illinois,Calhoun,4.0,Percent,17013,4
+Illinois,Carroll,4.0,Percent,17015,6
+Illinois,Cass,4.0,Percent,17017,10
+Illinois,Champaign,4.0,Percent,17019,12
+Illinois,Christian,4.0,Percent,17021,14
+Illinois,Clark,4.0,Percent,17023,19
+Illinois,Clay,4.0,Percent,17025,22
+Illinois,Clinton,4.0,Percent,17027,27
+Illinois,Coles,4.0,Percent,17029,30
+Illinois,Cook,4.0,Percent,17031,36
+Illinois,Crawford,4.0,Percent,17033,40
+Illinois,Cumberland,4.0,Percent,17035,44
+Illinois,DeKalb,4.0,Percent,17037,49
+Illinois,De Witt,4.0,Percent,17039,53
+Illinois,Douglas,4.0,Percent,17041,55
+Illinois,DuPage,4.0,Percent,17043,64
+Illinois,Edgar,4.0,Percent,17045,66
+Illinois,Edwards,4.0,Percent,17047,71
+Illinois,Effingham,4.0,Percent,17049,76
+Illinois,Fayette,4.0,Percent,17051,79
+Illinois,Ford,4.0,Percent,17053,81
+Illinois,Franklin,4.0,Percent,17055,85
+Illinois,Fulton,4.0,Percent,17057,89
+Illinois,Gallatin,4.0,Percent,17059,92
+Illinois,Greene,4.0,Percent,17061,96
+Illinois,Grundy,4.0,Percent,17063,99
+Illinois,Hamilton,4.0,Percent,17065,106
+Illinois,Hancock,4.0,Percent,17067,111
+Illinois,Hardin,4.0,Percent,17069,113
+Illinois,Henderson,4.0,Percent,17071,117
+Illinois,Henry,4.0,Percent,17073,121
+Illinois,Iroquois,4.0,Percent,17075,125
+Illinois,Jackson,4.0,Percent,17077,129
+Illinois,Jasper,4.0,Percent,17079,133
+Illinois,Jefferson,4.0,Percent,17081,137
+Illinois,Jersey,4.0,Percent,17083,142
+Illinois,Jo Daviess,4.0,Percent,17085,145
+Illinois,Johnson,4.0,Percent,17087,152
+Illinois,Kane,4.0,Percent,17089,156
+Illinois,Kankakee,4.0,Percent,17091,161
+Illinois,Kendall,4.0,Percent,17093,165
+Illinois,Knox,4.0,Percent,17095,166
+Illinois,Lake,4.0,Percent,17097,170
+Illinois,LaSalle,4.0,Percent,17099,175
+Illinois,Lawrence,4.0,Percent,17101,177
+Illinois,Lee,4.0,Percent,17103,180
+Illinois,Livingston,4.0,Percent,17105,182
+Illinois,Logan,4.0,Percent,17107,186
+Illinois,McDonough,4.0,Percent,17109,189
+Illinois,McHenry,4.0,Percent,17111,192
+Illinois,McLean,4.0,Percent,17113,193
+Illinois,Macon,4.0,Percent,17115,194
+Illinois,Macoupin,4.0,Percent,17117,196
+Illinois,Madison,4.0,Percent,17119,199
+Illinois,Marion,4.0,Percent,17121,201
+Illinois,Marshall,4.0,Percent,17123,202
+Illinois,Mason,4.0,Percent,17125,206
+Illinois,Massac,4.0,Percent,17127,208
+Illinois,Menard,4.0,Percent,17129,212
+Illinois,Mercer,4.0,Percent,17131,216
+Illinois,Monroe,4.0,Percent,17133,219
+Illinois,Montgomery,4.0,Percent,17135,223
+Illinois,Morgan,4.0,Percent,17137,225
+Illinois,Moultrie,4.0,Percent,17139,227
+Illinois,Ogle,4.0,Percent,17141,229
+Illinois,Peoria,4.0,Percent,17143,233
+Illinois,Perry,4.0,Percent,17145,235
+Illinois,Piatt,4.0,Percent,17147,238
+Illinois,Pike,4.0,Percent,17149,241
+Illinois,Pope,4.0,Percent,17151,245
+Illinois,Pulaski,4.0,Percent,17153,248
+Illinois,Putnam,4.0,Percent,17155,253
+Illinois,Randolph,4.0,Percent,17157,255
+Illinois,Richland,4.0,Percent,17159,259
+Illinois,Rock Island,4.0,Percent,17161,265
+Illinois,St. Clair,4.0,Percent,17163,269
+Illinois,Saline,4.0,Percent,17165,271
+Illinois,Sangamon,4.0,Percent,17167,274
+Illinois,Schuyler,4.0,Percent,17169,278
+Illinois,Scott,4.0,Percent,17171,280
+Illinois,Shelby,4.0,Percent,17173,283
+Illinois,Stark,4.0,Percent,17175,285
+Illinois,Stephenson,4.0,Percent,17177,290
+Illinois,Tazewell,4.0,Percent,17179,291
+Illinois,Union,4.0,Percent,17181,293
+Illinois,Vermilion,4.0,Percent,17183,296
+Illinois,Wabash,4.0,Percent,17185,299
+Illinois,Warren,4.0,Percent,17187,301
+Illinois,Washington,4.0,Percent,17189,305
+Illinois,Wayne,4.0,Percent,17191,310
+Illinois,White,4.0,Percent,17193,312
+Illinois,Whiteside,4.0,Percent,17195,314
+Illinois,Will,4.0,Percent,17197,320
+Illinois,Williamson,4.0,Percent,17199,324
+Illinois,Winnebago,4.0,Percent,17201,325
+Illinois,Woodford,4.0,Percent,17203,328
+Indiana,Adams,4.7,Percent,18001,330
+Indiana,Allen,4.7,Percent,18003,335
+Indiana,Bartholomew,4.7,Percent,18005,342
+Indiana,Benton,4.7,Percent,18007,179
+Indiana,Blackford,4.7,Percent,18009,183
+Indiana,Boone,4.7,Percent,18011,185
+Indiana,Brown,4.7,Percent,18013,188
+Indiana,Carroll,4.7,Percent,18015,195
+Indiana,Cass,4.7,Percent,18017,211
+Indiana,Clark,4.7,Percent,18019,215
+Indiana,Clay,4.7,Percent,18021,221
+Indiana,Clinton,4.7,Percent,18023,226
+Indiana,Crawford,4.7,Percent,18025,232
+Indiana,Daviess,4.7,Percent,18027,239
+Indiana,Dearborn,4.7,Percent,18029,242
+Indiana,Decatur,4.7,Percent,18031,246
+Indiana,DeKalb,4.7,Percent,18033,249
+Indiana,Delaware,4.7,Percent,18035,252
+Indiana,Dubois,4.7,Percent,18037,254
+Indiana,Elkhart,4.7,Percent,18039,260
+Indiana,Fayette,4.7,Percent,18041,263
+Indiana,Floyd,4.7,Percent,18043,267
+Indiana,Fountain,4.7,Percent,18045,270
+Indiana,Franklin,4.7,Percent,18047,272
+Indiana,Fulton,4.7,Percent,18049,276
+Indiana,Gibson,4.7,Percent,18051,286
+Indiana,Grant,4.7,Percent,18053,297
+Indiana,Greene,4.7,Percent,18055,309
+Indiana,Hamilton,4.7,Percent,18057,321
+Indiana,Hancock,4.7,Percent,18059,329
+Indiana,Harrison,4.7,Percent,18061,334
+Indiana,Hendricks,4.7,Percent,18063,341
+Indiana,Henry,4.7,Percent,18065,344
+Indiana,Howard,4.7,Percent,18067,348
+Indiana,Huntington,4.7,Percent,18069,352
+Indiana,Jackson,4.7,Percent,18071,355
+Indiana,Jasper,4.7,Percent,18073,356
+Indiana,Jay,4.7,Percent,18075,358
+Indiana,Jefferson,4.7,Percent,18077,363
+Indiana,Jennings,4.7,Percent,18079,367
+Indiana,Johnson,4.7,Percent,18081,370
+Indiana,Knox,4.7,Percent,18083,376
+Indiana,Kosciusko,4.7,Percent,18085,384
+Indiana,LaGrange,4.7,Percent,18087,386
+Indiana,Lake,4.7,Percent,18089,389
+Indiana,LaPorte,4.7,Percent,18091,392
+Indiana,Lawrence,4.7,Percent,18093,396
+Indiana,Madison,4.7,Percent,18095,401
+Indiana,Marion,4.7,Percent,18097,409
+Indiana,Marshall,4.7,Percent,18099,412
+Indiana,Martin,4.7,Percent,18101,418
+Indiana,Miami,4.7,Percent,18103,420
+Indiana,Monroe,4.7,Percent,18105,422
+Indiana,Montgomery,4.7,Percent,18107,425
+Indiana,Morgan,4.7,Percent,18109,430
+Indiana,Newton,4.7,Percent,18111,433
+Indiana,Noble,4.7,Percent,18113,436
+Indiana,Ohio,4.7,Percent,18115,440
+Indiana,Orange,4.7,Percent,18117,444
+Indiana,Owen,4.7,Percent,18119,448
+Indiana,Parke,4.7,Percent,18121,452
+Indiana,Perry,4.7,Percent,18123,459
+Indiana,Pike,4.7,Percent,18125,465
+Indiana,Porter,4.7,Percent,18127,468
+Indiana,Posey,4.7,Percent,18129,471
+Indiana,Pulaski,4.7,Percent,18131,477
+Indiana,Putnam,4.7,Percent,18133,480
+Indiana,Randolph,4.7,Percent,18135,485
+Indiana,Ripley,4.7,Percent,18137,488
+Indiana,Rush,4.7,Percent,18139,493
+Indiana,St. Joseph,4.7,Percent,18141,496
+Indiana,Scott,4.7,Percent,18143,504
+Indiana,Shelby,4.7,Percent,18145,506
+Indiana,Spencer,4.7,Percent,18147,509
+Indiana,Starke,4.7,Percent,18149,512
+Indiana,Steuben,4.7,Percent,18151,515
+Indiana,Sullivan,4.7,Percent,18153,518
+Indiana,Switzerland,4.7,Percent,18155,526
+Indiana,Tippecanoe,4.7,Percent,18157,530
+Indiana,Tipton,4.7,Percent,18159,534
+Indiana,Union,4.7,Percent,18161,538
+Indiana,Vanderburgh,4.7,Percent,18163,543
+Indiana,Vermillion,4.7,Percent,18165,548
+Indiana,Vigo,4.7,Percent,18167,553
+Indiana,Wabash,4.7,Percent,18169,555
+Indiana,Warren,4.7,Percent,18171,567
+Indiana,Warrick,4.7,Percent,18173,575
+Indiana,Washington,4.7,Percent,18175,584
+Indiana,Wayne,4.7,Percent,18177,586
+Indiana,Wells,4.7,Percent,18179,590
+Indiana,White,4.7,Percent,18181,594
+Indiana,Whitley,4.7,Percent,18183,597
+Iowa,Adair,5.7,Percent,19001,598
+Iowa,Adams,5.7,Percent,19003,602
+Iowa,Allamakee,5.7,Percent,19005,608
+Iowa,Appanoose,5.7,Percent,19007,611
+Iowa,Audubon,5.7,Percent,19009,615
+Iowa,Benton,5.7,Percent,19011,619
+Iowa,Black Hawk,5.7,Percent,19013,623
+Iowa,Boone,5.7,Percent,19015,625
+Iowa,Bremer,5.7,Percent,19017,631
+Iowa,Buchanan,5.7,Percent,19019,632
+Iowa,Buena Vista,5.7,Percent,19021,633
+Iowa,Butler,5.7,Percent,19023,361
+Iowa,Calhoun,5.7,Percent,19025,365
+Iowa,Carroll,5.7,Percent,19027,369
+Iowa,Cass,5.7,Percent,19029,374
+Iowa,Cedar,5.7,Percent,19031,379
+Iowa,Cerro Gordo,5.7,Percent,19033,383
+Iowa,Cherokee,5.7,Percent,19035,388
+Iowa,Chickasaw,5.7,Percent,19037,393
+Iowa,Clarke,5.7,Percent,19039,397
+Iowa,Clay,5.7,Percent,19041,398
+Iowa,Clayton,5.7,Percent,19043,402
+Iowa,Clinton,5.7,Percent,19045,404
+Iowa,Crawford,5.7,Percent,19047,408
+Iowa,Dallas,5.7,Percent,19049,413
+Iowa,Davis,5.7,Percent,19051,416
+Iowa,Decatur,5.7,Percent,19053,419
+Iowa,Delaware,5.7,Percent,19055,421
+Iowa,Des Moines,5.7,Percent,19057,424
+Iowa,Dickinson,5.7,Percent,19059,427
+Iowa,Dubuque,5.7,Percent,19061,434
+Iowa,Emmet,5.7,Percent,19063,437
+Iowa,Fayette,5.7,Percent,19065,442
+Iowa,Floyd,5.7,Percent,19067,447
+Iowa,Franklin,5.7,Percent,19069,451
+Iowa,Fremont,5.7,Percent,19071,455
+Iowa,Greene,5.7,Percent,19073,458
+Iowa,Grundy,5.7,Percent,19075,460
+Iowa,Guthrie,5.7,Percent,19077,467
+Iowa,Hamilton,5.7,Percent,19079,469
+Iowa,Hancock,5.7,Percent,19081,470
+Iowa,Hardin,5.7,Percent,19083,475
+Iowa,Harrison,5.7,Percent,19085,478
+Iowa,Henry,5.7,Percent,19087,479
+Iowa,Howard,5.7,Percent,19089,481
+Iowa,Humboldt,5.7,Percent,19091,487
+Iowa,Ida,5.7,Percent,19093,491
+Iowa,Iowa,5.7,Percent,19095,495
+Iowa,Jackson,5.7,Percent,19097,499
+Iowa,Jasper,5.7,Percent,19099,505
+Iowa,Jefferson,5.7,Percent,19101,507
+Iowa,Johnson,5.7,Percent,19103,508
+Iowa,Jones,5.7,Percent,19105,516
+Iowa,Keokuk,5.7,Percent,19107,520
+Iowa,Kossuth,5.7,Percent,19109,523
+Iowa,Lee,5.7,Percent,19111,531
+Iowa,Linn,5.7,Percent,19113,535
+Iowa,Louisa,5.7,Percent,19115,539
+Iowa,Lucas,5.7,Percent,19117,542
+Iowa,Lyon,5.7,Percent,19119,546
+Iowa,Madison,5.7,Percent,19121,550
+Iowa,Mahaska,5.7,Percent,19123,554
+Iowa,Marion,5.7,Percent,19125,561
+Iowa,Marshall,5.7,Percent,19127,568
+Iowa,Mills,5.7,Percent,19129,569
+Iowa,Mitchell,5.7,Percent,19131,572
+Iowa,Monona,5.7,Percent,19133,576
+Iowa,Monroe,5.7,Percent,19135,580
+Iowa,Montgomery,5.7,Percent,19137,595
+Iowa,Muscatine,5.7,Percent,19139,600
+Iowa,O'Brien,5.7,Percent,19141,604
+Iowa,Osceola,5.7,Percent,19143,607
+Iowa,Page,5.7,Percent,19145,612
+Iowa,Palo Alto,5.7,Percent,19147,618
+Iowa,Plymouth,5.7,Percent,19149,622
+Iowa,Pocahontas,5.7,Percent,19151,624
+Iowa,Polk,5.7,Percent,19153,629
+Iowa,Pottawattamie,5.7,Percent,19155,637
+Iowa,Poweshiek,5.7,Percent,19157,640
+Iowa,Ringgold,5.7,Percent,19159,642
+Iowa,Sac,5.7,Percent,19161,647
+Iowa,Scott,5.7,Percent,19163,657
+Iowa,Shelby,5.7,Percent,19165,660
+Iowa,Sioux,5.7,Percent,19167,663
+Iowa,Story,5.7,Percent,19169,668
+Iowa,Tama,5.7,Percent,19171,671
+Iowa,Taylor,5.7,Percent,19173,674
+Iowa,Union,5.7,Percent,19175,675
+Iowa,Van Buren,5.7,Percent,19177,678
+Iowa,Wapello,5.7,Percent,19179,681
+Iowa,Warren,5.7,Percent,19181,685
+Iowa,Washington,5.7,Percent,19183,687
+Iowa,Wayne,5.7,Percent,19185,691
+Iowa,Webster,5.7,Percent,19187,694
+Iowa,Winnebago,5.7,Percent,19189,696
+Iowa,Winneshiek,5.7,Percent,19191,698
+Iowa,Woodbury,5.7,Percent,19193,702
+Iowa,Worth,5.7,Percent,19195,703
+Iowa,Wright,5.7,Percent,19197,705
+Kansas,Allen,5.6,Percent,20001,709
+Kansas,Anderson,5.6,Percent,20003,712
+Kansas,Atchison,5.6,Percent,20005,715
+Kansas,Barber,5.6,Percent,20007,717
+Kansas,Barton,5.6,Percent,20009,719
+Kansas,Bourbon,5.6,Percent,20011,722
+Kansas,Brown,5.6,Percent,20013,723
+Kansas,Butler,5.6,Percent,20015,726
+Kansas,Chase,5.6,Percent,20017,729
+Kansas,Chautauqua,5.6,Percent,20019,730
+Kansas,Cherokee,5.6,Percent,20021,732
+Kansas,Cheyenne,5.6,Percent,20023,736
+Kansas,Clark,5.6,Percent,20025,738
+Kansas,Clay,5.6,Percent,20027,739
+Kansas,Cloud,5.6,Percent,20029,740
+Kansas,Coffey,5.6,Percent,20031,745
+Kansas,Comanche,5.6,Percent,20033,748
+Kansas,Cowley,5.6,Percent,20035,752
+Kansas,Crawford,5.6,Percent,20037,756
+Kansas,Decatur,5.6,Percent,20039,759
+Kansas,Dickinson,5.6,Percent,20041,762
+Kansas,Doniphan,5.6,Percent,20043,765
+Kansas,Douglas,5.6,Percent,20045,767
+Kansas,Edwards,5.6,Percent,20047,770
+Kansas,Elk,5.6,Percent,20049,773
+Kansas,Ellis,5.6,Percent,20051,774
+Kansas,Ellsworth,5.6,Percent,20053,776
+Kansas,Finney,5.6,Percent,20055,778
+Kansas,Ford,5.6,Percent,20057,784
+Kansas,Franklin,5.6,Percent,20059,786
+Kansas,Geary,5.6,Percent,20061,788
+Kansas,Gove,5.6,Percent,20063,790
+Kansas,Graham,5.6,Percent,20065,791
+Kansas,Grant,5.6,Percent,20067,794
+Kansas,Gray,5.6,Percent,20069,798
+Kansas,Greeley,5.6,Percent,20071,801
+Kansas,Greenwood,5.6,Percent,20073,803
+Kansas,Hamilton,5.6,Percent,20075,805
+Kansas,Harper,5.6,Percent,20077,807
+Kansas,Harvey,5.6,Percent,20079,812
+Kansas,Haskell,5.6,Percent,20081,815
+Kansas,Hodgeman,5.6,Percent,20083,818
+Kansas,Jackson,5.6,Percent,20085,819
+Kansas,Jefferson,5.6,Percent,20087,821
+Kansas,Jewell,5.6,Percent,20089,822
+Kansas,Johnson,5.6,Percent,20091,824
+Kansas,Kearny,5.6,Percent,20093,826
+Kansas,Kingman,5.6,Percent,20095,827
+Kansas,Kiowa,5.6,Percent,20097,829
+Kansas,Labette,5.6,Percent,20099,831
+Kansas,Lane,5.6,Percent,20101,833
+Kansas,Leavenworth,5.6,Percent,20103,836
+Kansas,Lincoln,5.6,Percent,20105,838
+Kansas,Linn,5.6,Percent,20107,840
+Kansas,Logan,5.6,Percent,20109,842
+Kansas,Lyon,5.6,Percent,20111,844
+Kansas,McPherson,5.6,Percent,20113,846
+Kansas,Marion,5.6,Percent,20115,848
+Kansas,Marshall,5.6,Percent,20117,850
+Kansas,Meade,5.6,Percent,20119,851
+Kansas,Miami,5.6,Percent,20121,853
+Kansas,Mitchell,5.6,Percent,20123,854
+Kansas,Montgomery,5.6,Percent,20125,856
+Kansas,Morris,5.6,Percent,20127,858
+Kansas,Morton,5.6,Percent,20129,859
+Kansas,Nemaha,5.6,Percent,20131,861
+Kansas,Neosho,5.6,Percent,20133,862
+Kansas,Ness,5.6,Percent,20135,864
+Kansas,Norton,5.6,Percent,20137,866
+Kansas,Osage,5.6,Percent,20139,867
+Kansas,Osborne,5.6,Percent,20141,869
+Kansas,Ottawa,5.6,Percent,20143,870
+Kansas,Pawnee,5.6,Percent,20145,872
+Kansas,Phillips,5.6,Percent,20147,873
+Kansas,Pottawatomie,5.6,Percent,20149,876
+Kansas,Pratt,5.6,Percent,20151,878
+Kansas,Rawlins,5.6,Percent,20153,880
+Kansas,Reno,5.6,Percent,20155,882
+Kansas,Republic,5.6,Percent,20157,884
+Kansas,Rice,5.6,Percent,20159,886
+Kansas,Riley,5.6,Percent,20161,888
+Kansas,Rooks,5.6,Percent,20163,889
+Kansas,Rush,5.6,Percent,20165,891
+Kansas,Russell,5.6,Percent,20167,893
+Kansas,Saline,5.6,Percent,20169,895
+Kansas,Scott,5.6,Percent,20171,897
+Kansas,Sedgwick,5.6,Percent,20173,898
+Kansas,Seward,5.6,Percent,20175,900
+Kansas,Shawnee,5.6,Percent,20177,902
+Kansas,Sheridan,5.6,Percent,20179,904
+Kansas,Sherman,5.6,Percent,20181,907
+Kansas,Smith,5.6,Percent,20183,909
+Kansas,Stafford,5.6,Percent,20185,911
+Kansas,Stanton,5.6,Percent,20187,913
+Kansas,Stevens,5.6,Percent,20189,914
+Kansas,Sumner,5.6,Percent,20191,916
+Kansas,Thomas,5.6,Percent,20193,917
+Kansas,Trego,5.6,Percent,20195,919
+Kansas,Wabaunsee,5.6,Percent,20197,920
+Kansas,Wallace,5.6,Percent,20199,921
+Kansas,Washington,5.6,Percent,20201,922
+Kansas,Wichita,5.6,Percent,20203,923
+Kansas,Wilson,5.6,Percent,20205,925
+Kansas,Woodson,5.6,Percent,20207,926
+Kansas,Wyandotte,5.6,Percent,20209,927
+Kentucky,Adair,6.1,Percent,21001,928
+Kentucky,Allen,6.1,Percent,21003,929
+Kentucky,Anderson,6.1,Percent,21005,930
+Kentucky,Ballard,6.1,Percent,21007,932
+Kentucky,Barren,6.1,Percent,21009,933
+Kentucky,Bath,6.1,Percent,21011,934
+Kentucky,Bell,6.1,Percent,21013,936
+Kentucky,Boone,6.1,Percent,21015,1002
+Kentucky,Bourbon,6.1,Percent,21017,1005
+Kentucky,Boyd,6.1,Percent,21019,1008
+Kentucky,Boyle,6.1,Percent,21021,1010
+Kentucky,Bracken,6.1,Percent,21023,1013
+Kentucky,Breathitt,6.1,Percent,21025,1017
+Kentucky,Breckinridge,6.1,Percent,21027,1020
+Kentucky,Bullitt,6.1,Percent,21029,1024
+Kentucky,Butler,6.1,Percent,21031,1026
+Kentucky,Caldwell,6.1,Percent,21033,1031
+Kentucky,Calloway,6.1,Percent,21035,1033
+Kentucky,Campbell,6.1,Percent,21037,1035
+Kentucky,Carlisle,6.1,Percent,21039,1039
+Kentucky,Carroll,6.1,Percent,21041,1041
+Kentucky,Carter,6.1,Percent,21043,1044
+Kentucky,Casey,6.1,Percent,21045,1048
+Kentucky,Christian,6.1,Percent,21047,1050
+Kentucky,Clark,6.1,Percent,21049,1053
+Kentucky,Clay,6.1,Percent,21051,1056
+Kentucky,Clinton,6.1,Percent,21053,1059
+Kentucky,Crittenden,6.1,Percent,21055,1064
+Kentucky,Cumberland,6.1,Percent,21057,1067
+Kentucky,Daviess,6.1,Percent,21059,1071
+Kentucky,Edmonson,6.1,Percent,21061,1073
+Kentucky,Elliott,6.1,Percent,21063,1075
+Kentucky,Estill,6.1,Percent,21065,1077
+Kentucky,Fayette,6.1,Percent,21067,1080
+Kentucky,Fleming,6.1,Percent,21069,1083
+Kentucky,Floyd,6.1,Percent,21071,1085
+Kentucky,Franklin,6.1,Percent,21073,1086
+Kentucky,Fulton,6.1,Percent,21075,1088
+Kentucky,Gallatin,6.1,Percent,21077,1090
+Kentucky,Garrard,6.1,Percent,21079,1092
+Kentucky,Grant,6.1,Percent,21081,1094
+Kentucky,Graves,6.1,Percent,21083,1097
+Kentucky,Grayson,6.1,Percent,21085,1100
+Kentucky,Green,6.1,Percent,21087,1102
+Kentucky,Greenup,6.1,Percent,21089,1105
+Kentucky,Hancock,6.1,Percent,21091,1107
+Kentucky,Hardin,6.1,Percent,21093,1110
+Kentucky,Harlan,6.1,Percent,21095,1114
+Kentucky,Harrison,6.1,Percent,21097,1119
+Kentucky,Hart,6.1,Percent,21099,1121
+Kentucky,Henderson,6.1,Percent,21101,1126
+Kentucky,Henry,6.1,Percent,21103,1129
+Kentucky,Hickman,6.1,Percent,21105,1130
+Kentucky,Hopkins,6.1,Percent,21107,1136
+Kentucky,Jackson,6.1,Percent,21109,1140
+Kentucky,Jefferson,6.1,Percent,21111,1143
+Kentucky,Jessamine,6.1,Percent,21113,1145
+Kentucky,Johnson,6.1,Percent,21115,1148
+Kentucky,Kenton,6.1,Percent,21117,1151
+Kentucky,Knott,6.1,Percent,21119,1154
+Kentucky,Knox,6.1,Percent,21121,1159
+Kentucky,Larue,6.1,Percent,21123,1162
+Kentucky,Laurel,6.1,Percent,21125,1166
+Kentucky,Lawrence,6.1,Percent,21127,1167
+Kentucky,Lee,6.1,Percent,21129,1171
+Kentucky,Leslie,6.1,Percent,21131,1175
+Kentucky,Letcher,6.1,Percent,21133,1178
+Kentucky,Lewis,6.1,Percent,21135,1180
+Kentucky,Lincoln,6.1,Percent,21137,1184
+Kentucky,Livingston,6.1,Percent,21139,1187
+Kentucky,Logan,6.1,Percent,21141,1190
+Kentucky,Lyon,6.1,Percent,21143,1193
+Kentucky,McCracken,6.1,Percent,21145,1196
+Kentucky,McCreary,6.1,Percent,21147,1198
+Kentucky,McLean,6.1,Percent,21149,1201
+Kentucky,Madison,6.1,Percent,21151,1204
+Kentucky,Magoffin,6.1,Percent,21153,1206
+Kentucky,Marion,6.1,Percent,21155,1210
+Kentucky,Marshall,6.1,Percent,21157,1213
+Kentucky,Martin,6.1,Percent,21159,1215
+Kentucky,Mason,6.1,Percent,21161,1217
+Kentucky,Meade,6.1,Percent,21163,1220
+Kentucky,Menifee,6.1,Percent,21165,1222
+Kentucky,Mercer,6.1,Percent,21167,1225
+Kentucky,Metcalfe,6.1,Percent,21169,1228
+Kentucky,Monroe,6.1,Percent,21171,1230
+Kentucky,Montgomery,6.1,Percent,21173,1233
+Kentucky,Morgan,6.1,Percent,21175,1235
+Kentucky,Muhlenberg,6.1,Percent,21177,1238
+Kentucky,Nelson,6.1,Percent,21179,1243
+Kentucky,Nicholas,6.1,Percent,21181,1246
+Kentucky,Ohio,6.1,Percent,21183,1249
+Kentucky,Oldham,6.1,Percent,21185,1252
+Kentucky,Owen,6.1,Percent,21187,1255
+Kentucky,Owsley,6.1,Percent,21189,1257
+Kentucky,Pendleton,6.1,Percent,21191,1260
+Kentucky,Perry,6.1,Percent,21193,1265
+Kentucky,Pike,6.1,Percent,21195,1267
+Kentucky,Powell,6.1,Percent,21197,1270
+Kentucky,Pulaski,6.1,Percent,21199,1272
+Kentucky,Robertson,6.1,Percent,21201,1273
+Kentucky,Rockcastle,6.1,Percent,21203,1276
+Kentucky,Rowan,6.1,Percent,21205,1279
+Kentucky,Russell,6.1,Percent,21207,1282
+Kentucky,Scott,6.1,Percent,21209,1283
+Kentucky,Shelby,6.1,Percent,21211,1285
+Kentucky,Simpson,6.1,Percent,21213,1287
+Kentucky,Spencer,6.1,Percent,21215,1000
+Kentucky,Taylor,6.1,Percent,21217,1003
+Kentucky,Todd,6.1,Percent,21219,1006
+Kentucky,Trigg,6.1,Percent,21221,1009
+Kentucky,Trimble,6.1,Percent,21223,1012
+Kentucky,Union,6.1,Percent,21225,1016
+Kentucky,Warren,6.1,Percent,21227,1019
+Kentucky,Washington,6.1,Percent,21229,1023
+Kentucky,Wayne,6.1,Percent,21231,1027
+Kentucky,Webster,6.1,Percent,21233,1029
+Kentucky,Whitley,6.1,Percent,21235,1034
+Kentucky,Wolfe,6.1,Percent,21237,1037
+Kentucky,Woodford,6.1,Percent,21239,1042
+Louisiana,Acadia,7.1,Percent,22001,1046
+Louisiana,Allen,7.1,Percent,22003,1051
+Louisiana,Ascension,7.1,Percent,22005,1055
+Louisiana,Assumption,7.1,Percent,22007,1060
+Louisiana,Avoyelles,7.1,Percent,22009,1062
+Louisiana,Beauregard,7.1,Percent,22011,1066
+Louisiana,Bienville,7.1,Percent,22013,1069
+Louisiana,Bossier,7.1,Percent,22015,1076
+Louisiana,Caddo,7.1,Percent,22017,1079
+Louisiana,Calcasieu,7.1,Percent,22019,1081
+Louisiana,Caldwell,7.1,Percent,22021,1084
+Louisiana,Cameron,7.1,Percent,22023,1089
+Louisiana,Catahoula,7.1,Percent,22025,1093
+Louisiana,Claiborne,7.1,Percent,22027,1095
+Louisiana,Concordia,7.1,Percent,22029,1098
+Louisiana,De Soto,7.1,Percent,22031,1103
+Louisiana,East Baton Rouge,7.1,Percent,22033,1108
+Louisiana,East Carroll,7.1,Percent,22035,1111
+Louisiana,East Feliciana,7.1,Percent,22037,1115
+Louisiana,Evangeline,7.1,Percent,22039,1118
+Louisiana,Franklin,7.1,Percent,22041,1123
+Louisiana,Grant,7.1,Percent,22043,1127
+Louisiana,Iberia,7.1,Percent,22045,1133
+Louisiana,Iberville,7.1,Percent,22047,1134
+Louisiana,Jackson,7.1,Percent,22049,1138
+Louisiana,Jefferson,7.1,Percent,22051,1147
+Louisiana,Jefferson Davis,7.1,Percent,22053,1155
+Louisiana,Lafayette,7.1,Percent,22055,1161
+Louisiana,Lafourche,7.1,Percent,22057,1280
+Louisiana,La Salle,7.1,Percent,22059,1289
+Louisiana,Lincoln,7.1,Percent,22061,1291
+Louisiana,Livingston,7.1,Percent,22063,1295
+Louisiana,Madison,7.1,Percent,22065,1297
+Louisiana,Morehouse,7.1,Percent,22067,1299
+Louisiana,Natchitoches,7.1,Percent,22069,1301
+Louisiana,Orleans,7.1,Percent,22071,1304
+Louisiana,Ouachita,7.1,Percent,22073,1306
+Louisiana,Plaquemines,7.1,Percent,22075,1427
+Louisiana,Pointe Coupee,7.1,Percent,22077,1431
+Louisiana,Rapides,7.1,Percent,22079,1434
+Louisiana,Red River,7.1,Percent,22081,1436
+Louisiana,Richland,7.1,Percent,22083,1439
+Louisiana,Sabine,7.1,Percent,22085,1441
+Louisiana,St. Bernard,7.1,Percent,22087,1463
+Louisiana,St. Charles,7.1,Percent,22089,1466
+Louisiana,St. Helena,7.1,Percent,22091,1467
+Louisiana,St. James,7.1,Percent,22093,1468
+Louisiana,St. John the Baptist,7.1,Percent,22095,1469
+Louisiana,St. Landry,7.1,Percent,22097,1471
+Louisiana,St. Martin,7.1,Percent,22099,1473
+Louisiana,St. Mary,7.1,Percent,22101,1474
+Louisiana,St. Tammany,7.1,Percent,22103,1475
+Louisiana,Tangipahoa,7.1,Percent,22105,1476
+Louisiana,Tensas,7.1,Percent,22107,1479
+Louisiana,Terrebonne,7.1,Percent,22109,1501
+Louisiana,Union,7.1,Percent,22111,1507
+Louisiana,Vermilion,7.1,Percent,22113,1510
+Louisiana,Vernon,7.1,Percent,22115,1513
+Louisiana,Washington,7.1,Percent,22117,1516
+Louisiana,Webster,7.1,Percent,22119,1518
+Louisiana,West Baton Rouge,7.1,Percent,22121,1520
+Louisiana,West Carroll,7.1,Percent,22123,1522
+Louisiana,West Feliciana,7.1,Percent,22125,1524
+Louisiana,Winn,7.1,Percent,22127,1529
+Maine,Androscoggin,3.8,Percent,23001,1532
+Maine,Aroostook,3.8,Percent,23003,1535
+Maine,Cumberland,3.8,Percent,23005,1608
+Maine,Franklin,3.8,Percent,23007,1619
+Maine,Hancock,3.8,Percent,23009,1748
+Maine,Kennebec,3.8,Percent,23011,1755
+Maine,Knox,3.8,Percent,23013,1774
+Maine,Lincoln,3.8,Percent,23015,1835
+Maine,Oxford,3.8,Percent,23017,1842
+Maine,Penobscot,3.8,Percent,23019,1846
+Maine,Piscataquis,3.8,Percent,23021,1851
+Maine,Sagadahoc,3.8,Percent,23023,1855
+Maine,Somerset,3.8,Percent,23025,1860
+Maine,Waldo,3.8,Percent,23027,1865
+Maine,Washington,3.8,Percent,23029,1884
+Maine,York,3.8,Percent,23031,1901
+Maryland,Allegany,4.3,Percent,24001,1905
+Maryland,Anne Arundel,4.3,Percent,24003,1925
+Maryland,Baltimore County,4.3,Percent,24005,1939
+Maryland,Calvert,4.3,Percent,24009,1946
+Maryland,Caroline,4.3,Percent,24011,1949
+Maryland,Carroll,4.3,Percent,24013,1955
+Maryland,Cecil,4.3,Percent,24015,1963
+Maryland,Charles,4.3,Percent,24017,1294
+Maryland,Dorchester,4.3,Percent,24019,1346
+Maryland,Frederick,4.3,Percent,24021,1357
+Maryland,Garrett,4.3,Percent,24023,1361
+Maryland,Harford,4.3,Percent,24025,1372
+Maryland,Howard,4.3,Percent,24027,1379
+Maryland,Kent,4.3,Percent,24029,1394
+Maryland,Montgomery,4.3,Percent,24031,1398
+Maryland,Prince George's,4.3,Percent,24033,1403
+Maryland,Queen Anne's,4.3,Percent,24035,1413
+Maryland,St. Mary's,4.3,Percent,24037,1421
+Maryland,Somerset,4.3,Percent,24039,1430
+Maryland,Talbot,4.3,Percent,24041,1438
+Maryland,Washington,4.3,Percent,24043,1445
+Maryland,Wicomico,4.3,Percent,24045,1446
+Maryland,Worcester,4.3,Percent,24047,1456
+Maryland,Baltimore City,4.3,Percent,24510,1460
+Massachusetts,Barnstable,6.4,Percent,25001,1478
+Massachusetts,Berkshire,6.4,Percent,25003,1480
+Massachusetts,Bristol,6.4,Percent,25005,1486
+Massachusetts,Dukes,6.4,Percent,25007,1491
+Massachusetts,Essex,6.4,Percent,25009,1519
+Massachusetts,Franklin,6.4,Percent,25011,1523
+Massachusetts,Hampden,6.4,Percent,25013,1526
+Massachusetts,Hampshire,6.4,Percent,25015,1527
+Massachusetts,Middlesex,6.4,Percent,25017,1533
+Massachusetts,Nantucket,6.4,Percent,25019,1537
+Massachusetts,Norfolk,6.4,Percent,25021,1543
+Massachusetts,Plymouth,6.4,Percent,25023,1569
+Massachusetts,Suffolk,6.4,Percent,25025,1585
+Massachusetts,Worcester,6.4,Percent,25027,1599
+Michigan,Alcona,6.0,Percent,26001,1603
+Michigan,Alger,6.0,Percent,26003,1609
+Michigan,Allegan,6.0,Percent,26005,1611
+Michigan,Alpena,6.0,Percent,26007,1614
+Michigan,Antrim,6.0,Percent,26009,1617
+Michigan,Arenac,6.0,Percent,26011,1621
+Michigan,Baraga,6.0,Percent,26013,1624
+Michigan,Barry,6.0,Percent,26015,1627
+Michigan,Bay,6.0,Percent,26017,1631
+Michigan,Benzie,6.0,Percent,26019,1634
+Michigan,Berrien,6.0,Percent,26021,1635
+Michigan,Branch,6.0,Percent,26023,1640
+Michigan,Calhoun,6.0,Percent,26025,1641
+Michigan,Cass,6.0,Percent,26027,1644
+Michigan,Charlevoix,6.0,Percent,26029,1648
+Michigan,Cheboygan,6.0,Percent,26031,1649
+Michigan,Chippewa,6.0,Percent,26033,1660
+Michigan,Clare,6.0,Percent,26035,1665
+Michigan,Clinton,6.0,Percent,26037,1669
+Michigan,Crawford,6.0,Percent,26039,1672
+Michigan,Delta,6.0,Percent,26041,1675
+Michigan,Dickinson,6.0,Percent,26043,1677
+Michigan,Eaton,6.0,Percent,26045,1678
+Michigan,Emmet,6.0,Percent,26047,1686
+Michigan,Genesee,6.0,Percent,26049,1688
+Michigan,Gladwin,6.0,Percent,26051,1691
+Michigan,Gogebic,6.0,Percent,26053,1693
+Michigan,Grand Traverse,6.0,Percent,26055,1697
+Michigan,Gratiot,6.0,Percent,26057,1700
+Michigan,Hillsdale,6.0,Percent,26059,1701
+Michigan,Houghton,6.0,Percent,26061,1705
+Michigan,Huron,6.0,Percent,26063,1708
+Michigan,Ingham,6.0,Percent,26065,1710
+Michigan,Ionia,6.0,Percent,26067,1713
+Michigan,Iosco,6.0,Percent,26069,1715
+Michigan,Iron,6.0,Percent,26071,1716
+Michigan,Isabella,6.0,Percent,26073,1717
+Michigan,Jackson,6.0,Percent,26075,1719
+Michigan,Kalamazoo,6.0,Percent,26077,1720
+Michigan,Kalkaska,6.0,Percent,26079,1722
+Michigan,Kent,6.0,Percent,26081,1726
+Michigan,Keweenaw,6.0,Percent,26083,1743
+Michigan,Lake,6.0,Percent,26085,1749
+Michigan,Lapeer,6.0,Percent,26087,1752
+Michigan,Leelanau,6.0,Percent,26089,1765
+Michigan,Lenawee,6.0,Percent,26091,1768
+Michigan,Livingston,6.0,Percent,26093,1770
+Michigan,Luce,6.0,Percent,26095,1773
+Michigan,Mackinac,6.0,Percent,26097,1779
+Michigan,Macomb,6.0,Percent,26099,1785
+Michigan,Manistee,6.0,Percent,26101,1787
+Michigan,Marquette,6.0,Percent,26103,1793
+Michigan,Mason,6.0,Percent,26105,1797
+Michigan,Mecosta,6.0,Percent,26107,1800
+Michigan,Menominee,6.0,Percent,26109,1802
+Michigan,Midland,6.0,Percent,26111,1806
+Michigan,Missaukee,6.0,Percent,26113,1810
+Michigan,Monroe,6.0,Percent,26115,1812
+Michigan,Montcalm,6.0,Percent,26117,1815
+Michigan,Montmorency,6.0,Percent,26119,1816
+Michigan,Muskegon,6.0,Percent,26121,1818
+Michigan,Newaygo,6.0,Percent,26123,1820
+Michigan,Oakland,6.0,Percent,26125,1824
+Michigan,Oceana,6.0,Percent,26127,1825
+Michigan,Ogemaw,6.0,Percent,26129,1827
+Michigan,Ontonagon,6.0,Percent,26131,1829
+Michigan,Osceola,6.0,Percent,26133,1830
+Michigan,Oscoda,6.0,Percent,26135,1832
+Michigan,Otsego,6.0,Percent,26137,1834
+Michigan,Ottawa,6.0,Percent,26139,1837
+Michigan,Presque Isle,6.0,Percent,26141,1840
+Michigan,Roscommon,6.0,Percent,26143,1843
+Michigan,Saginaw,6.0,Percent,26145,1845
+Michigan,St. Clair,6.0,Percent,26147,1854
+Michigan,St. Joseph,6.0,Percent,26149,1857
+Michigan,Sanilac,6.0,Percent,26151,1858
+Michigan,Schoolcraft,6.0,Percent,26153,1861
+Michigan,Shiawassee,6.0,Percent,26155,1863
+Michigan,Tuscola,6.0,Percent,26157,1866
+Michigan,Van Buren,6.0,Percent,26159,1867
+Michigan,Washtenaw,6.0,Percent,26161,1869
+Michigan,Wayne,6.0,Percent,26163,1871
+Michigan,Wexford,6.0,Percent,26165,1873
+Minnesota,Aitkin,3.7,Percent,27001,1875
+Minnesota,Anoka,3.7,Percent,27003,1877
+Minnesota,Becker,3.7,Percent,27005,1878
+Minnesota,Beltrami,3.7,Percent,27007,1880
+Minnesota,Benton,3.7,Percent,27009,1881
+Minnesota,Big Stone,3.7,Percent,27011,1882
+Minnesota,Blue Earth,3.7,Percent,27013,1886
+Minnesota,Brown,3.7,Percent,27015,1892
+Minnesota,Carlton,3.7,Percent,27017,1893
+Minnesota,Carver,3.7,Percent,27019,1894
+Minnesota,Cass,3.7,Percent,27021,1895
+Minnesota,Chippewa,3.7,Percent,27023,1896
+Minnesota,Chisago,3.7,Percent,27025,1897
+Minnesota,Clay,3.7,Percent,27027,1898
+Minnesota,Clearwater,3.7,Percent,27029,1899
+Minnesota,Cook,3.7,Percent,27031,1900
+Minnesota,Cottonwood,3.7,Percent,27033,1902
+Minnesota,Crow Wing,3.7,Percent,27035,1903
+Minnesota,Dakota,3.7,Percent,27037,1904
+Minnesota,Dodge,3.7,Percent,27039,1906
+Minnesota,Douglas,3.7,Percent,27041,1907
+Minnesota,Faribault,3.7,Percent,27043,1908
+Minnesota,Fillmore,3.7,Percent,27045,1909
+Minnesota,Freeborn,3.7,Percent,27047,1910
+Minnesota,Goodhue,3.7,Percent,27049,1911
+Minnesota,Grant,3.7,Percent,27051,1912
+Minnesota,Hennepin,3.7,Percent,27053,1913
+Minnesota,Houston,3.7,Percent,27055,1914
+Minnesota,Hubbard,3.7,Percent,27057,1915
+Minnesota,Isanti,3.7,Percent,27059,1916
+Minnesota,Itasca,3.7,Percent,27061,1917
+Minnesota,Jackson,3.7,Percent,27063,1918
+Minnesota,Kanabec,3.7,Percent,27065,1919
+Minnesota,Kandiyohi,3.7,Percent,27067,1920
+Minnesota,Kittson,3.7,Percent,27069,1921
+Minnesota,Koochiching,3.7,Percent,27071,1922
+Minnesota,Lac qui Parle,3.7,Percent,27073,1923
+Minnesota,Lake,3.7,Percent,27075,1926
+Minnesota,Lake of the Woods,3.7,Percent,27077,1927
+Minnesota,Le Sueur,3.7,Percent,27079,1929
+Minnesota,Lincoln,3.7,Percent,27081,1931
+Minnesota,Lyon,3.7,Percent,27083,1932
+Minnesota,McLeod,3.7,Percent,27085,1934
+Minnesota,Mahnomen,3.7,Percent,27087,1936
+Minnesota,Marshall,3.7,Percent,27089,1937
+Minnesota,Martin,3.7,Percent,27091,1940
+Minnesota,Meeker,3.7,Percent,27093,1941
+Minnesota,Mille Lacs,3.7,Percent,27095,1943
+Minnesota,Morrison,3.7,Percent,27097,1944
+Minnesota,Mower,3.7,Percent,27099,1945
+Minnesota,Murray,3.7,Percent,27101,1947
+Minnesota,Nicollet,3.7,Percent,27103,1948
+Minnesota,Nobles,3.7,Percent,27105,1950
+Minnesota,Norman,3.7,Percent,27107,1951
+Minnesota,Olmsted,3.7,Percent,27109,1953
+Minnesota,Otter Tail,3.7,Percent,27111,1954
+Minnesota,Pennington,3.7,Percent,27113,1956
+Minnesota,Pine,3.7,Percent,27115,1957
+Minnesota,Pipestone,3.7,Percent,27117,1958
+Minnesota,Polk,3.7,Percent,27119,1959
+Minnesota,Pope,3.7,Percent,27121,1961
+Minnesota,Ramsey,3.7,Percent,27123,1964
+Minnesota,Red Lake,3.7,Percent,27125,1966
+Minnesota,Redwood,3.7,Percent,27127,1969
+Minnesota,Renville,3.7,Percent,27129,1971
+Minnesota,Rice,3.7,Percent,27131,1973
+Minnesota,Rock,3.7,Percent,27133,1974
+Minnesota,Roseau,3.7,Percent,27135,1976
+Minnesota,St. Louis,3.7,Percent,27137,1978
+Minnesota,Scott,3.7,Percent,27139,1979
+Minnesota,Sherburne,3.7,Percent,27141,1980
+Minnesota,Sibley,3.7,Percent,27143,1982
+Minnesota,Stearns,3.7,Percent,27145,1984
+Minnesota,Steele,3.7,Percent,27147,1985
+Minnesota,Stevens,3.7,Percent,27149,1987
+Minnesota,Swift,3.7,Percent,27151,1988
+Minnesota,Todd,3.7,Percent,27153,1989
+Minnesota,Traverse,3.7,Percent,27155,1990
+Minnesota,Wabasha,3.7,Percent,27157,1991
+Minnesota,Wadena,3.7,Percent,27159,1992
+Minnesota,Waseca,3.7,Percent,27161,1993
+Minnesota,Washington,3.7,Percent,27163,1994
+Minnesota,Watonwan,3.7,Percent,27165,1996
+Minnesota,Wilkin,3.7,Percent,27167,1997
+Minnesota,Winona,3.7,Percent,27169,1998
+Minnesota,Wright,3.7,Percent,27171,1999
+Minnesota,Yellow Medicine,3.7,Percent,27173,1531
+Mississippi,Adams,4.8,Percent,28001,1534
+Mississippi,Alcorn,4.8,Percent,28003,1538
+Mississippi,Amite,4.8,Percent,28005,1539
+Mississippi,Attala,4.8,Percent,28007,1541
+Mississippi,Benton,4.8,Percent,28009,1544
+Mississippi,Bolivar,4.8,Percent,28011,1547
+Mississippi,Calhoun,4.8,Percent,28013,1548
+Mississippi,Carroll,4.8,Percent,28015,1549
+Mississippi,Chickasaw,4.8,Percent,28017,1550
+Mississippi,Choctaw,4.8,Percent,28019,1552
+Mississippi,Claiborne,4.8,Percent,28021,1555
+Mississippi,Clarke,4.8,Percent,28023,1557
+Mississippi,Clay,4.8,Percent,28025,1559
+Mississippi,Coahoma,4.8,Percent,28027,1562
+Mississippi,Copiah,4.8,Percent,28029,1564
+Mississippi,Covington,4.8,Percent,28031,1567
+Mississippi,DeSoto,4.8,Percent,28033,1571
+Mississippi,Forrest,4.8,Percent,28035,1572
+Mississippi,Franklin,4.8,Percent,28037,1575
+Mississippi,George,4.8,Percent,28039,1577
+Mississippi,Greene,4.8,Percent,28041,1579
+Mississippi,Grenada,4.8,Percent,28043,1581
+Mississippi,Hancock,4.8,Percent,28045,1583
+Mississippi,Harrison,4.8,Percent,28047,1587
+Mississippi,Hinds,4.8,Percent,28049,1591
+Mississippi,Holmes,4.8,Percent,28051,1593
+Mississippi,Humphreys,4.8,Percent,28053,1596
+Mississippi,Issaquena,4.8,Percent,28055,1598
+Mississippi,Itawamba,4.8,Percent,28057,1601
+Mississippi,Jackson,4.8,Percent,28059,1605
+Mississippi,Jasper,4.8,Percent,28061,1607
+Mississippi,Jefferson,4.8,Percent,28063,1610
+Mississippi,Jefferson Davis,4.8,Percent,28065,1612
+Mississippi,Jones,4.8,Percent,28067,1615
+Mississippi,Kemper,4.8,Percent,28069,1616
+Mississippi,Lafayette,4.8,Percent,28071,1620
+Mississippi,Lamar,4.8,Percent,28073,1623
+Mississippi,Lauderdale,4.8,Percent,28075,1628
+Mississippi,Lawrence,4.8,Percent,28077,1632
+Mississippi,Leake,4.8,Percent,28079,1636
+Mississippi,Lee,4.8,Percent,28081,1638
+Mississippi,Leflore,4.8,Percent,28083,1643
+Mississippi,Lincoln,4.8,Percent,28085,1645
+Mississippi,Lowndes,4.8,Percent,28087,1647
+Mississippi,Madison,4.8,Percent,28089,1651
+Mississippi,Marion,4.8,Percent,28091,1653
+Mississippi,Marshall,4.8,Percent,28093,1655
+Mississippi,Monroe,4.8,Percent,28095,1656
+Mississippi,Montgomery,4.8,Percent,28097,1658
+Mississippi,Neshoba,4.8,Percent,28099,1661
+Mississippi,Newton,4.8,Percent,28101,1663
+Mississippi,Noxubee,4.8,Percent,28103,1666
+Mississippi,Oktibbeha,4.8,Percent,28105,1668
+Mississippi,Panola,4.8,Percent,28107,1671
+Mississippi,Pearl River,4.8,Percent,28109,1676
+Mississippi,Perry,4.8,Percent,28111,1679
+Mississippi,Pike,4.8,Percent,28113,1680
+Mississippi,Pontotoc,4.8,Percent,28115,1682
+Mississippi,Prentiss,4.8,Percent,28117,1684
+Mississippi,Quitman,4.8,Percent,28119,1685
+Mississippi,Rankin,4.8,Percent,28121,1690
+Mississippi,Scott,4.8,Percent,28123,1692
+Mississippi,Sharkey,4.8,Percent,28125,1695
+Mississippi,Simpson,4.8,Percent,28127,1698
+Mississippi,Smith,4.8,Percent,28129,1709
+Mississippi,Stone,4.8,Percent,28131,1712
+Mississippi,Sunflower,4.8,Percent,28133,1721
+Mississippi,Tallahatchie,4.8,Percent,28135,1725
+Mississippi,Tate,4.8,Percent,28137,1727
+Mississippi,Tippah,4.8,Percent,28139,1730
+Mississippi,Tishomingo,4.8,Percent,28141,1732
+Mississippi,Tunica,4.8,Percent,28143,1735
+Mississippi,Union,4.8,Percent,28145,1737
+Mississippi,Walthall,4.8,Percent,28147,1740
+Mississippi,Warren,4.8,Percent,28149,1746
+Mississippi,Washington,4.8,Percent,28151,1750
+Mississippi,Wayne,4.8,Percent,28153,1753
+Mississippi,Webster,4.8,Percent,28155,1756
+Mississippi,Wilkinson,4.8,Percent,28157,1757
+Mississippi,Winston,4.8,Percent,28159,1758
+Mississippi,Yalobusha,4.8,Percent,28161,1759
+Mississippi,Yazoo,4.8,Percent,28163,1760
+Missouri,Adair,6.6,Percent,29001,1761
+Missouri,Andrew,6.6,Percent,29003,1762
+Missouri,Atchison,6.6,Percent,29005,1763
+Missouri,Audrain,6.6,Percent,29007,1766
+Missouri,Barry,6.6,Percent,29009,1767
+Missouri,Barton,6.6,Percent,29011,1771
+Missouri,Bates,6.6,Percent,29013,1776
+Missouri,Benton,6.6,Percent,29015,1778
+Missouri,Bollinger,6.6,Percent,29017,1781
+Missouri,Boone,6.6,Percent,29019,1783
+Missouri,Buchanan,6.6,Percent,29021,1789
+Missouri,Butler,6.6,Percent,29023,1792
+Missouri,Caldwell,6.6,Percent,29025,1795
+Missouri,Callaway,6.6,Percent,29027,1799
+Missouri,Camden,6.6,Percent,29029,1803
+Missouri,Cape Girardeau,6.6,Percent,29031,1808
+Missouri,Carroll,6.6,Percent,29033,1822
+Missouri,Carter,6.6,Percent,29035,1001
+Missouri,Cass,6.6,Percent,29037,1004
+Missouri,Cedar,6.6,Percent,29039,1007
+Missouri,Chariton,6.6,Percent,29041,1011
+Missouri,Christian,6.6,Percent,29043,1014
+Missouri,Clark,6.6,Percent,29045,1015
+Missouri,Clay,6.6,Percent,29047,1018
+Missouri,Clinton,6.6,Percent,29049,1021
+Missouri,Cole,6.6,Percent,29051,1022
+Missouri,Cooper,6.6,Percent,29053,1025
+Missouri,Crawford,6.6,Percent,29055,1028
+Missouri,Dade,6.6,Percent,29057,1030
+Missouri,Dallas,6.6,Percent,29059,1032
+Missouri,Daviess,6.6,Percent,29061,1036
+Missouri,DeKalb,6.6,Percent,29063,1038
+Missouri,Dent,6.6,Percent,29065,1040
+Missouri,Douglas,6.6,Percent,29067,1043
+Missouri,Dunklin,6.6,Percent,29069,1045
+Missouri,Franklin,6.6,Percent,29071,1047
+Missouri,Gasconade,6.6,Percent,29073,1049
+Missouri,Gentry,6.6,Percent,29075,1052
+Missouri,Greene,6.6,Percent,29077,1054
+Missouri,Grundy,6.6,Percent,29079,1057
+Missouri,Harrison,6.6,Percent,29081,1058
+Missouri,Henry,6.6,Percent,29083,1061
+Missouri,Hickory,6.6,Percent,29085,1063
+Missouri,Holt,6.6,Percent,29087,1065
+Missouri,Howard,6.6,Percent,29089,1068
+Missouri,Howell,6.6,Percent,29091,1070
+Missouri,Iron,6.6,Percent,29093,1072
+Missouri,Jackson,6.6,Percent,29095,1074
+Missouri,Jasper,6.6,Percent,29097,1078
+Missouri,Jefferson,6.6,Percent,29099,1082
+Missouri,Johnson,6.6,Percent,29101,1087
+Missouri,Knox,6.6,Percent,29103,1091
+Missouri,Laclede,6.6,Percent,29105,1096
+Missouri,Lafayette,6.6,Percent,29107,1099
+Missouri,Lawrence,6.6,Percent,29109,1101
+Missouri,Lewis,6.6,Percent,29111,1104
+Missouri,Lincoln,6.6,Percent,29113,1106
+Missouri,Linn,6.6,Percent,29115,1109
+Missouri,Livingston,6.6,Percent,29117,1112
+Missouri,McDonald,6.6,Percent,29119,1113
+Missouri,Macon,6.6,Percent,29121,1116
+Missouri,Madison,6.6,Percent,29123,1117
+Missouri,Maries,6.6,Percent,29125,1120
+Missouri,Marion,6.6,Percent,29127,1122
+Missouri,Mercer,6.6,Percent,29129,1125
+Missouri,Miller,6.6,Percent,29131,1128
+Missouri,Mississippi,6.6,Percent,29133,1131
+Missouri,Moniteau,6.6,Percent,29135,1135
+Missouri,Monroe,6.6,Percent,29137,1139
+Missouri,Montgomery,6.6,Percent,29139,1142
+Missouri,Morgan,6.6,Percent,29141,1146
+Missouri,New Madrid,6.6,Percent,29143,1149
+Missouri,Newton,6.6,Percent,29145,1152
+Missouri,Nodaway,6.6,Percent,29147,1156
+Missouri,Oregon,6.6,Percent,29149,1158
+Missouri,Osage,6.6,Percent,29151,1164
+Missouri,Ozark,6.6,Percent,29153,1168
+Missouri,Pemiscot,6.6,Percent,29155,1170
+Missouri,Perry,6.6,Percent,29157,1172
+Missouri,Pettis,6.6,Percent,29159,1174
+Missouri,Phelps,6.6,Percent,29161,1176
+Missouri,Pike,6.6,Percent,29163,1179
+Missouri,Platte,6.6,Percent,29165,1181
+Missouri,Polk,6.6,Percent,29167,1183
+Missouri,Pulaski,6.6,Percent,29169,1185
+Missouri,Putnam,6.6,Percent,29171,1188
+Missouri,Ralls,6.6,Percent,29173,1191
+Missouri,Randolph,6.6,Percent,29175,1194
+Missouri,Ray,6.6,Percent,29177,1197
+Missouri,Reynolds,6.6,Percent,29179,1200
+Missouri,Ripley,6.6,Percent,29181,1203
+Missouri,St. Charles,6.6,Percent,29183,1205
+Missouri,St. Clair,6.6,Percent,29185,1208
+Missouri,Ste. Genevieve,6.6,Percent,29186,1209
+Missouri,St. Francois,6.6,Percent,29187,1212
+Missouri,St. Louis County,6.6,Percent,29189,1216
+Missouri,Saline,6.6,Percent,29195,1218
+Missouri,Schuyler,6.6,Percent,29197,1221
+Missouri,Scotland,6.6,Percent,29199,1224
+Missouri,Scott,6.6,Percent,29201,1227
+Missouri,Shannon,6.6,Percent,29203,1229
+Missouri,Shelby,6.6,Percent,29205,1232
+Missouri,Stoddard,6.6,Percent,29207,1236
+Missouri,Stone,6.6,Percent,29209,1237
+Missouri,Sullivan,6.6,Percent,29211,1240
+Missouri,Taney,6.6,Percent,29213,1242
+Missouri,Texas,6.6,Percent,29215,1245
+Missouri,Vernon,6.6,Percent,29217,1248
+Missouri,Warren,6.6,Percent,29219,1251
+Missouri,Washington,6.6,Percent,29221,1253
+Missouri,Wayne,6.6,Percent,29223,1256
+Missouri,Webster,6.6,Percent,29225,1258
+Missouri,Worth,6.6,Percent,29227,1261
+Missouri,Wright,6.6,Percent,29229,1263
+Missouri,St. Louis City,6.6,Percent,29510,1266
+Montana,Beaverhead,4.6,Percent,30001,1269
+Montana,Big Horn,4.6,Percent,30003,1274
+Montana,Blaine,4.6,Percent,30005,1124
+Montana,Broadwater,4.6,Percent,30007,1132
+Montana,Carbon,4.6,Percent,30009,1137
+Montana,Carter,4.6,Percent,30011,1141
+Montana,Cascade,4.6,Percent,30013,1144
+Montana,Chouteau,4.6,Percent,30015,1150
+Montana,Custer,4.6,Percent,30017,1153
+Montana,Daniels,4.6,Percent,30019,1157
+Montana,Dawson,4.6,Percent,30021,1160
+Montana,Deer Lodge,4.6,Percent,30023,1163
+Montana,Fallon,4.6,Percent,30025,1165
+Montana,Fergus,4.6,Percent,30027,1169
+Montana,Flathead,4.6,Percent,30029,1173
+Montana,Gallatin,4.6,Percent,30031,1177
+Montana,Garfield,4.6,Percent,30033,1182
+Montana,Glacier,4.6,Percent,30035,1186
+Montana,Golden Valley,4.6,Percent,30037,1189
+Montana,Granite,4.6,Percent,30039,1192
+Montana,Hill,4.6,Percent,30041,1195
+Montana,Jefferson,4.6,Percent,30043,1199
+Montana,Judith Basin,4.6,Percent,30045,1202
+Montana,Lake,4.6,Percent,30047,1207
+Montana,Lewis and Clark,4.6,Percent,30049,1211
+Montana,Liberty,4.6,Percent,30051,1214
+Montana,Lincoln,4.6,Percent,30053,1219
+Montana,McCone,4.6,Percent,30055,1223
+Montana,Madison,4.6,Percent,30057,1226
+Montana,Meagher,4.6,Percent,30059,1231
+Montana,Mineral,4.6,Percent,30061,1234
+Montana,Missoula,4.6,Percent,30063,1239
+Montana,Musselshell,4.6,Percent,30065,1241
+Montana,Park,4.6,Percent,30067,1244
+Montana,Petroleum,4.6,Percent,30069,1247
+Montana,Phillips,4.6,Percent,30071,1250
+Montana,Pondera,4.6,Percent,30073,1254
+Montana,Powder River,4.6,Percent,30075,1259
+Montana,Powell,4.6,Percent,30077,1262
+Montana,Prairie,4.6,Percent,30079,1264
+Montana,Ravalli,4.6,Percent,30081,1268
+Montana,Richland,4.6,Percent,30083,1271
+Montana,Roosevelt,4.6,Percent,30085,1275
+Montana,Rosebud,4.6,Percent,30087,1277
+Montana,Sanders,4.6,Percent,30089,1278
+Montana,Sheridan,4.6,Percent,30091,1281
+Montana,Silver Bow,4.6,Percent,30093,1284
+Montana,Stillwater,4.6,Percent,30095,1286
+Montana,Sweet Grass,4.6,Percent,30097,1288
+Montana,Teton,4.6,Percent,30099,1290
+Montana,Toole,4.6,Percent,30101,1292
+Montana,Treasure,4.6,Percent,30103,1293
+Montana,Valley,4.6,Percent,30105,1296
+Montana,Wheatland,4.6,Percent,30107,1298
+Montana,Wibaux,4.6,Percent,30109,1300
+Montana,Yellowstone,4.6,Percent,30111,1302
+Nebraska,Adams,5.6,Percent,31001,1303
+Nebraska,Antelope,5.6,Percent,31003,1305
+Nebraska,Arthur,5.6,Percent,31005,1307
+Nebraska,Banner,5.6,Percent,31007,1308
+Nebraska,Blaine,5.6,Percent,31009,1309
+Nebraska,Boone,5.6,Percent,31011,1310
+Nebraska,Box Butte,5.6,Percent,31013,1315
+Nebraska,Boyd,5.6,Percent,31015,1317
+Nebraska,Brown,5.6,Percent,31017,1319
+Nebraska,Buffalo,5.6,Percent,31019,1321
+Nebraska,Burt,5.6,Percent,31021,1323
+Nebraska,Butler,5.6,Percent,31023,1325
+Nebraska,Cass,5.6,Percent,31025,1326
+Nebraska,Cedar,5.6,Percent,31027,1329
+Nebraska,Chase,5.6,Percent,31029,1330
+Nebraska,Cherry,5.6,Percent,31031,1333
+Nebraska,Cheyenne,5.6,Percent,31033,1334
+Nebraska,Clay,5.6,Percent,31035,1336
+Nebraska,Colfax,5.6,Percent,31037,1338
+Nebraska,Cuming,5.6,Percent,31039,1340
+Nebraska,Custer,5.6,Percent,31041,1342
+Nebraska,Dakota,5.6,Percent,31043,1344
+Nebraska,Dawes,5.6,Percent,31045,1347
+Nebraska,Dawson,5.6,Percent,31047,1349
+Nebraska,Deuel,5.6,Percent,31049,1351
+Nebraska,Dixon,5.6,Percent,31051,1353
+Nebraska,Dodge,5.6,Percent,31053,1354
+Nebraska,Douglas,5.6,Percent,31055,1358
+Nebraska,Dundy,5.6,Percent,31057,1360
+Nebraska,Fillmore,5.6,Percent,31059,1363
+Nebraska,Franklin,5.6,Percent,31061,1369
+Nebraska,Frontier,5.6,Percent,31063,1371
+Nebraska,Furnas,5.6,Percent,31065,1374
+Nebraska,Gage,5.6,Percent,31067,1378
+Nebraska,Garden,5.6,Percent,31069,1381
+Nebraska,Garfield,5.6,Percent,31071,1391
+Nebraska,Gosper,5.6,Percent,31073,1393
+Nebraska,Grant,5.6,Percent,31075,1395
+Nebraska,Greeley,5.6,Percent,31077,1397
+Nebraska,Hall,5.6,Percent,31079,1402
+Nebraska,Hamilton,5.6,Percent,31081,1405
+Nebraska,Harlan,5.6,Percent,31083,1409
+Nebraska,Hayes,5.6,Percent,31085,1411
+Nebraska,Hitchcock,5.6,Percent,31087,1414
+Nebraska,Holt,5.6,Percent,31089,1416
+Nebraska,Hooker,5.6,Percent,31091,1418
+Nebraska,Howard,5.6,Percent,31093,1311
+Nebraska,Jefferson,5.6,Percent,31095,1312
+Nebraska,Johnson,5.6,Percent,31097,1313
+Nebraska,Kearney,5.6,Percent,31099,1314
+Nebraska,Keith,5.6,Percent,31101,1316
+Nebraska,Keya Paha,5.6,Percent,31103,1318
+Nebraska,Kimball,5.6,Percent,31105,1320
+Nebraska,Knox,5.6,Percent,31107,1322
+Nebraska,Lancaster,5.6,Percent,31109,1324
+Nebraska,Lincoln,5.6,Percent,31111,1327
+Nebraska,Logan,5.6,Percent,31113,1328
+Nebraska,Loup,5.6,Percent,31115,1331
+Nebraska,McPherson,5.6,Percent,31117,1332
+Nebraska,Madison,5.6,Percent,31119,1335
+Nebraska,Merrick,5.6,Percent,31121,1337
+Nebraska,Morrill,5.6,Percent,31123,1339
+Nebraska,Nance,5.6,Percent,31125,1341
+Nebraska,Nemaha,5.6,Percent,31127,1343
+Nebraska,Nuckolls,5.6,Percent,31129,1345
+Nebraska,Otoe,5.6,Percent,31131,1348
+Nebraska,Pawnee,5.6,Percent,31133,1350
+Nebraska,Perkins,5.6,Percent,31135,1352
+Nebraska,Phelps,5.6,Percent,31137,1355
+Nebraska,Pierce,5.6,Percent,31139,1356
+Nebraska,Platte,5.6,Percent,31141,1359
+Nebraska,Polk,5.6,Percent,31143,1362
+Nebraska,Red Willow,5.6,Percent,31145,1364
+Nebraska,Richardson,5.6,Percent,31147,1365
+Nebraska,Rock,5.6,Percent,31149,1366
+Nebraska,Saline,5.6,Percent,31151,1367
+Nebraska,Sarpy,5.6,Percent,31153,1368
+Nebraska,Saunders,5.6,Percent,31155,1370
+Nebraska,Scotts Bluff,5.6,Percent,31157,1373
+Nebraska,Seward,5.6,Percent,31159,1375
+Nebraska,Sheridan,5.6,Percent,31161,1376
+Nebraska,Sherman,5.6,Percent,31163,1377
+Nebraska,Sioux,5.6,Percent,31165,1380
+Nebraska,Stanton,5.6,Percent,31167,1382
+Nebraska,Thayer,5.6,Percent,31169,1383
+Nebraska,Thomas,5.6,Percent,31171,1384
+Nebraska,Thurston,5.6,Percent,31173,1385
+Nebraska,Valley,5.6,Percent,31175,1386
+Nebraska,Washington,5.6,Percent,31177,1387
+Nebraska,Wayne,5.6,Percent,31179,1388
+Nebraska,Webster,5.6,Percent,31181,1389
+Nebraska,Wheeler,5.6,Percent,31183,1390
+Nebraska,York,5.6,Percent,31185,1392
+Nevada,Churchill,3.5,Percent,32001,1396
+Nevada,Clark,3.5,Percent,32003,1399
+Nevada,Douglas,3.5,Percent,32005,1400
+Nevada,Elko,3.5,Percent,32007,1401
+Nevada,Esmeralda,3.5,Percent,32009,1404
+Nevada,Eureka,3.5,Percent,32011,1406
+Nevada,Humboldt,3.5,Percent,32013,1407
+Nevada,Lander,3.5,Percent,32015,1408
+Nevada,Lincoln,3.5,Percent,32017,1410
+Nevada,Lyon,3.5,Percent,32019,1412
+Nevada,Mineral,3.5,Percent,32021,1415
+Nevada,Nye,3.5,Percent,32023,1417
+Nevada,Pershing,3.5,Percent,32027,1419
+Nevada,Storey,3.5,Percent,32029,1420
+Nevada,Washoe,3.5,Percent,32031,1423
+Nevada,White Pine,3.5,Percent,32033,1425
+Nevada,Carson City,3.5,Percent,32510,1428
+New Hampshire,Belknap,5.4,Percent,33001,1432
+New Hampshire,Carroll,5.4,Percent,33003,1435
+New Hampshire,Cheshire,5.4,Percent,33005,1437
+New Hampshire,Coos,5.4,Percent,33007,1440
+New Hampshire,Grafton,5.4,Percent,33009,1442
+New Hampshire,Hillsborough,5.4,Percent,33011,1443
+New Hampshire,Merrimack,5.4,Percent,33013,1444
+New Hampshire,Rockingham,5.4,Percent,33015,1448
+New Hampshire,Strafford,5.4,Percent,33017,1453
+New Hampshire,Sullivan,5.4,Percent,33019,1454
+New Jersey,Atlantic,3.4,Percent,34001,1461
+New Jersey,Bergen,3.4,Percent,34003,1465
+New Jersey,Burlington,3.4,Percent,34005,1470
+New Jersey,Camden,3.4,Percent,34007,1472
+New Jersey,Cape May,3.4,Percent,34009,1477
+New Jersey,Cumberland,3.4,Percent,34011,1482
+New Jersey,Essex,3.4,Percent,34013,1483
+New Jersey,Gloucester,3.4,Percent,34015,1484
+New Jersey,Hudson,3.4,Percent,34017,1487
+New Jersey,Hunterdon,3.4,Percent,34019,1488
+New Jersey,Mercer,3.4,Percent,34021,1493
+New Jersey,Middlesex,3.4,Percent,34023,1497
+New Jersey,Monmouth,3.4,Percent,34025,1504
+New Jersey,Morris,3.4,Percent,34027,1511
+New Jersey,Ocean,3.4,Percent,34029,1546
+New Jersey,Passaic,3.4,Percent,34031,1551
+New Jersey,Salem,3.4,Percent,34033,1553
+New Jersey,Somerset,3.4,Percent,34035,1558
+New Jersey,Sussex,3.4,Percent,34037,1561
+New Jersey,Union,3.4,Percent,34039,1566
+New Jersey,Warren,3.4,Percent,34041,1570
+New Mexico,Bernalillo,3.0,Percent,35001,1574
+New Mexico,Catron,3.0,Percent,35003,1576
+New Mexico,Chaves,3.0,Percent,35005,1578
+New Mexico,Cibola,3.0,Percent,35006,1580
+New Mexico,Colfax,3.0,Percent,35007,1582
+New Mexico,Curry,3.0,Percent,35009,1586
+New Mexico,De Baca,3.0,Percent,35011,1589
+New Mexico,Doña Ana,3.0,Percent,35013,1590
+New Mexico,Eddy,3.0,Percent,35015,1592
+New Mexico,Grant,3.0,Percent,35017,1594
+New Mexico,Guadalupe,3.0,Percent,35019,1595
+New Mexico,Harding,3.0,Percent,35021,1597
+New Mexico,Hidalgo,3.0,Percent,35023,1600
+New Mexico,Lea,3.0,Percent,35025,1604
+New Mexico,Lincoln,3.0,Percent,35027,1613
+New Mexico,Los Alamos,3.0,Percent,35028,1618
+New Mexico,Luna,3.0,Percent,35029,1622
+New Mexico,McKinley,3.0,Percent,35031,1626
+New Mexico,Mora,3.0,Percent,35033,1629
+New Mexico,Otero,3.0,Percent,35035,1633
+New Mexico,Quay,3.0,Percent,35037,1637
+New Mexico,Rio Arriba,3.0,Percent,35039,1639
+New Mexico,Roosevelt,3.0,Percent,35041,1642
+New Mexico,Sandoval,3.0,Percent,35043,1646
+New Mexico,San Juan,3.0,Percent,35045,1650
+New Mexico,San Miguel,3.0,Percent,35047,1652
+New Mexico,Santa Fe,3.0,Percent,35049,1654
+New Mexico,Sierra,3.0,Percent,35051,1657
+New Mexico,Socorro,3.0,Percent,35053,1659
+New Mexico,Taos,3.0,Percent,35055,1662
+New Mexico,Torrance,3.0,Percent,35057,1664
+New Mexico,Union,3.0,Percent,35059,1667
+New Mexico,Valencia,3.0,Percent,35061,1670
+New York,Albany,6.6,Percent,36001,1673
+New York,Allegany,6.6,Percent,36003,1674
+New York,Bronx,6.6,Percent,36005,1681
+New York,Broome,6.6,Percent,36007,1683
+New York,Cattaraugus,6.6,Percent,36009,1687
+New York,Cayuga,6.6,Percent,36011,1689
+New York,Chautauqua,6.6,Percent,36013,1694
+New York,Chemung,6.6,Percent,36015,1696
+New York,Chenango,6.6,Percent,36017,1699
+New York,Clinton,6.6,Percent,36019,1702
+New York,Columbia,6.6,Percent,36021,1704
+New York,Cortland,6.6,Percent,36023,1706
+New York,Delaware,6.6,Percent,36025,1707
+New York,Dutchess,6.6,Percent,36027,1711
+New York,Erie,6.6,Percent,36029,1723
+New York,Essex,6.6,Percent,36031,1728
+New York,Franklin,6.6,Percent,36033,1731
+New York,Fulton,6.6,Percent,36035,1734
+New York,Genesee,6.6,Percent,36037,1736
+New York,Greene,6.6,Percent,36039,1739
+New York,Hamilton,6.6,Percent,36041,1742
+New York,Herkimer,6.6,Percent,36043,1745
+New York,Jefferson,6.6,Percent,36045,1782
+New York,Kings,6.6,Percent,36047,1788
+New York,Lewis,6.6,Percent,36049,1790
+New York,Livingston,6.6,Percent,36051,1791
+New York,Madison,6.6,Percent,36053,1796
+New York,Monroe,6.6,Percent,36055,1804
+New York,Montgomery,6.6,Percent,36057,1807
+New York,Nassau,6.6,Percent,36059,1839
+New York,New York,6.6,Percent,36061,1847
+New York,Niagara,6.6,Percent,36063,1850
+New York,Oneida,6.6,Percent,36065,1852
+New York,Onondaga,6.6,Percent,36067,1853
+New York,Ontario,6.6,Percent,36069,1856
+New York,Orange,6.6,Percent,36071,1859
+New York,Orleans,6.6,Percent,36073,1862
+New York,Oswego,6.6,Percent,36075,1864
+New York,Otsego,6.6,Percent,36077,1868
+New York,Putnam,6.6,Percent,36079,1870
+New York,Queens,6.6,Percent,36081,1872
+New York,Rensselaer,6.6,Percent,36083,1874
+New York,Richmond,6.6,Percent,36085,1876
+New York,Rockland,6.6,Percent,36087,1879
+New York,St. Lawrence,6.6,Percent,36089,1883
+New York,Saratoga,6.6,Percent,36091,1885
+New York,Schenectady,6.6,Percent,36093,1887
+New York,Schoharie,6.6,Percent,36095,1888
+New York,Schuyler,6.6,Percent,36097,1889
+New York,Seneca,6.6,Percent,36099,1890
+New York,Steuben,6.6,Percent,36101,1891
+New York,Suffolk,6.6,Percent,36103,1924
+New York,Sullivan,6.6,Percent,36105,1928
+New York,Tioga,6.6,Percent,36107,1930
+New York,Tompkins,6.6,Percent,36109,1933
+New York,Ulster,6.6,Percent,36111,1935
+New York,Warren,6.6,Percent,36113,1938
+New York,Washington,6.6,Percent,36115,1942
+New York,Wayne,6.6,Percent,36117,1952
+New York,Westchester,6.6,Percent,36119,1960
+New York,Wyoming,6.6,Percent,36121,1962
+New York,Yates,6.6,Percent,36123,1965
+North Carolina,Alamance,5.1,Percent,37001,1967
+North Carolina,Alexander,5.1,Percent,37003,1968
+North Carolina,Alleghany,5.1,Percent,37005,1970
+North Carolina,Anson,5.1,Percent,37007,1972
+North Carolina,Ashe,5.1,Percent,37009,1975
+North Carolina,Avery,5.1,Percent,37011,1977
+North Carolina,Beaufort,5.1,Percent,37013,1981
+North Carolina,Bertie,5.1,Percent,37015,1983
+North Carolina,Bladen,5.1,Percent,37017,1986
+North Carolina,Brunswick,5.1,Percent,37019,1995
+North Carolina,Buncombe,5.1,Percent,37021,1422
+North Carolina,Burke,5.1,Percent,37023,1424
+North Carolina,Cabarrus,5.1,Percent,37025,1426
+North Carolina,Caldwell,5.1,Percent,37027,1429
+North Carolina,Camden,5.1,Percent,37029,1433
+North Carolina,Carteret,5.1,Percent,37031,1447
+North Carolina,Caswell,5.1,Percent,37033,1449
+North Carolina,Catawba,5.1,Percent,37035,1450
+North Carolina,Chatham,5.1,Percent,37037,1451
+North Carolina,Cherokee,5.1,Percent,37039,1452
+North Carolina,Chowan,5.1,Percent,37041,1455
+North Carolina,Clay,5.1,Percent,37043,1457
+North Carolina,Cleveland,5.1,Percent,37045,1458
+North Carolina,Columbus,5.1,Percent,37047,1459
+North Carolina,Craven,5.1,Percent,37049,1462
+North Carolina,Cumberland,5.1,Percent,37051,1464
+North Carolina,Currituck,5.1,Percent,37053,1481
+North Carolina,Dare,5.1,Percent,37055,1485
+North Carolina,Davidson,5.1,Percent,37057,1489
+North Carolina,Davie,5.1,Percent,37059,1490
+North Carolina,Duplin,5.1,Percent,37061,1492
+North Carolina,Durham,5.1,Percent,37063,1494
+North Carolina,Edgecombe,5.1,Percent,37065,1495
+North Carolina,Forsyth,5.1,Percent,37067,1496
+North Carolina,Franklin,5.1,Percent,37069,1498
+North Carolina,Gaston,5.1,Percent,37071,1499
+North Carolina,Gates,5.1,Percent,37073,1500
+North Carolina,Graham,5.1,Percent,37075,1502
+North Carolina,Granville,5.1,Percent,37077,1503
+North Carolina,Greene,5.1,Percent,37079,1505
+North Carolina,Guilford,5.1,Percent,37081,1506
+North Carolina,Halifax,5.1,Percent,37083,1508
+North Carolina,Harnett,5.1,Percent,37085,1509
+North Carolina,Haywood,5.1,Percent,37087,1512
+North Carolina,Henderson,5.1,Percent,37089,1514
+North Carolina,Hertford,5.1,Percent,37091,1515
+North Carolina,Hoke,5.1,Percent,37093,1517
+North Carolina,Hyde,5.1,Percent,37095,1521
+North Carolina,Iredell,5.1,Percent,37097,1525
+North Carolina,Jackson,5.1,Percent,37099,1528
+North Carolina,Johnston,5.1,Percent,37101,1530
+North Carolina,Jones,5.1,Percent,37103,1536
+North Carolina,Lee,5.1,Percent,37105,1540
+North Carolina,Lenoir,5.1,Percent,37107,1542
+North Carolina,Lincoln,5.1,Percent,37109,1545
+North Carolina,McDowell,5.1,Percent,37111,1554
+North Carolina,Macon,5.1,Percent,37113,1556
+North Carolina,Madison,5.1,Percent,37115,1560
+North Carolina,Martin,5.1,Percent,37117,1563
+North Carolina,Mecklenburg,5.1,Percent,37119,1565
+North Carolina,Mitchell,5.1,Percent,37121,1568
+North Carolina,Montgomery,5.1,Percent,37123,1573
+North Carolina,Moore,5.1,Percent,37125,1584
+North Carolina,Nash,5.1,Percent,37127,1588
+North Carolina,New Hanover,5.1,Percent,37129,1602
+North Carolina,Northampton,5.1,Percent,37131,1606
+North Carolina,Onslow,5.1,Percent,37133,1625
+North Carolina,Orange,5.1,Percent,37135,1630
+North Carolina,Pamlico,5.1,Percent,37137,1703
+North Carolina,Pasquotank,5.1,Percent,37139,1714
+North Carolina,Pender,5.1,Percent,37141,1718
+North Carolina,Perquimans,5.1,Percent,37143,1724
+North Carolina,Person,5.1,Percent,37145,1729
+North Carolina,Pitt,5.1,Percent,37147,1733
+North Carolina,Polk,5.1,Percent,37149,1738
+North Carolina,Randolph,5.1,Percent,37151,1741
+North Carolina,Richmond,5.1,Percent,37153,1744
+North Carolina,Robeson,5.1,Percent,37155,1747
+North Carolina,Rockingham,5.1,Percent,37157,1751
+North Carolina,Rowan,5.1,Percent,37159,1754
+North Carolina,Rutherford,5.1,Percent,37161,1764
+North Carolina,Sampson,5.1,Percent,37163,1769
+North Carolina,Scotland,5.1,Percent,37165,1772
+North Carolina,Stanly,5.1,Percent,37167,1775
+North Carolina,Stokes,5.1,Percent,37169,1777
+North Carolina,Surry,5.1,Percent,37171,1780
+North Carolina,Swain,5.1,Percent,37173,1784
+North Carolina,Transylvania,5.1,Percent,37175,1786
+North Carolina,Tyrrell,5.1,Percent,37177,1794
+North Carolina,Union,5.1,Percent,37179,1798
+North Carolina,Vance,5.1,Percent,37181,1801
+North Carolina,Wake,5.1,Percent,37183,1805
+North Carolina,Warren,5.1,Percent,37185,1809
+North Carolina,Washington,5.1,Percent,37187,1811
+North Carolina,Watauga,5.1,Percent,37189,1813
+North Carolina,Wayne,5.1,Percent,37191,1814
+North Carolina,Wilkes,5.1,Percent,37193,1817
+North Carolina,Wilson,5.1,Percent,37195,1819
+North Carolina,Yadkin,5.1,Percent,37197,1821
+North Carolina,Yancey,5.1,Percent,37199,1823
+North Dakota,Adams,3.9,Percent,38001,1826
+North Dakota,Barnes,3.9,Percent,38003,1828
+North Dakota,Benson,3.9,Percent,38005,1831
+North Dakota,Billings,3.9,Percent,38007,1833
+North Dakota,Bottineau,3.9,Percent,38009,1836
+North Dakota,Bowman,3.9,Percent,38011,1838
+North Dakota,Burke,3.9,Percent,38013,1841
+North Dakota,Burleigh,3.9,Percent,38015,1844
+North Dakota,Cass,3.9,Percent,38017,1848
+North Dakota,Cavalier,3.9,Percent,38019,1849
+North Dakota,Dickey,3.9,Percent,38021,2004
+North Dakota,Divide,3.9,Percent,38023,2007
+North Dakota,Dunn,3.9,Percent,38025,2013
+North Dakota,Eddy,3.9,Percent,38027,2017
+North Dakota,Emmons,3.9,Percent,38029,2021
+North Dakota,Foster,3.9,Percent,38031,2026
+North Dakota,Golden Valley,3.9,Percent,38033,2036
+North Dakota,Grand Forks,3.9,Percent,38035,2043
+North Dakota,Grant,3.9,Percent,38037,2051
+North Dakota,Griggs,3.9,Percent,38039,2056
+North Dakota,Hettinger,3.9,Percent,38041,2063
+North Dakota,Kidder,3.9,Percent,38043,2068
+North Dakota,LaMoure,3.9,Percent,38045,2074
+North Dakota,Logan,3.9,Percent,38047,2078
+North Dakota,McHenry,3.9,Percent,38049,2082
+North Dakota,McIntosh,3.9,Percent,38051,2090
+North Dakota,McKenzie,3.9,Percent,38053,2097
+North Dakota,McLean,3.9,Percent,38055,2103
+North Dakota,Mercer,3.9,Percent,38057,2107
+North Dakota,Morton,3.9,Percent,38059,2114
+North Dakota,Mountrail,3.9,Percent,38061,2119
+North Dakota,Nelson,3.9,Percent,38063,2122
+North Dakota,Oliver,3.9,Percent,38065,2127
+North Dakota,Pembina,3.9,Percent,38067,2131
+North Dakota,Pierce,3.9,Percent,38069,2136
+North Dakota,Ramsey,3.9,Percent,38071,2141
+North Dakota,Ransom,3.9,Percent,38073,2147
+North Dakota,Renville,3.9,Percent,38075,2150
+North Dakota,Richland,3.9,Percent,38077,2156
+North Dakota,Rolette,3.9,Percent,38079,2161
+North Dakota,Sargent,3.9,Percent,38081,2164
+North Dakota,Sheridan,3.9,Percent,38083,2169
+North Dakota,Sioux,3.9,Percent,38085,2175
+North Dakota,Slope,3.9,Percent,38087,2180
+North Dakota,Stark,3.9,Percent,38089,2182
+North Dakota,Steele,3.9,Percent,38091,2186
+North Dakota,Stutsman,3.9,Percent,38093,2199
+North Dakota,Towner,3.9,Percent,38095,2205
+North Dakota,Traill,3.9,Percent,38097,2217
+North Dakota,Walsh,3.9,Percent,38099,2225
+North Dakota,Ward,3.9,Percent,38101,2233
+North Dakota,Wells,3.9,Percent,38103,2237
+North Dakota,Williams,3.9,Percent,38105,2244
+Ohio,Adams,6.1,Percent,39001,2248
+Ohio,Allen,6.1,Percent,39003,2250
+Ohio,Ashland,6.1,Percent,39005,2254
+Ohio,Ashtabula,6.1,Percent,39007,2259
+Ohio,Athens,6.1,Percent,39009,2266
+Ohio,Auglaize,6.1,Percent,39011,2273
+Ohio,Belmont,6.1,Percent,39013,2278
+Ohio,Brown,6.1,Percent,39015,2282
+Ohio,Butler,6.1,Percent,39017,2286
+Ohio,Carroll,6.1,Percent,39019,2289
+Ohio,Champaign,6.1,Percent,39021,2291
+Ohio,Clark,6.1,Percent,39023,2300
+Ohio,Clermont,6.1,Percent,39025,2306
+Ohio,Clinton,6.1,Percent,39027,2310
+Ohio,Columbiana,6.1,Percent,39029,2315
+Ohio,Coshocton,6.1,Percent,39031,2317
+Ohio,Crawford,6.1,Percent,39033,2323
+Ohio,Cuyahoga,6.1,Percent,39035,2332
+Ohio,Darke,6.1,Percent,39037,2345
+Ohio,Defiance,6.1,Percent,39039,2350
+Ohio,Delaware,6.1,Percent,39041,2352
+Ohio,Erie,6.1,Percent,39043,2357
+Ohio,Fairfield,6.1,Percent,39045,2365
+Ohio,Fayette,6.1,Percent,39047,2368
+Ohio,Franklin,6.1,Percent,39049,2375
+Ohio,Fulton,6.1,Percent,39051,2378
+Ohio,Gallia,6.1,Percent,39053,2383
+Ohio,Geauga,6.1,Percent,39055,2390
+Ohio,Greene,6.1,Percent,39057,2393
+Ohio,Guernsey,6.1,Percent,39059,2399
+Ohio,Hamilton,6.1,Percent,39061,2411
+Ohio,Hancock,6.1,Percent,39063,2427
+Ohio,Hardin,6.1,Percent,39065,2432
+Ohio,Harrison,6.1,Percent,39067,2440
+Ohio,Henry,6.1,Percent,39069,2451
+Ohio,Highland,6.1,Percent,39071,2457
+Ohio,Hocking,6.1,Percent,39073,2461
+Ohio,Holmes,6.1,Percent,39075,2464
+Ohio,Huron,6.1,Percent,39077,2468
+Ohio,Jackson,6.1,Percent,39079,2472
+Ohio,Jefferson,6.1,Percent,39081,2476
+Ohio,Knox,6.1,Percent,39083,2479
+Ohio,Lake,6.1,Percent,39085,2493
+Ohio,Lawrence,6.1,Percent,39087,2499
+Ohio,Licking,6.1,Percent,39089,2504
+Ohio,Logan,6.1,Percent,39091,2510
+Ohio,Lorain,6.1,Percent,39093,2516
+Ohio,Lucas,6.1,Percent,39095,2520
+Ohio,Madison,6.1,Percent,39097,2529
+Ohio,Mahoning,6.1,Percent,39099,2534
+Ohio,Marion,6.1,Percent,39101,2541
+Ohio,Medina,6.1,Percent,39103,2545
+Ohio,Meigs,6.1,Percent,39105,2549
+Ohio,Mercer,6.1,Percent,39107,2552
+Ohio,Miami,6.1,Percent,39109,2558
+Ohio,Monroe,6.1,Percent,39111,2565
+Ohio,Montgomery,6.1,Percent,39113,2573
+Ohio,Morgan,6.1,Percent,39115,2000
+Ohio,Morrow,6.1,Percent,39117,2006
+Ohio,Muskingum,6.1,Percent,39119,2010
+Ohio,Noble,6.1,Percent,39121,2012
+Ohio,Ottawa,6.1,Percent,39123,2019
+Ohio,Paulding,6.1,Percent,39125,2024
+Ohio,Perry,6.1,Percent,39127,2027
+Ohio,Pickaway,6.1,Percent,39129,2031
+Ohio,Pike,6.1,Percent,39131,2034
+Ohio,Portage,6.1,Percent,39133,2038
+Ohio,Preble,6.1,Percent,39135,2039
+Ohio,Putnam,6.1,Percent,39137,2040
+Ohio,Richland,6.1,Percent,39139,2042
+Ohio,Ross,6.1,Percent,39141,2045
+Ohio,Sandusky,6.1,Percent,39143,2047
+Ohio,Scioto,6.1,Percent,39145,2048
+Ohio,Seneca,6.1,Percent,39147,2049
+Ohio,Shelby,6.1,Percent,39149,2052
+Ohio,Stark,6.1,Percent,39151,2054
+Ohio,Summit,6.1,Percent,39153,2057
+Ohio,Trumbull,6.1,Percent,39155,2061
+Ohio,Tuscarawas,6.1,Percent,39157,2065
+Ohio,Union,6.1,Percent,39159,2067
+Ohio,Van Wert,6.1,Percent,39161,2071
+Ohio,Vinton,6.1,Percent,39163,2075
+Ohio,Warren,6.1,Percent,39165,2076
+Ohio,Washington,6.1,Percent,39167,2080
+Ohio,Wayne,6.1,Percent,39169,2084
+Ohio,Williams,6.1,Percent,39171,2087
+Ohio,Wood,6.1,Percent,39173,2091
+Ohio,Wyandot,6.1,Percent,39175,2093
+Oklahoma,Adair,6.4,Percent,40001,2095
+Oklahoma,Alfalfa,6.4,Percent,40003,2099
+Oklahoma,Atoka,6.4,Percent,40005,2102
+Oklahoma,Beaver,6.4,Percent,40007,2104
+Oklahoma,Beckham,6.4,Percent,40009,2106
+Oklahoma,Blaine,6.4,Percent,40011,2110
+Oklahoma,Bryan,6.4,Percent,40013,2112
+Oklahoma,Caddo,6.4,Percent,40015,2118
+Oklahoma,Canadian,6.4,Percent,40017,2123
+Oklahoma,Carter,6.4,Percent,40019,2126
+Oklahoma,Cherokee,6.4,Percent,40021,2129
+Oklahoma,Choctaw,6.4,Percent,40023,2133
+Oklahoma,Cimarron,6.4,Percent,40025,2135
+Oklahoma,Cleveland,6.4,Percent,40027,2140
+Oklahoma,Coal,6.4,Percent,40029,2144
+Oklahoma,Comanche,6.4,Percent,40031,2145
+Oklahoma,Cotton,6.4,Percent,40033,2146
+Oklahoma,Craig,6.4,Percent,40035,2148
+Oklahoma,Creek,6.4,Percent,40037,2151
+Oklahoma,Custer,6.4,Percent,40039,2153
+Oklahoma,Delaware,6.4,Percent,40041,2154
+Oklahoma,Dewey,6.4,Percent,40043,2158
+Oklahoma,Ellis,6.4,Percent,40045,2165
+Oklahoma,Garfield,6.4,Percent,40047,2167
+Oklahoma,Garvin,6.4,Percent,40049,2176
+Oklahoma,Grady,6.4,Percent,40051,2184
+Oklahoma,Grant,6.4,Percent,40053,2187
+Oklahoma,Greer,6.4,Percent,40055,2189
+Oklahoma,Harmon,6.4,Percent,40057,2191
+Oklahoma,Harper,6.4,Percent,40059,2193
+Oklahoma,Haskell,6.4,Percent,40061,2195
+Oklahoma,Hughes,6.4,Percent,40063,2197
+Oklahoma,Jackson,6.4,Percent,40065,2202
+Oklahoma,Jefferson,6.4,Percent,40067,2206
+Oklahoma,Johnston,6.4,Percent,40069,2211
+Oklahoma,Kay,6.4,Percent,40071,2215
+Oklahoma,Kingfisher,6.4,Percent,40073,2219
+Oklahoma,Kiowa,6.4,Percent,40075,2222
+Oklahoma,Latimer,6.4,Percent,40077,2226
+Oklahoma,Le Flore,6.4,Percent,40079,2230
+Oklahoma,Lincoln,6.4,Percent,40081,2234
+Oklahoma,Logan,6.4,Percent,40083,2236
+Oklahoma,Love,6.4,Percent,40085,2238
+Oklahoma,McClain,6.4,Percent,40087,2245
+Oklahoma,McCurtain,6.4,Percent,40089,2252
+Oklahoma,McIntosh,6.4,Percent,40091,2258
+Oklahoma,Major,6.4,Percent,40093,2260
+Oklahoma,Marshall,6.4,Percent,40095,2265
+Oklahoma,Mayes,6.4,Percent,40097,2270
+Oklahoma,Murray,6.4,Percent,40099,2276
+Oklahoma,Muskogee,6.4,Percent,40101,2281
+Oklahoma,Noble,6.4,Percent,40103,2287
+Oklahoma,Nowata,6.4,Percent,40105,2290
+Oklahoma,Okfuskee,6.4,Percent,40107,2297
+Oklahoma,Oklahoma,6.4,Percent,40109,2303
+Oklahoma,Okmulgee,6.4,Percent,40111,2311
+Oklahoma,Osage,6.4,Percent,40113,2318
+Oklahoma,Ottawa,6.4,Percent,40115,2325
+Oklahoma,Pawnee,6.4,Percent,40117,2329
+Oklahoma,Payne,6.4,Percent,40119,2340
+Oklahoma,Pittsburg,6.4,Percent,40121,2344
+Oklahoma,Pontotoc,6.4,Percent,40123,2351
+Oklahoma,Pottawatomie,6.4,Percent,40125,2356
+Oklahoma,Pushmataha,6.4,Percent,40127,2362
+Oklahoma,Roger Mills,6.4,Percent,40129,2369
+Oklahoma,Rogers,6.4,Percent,40131,2374
+Oklahoma,Seminole,6.4,Percent,40133,2384
+Oklahoma,Sequoyah,6.4,Percent,40135,2391
+Oklahoma,Stephens,6.4,Percent,40137,2396
+Oklahoma,Texas,6.4,Percent,40139,2003
+Oklahoma,Tillman,6.4,Percent,40141,2005
+Oklahoma,Tulsa,6.4,Percent,40143,2008
+Oklahoma,Wagoner,6.4,Percent,40145,2014
+Oklahoma,Washington,6.4,Percent,40147,2018
+Oklahoma,Washita,6.4,Percent,40149,2023
+Oklahoma,Woods,6.4,Percent,40151,2029
+Oklahoma,Woodward,6.4,Percent,40153,2035
+Oregon,Baker,5.4,Percent,41001,2044
+Oregon,Benton,5.4,Percent,41003,2053
+Oregon,Clackamas,5.4,Percent,41005,2058
+Oregon,Clatsop,5.4,Percent,41007,2064
+Oregon,Columbia,5.4,Percent,41009,2070
+Oregon,Coos,5.4,Percent,41011,2083
+Oregon,Crook,5.4,Percent,41013,2092
+Oregon,Curry,5.4,Percent,41015,2098
+Oregon,Deschutes,5.4,Percent,41017,2109
+Oregon,Douglas,5.4,Percent,41019,2115
+Oregon,Gilliam,5.4,Percent,41021,2121
+Oregon,Grant,5.4,Percent,41023,2130
+Oregon,Harney,5.4,Percent,41025,2134
+Oregon,Hood River,5.4,Percent,41027,2138
+Oregon,Jackson,5.4,Percent,41029,2139
+Oregon,Jefferson,5.4,Percent,41031,2143
+Oregon,Josephine,5.4,Percent,41033,2152
+Oregon,Klamath,5.4,Percent,41035,2155
+Oregon,Lake,5.4,Percent,41037,2159
+Oregon,Lane,5.4,Percent,41039,2170
+Oregon,Lincoln,5.4,Percent,41041,2174
+Oregon,Linn,5.4,Percent,41043,2181
+Oregon,Malheur,5.4,Percent,41045,2185
+Oregon,Marion,5.4,Percent,41047,2200
+Oregon,Morrow,5.4,Percent,41049,2209
+Oregon,Multnomah,5.4,Percent,41051,2218
+Oregon,Polk,5.4,Percent,41053,2223
+Oregon,Sherman,5.4,Percent,41055,2232
+Oregon,Tillamook,5.4,Percent,41057,2242
+Oregon,Umatilla,5.4,Percent,41059,2251
+Oregon,Union,5.4,Percent,41061,2257
+Oregon,Wallowa,5.4,Percent,41063,2263
+Oregon,Wasco,5.4,Percent,41065,2267
+Oregon,Washington,5.4,Percent,41067,2272
+Oregon,Wheeler,5.4,Percent,41069,2277
+Oregon,Yamhill,5.4,Percent,41071,2284
+Pennsylvania,Adams,4.0,Percent,42001,2292
+Pennsylvania,Allegheny,4.0,Percent,42003,2302
+Pennsylvania,Armstrong,4.0,Percent,42005,2309
+Pennsylvania,Beaver,4.0,Percent,42007,2321
+Pennsylvania,Bedford,4.0,Percent,42009,2324
+Pennsylvania,Berks,4.0,Percent,42011,2326
+Pennsylvania,Blair,4.0,Percent,42013,2328
+Pennsylvania,Bradford,4.0,Percent,42015,2333
+Pennsylvania,Bucks,4.0,Percent,42017,2336
+Pennsylvania,Butler,4.0,Percent,42019,2338
+Pennsylvania,Cambria,4.0,Percent,42021,2341
+Pennsylvania,Cameron,4.0,Percent,42023,2343
+Pennsylvania,Carbon,4.0,Percent,42025,2349
+Pennsylvania,Centre,4.0,Percent,42027,2354
+Pennsylvania,Chester,4.0,Percent,42029,2360
+Pennsylvania,Clarion,4.0,Percent,42031,2366
+Pennsylvania,Clearfield,4.0,Percent,42033,2372
+Pennsylvania,Clinton,4.0,Percent,42035,2379
+Pennsylvania,Columbia,4.0,Percent,42037,2385
+Pennsylvania,Crawford,4.0,Percent,42039,2389
+Pennsylvania,Cumberland,4.0,Percent,42041,2397
+Pennsylvania,Dauphin,4.0,Percent,42043,2403
+Pennsylvania,Delaware,4.0,Percent,42045,2414
+Pennsylvania,Elk,4.0,Percent,42047,2420
+Pennsylvania,Erie,4.0,Percent,42049,2425
+Pennsylvania,Fayette,4.0,Percent,42051,2431
+Pennsylvania,Forest,4.0,Percent,42053,2436
+Pennsylvania,Franklin,4.0,Percent,42055,2439
+Pennsylvania,Fulton,4.0,Percent,42057,2446
+Pennsylvania,Greene,4.0,Percent,42059,2447
+Pennsylvania,Huntingdon,4.0,Percent,42061,2454
+Pennsylvania,Indiana,4.0,Percent,42063,2459
+Pennsylvania,Jefferson,4.0,Percent,42065,2462
+Pennsylvania,Juniata,4.0,Percent,42067,2466
+Pennsylvania,Lackawanna,4.0,Percent,42069,2471
+Pennsylvania,Lancaster,4.0,Percent,42071,2482
+Pennsylvania,Lawrence,4.0,Percent,42073,2488
+Pennsylvania,Lebanon,4.0,Percent,42075,2492
+Pennsylvania,Lehigh,4.0,Percent,42077,2496
+Pennsylvania,Luzerne,4.0,Percent,42079,2501
+Pennsylvania,Lycoming,4.0,Percent,42081,2505
+Pennsylvania,McKean,4.0,Percent,42083,2509
+Pennsylvania,Mercer,4.0,Percent,42085,2513
+Pennsylvania,Mifflin,4.0,Percent,42087,2517
+Pennsylvania,Monroe,4.0,Percent,42089,2521
+Pennsylvania,Montgomery,4.0,Percent,42091,2528
+Pennsylvania,Montour,4.0,Percent,42093,2533
+Pennsylvania,Northampton,4.0,Percent,42095,2537
+Pennsylvania,Northumberland,4.0,Percent,42097,2544
+Pennsylvania,Perry,4.0,Percent,42099,2554
+Pennsylvania,Philadelphia,4.0,Percent,42101,2563
+Pennsylvania,Pike,4.0,Percent,42103,2571
+Pennsylvania,Potter,4.0,Percent,42105,2575
+Pennsylvania,Schuylkill,4.0,Percent,42107,2581
+Pennsylvania,Snyder,4.0,Percent,42109,2583
+Pennsylvania,Somerset,4.0,Percent,42111,2589
+Pennsylvania,Sullivan,4.0,Percent,42113,2293
+Pennsylvania,Susquehanna,4.0,Percent,42115,2298
+Pennsylvania,Tioga,4.0,Percent,42117,2305
+Pennsylvania,Union,4.0,Percent,42119,2313
+Pennsylvania,Venango,4.0,Percent,42121,2316
+Pennsylvania,Warren,4.0,Percent,42123,2322
+Pennsylvania,Washington,4.0,Percent,42125,2346
+Pennsylvania,Wayne,4.0,Percent,42127,2363
+Pennsylvania,Westmoreland,4.0,Percent,42129,2394
+Pennsylvania,Wyoming,4.0,Percent,42131,2407
+Pennsylvania,York,4.0,Percent,42133,2419
+Rhode Island,Bristol,5.6,Percent,44001,2433
+Rhode Island,Kent,5.6,Percent,44003,2444
+Rhode Island,Newport,5.6,Percent,44005,2460
+Rhode Island,Providence,5.6,Percent,44007,2475
+Rhode Island,Washington,5.6,Percent,44009,2484
+South Carolina,Abbeville,4.2,Percent,45001,2489
+South Carolina,Aiken,4.2,Percent,45003,2503
+South Carolina,Allendale,4.2,Percent,45005,2527
+South Carolina,Anderson,4.2,Percent,45007,2559
+South Carolina,Bamberg,4.2,Percent,45009,2592
+South Carolina,Barnwell,4.2,Percent,45011,2605
+South Carolina,Beaufort,4.2,Percent,45013,2626
+South Carolina,Berkeley,4.2,Percent,45015,2631
+South Carolina,Calhoun,4.2,Percent,45017,2635
+South Carolina,Charleston,4.2,Percent,45019,2691
+South Carolina,Cherokee,4.2,Percent,45021,2700
+South Carolina,Chester,4.2,Percent,45023,2704
+South Carolina,Chesterfield,4.2,Percent,45025,2708
+South Carolina,Clarendon,4.2,Percent,45027,2715
+South Carolina,Colleton,4.2,Percent,45029,2718
+South Carolina,Darlington,4.2,Percent,45031,2721
+South Carolina,Dillon,4.2,Percent,45033,2725
+South Carolina,Dorchester,4.2,Percent,45035,2730
+South Carolina,Edgefield,4.2,Percent,45037,2735
+South Carolina,Fairfield,4.2,Percent,45039,2738
+South Carolina,Florence,4.2,Percent,45041,2742
+South Carolina,Georgetown,4.2,Percent,45043,2752
+South Carolina,Greenville,4.2,Percent,45045,2759
+South Carolina,Greenwood,4.2,Percent,45047,2764
+South Carolina,Hampton,4.2,Percent,45049,2767
+South Carolina,Horry,4.2,Percent,45051,2774
+South Carolina,Jasper,4.2,Percent,45053,2783
+South Carolina,Kershaw,4.2,Percent,45055,2787
+South Carolina,Lancaster,4.2,Percent,45057,2790
+South Carolina,Laurens,4.2,Percent,45059,2794
+South Carolina,Lee,4.2,Percent,45061,2800
+South Carolina,Lexington,4.2,Percent,45063,2803
+South Carolina,McCormick,4.2,Percent,45065,2807
+South Carolina,Marion,4.2,Percent,45067,2811
+South Carolina,Marlboro,4.2,Percent,45069,2813
+South Carolina,Newberry,4.2,Percent,45071,2818
+South Carolina,Oconee,4.2,Percent,45073,2822
+South Carolina,Orangeburg,4.2,Percent,45075,2829
+South Carolina,Pickens,4.2,Percent,45077,2834
+South Carolina,Richland,4.2,Percent,45079,2843
+South Carolina,Saluda,4.2,Percent,45081,2846
+South Carolina,Spartanburg,4.2,Percent,45083,2851
+South Carolina,Sumter,4.2,Percent,45085,2855
+South Carolina,Union,4.2,Percent,45087,2860
+South Carolina,Williamsburg,4.2,Percent,45089,2864
+South Carolina,York,4.2,Percent,45091,2867
+South Dakota,Aurora,4.3,Percent,46003,2870
+South Dakota,Beadle,4.3,Percent,46005,2874
+South Dakota,Bennett,4.3,Percent,46007,2876
+South Dakota,Bon Homme,4.3,Percent,46009,2879
+South Dakota,Brookings,4.3,Percent,46011,2882
+South Dakota,Brown,4.3,Percent,46013,2885
+South Dakota,Brule,4.3,Percent,46015,2888
+South Dakota,Buffalo,4.3,Percent,46017,2891
+South Dakota,Butte,4.3,Percent,46019,2895
+South Dakota,Campbell,4.3,Percent,46021,2897
+South Dakota,Charles Mix,4.3,Percent,46023,2900
+South Dakota,Clark,4.3,Percent,46025,2901
+South Dakota,Clay,4.3,Percent,46027,2903
+South Dakota,Codington,4.3,Percent,46029,2906
+South Dakota,Corson,4.3,Percent,46031,2907
+South Dakota,Custer,4.3,Percent,46033,2908
+South Dakota,Davison,4.3,Percent,46035,2910
+South Dakota,Day,4.3,Percent,46037,2911
+South Dakota,Deuel,4.3,Percent,46039,2912
+South Dakota,Dewey,4.3,Percent,46041,2914
+South Dakota,Douglas,4.3,Percent,46043,2916
+South Dakota,Edmunds,4.3,Percent,46045,2917
+South Dakota,Fall River,4.3,Percent,46047,2919
+South Dakota,Faulk,4.3,Percent,46049,2921
+South Dakota,Grant,4.3,Percent,46051,2922
+South Dakota,Gregory,4.3,Percent,46053,2923
+South Dakota,Haakon,4.3,Percent,46055,2924
+South Dakota,Hamlin,4.3,Percent,46057,2926
+South Dakota,Hand,4.3,Percent,46059,2928
+South Dakota,Hanson,4.3,Percent,46061,2929
+South Dakota,Harding,4.3,Percent,46063,2931
+South Dakota,Hughes,4.3,Percent,46065,2933
+South Dakota,Hutchinson,4.3,Percent,46067,2934
+South Dakota,Hyde,4.3,Percent,46069,2937
+South Dakota,Jackson,4.3,Percent,46071,2939
+South Dakota,Jerauld,4.3,Percent,46073,2941
+South Dakota,Jones,4.3,Percent,46075,2944
+South Dakota,Kingsbury,4.3,Percent,46077,2945
+South Dakota,Lake,4.3,Percent,46079,2401
+South Dakota,Lawrence,4.3,Percent,46081,2406
+South Dakota,Lincoln,4.3,Percent,46083,2410
+South Dakota,Lyman,4.3,Percent,46085,2417
+South Dakota,McCook,4.3,Percent,46087,2422
+South Dakota,McPherson,4.3,Percent,46089,2426
+South Dakota,Marshall,4.3,Percent,46091,2430
+South Dakota,Meade,4.3,Percent,46093,2442
+South Dakota,Mellette,4.3,Percent,46095,2450
+South Dakota,Miner,4.3,Percent,46097,2456
+South Dakota,Minnehaha,4.3,Percent,46099,2467
+South Dakota,Moody,4.3,Percent,46101,2485
+South Dakota,Pennington,4.3,Percent,46103,2497
+South Dakota,Perkins,4.3,Percent,46105,2502
+South Dakota,Potter,4.3,Percent,46107,2506
+South Dakota,Roberts,4.3,Percent,46109,2511
+South Dakota,Sanborn,4.3,Percent,46111,2514
+South Dakota,Shannon,4.3,Percent,46113,2519
+South Dakota,Spink,4.3,Percent,46115,2523
+South Dakota,Stanley,4.3,Percent,46117,2530
+South Dakota,Sully,4.3,Percent,46119,2535
+South Dakota,Todd,4.3,Percent,46121,2540
+South Dakota,Tripp,4.3,Percent,46123,2546
+South Dakota,Turner,4.3,Percent,46125,2550
+South Dakota,Union,4.3,Percent,46127,2557
+South Dakota,Walworth,4.3,Percent,46129,2561
+South Dakota,Yankton,4.3,Percent,46135,2569
+South Dakota,Ziebach,4.3,Percent,46137,2578
+Tennessee,Anderson,5.7,Percent,47001,2584
+Tennessee,Bedford,5.7,Percent,47003,2593
+Tennessee,Benton,5.7,Percent,47005,2598
+Tennessee,Bledsoe,5.7,Percent,47007,2602
+Tennessee,Blount,5.7,Percent,47009,2622
+Tennessee,Bradley,5.7,Percent,47011,2627
+Tennessee,Campbell,5.7,Percent,47013,2633
+Tennessee,Cannon,5.7,Percent,47015,2638
+Tennessee,Carroll,5.7,Percent,47017,2648
+Tennessee,Carter,5.7,Percent,47019,2654
+Tennessee,Cheatham,5.7,Percent,47021,2660
+Tennessee,Chester,5.7,Percent,47023,2664
+Tennessee,Claiborne,5.7,Percent,47025,2670
+Tennessee,Clay,5.7,Percent,47027,2679
+Tennessee,Cocke,5.7,Percent,47029,2686
+Tennessee,Coffee,5.7,Percent,47031,2689
+Tennessee,Crockett,5.7,Percent,47033,2693
+Tennessee,Cumberland,5.7,Percent,47035,2696
+Tennessee,Davidson,5.7,Percent,47037,2698
+Tennessee,Decatur,5.7,Percent,47039,2705
+Tennessee,DeKalb,5.7,Percent,47041,2710
+Tennessee,Dickson,5.7,Percent,47043,2717
+Tennessee,Dyer,5.7,Percent,47045,2723
+Tennessee,Fayette,5.7,Percent,47047,2726
+Tennessee,Fentress,5.7,Percent,47049,2731
+Tennessee,Franklin,5.7,Percent,47051,2734
+Tennessee,Gibson,5.7,Percent,47053,2739
+Tennessee,Giles,5.7,Percent,47055,2743
+Tennessee,Grainger,5.7,Percent,47057,2748
+Tennessee,Greene,5.7,Percent,47059,2750
+Tennessee,Grundy,5.7,Percent,47061,2754
+Tennessee,Hamblen,5.7,Percent,47063,2757
+Tennessee,Hamilton,5.7,Percent,47065,2761
+Tennessee,Hancock,5.7,Percent,47067,2766
+Tennessee,Hardeman,5.7,Percent,47069,2770
+Tennessee,Hardin,5.7,Percent,47071,2773
+Tennessee,Hawkins,5.7,Percent,47073,2779
+Tennessee,Haywood,5.7,Percent,47075,2781
+Tennessee,Henderson,5.7,Percent,47077,2786
+Tennessee,Henry,5.7,Percent,47079,2789
+Tennessee,Hickman,5.7,Percent,47081,2792
+Tennessee,Houston,5.7,Percent,47083,2796
+Tennessee,Humphreys,5.7,Percent,47085,2798
+Tennessee,Jackson,5.7,Percent,47087,2801
+Tennessee,Jefferson,5.7,Percent,47089,2804
+Tennessee,Johnson,5.7,Percent,47091,2808
+Tennessee,Knox,5.7,Percent,47093,2814
+Tennessee,Lake,5.7,Percent,47095,2817
+Tennessee,Lauderdale,5.7,Percent,47097,2821
+Tennessee,Lawrence,5.7,Percent,47099,2823
+Tennessee,Lewis,5.7,Percent,47101,2825
+Tennessee,Lincoln,5.7,Percent,47103,2828
+Tennessee,Loudon,5.7,Percent,47105,2830
+Tennessee,McMinn,5.7,Percent,47107,2833
+Tennessee,McNairy,5.7,Percent,47109,2836
+Tennessee,Macon,5.7,Percent,47111,2839
+Tennessee,Madison,5.7,Percent,47113,2841
+Tennessee,Marion,5.7,Percent,47115,2844
+Tennessee,Marshall,5.7,Percent,47117,2848
+Tennessee,Maury,5.7,Percent,47119,2850
+Tennessee,Meigs,5.7,Percent,47121,2854
+Tennessee,Monroe,5.7,Percent,47123,2857
+Tennessee,Montgomery,5.7,Percent,47125,2859
+Tennessee,Moore,5.7,Percent,47127,2863
+Tennessee,Morgan,5.7,Percent,47129,2866
+Tennessee,Obion,5.7,Percent,47131,2872
+Tennessee,Overton,5.7,Percent,47133,2875
+Tennessee,Perry,5.7,Percent,47135,2878
+Tennessee,Pickett,5.7,Percent,47137,2881
+Tennessee,Polk,5.7,Percent,47139,2883
+Tennessee,Putnam,5.7,Percent,47141,2890
+Tennessee,Rhea,5.7,Percent,47143,2893
+Tennessee,Roane,5.7,Percent,47145,2001
+Tennessee,Robertson,5.7,Percent,47147,2011
+Tennessee,Rutherford,5.7,Percent,47149,2015
+Tennessee,Scott,5.7,Percent,47151,2020
+Tennessee,Sequatchie,5.7,Percent,47153,2025
+Tennessee,Sevier,5.7,Percent,47155,2030
+Tennessee,Shelby,5.7,Percent,47157,2033
+Tennessee,Smith,5.7,Percent,47159,2037
+Tennessee,Stewart,5.7,Percent,47161,2041
+Tennessee,Sullivan,5.7,Percent,47163,2046
+Tennessee,Sumner,5.7,Percent,47165,2050
+Tennessee,Tipton,5.7,Percent,47167,2055
+Tennessee,Trousdale,5.7,Percent,47169,2062
+Tennessee,Unicoi,5.7,Percent,47171,2069
+Tennessee,Union,5.7,Percent,47173,2073
+Tennessee,Van Buren,5.7,Percent,47175,2077
+Tennessee,Warren,5.7,Percent,47177,2081
+Tennessee,Washington,5.7,Percent,47179,2085
+Tennessee,Wayne,5.7,Percent,47181,2089
+Tennessee,Weakley,5.7,Percent,47183,2096
+Tennessee,White,5.7,Percent,47185,2100
+Tennessee,Williamson,5.7,Percent,47187,2105
+Tennessee,Wilson,5.7,Percent,47189,2111
+Texas,Anderson,5.8,Percent,48001,2113
+Texas,Andrews,5.8,Percent,48003,2117
+Texas,Angelina,5.8,Percent,48005,2124
+Texas,Aransas,5.8,Percent,48007,2162
+Texas,Archer,5.8,Percent,48009,2168
+Texas,Armstrong,5.8,Percent,48011,2172
+Texas,Atascosa,5.8,Percent,48013,2173
+Texas,Austin,5.8,Percent,48015,2177
+Texas,Bailey,5.8,Percent,48017,2179
+Texas,Bandera,5.8,Percent,48019,2183
+Texas,Bastrop,5.8,Percent,48021,2190
+Texas,Baylor,5.8,Percent,48023,2192
+Texas,Bee,5.8,Percent,48025,2196
+Texas,Bell,5.8,Percent,48027,2198
+Texas,Bexar,5.8,Percent,48029,2203
+Texas,Blanco,5.8,Percent,48031,2207
+Texas,Borden,5.8,Percent,48033,2212
+Texas,Bosque,5.8,Percent,48035,2216
+Texas,Bowie,5.8,Percent,48037,2224
+Texas,Brazoria,5.8,Percent,48039,2240
+Texas,Brazos,5.8,Percent,48041,2253
+Texas,Brewster,5.8,Percent,48043,2262
+Texas,Briscoe,5.8,Percent,48045,2269
+Texas,Brooks,5.8,Percent,48047,2279
+Texas,Brown,5.8,Percent,48049,2296
+Texas,Burleson,5.8,Percent,48051,2304
+Texas,Burnet,5.8,Percent,48053,2312
+Texas,Caldwell,5.8,Percent,48055,2320
+Texas,Calhoun,5.8,Percent,48057,2327
+Texas,Callahan,5.8,Percent,48059,2331
+Texas,Cameron,5.8,Percent,48061,2359
+Texas,Camp,5.8,Percent,48063,2373
+Texas,Carson,5.8,Percent,48065,2377
+Texas,Cass,5.8,Percent,48067,2382
+Texas,Castro,5.8,Percent,48069,2386
+Texas,Chambers,5.8,Percent,48071,2395
+Texas,Cherokee,5.8,Percent,48073,2400
+Texas,Childress,5.8,Percent,48075,2405
+Texas,Clay,5.8,Percent,48077,2409
+Texas,Cochran,5.8,Percent,48079,2413
+Texas,Coke,5.8,Percent,48081,2418
+Texas,Coleman,5.8,Percent,48083,2423
+Texas,Collin,5.8,Percent,48085,2429
+Texas,Collingsworth,5.8,Percent,48087,2434
+Texas,Colorado,5.8,Percent,48089,2441
+Texas,Comal,5.8,Percent,48091,2449
+Texas,Comanche,5.8,Percent,48093,2455
+Texas,Concho,5.8,Percent,48095,2458
+Texas,Cooke,5.8,Percent,48097,2463
+Texas,Coryell,5.8,Percent,48099,2469
+Texas,Cottle,5.8,Percent,48101,2473
+Texas,Crane,5.8,Percent,48103,2478
+Texas,Crockett,5.8,Percent,48105,2483
+Texas,Crosby,5.8,Percent,48107,2487
+Texas,Culberson,5.8,Percent,48109,2491
+Texas,Dallam,5.8,Percent,48111,2498
+Texas,Dallas,5.8,Percent,48113,2507
+Texas,Dawson,5.8,Percent,48115,2512
+Texas,Deaf Smith,5.8,Percent,48117,2515
+Texas,Delta,5.8,Percent,48119,2524
+Texas,Denton,5.8,Percent,48121,2532
+Texas,DeWitt,5.8,Percent,48123,2538
+Texas,Dickens,5.8,Percent,48125,2542
+Texas,Dimmit,5.8,Percent,48127,2548
+Texas,Donley,5.8,Percent,48129,2551
+Texas,Duval,5.8,Percent,48131,2556
+Texas,Eastland,5.8,Percent,48133,2562
+Texas,Ector,5.8,Percent,48135,2568
+Texas,Edwards,5.8,Percent,48137,2574
+Texas,Ellis,5.8,Percent,48139,2579
+Texas,El Paso,5.8,Percent,48141,2588
+Texas,Erath,5.8,Percent,48143,2597
+Texas,Falls,5.8,Percent,48145,2601
+Texas,Fannin,5.8,Percent,48147,2621
+Texas,Fayette,5.8,Percent,48149,2624
+Texas,Fisher,5.8,Percent,48151,2628
+Texas,Floyd,5.8,Percent,48153,2630
+Texas,Foard,5.8,Percent,48155,2002
+Texas,Fort Bend,5.8,Percent,48157,2009
+Texas,Franklin,5.8,Percent,48159,2016
+Texas,Freestone,5.8,Percent,48161,2022
+Texas,Frio,5.8,Percent,48163,2028
+Texas,Gaines,5.8,Percent,48165,2032
+Texas,Galveston,5.8,Percent,48167,2059
+Texas,Garza,5.8,Percent,48169,2060
+Texas,Gillespie,5.8,Percent,48171,2066
+Texas,Glasscock,5.8,Percent,48173,2072
+Texas,Goliad,5.8,Percent,48175,2079
+Texas,Gonzales,5.8,Percent,48177,2086
+Texas,Gray,5.8,Percent,48179,2088
+Texas,Grayson,5.8,Percent,48181,2094
+Texas,Gregg,5.8,Percent,48183,2101
+Texas,Grimes,5.8,Percent,48185,2108
+Texas,Guadalupe,5.8,Percent,48187,2116
+Texas,Hale,5.8,Percent,48189,2120
+Texas,Hall,5.8,Percent,48191,2125
+Texas,Hamilton,5.8,Percent,48193,2128
+Texas,Hansford,5.8,Percent,48195,2132
+Texas,Hardeman,5.8,Percent,48197,2137
+Texas,Hardin,5.8,Percent,48199,2142
+Texas,Harris,5.8,Percent,48201,2149
+Texas,Harrison,5.8,Percent,48203,2157
+Texas,Hartley,5.8,Percent,48205,2160
+Texas,Haskell,5.8,Percent,48207,2163
+Texas,Hays,5.8,Percent,48209,2166
+Texas,Hemphill,5.8,Percent,48211,2171
+Texas,Henderson,5.8,Percent,48213,2178
+Texas,Hidalgo,5.8,Percent,48215,2188
+Texas,Hill,5.8,Percent,48217,2201
+Texas,Hockley,5.8,Percent,48219,2208
+Texas,Hood,5.8,Percent,48221,2213
+Texas,Hopkins,5.8,Percent,48223,2221
+Texas,Houston,5.8,Percent,48225,2228
+Texas,Howard,5.8,Percent,48227,2231
+Texas,Hudspeth,5.8,Percent,48229,2241
+Texas,Hunt,5.8,Percent,48231,2246
+Texas,Hutchinson,5.8,Percent,48233,2249
+Texas,Irion,5.8,Percent,48235,2255
+Texas,Jack,5.8,Percent,48237,2256
+Texas,Jackson,5.8,Percent,48239,2264
+Texas,Jasper,5.8,Percent,48241,2271
+Texas,Jeff Davis,5.8,Percent,48243,2275
+Texas,Jefferson,5.8,Percent,48245,2285
+Texas,Jim Hogg,5.8,Percent,48247,2288
+Texas,Jim Wells,5.8,Percent,48249,2294
+Texas,Johnson,5.8,Percent,48251,2299
+Texas,Jones,5.8,Percent,48253,2301
+Texas,Karnes,5.8,Percent,48255,2307
+Texas,Kaufman,5.8,Percent,48257,2314
+Texas,Kendall,5.8,Percent,48259,2319
+Texas,Kenedy,5.8,Percent,48261,2330
+Texas,Kent,5.8,Percent,48263,2335
+Texas,Kerr,5.8,Percent,48265,2337
+Texas,Kimble,5.8,Percent,48267,2339
+Texas,King,5.8,Percent,48269,2342
+Texas,Kinney,5.8,Percent,48271,2347
+Texas,Kleberg,5.8,Percent,48273,2358
+Texas,Knox,5.8,Percent,48275,2364
+Texas,Lamar,5.8,Percent,48277,2371
+Texas,Lamb,5.8,Percent,48279,2376
+Texas,Lampasas,5.8,Percent,48281,2381
+Texas,La Salle,5.8,Percent,48283,2388
+Texas,Lavaca,5.8,Percent,48285,2392
+Texas,Lee,5.8,Percent,48287,2398
+Texas,Leon,5.8,Percent,48289,2402
+Texas,Liberty,5.8,Percent,48291,2404
+Texas,Limestone,5.8,Percent,48293,2408
+Texas,Lipscomb,5.8,Percent,48295,2412
+Texas,Live Oak,5.8,Percent,48297,2416
+Texas,Llano,5.8,Percent,48299,2421
+Texas,Loving,5.8,Percent,48301,2424
+Texas,Lubbock,5.8,Percent,48303,2428
+Texas,Lynn,5.8,Percent,48305,2438
+Texas,McCulloch,5.8,Percent,48307,2452
+Texas,McLennan,5.8,Percent,48309,2477
+Texas,McMullen,5.8,Percent,48311,2494
+Texas,Madison,5.8,Percent,48313,2526
+Texas,Marion,5.8,Percent,48315,2547
+Texas,Martin,5.8,Percent,48317,2564
+Texas,Mason,5.8,Percent,48319,2570
+Texas,Matagorda,5.8,Percent,48321,2637
+Texas,Maverick,5.8,Percent,48323,2649
+Texas,Medina,5.8,Percent,48325,2652
+Texas,Menard,5.8,Percent,48327,2655
+Texas,Midland,5.8,Percent,48329,2657
+Texas,Milam,5.8,Percent,48331,2659
+Texas,Mills,5.8,Percent,48333,2663
+Texas,Mitchell,5.8,Percent,48335,2666
+Texas,Montague,5.8,Percent,48337,2669
+Texas,Montgomery,5.8,Percent,48339,2682
+Texas,Moore,5.8,Percent,48341,2683
+Texas,Morris,5.8,Percent,48343,2688
+Texas,Motley,5.8,Percent,48345,2692
+Texas,Nacogdoches,5.8,Percent,48347,2701
+Texas,Navarro,5.8,Percent,48349,2706
+Texas,Newton,5.8,Percent,48351,2711
+Texas,Nolan,5.8,Percent,48353,2714
+Texas,Nueces,5.8,Percent,48355,2194
+Texas,Ochiltree,5.8,Percent,48357,2204
+Texas,Oldham,5.8,Percent,48359,2210
+Texas,Orange,5.8,Percent,48361,2214
+Texas,Palo Pinto,5.8,Percent,48363,2220
+Texas,Panola,5.8,Percent,48365,2227
+Texas,Parker,5.8,Percent,48367,2229
+Texas,Parmer,5.8,Percent,48369,2235
+Texas,Pecos,5.8,Percent,48371,2239
+Texas,Polk,5.8,Percent,48373,2243
+Texas,Potter,5.8,Percent,48375,2247
+Texas,Presidio,5.8,Percent,48377,2261
+Texas,Rains,5.8,Percent,48379,2268
+Texas,Randall,5.8,Percent,48381,2274
+Texas,Reagan,5.8,Percent,48383,2280
+Texas,Real,5.8,Percent,48385,2283
+Texas,Red River,5.8,Percent,48387,2295
+Texas,Reeves,5.8,Percent,48389,2308
+Texas,Refugio,5.8,Percent,48391,2334
+Texas,Roberts,5.8,Percent,48393,2348
+Texas,Robertson,5.8,Percent,48395,2353
+Texas,Rockwall,5.8,Percent,48397,2355
+Texas,Runnels,5.8,Percent,48399,2361
+Texas,Rusk,5.8,Percent,48401,2367
+Texas,Sabine,5.8,Percent,48403,2370
+Texas,San Augustine,5.8,Percent,48405,2380
+Texas,San Jacinto,5.8,Percent,48407,2387
+Texas,San Patricio,5.8,Percent,48409,2415
+Texas,San Saba,5.8,Percent,48411,2435
+Texas,Schleicher,5.8,Percent,48413,2437
+Texas,Scurry,5.8,Percent,48415,2443
+Texas,Shackelford,5.8,Percent,48417,2445
+Texas,Shelby,5.8,Percent,48419,2448
+Texas,Sherman,5.8,Percent,48421,2453
+Texas,Smith,5.8,Percent,48423,2465
+Texas,Somervell,5.8,Percent,48425,2470
+Texas,Starr,5.8,Percent,48427,2474
+Texas,Stephens,5.8,Percent,48429,2480
+Texas,Sterling,5.8,Percent,48431,2481
+Texas,Stonewall,5.8,Percent,48433,2486
+Texas,Sutton,5.8,Percent,48435,2490
+Texas,Swisher,5.8,Percent,48437,2495
+Texas,Tarrant,5.8,Percent,48439,2500
+Texas,Taylor,5.8,Percent,48441,2508
+Texas,Terrell,5.8,Percent,48443,2518
+Texas,Terry,5.8,Percent,48445,2522
+Texas,Throckmorton,5.8,Percent,48447,2525
+Texas,Titus,5.8,Percent,48449,2531
+Texas,Tom Green,5.8,Percent,48451,2536
+Texas,Travis,5.8,Percent,48453,2543
+Texas,Trinity,5.8,Percent,48455,2553
+Texas,Tyler,5.8,Percent,48457,2560
+Texas,Upshur,5.8,Percent,48459,2566
+Texas,Upton,5.8,Percent,48461,2572
+Texas,Uvalde,5.8,Percent,48463,2576
+Texas,Val Verde,5.8,Percent,48465,2582
+Texas,Van Zandt,5.8,Percent,48467,2586
+Texas,Victoria,5.8,Percent,48469,2595
+Texas,Walker,5.8,Percent,48471,2603
+Texas,Waller,5.8,Percent,48473,2606
+Texas,Ward,5.8,Percent,48475,2610
+Texas,Washington,5.8,Percent,48477,2613
+Texas,Webb,5.8,Percent,48479,2616
+Texas,Wharton,5.8,Percent,48481,2618
+Texas,Wheeler,5.8,Percent,48483,2623
+Texas,Wichita,5.8,Percent,48485,2632
+Texas,Wilbarger,5.8,Percent,48487,2634
+Texas,Willacy,5.8,Percent,48489,2639
+Texas,Williamson,5.8,Percent,48491,2640
+Texas,Wilson,5.8,Percent,48493,2641
+Texas,Winkler,5.8,Percent,48495,2642
+Texas,Wise,5.8,Percent,48497,2643
+Texas,Wood,5.8,Percent,48499,2644
+Texas,Yoakum,5.8,Percent,48501,2645
+Texas,Young,5.8,Percent,48503,2646
+Texas,Zapata,5.8,Percent,48505,2650
+Texas,Zavala,5.8,Percent,48507,2651
+Utah,Beaver,3.9,Percent,49001,2653
+Utah,Box Elder,3.9,Percent,49003,2658
+Utah,Cache,3.9,Percent,49005,2661
+Utah,Carbon,3.9,Percent,49007,2665
+Utah,Daggett,3.9,Percent,49009,2668
+Utah,Davis,3.9,Percent,49011,2671
+Utah,Duchesne,3.9,Percent,49013,2672
+Utah,Emery,3.9,Percent,49015,2673
+Utah,Garfield,3.9,Percent,49017,2674
+Utah,Grand,3.9,Percent,49019,2675
+Utah,Iron,3.9,Percent,49021,2676
+Utah,Juab,3.9,Percent,49023,2677
+Utah,Kane,3.9,Percent,49025,2678
+Utah,Millard,3.9,Percent,49027,2680
+Utah,Morgan,3.9,Percent,49029,2681
+Utah,Piute,3.9,Percent,49031,2685
+Utah,Rich,3.9,Percent,49033,2687
+Utah,Salt Lake,3.9,Percent,49035,2690
+Utah,San Juan,3.9,Percent,49037,2694
+Utah,Sanpete,3.9,Percent,49039,2697
+Utah,Sevier,3.9,Percent,49041,2702
+Utah,Summit,3.9,Percent,49043,2703
+Utah,Tooele,3.9,Percent,49045,2707
+Utah,Uintah,3.9,Percent,49047,2539
+Utah,Utah,3.9,Percent,49049,2555
+Utah,Wasatch,3.9,Percent,49051,2567
+Utah,Washington,3.9,Percent,49053,2577
+Utah,Wayne,3.9,Percent,49055,2580
+Utah,Weber,3.9,Percent,49057,2587
+Vermont,Addison,4.4,Percent,50001,2590
+Vermont,Bennington,4.4,Percent,50003,2591
+Vermont,Caledonia,4.4,Percent,50005,2596
+Vermont,Chittenden,4.4,Percent,50007,2599
+Vermont,Essex,4.4,Percent,50009,2604
+Vermont,Franklin,4.4,Percent,50011,2607
+Vermont,Grand Isle,4.4,Percent,50013,2609
+Vermont,Lamoille,4.4,Percent,50015,2611
+Vermont,Orange,4.4,Percent,50017,2612
+Vermont,Orleans,4.4,Percent,50019,2614
+Vermont,Rutland,4.4,Percent,50021,2615
+Vermont,Washington,4.4,Percent,50023,2617
+Vermont,Windham,4.4,Percent,50025,2620
+Vermont,Windsor,4.4,Percent,50027,2625
+Virginia,Accomack,3.6,Percent,51001,2719
+Virginia,Albemarle,3.6,Percent,51003,2728
+Virginia,Alleghany,3.6,Percent,51005,2733
+Virginia,Amelia,3.6,Percent,51007,2741
+Virginia,Amherst,3.6,Percent,51009,2746
+Virginia,Appomattox,3.6,Percent,51011,2749
+Virginia,Arlington,3.6,Percent,51013,2753
+Virginia,Augusta,3.6,Percent,51015,2758
+Virginia,Bath,3.6,Percent,51017,2763
+Virginia,Bedford County,3.6,Percent,51019,2769
+Virginia,Bland,3.6,Percent,51021,2772
+Virginia,Botetourt,3.6,Percent,51023,2776
+Virginia,Brunswick,3.6,Percent,51025,2777
+Virginia,Buchanan,3.6,Percent,51027,2784
+Virginia,Buckingham,3.6,Percent,51029,2785
+Virginia,Campbell,3.6,Percent,51031,2788
+Virginia,Caroline,3.6,Percent,51033,2793
+Virginia,Carroll,3.6,Percent,51035,2797
+Virginia,Charles City,3.6,Percent,51036,2806
+Virginia,Charlotte,3.6,Percent,51037,2810
+Virginia,Chesterfield,3.6,Percent,51041,2816
+Virginia,Clarke,3.6,Percent,51043,2819
+Virginia,Craig,3.6,Percent,51045,2820
+Virginia,Culpeper,3.6,Percent,51047,2824
+Virginia,Cumberland,3.6,Percent,51049,2827
+Virginia,Dickenson,3.6,Percent,51051,2832
+Virginia,Dinwiddie,3.6,Percent,51053,2838
+Virginia,Essex,3.6,Percent,51057,2842
+Virginia,Fairfax County,3.6,Percent,51059,2849
+Virginia,Fauquier,3.6,Percent,51061,2853
+Virginia,Floyd,3.6,Percent,51063,2856
+Virginia,Fluvanna,3.6,Percent,51065,2858
+Virginia,Franklin County,3.6,Percent,51067,2862
+Virginia,Frederick,3.6,Percent,51069,2868
+Virginia,Giles,3.6,Percent,51071,2873
+Virginia,Gloucester,3.6,Percent,51073,2887
+Virginia,Goochland,3.6,Percent,51075,2892
+Virginia,Grayson,3.6,Percent,51077,2896
+Virginia,Greene,3.6,Percent,51079,2899
+Virginia,Greensville,3.6,Percent,51081,2902
+Virginia,Halifax,3.6,Percent,51083,2904
+Virginia,Hanover,3.6,Percent,51085,2909
+Virginia,Henrico,3.6,Percent,51087,2915
+Virginia,Henry,3.6,Percent,51089,2918
+Virginia,Highland,3.6,Percent,51091,2920
+Virginia,Isle of Wight,3.6,Percent,51093,2925
+Virginia,James City,3.6,Percent,51095,2930
+Virginia,King and Queen,3.6,Percent,51097,2936
+Virginia,King George,3.6,Percent,51099,2938
+Virginia,King William,3.6,Percent,51101,2943
+Virginia,Lancaster,3.6,Percent,51103,2948
+Virginia,Lee,3.6,Percent,51105,2950
+Virginia,Loudoun,3.6,Percent,51107,2952
+Virginia,Louisa,3.6,Percent,51109,2953
+Virginia,Lunenburg,3.6,Percent,51111,2954
+Virginia,Madison,3.6,Percent,51113,2955
+Virginia,Mathews,3.6,Percent,51115,2962
+Virginia,Mecklenburg,3.6,Percent,51117,2964
+Virginia,Middlesex,3.6,Percent,51119,2965
+Virginia,Montgomery,3.6,Percent,51121,2966
+Virginia,Nelson,3.6,Percent,51125,2968
+Virginia,New Kent,3.6,Percent,51127,2971
+Virginia,Northampton,3.6,Percent,51131,2982
+Virginia,Northumberland,3.6,Percent,51133,2983
+Virginia,Nottoway,3.6,Percent,51135,2984
+Virginia,Orange,3.6,Percent,51137,2985
+Virginia,Page,3.6,Percent,51139,2986
+Virginia,Patrick,3.6,Percent,51141,2987
+Virginia,Pittsylvania,3.6,Percent,51143,2988
+Virginia,Powhatan,3.6,Percent,51145,2989
+Virginia,Prince Edward,3.6,Percent,51147,2990
+Virginia,Prince George,3.6,Percent,51149,2991
+Virginia,Prince William,3.6,Percent,51153,2992
+Virginia,Pulaski,3.6,Percent,51155,2993
+Virginia,Rappahannock,3.6,Percent,51157,2994
+Virginia,Richmond County,3.6,Percent,51159,2995
+Virginia,Roanoke County,3.6,Percent,51161,2996
+Virginia,Rockbridge,3.6,Percent,51163,2997
+Virginia,Rockingham,3.6,Percent,51165,2998
+Virginia,Russell,3.6,Percent,51167,2999
+Virginia,Scott,3.6,Percent,51169,2585
+Virginia,Shenandoah,3.6,Percent,51171,2594
+Virginia,Smyth,3.6,Percent,51173,2600
+Virginia,Southampton,3.6,Percent,51175,2608
+Virginia,Spotsylvania,3.6,Percent,51177,2619
+Virginia,Stafford,3.6,Percent,51179,2629
+Virginia,Surry,3.6,Percent,51181,2636
+Virginia,Sussex,3.6,Percent,51183,2647
+Virginia,Tazewell,3.6,Percent,51185,2656
+Virginia,Warren,3.6,Percent,51187,2662
+Virginia,Washington,3.6,Percent,51191,2667
+Virginia,Westmoreland,3.6,Percent,51193,2684
+Virginia,Wise,3.6,Percent,51195,2695
+Virginia,Wythe,3.6,Percent,51197,2699
+Virginia,York,3.6,Percent,51199,2709
+Virginia,Alexandria,3.6,Percent,51510,2712
+Virginia,Bedford City,3.6,Percent,51515,2713
+Virginia,Bristol,3.6,Percent,51520,2716
+Virginia,Buena Vista,3.6,Percent,51530,2720
+Virginia,Charlottesville,3.6,Percent,51540,2722
+Virginia,Chesapeake,3.6,Percent,51550,2724
+Virginia,Colonial Heights,3.6,Percent,51570,2727
+Virginia,Covington,3.6,Percent,51580,2729
+Virginia,Danville,3.6,Percent,51590,2732
+Virginia,Emporia,3.6,Percent,51595,2736
+Virginia,Fairfax City,3.6,Percent,51600,2737
+Virginia,Falls Church,3.6,Percent,51610,2740
+Virginia,Franklin City,3.6,Percent,51620,2744
+Virginia,Fredericksburg,3.6,Percent,51630,2745
+Virginia,Galax,3.6,Percent,51640,2747
+Virginia,Hampton,3.6,Percent,51650,2751
+Virginia,Harrisonburg,3.6,Percent,51660,2755
+Virginia,Hopewell,3.6,Percent,51670,2756
+Virginia,Lexington,3.6,Percent,51678,2760
+Virginia,Lynchburg,3.6,Percent,51680,2762
+Virginia,Manassas,3.6,Percent,51683,2765
+Virginia,Manassas Park,3.6,Percent,51685,2768
+Virginia,Martinsville,3.6,Percent,51690,2771
+Virginia,Newport News,3.6,Percent,51700,2775
+Virginia,Norfolk,3.6,Percent,51710,2778
+Virginia,Norton,3.6,Percent,51720,2780
+Virginia,Petersburg,3.6,Percent,51730,2782
+Virginia,Poquoson,3.6,Percent,51735,2791
+Virginia,Portsmouth,3.6,Percent,51740,2795
+Virginia,Radford,3.6,Percent,51750,2799
+Virginia,Richmond City,3.6,Percent,51760,2802
+Virginia,Roanoke City,3.6,Percent,51770,2805
+Virginia,Salem,3.6,Percent,51775,2809
+Virginia,Staunton,3.6,Percent,51790,2812
+Virginia,Suffolk,3.6,Percent,51800,2815
+Virginia,Virginia Beach,3.6,Percent,51810,2826
+Virginia,Waynesboro,3.6,Percent,51820,2831
+Virginia,Williamsburg,3.6,Percent,51830,2835
+Virginia,Winchester,3.6,Percent,51840,2837
+Washington,Adams,4.1,Percent,53001,2840
+Washington,Asotin,4.1,Percent,53003,2845
+Washington,Benton,4.1,Percent,53005,2847
+Washington,Chelan,4.1,Percent,53007,2852
+Washington,Clallam,4.1,Percent,53009,2861
+Washington,Clark,4.1,Percent,53011,2865
+Washington,Columbia,4.1,Percent,53013,2869
+Washington,Cowlitz,4.1,Percent,53015,2871
+Washington,Douglas,4.1,Percent,53017,2877
+Washington,Ferry,4.1,Percent,53019,2880
+Washington,Franklin,4.1,Percent,53021,2884
+Washington,Garfield,4.1,Percent,53023,2886
+Washington,Grant,4.1,Percent,53025,2889
+Washington,Grays Harbor,4.1,Percent,53027,2894
+Washington,Island,4.1,Percent,53029,2898
+Washington,Jefferson,4.1,Percent,53031,2905
+Washington,King,4.1,Percent,53033,2913
+Washington,Kitsap,4.1,Percent,53035,2927
+Washington,Kittitas,4.1,Percent,53037,2932
+Washington,Klickitat,4.1,Percent,53039,2935
+Washington,Lewis,4.1,Percent,53041,2940
+Washington,Lincoln,4.1,Percent,53043,2942
+Washington,Mason,4.1,Percent,53045,2946
+Washington,Okanogan,4.1,Percent,53047,2947
+Washington,Pacific,4.1,Percent,53049,2949
+Washington,Pend Oreille,4.1,Percent,53051,2951
+Washington,Pierce,4.1,Percent,53053,2956
+Washington,San Juan,4.1,Percent,53055,2957
+Washington,Skagit,4.1,Percent,53057,2958
+Washington,Skamania,4.1,Percent,53059,2959
+Washington,Snohomish,4.1,Percent,53061,2960
+Washington,Spokane,4.1,Percent,53063,2961
+Washington,Stevens,4.1,Percent,53065,2963
+Washington,Thurston,4.1,Percent,53067,2967
+Washington,Wahkiakum,4.1,Percent,53069,2969
+Washington,Walla Walla,4.1,Percent,53071,2970
+Washington,Whatcom,4.1,Percent,53073,2972
+Washington,Whitman,4.1,Percent,53075,2973
+Washington,Yakima,4.1,Percent,53077,2974
+West Virginia,Barbour,3.8,Percent,54001,2975
+West Virginia,Berkeley,3.8,Percent,54003,2976
+West Virginia,Boone,3.8,Percent,54005,2977
+West Virginia,Braxton,3.8,Percent,54007,2978
+West Virginia,Brooke,3.8,Percent,54009,2979
+West Virginia,Cabell,3.8,Percent,54011,2980
+West Virginia,Calhoun,3.8,Percent,54013,2981
+West Virginia,Clay,3.8,Percent,54015,3000
+West Virginia,Doddridge,3.8,Percent,54017,3002
+West Virginia,Fayette,3.8,Percent,54019,3006
+West Virginia,Gilmer,3.8,Percent,54021,3008
+West Virginia,Grant,3.8,Percent,54023,3011
+West Virginia,Greenbrier,3.8,Percent,54025,3013
+West Virginia,Hampshire,3.8,Percent,54027,3016
+West Virginia,Hancock,3.8,Percent,54029,3017
+West Virginia,Hardy,3.8,Percent,54031,3019
+West Virginia,Harrison,3.8,Percent,54033,3021
+West Virginia,Jackson,3.8,Percent,54035,3023
+West Virginia,Jefferson,3.8,Percent,54037,3026
+West Virginia,Kanawha,3.8,Percent,54039,3027
+West Virginia,Lewis,3.8,Percent,54041,3029
+West Virginia,Lincoln,3.8,Percent,54043,3031
+West Virginia,Logan,3.8,Percent,54045,3034
+West Virginia,McDowell,3.8,Percent,54047,3037
+West Virginia,Marion,3.8,Percent,54049,3039
+West Virginia,Marshall,3.8,Percent,54051,3041
+West Virginia,Mason,3.8,Percent,54053,3042
+West Virginia,Mercer,3.8,Percent,54055,3044
+West Virginia,Mineral,3.8,Percent,54057,3046
+West Virginia,Mingo,3.8,Percent,54059,3048
+West Virginia,Monongalia,3.8,Percent,54061,3050
+West Virginia,Monroe,3.8,Percent,54063,3052
+West Virginia,Morgan,3.8,Percent,54065,3054
+West Virginia,Nicholas,3.8,Percent,54067,3057
+West Virginia,Ohio,3.8,Percent,54069,3059
+West Virginia,Pendleton,3.8,Percent,54071,3061
+West Virginia,Pleasants,3.8,Percent,54073,3064
+West Virginia,Pocahontas,3.8,Percent,54075,3066
+West Virginia,Preston,3.8,Percent,54077,3068
+West Virginia,Putnam,3.8,Percent,54079,3070
+West Virginia,Raleigh,3.8,Percent,54081,3073
+West Virginia,Randolph,3.8,Percent,54083,3075
+West Virginia,Ritchie,3.8,Percent,54085,3077
+West Virginia,Roane,3.8,Percent,54087,3079
+West Virginia,Summers,3.8,Percent,54089,3080
+West Virginia,Taylor,3.8,Percent,54091,3082
+West Virginia,Tucker,3.8,Percent,54093,3084
+West Virginia,Tyler,3.8,Percent,54095,3085
+West Virginia,Upshur,3.8,Percent,54097,3087
+West Virginia,Wayne,3.8,Percent,54099,3089
+West Virginia,Webster,3.8,Percent,54101,3091
+West Virginia,Wetzel,3.8,Percent,54103,3093
+West Virginia,Wirt,3.8,Percent,54105,3095
+West Virginia,Wood,3.8,Percent,54107,3097
+West Virginia,Wyoming,3.8,Percent,54109,3099
+Wisconsin,Adams,6.2,Percent,55001,3101
+Wisconsin,Ashland,6.2,Percent,55003,3104
+Wisconsin,Barron,6.2,Percent,55005,3106
+Wisconsin,Bayfield,6.2,Percent,55007,3108
+Wisconsin,Brown,6.2,Percent,55009,3111
+Wisconsin,Buffalo,6.2,Percent,55011,3113
+Wisconsin,Burnett,6.2,Percent,55013,3115
+Wisconsin,Calumet,6.2,Percent,55015,3116
+Wisconsin,Chippewa,6.2,Percent,55017,3117
+Wisconsin,Clark,6.2,Percent,55019,3119
+Wisconsin,Columbia,6.2,Percent,55021,3120
+Wisconsin,Crawford,6.2,Percent,55023,3122
+Wisconsin,Dane,6.2,Percent,55025,3124
+Wisconsin,Dodge,6.2,Percent,55027,3126
+Wisconsin,Door,6.2,Percent,55029,3131
+Wisconsin,Douglas,6.2,Percent,55031,3134
+Wisconsin,Dunn,6.2,Percent,55033,3135
+Wisconsin,Eau Claire,6.2,Percent,55035,3137
+Wisconsin,Florence,6.2,Percent,55037,3138
+Wisconsin,Fond du Lac,6.2,Percent,55039,3140
+Wisconsin,Forest,6.2,Percent,55041,3141
+Wisconsin,Grant,6.2,Percent,55043,3143
+Wisconsin,Green,6.2,Percent,55045,3145
+Wisconsin,Green Lake,6.2,Percent,55047,3147
+Wisconsin,Iowa,6.2,Percent,55049,3148
+Wisconsin,Iron,6.2,Percent,55051,3151
+Wisconsin,Jackson,6.2,Percent,55053,3153
+Wisconsin,Jefferson,6.2,Percent,55055,3154
+Wisconsin,Juneau,6.2,Percent,55057,3156
+Wisconsin,Kenosha,6.2,Percent,55059,3158
+Wisconsin,Kewaunee,6.2,Percent,55061,3160
+Wisconsin,La Crosse,6.2,Percent,55063,3161
+Wisconsin,Lafayette,6.2,Percent,55065,3163
+Wisconsin,Langlade,6.2,Percent,55067,3165
+Wisconsin,Lincoln,6.2,Percent,55069,3166
+Wisconsin,Manitowoc,6.2,Percent,55071,3169
+Wisconsin,Marathon,6.2,Percent,55073,3170
+Wisconsin,Marinette,6.2,Percent,55075,3172
+Wisconsin,Marquette,6.2,Percent,55077,3174
+Wisconsin,Menominee,6.2,Percent,55078,3175
+Wisconsin,Milwaukee,6.2,Percent,55079,3177
+Wisconsin,Monroe,6.2,Percent,55081,3179
+Wisconsin,Oconto,6.2,Percent,55083,3181
+Wisconsin,Oneida,6.2,Percent,55085,3183
+Wisconsin,Outagamie,6.2,Percent,55087,3185
+Wisconsin,Ozaukee,6.2,Percent,55089,3186
+Wisconsin,Pepin,6.2,Percent,55091,3188
+Wisconsin,Pierce,6.2,Percent,55093,3189
+Wisconsin,Polk,6.2,Percent,55095,3191
+Wisconsin,Portage,6.2,Percent,55097,3192
+Wisconsin,Price,6.2,Percent,55099,3194
+Wisconsin,Racine,6.2,Percent,55101,3195
+Wisconsin,Richland,6.2,Percent,55103,3196
+Wisconsin,Rock,6.2,Percent,55105,3198
+Wisconsin,Rusk,6.2,Percent,55107,3199
+Wisconsin,St. Croix,6.2,Percent,55109,3200
+Wisconsin,Sauk,6.2,Percent,55111,3202
+Wisconsin,Sawyer,6.2,Percent,55113,3203
+Wisconsin,Shawano,6.2,Percent,55115,3205
+Wisconsin,Sheboygan,6.2,Percent,55117,3207
+Wisconsin,Taylor,6.2,Percent,55119,3208
+Wisconsin,Trempealeau,6.2,Percent,55121,3210
+Wisconsin,Vernon,6.2,Percent,55123,3213
+Wisconsin,Vilas,6.2,Percent,55125,3001
+Wisconsin,Walworth,6.2,Percent,55127,3003
+Wisconsin,Washburn,6.2,Percent,55129,3004
+Wisconsin,Washington,6.2,Percent,55131,3005
+Wisconsin,Waukesha,6.2,Percent,55133,3007
+Wisconsin,Waupaca,6.2,Percent,55135,3009
+Wisconsin,Waushara,6.2,Percent,55137,3010
+Wisconsin,Winnebago,6.2,Percent,55139,3012
+Wisconsin,Wood,6.2,Percent,55141,3014
+Wyoming,Albany,5.1,Percent,56001,3015
+Wyoming,Big Horn,5.1,Percent,56003,3018
+Wyoming,Campbell,5.1,Percent,56005,3020
+Wyoming,Carbon,5.1,Percent,56007,3022
+Wyoming,Converse,5.1,Percent,56009,3024
+Wyoming,Crook,5.1,Percent,56011,3025
+Wyoming,Fremont,5.1,Percent,56013,3028
+Wyoming,Goshen,5.1,Percent,56015,3030
+Wyoming,Hot Springs,5.1,Percent,56017,3032
+Wyoming,Johnson,5.1,Percent,56019,3033
+Wyoming,Laramie,5.1,Percent,56021,3035
+Wyoming,Lincoln,5.1,Percent,56023,3036
+Wyoming,Natrona,5.1,Percent,56025,3038
+Wyoming,Niobrara,5.1,Percent,56027,3040
+Wyoming,Park,5.1,Percent,56029,3043
+Wyoming,Platte,5.1,Percent,56031,3045
+Wyoming,Sheridan,5.1,Percent,56033,3047
+Wyoming,Sublette,5.1,Percent,56035,3049
+Wyoming,Sweetwater,5.1,Percent,56037,3051
+Wyoming,Teton,5.1,Percent,56039,3053
+Wyoming,Uinta,5.1,Percent,56041,3055
+Wyoming,Washakie,5.1,Percent,56043,3056
+Wyoming,Weston,5.1,Percent,56045,3058
